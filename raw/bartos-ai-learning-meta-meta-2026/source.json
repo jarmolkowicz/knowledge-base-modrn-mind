@@ -58,6 +58,14 @@
       "date": "2026-09-26",
       "by": "Codex librarian; user-approved priority corrections",
       "reason": "A03/A04: positive model-specific estimate; no mechanism inferred from bias adjustment; educational levels not individual skill comparisons. Approval: Make priority corrections. Drafted, three-lens self-critiqued and validated in local batch kb-priority-corrections-2026-09-26. Historical decisions and original files preserved."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved six high-priority fixes",
+      "batch": "kb-audit-corrections-2026-09-26",
+      "reason": "A03: removed residual umbrella-null and cognitive-mechanism claims from Cognitive Debt, Metacognitive Laziness, Lee and Hermann; retained positive adjusted estimate. Drafted, three-lens self-critiqued and validated. Original files and historical decisions preserved."
     }
   ],
   "pages": 43

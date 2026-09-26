@@ -31,6 +31,14 @@
       "stage": "integrate",
       "outcome": "INTEGRATED",
       "date": "2026-04-29"
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved six high-priority fixes",
+      "batch": "kb-audit-corrections-2026-09-26",
+      "reason": "A25/A26 propagation only: removed false semester-versus-minutes timeline and shared task-general mechanism claims. Drafted, three-lens self-critiqued and validated. Original files and historical decisions preserved."
     }
   ],
   "pages": 29

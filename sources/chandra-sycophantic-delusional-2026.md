@@ -81,7 +81,7 @@ The paper also provides the formal anchor for a NEW concept entry: [[delusional-
 - Extends [[cheng-sycophantic-prosocial-2025]] — Cheng et al. measured behavioral harm in single sessions. Chandra et al. provide the iteration mechanism that explains why such harms could deepen with repeated interaction. Together they form a static-mechanism / dynamic-mechanism / behavioral-outcome triangle.
 - Extends [[guingrich-belief-offloading-2026]] — Guingrich et al.'s C1 condition (uptake can occur even with subjective autonomy) gets a formal demonstration: a level-3 user with fully accurate knowledge of the bot's strategy still has her belief offloaded.
 - Aligns with [[parasuraman-riley-automation-1997]] — automation bias persists even with operator awareness; Chandra's level-3 result is the formal Bayesian analogue.
-- Aligns with [[fan-metacognitive-laziness-2025]] / [[bastani-guardrails-math-rct-2025]] — both empirically show that users with awareness of AI limitations still over-rely. Chandra provides theoretical support: even an ideal reasoner over-relies under sycophancy.
+- Related to [[fan-metacognitive-laziness-2025]] and [[bastani-guardrails-math-rct-2025]]: these learning studies examine task regulation and assisted-unaided outcomes. They do not jointly establish overreliance despite awareness or validate Chandra's model in learners.
 
 ## Open Questions
 

@@ -36,3 +36,9 @@
 - Ran sync-source-links.py (updated reflective-inquiry-design), build-index.py, update_readme_counts.py (methods 14→15, sources 78→79, total 156→158).
 - Appended KB-wide log.md. status=integrated.
 - Cleanup: drafts/ removed entirely (no update evidence to retain).
+
+## 2026-09-26 — six-group audit correction integrated
+
+- A25/A26 propagation only: source experiments do not validate a general staged-guardrail design or the proposed Bloom mechanism.
+- Approval: Fix; Six high-priority groups only. Batch: kb-audit-corrections-2026-09-26.
+- Three-lens self-review and draft gate passed. This is a scoped correction, not complete re-review of unchanged claims. Original files and prior decisions preserved.

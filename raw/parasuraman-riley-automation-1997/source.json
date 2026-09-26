@@ -23,6 +23,14 @@
       "by": "tooling/scripts/extract.py --reextract",
       "at": "2026-04-29T19:26:17Z",
       "reason": "Re-extracted with ocr (was failed). source.md replaced; lifecycle state preserved."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved six high-priority fixes",
+      "batch": "kb-audit-corrections-2026-09-26",
+      "reason": "A23 propagation only: corrected Hohenstein incoming link to AI absorbing some blame, not the human. Drafted, three-lens self-critiqued and validated. Original files and historical decisions preserved."
     }
   ],
   "pages": 12

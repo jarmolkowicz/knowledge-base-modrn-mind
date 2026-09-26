@@ -30,6 +30,14 @@
       "by": "human (Pass 2 batch 7)",
       "at": "2026-04-29T15:47:18Z",
       "reason": "Re-distilled inline. Added Key Passages with locators, expanded Key Insight, supports wikilinks."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved six high-priority fixes",
+      "batch": "kb-audit-corrections-2026-09-26",
+      "reason": "A23: corrected blame comparator, sample/design and disclosure interpretation; separated short-term trust/attribution from lasting relationship effects. Drafted, three-lens self-critiqued and validated. Original files and historical decisions preserved."
     }
   ],
   "pages": 31

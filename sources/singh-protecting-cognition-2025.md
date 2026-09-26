@@ -79,8 +79,8 @@ Dead-center on the KB's erosion/preservation mission, but a **secondary** source
 
 ## Contradicts / Extends
 
-- Extends: [[fan-metacognitive-laziness-2025]] — Fan et al. supply the empirical phenomenon; Singh et al. supply a Bloom's-taxonomy account of the mechanism and a Dewey-based design response.
-- Aligns with: [[bastani-guardrails-math-rct-2025]] and [[passalacqua-less-ai-2024]] — both show that constraining or reducing AI in learning protects capability; Singh et al. generalize this into a staged-guardrail design principle.
+- Extends [[fan-metacognitive-laziness-2025]] with a proposed Bloom's-taxonomy interpretation and design response. Fan's task-process evidence does not itself validate that explanation or intervention.
+- Related to [[bastani-guardrails-math-rct-2025]] and [[passalacqua-less-ai-2024]]: specific designs motivate questions about preserving learning. Bastani tested a combined Tutor package with no detectable same-session exam difference from control, not a general staged-guardrail intervention or durable protection.
 - No contradictions. As a synthesis it echoes rather than challenges existing sources; its one distinctive move is the framework overlay, not a disputed empirical claim.
 
 ## Open Questions

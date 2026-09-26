@@ -45,6 +45,14 @@
       "outcome": "INTEGRATED",
       "date": "2026-04-30",
       "reason": "sources/chandra-sycophantic-delusional-2026.md created; concepts/delusional-spiraling.md created (status: emerging); UPDATEs applied to concepts/sycophancy.md, concepts/borrowed-certainty.md, concepts/belief-offloading.md (frontmatter source added; body paragraph added; Related and Sources updated). sync-source-links.py + build-index.py + update_readme_counts.py all run. KB root log.md appended. drafts/updates/ retained as evidence trail; drafts/concepts/ removed (empty)."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved six high-priority fixes",
+      "batch": "kb-audit-corrections-2026-09-26",
+      "reason": "A25/A26 propagation only: learning findings do not jointly prove awareness-resistant overreliance or validate Chandra's model. Drafted, three-lens self-critiqued and validated. Original files and historical decisions preserved."
     }
   ],
   "pages": 8

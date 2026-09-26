@@ -16,3 +16,9 @@
 - critiqued: READY (all 8 drafts pass all 3 lenses; AI-failure checklist clean)
 - validated: Stage 4.5 caught 1 missing_related (moral-crumple-zone in source distillation Contradicts/Extends section); fixed; second-pass clean
 - integrated: source distillation → sources/sharma-disempowerment-patterns-2026.md; new concept → concepts/situational-disempowerment.md; 6 UPDATEs applied to existing concept entries (frontmatter sources, body additions, Related-section links, Sources lists). sync-source-links.py + build-index.py + update_readme_counts.py run successfully. KB total 125→127 (61→62 sources, 53→54 concepts, 11 methods unchanged).
+
+## 2026-09-26 — six-group audit correction integrated
+
+- A23 propagation only: corrected blame direction and separated action-distortion examples from Hohenstein's attribution measure.
+- Approval: Fix; Six high-priority groups only. Batch: kb-audit-corrections-2026-09-26.
+- Three-lens self-review and draft gate passed. This is a scoped correction, not complete re-review of unchanged claims. Original files and prior decisions preserved.

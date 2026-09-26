@@ -29,3 +29,9 @@
 - Kept drafts/updates/ as evidence trail; no concepts/ or methods/ subdirs created (no NEW entries).
 - Ran sync-source-links.py, build-index.py, update_readme_counts.py (sources 70→71, total 139→140).
 - Appended KB-root log.md entry.
+
+## 2026-09-26 — six-group audit correction integrated
+
+- A03/A26 propagation only: corrected umbrella-null references and distinguished self-report associations from experimental process/learning outcomes.
+- Approval: Fix; Six high-priority groups only. Batch: kb-audit-corrections-2026-09-26.
+- Three-lens self-review and draft gate passed. This is a scoped correction, not complete re-review of unchanged claims. Original files and prior decisions preserved.

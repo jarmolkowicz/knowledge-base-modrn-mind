@@ -13,24 +13,22 @@ The ability to recognize deep structural similarities between different domains 
 
 ## Why It Matters
 
-AI shows growing but uneven capability in analogical reasoning. Current models tend to favor surface-level pattern matching over deep structural analogy — recognizing that a business negotiation shares the structure of a chess endgame, or that a biological ecosystem maps onto a software architecture. This kind of reasoning drives breakthroughs: most major innovations involve cross-domain transfer.
+Analogies can help people reason about unfamiliar problems through relationships learned elsewhere. Surface resemblance alone can be misleading: similar objects may play different roles.
 
-When professionals rely on AI for ideation, they exercise analogical reasoning less. The risk is losing the capacity for the kind of novel connections that AI handles inconsistently at best.
+[Inference] For AI-assisted work, this suggests checking whether a proposed analogy preserves the relevant relationships. Gentner & Markman (1997) did not compare modern LLMs with humans or test whether AI use changes human reasoning ability.
 
 ## Key Insight
 
-Gentner & Markman (1997) distinguish two modes of similarity:
-- **Surface similarity**: Shared features (what AI does well — "this text looks like that text")
-- **Structural similarity**: Shared relational patterns (what humans do — "this system behaves like that system")
+Gentner & Markman (1997) propose that analogy and similarity share structural alignment and mapping processes, with different proportions of relational and attribute matches. Their cross-mapping example shows how relational roles can take precedence over identical surface features.
 
-Genuine insight typically comes from structural mapping between distant domains. Over-reliance on AI suggestions narrows the search space to surface-level associations from training data.
+A mapped relationship can suggest a new inference, but the inference still needs an independent factual check. This is not a division in which AI does only surface matching and humans alone perform structural reasoning.
 
 ## Related
 
 - [[metacognition]] - recognizing which type of reasoning you're using
 - [[embodied-cognition]] - lived experience feeds cross-domain connections
-- [[creativity-diversity-paradox]] - AI narrows the diversity of analogical sources
-- [[strategic-alternation]] - unassisted work exercises analogical reasoning
+- [[creativity-diversity-paradox]] - separate evidence about output diversity, not a direct test of analogy
+- [[strategic-alternation]] - proposed practice design; not tested by the 1997 theory
 
 ## Sources
 

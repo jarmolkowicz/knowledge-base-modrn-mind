@@ -74,7 +74,7 @@ The conceptual scaffolding for almost everything in the KB about over-trust and 
 - [[scan]] — task-zone classification builds on the use-decision factors named here
 - [[upskilling-deskilling-paradox]] — the abuse→misuse cascade is the structural mechanism
 - [[goddard-automation-bias-2012]] — direct empirical follow-up in clinical decision support
-- [[hohenstein-crumple-zone-2020]] — the moral version of the abuse pattern (operators absorbing blame for designer/manager choices)
+- [[hohenstein-crumple-zone-2020]] - a different attribution pattern: AI absorbs some blame otherwise assigned to a human communicator
 - [[bauer-discontinuing-ml-2022]] — disuse in modern ML deployment
 - [[jagged-frontier]] — modern restatement of the automation-bias mechanism
 

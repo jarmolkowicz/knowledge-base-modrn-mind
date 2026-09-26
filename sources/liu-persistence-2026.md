@@ -34,7 +34,7 @@ The most striking aspect: **effects emerge after just 10–15 minutes of AI expo
 
 The proposed mechanism: AI use teaches that persisting through difficulty is unnecessary because immediate help is always available. When help is removed, the trained expectation persists — but now as frustration and disengagement rather than as continued effort.
 
-For human thinking with AI: this is the cleanest evidence to date that **brief, casual AI use is enough to shift learning-relevant dispositions**. It compresses Bastani et al.'s semester-long high-school finding to a 10-minute lab effect, and adds the persistence dimension that previous studies didn't measure. It strengthens the [[performance-paradox]] (now: not just performance gain/learning loss but also persistence loss) and operationalizes a previously-underspecified component of [[capacity-erosion]].
+For human thinking with AI: this is the cleanest evidence to date that **brief, casual AI use is enough to shift learning-relevant dispositions**. Bastani et al. measured same-session unaided mathematics performance, not delayed semester-long harm. Liu's persistence outcome concerns a different construct; it is not a faster measurement of the same effect. It strengthens the [[performance-paradox]] (now: not just performance gain/learning loss but also persistence loss) and operationalizes a previously-underspecified component of [[capacity-erosion]].
 
 ## Key Passages
 
@@ -57,7 +57,7 @@ For human thinking with AI: this is the cleanest evidence to date that **brief, 
 
 The strongest brief-exposure RCT in the KB. Three load-bearing contributions:
 
-- **Compresses the timeline.** Bastani et al. measured harm over a semester; Fan et al. measured it within a single writing task. Liu et al. show measurable harm after **10 minutes**. This timeline matters for design: protective interventions can't be slow or season-bound; they must fire within a single session.
+- **Different short-term outcomes.** Bastani measured same-session unaided exam performance; Fan found no significant group difference in knowledge gain or transfer despite better essay revision. Liu's persistence results should not be presented as showing that the same harm occurs faster.
 - **Adds persistence as a measured outcome.** Most prior performance-paradox studies measured task scores. Liu et al. measure *give-up frequency* — a behavioral marker of motivational/dispositional change, not just skill change. This is closer to what worried-parents, educators, and managers actually fear.
 - **Names the misalignment.** "Short-sighted collaborator" frames AI's never-refuse behavior as a *design choice* with measured costs, not a neutral feature. This reframes the design problem: training objectives that optimize for immediate satisfaction are *implicitly* optimizing against long-term competence.
 
@@ -74,8 +74,8 @@ The strongest brief-exposure RCT in the KB. Three load-bearing contributions:
 
 ## Contradicts / Extends
 
-- Compresses [[bastani-guardrails-math-rct-2025]] — Bastani showed semester-long harm in math; Liu replicates the pattern in math AND reading at 10-minute exposure. The harm is faster than Bastani's design could detect.
-- Aligns with [[fan-metacognitive-laziness-2025]] — Fan showed metacognitive laziness within a writing task; Liu shows give-up behavior across math/reading. Both establish that the problem is task-class-general, not domain-specific.
+- Related to [[bastani-guardrails-math-rct-2025]]: both concern short-term assisted-unaided sequences, but persistence and exam performance are distinct outcomes.
+- Related to [[fan-metacognitive-laziness-2025]]: Fan's writing-process measures and Liu's persistence outcomes concern different tasks and constructs. They do not establish a task-general mechanism.
 - Aligns with [[shaw-cognitive-surrender-2026]] and the broader [[cognitive-surrender]] concept — Shaw measured one-shot cognitive surrender; Liu measures persistence loss across tasks. Surrender on one task → reduced willingness to try the next.
 
 ## Open Questions

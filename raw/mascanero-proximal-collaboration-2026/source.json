@@ -10,10 +10,38 @@
   "status": "integrated",
   "ingested_at": "2026-04-29T20:00:18Z",
   "decisions": [
-    {"stage": "triage", "outcome": "INCLUDE", "date": "2026-04-29", "reason": "Relevance=HIGH, Quality=HIGH (experimental study N=221, CHB Reports 2026). Distributed Cognition framing of proximal collaboration as distinct construct."},
-    {"stage": "distill", "outcome": "PROCEED_TO_INTEGRATE", "date": "2026-04-29", "reason": "Source distillation only; no NEW concepts (proximal-collaboration construct held for second-source corroboration)."},
-    {"stage": "validated", "outcome": "READY", "date": "2026-04-29", "reason": "validate_drafts.py: 0 findings. All wikilinks resolve, frontmatter clean, slug-year matches source."},
-    {"stage": "integrate", "outcome": "INTEGRATED", "date": "2026-04-29", "reason": "sources/mascanero-proximal-collaboration-2026.md created."}
+    {
+      "stage": "triage",
+      "outcome": "INCLUDE",
+      "date": "2026-04-29",
+      "reason": "Relevance=HIGH, Quality=HIGH (experimental study N=221, CHB Reports 2026). Distributed Cognition framing of proximal collaboration as distinct construct."
+    },
+    {
+      "stage": "distill",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-04-29",
+      "reason": "Source distillation only; no NEW concepts (proximal-collaboration construct held for second-source corroboration)."
+    },
+    {
+      "stage": "validated",
+      "outcome": "READY",
+      "date": "2026-04-29",
+      "reason": "validate_drafts.py: 0 findings. All wikilinks resolve, frontmatter clean, slug-year matches source."
+    },
+    {
+      "stage": "integrate",
+      "outcome": "INTEGRATED",
+      "date": "2026-04-29",
+      "reason": "sources/mascanero-proximal-collaboration-2026.md created."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved six high-priority fixes",
+      "batch": "kb-audit-corrections-2026-09-26",
+      "reason": "A23/A25/A26 propagation only: Hohenstein is interpersonal, not institutional proof; task regulation, learning and implementation are distinct outcomes. Drafted, three-lens self-critiqued and validated. Original files and historical decisions preserved."
+    }
   ],
   "pages": 10
 }

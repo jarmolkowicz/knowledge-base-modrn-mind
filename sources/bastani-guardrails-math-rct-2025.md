@@ -22,30 +22,20 @@ Paper (preregistered field RCT; ~1,000 students across 50 classrooms in a large 
 
 ## Key Insight
 
-Bastani et al. provide the strongest field-experimental evidence to date that **unfettered AI access can harm learning**, and that **prompt-level guardrails substantially mitigate the harm**. The core experiment compares three arms while students study math:
+In a preregistered classroom experiment, GPT Base improved assisted practice scores but reduced subsequent unaided exam scores relative to control. GPT Tutor produced larger assisted gains and no statistically detectable exam penalty or advantage.
 
-| Arm | Practice (assisted) vs. control | Exam (unassisted) vs. control |
+The study involved roughly 1,000 students in about 50 classes at one Turkish high school. Each of four 90-minute sessions included instruction, practice and an immediate unaided exam. These are short-term learning outcomes, not a delayed test of durable skill loss.
+
+| Arm | Assisted practice vs. control | Same-session unaided exam vs. control |
 |---|---|---|
-| **GPT Base** (vanilla ChatGPT-style) | **+48%** (p<0.01) | **−17%** (p<0.05) |
-| **GPT Tutor** (teacher-curated prompts) | **+127%** (p<0.01) | **−0.4%** (n.s., effectively zero) |
+| GPT Base | +48% relative (p<.01) | -17% relative (p<.05) |
+| GPT Tutor | +127% relative (p<.01) | -0.004 on the 0-1 score scale (SE .013); not significant |
 
-The structure of this result is the central finding: GPT Base produced large performance gains *while access was available* and a statistically significant performance *deficit* once it was removed. Students who had no AI at any point outperformed students who had AI during practice but not during the exam. The 17% deficit is the magnitude of the AI-induced learning harm under default deployment conditions.
+Tutor's -0.004 coefficient is -0.4 percentage points, not a relative -0.4% change. The control exam mean was 0.321. A nonsignificant contrast does not establish statistical equivalence or prove absence of harm.
 
-The paper's mechanism analysis distinguishes two pathways:
-1. **Hallucinations mislead learners.** GPT Base makes math errors at non-trivial rates (Fig. 2 documents per-problem error rates from repeated queries). Wrong answers from the tutor could degrade subsequent unassisted performance.
-2. **Crutch behavior.** Students treat AI as a way to bypass the learning, asking "What is the answer?" and copying solutions, missing the cognitive work that builds skills.
+GPT Tutor combined instructions to give hints rather than answers with teacher-provided correct solutions, common mistakes and feedback. The trial tested this package; it did not separately establish that both components were necessary.
 
-Two analyses (per-problem error-rate × subsequent performance correlation, plus message-classification of student↔AI exchanges) jointly support **crutch behavior as the dominant mechanism**. The hallucination pathway is real but secondary.
-
-GPT Tutor's design implements two specific guardrails:
-- **Solutions in the prompt** — eliminates hallucination-on-answer (the AI knows the right answer)
-- **Hint-not-answer behavior** — instructed to provide step-by-step guidance and refuse direct solutions; embedded with common student-mistake patterns and corresponding hint sequences
-
-Both are necessary: solutions-only would leave the crutch pathway open; hint-only without verified solutions would leave hallucination open. The field result shows these in combination essentially eliminate the learning deficit (point estimate −0.4%, statistically equivalent to control).
-
-The most striking secondary finding: **students did not perceive that they had learned less.** GPT Base students reported similar self-assessed learning to controls, and GPT Tutor students reported they had learned *more* — despite no exam-score advantage. Performance/learning dissociation is invisible to the learner. This adds an [[confidence-competence-gap]] dimension that compounds the structural harm: even if students wanted to self-correct, they have no internal signal that something is wrong.
-
-For human thinking with AI: this is the cleanest field-experimental case-study of the [[performance-paradox]] in the KB, with concrete effect sizes (-17%) and a clean intervention contrast (guardrails as a structural counter-measure). It also operationalizes the [[metacognitive-laziness]] mechanism Fan et al. (2025) demonstrated in lab conditions — the same pattern reproduces at field scale across nearly 1,000 students.
+Interaction analysis and error-rate comparisons support the authors' interpretation that using GPT Base as a crutch contributed to the exam deficit. This is not a separately randomized test isolating a single mediator. Self-reported learning did not track the exam pattern: GPT Base students rated learning similarly to controls, while GPT Tutor students rated it higher without a corresponding exam advantage. This cautions against relying on self-report alone, not against every learner's ability to self-correct.
 
 ## Key Passages
 
@@ -69,37 +59,35 @@ For human thinking with AI: this is the cleanest field-experimental case-study o
 
 ## Relevance
 
-The cleanest field-experimental case in the KB. Three load-bearing contributions:
-
-- **Quantifies the performance/learning dissociation.** +48% practice → −17% exam is a sharp effect-size contrast within a single experiment. Most prior evidence for the [[performance-paradox]] is either lab-scale (Fan et al. 2025) or qualitative; Bastani delivers the first large-scale field measurement of magnitude.
-- **Operationalizes guardrail design.** GPT Tutor's two-component design (curated solutions + hint-only prompting) is a concrete, replicable intervention pattern. This is what KB methods like [[think-first]] and [[scan]] aim at — Bastani provides field evidence that prompt-level structural design can eliminate the harm without sacrificing all of the AI's helpfulness.
-- **Documents the perception gap.** Students cannot tell they're learning less. This means [[strategic-alternation]] practices that rely on self-assessment ("am I understanding this?") will fail in this population. External assessment-design counter-measures matter more than learner-side metacognitive nudges when the learners are early in skill formation.
+- Distinguishes assisted practice performance from same-session unaided performance.
+- Provides a tested example of combined tutor design, not a universal guardrail guarantee.
+- Shows that reported learning and assessed learning can diverge.
+- [Inference] Unaided assessment may help evaluate an AI-supported learning design. This study did not test [[strategic-alternation]] or [[think-first]] as interventions.
 
 ## Supports
 
-- [[performance-paradox]] — the strongest empirical case in the KB
-- [[metacognitive-laziness]] — Bastani's field analogue of Fan et al.'s lab demonstration
-- [[novice-vulnerability]] — high-school math students are canonically novice; the harm distribution is broadly uniform, not concentrated in any subgroup
-- [[cognitive-offloading]] — "crutch behavior" is the operational signature
-- [[confidence-competence-gap]] — perception/performance mismatch on self-assessed learning
-- [[capacity-erosion]] — durable skill loss from a single semester's deployment
-- [[desirable-difficulty]] — Bjorks' framework explains why bypassing struggle in practice degrades exam performance
-- [[fluency-bias]] — AI's coherent answers feel like understanding
-- [[automation-bias]] — paper explicitly invokes the autopilot analogue (FAA recommended limiting autopilot use precisely to preserve pilot skill)
+- [[performance-paradox]] - a specific assisted-unaided dissociation
+- [[metacognitive-laziness]] - related interpretation, not replication of Fan's measures
+- [[novice-vulnerability]] - evidence from high-school mathematics, not all novice tasks
+- [[cognitive-offloading]] - solution copying is one observed interaction pattern
+- [[confidence-competence-gap]] - self-reported learning did not track assessed outcomes
+- [[capacity-erosion]] - raises longer-term questions; does not demonstrate durable loss
+- [[desirable-difficulty]] - related learning theory, not proof that all difficulty is useful
+- [[fluency-bias]] - not directly measured as a mediator here
+- [[automation-bias]] - an analogy discussed in the paper, not an identical experimental mechanism
 
 ## Contradicts / Extends
 
-- Aligns with [[fan-metacognitive-laziness-2025]] — Fan demonstrated metacognitive laziness in a 117-student lab task; Bastani replicates the pattern at ~1,000-student field scale across an entire curriculum unit.
-- Aligns with [[kosmyna-cognitive-debt-2025]] — Kosmyna et al. measured neural correlates (lower brain connectivity in LLM users); Bastani measures behavioural and performance correlates of the same phenomenon.
-- Anticipated by [[bjork-desirable-difficulties-2011]] — the Bjorks predicted that performance and learning dissociate when difficulty is removed; Bastani is a direct field test of that prediction in an AI context.
-- Aligns with [[parasuraman-riley-automation-1997]] — Bastani explicitly cites the autopilot literature: the FAA's recommendation to minimize autopilot use to preserve pilot skill is the classical analogue. Same vicious-circle logic, different substrate.
-- Modifies [[strategic-alternation]] — alternation alone may not work for novices because they cannot self-detect the dissociation. Structural counter-measures (guardrails, assessment design) become primary; alternation is supplementary.
-- The skill-gap-reduction-doesn't-persist finding extends [[dellacqua-jagged-frontier-2023]] and refines [[leveling-effect]] — Dell'Acqua found AI helps lower performers most while AI is present; Bastani shows the leveling effect evaporates when AI is removed.
+- [[fan-metacognitive-laziness-2025]] found better essay revision without a statistically significant learning difference. Bastani found a negative unaided exam contrast for GPT Base; these are related but distinct results.
+- [[kosmyna-cognitive-debt-2025]] examines writing and neural measures. It should not be treated as an independent measurement of the same mechanism without a direct test.
+- [[bjork-desirable-difficulties-2011]] provides a distinction between performance and learning, not a guarantee that removing difficulty harms learning.
+- [[parasuraman-riley-automation-1997]] supplies historical automation analogies, not proof of identical mechanisms.
+- [[leveling-effect]]: assisted grade dispersion fell, but no significant corresponding exam dispersion effect was detected. This qualifies extrapolation from [[dellacqua-jagged-frontier-2023]] to retained learning.
 
 ## Open Questions
 
-- The 17% deficit is measured after a single semester. Is the harm cumulative across years, or does it stabilize? Longitudinal follow-up would distinguish "temporary scaffolding cost" from "durable skill atrophy."
-- The GPT Tutor guardrails neutralized harm but did not produce learning *gains* over control. What design adds positive learning effects beyond harm-mitigation? The paper hints at "students with AI could check their answers" as a partial benefit; explicit pedagogy-aware prompt design (Socratic, error-anticipation, self-explanation) is the obvious next direction.
-- The field setting is high school math with teacher-curated prompts. The crutch mechanism likely operates in adult professional contexts (e.g., coding, writing, analysis) but with different perception structures — adults may have better calibration of what they don't know. Replication in professional contexts is needed.
-- The "students don't perceive they learned less" finding is striking but the perception measurement was self-report. What behavioral measure of perception would corroborate it (e.g., choice between AI access vs. no-AI access for upcoming exam-like tasks)?
-- Guardrail design is labor-intensive (problem-specific prompts curated by teachers). Can the design pattern be generalized — e.g., LLM-assisted curation of teacher prompts? The scaling question is operationally critical.
+- Do these same-session differences persist, diminish or grow over longer periods?
+- Which Tutor components account for its results, and in which tasks?
+- Can a design improve unaided learning beyond control, rather than merely show no detected deficit?
+- Do adult professional tasks show comparable effects?
+- Can behavioral measures clarify the relationship between perceived and assessed learning?

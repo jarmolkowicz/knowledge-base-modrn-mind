@@ -39,3 +39,9 @@
 - KB-root log.md appended
 - drafts/concepts/ removed (empty); drafts/updates/ retained as evidence
 - Re-validation clean post-integration.
+
+## 2026-09-26 — six-group audit correction integrated
+
+- A25/A26 propagation only: learning findings do not jointly prove awareness-resistant overreliance or validate Chandra's model.
+- Approval: Fix; Six high-priority groups only. Batch: kb-audit-corrections-2026-09-26.
+- Three-lens self-review and draft gate passed. This is a scoped correction, not complete re-review of unchanged claims. Original files and prior decisions preserved.

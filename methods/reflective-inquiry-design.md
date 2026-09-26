@@ -37,7 +37,7 @@ Dewey identifies four types of thought — mere awareness, imaginative thought, 
 
 ## Why It Works
 
-The framework rests on well-supported cognitive-science mechanisms even though the framework itself is untested: cognitive difficulty triggers analytical reasoning ([[desirable-difficulty]]); metacognitive skill is built by practising the cognitive operations AI offloads ([[metacognition]], [[cognitive-offloading]], [[metacognitive-laziness]]); friction slows automatic acceptance ([[cognitive-friction]]). Its staged-guardrail principle converges with empirical results that constraining or reducing AI in learning protects capability ([[bastani-guardrails-math-rct-2025]], [[passalacqua-less-ai-2024]]).
+[Inference] The untested framework draws on questions about learning conditions, [[metacognition]], [[cognitive-offloading]], [[metacognitive-laziness]] and [[cognitive-friction]]. These constructs should not be treated as a validated causal chain. [[bastani-guardrails-math-rct-2025]] tested a combined Tutor package with no statistically detectable same-session exam penalty or advantage. It and [[passalacqua-less-ai-2024]] motivate design questions, not a general proof that staged guardrails preserve durable capability.
 
 ## Strengths / Limitations
 

@@ -27,3 +27,9 @@
   - "Why It Matters" expanded with N=1604 behavioral-causal finding + perverse-incentive loop
   - "Key Insight" expanded with cross-LLM prevalence numbers + AITA/PAS metrics
   - Related: linked to social-sycophancy, ai-loneliness-effect, cheng workbench
+
+## 2026-09-26 — six-group audit correction integrated
+
+- A23/A26 propagation only: corrected Hohenstein blame direction and distinguished moral-laziness interpretation from Fan's measures.
+- Approval: Fix; Six high-priority groups only. Batch: kb-audit-corrections-2026-09-26.
+- Three-lens self-review and draft gate passed. This is a scoped correction, not complete re-review of unchanged claims. Original files and prior decisions preserved.

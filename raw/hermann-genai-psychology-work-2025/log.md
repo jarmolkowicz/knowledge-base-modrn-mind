@@ -48,3 +48,9 @@
 - KB counts: 64 sources / 56 concepts / 12 methods / 132 total entries
 - drafts/concepts/ and drafts/methods/ subdirs removed; drafts/updates/ retained as evidence trail
 - Status: integrated
+
+## 2026-09-26 — six-group audit correction integrated
+
+- A03/A25 propagation only: learning bias adjustment not transferable to workplace productivity; felt competence and learning measures not one established mechanism.
+- Approval: Fix; Six high-priority groups only. Batch: kb-audit-corrections-2026-09-26.
+- Three-lens self-review and draft gate passed. This is a scoped correction, not complete re-review of unchanged claims. Original files and prior decisions preserved.

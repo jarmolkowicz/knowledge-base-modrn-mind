@@ -45,3 +45,9 @@
 
 - A03/A04: positive model-specific estimate; no mechanism inferred from bias adjustment; educational levels not individual skill comparisons.
 - User approved priority corrections; three-lens self-review and mechanical validation passed. Related entries corrected in the same batch. Original files and prior decisions unchanged.
+
+## 2026-09-26 — six-group audit correction integrated
+
+- A03: removed residual umbrella-null and cognitive-mechanism claims from Cognitive Debt, Metacognitive Laziness, Lee and Hermann; retained positive adjusted estimate.
+- Approval: Fix; Six high-priority groups only. Batch: kb-audit-corrections-2026-09-26.
+- Three-lens self-review and draft gate passed. This is a scoped correction, not complete re-review of unchanged claims. Original files and prior decisions preserved.

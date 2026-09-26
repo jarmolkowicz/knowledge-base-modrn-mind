@@ -27,6 +27,14 @@
       "outcome": "INTEGRATED",
       "date": "2026-04-29",
       "reason": "sources/fan-metacognitive-laziness-2025.md created; concepts/metacognitive-laziness.md upgraded emerging->solid with empirical anchor, Fan definition, rubric-design observation, link to source distillation."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved six high-priority fixes",
+      "batch": "kb-audit-corrections-2026-09-26",
+      "reason": "A26: retained essay-score gains and learning null; removed comparative learning-loss/capacity-degradation and common-mechanism claims. Drafted, three-lens self-critiqued and validated. Original files and historical decisions preserved."
     }
   ],
   "pages": 42

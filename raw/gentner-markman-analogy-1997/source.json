@@ -30,6 +30,14 @@
       "by": "human (Pass 2 batch 2)",
       "at": "2026-04-29T12:45:52Z",
       "reason": "Re-distilled inline. Added Key Passages with locators, expanded Key Insight, added supports wikilinks."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved six high-priority fixes",
+      "batch": "kb-audit-corrections-2026-09-26",
+      "reason": "A22: separated structural-alignment theory from untested modern-LLM comparisons and skill-loss claims; declared two rewritten excerpts paraphrases. Drafted, three-lens self-critiqued and validated. Original files and historical decisions preserved."
     }
   ],
   "pages": 12

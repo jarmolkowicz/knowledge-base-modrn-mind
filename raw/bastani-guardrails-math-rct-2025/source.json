@@ -27,6 +27,14 @@
       "outcome": "INTEGRATED",
       "date": "2026-04-29",
       "reason": "sources/bastani-guardrails-math-rct-2025.md created; 3 concepts updated with concrete effect-size numbers and locator citations."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved six high-priority fixes",
+      "batch": "kb-audit-corrections-2026-09-26",
+      "reason": "A25: corrected same-session timing and Tutor coefficient units; nonsignificance not equivalence; combined guardrails not component necessity. Drafted, three-lens self-critiqued and validated. Original files and historical decisions preserved."
     }
   ],
   "pages": 8

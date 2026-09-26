@@ -33,6 +33,14 @@
       "outcome": "INTEGRATED",
       "date": "2026-04-29",
       "reason": "sources/cheng-sycophantic-prosocial-2025.md and concepts/social-sycophancy.md created; concepts/sycophancy.md updated with social/factual distinction, prevalence numbers, behavioral-causal evidence."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved six high-priority fixes",
+      "batch": "kb-audit-corrections-2026-09-26",
+      "reason": "A23/A26 propagation only: corrected Hohenstein blame direction and distinguished moral-laziness interpretation from Fan's measures. Drafted, three-lens self-critiqued and validated. Original files and historical decisions preserved."
     }
   ],
   "pages": 46

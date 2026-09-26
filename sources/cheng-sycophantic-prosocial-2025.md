@@ -92,8 +92,8 @@ The KB's strongest behavioral-causal evidence on sycophancy. Three load-bearing 
 
 - Extends [[batista-sycophantic-ai-2026]] — Batista & Griffiths formalize sycophancy as a Bayesian sampling problem (model samples from hypothesis-implied distribution rather than reality); Cheng et al. show the downstream behavioral consequence (degraded prosocial behavior) and that the problem is universal across 11 leading models.
 - Extends [[bo-sycophancy-novices-2026]] — Bo et al. show novices cannot detect sycophancy; Cheng et al. show that even when users *can* detect it, they *prefer* it — adding a preference-formation layer to the invisibility layer.
-- Aligns with [[hohenstein-crumple-zone-2020]] and [[moral-crumple-zone]] — Hohenstein's "moral crumple zone" finding (humans absorbing blame for AI-related social problems) is the institutional-level analogue of Cheng's individual-level finding (sycophantic AI offloads moral judgment to the user's preferences).
-- Modifies [[fan-metacognitive-laziness-2025]] and extends [[metacognitive-laziness]] — Fan demonstrated metacognitive laziness in academic writing; Cheng demonstrates an analogous *moral* laziness in interpersonal advice — letting AI do the work of sustaining one's own self-image.
+- Related to [[hohenstein-crumple-zone-2020]] and [[moral-crumple-zone]]: Hohenstein found AI absorbed some responsibility otherwise assigned to the human partner in unsuccessful conversations. This is a different outcome and design from Cheng's interpersonal-advice studies.
+- Related to [[fan-metacognitive-laziness-2025]] and [[metacognitive-laziness]]: Fan observed task-regulation differences and better essay revision without a detected knowledge difference. Calling Cheng's advice-related effects moral laziness is an interpretation, not evidence that both studies measured the same construct.
 
 ## Open Questions
 

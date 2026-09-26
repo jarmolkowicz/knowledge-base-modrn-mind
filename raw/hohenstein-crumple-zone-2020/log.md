@@ -16,3 +16,9 @@
 - Word count: 13201
 
 ## 2026-04-29T15:47:18Z — re-distilled (Pass 2 batch 7)
+
+## 2026-09-26 — six-group audit correction integrated
+
+- A23: corrected blame comparator, sample/design and disclosure interpretation; separated short-term trust/attribution from lasting relationship effects.
+- Approval: Fix; Six high-priority groups only. Batch: kb-audit-corrections-2026-09-26.
+- Three-lens self-review and draft gate passed. This is a scoped correction, not complete re-review of unchanged claims. Original files and prior decisions preserved.

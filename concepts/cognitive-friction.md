@@ -47,7 +47,7 @@ Cognitive friction is the experiential side of [[desirable-difficulty]]. Desirab
 - [[strategic-alternation]] - how to preserve friction intentionally
 - [[think-first]] - practice that maintains friction
 - [[cognitive-grit]] - endurance capacity for sustained friction
-- [[stadler-cognitive-ease-cost-2024]] — CLT-mediator evidence: lower cognitive load (less friction) on LLM use fully mediates lower justification quality
+- [[stadler-cognitive-ease-cost-2024]] - exploratory mediation involving germane cognitive load and same-session justification quality; not proof that friction causes understanding
 
 ## Sources
 

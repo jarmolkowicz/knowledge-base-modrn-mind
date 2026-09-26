@@ -45,6 +45,14 @@
       "outcome": "INTEGRATED",
       "date": "2026-04-30",
       "reason": "1 source + 1 concept + 1 method + 4 UPDATEs landed. KB counts: 64 sources / 56 concepts / 12 methods / 132 total."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved six high-priority fixes",
+      "batch": "kb-audit-corrections-2026-09-26",
+      "reason": "A03/A25 propagation only: learning bias adjustment not transferable to workplace productivity; felt competence and learning measures not one established mechanism. Drafted, three-lens self-critiqued and validated. Original files and historical decisions preserved."
     }
   ],
   "pages": 12

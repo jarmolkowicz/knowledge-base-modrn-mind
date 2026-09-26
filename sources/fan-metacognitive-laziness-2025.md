@@ -22,19 +22,13 @@ Paper (4-arm randomised lab experiment, N=117 university students; multi-channel
 
 ## Key Insight
 
-Fan et al. introduce and empirically ground the concept of **metacognitive laziness**: *"learners' dependence on AI assistance, offloading metacognitive load and less effectively associating responsible metacognitive processes with learning tasks."* It extends Risko & Gilbert's (2016) cognitive offloading from informational tasks to the metacognitive layer — planning, monitoring, evaluation, orientation.
+Fan et al. studied 117 university students in four conditions: ChatGPT, human expert, writing-analytics checklist and control. The AI group showed greater essay-score improvement than the other groups (roughly two points; adjusted p<.05 for each comparison).
 
-The experimental design splits 117 university students writing argumentative essays into four conditions: **ChatGPT (AI), human expert (HE), writing-analytics checklist (CL), no extra tool (control)**. Three results structure the argument:
+Knowledge gain and transfer did not differ significantly between groups. That is not evidence that AI users learned less, nor proof that the groups were equivalent. Intrinsic motivation also showed no statistically significant group difference, rather than demonstrated equivalence.
 
-1. **Motivation didn't differ across groups.** Intrinsic Motivation Inventory scores were statistically equivalent. The story is *not* that AI reduces motivation.
-2. **SRL processes differed sharply.** Process-mining of behaviour sequences showed the AI group's regulation was tightly entangled with ChatGPT prompts and produced *fewer* metacognitive transitions (orientation ↔ evaluation) than the human-expert group. Where human teachers triggered metacognitive associations, ChatGPT crowded them out.
-3. **Performance dissociated from learning.** The AI group significantly outperformed all others on essay-score improvement (~2 points higher than CN/CL/HE, all p<0.05). But knowledge gain and knowledge transfer tests showed *no significant difference* across groups.
+Process maps showed different self-regulated learning patterns, with more connections between orientation and evaluation in the human-expert condition than the AI condition. The authors propose **metacognitive laziness** as an interpretation of AI-dependent regulation during the task. These observations do not establish degradation of a general capacity or prove that participants deliberately chose a rational efficiency-maximizing strategy.
 
-The authors propose this is "AI-empowered learning skills" — students discovered how to optimise the scoring rubric via ChatGPT (some lab-recorded sessions showed copy-paste of generated example sentences) while learning less than peers who struggled without it. The performance gain is real but rubric-coupled and short-term; the learning isn't.
-
-The conceptual move is critical: metacognitive laziness is **not a skill deficit**. The students *had* the regulatory capacity. AI made bypassing it the rational efficiency-maximising choice. The intervention question is therefore not "how do we teach metacognition better?" but "how do we design environments that demand metacognition's exercise even when AI is present?"
-
-For human thinking with AI: this is the empirical anchor for [[metacognitive-laziness]] and a key piece of evidence for the [[performance-paradox]] — a measured case where AI users produce better outputs while learning less. It also bridges to [[cognitive-offloading]] (the offloading is dual: cognitive AND metacognitive) and to [[desirable-difficulty]] (SRL effort is itself a desirable difficulty being bypassed).
+Some learners copied generated text. The authors discuss rubric-focused performance and possible long-term stagnation as explanations and concerns for further research. Neither a long-term deficit nor a single causal mediator was established.
 
 ## Key Passages
 
@@ -58,35 +52,32 @@ For human thinking with AI: this is the empirical anchor for [[metacognitive-laz
 
 ## Relevance
 
-The first peer-reviewed RCT to operationalise and measure metacognitive laziness with multi-channel evidence. Three load-bearing contributions:
+The study distinguishes assisted essay revision, knowledge measures and task-level regulation. Better scores did not come with a statistically detectable advantage in the measured knowledge outcomes. This supports keeping output and learning measures separate, without converting an absence of advantage into demonstrated loss.
 
-- **Names the concept rigorously.** Existing KB entry [[metacognitive-laziness]] cited "Fan et al." but lacked workbench-level grounding. This source provides the formal definition + empirical evidence with locators.
-- **Documents the performance/learning dissociation.** Essay-score improvement vs. knowledge-transfer null is a clean experimental demonstration of the [[performance-paradox]]: AI users produce better outputs while learning less. The dissociation is robust to motivation control.
-- **Implicates rubric design as the lever.** ChatGPT was especially good at rubric-aligned performance — which means the same property that makes it useful for assessment-driven tasks also makes it the substrate for metacognitive bypass. Practitioners designing AI-permitted assessments face a design tension this paper makes explicit.
+[Inference] Assessment designers could measure unaided understanding alongside assisted output. The experiment did not test whether changing rubrics or requiring metacognitive pauses protects learning.
 
 ## Supports
 
-- [[metacognitive-laziness]] — origin source; this is the empirical anchor
-- [[cognitive-offloading]] — Fan extends Risko & Gilbert's framework to metacognition
-- [[performance-paradox]] — direct experimental evidence (essay-score gain + knowledge-transfer null)
-- [[metacognition]] — the broader capacity that this paper measures degrading
-- [[desirable-difficulty]] — SRL processes as a difficulty being bypassed
-- [[fluency-bias]] — AI's fluent task completion is the mechanism that triggers laziness
-- [[performance-paradox]] — empirical demonstration
-- [[risko-gilbert-cognitive-offloading-2016]] — extended directly
-- [[flavell-metacognition-1979]] — foundational SRL/metacognition lineage
+- [[metacognitive-laziness]] - proposed construct grounded in task-level process observations
+- [[cognitive-offloading]] - related delegation of cognitive and regulatory activity
+- [[performance-paradox]] - essay improvement without a detected knowledge-gain or transfer difference
+- [[metacognition]] - task regulation, not demonstrated degradation of capacity
+- [[desirable-difficulty]] - separate learning theory; additional effort is not automatically beneficial
+- [[fluency-bias]] - not tested as the mediator of the study's results
+- [[risko-gilbert-cognitive-offloading-2016]] - background account of externalizing cognitive work
+- [[flavell-metacognition-1979]] - background construct of cognitive monitoring
 
 ## Contradicts / Extends
 
-- Extends [[risko-gilbert-cognitive-offloading-2016]] from informational to metacognitive offloading. Risko & Gilbert framed offloading as a cost-benefit decision over external storage; Fan et al. show the same logic operates over self-regulation processes themselves.
-- Aligns with [[shaw-cognitive-surrender-2026]] — Shaw and Nave's "surrender" finding (uncritical acceptance of AI output) is the within-task analogue of Fan's metacognitive laziness. Shaw measures one-shot surrender; Fan measures sustained regulation pattern across a task.
-- Aligns with [[kosmyna-cognitive-debt-2025]] — Kosmyna et al. report neural correlates (lower brain connectivity in LLM users); Fan reports behavioural correlates (fewer metacognitive transitions). Same phenomenon viewed at different layers.
-- Anticipated by [[bjork-desirable-difficulties-2011]] — the Bjorks' insight that performance and learning dissociate under conditions of low difficulty maps directly onto Fan's RCT result: easier task completion (with AI) produced better immediate scores but no transfer advantage.
-- [[strategic-alternation]] — the study motivates questions about regulation during a task. [Unverified source] The earlier claim that non-optional prompts are the required protective intervention relied on a Lodge/Loble account whose original is missing locally.
+- [[risko-gilbert-cognitive-offloading-2016]] concerns externalizing cognitive work. Applying that framework to regulation is an interpretation, not proof that every form of offloading reduces learning.
+- [[shaw-cognitive-surrender-2026]] examines advice acceptance, a different measure from learning-process transitions.
+- [[kosmyna-cognitive-debt-2025]] reports writing and neural measures. Different measures should not be declared the same phenomenon without direct evidence.
+- [[bjork-desirable-difficulties-2011]] distinguishes immediate performance from later learning; this is relevant background, not a tested difficulty mediator here.
+- [[strategic-alternation]] and [[think-first]] are possible practice applications, not interventions validated by this experiment.
 
 ## Open Questions
 
-- The 117-participant lab study was a one-shot writing task. The "long-term skill stagnation" framing is plausible but not directly tested. Longitudinal studies are needed to distinguish "short-term laziness during a single task" from "durable habit of metacognitive abdication."
-- Knowledge-transfer null vs. essay-score gain: the paper's interpretation (AI helps performance via rubric optimisation, not learning) is consistent with the data but not the only possibility. Could the writing task simply not have enough knowledge-transfer signal to detect a difference? Future studies with explicit transfer assessments built in.
-- The "rubric optimisation" mechanism predicts that AI's effects depend strongly on assessment design. This generates testable predictions (e.g., AI advantage should disappear or invert when scoring criteria are hidden, qualitative, or unfamiliar to the AI's training distribution) that would be valuable to investigate.
-- The intervention design implication — "integrated, non-optional metacognitive prompts" — is a hypothesis. What kinds of prompts work? Self-explanation prompts? Periodic AI-disengagement requirements? Empirical comparison would inform [[strategic-alternation]] and [[think-first]] design choices.
+- Do task-level process differences predict later independent learning or durable skill changes?
+- Would larger samples or different learning measures detect differences absent here?
+- How much of the essay advantage reflects rubric-focused completion versus other forms of assistance?
+- Which forms of feedback or metacognitive support improve outcomes? Mandatory pauses and assessment redesign require direct tests.

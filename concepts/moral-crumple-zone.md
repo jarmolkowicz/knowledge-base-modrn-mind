@@ -9,34 +9,28 @@ sources:
 
 ## What It Is
 
-When AI mediates communication and things go wrong, the AI absorbs blame like a crumple zone in a car crash—reducing responsibility attributed to the human communicator.
+In Hohenstein & Jung's AI-mediated communication experiment, AI absorbed some responsibility when a conversation failed, reducing the share assigned to the human partner. This is the reverse of the earlier moral-crumple-zone framing, discussed by the authors, in which humans absorb blame for a system's failures.
 
 ## Why It Matters
 
-AI changes accountability dynamics. When failure can be attributed to the AI, humans may take less care with communication. This could prevent authentic relationship repair and learning from mistakes.
+Perceived responsibility can change with the communication interface. That is different from establishing who actually caused an outcome, absolving the sender, or showing lasting damage to a relationship.
 
 ## Key Insight
 
-From experimental research:
-- Successful AI-mediated communication actually *increased* trust (4.8 → 5.76 out of 6)
-- When communication failed, AI was blamed more than human partners
-- AI perceived as "coercive agent" only when things went wrong
+In a brief scripted task with a confederate (113 recruited; 98 conversations analyzed):
+
+- In unsuccessful conversations, the partner received less responsibility with AI mediation than with standard messaging: 64.04% versus 83.5%.
+- The AI received some attributed responsibility; it was not blamed more than the human partner.
+- Partner trust was higher with AI mediation in both successful conversations (5.76 versus 4.8) and unsuccessful conversations (3.04 versus 1.92).
+- Participants were told about smart replies. This was not an experiment comparing disclosure with nondisclosure.
 
 ## The Asymmetry
 
-**Success**: AI is invisible/instrumental, humans get credit
-**Failure**: AI becomes an agent that absorbs blame
+AI attribution was not significantly different from zero in successful conversations, but was positive in unsuccessful ones. This concerns perceived agency in this setting, not proof that AI was unnoticed or that humans were free of responsibility.
 
 ## Implications
 
-**For communication**:
-- People may use AI partly to protect themselves from blame
-- Careless communication may increase if consequences are buffered
-
-**For relationships**:
-- Short-term protection from discomfort
-- Long-term prevention of authentic repair
-- The buffer that protects also isolates
+[Speculation] If attributing failure to AI changes whether people examine their own contribution, it could affect communication or relationship repair. The experiment did not measure repeated use, lasting repair, careless behavior or population prevalence.
 
 ## Related
 

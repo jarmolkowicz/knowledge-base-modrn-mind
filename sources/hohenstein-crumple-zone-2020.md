@@ -20,18 +20,13 @@ Paper (2×2 between-subjects experiment; AI-mediated communication / attribution
 
 ## Key Insight
 
-Hohenstein & Jung name and empirically demonstrate the **moral crumple zone** dynamic in AI-mediated communication: when communication goes well, the AI is invisible and humans get the credit; when communication goes badly, the AI gets blamed and humans are absolved.
+AI-mediated messaging changed perceived responsibility and trust in a brief experiment. In unsuccessful conversations, participants assigned less responsibility to their human partner when using an AI-mediated app than a standard messaging app (64.04% versus 83.5%). The human partner still received substantial responsibility; AI was not blamed more than the human.
 
-The 2×2 design crosses (successful vs. unsuccessful conversation) × (standard vs. AI-mediated messaging app — smart replies). Findings:
+The 2×2 design crossed conversation outcome with messaging app. Participants spoke with a confederate whose responses controlled success or failure. Of 113 recruited participants, 98 conversations remained after the reported exclusions. Participants in the AI condition were told about smart replies; the confederate did not use the offered replies.
 
-- **Successful conversations:** AI mediation **increased trust** between human communicators (4.8 → 5.76 on a Likert scale). Smart replies appear to grease cooperation; the AI is treated as transparent infrastructure.
-- **Unsuccessful conversations:** the AI is reframed as a "coercive agent." Blame asymmetrically lands on the AI rather than on the human who used it. Responsibility otherwise assigned to the human partner is offloaded to the system.
+Partner trust was higher with AI mediation in both successful conversations (5.76 versus 4.8) and unsuccessful conversations (3.04 versus 1.92). Attribution to AI was significantly above zero in unsuccessful but not successful conversations. The authors interpret this as perceived AI agency becoming salient when communication fails.
 
-The asymmetry is what's load-bearing for the KB. AI gains agency *only when blame is needed*. In success, AI is a tool. In failure, AI is an actor with intent. This isn't a stable mental model — it's an attributional move that protects the human relationship at the cost of accurate accountability.
-
-The implication: AI-mediated communication offers short-term protection (relationships survive AI-amplified errors) but prevents authentic relationship repair (the offended party never confronts the partner who actually chose what to send). Repeated, the pattern erodes the trust-rebuilding mechanisms that survive normal interpersonal failure.
-
-For human thinking with AI: the moral crumple zone names a specific accountability-erosion mechanism distinct from AI-as-replacement worries. Hohenstein & Jung's contribution is to show it operates in *everyday* communication, not just high-stakes systems (the original moral-crumple-zone framing came from autonomous-vehicle accidents). Smart replies are widely deployed; the dynamic is at population scale.
+These are immediate perceptions in this experiment. They do not establish human absolution, actual responsibility, undisclosed AI use, lasting relationship harm or population prevalence.
 
 ## Key Passages
 
@@ -49,28 +44,29 @@ For human thinking with AI: the moral crumple zone names a specific accountabili
 
 ## Relevance
 
-The KB's clearest empirical evidence for accountability-erosion in everyday AI-mediated interactions. Three contributions:
+The study separates perceived responsibility from trust and shows that an interface can change both. Its direction of blame differs from the earlier human-as-crumple-zone account discussed by the authors: here, AI absorbs some responsibility otherwise assigned to a person.
 
-- **Names the asymmetry.** The agency-only-on-failure finding is what makes the moral crumple zone a durable concept. AI's apparent neutrality during success conceals its absorptive role during failure.
-- **Evidence at low-stakes scale.** Most accountability research on AI focuses on high-stakes domains (medicine, law, autonomous vehicles). Hohenstein & Jung show the same dynamic in routine interpersonal communication via smart replies. This generalizes the concept.
-- **Connects to disclosure literature.** When the AI is invisible (no disclosure), humans get full credit on success and partial absolution on failure. When the AI is disclosed (per [[reimann-schilke-disclosure-2025]]), trust drops uniformly. Both findings suggest the disclosure norm interacts with the crumple-zone dynamic in non-obvious ways.
+[Speculation] Repeated attribution of failure to AI might influence whether people examine or repair their own contribution. Neither repeated use nor relationship repair was measured. A comparison with disclosure studies requires separate evidence; attributional invisibility is not the same as nondisclosure.
 
 ## Supports
 
-- [[moral-crumple-zone]] — primary empirical source
-- [[transparency-paradox]] — related dynamic in the disclosure space
-- accountability — what shifts under AI-MC
-- [[automation-bias]] — the trust-elevation in success is a form of automation bias
-- [[reimann-schilke-disclosure-2025]] — companion finding on disclosure costs
-- [[fluency-bias]] — smart replies' fluent surface is what makes them invisible during success
+- [[moral-crumple-zone]] - AI absorbs some attributed responsibility in unsuccessful conversations
+- [[transparency-paradox]] - related questions about disclosure, not a tested disclosure contrast here
+- accountability - perceived blame is distinct from actual responsibility
+- [[automation-bias]] - a separate reliance construct; increased partner trust is not itself automation bias
+- [[reimann-schilke-disclosure-2025]] - separate evidence on disclosure judgments
+- [[fluency-bias]] - distinct construct; fluency was not established as the mediator in this experiment
 
 ## Contradicts / Extends
 
-- Extends Elish (2019) "moral crumple zone" framing from autonomous-vehicle accidents to everyday AI-MC. Same mechanism, different domain.
-- Companion to [[reimann-schilke-disclosure-2025]] — both papers address asymmetric trust dynamics in AI-mediated work, from different angles.
+- Reverses the direction of the earlier moral-crumple-zone framing discussed by the authors: AI rather than a human absorbs some blame.
+- [[reimann-schilke-disclosure-2025]] examines a different question. The two studies do not jointly establish a universal effect of AI disclosure on trust.
 
 ## Open Questions
 
-- Long-term effects: what happens to relationships where AI-MC is routine and many failures are absorbed by the AI? Does interpersonal trust calibration degrade because the partner's actual contribution is masked?
-- Disclosure interaction: if AI involvement is disclosed (per current norms), does the moral crumple zone still operate, or does disclosure eliminate the agency-only-on-failure asymmetry?
-- Smart replies are 2020-era AI. Generative AI (full message composition) likely intensifies the dynamic. Replication needed.
+- Does this attribution pattern recur with existing partners and repeated interactions?
+- Does disclosure change it when disclosure itself is randomized?
+- Does full-message generation differ from smart replies?
+- Does shifting perceived responsibility affect later repair, behavior or accountability?
+
+The present experiment does not answer these questions.

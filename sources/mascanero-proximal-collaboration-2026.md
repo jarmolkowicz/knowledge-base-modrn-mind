@@ -70,7 +70,7 @@ Three load-bearing contributions:
 - [[creativity-diversity-paradox]] — Doshi & Hauser found a generation-stage trade-off; Mascareño et al. extend to selection + implementation stages
 - [[performance-paradox]] — proximity-driven implementation decline is a stage-specific manifestation of the paradox
 - [[agency]] — accountability weakening under distributed cognition
-- [[hohenstein-crumple-zone-2020]] — moral crumple zone as the institutional analogue of the accountability dispersion this paper measures
+- [[hohenstein-crumple-zone-2020]] - a brief interpersonal attribution experiment, not institutional evidence for the same accountability mechanism.
 - [[strategic-alternation]] — implications for stage-aware alternation design
 - [[judgment]] — implementation requires critical assessment that AI can crowd out
 - [[novice-vulnerability]] — proximity penalty likely worse for those with weaker domain judgment (untested but predicted)
@@ -79,7 +79,7 @@ Three load-bearing contributions:
 ## Contradicts / Extends
 
 - Extends [[dellacqua-jagged-frontier-2023]] — Dell'Acqua showed AI helps creativity in consultant work; Mascareño et al. show this benefit is offset by selection/implementation costs. The "frontier" is jagged in stage-space, not just task-space.
-- Aligns with [[fan-metacognitive-laziness-2025]] and [[bastani-guardrails-math-rct-2025]] — both demonstrate AI-induced engagement deficits at later stages of cognitive work. Mascareño et al. is the organizational-team analogue.
+- Related to [[fan-metacognitive-laziness-2025]] and [[bastani-guardrails-math-rct-2025]]: task regulation, learning outcomes and idea implementation are distinct measures. Their findings do not establish one shared engagement-deficit mechanism.
 - Modifies [[parasuraman-riley-automation-1997]]'s framework — proximal collaboration is a finer-grained variable than misuse/disuse/abuse; it operates within the "use" mode by varying the closeness of coupling.
 
 ## Open Questions

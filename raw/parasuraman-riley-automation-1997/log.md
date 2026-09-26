@@ -13,3 +13,9 @@
 - sources/parasuraman-riley-automation-1997.md replaced (105 -> ~1,700 words)
 - Added Key Passages with [p.N] locators (4-part taxonomy, vicious circle, automation bias evidence, base-rate-disuse mechanism)
 - Expanded Relevance, Supports (added jagged-frontier link), Contradicts/Extends, Open Questions
+
+## 2026-09-26 — six-group audit correction integrated
+
+- A23 propagation only: corrected Hohenstein incoming link to AI absorbing some blame, not the human.
+- Approval: Fix; Six high-priority groups only. Batch: kb-audit-corrections-2026-09-26.
+- Three-lens self-review and draft gate passed. This is a scoped correction, not complete re-review of unchanged claims. Original files and prior decisions preserved.

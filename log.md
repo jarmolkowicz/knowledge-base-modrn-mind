@@ -104,3 +104,11 @@ Parseable: `grep "^## \[" log.md | tail -20` shows recent activity.
 - Drafts passed three-lens self-critique, draft validation, whole-KB structural checks, 8 validator regression tests and 32 correction-specific guards. This was a scoped correction pass, not complete verification of all entries.
 - Seven affected source workbenches received appended correction decisions and log records; originals and historical decisions preserved. Local correction drafts/reports are Git-ignored. Remaining medium/low audit findings and quotation checks remain open. No commit or push.
 - Final whole-KB recheck flagged one unrelated, newly created workbench missing its catalog date (`tamisier-fayard-255-design-ai-systems-that-actually-strengthen-2026`, `ingested_at`). Left untouched. The 23 corrected entries passed their checks; seven source histories verified append-only and original-file hashes unchanged.
+
+## [2026-09-27] audit-correction | Complete six approved high-priority groups
+
+- User confirmed six groups only: A03, A05, A22, A23, A25, A26. Integrated 21 existing entries (seven concepts, one method, thirteen source notes), including repeated claims. Corrected Bartoš/Stadler residuals, Gentner's scope, Hohenstein's blame direction, Bastani's timing/units and Fan's null-result interpretation.
+- Metacognitive Laziness now emerging. Two Gentner rewritten quotations explicitly labelled paraphrases; wider quotation group A20 remains open.
+- Formal three-lens self-critique, zero-finding draft gate, eight regression tests, 33 positive claim guards and ten residual-phrase guards passed. Fifteen source histories verified append-only; original hashes and 80 retained quotation blocks preserved.
+- 211 protected files unchanged; separate concurrent AGENTS.md edit recorded and left untouched. One pre-existing unrelated catalog-date warning remains. Index refreshed; counts unchanged at 229 entries.
+- Thirteen medium/low editorial groups remain open. Scoped correction, not complete KB verification. Local drafts/reports Git-ignored. No commit or push. [Correction record](raw/kb-audit-corrections-2026-09-26/README.md).

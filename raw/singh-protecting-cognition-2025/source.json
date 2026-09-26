@@ -10,10 +10,38 @@
   "status": "integrated",
   "ingested_at": "2026-07-06T17:11:25Z",
   "decisions": [
-    {"stage": "triage", "date": "2026-07-06", "outcome": "PARTIAL", "reason": "User-confirmed; secondary non-empirical synthesis overlapping KB heavily. Source + one approved new method; no duplicate concepts."},
-    {"stage": "distill", "date": "2026-07-06", "outcome": "PROCEED_TO_CRITIQUE", "reason": "User-confirmed; source distillation + reflective-inquiry-design method drafted; no new concepts."},
-    {"stage": "critique", "date": "2026-07-06", "outcome": "PROCEED_TO_INTEGRATE", "reason": "User-confirmed; Overall READY; AI-failure checklist all PASS."},
-    {"stage": "integrate", "date": "2026-07-06", "outcome": "INTEGRATED", "reason": "1 source (emerging) + 1 new method reflective-inquiry-design (speculative). No new concepts."}
+    {
+      "stage": "triage",
+      "date": "2026-07-06",
+      "outcome": "PARTIAL",
+      "reason": "User-confirmed; secondary non-empirical synthesis overlapping KB heavily. Source + one approved new method; no duplicate concepts."
+    },
+    {
+      "stage": "distill",
+      "date": "2026-07-06",
+      "outcome": "PROCEED_TO_CRITIQUE",
+      "reason": "User-confirmed; source distillation + reflective-inquiry-design method drafted; no new concepts."
+    },
+    {
+      "stage": "critique",
+      "date": "2026-07-06",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "reason": "User-confirmed; Overall READY; AI-failure checklist all PASS."
+    },
+    {
+      "stage": "integrate",
+      "date": "2026-07-06",
+      "outcome": "INTEGRATED",
+      "reason": "1 source (emerging) + 1 new method reflective-inquiry-design (speculative). No new concepts."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved six high-priority fixes",
+      "batch": "kb-audit-corrections-2026-09-26",
+      "reason": "A25/A26 propagation only: source experiments do not validate a general staged-guardrail design or the proposed Bloom mechanism. Drafted, three-lens self-critiqued and validated. Original files and historical decisions preserved."
+    }
   ],
   "pages": 6
 }

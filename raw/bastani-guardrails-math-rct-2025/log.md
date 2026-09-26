@@ -18,3 +18,9 @@
 ## 2026-04-29T20:47:00Z — integrated
 - sources/bastani-guardrails-math-rct-2025.md created
 - 3 concept entries updated with effect sizes, locator citations, mechanism details
+
+## 2026-09-26 — six-group audit correction integrated
+
+- A25: corrected same-session timing and Tutor coefficient units; nonsignificance not equivalence; combined guardrails not component necessity.
+- Approval: Fix; Six high-priority groups only. Batch: kb-audit-corrections-2026-09-26.
+- Three-lens self-review and draft gate passed. This is a scoped correction, not complete re-review of unchanged claims. Original files and prior decisions preserved.

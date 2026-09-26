@@ -39,6 +39,14 @@
       "outcome": "INTEGRATED",
       "date": "2026-04-30",
       "reason": "Source distilled to sources/lee-critical-thinking-survey-2025.md; 2 UPDATEs applied (metacognitive-laziness, confidence-competence-gap); aux scripts run; KB-root log appended; counts now 71 sources / 57 concepts / 12 methods / 140 total."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved six high-priority fixes",
+      "batch": "kb-audit-corrections-2026-09-26",
+      "reason": "A03/A26 propagation only: corrected umbrella-null references and distinguished self-report associations from experimental process/learning outcomes. Drafted, three-lens self-critiqued and validated. Original files and historical decisions preserved."
     }
   ],
   "pages": 23

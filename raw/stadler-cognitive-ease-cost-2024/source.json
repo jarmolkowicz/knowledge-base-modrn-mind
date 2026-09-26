@@ -52,6 +52,14 @@
       "date": "2026-09-26",
       "by": "Codex librarian; user-approved priority corrections",
       "reason": "A05: same-session outcomes and exploratory load mediation, not durable learning. Approval: Make priority corrections. Drafted, three-lens self-critiqued and validated in local batch kb-priority-corrections-2026-09-26. Historical decisions and original files preserved."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved six high-priority fixes",
+      "batch": "kb-audit-corrections-2026-09-26",
+      "reason": "A05: aligned three residual incoming descriptions with exploratory same-session mediation; no proof of debt, friction or metacognitive-capacity loss. Drafted, three-lens self-critiqued and validated. Original files and historical decisions preserved."
     }
   ],
   "pages": 7

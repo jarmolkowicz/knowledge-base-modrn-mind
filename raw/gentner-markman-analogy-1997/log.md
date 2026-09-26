@@ -17,3 +17,9 @@
 
 ## 2026-04-29T12:45:52Z — re-distilled (Pass 2 batch 2)
 - Replaced sources/gentner-markman-analogy-1997.md with v2 draft
+
+## 2026-09-26 — six-group audit correction integrated
+
+- A22: separated structural-alignment theory from untested modern-LLM comparisons and skill-loss claims; declared two rewritten excerpts paraphrases.
+- Approval: Fix; Six high-priority groups only. Batch: kb-audit-corrections-2026-09-26.
+- Three-lens self-review and draft gate passed. This is a scoped correction, not complete re-review of unchanged claims. Original files and prior decisions preserved.

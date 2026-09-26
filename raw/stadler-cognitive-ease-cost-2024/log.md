@@ -47,3 +47,9 @@
 
 - A05: same-session outcomes and exploratory load mediation, not durable learning.
 - User approved priority corrections; three-lens self-review and mechanical validation passed. Related entries corrected in the same batch. Original files and prior decisions unchanged.
+
+## 2026-09-26 — six-group audit correction integrated
+
+- A05: aligned three residual incoming descriptions with exploratory same-session mediation; no proof of debt, friction or metacognitive-capacity loss.
+- Approval: Fix; Six high-priority groups only. Batch: kb-audit-corrections-2026-09-26.
+- Three-lens self-review and draft gate passed. This is a scoped correction, not complete re-review of unchanged claims. Original files and prior decisions preserved.

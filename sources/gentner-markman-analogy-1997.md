@@ -30,12 +30,11 @@ Three psychological constraints define the process:
 
 The classic illustration is **cross-mapping**: in `1:3 :: 3:9`, the surface-identical 3s get *separated* to preserve relational structure (the 1↔3 and 3↔9 mappings preserve the ratio). Surface similarity is overridden by relational structure when the two conflict — and this is what genuine analogy looks like.
 
-For human thinking with AI: LLMs excel at the *surface* end of the similarity spectrum — high attribute overlap, pattern completion, "this looks like that." They struggle systematically with structural alignment that requires *suppressing* surface similarity to preserve deep relational structure. The child saying "Where the white door?" after generalizing the color↔key↔door system is doing exactly the kind of structural alignment that lifts cognition above pattern completion. The KB's preservation case rests in part on protecting this kind of reasoning from being substituted by AI's surface-similarity gloss.
+[Inference] For AI-assisted reasoning, structural alignment is a useful question to ask of an analogy: do the relationships match, or only the objects? The paper does not assess modern LLM capabilities, compare humans with those models, or test whether using AI changes human reasoning ability.
 
 ## Key Passages
 
-> "Analogy and similarity are often viewed as quite separate: Analogy is a clever, sophisticated process used in creative discovery, whereas similarity is a brute perceptual process that we share with the entire animal kingdom. … We suggest that the process of carrying out a comparison is the same in both cases. The general idea is summarized by the slogan 'similarity is like analogy.'"
-> — Gentner & Markman, [p.1]
+Paraphrase: The authors challenge the separation of sophisticated analogy from simple perceptual similarity, proposing shared comparison processes. [p.1]
 
 > "Common relations are essential to analogy; common objects are not. This promoting of relations over objects makes analogy a useful cognitive device, for physical objects are normally highly salient in human processing — easy to focus on, recognize, encode, retrieve, and so on."
 > — Gentner & Markman, [p.2]
@@ -43,35 +42,38 @@ For human thinking with AI: LLMs excel at the *surface* end of the similarity sp
 > "The systematicity principle captures a tacit preference for coherence and causal predictive power in analogical processing. We are not much interested in analogies that capture a series of coincidences, even if there are a great many of them."
 > — Gentner & Markman, [p.3]
 
-> "A cross-mapping is a comparison in which two analogous scenarios contain similar or identical objects that play different relational roles in the two scenarios. … In `1:3::3:9`, the obvious possibility of matching the two identical 3s is dismissed because to do so would misalign the relational roles of the terms."
-> — Gentner & Markman, [p.3]
+Paraphrase: In cross-mapping, similar objects occupy different relational roles. For 1:3 :: 3:9, mapping the two identical 3s would break the ratio relationship. [p.3]
 
 > "These candidate inferences are only guesses: Their factual correctness must be checked separately. … Any process capable of producing novel true inferences is also capable of generating false inferences."
 > — Gentner & Markman, [p.3]
 
 ## Relevance
 
-The foundational specification of what *deep* reasoning looks like — and therefore the criterion against which AI pattern-matching can be evaluated. Three load-bearing contributions:
+The theory offers a vocabulary for examining an analogy:
 
-- **Distinguishes pattern-completion from analogical reasoning.** Surface similarity (LLMs are great at it) and structural alignment (LLMs are inconsistent at it) are different processes operating over different representational substrates. Treating their outputs as interchangeable is a category error.
-- **Names the inference engine.** Systematicity is what lets a human reason from a known analogy to *new* discoveries in the target domain. Kepler's planets-as-boatmen analogy didn't just describe the planets — it generated falsifiable predictions about how the motive power must behave. AI completion that lacks systematic-relational structure can produce plausible-sounding statements but not novel-yet-correct ones.
-- **Diagnostic for cross-mapping failures.** When human and AI reasoning disagree on a hard case, the structural-alignment view predicts AI is more likely to over-weight surface similarity (matching the identical 3s) where humans correctly suppress it. This is testable.
+- **Relations versus attributes.** Analogy and similarity share alignment processes; they can differ in the proportions of relational and attribute matches.
+- **Candidate inferences.** Alignment can suggest a new claim about a target situation. The claim must then be checked; structure does not guarantee truth.
+- **Cross-mapping.** Identical-looking objects may occupy different roles. The familiar ratio example illustrates why matching objects solely by appearance can fail.
+
+[Inference] These distinctions can guide questions about AI-generated analogies. Whether particular models or users succeed is a separate empirical question, not answered by the 1997 paper.
 
 ## Supports
 
-- [[analogical-reasoning]] — primary theoretical source
-- [[metacognition]] — recognizing whether you're doing surface matching vs. structural alignment
-- [[think-first]] — the case for unaided reasoning when the task requires structural alignment
-- [[fluency-bias]] — surface similarity is precisely what fluent AI output amplifies
-- [[judgment]] — analogical reasoning is core to professional judgment in novel situations
+- [[analogical-reasoning]] - primary theoretical account
+- [[metacognition]] - [Inference] checking how a comparison was formed
+- [[think-first]] - a possible practice application, not an intervention tested here
+- [[fluency-bias]] - distinct judgment construct; fluency does not establish a valid analogy
+- [[judgment]] - [Inference] examining analogies used in novel decisions
 
 ## Contradicts / Extends
 
-- Foundational; extended by subsequent computational implementations (Falkenhainer, Forbus, & Gentner 1989, the Structure-Mapping Engine; Holyoak & Thagard 1989). The KB doesn't have those source entries; this paper is the canonical reference.
-- Compatible with [[bjork-desirable-difficulties-2011]] — both papers share the underlying claim that *productive struggle* (here: working out a structural alignment when surface cues mislead) builds something AI substitution doesn't.
+- The account connects human analogy research with computational structure-mapping models; it is not a modern LLM benchmark.
+- [[bjork-desirable-difficulties-2011]] concerns learning conditions. Neither source establishes that AI substitution necessarily prevents the learning benefits of constructing an analogy.
 
 ## Open Questions
 
-- Empirical question with sharper teeth in the AI era: how do current LLMs perform on cross-mapping tasks where surface and structural similarity conflict? (Existing benchmarks tend to lean on surface similarity.)
-- Does AI-assisted reasoning preserve the human's ability to do structural alignment, or does prolonged use of pattern-completion tools degrade it (per the [[capacity-erosion]] hypothesis)?
-- Gentner & Markman's framework predicts that humans suppress surface matches when structure demands it. Do AI-mediated reasoning settings (where surface matches are abundant and immediate) make that suppression harder?
+- How do particular AI models and human users perform when surface resemblance conflicts with relational structure?
+- Does AI-assisted reasoning improve, preserve or reduce later unaided structural alignment?
+- Which prompts, examples or feedback help users check candidate inferences?
+
+These require direct tests; the 1997 theory does not determine their answers.

@@ -24,3 +24,9 @@
   - "Key Insight" expanded with Fan definition + rubric-design observation
   - Related section: added [[fan-metacognitive-laziness-2025]]
 - drafts/source.md moved out; drafts/updates/metacognitive-laziness.md retained as evidence
+
+## 2026-09-26 — six-group audit correction integrated
+
+- A26: retained essay-score gains and learning null; removed comparative learning-loss/capacity-degradation and common-mechanism claims.
+- Approval: Fix; Six high-priority groups only. Batch: kb-audit-corrections-2026-09-26.
+- Three-lens self-review and draft gate passed. This is a scoped correction, not complete re-review of unchanged claims. Original files and prior decisions preserved.
