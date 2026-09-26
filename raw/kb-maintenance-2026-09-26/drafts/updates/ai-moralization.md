@@ -46,4 +46,3 @@ Meincke et al. (2026) add a caveat: in the ethical-advice domain, much of the ap
 
 - [[demello-moralization-2026]] — de Mello, V. O., Côté, É., Ayad, R., Inbar, Y., Plaks, J., & Inzlicht, M. (2026). The moralization of artificial intelligence. University of Toronto.
 - [[meincke-advice-quality-2026]] — Meincke, Nave & Terwiesch (2026)
-

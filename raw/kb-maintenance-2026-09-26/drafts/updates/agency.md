@@ -106,4 +106,3 @@ AI management does not uniformly suppress voice. Across three Chinese scenario e
 - [[corgnet-genai-motivation-2026]] — Corgnet, B., Fumagalli, E., & Rezaei, S. (2026). Beyond Performance: Replacing a Human Coworker with AI Enhances Motivation. Working paper, June 12, 2026.
 - [[wang-algorithmic-leadership-voice-2026]] — Wang, S., Sun, X., Ni, S., Wu, M., & Hu, K. (2026). Employees show greater willingness to voice toward algorithmic than human leaders in cognitive tasks through fairness perception and psychological safety. Scientific Reports. https://doi.org/10.1038/s41598-026-61031-6
 - [[werner-conversational-ai-steering-2024]] — Werner, T., Soraperra, I., Calvano, E., Parkes, D. C., & Rahwan, I. (2024). Experimental evidence that conversational artificial intelligence can steer consumer behavior without detection. arXiv:2409.12143v1. https://arxiv.org/abs/2409.12143
-

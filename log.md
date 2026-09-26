@@ -71,3 +71,10 @@ Parseable: `grep "^## \[" log.md | tail -20` shows recent activity.
 - Twenty quotations matched their source pages. Whole-KB checks found only the same nine pre-existing issues. Index and README counts refreshed; new source links synchronized explicitly without unrelated citation rewrites.
 - Original papers, extracted text and update proposals preserved. Temporary folders remain excluded from Git. No commit or push.
 - Details: [PARTIAL integration report](raw/julia-2026-09-26-partial-integration.md).
+
+## [2026-09-26] maintenance | Nine check issues resolved; older-claim review complete
+
+- Julia integrations and partial-automation correction committed as `106aff9`; no push, unrelated edits excluded.
+- Seven gated maintenance updates resolve all nine previous KB warnings: six source links, Fernandes's explanatory-depth link, and verified Mollick/Nosta excerpt sections. Four exact quotation checks passed. Whole-KB linter: zero findings; counts remain 204 entries.
+- Three separate reviewers checked older claims in nine entries. Eight need substantive corrections; recommendations saved, not integrated. Mechanical checks do not certify those claims.
+- Drafts, review decisions, evidence ledgers and next decision: [maintenance report](raw/kb-maintenance-2026-09-26/README.md).

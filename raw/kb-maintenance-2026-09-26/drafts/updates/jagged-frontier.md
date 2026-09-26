@@ -67,4 +67,3 @@ He notes these categories are fluid and will shift as AI improves — Just Me Ta
 - [[dellacqua-jagged-frontier-2023]] — Dell'Acqua et al. (2023)
 - [[mollick-management-ai-superpower-2026]] — Mollick (2026)
 - [[mollick-cointelligence-2024]] — Mollick (2024)
-

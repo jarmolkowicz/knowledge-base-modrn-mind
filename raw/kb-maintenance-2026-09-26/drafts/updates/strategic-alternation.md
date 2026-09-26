@@ -73,4 +73,3 @@ These sources inform questions about practice and task design; none validates a 
 
 - [[runco-jaeger-creativity-2012]] — Runco & Jaeger (2012)
 - [[wu-collaboration-motivation-2025]] — Wu, S., Liu, Y., Ruan, M., Chen, S., & Xie, X.-Y. (2025). Human-generative AI collaboration enhances task performance but undermines human's intrinsic motivation. Scientific Reports, 15, 15105. https://doi.org/10.1038/s41598-025-98385-2
-
