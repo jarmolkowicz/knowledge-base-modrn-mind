@@ -6,7 +6,7 @@ sources:
   - "Tankelevitch, L., Kewenig, V., Simkute, A., Scott, A. E., Sarkar, A., Sellen, A., & Rintel, S. (2024). The Metacognitive Demands and Opportunities of Generative AI. CHI '24. doi:10.1145/3613904.3642902 (also arXiv:2312.10893, December 2023)"
 ---
 
-# Tankelevitch et al. (2023) — The [[metacognitive-demand|Metacognitive Demand]]s of Generative AI
+# Tankelevitch et al. (2024; 2023 preprint) — The [[metacognitive-demand|Metacognitive Demand]]s of Generative AI
 
 ## Citation
 
@@ -42,8 +42,8 @@ For human thinking with AI: this is the load-bearing theoretical paper for the K
 
 ## Key Passages
 
-> "Generative AI systems impose multiple metacognitive demands on users. … understanding these demands can help interpret and probe the identified and potentially novel usability challenges."
-> — Tankelevitch et al., [p.1] (introduction)
+> "Firstly, we suggest that current GenAI systems impose multiple metacognitive demands on users; understanding these demands can help interpret and probe the identified and potentially novel usability challenges."
+> — Tankelevitch et al., [pp.1–2] (introduction)
 
 > "The metacognitive demands of working with GenAI systems parallel those of a manager delegating tasks to a team."
 > — Tankelevitch et al., [p.2]
@@ -57,7 +57,7 @@ For human thinking with AI: this is the load-bearing theoretical paper for the K
 > "Confidence is one's self-assessment of one's cognitive abilities and their application to tasks… A 'well-adjusted' confidence distinguishes objectively correct and incorrect performance, and accurately matches one's abilities."
 > — Tankelevitch et al., [p.3]
 
-> "We can address [these demands] in at least two complementary ways. Firstly, given that metacognitive abilities can be taught, we can improve users' metacognition via metacognitive support strategies… Secondly, we can reduce the metacognitive demand of GenAI systems by designing task-appropriate approaches to GenAI explainability and customizability."
+> "These demands can be addressed in at least two complementary ways. Firstly, given that metacognitive abilities can be taught, we can improve users' metacognition via metacognitive support strategies… Secondly, we can reduce the metacognitive demand of GenAI systems by designing task-appropriate approaches to GenAI explainability and customizability."
 > — Tankelevitch et al., [p.2]
 
 ## Relevance

@@ -73,7 +73,7 @@ Memmert et al. (2025) add a workplace boundary condition. In interviews with 21 
 - [[fluency-bias]] - makes offloaded AI output feel trustworthy
 - [[automation-bias]] - trusting offloaded results uncritically
 - [[capacity-erosion]] - possible loss of established skill, distinct from offloading itself
-- [[strategic-alternation]] - counterbalances offloading with deliberate practice
+- [[strategic-alternation]] - proposed way to retain practice opportunities; not a proven countermeasure
 - [[scan]] - maps offloading risk by knowledge zone
 - [[sycophancy]] - compounds offloading effects
 - [[cognitive-debt]] - the accumulated cost of offloading
@@ -83,7 +83,7 @@ Memmert et al. (2025) add a workplace boundary condition. In interviews with 21 
 - [[tri-system-theory]] - framework that formally distinguishes offloading from surrender
 - [[metacognition]] - confidence is one influence on offloading decisions (Gilbert et al. 2023)
 - [[confidence-competence-gap]] - memory confidence predicts use of saved information; causal direction was not isolated (Hu et al. 2019)
-- [[belief-offloading]] - the deepest form of offloading: exporting conviction, not just cognition (Guingrich et al. 2026)
+- [[belief-offloading]] - proposed offloading of belief formation and commitments; comparative consequences remain untested (Guingrich et al. 2026)
 - [[capacity-erosion]] - Huffstadt measures cross-sectional motivational associations, not capability loss
 - [[system-0-thinking]] - Chiriatti et al. (2024) frame AI as a foundational substrate (system 0) that makes habitual offloading possible; offloading is the daily mechanism through which the substrate integrates with cognition
 

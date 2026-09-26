@@ -23,3 +23,9 @@
 
 - A18: learner prerequisites and conditional learning benefits; AI application labeled inference.
 - User approved priority corrections; three-lens self-review and mechanical validation passed. Related entries corrected in the same batch. Original files and prior decisions unchanged.
+
+
+## 2026-09-27 — remaining audit correction
+
+- Scoped correction or repeated-claim update after retained drafts, three-lens self-critique and validation. See batch distill.md and critique.md. Original file and previous decisions preserved.
+- Authority: user "Fix rest groups". Batch: kb-remaining-corrections-2026-09-27. No commit or push.

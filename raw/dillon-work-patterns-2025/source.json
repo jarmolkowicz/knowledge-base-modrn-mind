@@ -23,6 +23,14 @@
       "by": "tooling/scripts/extract.py --reextract",
       "at": "2026-04-29T10:49:34Z",
       "reason": "Re-extracted with opendataloader-pdf (was pypdf). source.md replaced; lifecycle state preserved."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-27",
+      "by": "Codex librarian; user-approved remaining audit groups",
+      "batch": "kb-remaining-corrections-2026-09-27",
+      "reason": "Scoped correction or repeated-claim update after retained drafts, three-lens self-critique and validation. See batch distill.md and critique.md. Original file and previous decisions preserved."
     }
   ],
   "pages": 24

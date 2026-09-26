@@ -35,7 +35,7 @@ Nosta suggests:
 - [[amathia-drift]] - the process that leads to crossing MCI
 - [[cognitive-grit]] - what maintains you above MCI
 - [[agency]] - what is compromised below MCI
-- [[strategic-alternation]] - practice that protects MCI
+- [[strategic-alternation]] - proposed practice, not demonstrated protection of MCI
 - [[cognitive-offloading]] - the mechanism by which MCI is crossed
 
 ## Sources

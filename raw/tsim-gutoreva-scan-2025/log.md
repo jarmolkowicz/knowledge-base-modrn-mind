@@ -17,3 +17,9 @@
 
 ## 2026-04-29T12:58:17Z — re-distilled (Pass 2 batch 3)
 - Replaced sources/tsim-gutoreva-scan-2025.md with v2 draft
+
+
+## 2026-09-27 — remaining audit correction
+
+- Scoped correction or repeated-claim update after retained drafts, three-lens self-critique and validation. See batch distill.md and critique.md. Original file and previous decisions preserved.
+- Authority: user "Fix rest groups". Batch: kb-remaining-corrections-2026-09-27. No commit or push.

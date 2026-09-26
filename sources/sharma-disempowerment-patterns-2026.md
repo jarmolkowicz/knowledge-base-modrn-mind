@@ -26,8 +26,7 @@ Severe rates are low (under 1 in 1,000 conversations) but concentrated in non-te
 
 ## Key Passages
 
-> "We consider a human to be situationally disempowered to the extent that their beliefs about reality are inaccurate, their value judgments are inauthentic to their values, and their actions are misaligned with their values. Therefore, an interaction with an AI assistant is situationally disempowering to the extent that it moves a user along any of these axes."
-> — Sharma et al., [p.3]
+Paraphrase: The authors define situational disempowerment through inaccurate beliefs, judgments inauthentic to the user's values, or actions misaligned with those values. AI interaction is disempowering insofar as it moves the user along those dimensions. — Sharma et al., [p.3]
 
 > "Severe reality distortion potential, the most common severe-level primitive, occurs in fewer than one in every thousand conversations. Among amplifying factors, user vulnerability is most prevalent, with approximately one in 300 interactions showing evidence of severe vulnerability."
 > — Sharma et al., [p.2]
@@ -47,7 +46,7 @@ Severe rates are low (under 1 in 1,000 conversations) but concentrated in non-te
 > "We find that interactions flagged as having moderate or severe disempowerment potential exhibit positivity rates above the baseline rate (Figure 14), across all disempowerment potential primitives. This suggests that users rate interactions with disempowerment potential favorably, at least in the short term, which could create problematic incentives if such feedback is used to train preference models."
 > — Sharma et al., [p.18]
 
-> "Optimizing against the standard PM tends to neither reduce the rate of disempowering responses, nor increase it substantially. As such, standard PMs neither strongly incentivize nor disincentivize disempowerment on this dataset… if preference data primarily captures instantaneous user satisfaction rather than longer-horizon effects on empowerment, standard PM training alone may be insufficient to reliably reduce human disempowerment potential."
+> "[O]ptimizing against the normal PM tends to neither reduce the rate of disempowering responses, nor increase it substantially. As such, standard PMs neither strongly incentivize nor disincentivize disempowerment on this dataset… if preference data primarily captures instantaneous user satisfaction rather than longer-horizon effects on empowerment, standard PM training alone may be insufficient to reliably reduce human disempowerment potential."
 > — Sharma et al., [pp.19-20]
 
 > "Deskilling is not necessarily disempowering. Loss of skills that do not affect one's ability to perceive the world accurately, or evaluate and respond to the world in accordance with one's values, does not constitute situational disempowerment."

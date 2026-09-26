@@ -71,7 +71,7 @@ The methodological lesson — that without split sampling, a "hallucinated assoc
 ## Contradicts / Extends
 
 - Extends [[goddard-automation-bias-2012]] — Goddard's systematic review of 74 CDSS studies established the 26% increased risk of following bad automated advice. Yu provides a continuous dose-response in a single specialist population: error magnitude scales the harm, and direction of error matters.
-- Extends [[bauer-discontinuing-ml-2022]] — Bauer shows skill-prevention via discontinuance in a non-expert sample (logical puzzles). Yu shows skill-disruption via AI error during use in board-certified specialists. Together they describe two different mechanisms of AI-mediated harm: prevention (Bauer) and degradation (Yu).
+- Complements [[bauer-discontinuing-ml-2022]] — Bauer studies new-skill development and a post-removal gap followed by catch-up; Yu studies assisted diagnostic performance. Different designs and measures, not joint evidence of two established lasting skill-loss mechanisms.
 - Complicates [[bastani-guardrails-math-rct-2025]]'s leveling story — Bastani found vanilla GPT-4 access produced large gains for weaker math students that disappeared on unassisted exam. Yu's specialist data find no consistent leveling effect at all: lower-performing radiologists did not benefit more on assisted tasks. The leveling finding may be domain- and skill-stage-specific.
 - Companion to [[passalacqua-less-ai-2024]] — Passalacqua: practice with less AI builds skill better. Yu: among already-skilled experts, individual response to AI is heterogeneous and unpredictable from experience alone. Together: skill formation needs less AI; skilled use of AI needs individual measurement.
 

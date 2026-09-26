@@ -36,7 +36,7 @@ The paradox: the same task can move in either direction based on your choices.
 - [[scan]] - framework that maps these paths
 - [[capacity-erosion]] - deskilling over time
 - [[desirable-difficulty]] - mechanism for upskilling
-- [[strategic-alternation]] - prevents deskilling through deliberate practice
+- [[strategic-alternation]] - proposed practice; prevention of deskilling is not established
 
 ## Sources
 

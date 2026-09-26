@@ -48,10 +48,10 @@ For human thinking with AI: this is the foundational literature for understandin
 > — Parasuraman & Riley, [p.6]
 
 > "If the base rate is low, as it often is for many real events, then the posterior probability of a true alarm — the probability that given an alarm, a hazardous condition exists — can be low even for sensitive warning systems. ... Many human operators tend to ignore and turn off alarms — they have cried wolf once too often."
-> — Parasuraman & Riley, [pp.8–9]
+> — Parasuraman & Riley, [p.8; printed pp.244–245]
 
 > "One cannot remove human error from the system simply by removing the human operator. Indeed, one might think of automation as a means of substituting the designer for the operator. To the extent that a system is made less vulnerable to operator error through the introduction of automation, it is made more vulnerable to designer error."
-> — Parasuraman & Riley, [pp.9–10]
+> — Parasuraman & Riley, [p.9; printed p.247]
 
 > "In general, abuse of automation can lead to problems with costs that can reduce or even nullify the economic or other benefits that automation can provide. Moreover, automation abuse can lead to misuse and disuse of automation by operators. If this results in managers' implementing additional high-level automation, further disuse or misuse by operators may follow, and so on, in a vicious circle."
 > — Parasuraman & Riley, [p.10]

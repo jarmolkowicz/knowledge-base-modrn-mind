@@ -42,8 +42,7 @@ For human thinking with AI: every component of Flavell's model maps to an AI-use
 
 ## Key Passages
 
-> "Metacognition refers to one's knowledge and cognition about cognitive phenomena."
-> — Flavell, [p.1] (definitional, paraphrased from the abstract)
+Paraphrase: Metacognition concerns knowledge and cognition about cognitive phenomena. — Flavell, [p.1] (definitional, paraphrased from the abstract)
 
 > "The monitoring of a wide variety of cognitive enterprises occurs through the actions of and interactions among four classes of phenomena: (a) metacognitive knowledge, (b) metacognitive experiences, (c) goals (or tasks), and (d) actions (or strategies)."
 > — Flavell, [p.1]

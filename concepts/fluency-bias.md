@@ -21,19 +21,19 @@ The tendency to judge information that is easy to process as more true, valuable
 
 ## Why It Matters
 
-AI produces exceptionally fluent output—grammatically perfect, well-structured, confident-sounding. Our brains read this fluency as quality. But AI fluency doesn't correlate with AI accuracy. AI can write beautiful nonsense.
+AI produces exceptionally fluent output—grammatically perfect, well-structured, confident-sounding. Our brains read this fluency as quality. Fluency does not guarantee accuracy; this entry does not establish a universal zero correlation. AI can write beautiful nonsense.
 
 ## Key Insight
 
-Fluency-accuracy dissociation: fluent ≠ correct. AI's polished output lowers your natural skepticism. You feel like you're reading good work, which reduces the energy you invest in verification.
+Fluency-accuracy distinction: fluent does not necessarily mean correct. [Inference] Polished wording may discourage scrutiny; evaluate content against evidence rather than treating ease of reading as a quality test.
 
 ## The Processing Fluency Mechanism
 
-Research identifies "processing fluency" as the specific mechanism: AI outputs are grammatically correct, well-formatted, and confident in tone. This smoothness creates ease of reading that signals truth. Users conflate "sounds good" with "is correct"—even sophisticated users struggle to overcome this bias.
+Oppenheimer (2008) reviews processing fluency as a cue in judgment, and Reber & Schwarz (1999) test perceived truth under a perceptual-fluency manipulation. [Inference] Fluent AI wording may influence evaluation, but the AI-specific mechanism and its strength require direct tests; neither fluency nor expertise establishes accuracy.
 
 Stadler, Bannert & Sailer (2024) found lower self-reported cognitive load and lower same-session justification quality after ChatGPT-3.5 versus Google research (N=91). Their exploratory mediation analysis included an indirect path through germane load (β = 0.15, p = .020). The study did not measure processing fluency or judgments of truth. It is relevant to questions about ease and quality, but does not establish that fluency bias and reduced germane load are the same mechanism.
 
-Meincke, Nave & Terwiesch (2026) provide field-relevant evidence for fluency bias operating in a normatively loaded domain. In a Registered Report comparing GPT-4 ethical advice to NYT Ethicist columnist advice (N=642), participants rated AI advice equal to or *slightly higher* than expert advice when the source label was hidden — but rated expert advice higher than AI advice when sources were disclosed. Same content, evaluated identically by the same population on the same dilemmas, shifted ~7 percentage points in preference based purely on the source label. The authors' proposed mechanism is fluency: "Because LLMs communicate in natural language complete with reasoning, argumentation, and rhetorical nuance, their advice may appear more human and their thought processes more transparent. This linguistic familiarity may soften initial skepticism and accelerate the development of trust" [p.9]. When the source label is hidden, fluency does its work and AI is indistinguishable from or superior to a human expert in perceived usefulness. This is fluency bias operating in the ethical domain, where prior literature ([[ai-moralization]], algorithm aversion) had assumed structural resistance.
+Meincke, Nave & Terwiesch (2026) compared GPT-4 ethical advice with NYT Ethicist advice in a Registered Report (N=642). Hiding versus disclosing the source changed preferences: participants preferred AI advice in 46.8% of choices with disclosure. This tests source-label effects on perceived advice quality, not whether fluency caused those preferences. The authors explicitly state that the findings do not establish the underlying mechanisms; natural-language reasoning is one proposed explanation.
 
 ## Extended: The Coherence Trap
 
@@ -45,7 +45,7 @@ Huffstadt (2026) discusses perceptual fluency as a possible account of AI-suppor
 
 ## Extended: Field-Scale Adoption
 
-Messeri & Crockett (2024) extend fluency bias from individual perception to the structure of scientific knowledge production. They identify four qualities that make AI outputs feel like satisfying explanations — *simple*, *broad*, *reductive*, *quantitative* — and note that "reductive and quantitative explanations tend to produce feelings of understanding, [but] such feelings are not always correlated with actual understanding" (Messeri & Crockett 2024, p.4). All four qualities feature prominently in scientists' visions of AI: Oracles provide simplifying summaries of entire literatures; Quants produce quantitative models of complex phenomena; Surrogates promise breadth across humanity; Arbiters reduce scientific merit to predicted-replicability scores. Fluency bias thus operates not just on individual judgement of an AI output but on the *adoption* of AI tools at field scale: the very qualities that make AI outputs trigger fluency-driven trust are the qualities that, aggregated, produce a [[scientific-monoculture]] of knowing.
+Messeri & Crockett (2024) extend fluency bias from individual perception to the structure of scientific knowledge production. They identify four qualities that make AI outputs feel like satisfying explanations — *simple*, *broad*, *reductive*, *quantitative* — and note that "reductive and quantitative explanations tend to produce feelings of understanding, [but] such feelings are not always correlated with actual understanding" (Messeri & Crockett 2024, p.4). All four qualities feature prominently in scientists' visions of AI: Oracles provide simplifying summaries of entire literatures; Quants produce quantitative models of complex phenomena; Surrogates promise breadth across humanity; Arbiters reduce scientific merit to predicted-replicability scores. [Inference] These qualities could influence tool adoption and contribute to a [[scientific-monoculture]]. The synthesis proposes this field-level pathway; it does not measure or establish it.
 
 ## Related
 
@@ -59,10 +59,10 @@ Messeri & Crockett (2024) extend fluency bias from individual perception to the 
 - [[jagged-frontier]] - where fluency bias causes errors
 - [[artificial-confidence]] - related but distinct mechanism: fluency bias is about processing ease signaling truth (trusting AI output); artificial confidence is about social comparison signaling relative ability (dismissing AI as inferior and feeling more capable by comparison). Both distort self-assessment but through different pathways.
 - [[capacity-erosion]] - unnoticed erosion is a hypothesis, not an outcome measured by Huffstadt
-- [[effort-heuristic]] - inverse effect: AI's effortlessness makes solo effort feel like a bug
+- [[effort-heuristic]] - perceived effort can affect valuation; an inverse AI-specific effect is untested
 - [[stadler-cognitive-ease-cost-2024]] — cognitive-load and same-session quality measures, not a direct test of processing fluency
-- [[disclosure-penalty]] — Meincke et al. (2026) show source-disclosure can interrupt fluency-driven trust formation, but only partially: even with disclosure, AI ethical advice is preferred in 46.8% of choices
-- [[meincke-advice-quality-2026]] — fluency bias evidence in the ethical-advice domain: AI rated equal to or higher than NYT Ethicist when source is hidden; authors propose natural-language reasoning as the trust-formation pathway
+- [[disclosure-penalty]] — Meincke et al. (2026) test source-label effects, not interruption of a demonstrated fluency mechanism
+- [[meincke-advice-quality-2026]] — ethical-advice preferences vary with source disclosure; fluency remains a proposed explanation
 - [[illusion-of-explanatory-depth]] - the metacognitive consequence of fluency-driven trust in AI explanations
 - [[illusion-of-objectivity]] - fluency reinforces the apparent neutrality of AI outputs
 - [[scientific-monoculture]] - the structural outcome when fluency bias drives tool adoption across a field
@@ -71,7 +71,7 @@ Messeri & Crockett (2024) extend fluency bias from individual perception to the 
 
 - [[oppenheimer-fluency-2008]] — Oppenheimer (2008)
 - [[reber-schwarz-fluency-truth-1999]] — Reber & Schwarz (1999)
-- Tankelevitch et al. (2024)
+- [[tankelevitch-metacognitive-demands-2023]] — Tankelevitch et al. (2024)
 - [[reich-artificial-confidence-2026]] — Reich & Teeny (2026)
 - [[huffstadt-silent-impact-2026]] — Huffstadt (2026)
 - [[stadler-cognitive-ease-cost-2024]] — Stadler, Bannert & Sailer (2024)

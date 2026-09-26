@@ -104,7 +104,7 @@ The paper's design is a survey, not an RCT — correlations are not causation, a
 - [[professional-identity-threat]] — "stewardship" framing maps onto editor-not-creator: the worker retains accountability while delegating production.
 - [[novice-vulnerability]] — qualitative finding that workers under-engage when "self-doubt in their ability to perform tasks independently" leads to default acceptance of AI output (e.g., legal-letter and grammar-check examples) [p.10].
 - [[think-first]] — the paper's design recommendation to support "active and critical customisation and refining of AI-generated content" [p.13] is the protocol-level expression of think-first applied to AI workflows.
-- [[strategic-alternation]] — the paper's warning that "without regular practice in common and/or low-stakes scenarios, cognitive abilities can deteriorate over time" [p.10] is the empirical motivation for strategic alternation as a counter-measure.
+- [[strategic-alternation]] — the authors discuss practice as a concern; this survey does not validate an alternation schedule or demonstrate its protective effect.
 
 ## Contradicts / Extends
 

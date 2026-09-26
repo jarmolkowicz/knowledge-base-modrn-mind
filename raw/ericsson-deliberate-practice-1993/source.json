@@ -4,7 +4,7 @@
   "format": "pdf",
   "source_type": "article",
   "word_count": 42981,
-  "hash": "3f87e3c1621ef9b57dcccea07337e332dbef27482c3774933e5d1c0d26b25634",
+  "hash": "de70abe40977932a3e40cab1a3daf43ba61711ef7ed2c6f168770f37a57e5e3c",
   "extractor": "opendataloader-pdf",
   "extractor_script_version": "0.1.0",
   "status": "integrated",
@@ -37,6 +37,15 @@
       "by": "human (Pass 2 batch 1)",
       "at": "2026-04-29T12:40:02Z",
       "reason": "Re-distilled from the correct Ericsson 1993 PDF (the prior binary was Macnamara & Maitra 2019, a failed-replication paper). Added Key Passages with locators, expanded Key Insight with work/play/deliberate-practice tripartition, noted Macnamara replication in Contradicts/Extends."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "metadata_corrected",
+      "date": "2026-09-27",
+      "by": "Codex librarian; user-approved remaining audit groups",
+      "batch": "kb-remaining-corrections-2026-09-27",
+      "reason": "A13: rendered first page confirms Ericsson, Krampe and Tesch-Romer, Psychological Review 1993, pp.363-406. Correct stale catalog hash after the replacement documented on 2026-04-29. Original PDF not changed.",
+      "previous_hash": "3f87e3c1621ef9b57dcccea07337e332dbef27482c3774933e5d1c0d26b25634"
     }
   ],
   "pages": 44

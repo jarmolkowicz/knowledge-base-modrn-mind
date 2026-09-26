@@ -39,6 +39,14 @@
       "outcome": "INTEGRATED",
       "date": "2026-04-30",
       "reason": "drafts/source.md moved to sources/yu-radiologists-ai-2024.md; 4 UPDATEs applied to concepts/automation-bias.md, concepts/human-ai-complementarity.md, concepts/novice-vulnerability.md, concepts/paradox-of-expertise.md. Aux scripts ran. KB counts: 72→73 sources, 57 concepts, 12 methods, 141→142 total."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-27",
+      "by": "Codex librarian; user-approved remaining audit groups",
+      "batch": "kb-remaining-corrections-2026-09-27",
+      "reason": "Scoped correction or repeated-claim update after retained drafts, three-lens self-critique and validation. See batch distill.md and critique.md. Original file and previous decisions preserved."
     }
   ],
   "pages": 27

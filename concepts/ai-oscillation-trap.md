@@ -9,49 +9,30 @@ sources: []
 
 ## What It Is
 
-The [[cognitive-friction|cognitive friction]] and performance degradation that occurs from repeatedly switching between AI-assisted and manual work. This is distinct from simple skill atrophy—the switching itself creates harm.
+[Speculation] A proposed difficulty in moving between AI-assisted and unaided work. The idea is that transition costs might make unsupported work feel less attractive. This is not an established mechanism of [[capacity-erosion]].
 
-## Why It Matters
+## Evidence Status
 
-The brain optimizes for available tools, outsourcing functions like memory, decision-making, and situational awareness. When users must revert to manual modes, they experience "cognitive discontinuity"—the brain resists the shift.
+The historical attribution to Nosta's 2025 "AI Oscillation Trap" essay remains unverified; no accessible canonical source is retained in this KB. Earlier assertions about writers, drivers and physicians and an attributed quotation have been removed from the active entry because their provenance was not verified. They remain in the correction history, not usable evidence.
 
-This creates a paradox: the more you alternate (which should preserve skills), the more friction you experience, which reinforces AI dependency.
+## Questions to Test
 
-## Examples
+- Are observed difficulties temporary transition costs, differences in task difficulty, reduced prior practice, or loss of previously acquired skills?
+- Does transition frequency affect independent performance after accounting for practice and tool quality?
+- Do any costs persist after familiarization?
 
-- Writers using LLMs find independent ideation feels "sluggish, less fluid"
-- Drivers accustomed to Full Self-Driving experience slower reflexes during manual driving
-- Physicians relying on AI diagnostics struggle with intuitive pattern recognition when support removed
+## Implications
 
-## Mechanism
-
-Three factors compound:
-1. **Cognitive Load Redistribution** - Brain outsources functions to regularly-used tools
-2. **Automation Complacency** - Overreliance dulls manual capabilities
-3. **Psychological Friction** - Moving between modes creates frustration that reinforces dependency
-
-## Implications for Strategic Alternation
-
-The oscillation trap suggests [[strategic-alternation]] needs careful design:
-- Longer periods in each mode may be better than frequent switching
-- Transition protocols may help (warm-up before manual work)
-- Hybrid modes that keep humans engaged throughout
-
-## Sources
-
-_(Primary source — Nosta (2025) "AI Oscillation Trap" Psychology Today essay — was removed from the KB pending verifiable access. Concept retained as `status: speculative` because the dynamic is observable in practice but not yet evidenced in the KB.)_
-
-## Key Quote
-
-"The challenge isn't ensuring how far we can push augmentation but how we ensure that stepping back doesn't become a precarious fall."
+[Inference] Do not infer a required switching schedule from this hypothesis. [[strategic-alternation]] is a proposed practice; neither frequent switching nor longer blocks is validated here. Assess independent performance and work experience directly.
 
 ## Related
 
-- [[strategic-alternation]] - the practice this complicates
-- [[capacity-erosion]] - oscillation-specific erosion mechanism
-- [[automation-bias]] - related phenomenon in automation research
+- [[strategic-alternation]] — a proposed practice whose timing remains unsettled
+- [[capacity-erosion]] — lasting skill loss is distinct from temporary transition difficulty
+- [[automation-bias]] — a separate evidence base on inappropriate reliance
+- [[cognitive-friction]] — perceived effort is not itself proof of harm
 
 ## Sources
 
-- Nosta, Oscillation Trap (2025)
+No verified source currently supports this named hypothesis.
 

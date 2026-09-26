@@ -48,8 +48,8 @@ For human thinking with AI: Singh Yadav synthesizes much of the KB's individual-
 > "Chapter 4 introduces the AI-Competence Ceiling hypothesis, demonstrating how AI's selective amplification effects disrupt the natural progression from competent to expert-level performance described in the Dreyfus model."
 > — Singh Yadav, Ch.1.5 (TOC framing), [p.31]
 
-> "[Tesla's full-automation Model 3 production] missed targets by 83% in the first quarter after launch (planned, 5000 units/week; actual, 793 units/week). Quality control defects increased by 340% compared to previous model production."
-> — Singh Yadav, Ch.1.4, [p.24]
+> "Production targets were missed by 83% in the first quarter after launch (planned, 5000 units/week; actual, 793 units/week). Quality control defects increased by 340% compared to previous model production."
+> — Singh Yadav, Ch.1.4, [p.24] (the author's Tesla example; numerical claims reproduced as source claims, not independently verified here)
 
 ## Methodology
 

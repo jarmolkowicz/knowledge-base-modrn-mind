@@ -5,7 +5,6 @@ area:
 - risk
 sources:
 - Bastani et al. (2025)
-- Yan et al. (2025)
 - Singh Yadav (2026)
 - Bartoš et al. (2026)
 - Stadler, Bannert & Sailer (2024)
@@ -73,10 +72,13 @@ The study also shows why homework quality can become a misleading learning signa
 - [[wu-collaboration-motivation-2025]] - mixed transfer results across subsequent unaided tasks
 - [[stromberg-ai-learning-penalty-2026]] - longer-term field evidence with observational limits
 
+## Citation Note
+
+The earlier "Yan et al. (2025)" attribution could not be tied to a canonical source from available records. Removed from active citations; no substitution with a similarly named author inferred. Existing claims above rely on their individually named sources.
+
 ## Sources
 
 - [[bastani-guardrails-math-rct-2025]] — Bastani et al. (2025)
-- Yan et al. (2025)
 - [[singh-yadav-competency-paradox-2026]] — Singh Yadav (2026)
 - [[bartos-ai-learning-meta-meta-2026]] — Bartoš et al. (2026)
 - [[stadler-cognitive-ease-cost-2024]] — Stadler, Bannert & Sailer (2024)

@@ -37,6 +37,14 @@
       "date": "2026-09-26",
       "by": "Codex librarian; user-approved priority corrections",
       "reason": "A18: learner prerequisites and conditional learning benefits; AI application labeled inference. Approval: Make priority corrections. Drafted, three-lens self-critiqued and validated in local batch kb-priority-corrections-2026-09-26. Historical decisions and original files preserved."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-27",
+      "by": "Codex librarian; user-approved remaining audit groups",
+      "batch": "kb-remaining-corrections-2026-09-27",
+      "reason": "Scoped correction or repeated-claim update after retained drafts, three-lens self-critique and validation. See batch distill.md and critique.md. Original file and previous decisions preserved."
     }
   ],
   "pages": 10

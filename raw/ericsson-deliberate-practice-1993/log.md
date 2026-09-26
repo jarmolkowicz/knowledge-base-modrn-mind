@@ -22,3 +22,9 @@
 ## 2026-04-29T12:40:02Z — re-distilled (Pass 2 batch 1)
 - Replaced wrong binary (Macnamara 2019 replication) with correct Ericsson 1993 paper
 - Replaced sources/ericsson-deliberate-practice-1993.md with v2 draft
+
+
+## 2026-09-27 — remaining audit correction
+
+- A13: rendered first page confirms Ericsson, Krampe and Tesch-Romer, Psychological Review 1993, pp.363-406. Correct stale catalog hash after the replacement documented on 2026-04-29. Original PDF not changed.
+- Authority: user "Fix rest groups". Batch: kb-remaining-corrections-2026-09-27. No commit or push.

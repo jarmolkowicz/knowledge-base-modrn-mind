@@ -38,8 +38,8 @@ For human thinking with AI: AI-as-CDSS is the precise scenario this review descr
 > "The risk ratio was 1.26 (95% CI 1.11 to 1.44); erroneous advice was more likely to be followed in the CDSS groups than in the control groups and when in error the CDSS increased the risk of an incorrect decision being made by 26%."
 > — Goddard et al., [p.3]
 
-> "Trust is possibly the strongest driving factor in over-reliance, when trust is incorrectly calibrated against system reliability… Dzindolet et al. demonstrated that users had a predisposition to trust, or had a 'positivity bias' toward, an automated aid over a human one and commit AB error."
-> — Goddard et al., [p.4]
+> "Trust is possibly the strongest driving factor in over-reliance, when trust is incorrectly calibrated against system reliability… Dzindolet et al. demonstrated that users had a predisposition to trust, or had a 'positivity bias' toward, [an] automated aid over a human one and commit AB error."
+> — Goddard et al., [p.4] (printed p.124; original has "a automated"; grammar substitution bracketed)
 
 > "Automation complacency error rates for interruptive systems have been shown to increase if a DSS is highly (but not perfectly) reliable, leading to overtrust and complacency, and to decrease if it is less reliable… Madhavan and Wiegmann set the optimal threshold at 70% reliability before performance degrades."
 > — Goddard et al., [p.4]

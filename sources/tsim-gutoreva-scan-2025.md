@@ -44,7 +44,7 @@ For human thinking with AI: SCAN is the first KB-aligned attempt at a *task-leve
 > "Tasks completion at the Complement are the least prone to both cognitive offloading and sycophancy, as learner's task specific knowledge, with her metacognition, mitigates them to a large extent, via monitoring, and challenging GenAI's output via counterarguments."
 > — Tsim & Gutoreva, [p.5]
 
-> "SCAN distinguishes collaboration and augmentation from automation by locus of control and epistemic responsibility rather than by tool sophistication. … Substitute is the sub-zone that tempts automation; Aid instantiates augmentation; and Complement promotes collaboration."
+> "We distinguish collaboration and augmentation from automation by locus of control and epistemic responsibility rather than by tool sophistication. … Substitute is the sub-zone that tempts automation; Aid instantiates augmentation; and Complement promotes collaboration."
 > — Tsim & Gutoreva, [p.5]
 
 > "Upskilling proceeds by deliberately shifting, with a learner's metacognitive ability, recurrent tasks from Substitute to Aid to Complement via spaced practice and reflective comparison of human vs. AI rationales… deskilling occurs when tasks identification changes from Complement to Aid, due to a shift of user's role from production to evaluation."

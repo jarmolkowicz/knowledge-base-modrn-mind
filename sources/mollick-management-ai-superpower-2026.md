@@ -44,10 +44,10 @@ For human thinking with AI: this is the practitioner-side counterpart to the KB'
 > "Management has always assumed scarcity: you delegate because you can't do everything yourself, and because talent is limited and expensive. AI changes the equation. Now the 'talent' is abundant and cheap. What's scarce is knowing what to ask for."
 > — Mollick, [p.6]
 
-> "Software developers write Product Requirements Documents. Film directors hand off shot lists. Architects create design intent documents. The Marines use Five Paragraph Orders. Consultants scope engagements with detailed deliverable specs. All of these documents work remarkably well as AI prompts for this new world of agentic work… all of these are really the same thing: attempts to get what's in one person's head into someone else's actions."
+> "Software developers write Product Requirements Documents. Film directors hand off shot lists. Architects create design intent documents. The Marines use Five Paragraph Orders (situation, mission, execution, administration, command). Consultants scope engagements with detailed deliverable specs. All of these documents work remarkably well as AI prompts for this new world of agentic work… all of these are really the same thing: attempts to get what's in one person's head into someone else's actions."
 > — Mollick, [p.5]
 
-> "Deciding to delegate to AI depends on three variables: 1. Human Baseline Time… 2. Probability of Success… 3. AI Process Time. … You're trading off 'doing the whole task' against 'paying the overhead cost,' possibly multiple times until you get something acceptable."
+> "[D]eciding to delegate to AI depends on three variables: 1. Human Baseline Time… 2. Probability of Success… 3. AI Process Time… [Y]ou’re trading off “doing the whole task” (Human Baseline Time) against “paying the overhead cost” (AI Process Time), possibly multiple times until you get something acceptable."
 > — Mollick, [p.2]
 
 > "The people who thrive will be the ones who know what good looks like and can explain it clearly enough that even an AI can deliver it."

@@ -58,7 +58,7 @@ Nosta (2026) offers additional practical guidance:
 
 - [[desirable-difficulty]] - why difficulty builds capacity
 - [[cognitive-friction]] - the experiential side
-- [[strategic-alternation]] - practice for maintaining grit
+- [[strategic-alternation]] - proposed practice; effects on grit remain untested
 - [[think-first]] - specific application
 - [[amathia-drift]] - the smoothness trap as driver of drift
 - [[minimum-cognitive-integrity]] - cognitive grit protects against falling below MCI

@@ -1,5 +1,5 @@
 ---
-status: solid
+status: emerging
 area: [erosion, risk]
 type: paper
 sources:
@@ -32,11 +32,11 @@ The framework uses the **BENDING model** of belief networks (beliefs + perceived
 
 Three load-bearing claims for the KB:
 
-- **Autonomy illusion.** Belief offloading can satisfy C1 even when the user feels they decided independently. The "polished, authoritative" LLM output produces "the feeling of knowing without the labor of judgment" — and the user doesn't notice that they didn't actually do the judgment.
-- **AI's distinctive influence.** Anthropomorphism, natural-language interaction, predictive-output personalization, and the "unbiased expert" perception combine to make LLMs more belief-influential than other humans in many documented cases. Influence isn't merely informational; it has structural advantages over interpersonal influence.
-- **Collective dimension.** Because millions use a small set of LLMs (ChatGPT, Gemini, Claude), updates to those models can produce **uni-directional belief shifts at population scale**. This is a population-level mechanism distinct from individual-level cognitive effects.
+- **Perceived autonomy.** The authors propose that feeling independent need not establish that belief formation was independent. This is a conceptual concern, not evidence that all users fail to notice influence.
+- **Influence and its limits.** The paper discusses features that may make LLMs persuasive and examples of people preferring AI suggestions. It also explicitly notes that other humans may have equal or greater influence on belief uptake and formation in general; comparative dominance is not established.
+- **Collective hypothesis.** Shared model updates could affect belief formation across users. The paper proposes this possibility; it does not measure population-wide belief shifts.
 
-For human thinking with AI: belief offloading is the deepest form of offloading the KB has named. While the KB's [[cognitive-offloading]] cluster addresses memory, computation, and metacognition, belief offloading addresses *commitment itself*. It's the frontier of AI risk: not just thinking less, but believing without having believed.
+The contribution is a proposed extension of [[cognitive-offloading]] to belief formation and commitments. Its comparative importance, prevalence and effects need empirical assessment.
 
 ## Key Passages
 
@@ -63,18 +63,18 @@ Theoretical paper. Synthesis of cognitive science (Risko & Gilbert offloading fr
 
 Three contributions for the KB:
 
-- **Defines a new offloading category.** [[cognitive-offloading]] handles memory and computation; [[metacognition]] handles monitoring; belief offloading handles commitments. Distinct phenomenon, distinct mechanism, distinct intervention space.
-- **Population-level mechanism.** Most KB sources address individual cognition. Guingrich et al.'s collective dimension is one of the few KB-aligned sources that names a population-scale mechanism (uniform LLM shifts → uniform belief shifts in millions). Connects individual-cognition concerns to societal-epistemics concerns.
-- **Explains autonomy illusion.** The C1 condition (AI framing is constitutive even when user feels autonomous) is the structural reason "I'm just using AI as a tool" doesn't immunize against belief drift. Useful for educators explaining why disclaimers about user agency don't dissolve the issue.
+- **Proposes an offloading category.** The framework distinguishes belief formation from the memory and computation examples in [[cognitive-offloading]] and from monitoring in [[metacognition]]. Whether it requires distinct interventions remains to be tested.
+- **Population-level research question.** Model changes may affect many users, but uniform exposure does not establish uniform belief change. The collective account is a hypothesis.
+- **Questions perceived autonomy.** The proposed C1 distinction cautions that feeling independent need not show independent belief formation. The framework does not establish prevalence or validate a test for this condition.
 
 ## Supports
 
 - [[belief-offloading]] — primary source, defining paper
-- [[cognitive-offloading]] — belief offloading as the deepest, most consequential form
+- [[cognitive-offloading]] — a proposed higher-order extension, not a demonstrated ranking of consequences
 - [[borrowed-certainty]] — related individual-level phenomenon (commitments imported from AI without supporting reasoning)
 - [[agency]] — belief autonomy as a dimension of agency under AI threat
 - [[risko-gilbert-cognitive-offloading-2016]] — Guingrich et al. extend Risko & Gilbert's framework to commitments
-- [[fluency-bias]] — "polished, authoritative" output is the fluency mechanism that bypasses uptake skepticism
+- [[fluency-bias]] — fluent output is a proposed influence on uptake, not a mechanism tested in this conceptual paper
 - [[ai-moralization]] — AI-driven beliefs about ethics are belief offloading in the moral domain
 
 ## Contradicts / Extends
@@ -84,6 +84,6 @@ Three contributions for the KB:
 
 ## Open Questions
 
-- Empirical detection: how do you measure belief offloading in the wild? Self-report doesn't work (autonomy illusion). The paper is conceptual; operationalization is open.
+- Empirical detection: how can belief offloading be measured? Perceived autonomy might limit self-report alone, but the paper does not establish that self-report is useless. Operationalization and validation remain open.
 - Reversibility: can offloaded beliefs be retroactively examined and rejected? The cascade mechanism via BENDING suggests it's harder than reversing a single information exchange.
 - Differential vulnerability: who's most prone to belief offloading? Same metacognition-low population that's vulnerable to other offloading? Or different factors (anthropomorphism, parasocial tendency)?

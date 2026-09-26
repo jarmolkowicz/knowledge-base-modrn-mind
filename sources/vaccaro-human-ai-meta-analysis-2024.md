@@ -55,7 +55,7 @@ The widespread assumption that "human + AI is better than either alone" does not
 
 **Heterogeneity** [p.3]: very high (I² = 97.7% for synergy, 93.8% for augmentation) — effects vary enormously across studies, and the moderators explain only part of it.
 
-**Robustness** [p.8]: the synergy result showed no evidence of publication bias (Egger's regression P = 0.438) and held under leave-one-out and outlier-exclusion checks. The augmentation result *did* show publication bias (Egger's P = 0.002) — the literature skews toward publishing human-augmentation gains, so the augmentation estimate should be read as an upper bound.
+**Robustness** [p.8]: the synergy result showed no evidence of publication bias (Egger's regression P = 0.438) and held under leave-one-out and outlier-exclusion checks. Augmentation diagnostics indicated potential publication bias (Egger's P = 0.002). The authors did not estimate a bias-corrected effect. Upward bias is possible; these tests do not establish a numerical upper bound.
 
 ## Relevance
 
@@ -75,11 +75,11 @@ The paper's voice aligns with KB voice: it frames the null result not as AI-pess
 - [[complementarity-framework]] — empirically confirms task type and relative ability as moderators of complementarity.
 - [[automation-bias]] — the paper attributes decision-task losses partly to overreliance (humans following AI suggestions without further processing).
 - [[performance-paradox]] — related "looks good by the wrong metric" pattern: the augmentation baseline can make a human-AI system look successful even when AI alone would do better.
-- [[jagged-frontier]] — the relative-performance moderator (AI-stronger contexts produce losses) is the meta-analytic counterpart of in/out-of-frontier task variation.
+- [[jagged-frontier]] — both address task variation, but their comparisons differ: augmentation against humans alone is not synergy against the better single performer.
 
 ## Contradicts / Extends
 
-- Extends: [[dellacqua-jagged-frontier-2023]] — Dell'Acqua et al. is a single-firm field experiment showing in-frontier gains and out-of-frontier losses; Vaccaro et al. is the cross-task meta-analysis showing the same shape (gains when the human is stronger, losses when the AI is) across 106 experiments.
+- Complements: [[dellacqua-jagged-frontier-2023]] — the field experiment compares assisted with unassisted human performance across tasks. Vaccaro's synergy comparison also requires AI-alone performance; the two patterns are not equivalent.
 - Extends: [[yu-radiologists-ai-2024]] — Yu et al. document heterogeneous AI-assistance effects within one diagnostic domain; Vaccaro et al. quantify the heterogeneity across domains (I² = 97.7%) and name two of its sources.
 - Qualifies: [[handa-economic-tasks-claude-2025]] — Handa et al. map *where* AI is used; Vaccaro et al. show that usage does not imply the combination outperforms either party alone on the studied performance dimensions.
 - Does not contradict any existing source. The closest tension is with the optimistic "human + AI" framing implicit in several entries; Vaccaro et al. is the corrective evidence, not a contradiction of a specific finding.

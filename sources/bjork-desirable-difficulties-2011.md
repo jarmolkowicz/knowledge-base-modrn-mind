@@ -31,7 +31,7 @@ The qualification matters: many difficulties are undesirable. A difficulty becom
 > "Conditions of learning that make performance improve rapidly often fail to support long-term retention and transfer, whereas conditions that create challenges and slow the rate of apparent learning often optimize long-term retention and transfer."
 > — Bjork & Bjork, [p.3]
 
-> "Current performance is entirely a function of current retrieval strength, but storage strength acts to retard the loss (forgetting) and enhance the gain (relearning) of retrieval strength… If learners interpret current retrieval strength as storage strength, they become susceptible to preferring poorer conditions of learning to better conditions of learning."
+> "Current performance is entirely a function of current retrieval strength, but that storage strength acts to retard the loss (forgetting) and enhance the gain (relearning) of retrieval strength… If learners interpret current retrieval strength as storage strength, they become susceptible to preferring poorer conditions of learning to better conditions of learning."
 > — Bjork & Bjork, [p.4]
 
 > "Many difficulties are undesirable during instruction and forever after. Desirable difficulties… are desirable because they trigger encoding and retrieval processes that support learning, comprehension, and remembering. If, however, the learner does not have the background knowledge or skills to respond to them successfully, they become undesirable difficulties."

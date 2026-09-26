@@ -34,3 +34,9 @@
 - Aux scripts run: sync-source-links.py, build-index.py, update_readme_counts.py (re-run with PYTHONUTF8=1 after a Windows cp1252 print crash; README written)
 - drafts/concepts/ removed (empty); drafts/updates/ retained as evidence trail
 - KB-wide log.md updated; source.json status=integrated
+
+
+## 2026-09-27 — remaining audit correction
+
+- Scoped correction or repeated-claim update after retained drafts, three-lens self-critique and validation. See batch distill.md and critique.md. Original file and previous decisions preserved.
+- Authority: user "Fix rest groups". Batch: kb-remaining-corrections-2026-09-27. No commit or push.

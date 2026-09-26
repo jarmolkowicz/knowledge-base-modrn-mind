@@ -68,7 +68,7 @@ The strongest brief-exposure RCT in the KB. Three load-bearing contributions:
 - [[metacognitive-laziness]] — give-up behavior is metacognitive disengagement
 - [[desirable-difficulty]] — persistence through difficulty is what AI bypasses
 - [[novice-vulnerability]] — likely worse for novices (untested but predicted)
-- [[strategic-alternation]] — alternation timing must be sub-session given how fast effects emerge
+- [[strategic-alternation]] — short-session findings motivate testing practice timing; no sub-session schedule was validated
 - [[cognitive-offloading]] — fast-onset offloading
 - [[fluency-bias]] — instant-answer expectation is a fluency-driven shift
 

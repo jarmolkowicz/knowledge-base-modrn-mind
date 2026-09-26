@@ -39,7 +39,7 @@ For human thinking with AI: this is the developmental-cognition framing of the K
 > "Anti-intelligence is not stupidity or some sort of cognitive failure. It's the performance of knowing without understanding. It's language severed from memory, context, and even intention. It's what large language models (LLMs) do so well. They produce coherent outputs through pattern-matching rather than comprehension."
 > — Nosta, [p.1-2]
 
-> "Today's children aren't just using artificial intelligence as a study aid; they're building their cognitive patterns in an environment where answers arrive before questions fully form. … the gap between confusion and clarity collapses to near zero."
+> "Today's children aren't just using artificial intelligence (AI) as a study aid; they're building their cognitive patterns in an environment where answers arrive before questions fully form. … the gap between confusion and clarity collapses to near zero."
 > — Nosta, [p.2-3]
 
 > "That friction wasn't an obstacle to learning. It was the condition that made certain kinds of cognition possible."
@@ -48,7 +48,7 @@ For human thinking with AI: this is the developmental-cognition framing of the K
 > "Children growing up with anti-intelligence may develop capacities that adults struggle to imagine or accept: comfort with rapid context-switching across multiple information streams; fluency in navigating contradictory frameworks without experiencing cognitive dissonance; a default stance toward knowledge as revisable rather than possessed."
 > — Nosta, [p.4]
 
-> "We may be using instruments calibrated for one kind of mind to evaluate another. The risk isn't just that we misunderstand these 'AI natives' but that we may pathologize cognitive patterns that are adaptive to this new and different environment."
+> "My sense is that we're using instruments calibrated for one kind of mind to evaluate another. The risk isn't just that we misunderstand these 'AI natives' but that we may pathologize cognitive patterns that are adaptive to this new and different environment."
 > — Nosta, [p.5]
 
 ## Relevance

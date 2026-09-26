@@ -28,3 +28,9 @@
 - 4 UPDATEs applied to concepts/automation-bias.md, concepts/human-ai-complementarity.md, concepts/novice-vulnerability.md, concepts/paradox-of-expertise.md (frontmatter sources, body sections, Related, Sources lists)
 - Aux scripts: sync-source-links.py, build-index.py, update_readme_counts.py
 - KB counts: 72→73 sources, 57 concepts, 12 methods, 141→142 total.
+
+
+## 2026-09-27 — remaining audit correction
+
+- Scoped correction or repeated-claim update after retained drafts, three-lens self-critique and validation. See batch distill.md and critique.md. Original file and previous decisions preserved.
+- Authority: user "Fix rest groups". Batch: kb-remaining-corrections-2026-09-27. No commit or push.

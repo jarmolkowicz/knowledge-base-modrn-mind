@@ -13,11 +13,11 @@ A human-AI system can clear two very different bars. **Augmentation** means the 
 
 ## Why It Matters
 
-Which baseline an evaluation uses silently decides whether a human-AI system looks like a success. Benchmark against the human alone and most systems pass — Vaccaro et al. (2024) found 85% of human-AI effect sizes beat the human-alone baseline. Benchmark against the better of human-or-AI alone and most systems fail — only 42% beat it; on average the combination performed *worse* than the best single party (Hedges' g = −0.23). An organization that measures improvement over its current (human) process can therefore deploy a human-AI system, see real gains, and never notice that removing the human would have done better still. The gap is where AI investments get justified on the wrong number.
+Which baseline an evaluation uses silently decides whether a human-AI system looks like a success. Benchmark against the human alone and most systems pass — Vaccaro et al. (2024) found 85% of human-AI effect sizes beat the human-alone baseline. Benchmark against the better of human-or-AI alone and most systems fail — only 42% beat it; on average the combination performed *worse* than the best single party (Hedges' g = −0.23). An evaluation against humans alone can miss the AI-alone benchmark on the measured task. [Inference] That benchmark should inform design, but a higher task score alone does not settle whether removing human involvement is safe or desirable.
 
 ## Key Insight
 
-Augmentation is necessary but not sufficient for synergy, and the two come apart often enough that "the AI helped" is not evidence that the combination is the right design. The correct baseline is not automatic — it depends on context. Where full automation is barred for legal, ethical, safety, or value-alignment reasons, augmentation is the meaningful bar: the human must stay, so "better than the human alone" is the real question. Where automation is genuinely an option, synergy is the bar, and a system that only augments is a system that should probably be left to the AI. Naming the gap forces the prior question — *which baseline actually applies here?* — before a human-AI workflow is called a win. This is distinct from the [[performance-paradox]], which is about durable human competence rather than system performance: the augmentation-synergy gap can be real even when no skill is being eroded at all.
+Augmentation is necessary but not sufficient for synergy, and the two come apart often enough that "the AI helped" is not evidence that the combination is the right design. The correct baseline is not automatic — it depends on context. Where full automation is barred for legal, ethical, safety, or value-alignment reasons, augmentation is the meaningful bar: the human must stay, so "better than the human alone" is the real question. Where automation is genuinely an option, compare the combination with AI alone on the outcomes that matter. [Inference] Task allocation also requires context-specific assessment of safety, robustness, cost, learning, accountability and user values. Failure to show synergy on one measure is not an automatic instruction to remove the human. Naming the gap forces the prior question — *which baseline actually applies here?* — before a human-AI workflow is called a win. This is distinct from the [[performance-paradox]], which is about durable human competence rather than system performance: the augmentation-synergy gap can be real even when no skill is being eroded at all.
 
 ## Related
 
@@ -25,7 +25,7 @@ Augmentation is necessary but not sufficient for synergy, and the two come apart
 - [[complementarity-framework]] — a framework for designing toward synergy rather than settling for augmentation
 - [[performance-paradox]] — a parallel "right result, wrong metric" trap, but about learning rather than system performance
 - [[automation-bias]] — overreliance is one mechanism that keeps augmenting systems short of synergy
-- [[jagged-frontier]] — whether a task sits where the human or the AI is stronger predicts which side of the gap a combination lands on
+- [[jagged-frontier]] — task-dependent assistance effects; the human-alone comparison differs from the better-of-human-or-AI synergy baseline
 - [[vaccaro-human-ai-meta-analysis-2024]] — meta-analytic source for the distinction and the 85%-vs-42% split
 
 ## Sources

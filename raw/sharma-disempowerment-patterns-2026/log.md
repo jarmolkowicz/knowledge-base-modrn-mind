@@ -22,3 +22,9 @@
 - A23 propagation only: corrected blame direction and separated action-distortion examples from Hohenstein's attribution measure.
 - Approval: Fix; Six high-priority groups only. Batch: kb-audit-corrections-2026-09-26.
 - Three-lens self-review and draft gate passed. This is a scoped correction, not complete re-review of unchanged claims. Original files and prior decisions preserved.
+
+
+## 2026-09-27 — remaining audit correction
+
+- Scoped correction or repeated-claim update after retained drafts, three-lens self-critique and validation. See batch distill.md and critique.md. Original file and previous decisions preserved.
+- Authority: user "Fix rest groups". Batch: kb-remaining-corrections-2026-09-27. No commit or push.

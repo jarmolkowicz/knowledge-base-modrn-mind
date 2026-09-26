@@ -36,11 +36,11 @@ Chiriatti et al. (2024) name *system 0* as the artificial, non-biological underl
 | Individualization | Degree of personalization | High — outputs are tailored to the user |
 | Transformation | Degree to which the agent's cognitive capacities change with use | High — system 0 augments and extends cognitive capacity, transforming what the user can do |
 
-Higher scores across these dimensions indicate tighter coupling between user and system. Chiriatti et al. claim AI satisfies all eight, with varying levels.
+The dimensions describe possible forms of coupling. Chiriatti et al. argue that AI satisfies them to varying degrees; they do not provide a validated score or withdrawal-risk threshold.
 
 ## What To Do
 
-System 0 Thinking is more *descriptive* than *prescriptive*, but the article closes with five recommendations that operationalize the framework into practice:
+System 0 Thinking is more *descriptive* than *prescriptive*, and the article closes with five broad recommendations, not a validated operational procedure:
 
 1. **Develop evaluation frameworks** for the reliability, transparency, and potential biases of AI systems that comprise system 0 — the Heersmink eight-criterion lens is one entry point.
 2. **Establish ethical guidelines** for the responsible use of AI in decision-making.
@@ -50,7 +50,7 @@ System 0 Thinking is more *descriptive* than *prescriptive*, but the article clo
 
 For practitioners and researchers using the framework analytically:
 
-- When examining a specific AI tool's effect on a specific user, score it across the eight Heersmink criteria. High scores across the board indicate tight cognitive integration — and elevated risk that withdrawal of the tool would degrade the user's apparent capacity.
+- [Inference] Use the eight criteria as qualitative discussion prompts, recording concrete examples and uncertainties. Do not total them into a diagnostic score. Whether tighter coupling predicts worse unaided performance after withdrawal is an untested hypothesis.
 - Distinguish *system 0 satisfying meaning* (the user finds the output meaningful) from *system 0 generating meaning* (the article's claim is that it cannot). When users describe AI as "understanding" them, treat that as evidence about the user's interpretive process, not the AI's.
 
 ## Why It Works
@@ -61,14 +61,14 @@ The framework rests on three theoretical pillars:
 - **Clark and Chalmers' extended mind hypothesis** (1998) — the philosophical claim that cognitive processes can extend beyond the skull when external artefacts are sufficiently coupled with internal processes.
 - **Heersmink's (2015) cognitive-extension criteria** — an eight-dimensional framework for assessing how tightly an artefact is integrated with a cognitive agent. Chiriatti et al. apply it to AI to argue system 0 qualifies as a genuine extension, not merely a tool.
 
-The framework is theoretical, not empirically tested as such. It generates testable predictions (e.g., systems scoring high on Heersmink's criteria should show stronger withdrawal effects when removed; users with high system 0 reliance should defer more readily to AI-generated introspective insights), but the article itself is a position piece, not an experiment.
+The framework is theoretical, not empirically tested as such. [Speculation] Possible research questions include whether particular forms of integration predict withdrawal effects or deference to AI-generated self-descriptions. These are not established predictions of a validated instrument; the article is a position piece, not an experiment.
 
 ## Strengths / Limitations
 
 **Strengths:**
 - Names and labels a construct (*system 0*) that captures the *input-side* dynamics of human–AI cognition — a layer the parallel-system framings (e.g., Shaw & Nave's System 3) leave implicit.
 - Anchors the framework in established philosophy of mind (extended-mind hypothesis) and cognitive science (Kahneman), so it inherits theoretical legitimacy rather than freelancing.
-- The Heersmink eight-criterion lens is a structured assessment apparatus that practitioners and researchers can apply to specific AI tools.
+- The eight-criterion lens offers vocabulary for describing specific interactions, not a measurement instrument.
 - Published in *Nature Human Behaviour*, lending venue authority and citation visibility.
 - The "lack of meaning-making" caveat is a useful guardrail against over-anthropomorphizing AI as a cognitive partner.
 
@@ -84,9 +84,9 @@ The framework is theoretical, not empirically tested as such. It generates testa
 
 System 0 Thinking is most useful as an analytical lens when:
 
-- Diagnosing how tightly a specific AI tool has become integrated with a user's cognition — the Heersmink criteria give a structured score.
+- Describing how a specific AI tool fits into a user's work, using qualitative examples rather than a diagnostic score.
 - Reasoning about input-side effects of AI: how does the tool shape what the user perceives, attends to, or considers? This is where system 0 has more purchase than parallel-system framings.
-- Designing literacy or training interventions: the eight criteria identify the joints where intervention can loosen the coupling (e.g., reducing trust calibration via transparency, reducing individualization via shared default settings).
+- [Inference] Discussing literacy or interface design: ask whether transparency helps users assess reliability and rely appropriately. Improving calibration, not reducing it or simply reducing trust, is the aim; these interventions are not validated by the framework.
 - Communicating risk to non-specialists: the substrate metaphor is intuitive — *system 0 shapes what reaches your thinking before you start thinking* — and lands without requiring technical fluency in cognitive psychology.
 
 When NOT to use this framework:
@@ -102,7 +102,7 @@ When NOT to use this framework:
 - [[cognitive-surrender]] — what habitual, uncritical reliance on system 0 produces when the user accepts outputs without questioning.
 - [[automation-bias]] — bias mechanism captured by Heersmink's "trust" criterion within the system 0 framework.
 - [[fluency-bias]] — mechanism captured by Heersmink's "informational transparency" criterion.
-- [[capacity-erosion]] — the long-term cost of tight system 0 integration the article explicitly warns about.
+- [[capacity-erosion]] — a potential concern, not an outcome established by the framework.
 - [[metacognition]] — system 0 reliance shifts the locus of cognitive monitoring; metacognition is what habitual reliance bypasses.
 - [[borrowed-certainty]] — when system 0 preprocesses inputs into already-confident assertions, certainty arrives unearned.
 

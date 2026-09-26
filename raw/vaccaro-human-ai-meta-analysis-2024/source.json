@@ -10,10 +10,38 @@
   "status": "integrated",
   "ingested_at": "2026-05-22T08:48:03Z",
   "decisions": [
-    {"stage": "triage", "date": "2026-05-22", "outcome": "INCLUDE", "reason": "User-confirmed; strongest cross-task empirical evidence on human-AI complementarity."},
-    {"stage": "distill", "date": "2026-05-22", "outcome": "PROCEED_TO_CRITIQUE", "reason": "User-confirmed; new concept augmentation-synergy-gap kept standalone."},
-    {"stage": "critique", "date": "2026-05-22", "outcome": "PROCEED_TO_INTEGRATE", "reason": "User-confirmed; critique verdict READY."},
-    {"stage": "integrate", "date": "2026-05-22", "outcome": "INTEGRATED", "reason": "1 source + 1 new concept (augmentation-synergy-gap) added; 2 entries updated (human-ai-complementarity, complementarity-framework)."}
+    {
+      "stage": "triage",
+      "date": "2026-05-22",
+      "outcome": "INCLUDE",
+      "reason": "User-confirmed; strongest cross-task empirical evidence on human-AI complementarity."
+    },
+    {
+      "stage": "distill",
+      "date": "2026-05-22",
+      "outcome": "PROCEED_TO_CRITIQUE",
+      "reason": "User-confirmed; new concept augmentation-synergy-gap kept standalone."
+    },
+    {
+      "stage": "critique",
+      "date": "2026-05-22",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "reason": "User-confirmed; critique verdict READY."
+    },
+    {
+      "stage": "integrate",
+      "date": "2026-05-22",
+      "outcome": "INTEGRATED",
+      "reason": "1 source + 1 new concept (augmentation-synergy-gap) added; 2 entries updated (human-ai-complementarity, complementarity-framework)."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-27",
+      "by": "Codex librarian; user-approved remaining audit groups",
+      "batch": "kb-remaining-corrections-2026-09-27",
+      "reason": "Scoped correction or repeated-claim update after retained drafts, three-lens self-critique and validation. See batch distill.md and critique.md. Original file and previous decisions preserved."
+    }
   ],
   "pages": 14
 }

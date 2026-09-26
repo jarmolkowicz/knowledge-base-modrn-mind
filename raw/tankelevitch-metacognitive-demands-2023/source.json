@@ -15,7 +15,7 @@
       "outcome": "workbench_backfilled",
       "by": "human (Pass 1 gap-fill, downloaded externally)",
       "at": "2026-04-29T13:49:53Z",
-      "reason": "KB entry pre-existed without per-source workbench. Source PDF downloaded from public mirror and placed in raw/inbox/ by user, then catalogued. Audit trail (triage/distill/critique) not available \u2014 pre-pipeline ingestion."
+      "reason": "KB entry pre-existed without per-source workbench. Source PDF downloaded from public mirror and placed in raw/inbox/ by user, then catalogued. Audit trail (triage/distill/critique) not available — pre-pipeline ingestion."
     },
     {
       "stage": "redistill",
@@ -23,6 +23,14 @@
       "by": "human (Pass 2 batch 5)",
       "at": "2026-04-29T15:36:03Z",
       "reason": "Re-distilled inline. Added Key Passages with locators, expanded Key Insight, supports wikilinks."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-27",
+      "by": "Codex librarian; user-approved remaining audit groups",
+      "batch": "kb-remaining-corrections-2026-09-27",
+      "reason": "Scoped correction or repeated-claim update after retained drafts, three-lens self-critique and validation. See batch distill.md and critique.md. Original file and previous decisions preserved."
     }
   ],
   "pages": 24

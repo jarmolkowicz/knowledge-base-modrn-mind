@@ -11,7 +11,7 @@ sources:
 
 ## What It Is
 
-Consciously cycling between unassisted work (for capacity building) and AI-assisted work (for efficiency) to maintain the cognitive capacities that define professional value.
+[Inference] A proposed practice of scheduling both unassisted and AI-assisted work to preserve opportunities for independent practice and assessment. Neither skill preservation nor an optimal schedule is established.
 
 ## Why It Matters
 
@@ -29,16 +29,11 @@ Judgment → Enables effective AI use
 AI efficiency → Frees time for unassisted work
 ```
 
-Even within a single task, alternate between your effort and AI assistance. Don't do entire tasks purely solo OR entirely with AI.
+[Inference] Choose whether to separate modes within a task or across tasks according to the learning goal and workflow. Neither universal within-task switching nor a preference for longer blocks is supported here.
 
-## The Oscillation Trap
+## The Oscillation Hypothesis
 
-Nosta (2025) identifies a complication: the [[ai-oscillation-trap]]. Repeatedly switching between AI-assisted and manual work creates "cognitive discontinuity"—the brain optimizes for available tools, and switching back creates friction that reinforces AI dependency.
-
-This suggests alternation design matters:
-- Longer periods in each mode may be better than frequent switching
-- Transition protocols may help (warm-up before manual work)
-- Hybrid modes that keep humans engaged throughout
+The [[ai-oscillation-trap]] is an unverified hypothesis about possible transition costs, not evidence that switching itself causes skill loss or dependency. Its historical Nosta attribution is unresolved. It cannot validate a scheduling rule.
 
 Wu et al. (2025) compared two-task sequences with and without GenAI. Within Collab→Solo sequences, motivation fell and boredom rose, but the reported within-person d values are not randomized AI-versus-control effects; some interactions were nonsignificant. In Study 4, sustained collaboration reduced boredom growth relative to Collab→Solo, although boredom still rose. Solo→Collab showed a marked perceived-control decrease.
 
@@ -48,7 +43,7 @@ These short-term results do not establish an optimal alternation schedule, the b
 
 - [[think-first]] - primary mode for capacity building
 - [[calibration]] - guides mode selection
-- [[desirable-difficulty]] - why solo work builds capacity
+- [[desirable-difficulty]] - some learning conditions help when prerequisites are met; solo work is not automatically beneficial
 - [[cognitive-offloading]] - what alternation counterbalances
 - [[ai-oscillation-trap]] - switching costs to consider
 - [[cognitive-grit]] - mental endurance for unassisted work

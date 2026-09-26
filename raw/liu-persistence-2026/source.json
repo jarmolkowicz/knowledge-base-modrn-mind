@@ -39,6 +39,14 @@
       "by": "Codex librarian; user-approved six high-priority fixes",
       "batch": "kb-audit-corrections-2026-09-26",
       "reason": "A25/A26 propagation only: removed false semester-versus-minutes timeline and shared task-general mechanism claims. Drafted, three-lens self-critiqued and validated. Original files and historical decisions preserved."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-27",
+      "by": "Codex librarian; user-approved remaining audit groups",
+      "batch": "kb-remaining-corrections-2026-09-27",
+      "reason": "Scoped correction or repeated-claim update after retained drafts, three-lens self-critique and validation. See batch distill.md and critique.md. Original file and previous decisions preserved."
     }
   ],
   "pages": 29

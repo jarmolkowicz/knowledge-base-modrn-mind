@@ -43,7 +43,7 @@ The existing Schilke and Reimann (2025) source reports greater trust loss when A
 - stigma management - how people navigate this
 - [[authenticity]] - what's at stake
 - [[ai-moralization]] - moral judgment may compound the disclosure penalty (de Mello et al., 2026); moralization may operate as a deeper mechanism beneath the disclosure penalty: people don't just perceive AI-assisted work as less authentic, some view AI use as morally suspect
-- [[fluency-bias]] - Meincke et al. (2026) propose the disclosure-penalty mechanism in the ethical-advice domain runs through fluency: AI's natural-language reasoning appears more human and transparent, and the source label disrupts that perception
+- [[fluency-bias]] - a proposed explanation for advice preferences; Meincke et al. (2026) did not establish the mechanism or test whether disclosure interrupts it
 
 - [[zhu-molnar-ai-ignorance-2025]] — reviewed 2025 one-experiment preprint, not the later expanded journal article.
 

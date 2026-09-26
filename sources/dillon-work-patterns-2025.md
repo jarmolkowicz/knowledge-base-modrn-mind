@@ -18,20 +18,20 @@ Paper
 
 ## Key Insight
 
-In a 6-month RCT across 56 firms (~6,000 workers), AI tool access reduced email time by 25% (~3 hours/week) and freed up 2 more hours of focus time — but had zero effect on meeting time. Individual behaviors changed readily; coordination-dependent behaviors did not. This gap between individual and organizational adaptation is the critical finding.
+In a six-month randomized rollout across 56 firms (~6,000 workers), access to the AI tool reduced weekly email time by 1.35 hours and increased measured concentration time by 0.90 hours (intent-to-treat estimates). The corresponding estimates for tool use were -2.95 and +2.05 hours. No statistically significant meeting-time change was detected. Access and use estimates answer different questions; email and concentration changes are not independent productivity gains to add together.
 
 ## Relevance
 
-Provides rare large-scale field experiment evidence (not lab, not survey) on how AI actually changes work patterns. The individual-vs-coordination distinction matters for the KB because it shows that AI adoption is not just a personal skill — organizational structures must change too, and that change is slower and harder. Also notable: only 45% weekly usage rate among treated workers despite early-adopter firms, confirming that adoption is not automatic.
+A large field experiment on measured work patterns. Some individual activities changed while coordination-dependent activities showed no statistically detected change. [Inference] Organizational practices may affect adoption and outcomes, but the experiment does not prove that a particular organizational redesign is necessary.
 
 ## Key Findings
 
-- **Email**: 25% reduction in time (3 hours/week for users; 1.4 hours ITT). Workers consolidated email into fewer sessions, gaining 2+ hours of extended focus time
+- **Email and concentration**: Table 2 reports -1.35 email hours and +0.90 concentration hours per week for access; -2.95 and +2.05 for use. Concentration is a calendar/telemetry-defined work pattern, not a direct measure of cognitive focus or extra completed work.
 - **Documents**: Suggestive evidence of 6-20% faster document completion
 - **Meetings**: No significant change in meeting time or types of meetings attended — despite meetings being the most common Copilot use case
 - **Adoption**: Only 45% mean weekly usage rate; 6% never used it at all. Firm-level factors were the strongest predictor of usage — not individual characteristics
-- **No role expansion**: Workers did not take on new responsibilities or shift the nature of their work. Time savings did not translate into doing more or different work
-- **Coordination gap**: Having more coworkers with AI access did not significantly change patterns, suggesting institutional redesign (not just local team adoption) is needed
+- **No measured role expansion**: The study did not detect shifts toward new responsibilities in its measures. This does not establish that no unmeasured work or longer-term changes occurred.
+- **Coordination gap**: Having more coworkers with AI access did not significantly change the measured patterns. Institutional redesign is a possible next research question, not a demonstrated requirement.
 
 ## Supports
 

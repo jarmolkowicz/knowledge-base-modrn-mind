@@ -20,15 +20,13 @@ Paper (incentivized online experiment, between-subjects design)
 
 ## Key Insight
 
-Bauer et al. ran a clean experimental test of a counterintuitive prediction: **ML decision aids may improve performance while they're active but prevent the development of decision-making skills underneath — a deficit that only becomes visible when the system is discontinued.**
+In an incentivized online experiment, participants solved logical investment-decision tasks. The treatment group received machine-learning predictions for six simulations, then lost access without advance warning; controls worked without predictions throughout. After removal, treatment participants initially performed worse than controls, consistent with less skill development during the aided phase.
 
-The design: participants solve logical puzzles. Treatment group: ML decision aid for the first half; system removed without warning for the second half. Control group: no aid throughout. Comparing post-discontinuance performance to control isolates whether skill development was disrupted during the aided phase.
+The authors also report catch-up during the second stage. The result concerns acquisition of skills during this task, not lasting loss of pre-existing professional expertise.
 
-The finding is sharp: treatment participants show a **performance drop after discontinuance** beyond what would be expected from simply losing the aid — they perform *worse than control participants who never had the aid*. The skill development that should have happened during the aided phase didn't occur. Crucially, this is not just atrophy of pre-existing skills (participants didn't have prior puzzle expertise) — it's **prevention of skill development**, which only manifests when the aid is removed.
+Participants randomly encountered a correct or incorrect first prediction. The group seeing an initial error relied less on later predictions; its post-removal performance was higher than the other treatment subgroup, with the comparison reported at p < .08. This is suggestive heterogeneity, not strong evidence for a general warning or uncertainty-display safeguard.
 
-A second finding adds a behavioral mechanism: **the degree of "blind trust"** in the ML predictions correlates with the size of the post-discontinuance performance drop. Participants who blindly trusted the aid built less skill underneath; participants who interrogated the aid built more. The implication: **practical interventions that signal AI imperfection may protect skill development**, even at the cost of slightly reduced in-the-moment performance.
-
-For human thinking with AI: this is the cleanest experimental evidence the KB has for skill prevention (vs. erosion). And the discontinuance design generalizes — any context where AI is intermittent (system updates, retraining periods, model failures, moments of regulatory disablement) will reveal this hidden deficit. Organizations relying on continuous AI availability are accumulating an invisible vulnerability.
+[Inference] The experiment motivates testing unaided performance and possible training designs. It does not validate periodic AI-off drills, think-first, an alternation schedule, or an optimal amount of AI support.
 
 ## Key Passages
 
@@ -49,28 +47,27 @@ For human thinking with AI: this is the cleanest experimental evidence the KB ha
 
 ## Relevance
 
-Three load-bearing contributions:
-
-- **Prevention vs. erosion.** Most KB sources document erosion of existing skills. Bauer et al. specifically shows *prevention* of new skill development — these are different mechanisms with different implications. Erosion can be reversed via practice; prevention means the skill never formed.
-- **The discontinuance test.** Most AI-evaluation paradigms measure performance with the AI active. Bauer et al.'s contribution is methodological: hidden vulnerabilities only show up when the AI is removed. KB-relevant practices ([[strategic-alternation]], "AI-off drills") are validated by this finding.
-- **Blind-trust moderation.** The finding that signaling AI imperfection improves the post-discontinuance outcome is an intervention lever. AI tools that explicitly flag uncertainty may protect skill formation even when otherwise unchanged.
+- **Skill acquisition versus erosion.** The experiment examines learning a new decision task. It does not establish loss of previously acquired skill or universal prevention of learning.
+- **Withdrawal assessment.** Assisted performance alone missed a later unaided gap. Catch-up limits claims of persistence.
+- **First-error comparison.** Initial prediction accuracy varied; generic uncertainty displays and practice schedules were not tested.
 
 ## Supports
 
-- [[cognitive-debt]] — Bauer's hidden-deficit-revealed-on-discontinuance is exactly the cognitive-debt mechanism
-- [[capacity-erosion]] — provides experimental demonstration in the prevention variant
-- [[confidence-competence-gap]] — blind-trust moderation finding
-- [[automation-bias]] — over-reliance during the aided phase causes the post-discontinuance gap
-- [[strategic-alternation]] — empirical justification for periodic AI-off practice
-- [[think-first]] — interrogating AI predictions (rather than blind-trust) is the operational practice that protects skill development
+- [[cognitive-debt]] — a task-specific learning gap consistent with one proposed cost of reliance, not proof of a universal mechanism
+- [[capacity-erosion]] — distinguishes reduced new-skill acquisition from loss of existing skill
+- [[confidence-competence-gap]] — raises questions about reliance and independent performance
+- [[automation-bias]] — first-error heterogeneity is suggestive; does not isolate a general causal mediation pathway
+- [[strategic-alternation]] — motivates research on practice schedules; does not validate them
+- [[think-first]] — a candidate practice, not an intervention tested here
 
 ## Contradicts / Extends
 
 - Extends [[goddard-automation-bias-2012]]'s clinical-decision-support findings into the ML-specific context (vs. expert systems Goddard reviewed).
-- Companion to [[passalacqua-less-ai-2024]] — both papers show full automation harms skill acquisition; Bauer specifically shows the harm is invisible until the AI is removed.
+- Companion to [[passalacqua-less-ai-2024]] — different assistance designs and learning measures; neither should be treated as a universal test of full automation.
 
 ## Open Questions
 
-- How long does the prevention deficit persist? Bauer et al. measured immediate post-discontinuance; longer-term recovery isn't tested.
-- Generalization beyond logical puzzles to consequential professional work would strengthen the practical claim.
-- The blind-trust moderation suggests interventions that flag AI imperfection help — but how should that flagging be designed? UX-level question the paper doesn't operationalize.
+- The authors report catch-up during stage 2; how far does this extend beyond the short experiment?
+- Does the result generalize to experienced professionals and consequential work?
+- Would explanations, uncertainty displays or independent practice improve learning? Those interventions were not tested.
+- What level and schedule of support works best? The paper explicitly does not establish an optimum.
