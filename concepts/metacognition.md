@@ -13,6 +13,8 @@ sources:
 - Gilbert et al. (2023)
 - Hu, Luo & Fleming (2019)
 - Fernandes et al. (2026)
+- "Marcoccia, Quattrociocchi & Capraro (2026)"
+- "Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. Psychological Review, 84(3), 231–259."
 ---
 
 # Metacognition
@@ -35,6 +37,7 @@ Key questions:
 - "Do I actually understand this, or does it just feel familiar?"
 - "Am I thinking, or am I accepting AI thinking?"
 - "Could I do this without AI?"
+- "Would I say ‘I don’t know’ here if the AI had not offered an answer?" [Inference] This prompt follows from Marcoccia et al. (2026); its effectiveness was not tested.
 - "Am I trying to learn this, or am I trying to finish this?" (Lodge & Loble 2026) — the distinction between a "learn the concept" goal and a "task completion" goal determines whether AI use builds or bypasses knowledge.
 
 Shaw & Nave (2026) provide experimental evidence that AI use bypasses metacognitive monitoring. In their Tri-System Theory, the conflict/uncertainty detection that normally routes processing from System 1 to System 2 (deliberation) is short-circuited when System 3 (AI) delivers fluent, confident outputs. The metacognitive signal that says "wait, think harder" is suppressed — not because the user lacks metacognitive capacity, but because AI outputs don't trigger the conflict detection that would activate it.
@@ -84,6 +87,10 @@ This extends the KB's existing metacognitive questions with a team-level variant
 - "Do I have an accurate mental model of when this AI is likely to fail?"
 - "Is my vigilance degrading — am I monitoring less carefully than I was an hour ago?"
 
+Marcoccia et al. (2026) measure a separate part of [[metacognition]]: deciding whether to answer at all. Across five experiments using six difficult film questions and usually wrong AI suggestions, access to AI sharply reduced withholding a response. In the direct replication, suspension fell from 44% without AI to 3% with optional AI. Modest accuracy incentives partly improved accuracy and restraint, but did not remove the gap or significantly moderate the AI effect on suspension. The study did not measure lasting capability loss or establish whether trust, fluency or another mechanism caused this behavior.
+
+Nisbett and Wilson (1977) distinguish awareness of thoughts and feelings from access to the processes that produced a judgment. In the experiments they review, explanations sometimes missed influential factors or named factors with no detectable effect. Reports could also be accurate; the paper does not show that all introspection is unreliable. [Inference] When reviewing AI-assisted work, treat “why I accepted this answer” as an explanation to check against recorded choices, available evidence and outcomes—not as direct proof of the mental process.
+
 ## Related
 
 - [[calibration]] - applied metacognition
@@ -102,6 +109,8 @@ This extends the KB's existing metacognitive questions with a team-level variant
 - [[tri-system-theory]] - models metacognitive monitoring as the gate between offloading and surrender
 - [[confidence-competence-gap]] - DKE as a specific metacognitive failure in AI contexts
 
+- [[marcoccia-willingness-dont-know-2026]] — experimental evidence on withholding answers under unreliable AI advice.
+
 ## Sources
 
 - [[flavell-metacognition-1979]] — Flavell (1979)
@@ -113,4 +122,6 @@ This extends the KB's existing metacognitive questions with a team-level variant
 - [[gilbert-intention-offloading-2023]] — Gilbert et al. (2023)
 - [[hu-metamemory-offloading-2019]] — Hu, Luo & Fleming (2019)
 - Fernandes et al. (2026)
+- [[marcoccia-willingness-dont-know-2026]] — Marcoccia, Quattrociocchi & Capraro (2026)
+- [[nisbett-wilson-introspection-1977]] — Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. Psychological Review, 84(3), 231–259.
 

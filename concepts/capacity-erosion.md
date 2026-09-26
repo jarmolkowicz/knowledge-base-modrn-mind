@@ -11,13 +11,15 @@ sources:
 - Huffstadt (2026)
 - Singh Yadav (2026)
 - "Hai, S., Long, T., Honora, A., Japutra, A., & Guo, T. (2025). The dark side of employee-generative AI collaboration in the workplace: An investigation on work alienation and employee expediency. International Journal of Information Management, 83, 102905. https://doi.org/10.1016/j.ijinfomgt.2025.102905"
+- "Bainbridge, L. (1983). Ironies of automation. Automatica, 19(6), 775–779."
+- "Cash, T. N., Kelly, M. O., Macnamara, B. N., & Risko, E. F. (2026). Is AI making us stupid? Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2026.06.004"
 ---
 
 # Capacity Erosion
 
 ## What It Is
 
-The gradual degradation of cognitive capabilities through disuse, particularly when AI handles tasks that previously exercised those capabilities.
+Capacity erosion means a decline in previously acquired skills or knowledge. It should be distinguished from failing to acquire a skill in the first place, and from a decline in basic cognitive abilities such as working memory or selective attention. Cash et al. (2026) argue that these outcomes have different evidence bases: losing practice can undermine specific skills, while long-term effects of AI offloading on basic cognitive abilities remain unresolved (PDF pp.1–3).
 
 Shaw & Nave (2026) identify [[cognitive-surrender]] as a specific mechanism through which erosion occurs. In their framework, surrender is not just habitual offloading — it is the structural bypassing of deliberative reasoning (System 2) when AI is available. Across 9,593 trials, participants who used AI followed its outputs on ~80% of faulty trials and showed elevated confidence regardless of accuracy. The paper does not test long-term erosion directly (single-session design), but the pattern it reveals — deliberation displaced, confidence preserved — describes exactly the conditions under which erosion would proceed invisibly.
 
@@ -51,11 +53,13 @@ Huffstadt (2026) identifies a motivational dimension of erosion: AI usage reduce
 
 Singh Yadav (2026) maps erosion onto the Dreyfus expertise model, identifying where AI creates a "Competence Ceiling." AI amplifies performance most at novice-to-competent stages (Dreyfus 1-3) but creates a ceiling at the competent-to-proficient transition (stage 3-4). The transition to proficiency requires intuitive understanding from extensive varied experience and deep cognitive engagement — exactly what AI bypasses. The result: practitioners plateau at competent-level performance with AI but cannot advance independently. The book also proposes the AI Competency Erosion Index (ACEI) — a ratio-based measurement framework (research program, not yet validated) for tracking erosion.
 
-Shen & Tamkin (2026) demonstrate that erosion is not only a long-term disuse phenomenon — it operates at the point of skill formation itself. In their RCT, developers who used AI while learning a new library failed to acquire the skills in the first place (17% lower quiz scores, d = 0.738). This is erosion by prevention rather than erosion by atrophy: AI doesn't just degrade existing skills, it can prevent new ones from forming. The control group's advantage came specifically from encountering and independently resolving errors — the productive struggle that AI bypasses.
+Shen and Tamkin (2026) studied developers learning a new library. The AI-assisted group scored lower on the subsequent skill assessment. This is evidence of a learning shortfall in that setting, not direct evidence that an existing skill decayed. Cash et al. (2026) help distinguish these outcomes: neither missed acquisition nor loss of a particular skill alone establishes a general loss of intelligence. Keep these labels separate when interpreting [[cognitive-offloading]].
 
 Hai et al. (2025) document a specific behavioral consequence of the meaning/identity dimension of capacity erosion. In a daily-ESM field study of 229 service-industry employees (1,050 within-person observations), daily GenAI collaboration intensity predicted same-day **work alienation** (γ = .14, p < .001) — the felt disconnection from work that the [[professional-identity-threat]] entry describes as "editor not creator." The novel finding for capacity erosion is the *behavioral downstream*: alienation predicts **employee expediency** (γ = .30, p < .01) — cutting corners, manipulating performance metrics, ignoring protocols. The indirect path (GenAI collaboration → alienation → expediency) is significant under high digital job demands and non-significant under low demands.
 
 This sharpens the capacity-erosion mechanism beyond the disuse-atrophy account. The paper's theoretical framing — drawing on Raisch & Krakowski's automation–augmentation paradox — describes the pathway: "GenAI adoption may lead to deskilling, complacency, and reduced responsibility among employees, as human expertise is diminished. Over time, employees may lose skills and a sense of ownership over their tasks, fostering a disconnect between themselves and their work." Hai et al. provide the empirical leg: not only does sustained collaboration erode the felt connection to work, the resulting psychological state channels into withdrawal of ethical engagement, which is itself a capacity-eroding behavior (corners cut today are corners cut from the practice of doing the work well).
+
+Bainbridge (1983, pp. 775–777) identifies an early version of this problem in industrial automation: routine control builds the manual skills and process knowledge needed during unusual failures, but automation removes that practice while retaining the human fallback role. She distinguishes loss of practiced skill from loss of current process understanding; a skilled operator still needs time to reconstruct what is happening. This is a human-factors synthesis, not a modern AI experiment. [Inference] Reviewing AI-generated work may create a similar mismatch between responsibility and preparation.
 
 ## AI Rebound Effect
 
@@ -91,4 +95,6 @@ Research cited by Nosta (2025): When gastroenterologists stopped using AI for po
 - [[huffstadt-silent-impact-2026]] — Huffstadt (2026)
 - [[singh-yadav-competency-paradox-2026]] — Singh Yadav (2026)
 - [[hai-dark-side-collaboration-2025]] — Hai, S., Long, T., Honora, A., Japutra, A., & Guo, T. (2025). The dark side of employee-generative AI collaboration in the workplace: An investigation on work alienation and employee expediency. International Journal of Information Management, 83, 102905. https://doi.org/10.1016/j.ijinfomgt.2025.102905
+- [[bainbridge-ironies-automation-1983]] — Bainbridge, L. (1983). Ironies of automation. Automatica, 19(6), 775–779.
+- [[cash-ai-stupid-2026]] — Cash, T. N., Kelly, M. O., Macnamara, B. N., & Risko, E. F. (2026). Is AI making us stupid? Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2026.06.004
 

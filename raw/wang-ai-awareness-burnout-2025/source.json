@@ -1,0 +1,64 @@
+{
+  "slug": "wang-ai-awareness-burnout-2025",
+  "original_filename": "Wang & Zhou (2025) - AI Awarness Brunout.pdf",
+  "format": "pdf",
+  "source_type": "paper",
+  "word_count": 8825,
+  "hash": "c47ffb50ecd8d168b2149d1f86c8aef8378299d6181f73b0c358b0c965cf09d9",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-08T08:50:35Z",
+  "decisions": [
+    {
+      "stage": "triage",
+      "outcome": "PARTIAL",
+      "date": "2026-09-26",
+      "reason": "User requested processing of PARTIAL papers. Source draft and targeted updates only; integration requires separate approval."
+    },
+    {
+      "stage": "distill",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "reason": "User explicitly authorized integration process; editorial critique performed before publication."
+    },
+    {
+      "stage": "critique",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "verdict": "READY",
+      "reason": "434-person cross-sectional convenience survey checked; replacement concerns are not literacy. Coefficients excluded because extraction/table signs are ambiguous. Adds organizational context without validating the five coping strategies or recommending a proven intervention. Neither mediation nor association establishes cause or sequence; findings are bounded to Chinese university faculty."
+    },
+    {
+      "stage": "validation",
+      "outcome": "PASS",
+      "date": "2026-09-26",
+      "reason": "validate_drafts.py returned zero findings before Stage 5. Schmutz canonical links will resolve to the 2024 public stem."
+    },
+    {
+      "stage": "integration",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "reason": "User-authorized PARTIAL integration: source plus targeted updates; no new concepts or methods.",
+      "source": "sources/wang-ai-awareness-burnout-2025.md",
+      "updates": [
+        "identity-threat-coping",
+        "professional-identity-threat"
+      ]
+    }
+  ],
+  "pages": 12,
+  "distillation": {
+    "date": "2026-09-26",
+    "scope": "PARTIAL",
+    "source_draft": "drafts/source.md",
+    "update_drafts": [
+      "drafts/updates/professional-identity-threat.md",
+      "drafts/updates/identity-threat-coping.md"
+    ],
+    "decision": "PROCEED_TO_INTEGRATE",
+    "mechanical_precheck": "passed; Stage 4 critique READY; Stage 4.5 passed"
+  },
+  "integrated_at": "2026-09-26",
+  "integrated_source": "sources/wang-ai-awareness-burnout-2025.md"
+}

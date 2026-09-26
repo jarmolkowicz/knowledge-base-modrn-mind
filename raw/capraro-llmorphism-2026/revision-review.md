@@ -1,0 +1,58 @@
+# Revision Review: capraro-llmorphism-2026
+
+**Stage 5 completed, 2026-09-26:** [integration report](../julia-2026-09-26-integration.md). The dated review below is historical; approved entries are now in the KB, and their links point to the integrated files.
+
+Date: 2026-09-26
+
+## Overall: READY
+
+The requested revisions are complete. READY is an editorial recommendation, not permission to integrate. Status remains `critiqued`; a separate integration decision is pending.
+
+Authorization: user requested the 14 revisions and explicitly kept Zhang on hold. See [original critique and REVISE decision](./critique.md).
+
+## Scope and changes
+
+- [drafts/source.md](../../sources/capraro-llmorphism-2026.md) — revised.
+- [drafts/concepts/llmorphism.md](../../concepts/llmorphism.md) — revised.
+
+## Three-lens re-review
+
+Changed drafts were assessed in Evidence → Practitioner → Adversarial order. Previously approved, untouched drafts retain their original verdicts; this is not a fresh whole-paper reanalysis.
+
+### source.md
+
+| Lens | Verdict | Reason |
+|---|---|---|
+| Evidence | APPROVE | Author, title, abstract and length match arXiv:2605.05419v1; 2026 preprint citation verified. |
+| Practitioner | APPROVE | Removes provisional bibliography warnings while retaining secondary-reference cautions. |
+| Adversarial | APPROVE | Conceptual contribution remains speculative; locating a preprint is not empirical validation or peer review. |
+
+### concepts/llmorphism.md
+
+| Lens | Verdict | Reason |
+|---|---|---|
+| Evidence | APPROVE | Citation aligned with the primary preprint record. |
+| Practitioner | APPROVE | Uses one complete, traceable citation. |
+| Adversarial | APPROVE | Speculative status and untested-mechanism limits preserved. |
+
+## AI failure checklist
+
+- [x] Citations: primary identities checked; bibliographic corrections recorded in source drafts where required. No peer-review status inferred from preprint availability.
+- [x] Methodology: experimental comparisons, observed associations and editorial adaptations kept distinct.
+- [x] Statistics: no new numerical findings introduced by these revisions; reported estimates and source caveats retained.
+- [x] Constructs: felt control, actual capability, authenticity, fraudulence and well-being outcomes not treated as interchangeable.
+- [x] Status: emerging/speculative labels retained; no upgrade to solid.
+- [x] Links: all revised-set targets resolve against the existing KB plus named batch drafts.
+- [x] Novelty: no additional concept created in revision; overlap addressed where flagged.
+
+## Mechanical checks and integration dependencies
+
+Single-workbench preflight: zero findings. Combined 14-workbench check: zero findings.
+
+Proposed updates remain in drafts. Shared-entry changes must be merged once in the order in the [batch revision report](../julia-2026-09-26-revisions.md). Final Stage 4.5 and post-merge checks remain required after approval. This review does not certify every pre-existing claim in affected KB entries.
+
+## Decision
+
+- **Outcome**: PROCEED_TO_INTEGRATE
+- **Date**: 2026-09-26
+- **Reason**: User explicitly approved integration of the 26 READY sets and excluded Zhang. Final batch preflight passed; proceed to Stage 5.

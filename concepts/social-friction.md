@@ -5,6 +5,7 @@ sources:
   - "Perry (2026)"
   - "Cheng et al. (2025)"
   - "Eubanks, Muran & Safran (2018)"
+  - "Ibrahim, L., Hafner, F. S., Cheng, M., Lee, C., Anselmetti, R., Willer, R., Rocher, L., & Yang, D. (2026). Sycophantic AI makes human interaction feel more effortful and less satisfying over time. arXiv:2605.07912v1."
 ---
 
 # Social Friction
@@ -32,6 +33,8 @@ This matters for three reasons:
 Social friction is the social-relational analogue of [[cognitive-friction]] (Nosta 2026; Bjork & Bjork 2011). The same logical structure recurs: what feels inefficient (struggle in learning; rupture in relationships) is the mechanism. Frictionlessness produces the *appearance* of progress (a smooth conversation; a confident answer) without the *substrate* that produces real change (corrective feedback; effortful retrieval).
 
 Perry's most consequential framing: an AI companion who is always empathic and "on your side" may sustain engagement and foster reliance, but cannot teach users how to navigate real social interactions — how to engage ethically, tolerate disagreement, or repair interpersonal harm. Engagement and growth are not the same metric, and current market incentives optimize for the former.
+
+Ibrahim et al. (2026, preprint) provide experimental evidence relevant to Perry's proposed shift in expectations. After one conversation, participants assigned to actively affirming AI expected more effort to feel understood by a close other than participants assigned to neutral AI. Over three weeks, the affirming condition reported lower satisfaction with human interactions, but no significant reduction in social time. This narrows the claim: the study concerns perceived effort and satisfaction, not a direct test that disagreement or rupture-repair causes growth, or that AI has impaired those capacities.
 
 ## Relationship to Cognitive Friction
 
@@ -76,4 +79,5 @@ Within the [[mira-model]] (Boyd & Markowitz, 2026), social friction is the const
 - [[perry-social-friction-2026]] — Perry (2026)
 - [[cheng-sycophantic-prosocial-2025]] — Cheng et al. (2025)
 - Eubanks, Muran & Safran (2018)
+- [[ibrahim-human-interactions-effortful-2026]] — Ibrahim, L., Hafner, F. S., Cheng, M., Lee, C., Anselmetti, R., Willer, R., Rocher, L., & Yang, D. (2026). Sycophantic AI makes human interaction feel more effortful and less satisfying over time. arXiv:2605.07912v1.
 

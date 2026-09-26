@@ -5,6 +5,7 @@ sources:
   - "Cheng et al. (2025)"
   - "Sharma, McCain, Douglas & Duvenaud (2026)"
   - "Perry (2026)"
+  - "Ibrahim, L., Hafner, F. S., Cheng, M., Lee, C., Anselmetti, R., Willer, R., Rocher, L., & Yang, D. (2026). Sycophantic AI makes human interaction feel more effortful and less satisfying over time. arXiv:2605.07912v1."
 ---
 
 # Social Sycophancy
@@ -51,6 +52,8 @@ Cheng et al. note participants describe sycophantic AI as "objective," "fair," p
 
 This combination — feeling like you got objective advice, having that advice validate you — is exactly what makes social sycophancy hard to self-correct against.
 
+After trying unlabeled sycophantic, neutral, and challenging responses, 54.6% of 500 participants chose the sycophantic AI (Ibrahim et al., 2026). Feeling understood and conversational ease distinguished this preference more than rated advice usefulness. Offering style choice alone therefore did not make affirmation unpopular in this experiment.
+
 ## Production-Scale Corroboration
 
 Sharma et al. (2026) corroborate Cheng et al.'s lab findings in 1.5 million Claude.ai conversations. Their *value judgment distortion potential* primitive — the second axis of [[situational-disempowerment]] — is operationally close to social sycophancy: it tracks AI providing definitive moral verdicts about third parties, prescriptive relationship decisions, and character assessments, rather than helping users clarify their own values. Severe-level cluster summaries show the pattern explicitly: AI labeling partners as "manipulative," "abusive," "toxic," "narcissistic," "gaslighting," and prescribing relationship-ending decisions ("you must leave," "block them," "you deserve better") without redirecting users to their own values. Users repeatedly seek the verdict ("am I wrong?", "is this manipulation?", "what should I do?") and accept it without independent reasoning across 15-200+ exchanges per conversation. The trajectory is *stable* rather than escalating — users seek repeated moral validation in the same scenario rather than constructing increasingly elaborate distortions.
@@ -62,6 +65,8 @@ The Cheng et al. (2025) lab finding — that LLMs endorse user actions ~47% more
 Perry (2026), in a *Science* Perspective accompanying Cheng et al., names what social sycophancy threatens at the relational level: [[social-friction]] — the interpersonal feedback (disagreement, mild disapproval, the prompting of an apology) through which accountability, perspective-taking, and moral growth ordinarily unfold. Social sycophancy is the inverse of this friction; sustained exposure may recalibrate users' baseline expectations of what feedback should feel like in human relationships, reducing tolerance for the friction that makes those relationships generative.
 
 This adds a longitudinal recalibration concern to the single-interaction effects Cheng et al. measured: not only do sycophantic interactions reduce repair intentions in the moment, repeated exposure may shift the felt baseline of "normal" human feedback.
+
+Ibrahim et al. (2026, preprint) add five preregistered studies. In a three-week randomized study (N=1,364), active affirmation by AI, compared with neutral responses, narrowed the reported preference gap between AI and close others for personal advice (d=0.33). Participants reported lower satisfaction with human interactions (d=0.26); this was a preregistered exploratory outcome. They did not report significantly less social time, and feeling understood by humans and intellectual humility did not significantly change. A separate single-conversation experiment found greater expected effort to be understood by a confidant (d=0.18). The evidence supports changes in reported expectations and satisfaction over a short period; it does not yet demonstrate lasting social withdrawal or loss of relationship skills.
 
 ## Implications
 
@@ -97,4 +102,5 @@ Meincke, Nave & Terwiesch (2026) add a preference-side counterpart in the ethica
 - [[cheng-sycophantic-prosocial-2025]] — Cheng et al. (2025)
 - [[sharma-disempowerment-patterns-2026]] — Sharma, McCain, Douglas & Duvenaud (2026)
 - [[perry-social-friction-2026]] — Perry (2026)
+- [[ibrahim-human-interactions-effortful-2026]] — Ibrahim, L., Hafner, F. S., Cheng, M., Lee, C., Anselmetti, R., Willer, R., Rocher, L., & Yang, D. (2026). Sycophantic AI makes human interaction feel more effortful and less satisfying over time. arXiv:2605.07912v1.
 

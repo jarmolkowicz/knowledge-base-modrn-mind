@@ -1,0 +1,14 @@
+{
+  "slug": "yunusa-mental-health-ai-2026",
+  "original_filename": "ANGWAOMAODOKO et al. (2026) - Mental Health in the Age of AI.pdf",
+  "format": "pdf",
+  "source_type": "paper",
+  "word_count": 11288,
+  "hash": "d975662b5b9b5e3186bdd47bb7376aaeec3ea61482153f5c2bd3e31a1affaf5d",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "triaged",
+  "ingested_at": "2026-09-08T08:48:56Z",
+  "decisions": [],
+  "pages": 25
+}

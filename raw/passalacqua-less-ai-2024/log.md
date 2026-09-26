@@ -17,3 +17,10 @@
 
 ## 2026-04-29T15:29:34Z — re-distilled (Pass 2 batch 4)
 - Replaced sources/passalacqua-less-ai-2024.md with v2 draft
+
+## 2026-09-26 — user-approved evidence correction
+
+- Recorded approval and evidence review in correction-review.md; drafted the replacement source and concept update before integration.
+- Draft validation: PASS, zero findings. Integrated the narrower short-term finding about later unaided error detection.
+- Removed unsupported numerical claims and the SciSpace attribution from current entries, plus surrounding claims of proven long-term erosion and causal mediation.
+- Original binary, extracted text and historical audit records unchanged. Retained the concept update proposal in drafts/updates/.

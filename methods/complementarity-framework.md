@@ -6,6 +6,9 @@ area:
 sources:
   - "Vaccaro, M., Almaatouq, A. & Malone, T. (2024). When combinations of humans and AI are useful: a systematic review and meta-analysis. Nature Human Behaviour, 8, 2293–2303. https://doi.org/10.1038/s41562-024-02024-1"
   - "Dell'Acqua, F., Ayoubi, C., Lifshitz, H., Sadun, R., Mollick, E., Mollick, L., Han, Y., Goldman, J., Nair, H., Taub, S., & Lakhani, K. R. (2026). The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork. Organization Science, Articles in Advance. https://doi.org/10.1287/orsc.2025.20702"
+  - "Liu, C. (2026). The Organizational Behavior of Agentic AI: Context, Boundaries, and Collective Intelligence in Human-Agent Workflows. arXiv:2606.30986v1."
+  - "Ali, I., Nguyen, K., Ali, A. M., & Cui, T. (2025). Human–AI collaboration in knowledge ecosystems: A multidisciplinary review, integrative framework and future directions. Journal of Knowledge Management. https://doi.org/10.1108/JKM-03-2025-0431"
+  - "Schmutz, J. B., Outland, N., Kerstan, S., Georganta, E., & Ulfert, A.-S. (2024). AI-teaming: Redefining collaboration in the digital era. Current Opinion in Psychology, 58, 101837. https://doi.org/10.1016/j.copsyc.2024.101837"
 ---
 
 # Complementarity Framework
@@ -44,6 +47,14 @@ Human-AI teams only outperform either party alone when collaboration is delibera
 - **User expertise** — Novices and experts benefit from different collaboration modes. Prior experience with automation shapes acceptance.
 - **Task characteristics** — Largest gains in complex, uncertain tasks where error patterns differ. Well-defined tasks favor AI alone; open-ended strategic tasks favor humans. Vaccaro et al.'s (2024) meta-analysis of 106 experiments empirically confirms this: creation tasks (open-response content) showed performance gains, while decision tasks (choosing among fixed options) showed losses — and relative ability mattered most of all, with synergy appearing when the human was the stronger party and reversing into losses when the AI was.
 
+Liu (2026, preprint) adds an internal-agent coordination question: what [[contextual-transaction-cost]] does each handoff create? A role label such as reviewer or manager does not guarantee independent evidence or accountability. The proposed interface between agents and human work specifies evidence identifiers, preserved uncertainty, permissions, audit traces, and human decision points.
+
+Schmutz et al. (2024) review evidence that communication, coordination and mutual understanding can limit human–AI team performance even when the AI is capable. Some studies used simulated tasks or manipulated beliefs about an AI teammate rather than actual AI, so the findings do not establish a universal performance penalty. The review also identifies a gap in quantitatively linking shared mental models to human–AI team performance (PDF pp.2–4).
+
+Ali et al. (2025) map organizational context alongside user expertise and AI capability: task fit, explanation quality, resources, governance and room to challenge outputs. Their review is a framework synthesis, not a joint causal test.
+
+[Inference] Assess handoffs, information sharing, task fit and organizational support alongside joint outcomes. Compare the workflow with relevant human-only and AI-only baselines; adoption, trust and satisfaction alone do not demonstrate complementarity.
+
 ## Strengths
 
 - Integrates insights across cognitive science, human factors, organizational behavior, AI alignment, and ethics — genuinely interdisciplinary
@@ -62,6 +73,8 @@ Human-AI teams only outperform either party alone when collaboration is delibera
 - Focuses on team-level design but less on individual cognitive costs of sustained human-AI collaboration
 - The "teaming" framing risks anthropomorphizing AI, despite explicit disclaimers
 
+Agent-only collectives require separate evidence from human-AI teams. In Liu's small local LLM demonstration, shared memory sometimes improved quality but single-agent execution had the highest efficiency once coordination costs were counted. The paper's synthetic simulation favored shared and adaptive forms. These different rankings argue for task-level comparison, not a universal preference for more agents. The cost metric and its weights are author-defined; field validation is still needed.
+
 ## Related
 
 - [[human-ai-complementarity]] - the concept this framework operationalizes
@@ -76,8 +89,13 @@ Human-AI teams only outperform either party alone when collaboration is delibera
 - [[dellacqua-cybernetic-teammate-2026]] — field evidence for the team-size (diminishing-returns) and interrogation factors; the affirming-AI selection deficit as a measured risk to calibrated trust
 - [[cybernetic-teammate]] — the reframing (AI as counterpart, not tool) that the framework's "adaptive partner" end of the spectrum describes
 
+- [[contextual-transaction-cost]] — transfer, reconstruction, and verification burdens inside an agent system.
+
 ## Sources
 
 - [[vaccaro-human-ai-meta-analysis-2024]] — Vaccaro, M., Almaatouq, A. & Malone, T. (2024). When combinations of humans and AI are useful: a systematic review and meta-analysis. Nature Human Behaviour, 8, 2293–2303. https://doi.org/10.1038/s41562-024-02024-1
 - Dell'Acqua, F., Ayoubi, C., Lifshitz, H., Sadun, R., Mollick, E., Mollick, L., Han, Y., Goldman, J., Nair, H., Taub, S., & Lakhani, K. R. (2026). The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork. Organization Science, Articles in Advance. https://doi.org/10.1287/orsc.2025.20702
+- [[liu-agentic-ai-organizational-behavior-2026]] — Liu, C. (2026). The Organizational Behavior of Agentic AI: Context, Boundaries, and Collective Intelligence in Human-Agent Workflows. arXiv:2606.30986v1.
+- [[ali-human-ai-knowledge-ecosystems-2025]] — Ali, I., Nguyen, K., Ali, A. M., & Cui, T. (2025). Human–AI collaboration in knowledge ecosystems: A multidisciplinary review, integrative framework and future directions. Journal of Knowledge Management. https://doi.org/10.1108/JKM-03-2025-0431
+- [[schmutz-ai-teaming-2024]] — Schmutz, J. B., Outland, N., Kerstan, S., Georganta, E., & Ulfert, A.-S. (2024). AI-teaming: Redefining collaboration in the digital era. Current Opinion in Psychology, 58, 101837. https://doi.org/10.1016/j.copsyc.2024.101837
 

@@ -10,6 +10,7 @@ sources:
 - Bartoš et al. (2026)
 - Stadler, Bannert & Sailer (2024)
 - "Wu, S., Liu, Y., Ruan, M., Chen, S., & Xie, X.-Y. (2025). Human-generative AI collaboration enhances task performance but undermines human's intrinsic motivation. Scientific Reports, 15, 15105. https://doi.org/10.1038/s41598-025-98385-2"
+- "Strömberg, Lei & Wu (2026)"
 ---
 
 # Performance Paradox
@@ -40,6 +41,10 @@ Wu et al. (2025) extend the paradox to the *post-AI* dimension that prior KB sou
 
 This is the paradox's post-AI face: the worker performs better *with* AI but does not retain that performance in subsequent unassisted work. Where Bastani et al. show the gap *during* AI use (practice +48% but exam −17%), Wu et al. show the gap *after* AI use (immediate task gains do not transfer). The two findings together describe a fuller paradox: AI's performance benefit is bounded to its presence, with neither during-AI-learning nor post-AI-skill-transfer reliably operating in the worker's favor. The mechanism Wu et al. propose — that psychological deprivation effects (motivation decline, boredom increase) overshadow GenAI's potential cognitive benefits — converges with the Stadler "germane cognitive load" mediation: when AI removes effort, the active processing that would translate into transfer doesn't happen.
 
+Strömberg, Lei & Wu (2026) extend the [[performance-paradox]] to a 30-month administrative panel of 26,811 Chinese secondary students. Their staggered-adoption analysis estimates +18% homework scores, roughly 30% less completion time and −20% monthly exam scores at 6–10 months after adoption. Score changes are percentages of the baseline mean, not grade percentage points. AI adoption was self-selected and onset retrospectively reported, so causal interpretation depends on parallel-trends and no-confounding assumptions. The much-publicized 18–24% entrance-exam losses concern at least two years of exposure; average entrance-exam effects were nearer −7% in the DID analysis.
+
+The study also shows why homework quality can become a misleading learning signal: among higher-scoring AI users, better homework coexisted with lower exam scores. Outsourcing was inferred from short completion times, not directly observed. Equal homework time was associated with similar exam results; this does not prove that requiring longer homework restores learning.
+
 ## The Vicious Cycle
 
 Lodge & Loble (2026) describe how the paradox self-reinforces:
@@ -64,6 +69,8 @@ Lodge & Loble (2026) describe how the paradox self-reinforces:
 - [[stadler-cognitive-ease-cost-2024]] — within-session paradox evidence: LLM-induced drop in cognitive load fully mediates the drop in justification quality
 - [[wu-collaboration-motivation-2025]] — pre-registered RCT evidence (N = 3,562) that the paradox extends post-AI: immediate-task augmentation is robust (d up to 1.50) but spillover to subsequent unassisted tasks is largely absent across three of four studies
 
+- [[stromberg-ai-learning-penalty-2026]] — longer-term field evidence with explicit observational limits.
+
 ## Sources
 
 - [[bastani-guardrails-math-rct-2025]] — Bastani et al. (2025)
@@ -72,4 +79,5 @@ Lodge & Loble (2026) describe how the paradox self-reinforces:
 - [[bartos-ai-learning-meta-meta-2026]] — Bartoš et al. (2026)
 - [[stadler-cognitive-ease-cost-2024]] — Stadler, Bannert & Sailer (2024)
 - [[wu-collaboration-motivation-2025]] — Wu, S., Liu, Y., Ruan, M., Chen, S., & Xie, X.-Y. (2025). Human-generative AI collaboration enhances task performance but undermines human's intrinsic motivation. Scientific Reports, 15, 15105. https://doi.org/10.1038/s41598-025-98385-2
+- [[stromberg-ai-learning-penalty-2026]] — Strömberg, Lei & Wu (2026)
 

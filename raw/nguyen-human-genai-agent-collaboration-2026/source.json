@@ -1,0 +1,14 @@
+{
+  "slug": "nguyen-human-genai-agent-collaboration-2026",
+  "original_filename": "Nguyen et al. (2026) - Human\u2013GenAI-based agent collaboration.pdf",
+  "format": "pdf",
+  "source_type": "paper",
+  "word_count": 13226,
+  "hash": "cf6dd339faf066bbcc93cfa6d1fd2dddaefdb7f99d7f65820c169b9d7c9bf6fb",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "triaged",
+  "ingested_at": "2026-09-08T08:49:46Z",
+  "decisions": [],
+  "pages": 13
+}

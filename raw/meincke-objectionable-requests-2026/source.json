@@ -1,0 +1,14 @@
+{
+  "slug": "meincke-objectionable-requests-2026",
+  "original_filename": "Meincke et al. (2026) - Persuading large language models to comply with objectionable requests.pdf",
+  "format": "pdf",
+  "source_type": "article",
+  "word_count": 6325,
+  "hash": "1c1393c369e1aa80fc4da07138da7e7f58c193ee96848aefa63571b98d2365ae",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "triaged",
+  "ingested_at": "2026-09-08T08:49:45Z",
+  "decisions": [],
+  "pages": 6
+}

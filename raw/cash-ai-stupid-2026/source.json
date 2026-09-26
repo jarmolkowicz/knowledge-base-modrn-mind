@@ -1,0 +1,64 @@
+{
+  "slug": "cash-ai-stupid-2026",
+  "original_filename": "Casha at al. (2026) - Is AI Making Us Stupid_.pdf",
+  "format": "pdf",
+  "source_type": "article",
+  "word_count": 2870,
+  "hash": "cdc20d089929e6149fb59bfcaf904b28a0521bcb8fccbf3920b4ca95963c05f3",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-08T08:48:41Z",
+  "decisions": [
+    {
+      "stage": "triage",
+      "outcome": "PARTIAL",
+      "date": "2026-09-26",
+      "reason": "User requested processing of PARTIAL papers. Source draft and targeted updates only; integration requires separate approval."
+    },
+    {
+      "stage": "distill",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "reason": "User explicitly authorized integration process; editorial critique performed before publication."
+    },
+    {
+      "stage": "critique",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "verdict": "READY",
+      "reason": "Commentary, not primary evidence. Acquisition, skill decay and basic cognitive abilities stay separate. Revised the update to replace the directly conflicting Shen paragraph rather than append a caveat. Conditional offloading wording gives a usable distinction without promising either harm or safety. No claim that all offloading erodes skills or that resilience of basic abilities is proven. Other legacy claims in the host entries were not fully re-audited."
+    },
+    {
+      "stage": "validation",
+      "outcome": "PASS",
+      "date": "2026-09-26",
+      "reason": "validate_drafts.py returned zero findings before Stage 5. Schmutz canonical links will resolve to the 2024 public stem."
+    },
+    {
+      "stage": "integration",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "reason": "User-authorized PARTIAL integration: source plus targeted updates; no new concepts or methods.",
+      "source": "sources/cash-ai-stupid-2026.md",
+      "updates": [
+        "capacity-erosion",
+        "cognitive-offloading"
+      ]
+    }
+  ],
+  "pages": 3,
+  "distillation": {
+    "date": "2026-09-26",
+    "scope": "PARTIAL",
+    "source_draft": "drafts/source.md",
+    "update_drafts": [
+      "drafts/updates/capacity-erosion.md",
+      "drafts/updates/cognitive-offloading.md"
+    ],
+    "decision": "PROCEED_TO_INTEGRATE",
+    "mechanical_precheck": "passed; Stage 4 critique READY; Stage 4.5 passed"
+  },
+  "integrated_at": "2026-09-26",
+  "integrated_source": "sources/cash-ai-stupid-2026.md"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "stromberg-ai-learning-penalty-2026",
+  "original_filename": "Strömberg, Lei & Wu (2026).pdf",
+  "format": "pdf",
+  "source_type": "paper",
+  "word_count": 19334,
+  "hash": "4473a5cc6bdf1aa01b22fd7354cdd71675cf38e874b2adab04707136b9739934",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-08T08:50:14Z",
+  "decisions": [
+    {
+      "stage": "triage",
+      "outcome": "INCLUDE",
+      "date": "2026-09-08",
+      "reason": "User approved all 27 INCLUDE recommendations from the 48-paper Julia batch: \"I approve 27 INCLUDE papers\". Decision matches the recommendation; proceed to Stage 3 distillation."
+    },
+    {
+      "stage": "distill",
+      "outcome": "PROCEED_TO_CRITIQUE",
+      "date": "2026-09-09",
+      "reason": "User replied \"Proceed\" to the proposal to critique all 27 draft sets. This authorizes Stage 4 only; no integration decision recorded."
+    },
+    {
+      "stage": "critique",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "reason": "User: \"Remove the Zhang then. Integrate the 26. Make sure folders like tmp won't get to git repo.\" Approved all 26 READY paper sets; Zhang excluded."
+    },
+    {
+      "stage": "integrate",
+      "outcome": "INTEGRATED",
+      "date": "2026-09-26",
+      "reason": "Completed explicit user-approved integration; batch preflight passed. New entries moved, approved updates merged, navigation rebuilt. Zhang excluded."
+    }
+  ],
+  "pages": 58,
+  "validation": {
+    "date": "2026-09-26",
+    "result": "PASS",
+    "scope": "26 approved workbenches as a single integration batch",
+    "findings": 0
+  },
+  "integrated_at": "2026-09-26",
+  "integration": {
+    "new_entries": [
+      "sources/stromberg-ai-learning-penalty-2026.md"
+    ],
+    "updated_entries": [
+      "concepts/performance-paradox.md"
+    ],
+    "report": "../julia-2026-09-26-integration.md"
+  }
+}

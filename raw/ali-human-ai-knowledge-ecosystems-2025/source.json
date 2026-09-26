@@ -1,0 +1,62 @@
+{
+  "slug": "ali-human-ai-knowledge-ecosystems-2025",
+  "original_filename": "JKMpaper_Accepted.pdf",
+  "format": "pdf",
+  "source_type": "paper",
+  "word_count": 11528,
+  "hash": "431e7217aea174b1a4b4afda6a9a92d0a0b67f55be3a221f2ea599a438cd40af",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-08T08:49:26Z",
+  "decisions": [
+    {
+      "stage": "triage",
+      "outcome": "PARTIAL",
+      "date": "2026-09-26",
+      "reason": "User requested processing of PARTIAL papers. Source draft and targeted updates only; integration requires separate approval."
+    },
+    {
+      "stage": "distill",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "reason": "User explicitly authorized integration process; editorial critique performed before publication."
+    },
+    {
+      "stage": "critique",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "verdict": "READY",
+      "reason": "101-article review; mixed designs and conflicting coverage dates are disclosed. No pooled or jointly tested causal effect is claimed. Adds task and organizational checks to an existing framework rather than a new method. Possible duplication with Schmutz is controlled by separating organizational conditions from coordination; positive outcomes are not guaranteed."
+    },
+    {
+      "stage": "validation",
+      "outcome": "PASS",
+      "date": "2026-09-26",
+      "reason": "validate_drafts.py returned zero findings before Stage 5. Schmutz canonical links will resolve to the 2024 public stem."
+    },
+    {
+      "stage": "integration",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "reason": "User-authorized PARTIAL integration: source plus targeted updates; no new concepts or methods.",
+      "source": "sources/ali-human-ai-knowledge-ecosystems-2025.md",
+      "updates": [
+        "complementarity-framework"
+      ]
+    }
+  ],
+  "pages": 38,
+  "distillation": {
+    "date": "2026-09-26",
+    "scope": "PARTIAL",
+    "source_draft": "drafts/source.md",
+    "update_drafts": [
+      "drafts/updates/complementarity-framework.md"
+    ],
+    "decision": "PROCEED_TO_INTEGRATE",
+    "mechanical_precheck": "passed; Stage 4 critique READY; Stage 4.5 passed"
+  },
+  "integrated_at": "2026-09-26",
+  "integrated_source": "sources/ali-human-ai-knowledge-ecosystems-2025.md"
+}

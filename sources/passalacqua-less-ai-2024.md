@@ -16,68 +16,49 @@ Passalacqua, M., Pellerin, R., Yahia, E., Magnani, F., Rosin, F., Joblot, L., & 
 
 ## Type
 
-Paper (between-subjects experiment, N=102, manufacturing quality-control task)
+Paper — randomized between-subjects laboratory experiment; 102 university students recruited, 100 retained for analysis across the study; manufacturing quality-control task.
 
 ## Key Insight
 
-Passalacqua et al. test the design question: when training a worker to do a task with AI assistance, should the AI **select decisions for them** (full automation) or **assist their decisions** (partial automation)?
+University students trained with AI that supported their decisions later detected errors more accurately without AI than students trained with AI that selected decisions for them. This is a short-term, task-specific finding about later unaided error detection, not evidence of lasting skill erosion or a universal advantage of partial automation.
 
-The answer is sharp: **full decision-selection automation harms** every outcome of interest — perceived autonomy, self-determined motivation, behavioral task engagement, and skill acquisition. Partial automation (AI as decision *aid* rather than decision *selector*) produces better outcomes on all four. When the AI eventually fails (which it will), partially-trained workers can recover; fully-trained workers cannot.
+## Key Findings
 
-The theoretical frame is **Self-Determination Theory** (Ryan & Deci): autonomy is a basic psychological need, and satisfying it yields self-determined motivation, which drives engagement, which drives skill acquisition. Full automation strips autonomy → starves motivation → reduces engagement → leaves skill underdeveloped. The mechanism chain is empirically traced in the paper.
-
-The effect is large (in earlier work-aligned reports, d = 0.9; full-automation conditions show ~23% worse skill acquisition). The finding is also asymmetric: the cost of partial automation is *more time during training* (workers do more of the task themselves); the cost of full automation is *worse outcomes when AI fails*, which the paper argues is the more consequential cost.
-
-For human thinking with AI: this is the strongest experimental evidence for the KB's preservation thesis. Where [[bjork-desirable-difficulties-2011]] and [[ericsson-deliberate-practice-1993]] argue that productive struggle builds capability *in general*, Passalacqua shows the same dynamic operating *specifically* in AI-assisted work. The mechanism — autonomy → motivation → engagement → skill — is the SDT chain, and removing any link breaks the rest.
+- Participants inspected and completed snowshoes. Training involved no AI, fully automated decision selection, or partial automation with the participant making the final decision. AI was removed for the later task to simulate failure (PDF pp.7–10).
+- Later unaided error detection was significantly worse after full than partial automation during training (section 5.1.2, PDF p.12). No significant difference was found between partial and no automation. No significant overall effect on later task completion time was found.
+- The partial condition used advice that missed one of six defects; the fully automated condition was always correct. The comparison therefore changes both decision authority and AI reliability, not decision authority alone (PDF pp.9–10).
+- The authors interpret the results through Self-Determination Theory. Selected measures of autonomy, motivation and behavioral engagement favored partial automation, but other measures did not differ. The study does not establish the proposed autonomy → motivation → engagement → skill pathway as a causal mediation chain (sections 5.2–5.3 and 6.2–6.3).
 
 ## Key Passages
 
-> "Findings indicated that fully automated decision selection negatively impacted perceived autonomy, self-determined motivation, behavioral task engagement, and skill acquisition during training."
-> — Passalacqua et al., [p.2] (abstract)
-
-> "Conversely, partially automated AI-enhanced motivation and engagement, enabling participants to better adapt to AI failure by developing necessary skills."
-> — Passalacqua et al., [p.2] (abstract)
-
 > "The results suggest that involving workers in decision-making during training, using AI as a decision aid rather than a decision selector, yields more positive outcomes."
-> — Passalacqua et al., [p.2]
-
-> "When automation fails or malfunctions, higher levels of automation lead to worse performance… workers may become complacent and over-rely on automation, leaving them unable to adequately respond, resulting in precarious performance."
-> — Passalacqua et al., [p.3]
-
-> "Effect size **d = 0.9** (large). Full automation led to **23% worse skill acquisition** compared to partial automation. Mechanism chain identified: reduced autonomy → lower motivation → less engagement → skill deficit."
-> — (paraphrase of mechanism + effect size from results section)
+> — Passalacqua et al., PDF p.2 (abstract; the actual sample was university students)
 
 ## Relevance
 
-The most KB-relevant experimental evidence for the partial-automation principle. Three contributions:
+Supports a bounded claim for [[partial-automation-principle]]: training design can affect performance after AI support is removed. [Inference] Where people must act without AI, evaluate that unaided performance separately from performance while assistance is available.
 
-- **Effect size makes the case loud.** d = 0.9 is a large effect; 23% skill-acquisition gap is concrete and citable. The KB's [[strategic-alternation]] and [[think-first]] methods now have a quantified empirical anchor in addition to the Bjork/Ericsson/Risko theoretical foundations.
-- **SDT mechanism chain.** The paper traces a four-link causal chain — autonomy → motivation → engagement → skill. This is the explanatory mechanism behind why partial-automation works. If any link is missing, the others collapse. Practitioners can debug failures by identifying the broken link.
-- **Failure-recovery framing.** Passalacqua's emphasis on "what happens when AI fails" reframes the partial-vs-full automation choice from "best case while it works" to "best case averaged over failure modes." Most AI deployment debates focus on the first; the second is the load-bearing one.
-
-The Industry 4.0 → 5.0 framing (technology-centric → human-centric design philosophy) is the policy-side bridge to KB concepts like [[professional-identity-threat]] and [[nikolova-robots-meaning-2024]]'s autonomy-preservation findings.
+The result does not directly test [[strategic-alternation]] or [[think-first]] as general methods, nor establish [[desirable-difficulty]] as the mechanism.
 
 ## Supports
 
-- [[strategic-alternation]] — strongest experimental evidence for the underlying claim
-- [[desirable-difficulty]] — partial automation IS desirable difficulty in AI-assisted work
-- [[capacity-erosion]] — full automation produces measurable skill erosion in 102-person study
-- [[think-first]] — empirical case for keeping the human in the decision-selection role
-- [[automation-bias]] — Passalacqua's full-automation condition produces complacency-and-failure, exactly the pattern Goddard's review documented
-- [[nikolova-robots-meaning-2024]] — converging evidence: autonomy-preservation is what makes automation tolerable to humans
-- [[ericsson-deliberate-practice-1993]] — partial automation preserves the conditions for deliberate practice; full automation removes them
-- [[bjork-desirable-difficulties-2011]] — same mechanism in cognitive science vocabulary
+- [[partial-automation-principle]] — later unaided error detection in one training experiment.
+- [[capacity-erosion]] — relevant to risks of missed practice; not a demonstration of long-term decline in an already acquired skill.
+- [[strategic-alternation]] — related rationale for checking unaided performance, not a direct test of alternating workflows.
+- [[think-first]] — related emphasis on human decision-making, not a direct test of a think-first protocol.
+- [[desirable-difficulty]] — related learning perspective; the mechanism was not established here.
 
 ## Contradicts / Extends
 
-- Extends [[bjork-desirable-difficulties-2011]] from desirable difficulties in *learning* to desirable difficulties in *AI-assisted production work*. Same finding, different domain.
-- Extends [[ericsson-deliberate-practice-1993]] — Passalacqua quantifies what happens when work removes the conditions for deliberate practice. Bjork & Ericsson predicted skill decay; Passalacqua measures it.
-- Aligns with [[nikolova-robots-meaning-2024]] — both papers identify autonomy as the SDT lever that mediates between automation and human-side outcomes.
-- The Industry 5.0 (human-centric) framing is the policy-design counterpart to the KB's individual-cognitive framing.
+- Qualifies comparisons based only on performance while AI is available: training conditions also matter for a later unaided task.
+- Does not show that partial automation improves every outcome, that fully automated trainees cannot perform unaided, or that specific practice protocols work across domains.
+
+## Limitations
+
+Short-term measurements in university students performing one physical quality-control task; not a longitudinal study of factory workers or knowledge workers. The training conditions differed in both AI reliability and decision authority. The study does not isolate those contributions or establish durable retention, general cognitive decline, or an optimal degree of automation across tasks (PDF pp.9–10, 16).
 
 ## Open Questions
 
-- Generalization beyond manufacturing: does the partial-vs-full automation result hold for knowledge work (writing, coding, analysis)? Mechanism (SDT) suggests yes, but evidence is in physical-task domains.
-- The Industry 5.0 framing assumes organizations want human-centric outcomes. What if the organization optimizes for short-term throughput? Partial automation costs more training time; the paper argues this is offset by better failure recovery, but the time-discount-rate matters.
-- N=102 is solid for a between-subjects manufacturing experiment but small for population-level inference. What's the variance across worker populations (age, prior experience, learning style)?
-- The effect was measured in a controlled training environment. Does it persist after months of on-the-job practice — does the partial-automation advantage attenuate, hold, or grow?
+- Does the later unaided advantage persist over months and in experienced workers?
+- Does it generalize to writing, coding or analysis?
+- What changes when AI reliability is held constant across decision-authority conditions?

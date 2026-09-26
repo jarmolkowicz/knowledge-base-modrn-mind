@@ -5,6 +5,8 @@ area:
 - preservation
 sources:
 - Leonardi & Leavell (2026)
+- "Kahneman, D., & Klein, G. (2009). Conditions for intuitive expertise: A failure to disagree. American Psychologist, 64(6), 515–526. doi:10.1037/a0016755"
+- "Salinas, A., et al. (2026). Law professors prefer AI over peer answers. Working paper, May 27."
 ---
 
 # Judgment
@@ -17,7 +19,7 @@ Gonzalez et al. (2026) reinforce the non-delegable nature of human judgment from
 
 ## Why It Matters
 
-Judgment is the meta-capability that makes all other AI-era skills valuable. You can have domain expertise, metacognition, and calibration skills — but without judgment, you can't deploy them in ambiguous real-world situations where rules don't apply cleanly. AI can follow rules; judgment is what you need when the rules run out.
+Judgment is the meta-capability that makes all other AI-era skills valuable. Domain expertise, metacognition and calibration help people make and assess decisions under uncertainty. AI can also produce answers that experts prefer in some judgment-rich tasks: Salinas et al. (2026) found this in blinded comparisons of short contracts-law answers. This is evidence about evaluated output, not students' learning, human-like internal reasoning, or the ability to accept accountability. Keep those questions separate.
 
 ## Key Insight
 
@@ -56,7 +58,11 @@ Borrowed from high-stakes fields (medicine, military):
 - **Graduated responsibility** — increasing stakes as capability develops
 - **Structured reflection** — post-action reviews of decisions and outcomes
 
+Kahneman and Klein (2009) add a condition to these practices: the task must contain valid cues that a person has a real opportunity to learn. Repetition alone does not turn an unpredictable task into a learnable one. Useful feedback must connect decisions to outcomes clearly enough to correct mistakes. Expertise is often fractionated—reliable for some tasks in a profession but not others—and confidence alone does not reveal its boundaries.
+
 ## Related
+
+- [[macnamara-maitra-deliberate-practice-replication-2019]] — replication qualifying accumulated practice hours as a complete explanation of expertise.
 
 - [[metacognition]] - awareness of your own judgment process
 - [[calibration]] - matching judgment confidence to actual capability
@@ -70,7 +76,11 @@ Borrowed from high-stakes fields (medicine, military):
 - [[complementarity-framework]] - human judgment anchors the reasoning dimension
 - [[artificial-certainty]] - AI-generated representations that bypass expert judgment (Leonardi & Leavell 2026)
 
+- [[calibration]] — assess task validity and feedback history before relying on intuitive evaluation.
+
 ## Sources
 
 - [[leonardi-artificial-certainty-2026]] — Leonardi & Leavell (2026)
+- [[kahneman-klein-intuitive-expertise-2009]] — Kahneman, D., & Klein, G. (2009). Conditions for intuitive expertise: A failure to disagree. American Psychologist, 64(6), 515–526. doi:10.1037/a0016755
+- [[salinas-law-professors-ai-2026]] — Salinas, A., et al. (2026). Law professors prefer AI over peer answers. Working paper, May 27.
 

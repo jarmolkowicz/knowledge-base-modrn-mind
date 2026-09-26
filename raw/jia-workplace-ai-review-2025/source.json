@@ -1,0 +1,62 @@
+{
+  "slug": "jia-workplace-ai-review-2025",
+  "original_filename": "Jia et al. (2025) - The consequences and theoretical explanation of workplace AI on employees- a systematic literature review.pdf",
+  "format": "pdf",
+  "source_type": "article",
+  "word_count": 22534,
+  "hash": "c596ade994bd85e8cb4cd4b387f8831977c9836ea1970b2defbcca18e363eb6b",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-08T08:49:25Z",
+  "decisions": [
+    {
+      "stage": "triage",
+      "outcome": "PARTIAL",
+      "date": "2026-09-26",
+      "reason": "User requested processing of PARTIAL papers. Source draft and targeted updates only; integration requires separate approval."
+    },
+    {
+      "stage": "distill",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "reason": "User explicitly authorized integration process; editorial critique performed before publication."
+    },
+    {
+      "stage": "critique",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "verdict": "READY",
+      "reason": "107-article synthesis; AI use, management, skills and perceived threat remain separate exposures. No review-level causal estimate. Contributes one clear qualification to identity-threat claims rather than a new broad framework. Mixed technologies and study designs are explicit; positive resource pathways remain alongside risks."
+    },
+    {
+      "stage": "validation",
+      "outcome": "PASS",
+      "date": "2026-09-26",
+      "reason": "validate_drafts.py returned zero findings before Stage 5. Schmutz canonical links will resolve to the 2024 public stem."
+    },
+    {
+      "stage": "integration",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "reason": "User-authorized PARTIAL integration: source plus targeted updates; no new concepts or methods.",
+      "source": "sources/jia-workplace-ai-review-2025.md",
+      "updates": [
+        "professional-identity-threat"
+      ]
+    }
+  ],
+  "pages": 23,
+  "distillation": {
+    "date": "2026-09-26",
+    "scope": "PARTIAL",
+    "source_draft": "drafts/source.md",
+    "update_drafts": [
+      "drafts/updates/professional-identity-threat.md"
+    ],
+    "decision": "PROCEED_TO_INTEGRATE",
+    "mechanical_precheck": "passed; Stage 4 critique READY; Stage 4.5 passed"
+  },
+  "integrated_at": "2026-09-26",
+  "integrated_source": "sources/jia-workplace-ai-review-2025.md"
+}

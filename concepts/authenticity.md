@@ -3,6 +3,8 @@ status: emerging
 area: [risk]
 sources:
   - "Raj, Berg, & Seamans (2026)"
+  - "Frenzel-Piasentin, A., Finze, N., & Kosok, M. (2026). You Don't Have To Use What The AI Suggests: A Self-Determination Perspective On Artificial Intelligence In Knowledge Work. ECIS 2026 Proceedings, 8."
+  - "Zhu, J., & Molnar, A. (2025). Blissful (A)Ignorance: People form overly positive impressions of others based on their written messages, despite wide-scale adoption of Generative AI. arXiv:2501.15678. https://arxiv.org/abs/2501.15678"
 ---
 
 # Authenticity
@@ -21,6 +23,10 @@ Raj et al. (2026) showed across 16 experiments (N = 27,491) that perceived authe
 
 This suggests authenticity perceptions are not a knowledge gap to be educated away, but a deep evaluative reflex tied to beliefs about human creative effort.
 
+Frenzel-Piasentin, Finze, and Kosok (2026) distinguish a worker's own [[competence-authenticity]] from how others evaluate their work. In five focus groups with 22 participants, workers described both feeling competent despite relying on AI and feeling illegitimate even after limited proofreading assistance. The construct concerns whether performance feels grounded in one's own mastery; it is not a measure of actual ability or proof that AI assistance makes work inauthentic. These exploratory accounts extend the external-evaluation account with an internal experience of authorship and mastery.
+
+Zhu and Molnar (2025) extend this issue to authorship that is unknown or unmentioned. In a preregistered experiment (N = 647), participants rated the same generated message differently according to what they were told about its origin. When AI use was unmentioned, overall sender impressions resembled those under an explicit human-authorship label; raising uncertainty reduced the ratings. Authenticity was one of ten items in a combined impression measure, so this paper does not independently establish authenticity as the mediator. [Inference] Message polish alone is weak evidence of the sender's effort or capability.
+
 ## Related
 
 - [[disclosure-penalty]] - authenticity mediates this penalty
@@ -29,7 +35,13 @@ This suggests authenticity perceptions are not a knowledge gap to be educated aw
 - [[professional-identity-threat]] - authenticity ties to professional self-concept
 - [[affective-trust-deficit]] - affective trust requires perceived authenticity
 
+- [[competence-authenticity]] — the worker's perceived connection between results and personal mastery.
+
+- [[zhu-molnar-ai-ignorance-2025]] — unknown authorship and social impressions in the reviewed one-experiment preprint.
+
 ## Sources
 
 - [[raj-disclosure-penalty-2026]] — Raj, Berg, & Seamans (2026)
+- [[frenzel-piasentin-ai-avoidance-2026]] — Frenzel-Piasentin, A., Finze, N., & Kosok, M. (2026). You Don't Have To Use What The AI Suggests: A Self-Determination Perspective On Artificial Intelligence In Knowledge Work. ECIS 2026 Proceedings, 8.
+- [[zhu-molnar-ai-ignorance-2025]] — Zhu, J., & Molnar, A. (2025). Blissful (A)Ignorance: People form overly positive impressions of others based on their written messages, despite wide-scale adoption of Generative AI. arXiv:2501.15678. https://arxiv.org/abs/2501.15678
 

@@ -1,0 +1,49 @@
+# Log: capraro-llmorphism-2026
+
+## 2026-09-08T08:48:42Z — cataloged
+- Extractor: pypdf
+- Format: pdf ({'pages': 16})
+- Word count: 5894
+- Heuristic source_type: paper
+
+## 2026-09-08T09:10:08Z — triaged
+- Recommendation: INCLUDE
+- Decision: pending
+
+## 2026-09-08 — triage decision approved
+- Outcome: INCLUDE
+- Decision-maker: user
+- Reason: Approved the 27 INCLUDE recommendations from Julia's 48-paper batch.
+- Next stage: distill.
+
+## 2026-09-08 — Stage 3 drafted
+- Read complete conceptual manuscript; created source and llmorphism concept drafts, both speculative.
+- Year 2026 remains provisional from supplied filename; title page has no date or publication details. Verification needed before integration.
+- Mechanical draft preflight: 0 findings; this does not resolve bibliographic uncertainty.
+- Status: drafted. Distillation Decision pending; no critique/integration and human INCLUDE approval preserved.
+
+## 2026-09-09 — Stage 4 critique completed
+
+- Recorded at: 2026-09-09T08:24:06Z.
+- User approved PROCEED_TO_CRITIQUE; original INCLUDE approval retained.
+- Reviewed 2 drafts through Evidence, Practitioner and Adversarial lenses; see critique.md.
+- Overall: FLAGS. Status: critiqued. Critique Decision remains pending.
+- Drafts and integrated entries unchanged. No source folder renamed; no external messages sent.
+- Mechanical draft preflight: zero findings. Quoted passages match supplied text and page locations after extraction normalization.
+
+## 2026-09-26 — authorized revisions and re-review
+
+- User authorized the 14 revisions; Zhang remains on hold. Original INCLUDE and PROCEED_TO_CRITIQUE decisions retained.
+- Revised 2 draft file(s); see revision-review.md for changes and three-lens verdicts.
+- Overall: READY; status remains critiqued. Integration decision pending.
+- Single-workbench and batch preflight: zero findings.
+- No public KB edits, source replacement, external messages or commit.
+
+## 2026-09-26 — Stage 5 integrated
+
+- User explicitly approved the 26 READY papers; Zhang excluded.
+- Stage 4.5: all checks passed with the explicit approved-batch link pool.
+- Moved new entries into KB folders and merged approved update proposals. Original PDF and extracted text preserved; update proposals retained.
+- Rebuilt index and counts; refreshed source links for affected entries, resolving ambiguous author-year matches explicitly.
+- Status: integrated. See [batch integration report](../julia-2026-09-26-integration.md).
+- Temporary folders excluded from Git. No commit or push made.

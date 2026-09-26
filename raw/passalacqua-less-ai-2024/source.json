@@ -30,6 +30,18 @@
       "by": "human (Pass 2 batch 4)",
       "at": "2026-04-29T15:29:34Z",
       "reason": "Re-distilled inline. Added Key Passages with locators, expanded Key Insight, supports wikilinks."
+    },
+    {
+      "stage": "correction",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "reason": "User explicitly approved removal of the three unsupported numerical claims and retention of the narrower later unaided error-detection finding. See correction-review.md."
+    },
+    {
+      "stage": "integrate",
+      "outcome": "CORRECTED",
+      "date": "2026-09-26",
+      "reason": "Draft validation passed with zero findings. Corrected the existing source and partial-automation concept; preserved original paper, extracted text and prior audit history."
     }
   ],
   "pages": 22

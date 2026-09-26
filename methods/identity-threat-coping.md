@@ -3,6 +3,7 @@ status: emerging
 area: [risk, preservation]
 sources:
   - "Hermann, E., Puntoni, S., & Morewedge, C. K. (2025). GenAI and the psychology of work. Trends in Cognitive Sciences."
+  - "Wang, D., & Zhou, X. (2025). The impact of AI awareness on employees’ job burnout: A chain mediation of perceived organizational support and organizational commitment. SAGE Open. https://doi.org/10.1177/21582440251400532"
 ---
 
 # Identity-Threat Coping
@@ -71,6 +72,8 @@ The taxonomy is **diagnostic**, not predictive: it provides a vocabulary for nam
 - Predicts which strategy is adaptive but does not predict which a given worker will use. Individual differences (perceived control, threat intensity, learning orientation, organizational support) likely moderate the choice; the taxonomy does not specify how.
 - Maladaptive strategies (dissociation, escapism) may also be diagnoses of organizational failure rather than worker choice — the method risks pathologizing workers who are responding rationally to under-supportive environments.
 
+Wang and Zhou (2025) provide adjacent, not validating, evidence: in a cross-sectional survey of Chinese university faculty, replacement concerns, perceived organizational support, commitment and burnout were associated. The study did not test these five coping strategies or any support intervention. [Inference] Assess the workplace resources and credible role threats before interpreting a worker’s response as an individual coping problem (PDF pp.4–10).
+
 ## When It Applies
 
 - Organizations introducing GenAI tools into established workflows where worker resistance, withdrawal, or identity-protection behaviours are visible.
@@ -95,4 +98,5 @@ When NOT to use:
 ## Sources
 
 - [[hermann-genai-psychology-work-2025]] — Hermann, E., Puntoni, S., & Morewedge, C. K. (2025). GenAI and the psychology of work. Trends in Cognitive Sciences.
+- [[wang-ai-awareness-burnout-2025]] — Wang, D., & Zhou, X. (2025). The impact of AI awareness on employees’ job burnout: A chain mediation of perceived organizational support and organizational commitment. SAGE Open. https://doi.org/10.1177/21582440251400532
 

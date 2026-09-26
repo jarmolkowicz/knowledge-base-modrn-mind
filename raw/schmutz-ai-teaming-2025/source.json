@@ -1,0 +1,65 @@
+{
+  "slug": "schmutz-ai-teaming-2025",
+  "original_filename": "Schmutz et al. (2025) - AI-teaming.pdf",
+  "format": "pdf",
+  "source_type": "paper",
+  "word_count": 6002,
+  "hash": "e3e90b6a203b250734cbccb9f98e9f734ca5eaece8b8b72bbdf9f8bbbd118e04",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-08T08:50:04Z",
+  "decisions": [
+    {
+      "stage": "triage",
+      "outcome": "PARTIAL",
+      "date": "2026-09-26",
+      "reason": "User requested processing of PARTIAL papers. Source draft and targeted updates only; integration requires separate approval."
+    },
+    {
+      "stage": "distill",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "reason": "User explicitly authorized integration process; editorial critique performed before publication."
+    },
+    {
+      "stage": "critique",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "verdict": "READY",
+      "reason": "Publication year 2024 confirmed in supplied first page. Review's simulated/purported AI and shared-mental-model evidence gaps retained. Coordination checks complement, not duplicate, Ali's organizational questions. No universal teaming penalty or validated intervention claimed. Canonical 2024 links must be applied at integration; original audit folder preserved."
+    },
+    {
+      "stage": "validation",
+      "outcome": "PASS",
+      "date": "2026-09-26",
+      "reason": "validate_drafts.py returned zero findings before Stage 5. Schmutz canonical links will resolve to the 2024 public stem."
+    },
+    {
+      "stage": "integration",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "reason": "User-authorized PARTIAL integration: source plus targeted updates; no new concepts or methods.",
+      "source": "sources/schmutz-ai-teaming-2024.md",
+      "updates": [
+        "complementarity-framework"
+      ]
+    }
+  ],
+  "pages": 7,
+  "distillation": {
+    "date": "2026-09-26",
+    "scope": "PARTIAL",
+    "source_draft": "drafts/source.md",
+    "update_drafts": [
+      "drafts/updates/complementarity-framework.md"
+    ],
+    "decision": "PROCEED_TO_INTEGRATE",
+    "mechanical_precheck": "passed; Stage 4 critique READY; Stage 4.5 passed"
+  },
+  "canonical_slug": "schmutz-ai-teaming-2024",
+  "publication_year": 2024,
+  "year_note": "Publication year 2024 confirmed. Original 2025 workbench remains authoritative; raw/schmutz-ai-teaming-2024/README.md is a navigation alias. Public links use 2024.",
+  "integrated_at": "2026-09-26",
+  "integrated_source": "sources/schmutz-ai-teaming-2024.md"
+}

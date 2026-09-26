@@ -1,0 +1,14 @@
+{
+  "slug": "riley-human-ai-interactions-2026",
+  "original_filename": "Riley - Human-AI Interactions.pdf",
+  "format": "pdf",
+  "source_type": "paper",
+  "word_count": 11972,
+  "hash": "d604c8e0e492551f565c3f6a64ba341513a4f85b012ff274971712b390cc6c27",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "triaged",
+  "ingested_at": "2026-09-08T08:49:49Z",
+  "decisions": [],
+  "pages": 13
+}

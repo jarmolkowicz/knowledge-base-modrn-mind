@@ -7,6 +7,9 @@ sources:
 - Tankelevitch et al. (2024)
 - Mollick (2024)
 - He, Kuiper, & Gadiraju (2023)
+- "Jowsey, T., Braun, V., Clarke, V., Lupton, D., & Fine, M. (2025). We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research. Qualitative Inquiry. doi:10.1177/10778004251401851"
+- "Kahneman, D., & Klein, G. (2009). Conditions for intuitive expertise: A failure to disagree. American Psychologist, 64(6), 515–526. doi:10.1037/a0016755"
+- "Luettgau et al. (2026)"
 ---
 
 # Calibration Practice
@@ -34,10 +37,16 @@ Before each task, consciously choose your AI engagement mode based on context.
    - Intermediate → Balance Think-First and Partner
    - Expert → Can use Evaluate strategically
 
+   **Check this task, not only your job title.** Kahneman and Klein (2009) distinguish skilled intuition from felt confidence. Ask whether this kind of decision has stable cues, whether you have practiced using those cues, and whether outcomes supplied clear, timely feedback. Experience in one part of a profession does not guarantee expertise in another. [Inference] Apply the same check to your ability to review AI output before choosing Evaluate mode.
+
 2. **What does this task require?**
    - High (novel, strategic, high stakes) → Think-First
    - Moderate (established patterns) → Partner/Evaluate
    - Low (routine) → Evaluate
+
+   **Check methodological fit.** Does the task's method require a person's own situated interpretation as part of the work? Jowsey et al. (2025) argue that reflexive qualitative approaches do: even AI-generated initial coding followed by human review is incompatible with their account of these methods. This is a methodological position, not a finding that every qualitative or research-support task must be human-only. Name the approach and its commitments before selecting an AI mode.
+
+   [Inference] These task-expertise and method-fit questions combine distinct sources; the combined check is not a validated protocol.
 
 3. **What's my current state?**
    - Check Green/Yellow/Red signals
@@ -84,6 +93,8 @@ Key findings relevant to calibration practice:
 - **Expertise matters** — Novices and experts benefit from different calibration modes. Novices need more guidance and guardrails; experts can use AI as a "sparring partner." This aligns with the existing SCAN-based calibration approach.
 - **Context shapes reliance** — Humans are less likely to rely on AI for high-stakes decisions due to accountability concerns. Time pressure and fatigue shift reliance patterns — under pressure, people may lean on AI for speed; fatigue can both increase human errors and reduce responsiveness to AI alerts.
 
+Luettgau et al. (2026), a preprint trial of 6,474 UK adults, report that after a single chatbot conversation, advice-following remained above 60% for advice graded as high-stakes. Stakes were coded from conversations, not randomized. This describes reported adherence; without measures of advice quality and users' verification, it does not establish careless reliance, poor calibration, or failure to adjust appropriately. Following useful advice can be a considered decision, and careful high-stakes decisions need not involve less AI. [Inference] Before acting on consequential advice, consider the cost of error, reversibility and independent verification. This checklist was not tested in the trial.
+
 He et al. (2023) tested a tutorial intervention that provided performance feedback and contrastive explanations. It improved self-assessment calibration for overestimators (those exhibiting DKE) but had an asymmetric effect: underestimators who received the same tutorial showed worse appropriate reliance — possibly developing false confidence after seeing AI errors. This underscores that calibration interventions must account for baseline self-assessment. One-size-fits-all calibration can backfire.
 
 Mollick (2024) provides a practitioner framing that aligns with calibration: his Principle 1 ("Always invite AI to the table") is explicitly a calibration strategy — experimenting to learn the shape of the [[jagged-frontier]] in your specific work. He frames this as ongoing, not one-time: "To figure out the shape of the frontier, you will need to experiment." The experimentation itself is calibration in practice.
@@ -91,6 +102,10 @@ Mollick (2024) provides a practitioner framing that aligns with calibration: his
 His "falling asleep at the wheel" finding (Dell'Acqua study, N=181) offers a cautionary note: higher-quality AI made recruiters *worse* because they stopped calibrating. They spent less time per task, followed AI blindly, and did not improve over time. Lower-quality AI kept people alert and critical. This suggests that calibration effort must *increase* as AI quality improves — the opposite of intuition.
 
 **Note on broken feedback loops:** Research shows feedback loops are broken with AI—users accept outputs, rarely discover if correct, so no calibration happens naturally. Unlike traditional skill development where errors provide correction signals, AI users often never learn when they've accepted flawed output. This means metacognitive accuracy doesn't naturally improve with AI experience—deliberate calibration practice is required.
+
+[Inference] Task allocation needs to preserve the method being claimed as well as produce acceptable output. A good-looking set of themes is insufficient evidence that a reflexive interpretive process occurred. Jowsey et al. (2025) provide a domain-specific argument for this boundary; they do not experimentally validate a general task-selection rule.
+
+Kahneman and Klein (2009) identify two necessary conditions for skilled intuition: a sufficiently predictable environment and opportunities to learn its regularities. Rapid, unambiguous feedback supports that learning; delayed, sparse, or misleading feedback can sustain unjustified confidence. These are pre-AI foundations. Their application to AI-assisted review is an inference, not a tested intervention in this paper.
 
 ## Related
 
@@ -106,10 +121,15 @@ His "falling asleep at the wheel" finding (Dell'Acqua study, N=181) offers a cau
 - [[complementarity-framework]] - trust calibration is a core factor in the framework
 - [[confidence-competence-gap]] - DKE as a specific calibration barrier
 
+- [[luettgau-ai-advice-wellbeing-2026]] — reported adherence by coded stakes; does not measure whether following advice was appropriate.
+
 ## Sources
 
 - [[tsim-gutoreva-scan-2025]] — Tsim & Gutoreva (2025)
 - Tankelevitch et al. (2024)
 - [[mollick-cointelligence-2024]] — Mollick (2024)
 - [[he-illusion-competence-2023]] — He, Kuiper, & Gadiraju (2023)
+- [[jowsey-reflexive-qualitative-research-2025]] — Jowsey, T., Braun, V., Clarke, V., Lupton, D., & Fine, M. (2025). We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research. Qualitative Inquiry. doi:10.1177/10778004251401851
+- [[kahneman-klein-intuitive-expertise-2009]] — Kahneman, D., & Klein, G. (2009). Conditions for intuitive expertise: A failure to disagree. American Psychologist, 64(6), 515–526. doi:10.1037/a0016755
+- [[luettgau-ai-advice-wellbeing-2026]] — Luettgau et al. (2026)
 

@@ -13,6 +13,8 @@ sources:
 - Guingrich, Mehta & Bhatt (2026)
 - Huffstadt (2026)
 - Chiriatti, Ganapini, Panai, Ubiali & Riva (2024)
+- "Memmert, Soroko & Bittner (2025)"
+- "Cash, T. N., Kelly, M. O., Macnamara, B. N., & Risko, E. F. (2026). Is AI making us stupid? Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2026.06.004"
 ---
 
 # Cognitive Offloading
@@ -39,10 +41,11 @@ Chiriatti et al. (2024) frame the substrate that makes broad offloading possible
 
 ## Key Insight
 
-Every time you offload:
-- You reduce immediate cognitive load (benefit)
-- You reduce practice of that skill (cost)
-- You may not notice decay because output quality stays high (danger)
+- Offloading can reduce immediate cognitive demands.
+- If it replaces practice needed for a particular skill, it can impede learning or retention; other forms of support can preserve or improve learning.
+- Good assisted output does not establish retained unaided capability.
+
+Cash et al. (2026) distinguish learned skills and knowledge from basic cognitive abilities. Their commentary argues the latter may be more resilient, but long-term effects remain unresolved. This is a synthesis, not a new experiment or a guarantee of safety (PDF pp.1–3).
 
 The same act of offloading can be adaptive or maladaptive depending on context and intention.
 
@@ -63,6 +66,8 @@ Huffstadt (2026) provides SEM evidence (N=297) for a motivational cost of cognit
 
 Lodge & Loble (2026) add a critical nuance: offloading extends beyond the cognitive level to the metacognitive level. Learners offload not just the thinking but the monitoring of their thinking — planning, self-assessment, and revision. This "double offloading" compounds erosion because the very self-regulation that would catch detrimental offloading is itself being offloaded.
 
+Memmert et al. (2025) add a workplace boundary condition. In interviews with 21 professional users, reduced drafting effort often coexisted with checking, prompting, learning tools and additional tasks. Most respondents described retaining responsibility for outcomes. These accounts do not establish preserved skills or objective workload savings; they show why less effort on one subtask is insufficient evidence of less total effort. Review intensity, persistence and direction across the task and the working day.
+
 ## Related
 
 - [[fluency-bias]] - makes offloaded AI output feel trustworthy
@@ -82,6 +87,9 @@ Lodge & Loble (2026) add a critical nuance: offloading extends beyond the cognit
 - [[capacity-erosion]] - Huffstadt (2026) shows offloading costs include motivational erosion, not just skill decay
 - [[system-0-thinking]] - Chiriatti et al. (2024) frame AI as a foundational substrate (system 0) that makes habitual offloading possible; offloading is the daily mechanism through which the substrate integrates with cognition
 
+- [[effort-investment-review]] — [Inference] review effort saved, added and redirected; an untested adaptation of qualitative findings.
+- [[memmert-effort-management-2025]] — workplace evidence qualifying simple effort-reduction claims.
+
 ## Sources
 
 - [[risko-gilbert-cognitive-offloading-2016]] — Risko & Gilbert (2016)
@@ -94,4 +102,6 @@ Lodge & Loble (2026) add a critical nuance: offloading extends beyond the cognit
 - [[guingrich-belief-offloading-2026]] — Guingrich, Mehta & Bhatt (2026)
 - [[huffstadt-silent-impact-2026]] — Huffstadt (2026)
 - [[chiriatti-system-0-thinking-2024]] — Chiriatti, Ganapini, Panai, Ubiali & Riva (2024)
+- [[memmert-effort-management-2025]] — Memmert, Soroko & Bittner (2025)
+- [[cash-ai-stupid-2026]] — Cash, T. N., Kelly, M. O., Macnamara, B. N., & Risko, E. F. (2026). Is AI making us stupid? Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2026.06.004
 

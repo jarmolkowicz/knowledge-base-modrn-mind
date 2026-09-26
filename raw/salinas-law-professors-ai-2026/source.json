@@ -1,0 +1,62 @@
+{
+  "slug": "salinas-law-professors-ai-2026",
+  "original_filename": "Salinas et al. (2026) - Law Professors Prefer AI Over Peer Answers.pdf",
+  "format": "pdf",
+  "source_type": "paper",
+  "word_count": 17846,
+  "hash": "c7f2736d119c63fd3b8a3a566d0390a6ca9f8f11eef5efe0e31c2b67f72bb32e",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-08T08:50:03Z",
+  "decisions": [
+    {
+      "stage": "triage",
+      "outcome": "PARTIAL",
+      "date": "2026-09-26",
+      "reason": "User requested processing of PARTIAL papers. Source draft and targeted updates only; integration requires separate approval."
+    },
+    {
+      "stage": "distill",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "reason": "User explicitly authorized integration process; editorial critique performed before publication."
+    },
+    {
+      "stage": "critique",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "verdict": "READY",
+      "reason": "16 instructors, 40 questions and 2,918 comparisons checked in the source. The 75.33% result is expert preference, not accuracy or learning. Qualifies the rules-versus-judgment contrast while retaining accountability and student learning as separate questions. Small selected population and unequal writing conditions are disclosed. Broader LLM-judge rankings are not passed off as direct human evaluations."
+    },
+    {
+      "stage": "validation",
+      "outcome": "PASS",
+      "date": "2026-09-26",
+      "reason": "validate_drafts.py returned zero findings before Stage 5. Schmutz canonical links will resolve to the 2024 public stem."
+    },
+    {
+      "stage": "integration",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "reason": "User-authorized PARTIAL integration: source plus targeted updates; no new concepts or methods.",
+      "source": "sources/salinas-law-professors-ai-2026.md",
+      "updates": [
+        "judgment"
+      ]
+    }
+  ],
+  "pages": 61,
+  "distillation": {
+    "date": "2026-09-26",
+    "scope": "PARTIAL",
+    "source_draft": "drafts/source.md",
+    "update_drafts": [
+      "drafts/updates/judgment.md"
+    ],
+    "decision": "PROCEED_TO_INTEGRATE",
+    "mechanical_precheck": "passed; Stage 4 critique READY; Stage 4.5 passed"
+  },
+  "integrated_at": "2026-09-26",
+  "integrated_source": "sources/salinas-law-professors-ai-2026.md"
+}

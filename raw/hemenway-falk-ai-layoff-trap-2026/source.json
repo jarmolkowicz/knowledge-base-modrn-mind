@@ -1,0 +1,14 @@
+{
+  "slug": "hemenway-falk-ai-layoff-trap-2026",
+  "original_filename": "Hemenway Falk & Tsoukalas (2026).pdf",
+  "format": "pdf",
+  "source_type": "paper",
+  "word_count": 23826,
+  "hash": "6a0383ff7f541b07d100168a133bae828b60d3da6dda070660f9153c4fd9e860",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "triaged",
+  "ingested_at": "2026-09-08T08:49:22Z",
+  "decisions": [],
+  "pages": 63
+}

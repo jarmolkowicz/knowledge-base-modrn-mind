@@ -1,0 +1,62 @@
+{
+  "slug": "vannoy-human-2-wellbeing-2026",
+  "original_filename": "Vannoy et al. (2026) - Human 2.0_ AI and the Future of Well-Being, Connection, and Personal Growth- A Narrative Review.pdf",
+  "format": "pdf",
+  "source_type": "paper",
+  "word_count": 13189,
+  "hash": "1e2b5ff495dedd36bb4125f69895f9fd7d4881cf247cd72756c81731d38e8da8",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-08T08:50:35Z",
+  "decisions": [
+    {
+      "stage": "triage",
+      "outcome": "PARTIAL",
+      "date": "2026-09-26",
+      "reason": "User requested processing of PARTIAL papers. Source draft and targeted updates only; integration requires separate approval."
+    },
+    {
+      "stage": "distill",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "reason": "User explicitly authorized integration process; editorial critique performed before publication."
+    },
+    {
+      "stage": "critique",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "verdict": "READY",
+      "reason": "Narrative selection and heterogeneous systems explicit; no secondary quantitative or clinical claim added. Distinguishes structured activities, person-to-person communication and companionship. Does not let review wording override primary-source causal limits; temporary relief is not presented as proof of lasting benefit or later harm."
+    },
+    {
+      "stage": "validation",
+      "outcome": "PASS",
+      "date": "2026-09-26",
+      "reason": "validate_drafts.py returned zero findings before Stage 5. Schmutz canonical links will resolve to the 2024 public stem."
+    },
+    {
+      "stage": "integration",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "reason": "User-authorized PARTIAL integration: source plus targeted updates; no new concepts or methods.",
+      "source": "sources/vannoy-human-2-wellbeing-2026.md",
+      "updates": [
+        "ai-loneliness-effect"
+      ]
+    }
+  ],
+  "pages": 21,
+  "distillation": {
+    "date": "2026-09-26",
+    "scope": "PARTIAL",
+    "source_draft": "drafts/source.md",
+    "update_drafts": [
+      "drafts/updates/ai-loneliness-effect.md"
+    ],
+    "decision": "PROCEED_TO_INTEGRATE",
+    "mechanical_precheck": "passed; Stage 4 critique READY; Stage 4.5 passed"
+  },
+  "integrated_at": "2026-09-26",
+  "integrated_source": "sources/vannoy-human-2-wellbeing-2026.md"
+}

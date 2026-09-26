@@ -11,6 +11,11 @@ sources:
   - "Hai, S., Long, T., Honora, A., Japutra, A., & Guo, T. (2025). The dark side of employee-generative AI collaboration in the workplace: An investigation on work alienation and employee expediency. International Journal of Information Management, 83, 102905. https://doi.org/10.1016/j.ijinfomgt.2025.102905"
   - "Handa, K., Tamkin, A., McCain, M., Huang, S., Durmus, E., Heck, S., Mueller, J., Hong, J., Ritchie, S., Belonax, T., Troy, K. K., Amodei, D., Kaplan, J., Clark, J., & Ganguli, D. (2025). Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations. arXiv:2503.04761 [cs.CY], February 11, 2025. Anthropic."
   - "Wu, S., Liu, Y., Ruan, M., Chen, S., & Xie, X.-Y. (2025). Human-generative AI collaboration enhances task performance but undermines human's intrinsic motivation. Scientific Reports, 15, 15105. https://doi.org/10.1038/s41598-025-98385-2"
+  - "Callari, T. C., & Puppione, L. (2025). Meaningful work as shaped by employee work practices in human-AI collaborative environments: a qualitative exploration through ideal types. European Journal of Innovation Management, 28(10), 5001–5027. https://doi.org/10.1108/EJIM-11-2024-1339"
+  - "Zhao, P., & He, G. (2024). The impostor phenomenon of workplace artificial intelligence augmentation. Academy of Management Proceedings. https://doi.org/10.5465/AMPROC.2024.148bp"
+  - "Baumeister, R. F., Vohs, K. D., Aaker, J. L., & Garbinsky, E. N. (2013). Some key differences between a happy life and a meaningful life. The Journal of Positive Psychology, 8(6), 505–516. https://doi.org/10.1080/17439760.2013.830764"
+  - "Jia, J., Ning, X., & Liu, W. (2025). The consequences and theoretical explanation of workplace AI on employees: A systematic literature review. Journal of Digital Management, 1, 14. https://doi.org/10.1007/s44362-025-00016-3"
+  - "Wang, D., & Zhou, X. (2025). The impact of AI awareness on employees’ job burnout: A chain mediation of perceived organizational support and organizational commitment. SAGE Open. https://doi.org/10.1177/21582440251400532"
 ---
 
 # Professional Identity Threat
@@ -18,6 +23,8 @@ sources:
 ## What It Is
 
 Heavy AI use can erode professional identity—the sense of being a creator, craftsperson, or expert. Professionals report feeling like "editors" rather than "creators" when AI does substantial work.
+
+Jia, Ning and Liu's (2025) review distinguishes employees' AI use, algorithmic management, replacement-related perceptions, and AI skills. These are not interchangeable measures of exposure. The review maps both resource gains and threats, with outcomes varying across tasks, workplace conditions and employee appraisals. [Inference] An identity-threat claim should name what changed—control over work, task ownership, evaluation, or perceived job security—and what was actually measured, rather than treating AI presence alone as its cause.
 
 ## Why It Matters
 
@@ -28,6 +35,8 @@ Handa et al. (2025) supply the breadth dimension to identity-threat claims. In ~
 The professional-identity implication is partial-but-not-wholesale: the entry's "editor not creator" pattern is not (yet) the experience of practitioners across most of their work. It is the experience of practitioners on specific tasks — predominantly writing, content generation, and software development tasks where Directive (full-delegation) patterns dominate [p.9–10]. This refines the entry's framing: identity threat at scale is task-shaped, not role-shaped, and most acute in the specific bachelor's-degree-level cognitive work that Job Zone 4 captures (peak usage band per Handa et al. [p.8–9]).
 
 [Inference] The narrowing matters because identity threat may be more manageable when localized to specific tasks (the practitioner retains the rest of their role to anchor identity in) than when it permeates an occupation. The Handa data are consistent with the Hai et al. (2025) within-person finding that identity threat fluctuates day-to-day with collaboration intensity — both suggest the threat operates at task and session level rather than as a chronic, role-wide displacement.
+
+Baumeister et al. (2013) provide a non-AI foundation for separating happiness from meaningfulness. In an exploratory three-wave survey, the two were positively related, but self-expression and contribution showed different associations with meaning than happiness after each outcome was controlled for the other. These adjusted relationships are not causal effects and can differ from unadjusted relationships (PDF pp.5–6, 10–14). [Inference] Evaluating AI-assisted work should ask separately about satisfaction, meaning and authorship, rather than use greater ease or happiness as proof that professional identity is preserved.
 
 ## Key Insight
 
@@ -44,6 +53,8 @@ Keshky (2026) provides SEM evidence for a specific mechanism: cognitive dependen
 3. **Disturbance of cognitive self-concept** — disrupted understanding of one's own intellectual capabilities and identity
 
 Direct effect from cognitive dependence to identity distortion: beta = 0.60 (p < .001). But the indirect path through illusory competence inflation (beta = 0.35, p = .05) reveals the mechanism: AI dependence inflates confidence, and that inflated confidence masks the erosion of intellectual self-concept. You feel more capable while simultaneously losing your sense of yourself as an independent thinker.
+
+Callari and Puppione (2025) add a more varied workplace picture. In open-ended responses from 357 Copilot trial users, some protected meaning by limiting AI to routine tasks; others valued refining an assistant's ideas or seeking an expert-like sparring partner. All three orientations could express a wish to retain authority and expertise. These qualitative accounts show how employees interpret their role, not whether independent skills were preserved. They caution against treating intensive adoption as either inherently threatening or inherently more mature.
 
 ## Psychological Impact
 
@@ -70,6 +81,10 @@ Hai et al. (2025) add the strongest available daily-field empirical anchor for t
 The pathway is moderated by **digital job demands**: under high demands, the GenAI → alienation effect is large (γ = .34, p < .001); under low demands, it is non-significant (γ = .04, p > .05). This sharpens the deployment-context picture: identity threat is not a uniform consequence of GenAI use, but is amplified in environments where employees must continuously navigate digital tools, manage information overload, and operate under prolonged digital connectivity. Where digital demands are well-resourced and bounded, daily GenAI collaboration does not measurably erode meaning.
 
 Most consequentially for the entry, Hai et al. document a *behavioral downstream* of the identity-and-meaning erosion that prior KB sources have not captured: alienation predicts **employee expediency** (γ = .30, p < .01) — cutting corners, manipulating performance metrics, ignoring protocols, enforcing rules only when self-serving. The full indirect path (GenAI collaboration → alienation → expediency) is significant under high digital demands (estimate = .06, CI [.010, .118]) and non-significant under low demands. This adds a new face to the identity-threat construct: the threat does not only damage the worker (felt meaning, self-efficacy, ownership); it can channel into self-serving withdrawal of ethical engagement that damages the organization. The mechanism is recognizable from the entry's existing frame — when authorship and craftsmanship feel hollowed out, commitment to ethical standards may wane in parallel.
+
+Zhao and He (2024) provide a specific mechanism: [[ai-impostor-phenomenon|impostor thoughts]] after AI-assisted success. In a randomized writing task, AI access increased reported impostor thoughts (d = 0.43). A separate three-wave survey associated these thoughts with less self-reported knowledge sharing and helping. The experiments support an effect on impostor thoughts; the downstream social pathway remains observational. This short proceedings paper has incomplete attrition reporting and an inconsistent subgroup significance statement, so it should be treated as emerging evidence. See [[zhao-he-ai-impostor-2024]].
+
+Wang and Zhou (2025) surveyed 434 university faculty in China. Greater concern that AI could replace their role was associated with greater self-reported burnout; perceived organizational support and commitment were associated with less burnout. Here, “AI awareness” means replacement concerns, not AI literacy or measured adoption. The cross-sectional survey does not establish that AI caused burnout, that skills declined, or that the proposed support programs would reduce strain (PDF pp.4–10).
 
 ## Restorative Effect
 
@@ -108,6 +123,10 @@ This is the experimental causal counterpart to Hai et al.'s within-person field 
 - [[handa-economic-tasks-claude-2025]] - production-scale breadth dimension: ~36% of occupations have ≥25% of tasks with AI usage but only ~4% have ≥75%; identity-threat pressure is task-shaped at scale, not role-shaped
 - [[wu-collaboration-motivation-2025]] - pre-registered RCT (N = 3,562) experimental causal evidence for the motivation-and-boredom face of identity threat: GenAI collaboration reduces intrinsic motivation (d = -0.32 to -0.51) and increases boredom (d = 0.32–0.51) across task transitions; sustained collaboration does not buffer the effect
 
+- [[ai-work-practice-ideal-types]] — descriptive orientations for discussing delegation, expertise, and support needs.
+
+- [[ai-impostor-phenomenon]] — feeling fraudulent despite successful AI-assisted work.
+
 ## Sources
 
 - Scispace Literature Synthesis (2025)
@@ -119,4 +138,9 @@ This is the experimental causal counterpart to Hai et al.'s within-person field 
 - [[hai-dark-side-collaboration-2025]] — Hai, S., Long, T., Honora, A., Japutra, A., & Guo, T. (2025). The dark side of employee-generative AI collaboration in the workplace: An investigation on work alienation and employee expediency. International Journal of Information Management, 83, 102905. https://doi.org/10.1016/j.ijinfomgt.2025.102905
 - [[handa-economic-tasks-claude-2025]] — Handa, K., Tamkin, A., McCain, M., Huang, S., Durmus, E., Heck, S., Mueller, J., Hong, J., Ritchie, S., Belonax, T., Troy, K. K., Amodei, D., Kaplan, J., Clark, J., & Ganguli, D. (2025). Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations. arXiv:2503.04761 [cs.CY], February 11, 2025. Anthropic.
 - [[wu-collaboration-motivation-2025]] — Wu, S., Liu, Y., Ruan, M., Chen, S., & Xie, X.-Y. (2025). Human-generative AI collaboration enhances task performance but undermines human's intrinsic motivation. Scientific Reports, 15, 15105. https://doi.org/10.1038/s41598-025-98385-2
+- [[callari-meaningful-work-2025]] — Callari, T. C., & Puppione, L. (2025). Meaningful work as shaped by employee work practices in human-AI collaborative environments: a qualitative exploration through ideal types. European Journal of Innovation Management, 28(10), 5001–5027. https://doi.org/10.1108/EJIM-11-2024-1339
+- [[zhao-he-ai-impostor-2024]] — Zhao, P., & He, G. (2024). The impostor phenomenon of workplace artificial intelligence augmentation. Academy of Management Proceedings. https://doi.org/10.5465/AMPROC.2024.148bp
+- [[baumeister-happy-meaningful-life-2013]] — Baumeister, R. F., Vohs, K. D., Aaker, J. L., & Garbinsky, E. N. (2013). Some key differences between a happy life and a meaningful life. The Journal of Positive Psychology, 8(6), 505–516. https://doi.org/10.1080/17439760.2013.830764
+- [[jia-workplace-ai-review-2025]] — Jia, J., Ning, X., & Liu, W. (2025). The consequences and theoretical explanation of workplace AI on employees: A systematic literature review. Journal of Digital Management, 1, 14. https://doi.org/10.1007/s44362-025-00016-3
+- [[wang-ai-awareness-burnout-2025]] — Wang, D., & Zhou, X. (2025). The impact of AI awareness on employees’ job burnout: A chain mediation of perceived organizational support and organizational commitment. SAGE Open. https://doi.org/10.1177/21582440251400532
 
