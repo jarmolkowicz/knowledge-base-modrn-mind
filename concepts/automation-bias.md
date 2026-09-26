@@ -9,20 +9,20 @@ sources:
 - Han, Z., Song, G., Zhang, Y., & Li, B. (2025)
 - "Yu, F., Moehring, A., Banerjee, O., Salz, T., Agarwal, N., & Rajpurkar, P. (2024). Heterogeneity and predictors of the effects of AI assistance on radiologists. Nature Medicine, 30, 837–849. https://doi.org/10.1038/s41591-024-02850-w"
 ---
-	
+
 # Automation Bias
 
 ## What It Is
 
 The tendency to over-trust automated systems and AI relative to your own judgment, leading to uncritical acceptance of machine-generated outputs even when they contain errors.
 
-Shaw & Nave (2026) position automation bias as a related but narrower mechanism than [[cognitive-surrender]]. Automation bias focuses on specific errors of omission or commission in response to automated tools — failing to notice an AI error or accepting a specific wrong output. Cognitive surrender describes a broader disposition: the user doesn't just make an error of trust on one item — they stop deliberative thinking altogether and accept AI as the default cognitive locus. Automation bias can be a symptom of cognitive surrender, but surrender is the deeper structural shift.
+Shaw & Nave (2026) propose [[cognitive-surrender]] as a broader theoretical account than item-level automation errors. Their follow/override measures do not directly establish that a person has stopped deliberating altogether.
 
 ## Why It Matters
 
 Automation bias directly undermines quality evaluation—the core capacity needed to use AI effectively. If you systematically trust AI over your own judgment, you lose the ability to catch AI errors. And AI errors in areas beyond your competence may never surface.
 
-Gonzalez et al. (2026) provide team-level evidence for automation bias as the primary barrier to human-AI complementarity. Their meta-analytic synthesis shows that poorly designed human-AI interaction — driven by overreliance on AI advice — can produce outcomes worse than either humans or AI working independently. This means automation bias doesn't just degrade individual performance; it can make the entire human-AI team worse than no collaboration at all.
+[Unverified source] The earlier team-level and meta-analytic claims attributed to Gonzalez et al. (2026) lack a matching local original. They cannot establish that automation bias is the primary barrier to complementarity. See [[vaccaro-human-ai-meta-analysis-2024]] for a verified synthesis of performance comparisons; it does not isolate one universal mechanism.
 
 Yu et al. (2024) extend the team-level evidence into a specialist diagnostic context with an explicit dose-response. In a randomized two-design study of 140 board-certified radiologists across 324 chest X-ray cases and 15 pathologies, AI prediction error scaled the harm: more accurate AI yielded better radiologist treatment effects, and AI predictions with absolute error >80 (on a 0–100 probability scale) produced a treatment effect of −16.845 absolute-error points (95% CI: −24.288 to −9.403). Critically, the direction of AI error mattered too — predictions that *underestimated* ground-truth probabilities yielded better treatment effects than equally-erroneous predictions that *overestimated* them. Yu et al. interpret the underlying mechanism plainly: "radiologists struggle to consistently distinguish between accurate and inaccurate AI predictions and can be misled by inaccurate AI predictions" [p.11]. This is automation bias at expert scale: 140 specialists working in their domain, on their core task, still systematically followed AI into error.
 
@@ -36,7 +36,7 @@ Creates a dangerous feedback loop:
 
 Appropriate reliance is learnable but not the default.
 
-Shaw & Nave (2026) show that the feedback loop described here operates at scale: in Study 1, participants who engaged AI followed its advice on approximately 80% of faulty trials, with follow rates varying across studies (72-80% depending on conditions). The loop is not just about individual errors — it reflects a systemic reallocation of cognitive control to an external system. Their data also show that incentives + item-level feedback can partially break the loop (override rates doubled), suggesting the bias is malleable but persistent.
+Shaw & Nave (2026) found 79.8% faulty-advice acceptance in Study 1 among AI-engaged faulty trials, and 73.2% across all studies. Incentives plus feedback increased all-override rates from 20.0% to 42.3% in Study 3. Failed overrides remain possible; these results do not by themselves establish a change in the location of cognitive control.
 
 The complementarity framework identifies a structural mechanism: AI systems can "fail silently with high confidence when encountering unfamiliar conditions," while human vigilance degrades under fatigue and cognitive load. This creates a compounding failure mode where both parties miss errors simultaneously — the human trusts the confident AI, and the AI is confidently wrong.
 

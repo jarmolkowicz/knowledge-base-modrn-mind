@@ -27,7 +27,9 @@ Note that Tri-System Theory is one of two sibling extensions of Kahneman's dual-
 - **System 2 (Slow)**: Internal, deliberative, rule-based. Slow, effortful, analytical. Normative but costly.
 - **System 3 (Artificial)**: External, automated, data-driven. Fast, scalable, emotion-neutral. High accuracy in structured domains; brittle in open-ended tasks. Lacks affect, situational judgment, and phenomenological understanding.
 
-### Canonical Cognitive Routes
+### Proposed Cognitive Routes
+
+These are theoretical process descriptions. Advice-following and override behavior do not directly establish which internal system was active.
 
 1. **Intuition**: Stimulus -> System 1 -> Response (no AI involvement)
 2. **Deliberation**: Stimulus -> System 1 -> conflict detected -> System 2 -> Response
@@ -60,7 +62,7 @@ Note that Tri-System Theory is one of two sibling extensions of Kahneman's dual-
 - [[cognitive-surrender]] - the key phenomenon predicted by the framework
 - [[cognitive-offloading]] - the strategic counterpart to surrender within the model
 - [[automation-bias]] - related concept; narrower in scope
-- [[metacognition]] - the monitoring capacity that surrender bypasses
+- [[metacognition]] - a proposed monitoring mechanism, not directly measured bypass
 - [[capacity-erosion]] - long-term consequence the theory implies but does not test
 - [[fluency-bias]] - mechanism that enables surrender (fluent AI output lowers scrutiny threshold)
 - [[system-0-thinking]] - sibling theoretical extension (Chiriatti et al. 2024); positions AI as a substrate *underneath* System 1/2 (input-side) rather than a parallel system *alongside* them (output-side, this framework)

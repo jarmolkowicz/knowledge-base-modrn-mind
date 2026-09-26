@@ -18,7 +18,7 @@ Paper (preregistered PRISMA systematic review and three-level meta-analysis; 106
 
 ## Key Insight
 
-The widespread assumption that "human + AI is better than either alone" does not hold on average. Across 106 experiments, human-AI combinations performed *worse* than the best of human-or-AI alone (Hedges' g = −0.23) — no human-AI **synergy** on average. But against the weaker baseline of the human working alone, combinations did help (**human augmentation**, g = 0.64). Whether the combination helps or hurts depends on the task (creation tasks gain, decision tasks lose) and on relative ability (gains when the human is the stronger party, losses when the AI is). Complementarity is a specific, conditional achievement, not a default of putting a human and an AI together.
+The widespread assumption that "human + AI is better than either alone" does not hold on average. Across 106 experiments, human-AI combinations performed *worse* than the best of human-or-AI alone (Hedges' g = −0.23) — no human-AI **synergy** on average. But against the weaker baseline of the human working alone, combinations did help (**human augmentation**, g = 0.64). Whether the combination helps or hurts depends on the task (negative decision-task synergy; positive but nonsignificant creation-task estimate) and on relative ability (gains when the human is the stronger party, losses when the AI is). Complementarity is a specific, conditional achievement, not a default of putting a human and an AI together.
 
 ## Key Passages
 

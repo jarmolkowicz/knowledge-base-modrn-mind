@@ -1,5 +1,5 @@
 ---
-status: emerging
+status: speculative
 area:
 - erosion
 - risk
@@ -12,30 +12,28 @@ sources:
 
 ## What It Is
 
-AI simultaneously increases the need for judgment and erodes the experiences that produce it. The more powerful AI becomes, the more organizational judgment matters — and the fewer opportunities exist to develop it.
+[Speculation] AI may increase the need to assess complex outputs while reducing some of the junior tasks through which people learn to judge them. This proposed tension is not an established universal effect.
 
 ## Why It Matters
 
-This isn't just individual capacity erosion — it's an organizational pipeline problem. If junior professionals skip the low-stakes tasks that build judgment, organizations face thin leadership pipelines, succession gaps, and a workforce that can execute but not decide.
+[Speculation] If task substitution removes useful practice without replacing its learning function, later capability gaps could affect individuals and staffing pipelines. The cited practice literature does not directly test this AI-specific organizational pathway.
 
 ## Key Insight
 
-The paradox has three layers:
+[Speculation] Questions at three levels:
 
-1. **Individual**: AI removes the repetitive, consequence-bearing tasks that develop judgment (research, writing specs, creating from scratch). Juniors produce senior-level output without building senior-level capability.
+1. Individual: which tasks supply useful practice, and does AI support or replace that practice?
+2. Organizational: do review and feedback roles teach judgment or merely route uncertainty elsewhere?
+3. Systemic: how do opportunities to learn change when workflows change?
 
-2. **Organizational**: "Human in the loop" review processes don't build judgment — they teach juniors to escalate uncertainty rather than navigate it. The organization gets compliance, not capability.
-
-3. **Systemic**: The more AI handles, the rarer judgment-building moments become, making each one more valuable and less available. Judgment becomes both scarcer and harder to develop.
-
-Duncan calls this "the defining challenge of the AI era" — and it requires deliberate work redesign, not just human oversight of automated systems.
+[Unverified source] An earlier version attributed this account and an emphatic quotation to Duncan (2026). No matching original was found locally; the quotation is not retained as verified. The linked non-AI practice sources do not validate this complete hypothesis.
 
 ## Related
 
 - [[capacity-erosion]] - individual dimension of this paradox
 - [[novice-vulnerability]] - who is most affected
 - [[desirable-difficulty]] - what gets eliminated
-- [[leveling-effect]] - AI compresses performance distribution while hollowing development
+- [[leveling-effect]] - assisted performance differences do not establish learning differences
 - [[judgment]] - what's at stake
 
 ## Sources

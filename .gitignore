@@ -23,6 +23,10 @@ temp/
 # Track audit trail (source.json, log.md, triage.md, distill.md, critique.md, drafts/**)
 # Ignore binaries and full extracted text (copyright)
 
+# Temporary maintenance workbenches — local only
+raw/kb-maintenance-2026-09-26/
+raw/evidence-corrections-2026-09-26/
+
 # Drop zone for new binaries — never tracked
 raw/inbox/
 !raw/inbox/.gitkeep

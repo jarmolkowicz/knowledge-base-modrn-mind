@@ -25,11 +25,11 @@ Gilbert et al. review the systematic study of **intention offloading** — using
 The empirical paradigm Gilbert developed (numbered-circle drag task with embedded delayed intentions) lets researchers measure offloading systematically in the lab. Across many studies using this and similar paradigms:
 
 - **Offloading is widespread.** When given a free choice, most participants set external reminders, often even when objective task difficulty doesn't warrant it.
-- **Metacognitive confidence drives offloading decisions.** People set reminders based on their *confidence* in their own memory — not just objective difficulty. Lower-confidence individuals offload more, even after controlling for actual ability. This relationship holds *domain-generally*: confidence calibrated on a perceptual judgment task predicts offloading on a memory task.
+- **Metacognitive confidence is one influence on offloading decisions.** People set reminders based on their *confidence* in their own memory — not just objective difficulty. Lower-confidence individuals offload more, even after controlling for actual ability. This relationship holds *domain-generally*: confidence calibrated on a perceptual judgment task predicts offloading on a memory task.
 - **Systematic biases are stable.** Individual differences in offloading propensity are stable over time — a trait-like dimension. Some people consistently over-offload; others consistently under-offload.
 - **Lifespan changes.** Offloading patterns change across child development and aging, linked to metacognitive development (children under-use offloading; older adults often over-rely on it as memory confidence drops).
 
-The practical conclusion: because metacognitive accuracy gates offloading decisions, **anything that distorts metacognitive accuracy will distort offloading**. AI's [[fluency-bias]] is exactly such a distortion — fluent AI output makes confidence in AI-aided memory feel higher than it warrants. Gilbert's framework predicts AI-era over-offloading specifically through this mechanism.
+The review supports a metacognitive contribution to reminder use, alongside effort avoidance and other influences. Confidence does not fully explain reminder bias, and intervention findings vary. [Speculation] Applying this account to generative-AI [[fluency-bias]] and over-offloading requires direct testing.
 
 For human thinking with AI: this is the most rigorous review of the metacognitive control of offloading. The KB's larger argument — that AI use becomes maladaptive when metacognitive monitoring fails — has its experimental anchor in Gilbert's research program.
 
@@ -61,10 +61,10 @@ Three load-bearing contributions for the KB:
 ## Supports
 
 - [[cognitive-offloading]] — intention offloading is one of the most experimentally tractable forms
-- [[metacognition]] — metacognitive confidence as the gate that controls offloading
+- [[metacognition]] — confidence is one influence on reminder use, not an exclusive gate
 - [[risko-gilbert-cognitive-offloading-2016]] — companion paper from same author on broader offloading
-- [[hu-metamemory-offloading-2019]] — Hu et al. provide convergent confirmation of the metacognition-drives-offloading mechanism
-- [[fluency-bias]] — fluency distorts metacognitive confidence, which distorts offloading decisions
+- [[hu-metamemory-offloading-2019]] — related confidence–offloading associations; confidence was not independently manipulated
+- [[fluency-bias]] — possible connection to confidence; AI-specific causal pathway untested
 - [[calibration]] — metacognitive interventions = calibration practice
 - [[tankelevitch-metacognitive-demands-2023]] — Tankelevitch et al. extend the metacognitive-demand framing into the GenAI domain
 

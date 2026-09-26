@@ -1,5 +1,5 @@
 ---
-status: emerging
+status: speculative
 area: [erosion, preservation]
 sources:
   - "Shen, J.H. & Tamkin, A. (2026). How AI Impacts Skill Formation. arXiv:2601.20245v2."
@@ -9,40 +9,40 @@ sources:
 
 ## What To Do
 
-Self-diagnose which of six AI interaction patterns you default to. Three preserve learning; three destroy it.
+[Inference] Use six observed interaction patterns as reflection prompts, not a validated diagnosis. In Shen and Tamkin's small exploratory clusters, some patterns were associated with higher scores; this does not show that three preserve learning and three destroy it.
 
 ## How To Do It
 
 1. **Review your last 5-10 AI interactions.** For each, identify which pattern you used:
 
-**Learning-destroying patterns** (quiz scores <40% in RCT):
-- **AI Delegation** — You handed the task to AI wholesale. Fastest completion, worst learning.
+**Lower-scoring observed clusters** (average quiz below 40%; strategy was not randomized):
+- **AI Delegation** — You asked AI to generate code and pasted it; this cluster averaged 39% on the quiz.
 - **Progressive AI Reliance** — You started with questions but gradually let AI take over everything.
-- **Iterative AI Debugging** — You used AI to debug or verify repeatedly (5-15 queries) without building your own understanding.
+- **Iterative AI Debugging** — You repeatedly asked AI to troubleshoot or verify (5–15 queries); this cluster had low average quiz performance.
 
-**Learning-preserving patterns** (quiz scores >65% in RCT):
-- **Conceptual Inquiry** (86%) — You asked only conceptual questions and resolved errors independently. Best learning, fastest among high-scoring patterns.
+**Higher-scoring observed clusters** (average quiz 65% or higher; strategy was not randomized):
+- **Conceptual Inquiry** (86%) — You asked only conceptual questions and resolved errors independently. Highest observed cluster mean, not proof of a superior strategy.
 - **Generation-Then-Comprehension** (68%) — You had AI generate output, then asked follow-up questions to understand it.
 - **Hybrid Code-Explanation** (65%) — You asked for generation combined with explanations.
 
 2. **Tally your pattern distribution.** What percentage of your interactions fall into each category?
 
-3. **Set a target.** Aim for 70%+ of interactions in the learning-preserving category. If you are building skill in a domain, prioritize Conceptual Inquiry.
+3. **Choose a learning goal.** Consider what you need to explain or perform without AI. No percentage target for interaction patterns was validated in the study.
 
-4. **Repeat monthly.** Track shifts over time. If your ratio is drifting toward the destroying patterns, increase solo work before consulting AI.
+4. **Check learning directly.** Try a comparable unaided task and adjust the workflow based on results. Neither monthly monitoring nor a particular solo-work ratio was tested.
 
-## Why It Works
+## Rationale and Limits
 
-Shen & Tamkin (2026) ran an RCT (N=52, Cohen's d=0.738) showing that AI-assisted developers scored 17% lower on comprehension — but only when using the three destroying patterns. The three preserving patterns maintained cognitive engagement: you stay in the loop, you process the information, you build understanding. The critical variable is not whether you use AI but how you interact with it.
+Shen & Tamkin randomized access to AI, not interaction strategies. The six clusters contained 2–7 participants each. Their score differences may reflect prior knowledge, self-selection or other factors. More error encounters in controls are consistent with a practice explanation, but the experiment did not isolate that mechanism.
 
-The destroying patterns share a common mechanism: they bypass [[desirable-difficulty]] — the productive struggle of encountering and resolving errors independently. The control group hit ~3 errors per task and resolved them; the AI group hit ~1. Those error encounters drove learning.
+[Inference] The categories can help discuss what was delegated and what was understood. Their usefulness as a learning intervention needs testing; avoid labelling a learner or predicting skill loss from a category.
 
 ## Related
 
 - [[cognitive-offloading]] - the six patterns map a spectrum from full offloading to strategic engagement
 - [[calibration]] - use the diagnostic to inform your calibration decisions
 - [[novice-vulnerability]] - skill formation deficit held across all experience levels
-- [[desirable-difficulty]] - the learning mechanism the destroying patterns bypass
+- [[desirable-difficulty]] - possible practice explanation, not an isolated mechanism
 
 ## Sources
 

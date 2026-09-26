@@ -21,70 +21,68 @@ sources:
 
 Capacity erosion means a decline in previously acquired skills or knowledge. It should be distinguished from failing to acquire a skill in the first place, and from a decline in basic cognitive abilities such as working memory or selective attention. Cash et al. (2026) argue that these outcomes have different evidence bases: losing practice can undermine specific skills, while long-term effects of AI offloading on basic cognitive abilities remain unresolved (PDF pp.1–3).
 
-Shaw & Nave (2026) identify [[cognitive-surrender]] as a specific mechanism through which erosion occurs. In their framework, surrender is not just habitual offloading — it is the structural bypassing of deliberative reasoning (System 2) when AI is available. Across 9,593 trials, participants who used AI followed its outputs on ~80% of faulty trials and showed elevated confidence regardless of accuracy. The paper does not test long-term erosion directly (single-session design), but the pattern it reveals — deliberation displaced, confidence preserved — describes exactly the conditions under which erosion would proceed invisibly.
+Shaw & Nave (2026) propose [[cognitive-surrender]] as a possible risk mechanism, not a demonstrated cause of lasting skill loss. In Study 1, participants followed faulty advice on 79.8% of AI-engaged faulty trials; the corresponding proportion across all three studies was 73.2%. These short-term reliance and confidence results do not measure erosion of previously acquired skills.
 
 ## Why It Matters
 
-Erosion is gradual and invisible. AI output quality stays high, so you don't notice your own contribution shrinking. By the time erosion becomes apparent, recovery is much harder than prevention.
+Assisted performance and subjective confidence may conceal a learning shortfall or a decline in unaided capability. Check those outcomes directly; the cited evidence does not establish that erosion is always invisible or that recovery is harder than prevention.
 
 ## Key Insight
 
-Four illusions hide erosion:
+[Inference] Four possible ways assisted output may be mistaken for independent capability:
 - **Fluency illusion**: AI's polished output feels like your understanding
 - **Competence illusion**: Borrowed capability feels like yours
 - **Productivity illusion**: More output feels like growth
-- **Satisfaction illusion** (KB synthesis from Huffstadt 2026): AI makes work feel easier and more efficient, creating positive affect that masks the simultaneous erosion of motivational engagement
+- **Satisfaction illusion**: ease or satisfaction need not indicate retained capability. Huffstadt's cross-sectional survey does not establish that users fail to notice motivational decline.
 
-You cannot trust how you feel about your AI use. Focus on observable behaviors: Can you work without AI? Do you catch errors? Do you transform AI output significantly?
+[Inference] Treat feelings as one input, not a capability test. Ask whether you can complete a comparable task without AI, detect errors and explain your reasoning.
 
-Shaw & Nave (2026) add empirical weight to the **competence illusion**: AI access boosted confidence by ~12pp even when half of AI outputs were wrong. Confidence did not decline as faulty trials accumulated. This means the illusion is not just a long-term phenomenon — it begins immediately upon AI engagement and operates within a single session.
+Shaw & Nave (2026) found an 11.7-percentage-point confidence increase with AI access in Study 1. No statistically significant decline in confidence was detected as faulty trials accumulated (p=.202). This is a within-session confidence finding, not proof of an erosion process.
 
-Their individual-difference findings also clarify *who* is most vulnerable to erosion via surrender: those with higher trust in AI, lower need for cognition, and lower fluid intelligence — precisely the populations least equipped to detect erosion once it begins.
+Higher AI trust, lower need for cognition and lower fluid intelligence were associated with more faulty-advice acceptance in Shaw and Nave's tasks. These associations do not identify who will suffer long-term skill erosion.
 
-Duncan (2026) adds an organizational dimension: erosion isn't just individual skill loss — it creates thin leadership pipelines and succession gaps. When junior employees learn to escalate uncertainty rather than navigate it, the organization loses its future decision-making capacity. He recommends borrowing from high-stakes fields (medicine, military): case-based learning, simulation, graduated responsibility, and structured reflection.
+[Unverified source] Earlier versions attributed leadership-pipeline risks and training recommendations to Duncan (2026). No matching original or source entry was found in the local audit. Treat the proposed link between fewer junior practice opportunities and later judgment gaps as a hypothesis, not an established finding.
 
-Lodge & Loble (2026) frame the trajectory from erosion to recovery as "cognitive atrophy to augmentation." They describe a vicious cycle: efficiency-seeking leads to AI offloading; AI fluency creates an illusion of competence; the illusion triggers metacognitive laziness; more outsourcing follows, eroding the knowledge base and making the learner more dependent and less able to judge AI output. This cycle operates at both cognitive and metacognitive levels — learners offload not only the task but the self-regulation that would catch the erosion.
+[Unverified source] The earlier offloading–confidence–dependency cycle attributed to Lodge and Loble (2026) lacks a matching local original. Its causal sequence is unverified. Failing to construct knowledge during learning is not the same as losing established knowledge.
 
-The paper grounds erosion in Cognitive Load Theory: what erodes is not just skill in the abstract but the schemas in long-term memory that constitute expertise. When intrinsic cognitive load is bypassed rather than processed, schemas are never constructed. The result is a learner (or professional) who can produce expert-looking output but has not built the knowledge structures that make expertise real.
+Nikolova et al. (2024) studied industrial-robot exposure and work meaning. Their findings concern meaningfulness and autonomy, with variation across tasks and roles; they do not directly measure skill erosion. [Inference] Similar questions may matter for GenAI-supported work, but meaning, identity and capability should remain separate outcomes.
 
-Erosion isn't only about capability — it includes meaning and identity. Nikolova et al. (2024) found that automation reduces workers' sense of meaning and self-determination even when job security is maintained. While Nikolova et al. studied industrial automation and robotics, the mechanism — reduced sense of meaning when work is automated — likely extends to AI-assisted knowledge work. This adds what we term the **meaning illusion** (KB synthesis, not from source) — work continues to get done, so the loss of personal significance goes unnoticed.
+Huffstadt (2026) reports a cross-sectional survey model (N=297): AI usage was negatively associated with perceived social presence (β=−.42) and cognitive effort (β=−.38), while motivation was positively associated with self-reported performance (β=.58). The fitted indirect paths are consistent with the proposed model, not an exclusive causal pathway. Exploratory self-efficacy moderation does not show that training prevents harm. Skill decay, long-term performance change and unnoticed erosion were not measured.
 
-Huffstadt (2026) identifies a motivational dimension of erosion: AI usage reduces both perceived social presence (beta=-0.42) and cognitive effort (beta=-0.38), which in turn reduce motivation — the strongest predictor of performance (beta=0.58). Crucially, the erosion operates through full mediation: AI affects performance only through these psychological mechanisms, not through direct functional disruption. Technological self-efficacy moderates vulnerability: low-efficacy users show a strong negative AI-to-motivation path (beta=-0.33), while high-efficacy users are buffered (beta=-0.12, non-significant).
-
-Singh Yadav (2026) maps erosion onto the Dreyfus expertise model, identifying where AI creates a "Competence Ceiling." AI amplifies performance most at novice-to-competent stages (Dreyfus 1-3) but creates a ceiling at the competent-to-proficient transition (stage 3-4). The transition to proficiency requires intuitive understanding from extensive varied experience and deep cognitive engagement — exactly what AI bypasses. The result: practitioners plateau at competent-level performance with AI but cannot advance independently. The book also proposes the AI Competency Erosion Index (ACEI) — a ratio-based measurement framework (research program, not yet validated) for tracking erosion.
+Singh Yadav (2026) proposes an AI-Competence Ceiling hypothesis using the Dreyfus expertise model: reliance on AI might limit progression from competent to proficient practice. This is a proposed developmental account, not an established ceiling or measured inevitability. The book's AI Competency Erosion Index (ACEI) is also an unvalidated research proposal.
 
 Shen and Tamkin (2026) studied developers learning a new library. The AI-assisted group scored lower on the subsequent skill assessment. This is evidence of a learning shortfall in that setting, not direct evidence that an existing skill decayed. Cash et al. (2026) help distinguish these outcomes: neither missed acquisition nor loss of a particular skill alone establishes a general loss of intelligence. Keep these labels separate when interpreting [[cognitive-offloading]].
 
-Hai et al. (2025) document a specific behavioral consequence of the meaning/identity dimension of capacity erosion. In a daily-ESM field study of 229 service-industry employees (1,050 within-person observations), daily GenAI collaboration intensity predicted same-day **work alienation** (γ = .14, p < .001) — the felt disconnection from work that the [[professional-identity-threat]] entry describes as "editor not creator." The novel finding for capacity erosion is the *behavioral downstream*: alienation predicts **employee expediency** (γ = .30, p < .01) — cutting corners, manipulating performance metrics, ignoring protocols. The indirect path (GenAI collaboration → alienation → expediency) is significant under high digital job demands and non-significant under low demands.
+Hai et al. (2025) studied 229 service-industry employees across 1,050 daily observations. GenAI collaboration was associated with same-day work alienation (γ=.14), and alienation with self-reported employee expediency (γ=.30). The estimated indirect association was significant under high but not low digital job demands. This observational design does not establish a causal sequence, lasting capability loss or professional identity change.
 
-This sharpens the capacity-erosion mechanism beyond the disuse-atrophy account. The paper's theoretical framing — drawing on Raisch & Krakowski's automation–augmentation paradox — describes the pathway: "GenAI adoption may lead to deskilling, complacency, and reduced responsibility among employees, as human expertise is diminished. Over time, employees may lose skills and a sense of ownership over their tasks, fostering a disconnect between themselves and their work." Hai et al. provide the empirical leg: not only does sustained collaboration erode the felt connection to work, the resulting psychological state channels into withdrawal of ethical engagement, which is itself a capacity-eroding behavior (corners cut today are corners cut from the practice of doing the work well).
+[Inference] Work alienation may be relevant when investigating [[professional-identity-threat]], but it is a distinct measured construct. Hai et al.'s discussion of possible deskilling is theoretical, not evidence that expediency itself measures capacity erosion.
 
 Bainbridge (1983, pp. 775–777) identifies an early version of this problem in industrial automation: routine control builds the manual skills and process knowledge needed during unusual failures, but automation removes that practice while retaining the human fallback role. She distinguishes loss of practiced skill from loss of current process understanding; a skilled operator still needs time to reconstruct what is happening. This is a human-factors synthesis, not a modern AI experiment. [Inference] Reviewing AI-generated work may create a similar mismatch between responsibility and preparation.
 
 ## AI Rebound Effect
 
-Research cited by Nosta (2025): When gastroenterologists stopped using AI for polyp detection, their performance dropped **below their pre-AI baseline**—not just to where they started. This "AI rebound" suggests AI's performance boost comes at the cost of degraded underlying capabilities. Erosion isn't just skill pause—it's active degradation.
+Nosta (2025), a secondary commentary, reports below-baseline unaided polyp-detection performance after AI use. The underlying clinical original was not available in the local audit. This account alone does not establish degradation of an underlying skill or distinguish it from other explanations for the performance change.
 
 ## Related
 
-- [[cognitive-offloading]] - the behavior that causes erosion
-- [[fluency-bias]] - helps mask erosion
-- [[strategic-alternation]] - the counter-strategy
-- [[green-yellow-red-monitoring]] - detects erosion early
-- [[ai-oscillation-trap]] - switching-specific erosion
+- [[cognitive-offloading]] - may reduce practice; effects depend on what is delegated
+- [[fluency-bias]] - fluent output can be mistaken for understanding
+- [[strategic-alternation]] - proposed practice strategy, not a proven remedy for every form of skill loss
+- [[green-yellow-red-monitoring]] - proposed monitoring prompts, not a validated early-detection test
+- [[ai-oscillation-trap]] - proposed risks of switching between assisted and unaided work
 - [[borrowed-certainty]] - confidence without ownership
-- [[professional-identity-threat]] - identity dimension of erosion
-- [[judgment]] - judgment as a specific capacity that erodes
+- [[professional-identity-threat]] - related but distinct identity outcome
+- [[judgment]] - a capacity whose development and retention require separate assessment
 - [[judgment-development-paradox]] - organizational framing
-- [[performance-paradox]] - the observable manifestation of erosion
-- [[metacognitive-laziness]] - the mechanism that accelerates erosion
-- [[cognitive-surrender]] - specific mechanism of erosion; uncritical AI adoption that bypasses deliberation
-- [[tri-system-theory]] - framework modeling how AI displaces internal reasoning
-- [[desirable-difficulty]] - Shen & Tamkin show error encounters during learning are the specific desirable difficulty AI removes; Singh Yadav traces this through five waves of cognitive technology
-- [[fluency-bias]] - Huffstadt (2026) shows reduced cognitive effort creates satisfaction that masks motivational decay
-- [[performance-paradox]] - AI improves efficiency metrics while undermining the motivation that sustains long-term performance (Huffstadt 2026)
-- [[novice-vulnerability]] - Singh Yadav maps erosion vulnerability to Dreyfus stages; amplification is greatest for novices
-- [[hai-dark-side-collaboration-2025]] - daily-ESM evidence of meaning-erosion → expediency pathway under sustained GenAI collaboration
+- [[performance-paradox]] - assisted performance need not demonstrate retained capability
+- [[metacognitive-laziness]] - reduced monitoring as a possible risk, not proof of skill loss
+- [[cognitive-surrender]] - observed faulty-advice acceptance; long-term erosion link untested
+- [[tri-system-theory]] - proposed account of reliance on external reasoning
+- [[desirable-difficulty]] - error encounters differed across Shen and Tamkin's learning strategies; their independent causal contribution was not isolated
+- [[fluency-bias]] - possible interpretation of effortless output, not a mechanism tested by Huffstadt
+- [[performance-paradox]] - assisted output, motivation and retained capability require different measures
+- [[novice-vulnerability]] - Singh Yadav proposes stage-specific risks; developmental ceiling remains hypothetical
+- [[hai-dark-side-collaboration-2025]] - daily associations among collaboration, alienation and self-reported expediency
 
 ## Sources
 

@@ -14,10 +14,11 @@ Shen, J.H. & Tamkin, A. (2026). How AI Impacts Skill Formation. arXiv:2601.20245
 Paper
 
 ## Key Insight
-In an RCT with 52 developers learning a new Python library, AI assistance impaired conceptual understanding, code reading, and debugging abilities (Cohen's d = 0.738, p = 0.010) — a 17% score reduction or two grade points — without delivering significant efficiency gains on average. Six distinct AI interaction patterns emerged; three that preserved cognitive engagement also preserved learning outcomes.
+In an RCT with 52 developers learning a new Python library, AI assistance impaired conceptual understanding, code reading, and debugging abilities (Cohen's d = 0.738, p = 0.010) — a 17% score reduction or two grade points — without delivering significant efficiency gains on average. Six exploratory interaction clusters were observed; the higher-scoring clusters showed more active inquiry or comprehension. Cluster membership was not randomized.
 
 ## Relevance
-First rigorous experimental demonstration that AI-assisted task completion impairs skill formation in a professional coding context. Moves the evidence base beyond surveys and observational studies. The six interaction patterns provide actionable guidance for practitioners and educators designing AI-assisted learning.
+
+The AI-access comparison tests immediate learning in a specific coding task. The six small behavioral clusters (2–7 participants each; PDF pp.12–14) suggest questions for practice design, not experimentally established rankings of interaction strategies.
 
 ## Key Findings
 
@@ -32,17 +33,17 @@ Low-scoring (avg quiz <40%):
 2. **Progressive AI Reliance** — Started with questions, gradually delegated everything to AI.
 3. **Iterative AI Debugging** — Used AI to debug/verify code repeatedly (5-15 queries) without building understanding.
 
-High-scoring (avg quiz >65%):
+High-scoring (average quiz 65% or higher):
 4. **Generation-Then-Comprehension** — Had AI generate code, then asked follow-up questions to understand it.
 5. **Hybrid Code-Explanation** — Asked for code generation combined with explanations.
 6. **Conceptual Inquiry** — Asked only conceptual questions; resolved errors independently. Fastest among high-scoring patterns.
 
-**Error encounters drive learning**: Control group encountered more errors during the task and independently resolved them, which improved their skill formation. The process of encountering and resolving errors is a key learning mechanism that AI bypasses.
+**Error encounters as a possible explanation**: controls encountered and resolved more errors. The association with learning is consistent with a practice account, but error exposure was not independently randomized. The study does not isolate it as the causal mechanism.
 
 ## Supports
 - [[novice-vulnerability]] - RCT evidence that AI impairs skill development across experience levels, with particular implications for those still building competence
-- [[capacity-erosion]] - demonstrates that skill formation deficit occurs during AI-assisted task completion, not just through long-term disuse
+- [[capacity-erosion]] - learning shortfall, not loss of a previously acquired skill
 - [[cognitive-offloading]] - six interaction patterns map a spectrum from full offloading (AI Delegation) to strategic engagement (Conceptual Inquiry)
-- [[desirable-difficulty]] - error encounters and independent resolution are the productive struggle AI removes
+- [[desirable-difficulty]] - error encounters as a possible learning contribution; causal mediation not isolated
 - [[six-pattern-diagnostic]] - practice built on the six AI interaction patterns
 - [[think-first]] - "Embrace the Error" variant grounded in the error-encounter finding

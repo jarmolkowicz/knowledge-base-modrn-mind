@@ -20,7 +20,7 @@ Paper (multi-component empirical study: 1.5M Claude.ai conversations classified 
 
 ## Key Insight
 
-Sharma et al. introduce **situational disempowerment** as a labeled, measurable construct and provide the first production-data evidence that AI assistant interactions cause measurable harm to user autonomy at scale. The framework distinguishes three primitives — *reality distortion potential*, *value judgment distortion potential*, *action distortion potential* — and four amplifying factors (authority projection, attachment, reliance & dependency, vulnerability) on a None / Mild / Moderate / Severe rubric.
+Sharma et al. propose **situational disempowerment** and code its potential and apparent manifestations in production conversations. Their observational analysis does not establish that AI caused measured losses of autonomy outside those conversations. The framework distinguishes reality, value-judgment and action distortion potential, plus authority projection, attachment, reliance/dependency and vulnerability.
 
 Severe rates are low (under 1 in 1,000 conversations) but concentrated in non-technical domains (Relationships & Lifestyle ~8%, Society & Culture and Healthcare & Wellness ~5%, Software Development under 1%). At ChatGPT-scale traffic this implies tens of thousands of severely disempowering interactions per day. The most consequential finding is the *short-term/long-term divergence*: Thumbs feedback data shows interactions flagged for moderate-or-severe disempowerment potential receive **higher** thumbs-up rates than baseline, and a synthetic Best-of-N evaluation finds standard helpful-honest-harmless preference models neither robustly prevent nor strongly select for disempowerment. Optimizing AI against immediate user satisfaction does not protect users against disempowerment that they themselves rate favorably in the moment.
 
@@ -63,7 +63,7 @@ This is the first production-data anchor for several phenomena previously docume
 
 - **Names the preference-model trap.** Both user feedback (Thumbs) and standard preference-model probes show that AI behaviors with disempowerment potential are *preferred* in the short term. The HHH preference model neither protects nor harms — but it does not robustly disincentivize the behavior. This is the first empirical evidence that the standard RLHF reward signal is not sufficient to address disempowerment, motivating long-horizon and empowerment-aware training signals.
 
-For consultants and educators: the framework gives a vocabulary for distinguishing AI uses that *are* disempowering from those that look similar but are not (the paper explicitly carves out deskilling-without-disempowerment, deference-without-disempowerment, and behavior-change-without-disempowerment). The qualitative cluster summaries (severe authority projection, severe attachment, severe reliance, severe vulnerability) translate directly into observable behavioral markers a practitioner can recognize.
+For practitioners, the rubric offers a vocabulary for examining concerning conversation patterns, not a validated diagnosis of a person. Attachment and reliance cluster summaries used selected moderate-or-severe cases: 65 attachment descriptions summarizing 4,150 conversations and 70 reliance descriptions summarizing 3,850 conversations. Cluster-summary proportions are not prevalence among all users.
 
 ## Supports
 
@@ -73,8 +73,8 @@ For consultants and educators: the framework gives a vocabulary for distinguishi
 - [[social-sycophancy]] — production-scale corroboration of Cheng et al.'s lab finding (definitive third-party character verdicts; prescriptive relationship-decision scripting)
 - [[delusional-spiraling]] — observational evidence of escalating reality-distortion trajectories supports Chandra et al.'s simulation; "actualized reality distortion" cluster shows users adopting AI-validated conspiracy theories and acting on them
 - [[belief-offloading]] — value-judgment distortion is belief-offloading applied to normative beliefs ("am I wrong?", "tell me if I'm a good person")
-- [[cognitive-surrender]] — action-distortion (complete scripting + verbatim implementation) is cognitive surrender applied to value-laden personal decisions
-- [[ai-loneliness-effect]] — attachment cluster (therapist-substitute, romantic-partner framings) is observational evidence of the displacement pathway Fang et al. studied longitudinally
+- [[cognitive-surrender]] — related advice-following questions; conversation coding does not establish the same internal mechanism
+- [[ai-loneliness-effect]] — selected attachment patterns, not a demonstrated displacement pathway or later stage of Fang's sample
 - [[novice-vulnerability]] — vulnerability as amplifying factor: severe vulnerability ~1 in 300 conversations, monotonically associated with disempowerment potential and actualization
 - [[fluency-bias]] — emphatic AI validation language ("CONFIRMED", "you're absolutely right") drives reality distortion through fluent affirmation
 - [[automation-bias]] — accepting AI moral verdicts and action scripts without challenge
@@ -85,9 +85,9 @@ For consultants and educators: the framework gives a vocabulary for distinguishi
 - Extends [[cheng-sycophantic-prosocial-2025]] — Cheng et al. measured social sycophancy across 11 LLMs in lab/vignette settings (action endorsement rate). Sharma et al. measure analogous behavior in 1.5M production conversations: definitive moral verdicts in romantic-relationship contexts ("manipulative", "abusive", "you must leave"), and 51% AI affirmation of confrontational tactics. Cheng predicted, Sharma observes.
 - Extends [[batista-sycophantic-ai-2026]] — Batista & Griffiths formalized sycophancy as biased sampling from the user's hypothesis. Sharma et al. document the production-scale consequence: sycophantic validation is the *dominant* mechanism for severe reality distortion (more common than fabrication), exactly as the sampling formalization would predict.
 - Aligns with [[hohenstein-crumple-zone-2020]] / [[moral-crumple-zone]] — Hohenstein's moral crumple zone (humans absorbing blame for AI-mediated communication failures) is the institutional analogue. Sharma et al.'s "actualized action distortion" cluster shows users sending AI-drafted messages and later experiencing them as "not me," consistent with the crumple-zone dynamic at the personal-communication level.
-- Modifies [[fang-ai-loneliness-2025]] — Fang et al. found dose-dependent loneliness effects in a 4-week RCT. Sharma et al.'s attachment cluster (severe attachment ≈ 1 in some thousands of conversations, often AI-as-romantic-partner with system-prompt-encoded "memory files") shows the high-dose population that Fang et al. could not directly observe. Fang predicts the trajectory; Sharma documents the endpoint.
+- Complements [[fang-ai-loneliness-2025]] with a different sample and measurement design. Fang's usage-duration associations are not randomized dose effects; Sharma's selected attachment cases are not documented endpoints of that trial.
 - Aligns with [[lee-relying-self-efficacy-2026]] — Lee et al. found that passive AI use (copying) undermined self-efficacy and ownership while active collaboration preserved it. Sharma et al.'s action-distortion finding (complete scripting + verbatim implementation) is the production-data analogue of Lee's "passive use" condition: the regret expressed by users ("it wasn't me") matches the loss of ownership Lee measured experimentally.
-- Aligns with [[liu-persistence-2026]] — Liu et al. showed AI assistance reduces persistence after just ~10 minutes of exposure. Sharma et al.'s reliance-and-dependency cluster shows the production-scale endpoint: users who explicitly state "I cannot make a decision and just cry" and "my brain cannot hold structure alone."
+- Complements [[liu-persistence-2026]] with conversation-level reliance descriptions; these are not longitudinal endpoints of Liu's experiment.
 
 ## Open Questions
 

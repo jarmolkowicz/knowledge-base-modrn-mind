@@ -54,9 +54,9 @@ Before each task, consciously choose your AI engagement mode based on context.
 
 **When uncertain:** Default to Think-First.
 
-**Team calibration question:** "Do I have an accurate mental model of when this AI is likely to be right and when it is likely to fail?" Gonzalez et al. (2026) show that incomplete or divergent mental models of AI capabilities lead to delegation errors and coordination breakdowns.
+[Inference] **Team calibration question:** "What evidence supports my view of when this AI is likely to succeed or fail?" The prior causal claim attributed to Gonzalez et al. (2026) remains unverified because a matching local original was not found.
 
-**Team calibration (five design principles from Gonzalez et al., 2026):**
+**Provisional team-calibration prompts:** [Unverified source] Earlier attribution to Gonzalez et al. (2026) has not been verified. Treat the following as proposals, not a tested five-principle intervention.
 
 Calibration is not just individual — teams using AI together need shared calibration. Five principles for team-level calibration:
 
@@ -85,7 +85,7 @@ Creates conscious choice point against default ease-seeking. Builds [[metacognit
 
 CHI 2024 research frames calibration as "metacognitive skill"—the psychological ability to monitor (assess quality of thinking) and control (adjust strategy based on assessment). This positions calibration as trainable through deliberate practice with feedback.
 
-Gonzalez et al. (2026) provide team-science evidence for calibration as a prerequisite for human-AI complementarity. Their synthesis shows that calibrated trust — avoiding both algorithm aversion (under-trust) and complacency (over-trust) — is what separates effective human-AI teams from ones that perform worse than either party alone.
+[Unverified source] The previously claimed Gonzalez et al. (2026) evidence does not have a matching local original. This entry does not establish that calibrated trust is the necessary or sufficient condition separating successful and unsuccessful teams.
 
 Key findings relevant to calibration practice:
 - **Trust depends on reliability, transparency, and experience** — Interfaces that expose uncertainty and rationales strengthen calibration. Presenting AI confidence levels and reasons for low confidence helps humans know when to scrutinize vs. defer.

@@ -18,7 +18,7 @@ Paper (peer-reviewed empirical, two studies)
 
 ## Key Insight
 
-AI use improves logical-reasoning performance by ~3 points but inflates self-estimates by ~4 points — a robust overconfidence gap that monetary incentives do not correct. Critically, the Dunning–Kruger pattern *disappears* under AI use: a Bayesian computational model shows the noise parameter that normally produces skill-scaled miscalibration collapses to ~1, so everyone overestimates equally. And against the assumption that AI literacy is protective, higher self-rated AI literacy correlates with *worse* metacognitive accuracy.
+The studies distinguish assisted reasoning performance from self-assessment. AI users showed overestimation and a flatter modeled Dunning–Kruger pattern; higher self-rated AI literacy was associated with greater overestimation. Confidence–correctness discrimination was weak in both Study 2 groups (.62 with AI; .61 without), not demonstrably lower because of AI. The bonus comparison across studies does not isolate a causal incentive effect.
 
 ## Key Findings
 
@@ -52,14 +52,14 @@ A Bayesian model decomposed performance estimates into bias (*b_k*) and noise (*
 
 **Metacognitive sensitivity is low for everyone**
 
-- Mean AUC (confidence-correctness discrimination): AI group .62, no-AI group .61 — both significantly below the conventional .70 acceptable benchmark (AI: *t*(244) = −10.56, *p* < .001).
+- Mean AUC (confidence-correctness discrimination): AI group .62, no-AI group .61 — both significantly below the authors' .70 reference benchmark (AI: *t*(244) = −10.56, *p* < .001).
 - Confidence ratings only weakly distinguish correct from incorrect answers regardless of AI use.
 
-**Incentives don't close the gap**
+**Cross-study incentive comparison**
 
-- Study 2's +£0.50 metacognitive-accuracy bonus produced no improvement in calibration relative to Study 1. Participants were already engaged enough; effort was not the bottleneck.
+- Study 2's +£0.50 bonus was accompanied by no calibration improvement relative to Study 1. The authors interpret this as evidence against a simple effort explanation, but bonus versus no bonus was not randomized within Study 2.
 
-**Shallow engagement explains some of the gap**
+**Observed prompting behavior**
 
 - 46% of participants used only one prompt per question; only 8% issued more than three. Mean prompts per question: 1.15 (SD = 0.34). Across 246 participants × 20 items, this is 6,629 prompts.
 - Qualitative analysis: participants treated AI as a tool (21.5%), collaborator (12.6%), or accepted outputs without inquiry (majority). Different framings did not predict performance or calibration.
@@ -84,21 +84,21 @@ The authors recommend three classes of intervention: confidence-calibration inte
 
 ## Relevance
 
-This is the primary empirical anchor the KB needs for several existing concepts that previously rested on theoretical or secondary citations. It quantifies the confidence-competence gap under generative-AI use (~4-point overestimation, ~1-point overconfidence net of performance gain), provides the first computational-model decomposition of metacognitive bias and noise in the KB, and reports the counterintuitive AI-literacy result. It also resolves the deferred secondary source `dolan-competence-assessment-2025` (a PsyPost summary of this paper, currently DEFER in `raw/`).
+This is the primary empirical anchor the KB needs for several existing concepts that previously rested on theoretical or secondary citations. It quantifies the confidence-competence gap under generative-AI use (approximately four-point overestimation; not a one-point residual after subtracting a performance gain), provides the first computational-model decomposition of metacognitive bias and noise in the KB, and reports the counterintuitive AI-literacy result. It also resolves the deferred secondary source `dolan-competence-assessment-2025` (a PsyPost summary of this paper, currently DEFER in `raw/`).
 
 ## Supports
 
-- [[confidence-competence-gap]] — adds quantification (~1-point overconfidence net of performance gain), the Bayesian bias/noise decomposition, the DKE-flattening finding, and the AI-literacy paradox
-- [[metacognition]] — empirical evidence that AI use degrades metacognitive accuracy and that AUC sensitivity falls below acceptable benchmarks under AI use
-- [[calibration]] — empirical evidence that monetary incentives alone do not close the calibration gap; reflective interventions are required
+- [[confidence-competence-gap]] — reports approximately four-point overestimation, the Bayesian bias/noise decomposition, the DKE-flattening finding, and the AI-literacy paradox
+- [[metacognition]] — weak confidence–correctness discrimination in both groups; AUC does not establish AI-caused decline
+- [[calibration]] — cross-study bonus comparison; reflective interventions proposed, not shown necessary or effective here
 - [[fluency-bias]] — the AI-literacy paradox is framed as [[illusion-of-explanatory-depth|illusion of explanatory depth]]: technical-fluency knowledge inflates perceived ability without improving discrimination
-- [[automation-bias]] — shallow prompting (46% one prompt per question) plus low metacognitive sensitivity explain the persistence of overreliance even among technically literate users
+- [[automation-bias]] — prompting and monitoring measures raise questions about reliance; a causal explanation was not isolated
 - [[metacognitive-demand]] — explicitly cites Tankelevitch et al. (2024) and provides the empirical follow-up they called for
 
 ## Contradicts / Extends
 
-- Extends: [[he-illusion-competence-2023]] — He et al. showed DKE shapes AI *reliance decisions* (overestimators under-rely); Fernandes shows AI use *eliminates* the DKE pattern entirely. Both findings can hold: pre-existing DKE shapes whether you trust AI; using AI then flattens DKE going forward.
-- Extends: [[shaw-cognitive-surrender-2026]] — Shaw & Nave found AI inflates per-item confidence without affecting accuracy; Fernandes adds the global self-assessment bias and the bias/noise computational decomposition.
+- Extends: [[he-illusion-competence-2023]] — He et al. found self-assessment associated with reliance decisions; Fernandes reports a flatter modeled DKE pattern in the assisted tasks. The studies concern different outcomes and do not establish a developmental sequence over time.
+- Extends: [[shaw-cognitive-surrender-2026]] — Shaw & Nave found higher per-item confidence and accuracy changes that depended on AI correctness; Fernandes adds the global self-assessment bias and the bias/noise computational decomposition.
 - Extends: [[tankelevitch-metacognitive-demands-2023]] — provides the empirical investigation of metacognition in HAI that Tankelevitch et al. argued was missing.
 - Extends: [[leonardi-artificial-certainty-2026]] — Leonardi documented [[artificial-certainty]] at the organizational level (non-experts feeling expert); Fernandes shows the individual-cognitive substrate (skill-leveling that compresses the DKE).
 - Tension with: assumption that AI literacy is protective. Fernandes finds the *Technical Understanding* subscale of the SNAIL is the strongest predictor of overestimation — challenging interventions that focus narrowly on technical AI training without metacognitive scaffolding.

@@ -20,22 +20,11 @@ Paper (cross-sectional SEM study, N=297 knowledge workers using AI in informatic
 
 ## Key Insight
 
-Huffstadt builds on Locke & Latham's **High-Performance Cycle** (goal-setting → motivation → effort → performance) to test a mediation model: does AI usage affect performance directly, or through psychological mechanisms? SEM analysis (N=297) supports **full mediation through motivation**, with two upstream channels:
+Huffstadt tests a proposed motivational model using a cross-sectional survey of 297 knowledge workers. Greater AI usage was associated with lower perceived social presence (β=−.42) and effort (β=−.38); motivation was associated with self-reported performance (β=.58). The fitted mediation pattern does not establish an exclusive causal pathway.
 
-- AI usage **reduces perceived social presence** (β = -0.42)
-- AI usage **reduces cognitive effort** (β = -0.38)
+Exploratory technological-self-efficacy moderation showed different AI–motivation associations (β=−.33 in the lower group; β=−.12, nonsignificant, in the higher group). It does not establish that self-efficacy training prevents harm.
 
-Both reductions reduce **motivation** (the strongest predictor of performance, β = 0.58). The crucial framing: AI doesn't directly impair performance — it impairs the *psychological foundations* (social presence, cognitive engagement) that sustain motivation that drives performance. The path is **indirect, mediated, and silent**.
-
-The "silent" in the title is load-bearing. Users may report being satisfied with AI-assisted efficiency; they don't perceive their motivational substrate eroding underneath. The phenomenology of AI use feels good (less effort, smoother tasks); the long-run effect on performance is corrosive.
-
-**Technological self-efficacy moderates the effect:**
-- Low tech-self-efficacy users show a strong negative AI→motivation path (β = -0.33, p < .01)
-- High tech-self-efficacy users show a weaker, non-significant path (β = -0.12)
-
-Higher tech-self-efficacy users seem to deploy AI in ways that preserve motivation — likely by retaining cognitive engagement in tasks that low-self-efficacy users fully delegate. This connects to [[han-trust-self-efficacy-2025]]'s finding that learning goal orientation moderates AI's psychological effects: trait-level differences shape whether AI use harms or helps.
-
-For human thinking with AI: the silent-erosion mechanism Huffstadt identifies is the *experiential* form of [[capacity-erosion]]. Users feel fine while their motivational foundations decay. The mechanism connects fluency-bias (low-effort tasks feel good but signal nothing engaging) to the longer-term [[performance-paradox]] (efficiency rises while sustained-performance capacity falls).
+The study did not measure longitudinal skill loss, unnoticed motivational decline or objective long-term performance. The author's causal language in the excerpts below should be read with these design limits.
 
 ## Key Passages
 
@@ -63,26 +52,17 @@ For human thinking with AI: the silent-erosion mechanism Huffstadt identifies is
 
 ## Relevance
 
-Three contributions for the KB:
-
-- **Names the silent-erosion mechanism.** The KB's [[capacity-erosion]] cluster mostly addresses skill decay; Huffstadt addresses *motivational* decay. Different mechanism, different intervention space (motivational scaffolding rather than skill practice).
-- **Provides full-mediation evidence.** AI's effect on performance is *entirely* through psychology, not direct functional disruption. This is structural — fixing the technology doesn't fix the problem; you have to fix the psychological conditions.
-- **Identifies a moderator that's intervenable.** Technological self-efficacy can be cultivated via training. The KB's preservation cluster gains an organizational-design lever: training that builds tech-self-efficacy may protect motivation against AI's silent erosion.
+The study raises questions about effort, social presence and motivation in AI-supported work. [Inference] These may be useful dimensions to monitor, but neither a skill-preservation intervention nor a general motivational cost of offloading was tested.
 
 ## Supports
 
-- [[capacity-erosion]] — silent erosion as the motivational variant of capacity loss
-- [[cognitive-offloading]] — reduced cognitive effort is the specific measured mechanism
-- [[fluency-bias]] — low effort feels satisfying while signaling disengagement
-- [[performance-paradox]] — efficiency rises while sustaining-performance substrate falls
-- [[han-trust-self-efficacy-2025]] — converging finding: trait-level moderators (learning orientation, tech self-efficacy) matter for AI's psychological effects
-- [[nikolova-robots-meaning-2024]] — meaning erosion under automation; same family of finding
-- [[passalacqua-less-ai-2024]] — full automation erodes self-determination/autonomy → motivation collapse
-
-## Contradicts / Extends
-
-- Companion to [[nikolova-robots-meaning-2024]] (industrial robots erode autonomy/meaning) and [[passalacqua-less-ai-2024]] (full automation erodes motivation in training contexts). Huffstadt operationalizes the same family of effects in everyday knowledge work via SEM.
-- Aligns with [[han-trust-self-efficacy-2025]] on the moderator finding: trait-level individual differences shape whether AI use harms or helps.
+- [[cognitive-offloading]] — cross-sectional associations involving reported effort, not the consequence of every offloading act.
+- [[capacity-erosion]] — related research question; skill erosion was not measured.
+- [[fluency-bias]] — theoretical discussion, not a tested explanation of unnoticed decline.
+- [[performance-paradox]] — assisted output, motivation and independent capability need separate measures.
+- [[han-trust-self-efficacy-2025]] — adjacent self-efficacy research, not replication of one mechanism.
+- [[nikolova-robots-meaning-2024]] — different automation context and outcomes.
+- [[passalacqua-less-ai-2024]] — distinct training experiment; not evidence for a shared causal chain.
 
 ## Open Questions
 

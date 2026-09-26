@@ -15,13 +15,13 @@ Consciously cycling between unassisted work (for capacity building) and AI-assis
 
 ## Why It Matters
 
-Not about limiting AI use—it's about maintaining the judgment and capacity to use AI well. Without alternation, judgment degrades, you can't evaluate quality, and professional value diminishes.
+[Inference] The aim is to preserve opportunities to practise and assess unaided capability. The ideal amount and timing of solo work are not established by this entry.
 
-Creativity requires both originality and usefulness (Runco & Jaeger, 2012). AI can generate novel combinations, but contextual appropriateness — knowing what works and why — comes from human judgment built through practice. Unassisted work periods preserve this judgment capacity.
+Creativity requires both originality and usefulness (Runco & Jaeger, 2012). AI can generate novel combinations, but contextual appropriateness — knowing what works and why — comes from human judgment built through practice. [Inference] Unassisted periods may offer relevant practice; preservation is an outcome to assess.
 
 ## Key Insight
 
-Why it works:
+[Inference] Proposed rationale, not a validated causal sequence:
 ```
 Unassisted work → Builds capacity
 Capacity → Enables quality judgment
@@ -40,15 +40,9 @@ This suggests alternation design matters:
 - Transition protocols may help (warm-up before manual work)
 - Hybrid modes that keep humans engaged throughout
 
-Wu et al. (2025) sharpen the alternation-design problem with experimental causal evidence. Across four pre-registered experiments (total N = 3,562 Prolific UK), task transitions in *both* directions carry psychological costs:
+Wu et al. (2025) compared two-task sequences with and without GenAI. Within Collab→Solo sequences, motivation fell and boredom rose, but the reported within-person d values are not randomized AI-versus-control effects; some interactions were nonsignificant. In Study 4, sustained collaboration reduced boredom growth relative to Collab→Solo, although boredom still rose. Solo→Collab showed a marked perceived-control decrease.
 
-- **Collab→Solo** transitions (the typical alternation pattern this entry recommends) reduced intrinsic motivation by d = -0.32 to -0.51 (medium effect, replicated across Studies 1, 3, and 4) and increased boredom by d = 0.32–0.51. Sense of control was *restored* (d = 0.15–0.39 increase), so the autonomy benefit is real, but it comes paired with an engagement loss.
-- **Solo→Collab** transitions (Study 4 only, N = 395) produced the steepest sense-of-control drop in the paper (Δ = -1.01, d = 0.84) — *larger* than the suppression observed in Collab-Collab participants. Transitioning *into* AI is the most autonomy-eroding direction, not the safest.
-- **Sustained collaboration** (Collab-Collab, N = 456) maintained stable but suppressed control and did *not* buffer motivation decline or boredom increase. Sustained AI use is not a recovery path; it just smooths out the autonomy-erosion of repeated transitions by holding the worker continuously below their solo baseline.
-
-The implication: simply switching modes is not protective. The four-condition pattern from Wu et al. shows that *every* mode combination carries a psychological cost — the only thing alternation buys is control of *which* cost (autonomy vs. engagement) operates when. The "longer periods in each mode" prescription above gains empirical support: Solo→Collab transitions are autonomy-disruptive enough that minimizing transition frequency may be more important than the overall ratio of solo-to-AI work.
-
-[Inference] The Wu et al. evidence suggests strategic alternation is best designed as deliberate *capacity-building solo blocks* (where the engagement-decline cost is offset by the explicit goal of unassisted practice) rather than as fluid mode-switching across a single task. Workers who alternate without a clear rationale for each transition pay the psychological cost without capturing the capacity-building benefit.
+These short-term results do not establish an optimal alternation schedule, the benefit of longer blocks or prevention of skill loss. [Inference] Select practice periods around the learning goal, then assess unaided performance and work experience rather than assuming that switching itself protects them.
 
 ## Related
 
@@ -59,7 +53,7 @@ The implication: simply switching modes is not protective. The four-condition pa
 - [[ai-oscillation-trap]] - switching costs to consider
 - [[cognitive-grit]] - mental endurance for unassisted work
 - continuous improvement loop - the recognize-practice-adjust cycle that refines alternation over time
-- [[wu-collaboration-motivation-2025]] - pre-registered RCT evidence (N = 3,562) that *both* Collab→Solo and Solo→Collab transitions carry psychological costs; sustained collaboration does not buffer motivation decline; alternation requires deliberate design rather than fluid mode-switching
+- [[wu-collaboration-motivation-2025]] - short-term control, motivation and boredom comparisons; no alternation schedule validated
 
 ## Related Research
 

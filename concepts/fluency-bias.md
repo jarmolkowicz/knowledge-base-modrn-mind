@@ -41,7 +41,7 @@ Nosta (2025) extends fluency bias into epistemological territory with the [[cohe
 
 ## Extended: The Satisfaction Mask
 
-Huffstadt (2026) extends fluency bias from a perceptual mechanism to a motivational one. Reduced cognitive effort from AI usage creates a form of "perceptual fluency" (Reber et al., 2004) that feels satisfying — but this satisfaction masks a motivational cost. In the SEM model (N=297), reduced effort predicted lower motivation (a key driver of performance, beta=0.58). The "silent impact" framing captures what fluency bias obscures: the very ease that makes AI use feel productive is simultaneously degrading the engagement that drives sustained performance. Users experience AI-assisted work as better (less effortful, more efficient), even as the motivational foundation erodes beneath the surface.
+Huffstadt (2026) discusses perceptual fluency as a possible account of AI-supported work experience. The cross-sectional survey (N=297) associates reported effort and motivation; it does not show that satisfaction masks unnoticed decline or that ease causes long-term performance loss. Those are proposed interpretations, not measured mechanisms.
 
 ## Extended: Field-Scale Adoption
 
@@ -58,7 +58,7 @@ Messeri & Crockett (2024) extend fluency bias from individual perception to the 
 - [[metacognitive-demand]] - the skill needed to overcome fluency bias
 - [[jagged-frontier]] - where fluency bias causes errors
 - [[artificial-confidence]] - related but distinct mechanism: fluency bias is about processing ease signaling truth (trusting AI output); artificial confidence is about social comparison signaling relative ability (dismissing AI as inferior and feeling more capable by comparison). Both distort self-assessment but through different pathways.
-- [[capacity-erosion]] - Huffstadt (2026) shows fluency creates a satisfaction illusion that masks motivational erosion
+- [[capacity-erosion]] - unnoticed erosion is a hypothesis, not an outcome measured by Huffstadt
 - [[effort-heuristic]] - inverse effect: AI's effortlessness makes solo effort feel like a bug
 - [[stadler-cognitive-ease-cost-2024]] — CLT-anchored evidence: reduced cognitive load on LLM use fully mediates the drop in justification quality
 - [[disclosure-penalty]] — Meincke et al. (2026) show source-disclosure can interrupt fluency-driven trust formation, but only partially: even with disclosure, AI ethical advice is preferred in 46.8% of choices

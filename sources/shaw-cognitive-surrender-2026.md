@@ -22,7 +22,7 @@ When people have access to AI, they frequently adopt its outputs with minimal sc
 
 ## Relevance
 
-Provides the first structured experimental evidence for how AI displaces internal reasoning processes, with a clear theoretical framework (Tri-System Theory) and measurable individual-difference predictors. Directly relevant to the KB's core concerns: cognitive sovereignty, erosion risk, and the distinction between adaptive and maladaptive AI use.
+Provides behavioral experiments interpreted through Tri-System Theory. Advice-following, overrides and confidence support a distinction between reliance patterns; they do not directly measure System 2 or demonstrate long-term skill erosion.
 
 ## Key Findings
 
@@ -32,7 +32,7 @@ Provides the first structured experimental evidence for how AI displaces interna
 - Time pressure did not eliminate surrender (Study 2)
 - Incentives + item-level feedback doubled override rates on faulty trials but did not eliminate the surrender pattern (Study 3)
 - Higher trust in AI, lower need for cognition, and lower fluid intelligence predicted greater surrender
-- On AI-faulty trials: 73.2% showed surrender, 19.7% showed offloading, 7.1% were failed overrides
+- Across studies, on AI-engaged faulty trials: 73.2% followed the faulty answer, 19.7% successfully overrode it, and 7.1% made failed overrides. Study 1's 20.2% all-override rate is not a successful-override rate.
 
 ## Supports
 
@@ -41,5 +41,5 @@ Provides the first structured experimental evidence for how AI displaces interna
 - [[cognitive-offloading]] - provides empirical contrast between offloading and surrender
 - [[automation-bias]] - extends understanding with surrender as a broader mechanism
 - [[confidence-competence-gap]] - demonstrates confidence inflation with AI use
-- [[metacognition]] - shows System 3 bypasses metacognitive monitoring
+- [[metacognition]] - behavioral evidence interpreted through a proposed monitoring mechanism
 - [[capacity-erosion]] - implies erosion through habitual surrender (not directly tested longitudinally)

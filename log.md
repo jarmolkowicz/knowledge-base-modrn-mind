@@ -77,4 +77,12 @@ Parseable: `grep "^## \[" log.md | tail -20` shows recent activity.
 - Julia integrations and partial-automation correction committed as `106aff9`; no push, unrelated edits excluded.
 - Seven gated maintenance updates resolve all nine previous KB warnings: six source links, Fernandes's explanatory-depth link, and verified Mollick/Nosta excerpt sections. Four exact quotation checks passed. Whole-KB linter: zero findings; counts remain 204 entries.
 - Three separate reviewers checked older claims in nine entries. Eight need substantive corrections; recommendations saved, not integrated. Mechanical checks do not certify those claims.
-- Drafts, review decisions, evidence ledgers and next decision: [maintenance report](raw/kb-maintenance-2026-09-26/README.md).
+- Independent review records are retained locally as temporary material, outside Git.
+
+## [2026-09-26] correction | Approved older-claim evidence pass
+
+- User approved the bounded correction plan. Corrected 43 existing entries (17 concepts, 6 methods, 20 source notes), including repeated claims; no new sources.
+- Corrected Wu/Folk contradictions, Fernandes AUC interpretation, Shaw conditional rates, Vaccaro significance and Dell'Acqua comparison labels. Narrowed causal/long-term claims; missing originals explicitly unverified.
+- Recorded three-lens self-critique and zero-finding draft gate before integration. All 43 public entries match retained drafts; whole-KB linter zero findings. Index refreshed; counts remain 204.
+- Four evidence-status reductions; 24 selected recent Julia passages preserved verbatim. Original source workbenches and historical reviews untouched. Temporary/cache/binary exclusions remain in force.
+- Saved in a correction-only local commit; no push. Unrelated and concurrent work left untouched.

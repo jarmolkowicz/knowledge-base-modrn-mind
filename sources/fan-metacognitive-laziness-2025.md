@@ -82,7 +82,7 @@ The first peer-reviewed RCT to operationalise and measure metacognitive laziness
 - Aligns with [[shaw-cognitive-surrender-2026]] — Shaw and Nave's "surrender" finding (uncritical acceptance of AI output) is the within-task analogue of Fan's metacognitive laziness. Shaw measures one-shot surrender; Fan measures sustained regulation pattern across a task.
 - Aligns with [[kosmyna-cognitive-debt-2025]] — Kosmyna et al. report neural correlates (lower brain connectivity in LLM users); Fan reports behavioural correlates (fewer metacognitive transitions). Same phenomenon viewed at different layers.
 - Anticipated by [[bjork-desirable-difficulties-2011]] — the Bjorks' insight that performance and learning dissociate under conditions of low difficulty maps directly onto Fan's RCT result: easier task completion (with AI) produced better immediate scores but no transfer advantage.
-- Modifies the implication of [[strategic-alternation]] — Fan's mechanism story suggests that simply alternating between AI and non-AI work is insufficient; the protective intervention must be *integrated, non-optional metacognitive prompts* (per Lodge & Loble's reading, supported by Darvishi et al. 2024 cited in metacognitive-laziness.md).
+- [[strategic-alternation]] — the study motivates questions about regulation during a task. [Unverified source] The earlier claim that non-optional prompts are the required protective intervention relied on a Lodge/Loble account whose original is missing locally.
 
 ## Open Questions
 

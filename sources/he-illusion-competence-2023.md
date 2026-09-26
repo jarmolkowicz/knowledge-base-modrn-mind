@@ -18,7 +18,7 @@ Paper
 
 ## Key Insight
 
-The Dunning-Kruger Effect directly shapes AI reliance patterns: people who overestimate their own competence under-rely on AI (missing its value), while a tutorial intervention that reveals their actual performance improves calibration for overestimators but can hurt the reliance of underestimators — a double-edged intervention.
+Inflated self-assessment was associated with under-reliance on accurate AI advice. A feedback tutorial improved self-assessment, but underestimators showed worse appropriate reliance and performance. These outcomes should not be collapsed into one calibration measure; the pre-existing self-assessment association is not a randomized causal effect.
 
 ## Relevance
 
@@ -37,4 +37,4 @@ Provides empirical evidence that metacognitive bias (specifically DKE) is a conc
 
 - [[confidence-competence-gap]] - DKE as a specific mechanism: overestimators dismiss AI because they overrate themselves
 - [[calibration]] - tutorial intervention as calibration tool, with important caveat about asymmetric effects
-- [[metacognition]] - metacognitive bias (DKE) directly shapes AI reliance behavior
+- [[metacognition]] - self-assessment was associated with reliance behavior

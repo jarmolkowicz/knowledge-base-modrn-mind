@@ -15,7 +15,7 @@ sources:
 
 The capacity to act wisely in situations where rules by themselves are insufficient. Not a single skill but a cluster of distinct capabilities: evaluating quality, reading context, weighing tradeoffs, anticipating consequences, and accepting accountability under uncertainty.
 
-Gonzalez et al. (2026) reinforce the non-delegable nature of human judgment from a team science perspective. In human-AI teams, humans must remain "the locus of ethical authority and accountability in consequential decisions." AI systems "cannot hold moral agency or be held responsible for harm" — this asymmetry makes human judgment structurally irreplaceable regardless of AI capability improvements.
+[Unverified source] Earlier quotations about human ethical authority were attributed to Gonzalez et al. (2026), but no matching original or source entry was found locally. Those quotations are not verified. [Inference] Keep responsibility for consequential decisions explicit when allocating work between people and AI.
 
 ## Why It Matters
 
@@ -23,7 +23,7 @@ Judgment is the meta-capability that makes all other AI-era skills valuable. Dom
 
 ## Key Insight
 
-Duncan (2026) proposes a practitioner framework distinguishing five types of judgment. This is his organizational taxonomy drawn from consulting and leadership practice — not an established cognitive science classification — but it offers useful vocabulary for professionals navigating AI:
+[Unverified source] The five-part practitioner taxonomy below was previously attributed to Duncan (2026). The local audit did not locate its original. Retain it as provisional vocabulary, not a verified attribution or established cognitive-science classification:
 
 1. **Evaluative** — Assessing quality (good/bad, strong/weak). "Is this AI output actually good, or does it just look good?"
 2. **Contextual** — Knowing when exceptions override general rules. "This standard approach won't work here because..."
@@ -31,28 +31,28 @@ Duncan (2026) proposes a practitioner framework distinguishing five types of jud
 4. **Anticipatory** — Recognizing second-order consequences. "If we do this, then..."
 5. **Ownership** — Accepting personal accountability under uncertainty. "I'll stand behind this decision even without full information."
 
-Each type develops through different experiences and erodes through different mechanisms of AI over-reliance.
+[Speculation] Different tasks may offer different opportunities to practise these forms of judgment. The cited evidence does not establish five distinct mechanisms of AI-related erosion.
 
 ### Judgment in Human-AI Teams
 
-The complementarity framework identifies specific roles for human judgment in teams:
+[Inference] The provisional [[complementarity-framework]] offers the following questions about allocating judgment and responsibility; these roles are design proposals, not proven necessary conditions for team performance:
 
 - **Ethical authority** — Adjudicating competing values, weighing tradeoffs, and making fairness decisions that require empathy and contextual norms. AI can surface disparities and flag inconsistencies, but humans must adjudicate.
 - **Contextual reasoning** — Interpreting ambiguous or novel situations using tacit, experiential, and embodied knowledge that AI does not possess.
 - **Override authority** — Knowing when to challenge or override AI recommendations, especially when AI fails silently with high confidence in unfamiliar conditions.
 - **Improvisation** — Dynamic replanning and navigating unstructured environments where AI coordination strategies become brittle.
 
-The paper emphasizes that in safety-critical or value-laden decisions, AI must function as a "low-agency advisor" because human accountability cannot be delegated. This aligns with Duncan's "Ownership" judgment type — accepting accountability under uncertainty — but extends it to the team context.
+[Inference] In consequential decisions, define what an AI can recommend, what a person must check and who is answerable for the result. The earlier low-agency-advisor wording attributed to the missing Gonzalez source is not treated as a verified quotation.
 
-Leonardi & Leavell (2026) demonstrate a specific organizational mechanism by which AI undermines expert judgment. When AI generates representations that appear authoritative and unambiguous ([[artificial-certainty]]), non-expert stakeholders conclude that expert guidance is unnecessary — precisely when such mediation is most essential. The paper reframes process expertise as interpretive work that maintains useful levels of uncertainty, and shows that experts who "modulate" AI outputs (tempering their certainty) preserve their authority, while those who "enhance" AI capabilities lose it. This connects to Duncan's "Contextual" and "Evaluative" judgment types: the process expert's judgment lies in knowing how much certainty a representation should convey.
+In two planning organizations, Leonardi & Leavell (2026) describe how authoritative-looking AI representations can undermine expert authority ([[artificial-certainty]]). Experts who tempered representations' apparent certainty preserved their interpretive role, while those who emphasized AI capabilities lost influence in the studied cases. This ethnographic account concerns organizational authority, not measured loss of expert judgment capability.
 
 ## The Judgment Development Paradox
 
-AI simultaneously increases the need for judgment and erodes the experiences that produce it. Traditional judgment developed through repetitive, low-stakes tasks with real consequences — junior consultants doing research, PMs writing specs, marketers creating from scratch. AI now generates these outputs instantly, eliminating the developmental struggle. See [[judgment-development-paradox]] for the full individual, organizational, and systemic dimensions of this challenge.
+[Inference] AI may reduce judgment-building practice when it replaces tasks through which novices learn. Whether this produces later judgment deficits depends on the task, remaining practice and feedback; it is not an inevitable consequence of faster output. See [[judgment-development-paradox]] for the proposed developmental concern.
 
 ## What Builds Judgment
 
-Borrowed from high-stakes fields (medicine, military):
+[Inference] Candidate practice formats, not interventions validated by this entry:
 - **Case-based learning** — studying decision scenarios with feedback
 - **Simulation** — risk-free environments for judgment practice
 - **Graduated responsibility** — increasing stakes as capability develops
@@ -66,15 +66,15 @@ Kahneman and Klein (2009) add a condition to these practices: the task must cont
 
 - [[metacognition]] - awareness of your own judgment process
 - [[calibration]] - matching judgment confidence to actual capability
-- [[capacity-erosion]] - judgment erodes when developmental experiences disappear
+- [[capacity-erosion]] - possible loss of established capability; distinguish from missed learning
 - [[novice-vulnerability]] - juniors lose judgment-building experiences first
 - [[desirable-difficulty]] - the productive struggle that builds judgment
 - [[zone-of-proximal-development]] - graduated responsibility mirrors scaffolding theory
 - [[confidence-competence-gap]] - judgment gap is invisible until tested
 - [[judgment-development-paradox]] - the paradox explored in depth
-- [[human-ai-complementarity]] - judgment is structurally irreplaceable in complementary teams
+- [[human-ai-complementarity]] - evaluate the human contribution and relevant performance baselines
 - [[complementarity-framework]] - human judgment anchors the reasoning dimension
-- [[artificial-certainty]] - AI-generated representations that bypass expert judgment (Leonardi & Leavell 2026)
+- [[artificial-certainty]] - AI representations can change expert authority in organizational cases
 
 - [[calibration]] — assess task validity and feedback history before relying on intuitive evaluation.
 

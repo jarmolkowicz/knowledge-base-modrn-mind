@@ -1,8 +1,7 @@
 ---
-status: solid
+status: emerging
 area: [risk]
 sources:
-  - "Scispace Literature Synthesis (2025)"
   - "Nikolova et al. (2024)"
   - "de Mello et al. (2026)"
   - "Alessandro et al. (2025)"
@@ -22,76 +21,65 @@ sources:
 
 ## What It Is
 
-Heavy AI use can erode professional identity—the sense of being a creator, craftsperson, or expert. Professionals report feeling like "editors" rather than "creators" when AI does substantial work.
+Professional identity threat concerns perceived challenges to being a creator, craftsperson or expert. AI-related changes in work may raise such concerns, but identity, authorship, self-efficacy, alienation and skill are different constructs. The evidence below does not establish a universal sequence from heavy AI use to identity erosion.
 
 Jia, Ning and Liu's (2025) review distinguishes employees' AI use, algorithmic management, replacement-related perceptions, and AI skills. These are not interchangeable measures of exposure. The review maps both resource gains and threats, with outcomes varying across tasks, workplace conditions and employee appraisals. [Inference] An identity-threat claim should name what changed—control over work, task ownership, evaluation, or perceived job security—and what was actually measured, rather than treating AI presence alone as its cause.
 
 ## Why It Matters
 
-Professional identity is tied to psychological well-being, not just capability. Even if output quality is maintained, the loss of authorship and craftsmanship affects motivation, satisfaction, and sense of meaning in work.
+[Inference] Assess authorship, motivation, satisfaction and meaning separately from output quality. A good output does not show that these experiences are preserved; a change in one does not establish a change in all.
 
-Handa et al. (2025) supply the breadth dimension to identity-threat claims. In ~4M Claude.ai conversations mapped to U.S. Department of Labor O*NET tasks, **~36% of occupations show AI usage in at least 25% of their associated tasks**; **~11% see usage in at least half their tasks**; only ~4% see usage across at least 75% of tasks [p.7]. This puts a quantitative floor on which professions face identity-mediation pressure today: roughly a third of occupations have meaningful AI penetration into their task portfolios, but deep penetration across most tasks remains rare. Handa et al. summarize: "Rather than completely automating entire job roles, present-day AI appears to be primarily used for specific tasks within occupations" [p.7].
+Handa et al. (2025) mapped approximately four million Claude.ai conversations to occupational tasks. About 36% of occupations had observed usage in at least 25% of associated tasks, about 11% in at least half, and about 4% in at least 75% (p.7). These are task-coverage statistics, not the proportion of workers using AI or experiencing identity threat.
 
-The professional-identity implication is partial-but-not-wholesale: the entry's "editor not creator" pattern is not (yet) the experience of practitioners across most of their work. It is the experience of practitioners on specific tasks — predominantly writing, content generation, and software development tasks where Directive (full-delegation) patterns dominate [p.9–10]. This refines the entry's framing: identity threat at scale is task-shaped, not role-shaped, and most acute in the specific bachelor's-degree-level cognitive work that Job Zone 4 captures (peak usage band per Handa et al. [p.8–9]).
+The mapped conversations need not come from people employed in the assigned occupation, and downstream use is unknown. Handa et al. did not measure professional identity. Their occupational usage patterns therefore cannot rank professions by identity risk or establish that the editor-versus-creator experience is widespread.
 
-[Inference] The narrowing matters because identity threat may be more manageable when localized to specific tasks (the practitioner retains the rest of their role to anchor identity in) than when it permeates an occupation. The Handa data are consistent with the Hai et al. (2025) within-person finding that identity threat fluctuates day-to-day with collaboration intensity — both suggest the threat operates at task and session level rather than as a chronic, role-wide displacement.
+[Inference] Ask which tasks and work relationships a person experiences as threatened. Handa's usage data and Hai's daily alienation measures cannot by themselves establish the prevalence, chronicity or task-level distribution of professional identity threat.
 
 Baumeister et al. (2013) provide a non-AI foundation for separating happiness from meaningfulness. In an exploratory three-wave survey, the two were positively related, but self-expression and contribution showed different associations with meaning than happiness after each outcome was controlled for the other. These adjusted relationships are not causal effects and can differ from unadjusted relationships (PDF pp.5–6, 10–14). [Inference] Evaluating AI-assisted work should ask separately about satisfaction, meaning and authorship, rather than use greater ease or happiness as proof that professional identity is preserved.
 
 ## Key Insight
 
-From research:
-- Professionals whose work is heavily AI-mediated report lower sense of craftsmanship
-- Common sentiment: "I feel like an editor, not a creator"
-- Mechanism: Loss of authorship → diminished professional identity
-- Attribution ambiguity: Unclear if success is due to self or AI → undermines self-efficacy
+[Inference] Questions for discussing identity-related concerns:
 
-Keshky (2026) provides SEM evidence for a specific mechanism: cognitive dependence on GenAI leads to "intellectual identity distortion" — a construct distinct from but complementary to professional identity threat. While existing research focuses on feeling like "an editor, not a creator" (role identity), Keshky identifies distortion at the *cognitive identity* level — who you think you are as a thinker. Three dimensions (N=393):
+- Does the person feel less authorship over the work?
+- Is success attributed to personal skill, AI, or both?
+- Has their role or sense of craftsmanship changed?
+
+The earlier editor-not-creator quotation lacked a traceable primary attribution. It is not retained as a verified participant quote or a prevalence claim.
+
+Keshky (2026) reports a cross-sectional SEM study (N=393) using researcher-developed scales for cognitive dependence, illusory competence and intellectual identity distortion. The latter is distinct from occupational identity. The scale organizes reported experiences into three dimensions:
 
 1. **Dissolution of the thinking self** — loss of one's role as an original source of thought and idea generation, due to near-complete dependence on AI tools
 2. **Retreat of knowledge ownership** — confusion about whether ideas are self-generated or AI-generated; blurred authorship of knowledge
 3. **Disturbance of cognitive self-concept** — disrupted understanding of one's own intellectual capabilities and identity
 
-Direct effect from cognitive dependence to identity distortion: beta = 0.60 (p < .001). But the indirect path through illusory competence inflation (beta = 0.35, p = .05) reveals the mechanism: AI dependence inflates confidence, and that inflated confidence masks the erosion of intellectual self-concept. You feel more capable while simultaneously losing your sense of yourself as an independent thinker.
+The model reports a dependence–identity-distortion path of β=.60 and an indirect path through illusory competence of β=.35. The indirect-path p-value is inconsistent across sections (.04 in the English abstract/results table, .05 elsewhere), so no single p-value is promoted here. These associations fit the proposed mediation model; temporal order and causal mechanism remain unestablished.
 
 Callari and Puppione (2025) add a more varied workplace picture. In open-ended responses from 357 Copilot trial users, some protected meaning by limiting AI to routine tasks; others valued refining an assistant's ideas or seeking an expert-like sparring partner. All three orientations could express a wish to retain authority and expertise. These qualitative accounts show how employees interpret their role, not whether independent skills were preserved. They caution against treating intensive adoption as either inherently threatening or inherently more mature.
 
 ## Psychological Impact
 
-- Heavy AI use → "editor not creator" feeling
-- Loss of authorship → diminished identity
-- Success attribution unclear → weakened self-efficacy
-- Reduced sense of ownership over work
+The constructs below concern different kinds of experience. Keshky's dependence–competence–identity pathway is a proposed interpretation of cross-sectional associations, not a demonstrated progression from false confidence to identity loss.
 
-Keshky's model adds a causal sequence not previously documented:
-```
-AI dependence -> Inflated competence beliefs -> Intellectual identity distortion
-```
+de Mello et al. (2026) examine moral judgments about AI use. [Inference] Concern about colleagues' or clients' judgments may add to identity-related strain, but it should not be assumed to cause or compound measured identity erosion in every setting.
 
-This suggests professional identity threat isn't just an emotional response to AI replacing tasks. It has a cognitive pathway: when AI dependence produces false confidence (illusory competence inflation), that false confidence eventually distorts the deeper sense of who you are intellectually. The erosion moves from task-level (I feel like an editor) to identity-level (I no longer know if I'm the thinker).
+Alessandro et al. (2025) randomized AI-versus-human evaluation conditions across three experiments (total N=571) and found differences in self-objectification and self-efficacy. Measured indirect paths were consistent with a self-efficacy account; the mediators were not independently randomized. Professional identity erosion was not measured, and this AI-evaluation context differs from using AI to create work.
 
-de Mello et al. (2026) add an external dimension to professional identity threat: not only do professionals feel internal identity erosion from AI use, but others may morally judge them for using AI. This moral judgment from colleagues, clients, or the public compounds the internal threat with external social cost. The moralization of AI means that using AI tools can trigger not just "am I still a creator?" but "will others see me as cheating?"
+Hermann, Puntoni & Morewedge (2025), in an Opinion article, apply Basic Psychological Needs Theory to possible gains and frustrations involving competence, autonomy and relatedness. Their account links these needs to possible identity concerns; it is not a joint causal test of an identity-threat mechanism. They propose five compensatory response categories, discussed in [[identity-threat-coping]], and a possible [[paradox-of-expertise]]. The proposed novice/expert risks require context-specific evidence.
 
-Alessandro et al. (2025) add a self-objectification dimension to professional identity threat. In three experiments (~571 participants), being evaluated by an AI system (vs. a human) increased self-objectification — participants attributed fewer mental states to themselves. The mechanism: AI evaluation reduces self-efficacy, which triggers self-objectification (seeing oneself as data/object rather than agent). This is distinct from the "editor not creator" dynamic — here, the person is not using AI but being processed *by* it, yet the identity erosion follows a similar pattern.
+Hai et al. (2025) report 1,050 daily observations from 229 service-industry employees in China. Greater daily GenAI collaboration was associated with same-day work alienation (γ=.14, p<.001). Work alienation measures felt disconnection from work, not professional identity or skill erosion. [Inference] It may be relevant to identity concerns, but the constructs should not be equated.
 
-Hermann, Puntoni & Morewedge (2025) embed professional identity threat in a fuller Self-Determination Theory frame: the three psychological needs (competence, autonomy, relatedness) are not independent risk axes but a single integrated structure (Basic Psychological Needs Theory; Ryan & Deci, 2017; meta-analytical support in Van den Broeck et al., 2016). Identity threat in this view is not a free-standing construct but a downstream consequence of need-frustration along one or more of the three axes — competence frustration (deskilling, feeling redundant), autonomy frustration (loss of control, "algorithmic cage," surveillance), and relatedness frustration (social isolation, dehumanization of coworkers). The review also documents the [[paradox-of-expertise]] — high-skilled workers disregard GenAI due to overestimated self-perceived expertise, marginalizing themselves in GenAI-augmented environments — as a senior-level mirror of the [[novice-vulnerability]] pattern, both rooted in misaligned self-assessment under GenAI-mediated work. Workers respond to these threats with five compensatory strategies (direct resolution, symbolic self-completion, dissociation, escapism, fluid compensation) — see the new method [[identity-threat-coping]].
+The collaboration–alienation association differed by digital job demands: γ=.34 at high demands and γ=.04, nonsignificant, at low demands. Low demands were not a randomized, well-resourced intervention. A nonsignificant association does not establish absence of harm or preservation of meaning.
 
-Hai et al. (2025) add the strongest available daily-field empirical anchor for the identity-threat-as-meaning-erosion thesis. Across 1,050 within-person observations from 229 service-industry employees in China, daily GenAI collaboration intensity predicted same-day work alienation (γ = .14, p < .001) — a felt disconnection from "events in my workplace," a wish to be "doing something else," and disillusionment with one's work. This is the same identity-and-meaning erosion the entry already describes, observed not as a chronic between-person syndrome but as **day-to-day within-person fluctuation tied to that day's GenAI collaboration intensity** (25.9% within-person variance in alienation, justifying multilevel modeling).
-
-The pathway is moderated by **digital job demands**: under high demands, the GenAI → alienation effect is large (γ = .34, p < .001); under low demands, it is non-significant (γ = .04, p > .05). This sharpens the deployment-context picture: identity threat is not a uniform consequence of GenAI use, but is amplified in environments where employees must continuously navigate digital tools, manage information overload, and operate under prolonged digital connectivity. Where digital demands are well-resourced and bounded, daily GenAI collaboration does not measurably erode meaning.
-
-Most consequentially for the entry, Hai et al. document a *behavioral downstream* of the identity-and-meaning erosion that prior KB sources have not captured: alienation predicts **employee expediency** (γ = .30, p < .01) — cutting corners, manipulating performance metrics, ignoring protocols, enforcing rules only when self-serving. The full indirect path (GenAI collaboration → alienation → expediency) is significant under high digital demands (estimate = .06, CI [.010, .118]) and non-significant under low demands. This adds a new face to the identity-threat construct: the threat does not only damage the worker (felt meaning, self-efficacy, ownership); it can channel into self-serving withdrawal of ethical engagement that damages the organization. The mechanism is recognizable from the entry's existing frame — when authorship and craftsmanship feel hollowed out, commitment to ethical standards may wane in parallel.
+Alienation was associated with self-reported employee expediency (γ=.30, p<.01). The estimated indirect association through alienation was significant at high digital demands (.06; CI [.010,.118]) but not low demands. This is not proof that AI causes ethical withdrawal, or that the pathway represents identity erosion.
 
 Zhao and He (2024) provide a specific mechanism: [[ai-impostor-phenomenon|impostor thoughts]] after AI-assisted success. In a randomized writing task, AI access increased reported impostor thoughts (d = 0.43). A separate three-wave survey associated these thoughts with less self-reported knowledge sharing and helping. The experiments support an effect on impostor thoughts; the downstream social pathway remains observational. This short proceedings paper has incomplete attrition reporting and an inconsistent subgroup significance statement, so it should be treated as emerging evidence. See [[zhao-he-ai-impostor-2024]].
 
 Wang and Zhou (2025) surveyed 434 university faculty in China. Greater concern that AI could replace their role was associated with greater self-reported burnout; perceived organizational support and commitment were associated with less burnout. Here, “AI awareness” means replacement concerns, not AI literacy or measured adoption. The cross-sectional survey does not establish that AI caused burnout, that skills declined, or that the proposed support programs would reduce strain (PDF pp.4–10).
 
-## Restorative Effect
+## Proposed Support
 
-Unassisted work may restore sense of authorship:
-- "I did this myself" → stronger self-efficacy
-- Clear attribution → identity reinforcement
-- Trade-off: productivity pressure remains
+[Speculation] Unaided practice may help some people clarify authorship or regain confidence. The cited evidence does not establish that it restores professional identity. Discuss the person's work conditions and goals, and assess any proposed support rather than assuming a benefit.
 
 ## Self-Determination Theory Connection
 
@@ -100,28 +88,28 @@ Three psychological needs affected:
 - **Competence**: AI may make personal skill feel irrelevant
 - **Relatedness**: AI-mediated work may feel disconnected
 
-Nikolova et al. (2024) provide empirical evidence for this: automation reduces workers' sense of meaning and self-determination, even when job security is maintained. The effect persists across industries and roles. While Nikolova et al. studied industrial automation and robotics, the mechanism is consistent with reports from AI-assisted knowledge workers — suggesting the identity threat isn't just a feeling but a measurable psychological outcome of having meaningful work absorbed by automation.
+Nikolova et al. (2024) studied industrial-robot exposure, not generative AI. Their evidence links robotization with lower meaningfulness and autonomy, with variation by task and role; competence and relatedness findings were less robust. Generalization to GenAI-supported knowledge work remains an inference.
 
-Wu et al. (2025) supply a pre-registered experimental anchor for the autonomy-and-motivation faces of identity threat. In four online experiments (total N = 3,562 Prolific UK), task transitions involving GenAI collaboration produced consistent effects on intrinsic motivation: Collab→Solo transitions reduced intrinsic motivation by d = -0.32 to -0.51 (medium effect across Studies 1–4), with replicating Task × Condition interactions in Studies 1, 3, and 4. Boredom rose by d = 0.32–0.51 across the same studies. Critically, Study 4 (N = 1,624) shows the autonomy frustration is not just a Collab→Solo effect: the Solo→Collab transition produced the steepest sense-of-control drop in the paper (Δ = -1.01, d = 0.84). The presence of GenAI suppresses autonomy regardless of transition direction, while transitioning out of collaboration restores it. Sustained collaboration (Collab-Collab) maintained stable but suppressed control and did not buffer motivation decline or boredom increases.
+Wu et al. (2025) ran four preregistered online experiments (total N=3,562) on two-task sequences. The reported Collab→Solo motivation declines (d=−.32 to −.51) and boredom increases (d=.32–.51) describe within-condition task changes, not AI-versus-control effect sizes; some interactions were nonsignificant. In Study 4, Solo→Collab showed a control drop of Δ=−1.01 (d=.84). Sustained collaboration did not prevent boredom increasing, but reduced its increase relative to Collab→Solo (interaction p=.028). These are short-term task outcomes, not lasting professional identity change.
 
-This is the experimental causal counterpart to Hai et al.'s within-person field ESM evidence: where Hai shows daily collaboration intensity predicts same-day work alienation in real workplace data, Wu et al. show that pre-registered task-level manipulations of GenAI presence reproduce the autonomy- and motivation-frustration pattern under controlled conditions. Both anchor the BPNT-mediated identity-threat thesis in third-design-family evidence (lab RCT) beyond the SDT review (Hermann et al.), the within-person field ESM (Hai et al.), and the passive-vs-active mode-of-use experiment (Lee et al.).
+Wu's experiments, Hai's observational field study and Hermann's theoretical review address different constructs and designs. Together they motivate questions about work experience; they do not establish one shared BPNT-mediated identity-threat pathway.
 
 ## Related
 
-- [[cognitive-debt]] - capability dimension of this
-- [[strategic-alternation]] - practice that restores identity
-- [[think-first]] - preserves authorship
+- [[cognitive-debt]] - related capability concern, distinct from identity
+- [[strategic-alternation]] - proposed practice approach; identity restoration not established
+- [[think-first]] - proposed practice; identity restoration not established
 - [[affective-trust-deficit]] - relational dimension
-- [[capacity-erosion]] - identity erosion is a dimension of capacity erosion
+- [[capacity-erosion]] - capability loss is distinct from identity threat
 - [[ai-moralization]] - external moral judgment adds social cost to the internal identity threat
-- [[ai-self-efficacy-erosion]] - self-objectification through AI evaluation as identity threat mechanism
-- [[confidence-competence-gap]] - Keshky shows the gap mediates identity distortion
-- [[amathia-drift]] - intellectual identity distortion as endpoint of drift
-- [[paradox-of-expertise]] - senior-level mirror of identity threat: experts who refuse to adopt GenAI marginalize themselves
-- [[identity-threat-coping]] - the five compensatory strategies workers use in response
-- [[hai-dark-side-collaboration-2025]] - daily-ESM field evidence that identity-threat operates at within-person daily level and channels into expedient unethical behavior
-- [[handa-economic-tasks-claude-2025]] - production-scale breadth dimension: ~36% of occupations have ≥25% of tasks with AI usage but only ~4% have ≥75%; identity-threat pressure is task-shaped at scale, not role-shaped
-- [[wu-collaboration-motivation-2025]] - pre-registered RCT (N = 3,562) experimental causal evidence for the motivation-and-boredom face of identity threat: GenAI collaboration reduces intrinsic motivation (d = -0.32 to -0.51) and increases boredom (d = 0.32–0.51) across task transitions; sustained collaboration does not buffer the effect
+- [[ai-self-efficacy-erosion]] - evaluation-related outcomes, not a demonstrated professional-identity mechanism
+- [[confidence-competence-gap]] - Keshky's proposed cross-sectional mediation model
+- [[amathia-drift]] - possible conceptual connection; no developmental endpoint tested here
+- [[paradox-of-expertise]] - proposed expertise-related tensions; no universal adoption prescription
+- [[identity-threat-coping]] - five proposed response categories, not a validated diagnostic tool
+- [[hai-dark-side-collaboration-2025]] - daily associations among collaboration, work alienation and self-reported expediency
+- [[handa-economic-tasks-claude-2025]] - occupational task-coverage data, not identity-risk prevalence
+- [[wu-collaboration-motivation-2025]] - short-term experimental control, motivation and boredom outcomes; professional identity not measured
 
 - [[ai-work-practice-ideal-types]] — descriptive orientations for discussing delegation, expertise, and support needs.
 
@@ -129,7 +117,6 @@ This is the experimental causal counterpart to Hai et al.'s within-person field 
 
 ## Sources
 
-- Scispace Literature Synthesis (2025)
 - [[nikolova-robots-meaning-2024]] — Nikolova et al. (2024)
 - de Mello et al. (2026)
 - [[alessandro-self-efficacy-2025]] — Alessandro et al. (2025)

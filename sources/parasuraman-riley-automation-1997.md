@@ -81,7 +81,7 @@ The conceptual scaffolding for almost everything in the KB about over-trust and 
 ## Contradicts / Extends
 
 - Anticipates [[dellacqua-jagged-frontier-2023]] — Dell'Acqua's "jagged frontier" is the modern restatement of the automation-bias point: when AI is right, overreliance is fine; when AI is wrong, the human's failure to monitor is catastrophic, and the line between right and wrong shifts unpredictably.
-- Aligns with [[shaw-cognitive-surrender-2026]] — Shaw and Nave's empirical finding that ~80% of trials with faulty AI showed user "surrender" (uncritical acceptance) is the contemporary measurement of what Parasuraman and Riley named overreliance/automation-bias from accident-investigation evidence.
+- Aligns with [[shaw-cognitive-surrender-2026]] — Shaw and Nave's Study 1 finding that 79.8% of AI-engaged faulty trials involved acceptance of the faulty answer is the contemporary measurement of what Parasuraman and Riley named overreliance/automation-bias from accident-investigation evidence.
 - The taxonomy itself benefits from a contemporary extension. AI knowledge work introduces a fifth mode the original paper couldn't anticipate — the case where the *output* of automation looks fluent and confident regardless of whether the underlying process succeeded ([[fluency-bias]], [[coherence-trap]]). In hardware control loops, an autopilot's failure mode is usually visible as anomalous behavior; in LLM output, failure modes can be undetectable from surface form.
 
 ## Open Questions

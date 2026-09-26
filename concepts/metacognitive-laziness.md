@@ -36,7 +36,9 @@ Fan et al. (2025) define metacognitive laziness as "learners' dependence on AI a
 
 A practical implication from the same study: ChatGPT's advantage was strongest on rubric-aligned scoring. The same property that makes AI useful for criterion-driven assessment is what enables metacognitive bypass — students discovered they could optimise the rubric via the AI without exercising the underlying skills. Assessment design that decouples performance from rubric-optimisability is a structural counter-measure.
 
-Lodge & Loble (2026) note that simply adding SRL prompts failed when AI dominated the interaction (Darvishi et al. 2024); only integrated, non-optional metacognitive pauses successfully countered the effect.
+[Unverified source] No matching local original was found for the attribution below. Its claims and quoted wording are not verified and should not be cited as established evidence.
+
+[Unverified account] Lodge & Loble (2026) note that simply adding SRL prompts failed when AI dominated the interaction (Darvishi et al. 2024); only integrated, non-optional metacognitive pauses successfully countered the effect.
 
 Bartoš et al. (2026) position metacognitive laziness within a broader umbrella explanation for why the published meta-analytic literature on AI-and-learning fails to show robust effects once publication bias is corrected. In the Discussion [p.22], they explicitly invoke "task stewardship" (Lee et al. 2025), cognitive offloading mediation (Gerlich 2025), and reduced engagement / poorer memory encoding under LLM-assisted writing (Kosmyna et al. 2025) as the mechanisms behind the umbrella's null result. The umbrella's bias-adjusted central estimate (SMD = 0.196 [0.000, 0.323]) and extreme heterogeneity (τ = 0.869) at the field level are consistent with metacognitive laziness operating as a systematic counter-force against the surface-level performance gains that AI assistance produces during learning tasks.
 

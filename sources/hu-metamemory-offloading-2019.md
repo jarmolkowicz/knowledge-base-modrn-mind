@@ -22,16 +22,16 @@ Across four experiments, participants' confidence judgments about their own memo
 
 ## Relevance
 
-Provides the experimental and computational evidence that metamemory (confidence in future memory) drives offloading behavior. This is the mechanistic bridge between [[metacognition]] and [[cognitive-offloading]]: people don't just offload when tasks are hard — they offload when they *believe* their memory will fail. This matters for AI because anything that undermines memory confidence (including knowing AI is available) could increase offloading, creating a self-reinforcing cycle.
+Across experimental tasks, confidence was associated with use of saved information. The Bayesian model characterizes that association; confidence was not independently manipulated. [Speculation] An AI-driven confidence–offloading feedback loop may be worth testing, but this study does not demonstrate it.
 
 ## Key Findings
 
 - Participants adaptively saved the most difficult items
 - Confidence judgments predicted decisions to use saved information at retrieval
 - Bayesian model: beliefs about offloading benefit are negatively coupled to memory self-evaluation
-- Offloading improved memory performance when available, but the decision to offload was driven by metacognitive evaluation, not objective difficulty alone
+- Offloading improved memory performance when available, while use of saved information was associated with metacognitive evaluation, not objective difficulty alone
 
 ## Supports
 
-- [[cognitive-offloading]] - metamemory as the mechanism driving offloading decisions
-- [[metacognition]] - metamemory confidence as a specific, measurable driver of offloading behavior
+- [[cognitive-offloading]] - offloading decisions associated with memory confidence
+- [[metacognition]] - measurable confidence–behavior association, not an isolated causal effect

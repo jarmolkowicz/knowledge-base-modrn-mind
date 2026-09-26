@@ -1,5 +1,5 @@
 ---
-status: solid
+status: emerging
 area: [erosion]
 type: paper
 sources:
@@ -14,17 +14,14 @@ El Keshky, M. E. (2026). Illusory Competence Inflation as a Mediating Variable i
 Paper (mixed methods, SEM)
 
 ## Key Insight
-Models a structural pathway from cognitive dependence on GenAI to intellectual identity distortion, with illusory competence inflation as a mediating variable. The SEM model shows cognitive dependence has both a strong direct effect on identity distortion (beta = 0.60) and an indirect effect through inflated competence beliefs (beta = 0.35). This is one of the first empirical demonstrations of the full erosion chain: AI dependence -> false confidence -> identity disruption. Note: cross-sectional design means directionality is modeled, not established.
+
+A cross-sectional model associates cognitive dependence with intellectual identity distortion (β=.60), including an indirect path through illusory competence (β=.35). Researcher-developed self-report scales and SEM do not establish temporal order, causal mediation or a longitudinal erosion chain.
 
 ## Relevance
-Provides SEM-level structural evidence for mechanisms the KB describes conceptually. Particularly valuable for the "intellectual identity distortion" construct — a more specific and empirically grounded framing than the existing professional-identity-threat entry. Also validates the confidence-competence gap through the "illusory competence inflation" mediator.
 
-## Method
-- N = 393 postgraduate students (Saudi universities)
-- Three researcher-developed scales (psychometrically validated)
-- 11 semi-structured interviews (thematic analysis)
-- Structural equation modeling (SEM)
-- Interpreted through Cognitive Load Theory, Self-Authorship Theory, and I-PACE model
+Offers a proposed construct and an association model relevant to [[professional-identity-threat]] and the [[confidence-competence-gap]]. Intellectual identity distortion is not equivalent to professional identity, and the measures require further validation.
+
+
 
 ## Key Findings
 
@@ -50,8 +47,8 @@ Provides SEM-level structural evidence for mechanisms the KB describes conceptua
 ### SEM Results
 - Cognitive dependence -> Illusory competence inflation: beta = 0.90 (p < .001)
 - Cognitive dependence -> Intellectual identity distortion: beta = 0.60 (p < .001)
-- Indirect effect through illusory competence inflation: beta = 0.35 (p = .04)
-- Partial mediation confirmed
+- Indirect association through illusory competence inflation: beta = 0.35. The English abstract/results table report p=.04; other sections report p=.05. Reporting discrepancy unresolved.
+- Fitted partial-mediation model; causal mediation not established
 
 ## Limitations
 - Cross-sectional (causal language from SEM, but temporal order not established)

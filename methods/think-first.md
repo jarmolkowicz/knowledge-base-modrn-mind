@@ -9,6 +9,8 @@ sources:
 
 ## What To Do
 
+[Inference] The procedure and time ranges below are practice proposals, not an intervention validated by Shen and Tamkin's experiment.
+
 Do substantial solo work BEFORE any AI involvement. Generate your foundation first, then bring AI in to extend or challenge YOUR work.
 
 ## How To Do It
@@ -22,25 +24,25 @@ Do substantial solo work BEFORE any AI involvement. Generate your foundation fir
 
 ### Embrace the Error (Variant)
 
-Do not just think first — deliberately attempt and fail before consulting AI. The error encounter itself is the learning mechanism AI bypasses.
+[Inference] Try an initial attempt before seeking help when the learning goal and task safety permit it. Errors may offer feedback; their causal contribution was not isolated in the cited experiment.
 
 1. **Attempt the task without AI.** Do not aim for a perfect draft. Aim to hit the hard parts.
 2. **Let yourself get stuck.** When you encounter errors, confusion, or dead ends, work through them. This is the productive struggle.
 3. **Only after genuine struggle, consult AI.** You will now understand what you did not know — and the AI's answer will land on prepared ground.
 
-Shen & Tamkin (2026) found that control group participants (no AI) encountered ~3 errors per task vs. ~1 for AI users. Those error encounters drove skill formation: the control group scored 17% higher on comprehension despite no efficiency advantage. Errors are not obstacles to learning — they are the mechanism of learning.
+Shen & Tamkin (2026) observed more error encounters in the no-AI group and lower subsequent quiz performance with AI access. Error exposure was not independently randomized. These observations motivate a practice hypothesis, not proof that errors themselves caused the difference or that this think-first procedure prevents it.
 
-## Why It Works
+## Proposed Rationale
 
-Your brain does the cognitive work. AI scaffolds and challenges but doesn't replace your thinking. This preserves [[desirable-difficulty]] and prevents [[anchoring-bias]] to AI's initial output.
+[Inference] An initial independent attempt may preserve relevant practice and expose uncertainty before AI suggestions. Whether this reduces [[anchoring-bias]] or improves learning should be checked, not assumed.
 
 ## Related
 
 - [[strategic-alternation]] - Think-First is the primary mode
 - [[desirable-difficulty]] - what this practice preserves
-- [[capacity-erosion]] - what this practice prevents
+- [[capacity-erosion]] - a possible longer-term concern; prevention by this procedure untested
 - structured co-creation - the mode that follows Think-First: you provide seeds, AI expands
-- [[cognitive-offloading]] - error avoidance is a form of cognitive offloading that impairs skill formation
+- [[cognitive-offloading]] - delegating error resolution may reduce relevant practice; the specific causal contribution remains untested
 
 ## Sources
 

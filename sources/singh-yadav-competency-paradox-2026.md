@@ -20,7 +20,7 @@ Book (322 pages; theoretical synthesis with case studies; Springer Future of Bus
 
 ## Key Insight
 
-Singh Yadav argues that **AI's primary impact on knowledge work is not job replacement but competency erosion** — AI disrupts how expertise *develops* rather than whether jobs exist. The book's core thesis: AI creates an **AI-Competence Ceiling** where users plateau at the "competent" level (Dreyfus stage 3) because AI handles the productive struggle that drives progression to proficient (4) and expert (5).
+Singh Yadav proposes an AI-Competence Ceiling hypothesis: AI assistance might support competent performance while limiting practice needed for later proficiency. This Dreyfus-based account is a theoretical synthesis, not a measured developmental ceiling or an established effect of AI on every knowledge worker.
 
 Three KB-relevant constructs:
 
@@ -74,7 +74,7 @@ The book's core ideas largely synthesize threads already in the KB through empir
 ## Supports
 
 - [[performance-paradox]] — "augmentation illusion" is a broader framing of the same phenomenon
-- [[capacity-erosion]] — AI-Competence Ceiling provides a Dreyfus-grounded explanation
+- [[capacity-erosion]] — AI-Competence Ceiling is a Dreyfus-grounded hypothesis, not a validated explanation
 - [[novice-vulnerability]] — Dreyfus disruption analysis shows AI amplifies novice/beginner performance most
 - [[desirable-difficulty]] — extensive treatment of how cognitive technologies bypass productive struggle
 - [[cognitive-offloading]] — identified as one of four mechanisms creating the augmentation illusion
