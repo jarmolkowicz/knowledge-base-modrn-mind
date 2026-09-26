@@ -63,7 +63,7 @@ The study measures reported intellectual identity distortion through three dimen
 
 Confidence alone does not establish retained skill. An unaided assessment can test capability; the cited studies do not establish that degradation is always unnoticed until assistance is removed.
 
-Han et al. (2025) provide longitudinal evidence (N=442, 3-wave) for a mechanism that widens the confidence-competence gap: AI usage boosts self-efficacy, which increases willingness to take risks. Critically, for employees with low learning goal orientation, the self-efficacy boost does not translate into genuine risk-taking through the mediated path (CI includes zero) — suggesting their confidence is externally dependent on AI rather than rooted in internalized capability. This maps to the gap mechanism: AI makes people feel more capable and more willing to act on that feeling, even when the capability is borrowed.
+Han et al. (2025) found positive associations between reported AI use, self-efficacy and willingness to take risks in a three-wave employee survey (N=442). Learning goal orientation moderated the model, but a nonsignificant indirect association at low orientation does not establish shallow confidence or absence of genuine capability. Actual risk-taking, unaided skill and attribution of success were not measured. The study therefore does not demonstrate a confidence–competence gap.
 
 ## Metacognitive Illusion
 
@@ -91,7 +91,7 @@ Keshky includes resistance to feedback as a self-report scale dimension. This do
 - [[artificial-confidence]] - social comparison mechanism contributing to the gap
 - [[professional-identity-threat]] - Keshky models cross-sectional associations with intellectual identity distortion
 - [[borrowed-certainty]] - illusory self-efficacy dimension maps to borrowed certainty mechanism
-- [[agency]] - Han et al. (2025) show self-efficacy as mediator between AI use and behavioral risk-taking; inflated efficacy without learning orientation produces agency illusion
+- [[agency]] - Han's self-efficacy and willingness measures do not establish actual agency or competence
 - [[sycophancy]] - sycophantic AI widens the gap by validating misconceptions and inflating confidence
 - [[lee-critical-thinking-survey-2025]] - field-scale evidence for the directional confidence pair (confidence-in-AI undermines vs. confidence-in-self protects critical engagement)
 - [[illusion-of-explanatory-depth]] - the foundational metacognitive mechanism the gap rests on; Messeri & Crockett anchor this construct in AI-assisted science

@@ -18,3 +18,8 @@
 ## 2026-04-29T11:22:48Z — re-distilled (Pass 2 pilot)
 - Replaced sources/bjork-desirable-difficulties-2011.md with v2 draft
 - Added Key Passages with page locators, expanded Relevance, added new supports wikilinks
+
+## 2026-09-26 — priority audit correction integrated
+
+- A18: learner prerequisites and conditional learning benefits; AI application labeled inference.
+- User approved priority corrections; three-lens self-review and mechanical validation passed. Related entries corrected in the same batch. Original files and prior decisions unchanged.

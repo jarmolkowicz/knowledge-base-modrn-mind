@@ -51,6 +51,13 @@
       "outcome": "integrated",
       "date": "2026-04-30",
       "reason": "Source distillation moved to sources/bartos-ai-learning-meta-meta-2026.md. 5 UPDATE proposals applied to performance-paradox, novice-vulnerability, metacognitive-laziness, cognitive-debt, leveling-effect (each: 1 paragraph in body + 1 Related link + 1 frontmatter source line + 1 Sources section line). Auxiliary scripts run (sync-source-links, build-index, update_readme_counts: sources 60→61, total 124→125)."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved priority corrections",
+      "reason": "A03/A04: positive model-specific estimate; no mechanism inferred from bias adjustment; educational levels not individual skill comparisons. Approval: Make priority corrections. Drafted, three-lens self-critiqued and validated in local batch kb-priority-corrections-2026-09-26. Historical decisions and original files preserved."
     }
   ],
   "pages": 43

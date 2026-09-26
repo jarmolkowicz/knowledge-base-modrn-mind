@@ -30,6 +30,13 @@
       "by": "human (Pass 2 batch 6)",
       "at": "2026-04-29T15:41:22Z",
       "reason": "Re-distilled inline. Added Key Passages with locators, expanded Key Insight, supports wikilinks."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved priority corrections",
+      "reason": "A06: self-reported willingness; Scholz scale; no measured attribution or unaided competence. Approval: Make priority corrections. Drafted, three-lens self-critiqued and validated in local batch kb-priority-corrections-2026-09-26. Historical decisions and original files preserved."
     }
   ],
   "pages": 19

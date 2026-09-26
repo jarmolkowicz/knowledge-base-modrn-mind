@@ -42,3 +42,8 @@
 - KB-root log.md entry appended.
 - drafts/source.md removed; drafts/updates/* retained as evidence trail.
 - source.json status: triaged → integrated (final decisions[] entry appended).
+
+## 2026-09-26 — priority audit correction integrated
+
+- A05: same-session outcomes and exploratory load mediation, not durable learning.
+- User approved priority corrections; three-lens self-review and mechanical validation passed. Related entries corrected in the same batch. Original files and prior decisions unchanged.

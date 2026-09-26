@@ -42,7 +42,7 @@ The complementarity framework identifies a structural mechanism: AI systems can 
 
 Teams perform best when humans actively interrogate AI recommendations rather than passively accepting them (Vaccaro et al., 2024). Designing interfaces that surface uncertainty and rationales — rather than presenting clean recommendations — helps counter automation bias at the interaction level.
 
-Han et al. (2025) add a trust-dynamics dimension: AI usage boosts self-efficacy (B=0.524, p<.001), which in turn increases willingness to take risks. For employees with low learning goal orientation, this self-efficacy boost does not translate into genuine capability — the mediated path is non-significant — suggesting they trust the machine's contribution while misattributing it to themselves. This creates conditions for automation bias: inflated self-trust, born from AI-assisted success, reduces the perceived need for verification.
+Han et al. (2025) found positive associations between reported AI use, self-efficacy and willingness to take risks in a three-wave employee survey (N=442). Learning goal orientation moderated the model, but a nonsignificant indirect association at low orientation does not establish shallow confidence or absence of genuine capability. Actual risk-taking, unaided skill and attribution of success were not measured. Automation bias and reliance on erroneous advice were not tested.
 
 Yu et al. (2024) add a heterogeneity dimension to the feedback-loop description above. The same AI on the same tasks produced treatment effects ranging from −1.295 to +1.440 (IQR 0.797) on aggregated pathologies and up to −8.914 to +5.563 on individual high-prevalence tasks — meaning automation bias is not uniform across experts. Conventional predictors of who is most susceptible (years of experience, subspecialty, AI-tool familiarity, baseline diagnostic skill) all failed to identify which radiologists would be helped versus harmed. The practical implication: at the individual expert level, susceptibility to automation bias cannot be inferred from career stage or test scores; it must be measured per-radiologist under realistic deployment conditions before deciding who receives AI assistance. This is the strongest specialist-population evidence the KB has against the assumption that experts can self-calibrate their AI use.
 
@@ -56,7 +56,7 @@ Yu et al. (2024) add a heterogeneity dimension to the feedback-loop description 
 - [[complementarity-framework]] - addresses automation bias through attention orchestration and interrogation protocols
 - [[cognitive-surrender]] - broader phenomenon that automation bias sits within
 - [[tri-system-theory]] - framework that contextualizes automation bias as one dynamic among several
-- [[ai-self-efficacy-erosion]] - Han et al. (2025) show AI-as-tool inflates self-efficacy; the trust dynamics differ from AI-as-evaluator contexts
+- [[ai-self-efficacy-erosion]] - Han's work-tool survey and AI-evaluation experiments examine different contexts
 - [[yu-radiologists-ai-2024]] — specialist dose-response evidence: AI absolute error >80 yields treatment effect of −16.845 in 140 board-certified radiologists; experience-based and skill-based predictors of automation-bias susceptibility all fail
 
 ## Sources

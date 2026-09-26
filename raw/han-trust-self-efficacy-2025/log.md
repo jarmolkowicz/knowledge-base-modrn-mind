@@ -16,3 +16,8 @@
 - Word count: 10813
 
 ## 2026-04-29T15:41:22Z — re-distilled (Pass 2 batch 6)
+
+## 2026-09-26 — priority audit correction integrated
+
+- A06: self-reported willingness; Scholz scale; no measured attribution or unaided competence.
+- User approved priority corrections; three-lens self-review and mechanical validation passed. Related entries corrected in the same batch. Original files and prior decisions unchanged.

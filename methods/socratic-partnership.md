@@ -1,5 +1,5 @@
 ---
-status: solid
+status: emerging
 area: [preservation]
 sources:
   - "Batista, R.M. & Griffiths, T.L. (2026). A Rational Analysis of the Effects of Sycophantic AI. arXiv:2602.14270v1."
@@ -10,54 +10,43 @@ sources:
 
 ## What To Do
 
-Bring YOUR raw thinking to AI. AI challenges and extends. You defend and refine YOUR ideas.
+Bring your own reasoning to AI, ask for criticism, and check the response. This is a proposed practice, not a validated six-step intervention or a reliable safeguard against [[sycophancy]].
 
 ## How To Do It
 
-**Prerequisites:**
-- You must have generated your own thinking first (non-negotiable)
-- You have a position, thesis, or analysis to defend
+[Inference] Try this sequence when you have enough task knowledge to evaluate the dialogue:
 
-**The process:**
+1. **Generate first:** write your initial reasoning or identify what you do not yet understand.
+2. **Bring raw thinking:** share the assumptions and evidence behind your position.
+3. **Request challenge:** ask for gaps, counterarguments and evidence that would change the conclusion.
+4. **Examine both positions:** test your reasoning and the AI's criticism against independent evidence.
+5. **Revise:** update your view where the evidence supports it; do not defend a position merely to keep it yours.
+6. **Retain responsibility:** decide what to accept and be able to explain why.
 
-1. **Generate first** - Do solo thinking before engaging AI
-2. **Bring raw thinking** - Share your unpolished ideas, not a finished draft
-3. **Request challenge** - Ask AI to find gaps, challenge assumptions, provide counter-arguments
-4. **Defend your position** - Explain WHY you believe what you believe
-5. **Refine YOUR ideas** - Update your thinking based on the dialogue
-6. **Maintain ownership** - The ideas remain yours; AI helped you sharpen them
+Example prompts:
 
-**Example prompts:**
-- "Here's my analysis: [your thinking]. Challenge my assumptions and find gaps."
-- "I believe [your thesis]. What's the strongest counter-argument?"
-- "I'm seeing a connection between X and Y. Ask me questions to help me clarify this."
-- "Poke holes in this reasoning: [your argument]"
+- "Which assumption matters most, and how could I test it?"
+- "What evidence would count against this conclusion?"
+- "Give the strongest alternative explanation and identify what remains uncertain."
 
-### Ask for Doubt (Anti-Sycophancy)
+### Limits of Asking for Doubt
 
-Default LLM behavior is functionally sycophantic. Batista & Griffiths (2026) showed that unmodified GPT suppressed discovery at the same rate as explicitly sycophantic prompting — only 5.9% discovery vs. 29.5% with unbiased sampling. Bo et al. (2026) found that 71% of users cannot detect sycophancy, yet it reduced novice performance gains from +49.3% to +4.8%.
+Batista & Griffiths (2026) studied hypothesis discovery with different response conditions; they did not evaluate this procedure. Bo et al. (2026) studied 24 novices: 17/24 (71%) reported noticing no difference between the two chatbots, despite different performance outcomes. This is not a population estimate of users' ability to detect sycophancy.
 
-You must actively counteract this, because AI will not do it for you:
+Some participants described unsuccessful re-prompting. Requests for disagreement or certainty checks can still produce agreement, false criticism or invented evidence. A count of exchanges without disagreement is not a validated warning threshold.
 
-1. **Request structured disagreement.** After sharing your position, say: "Now argue against this. What would a knowledgeable critic say?" or "What evidence would disprove my thesis?"
-2. **Ask for doubt explicitly.** "What are you uncertain about in your response?" / "Where might you be wrong?" / "What am I not seeing?"
-3. **Use the Wason test.** If AI keeps confirming your hypothesis, ask: "What data would be inconsistent with my assumption?" Sycophantic AI systematically omits disconfirming evidence — you must request it.
-4. **Rotate framings.** Present the same question from an opposing perspective and compare responses. If AI agrees with both framings equally, it is telling you what you want to hear.
-
-**Rule of thumb:** If AI has not disagreed with you in the last five exchanges, you are probably in a sycophancy loop.
+For claims you cannot evaluate yourself, consult an appropriate source or knowledgeable person. Agreement is not proof of sycophancy, and disagreement is not proof of accuracy.
 
 ## Why It Works
 
-You stay in the driver seat. AI extends your thinking without replacing it. Your brain remains in active sense-making mode because you're defending and refining, not accepting.
-
-**Critical warning:** If you skip the solo foundation and start here, you're having AI generate ideas for you to react to. That's dependency, not partnership.
+[Inference] Explaining, testing and revising your reasoning may support active engagement. The cited studies motivate caution about agreement-seeking AI; they do not establish that these steps preserve skill or prevent dependence. Starting from an AI suggestion is not, by itself, evidence of dependence.
 
 ## Related
 
-- [[think-first]] - generates the foundation this mode requires
-- [[calibration]] - when to use this mode
-- [[metacognition]] - active engagement builds metacognitive skill
-- [[sycophancy]] - the default LLM behavior the Ask for Doubt technique counteracts
+- [[think-first]] - a proposed way to form an initial position
+- [[calibration]] - checking confidence against performance
+- [[metacognition]] - monitoring understanding during the dialogue
+- [[sycophancy]] - a risk that challenge prompts do not reliably eliminate
 
 ## Sources
 

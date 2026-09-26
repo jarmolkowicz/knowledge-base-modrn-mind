@@ -22,7 +22,7 @@ When friction disappears:
 - Coherence substitutes for truth
 - Confidence arrives without being earned
 
-Stadler, Bannert & Sailer (2024) provide CLT-anchored evidence of what frictionlessness costs. In their RCT (N=91 university students, ChatGPT-3.5 vs. Google for a 20-minute socio-scientific search task), the search-engine condition produced significantly higher cognitive load on every facet (ECL η² = 0.09, ICL η² = 0.15, GCL η² = 0.27) — the felt friction of having to discriminate sources, integrate fragments, and evaluate claims. Justification quality scaled with that friction: search-engine users produced 1.87 relevant arguments on average vs. 1.20 for LLM users (F = 11.18, p = .001). The mediation analysis pins the mechanism on germane cognitive load specifically — the load devoted to active schema-construction. What disappears when AI makes work effortless is the load that produces understanding.
+Stadler, Bannert & Sailer (2024) found higher self-reported load and better same-session justifications in a Google research condition than a ChatGPT-3.5 condition (N=91). An exploratory mediation model linked germane load with justification quality. This does not show that felt friction caused understanding, that effort is always productive, or that reduced load damages lasting capability. Meaning and cognitive friction were not directly measured.
 
 ## Key Insight
 

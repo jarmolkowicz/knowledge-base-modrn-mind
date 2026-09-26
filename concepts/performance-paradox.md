@@ -17,31 +17,31 @@ sources:
 
 ## What It Is
 
-AI boosts a learner's immediate performance on a task while simultaneously diminishing the durable learning that the task was designed to produce. Output looks competent; the person behind it is not becoming more competent.
+A possible dissociation between better AI-assisted task performance and later unaided learning. In some settings, assisted gains coexist with weaker subsequent performance; in others, gains do not transfer or transfer positively. This is not a general claim that AI reduces durable capability.
 
 ## Why It Matters
 
-The paradox makes AI-induced erosion invisible at the point where it matters most — assessment and evaluation. Short-term metrics (test scores, task completion, output quality) all improve, masking the fact that long-term knowledge construction is being bypassed. This applies beyond education: any professional producing AI-assisted work can appear to perform at a level they cannot sustain independently.
+Assisted output is not a direct measure of independent capability. Evaluations should distinguish performance with support, later unaided assessment, transfer and lasting skill change. A short-term gap does not alone establish erosion.
 
 ## Key Insight
 
-The paradox resolves an apparent contradiction in AI-and-learning research. Studies showing "positive effects" of AI on learning are often measuring scaffolded performance (the task with AI present), not durable independent capability (performance after AI is removed). Bastani et al. (2025) demonstrated this directly in a preregistered field RCT (~1,000 students, classroom-level randomization across 50 classrooms in a Turkish high school): students with vanilla GPT-4 access scored **+48% on practice problems but −17% on the unassisted exam** versus controls who never had AI. A guardrailed variant ("GPT Tutor": teacher-curated solutions in the prompt + hint-not-answer instructions) produced **+127% on practice and approximately zero effect on the exam** — guardrails essentially neutralized the harm without sacrificing the assistance. The study distinguishes assisted practice from later unaided assessment. It does not directly measure schema construction or establish a universal AI–learning mechanism.
+Bastani et al. (2025) demonstrated a specific assisted–unaided dissociation in a preregistered classroom RCT of roughly 1,000 students: GPT Base improved practice scores by 48% but reduced later unaided exam scores by 17% relative to controls. GPT Tutor improved practice scores by 127% without a statistically detectable exam penalty or advantage. The findings distinguish these conditions; they do not establish a universal AI–learning mechanism.
 
-Bastani et al. (2025) [pp.4-5] add a critical compound: **students did not perceive that they had learned less.** GPT Base students reported similar self-assessed learning to controls; GPT Tutor students reported they had learned *more* despite no exam-score advantage. The dissociation is invisible from inside the learning process, which means self-correction loops fail to trigger. External assessment design carries the burden the learner cannot.
+Bastani et al. also found that self-assessed learning did not track exam outcomes: GPT Base students rated learning similarly to controls, while GPT Tutor students rated it higher without a corresponding exam advantage. This cautions against relying on self-report alone; it does not show that every learner's self-correction fails.
 
 [Unverified source] No matching local original was found for the attribution below. Its claims and quoted wording are not verified and should not be cited as established evidence.
 
 [Unverified account] Lodge & Loble (2026) argue this is not a measurement error but a structural feature of how AI interacts with learning: AI bypasses the intrinsic cognitive load (desirable difficulties) that builds durable knowledge, while producing outputs that signal mastery.
 
-Singh Yadav (2026) provides a historical grounding through the concept of the "augmentation illusion." Every wave of cognitive technology — writing systems, calculators, GPS, internet search — created the same pattern: performance capability decoupled from underlying competence. AI is the latest and most comprehensive manifestation. The book maps the illusion through four mechanisms: cognitive offloading (reduced internal investment), fluency confusion (ease of performance mistaken for understanding), attribution errors (success credited to self rather than tool), and reduced metacognitive awareness (less confrontation with one's own knowledge gaps). The historical pattern suggests the performance paradox is not unique to AI but a universal principle of cognitive augmentation — AI simply operates across more cognitive domains simultaneously than any previous technology.
+Singh Yadav (2026) proposes an "augmentation illusion" and discusses offloading, fluency, attribution and metacognition as explanations. [Inference] These offer hypotheses for why assisted output and unaided performance might diverge. The historical analogies do not establish a universal law or independently verify the proposed mechanisms.
 
-Bartoš et al. (2026) provide an umbrella-level statistical anchor. Pooling 1,840 effect sizes from 67 meta-analyses on AI/LLMs and learning, they find that the publication-bias-unadjusted average effect (SMD ≈ 0.629) collapses to SMD = 0.196 [0.000, 0.323] once corrected — about one-third the published magnitude. Crucially, after RoBMA-PSMA correction, **0 out of 44 meta-analyses with at least 10 effect sizes retain strong evidence for the effect** of AI/LLMs on learning, vs. 41/44 in the unadjusted analysis [pp.20-21]. The umbrella does not contradict the performance-paradox framing; it shows that the bulk of "AI improves learning" claims in the published meta-analytic record are scaffolded-performance findings whose effects do not consolidate under bias correction. The Discussion explicitly invokes "task stewardship" (Lee et al. 2025), cognitive offloading mediation (Gerlich 2025), and reduced engagement under LLM-assisted writing (Kosmyna et al. 2025) as the mechanisms behind the non-consolidation [pp.22-23].
+Bartoš et al. (2026) report a complete-data model-averaged effect of SMD = 0.196 (95% credible interval [0.000, 0.323]; BF₁₀ = 13.3) after publication-bias adjustment, versus 0.629 unadjusted. Effects were highly heterogeneous. This does not show that most learning measures were merely assisted performance, that the average effect is null, or that offloading caused the adjusted estimate. The discussion's mechanisms remain possible explanations.
 
-Stadler, Bannert & Sailer (2024) operate at a different measurement level than Bastani: rather than scaffolded-vs-unassisted performance gap, they measure the during-task cognitive load and the same-session output quality. In their CHB RCT (N=91 university students, ChatGPT-3.5 vs. Google for a 20-minute socio-scientific search task), LLM users reported lower cognitive load on every facet (ECL η² = 0.09, ICL η² = 0.15, GCL η² = 0.27 — all p < .005) and produced lower-quality justifications (1.20 vs. 1.87 relevant arguments; F = 11.18, p = .001, η² = 0.11). The full mediation through germane cognitive load (β = 0.15, p = .020 indirect; direct path n.s.) names what is bypassed when AI makes the work easy: the active schema-construction processing that translates into output quality. The performance paradox is sharpened: it is not just that scaffolded performance and durable learning dissociate over time — even *within a single session*, when AI reduces effort, the dimension of the output that depends on active processing (depth of justification, integration of arguments) drops in lockstep.
+Stadler, Bannert & Sailer (2024) found lower self-reported cognitive load and lower same-session justification quality after ChatGPT-3.5 versus Google research (N=91). An exploratory mediation model included an indirect association through germane load. The study did not test delayed learning or establish that load was the causal mediator. It concerns task ease and output quality, not the same assisted–unaided comparison as Bastani.
 
 Wu et al. (2025) extend the paradox to the *post-AI* dimension that prior KB sources have not fully captured. Across four pre-registered experiments (total N = 3,562 Prolific UK), GenAI collaboration produced clear immediate-task augmentation: rater-assessed Facebook post quality improved by d = 0.23 (Study 1); LIWC-measured word count of performance reviews increased by d = 1.50 (Study 2) and welcome emails by d = 1.26 (Study 3); analytical content and prosocial/affiliation tone all rose with medium effect sizes. This is the standard "AI augments" finding the paradox sets up. But the spillover did not arrive. Three of four studies found *no* significant transfer of augmentation to subsequent unassisted tasks (Studies 2, 3, and 4 across idea quantity, novelty, usefulness, text length, analytical content, positive tone — all effect sizes |d| < 0.15, mostly non-significant). Study 4 found a small *negative* spillover on text length (Solo-Solo wrote slightly longer than Collab-Solo, d = 0.14, p = .048). Only Study 1 found positive spillover on idea quality (d = 0.29).
 
-This is the paradox's post-AI face: the worker performs better *with* AI but does not retain that performance in subsequent unassisted work. Where Bastani et al. show the gap *during* AI use (practice +48% but exam −17%), Wu et al. show the gap *after* AI use (immediate task gains do not transfer). The two findings together describe a fuller paradox: AI's performance benefit is bounded to its presence, with neither during-AI-learning nor post-AI-skill-transfer reliably operating in the worker's favor. The mechanism Wu et al. propose — that psychological deprivation effects (motivation decline, boredom increase) overshadow GenAI's potential cognitive benefits — converges with the Stadler "germane cognitive load" mediation: when AI removes effort, the active processing that would translate into transfer doesn't happen.
+Wu et al.'s mixed spillover findings show why immediate augmentation and subsequent unaided performance must be reported separately. One study found positive transfer in idea quality; most other tested outcomes showed no significant advantage. Neither absent transfer nor lower text length alone establishes skill erosion. The proposed motivation account and Stadler's load model do not demonstrate a shared causal mechanism.
 
 Strömberg, Lei & Wu (2026) extend the [[performance-paradox]] to a 30-month administrative panel of 26,811 Chinese secondary students. Their staggered-adoption analysis estimates +18% homework scores, roughly 30% less completion time and −20% monthly exam scores at 6–10 months after adoption. Score changes are percentages of the baseline mean, not grade percentage points. AI adoption was self-selected and onset retrospectively reported, so causal interpretation depends on parallel-trends and no-confounding assumptions. The much-publicized 18–24% entrance-exam losses concern at least two years of exposure; average entrance-exam effects were nearer −7% in the DID analysis.
 
@@ -61,19 +61,17 @@ The study also shows why homework quality can become a misleading learning signa
 
 ## Related
 
-- [[cognitive-offloading]] - the mechanism that produces the paradox
-- [[desirable-difficulty]] - what gets bypassed
-- [[confidence-competence-gap]] - the subjective experience of the paradox
-- [[fluency-bias]] - what makes the paradox invisible
-- [[metacognitive-laziness]] - what the paradox enables
-- [[capacity-erosion]] - the long-term consequence
-- [[novice-vulnerability]] - who is most affected; Singh Yadav's augmentation illusion is most pronounced at early Dreyfus stages
-- [[desirable-difficulty]] - Singh Yadav traces a historical arc showing each cognitive technology bypassed the productive struggle that built competence
-- [[bartos-ai-learning-meta-meta-2026]] - umbrella-level evidence anchor: published "AI improves learning" effects collapse ~3× under publication-bias correction, supporting the paradox at the field level
-- [[stadler-cognitive-ease-cost-2024]] — within-session paradox evidence: LLM-induced drop in cognitive load fully mediates the drop in justification quality
-- [[wu-collaboration-motivation-2025]] — pre-registered RCT evidence (N = 3,562) that the paradox extends post-AI: immediate-task augmentation is robust (d up to 1.50) but spillover to subsequent unassisted tasks is largely absent across three of four studies
-
-- [[stromberg-ai-learning-penalty-2026]] — longer-term field evidence with explicit observational limits.
+- [[cognitive-offloading]] - a possible mechanism, not an explanation established by every study
+- [[desirable-difficulty]] - learning conditions that may matter when prerequisites are met
+- [[confidence-competence-gap]] - subjective confidence can differ from measured performance
+- [[fluency-bias]] - possible influence on judgments of output
+- [[metacognitive-laziness]] - a distinct process question
+- [[capacity-erosion]] - lasting loss requires evidence beyond an immediate performance gap
+- [[novice-vulnerability]] - novice–expert differences require direct comparison
+- [[bartos-ai-learning-meta-meta-2026]] - bias-adjusted average effects do not diagnose assisted–unaided dissociation
+- [[stadler-cognitive-ease-cost-2024]] - same-session tool comparison; exploratory load mediation
+- [[wu-collaboration-motivation-2025]] - mixed transfer results across subsequent unaided tasks
+- [[stromberg-ai-learning-penalty-2026]] - longer-term field evidence with observational limits
 
 ## Sources
 

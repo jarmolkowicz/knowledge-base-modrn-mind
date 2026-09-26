@@ -45,6 +45,13 @@
       "outcome": "INTEGRATED",
       "date": "2026-04-30",
       "reason": "Source distillation moved to sources/stadler-cognitive-ease-cost-2024.md; 6 UPDATEs applied to concept entries; aux scripts run; KB-root log appended. KB counts: sources 65→66, concepts 56, methods 12, total 133→134."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved priority corrections",
+      "reason": "A05: same-session outcomes and exploratory load mediation, not durable learning. Approval: Make priority corrections. Drafted, three-lens self-critiqued and validated in local batch kb-priority-corrections-2026-09-26. Historical decisions and original files preserved."
     }
   ],
   "pages": 7

@@ -20,9 +20,11 @@ Paper (synthesis chapter — empirical research summary, written for a general p
 
 ## Key Insight
 
-The conditions that *feel* like effective learning — rereading, blocked practice, smooth performance — often produce poor long-term retention. The conditions that feel like *struggle* — interleaving, spacing, retrieval practice, varied context — produce durable learning and transfer. The Bjorks frame this through their **storage-strength / retrieval-strength** distinction: current performance reflects retrieval strength, but learning is the gain in storage strength, and the two often diverge.
+Some learning conditions that slow initial performance can improve later retention and transfer. The chapter reviews varied practice, spacing, interleaving and generation/retrieval. It distinguishes current retrieval strength from longer-term storage strength: smooth immediate performance is not sufficient evidence of durable learning.
 
-For human thinking with AI: smooth, fluent AI assistance maximally accelerates short-term retrieval but may produce minimal storage-strength gain. The friction the Bjorks call *desirable* is precisely the friction AI removes.
+The qualification matters: many difficulties are undesirable. A difficulty becomes undesirable when the learner lacks the knowledge or skills to respond successfully.
+
+[Inference] AI assistance may remove a useful learning opportunity if it supplies an answer the learner could productively generate. It may also support practice or remove irrelevant obstacles. The 2011 chapter did not test AI or establish which modern workflows improve learning.
 
 ## Key Passages
 
@@ -43,24 +45,19 @@ For human thinking with AI: smooth, fluent AI assistance maximally accelerates s
 
 ## Relevance
 
-Provides the foundational learning-science evidence for why frictionless AI assistance carries learning costs that don't show up in short-term performance. The four desirable difficulties — varying conditions, spacing, interleaving, and generation/retrieval practice — name the specific dynamics that AI substitution removes:
+Provides a rationale for testing retention and transfer rather than judging learning only from immediate fluency or speed.
 
-- AI gives the answer rather than letting the learner *generate* it (kills the generation effect).
-- AI smooths the path rather than varying conditions of practice.
-- AI removes the test-as-learning event by handing over the result.
-- AI's instant fluency creates exactly the metacognitive illusion the Bjorks warn against — feeling fluent without having stored anything.
-
-The boundary case is critical: difficulties stop being *desirable* when the learner lacks prerequisites. The same logic applies to AI: removing friction can be appropriate at the right scaffold level (early novice, beyond-current-zone tasks). The KB inherits this nuance via [[strategic-alternation]] and [[think-first]].
+[Inference] AI-supported practice could preserve opportunities to retrieve, generate and vary solutions, with help matched to the learner's prerequisites. This is a design possibility, not evidence that all assistance removes productive difficulty or that all unaided effort is beneficial.
 
 ## Supports
 
 - [[desirable-difficulty]] — primary source; the framework originates here
 - [[fluency-bias]] — Bjork & Bjork explicitly describe rereading as creating "perceptual fluency that we interpret as understanding" [p.3]
-- [[strategic-alternation]] — design rationale for alternating AI-on / AI-off modes
-- [[think-first]] — generation effect makes the case for solo work before AI
-- [[cognitive-friction]] — friction as productive learning force
+- [[strategic-alternation]] — [Inference] possible application; AI-on/AI-off scheduling was not tested
+- [[think-first]] — [Inference] generation before assistance may be useful when the learner has adequate prerequisites
+- [[cognitive-friction]] — difficulty is productive only under appropriate learning conditions
 - [[metacognition]] — the Bjorks specifically show learners' overconfidence under blocked practice [p.6]
-- [[judgment-development-paradox]] — same dynamic: short-term performance can mask long-term capacity loss
+- [[judgment-development-paradox]] — [Inference] immediate output and longer-term development should be assessed separately
 
 ## Contradicts / Extends
 

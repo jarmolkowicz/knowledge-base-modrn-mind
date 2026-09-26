@@ -22,15 +22,11 @@ Paper (between-subjects RCT, N=91 university students; ANCOVA controlling for pr
 
 ## Key Insight
 
-Stadler et al. extend Kammerer et al.'s (2021) socio-scientific search-as-learning paradigm by adding an LLM condition. 91 university students were randomly assigned to research the safety of nano-particles in sunscreen using either Google or ChatGPT-3.5 for 20 minutes, then write a recommendation with justifications without notes. The design lets the team isolate the effect of the *information-gathering tool* on both subjective cognitive load (Klepsch et al. 2017's three-facet CLT scale: extraneous / intrinsic / germane) and an external rating of justification quality.
+In a randomized comparison, 91 university students researched sunscreen nanoparticles for 20 minutes using ChatGPT-3.5 or Google, then wrote a recommendation with justifications without notes. LLM users reported lower extraneous, intrinsic and germane cognitive load (η² = 0.09, 0.15 and 0.27) and included fewer relevant arguments in their recommendations (1.20 vs. 1.87; F = 11.18, p = .001, η² = 0.11).
 
-The headline finding is the **dissociation**: LLM users experienced lower cognitive load on every facet (η² = 0.09 for ECL, 0.15 for ICL, 0.27 for GCL) and produced lower-quality justifications (1.20 vs. 1.87 relevant arguments out of 7 possible; F = 11.18, p = .001, η² = 0.11). Cognitive ease and learning quality moved in opposite directions.
+An exploratory mediation analysis found a significant indirect path through self-reported germane cognitive load (β = 0.15, p = .020) and a nonsignificant direct path (β = 0.19, p = .095). The authors call this full mediation. Randomizing the research tool does not randomize the mediator: these results do not establish that load caused the difference, identify schema construction directly, or show that increased effort would improve learning.
 
-The mediation result is what makes this paper KB-load-bearing: **the entire group difference in justification quality is mediated by germane cognitive load** (β = 0.15, p = .020 indirect; β = 0.19, p = .095 direct, n.s.). Germane load is the CLT construct for cognitive resources devoted to active processing — schema construction, inference, integration. The paper provides direct evidence that what LLMs strip out is precisely the load that produces durable understanding.
-
-A secondary but important finding is the *null* on H3: LLM users did not show more homogeneous recommendations than search-engine users (χ² = 1.78, p = .411; distributions essentially equivalent — see Table 3, [p.4]). The authors had hypothesized LLM convergence on a single answer. They didn't find it. This is empirical counter-evidence against the "LLMs collapse output diversity" framing at the level of final decisions, even when LLMs reduce the diversity of *information* the user encounters during research.
-
-The framing the paper provides — "cognitive ease at a cost" — is a clean linguistic hook for the broader pattern: the affordance that AI offers (effortless answers) is mechanistically the same thing that bypasses the processing that builds understanding. Several KB concepts already capture pieces of this (fluency-bias, desirable-difficulty, metacognitive-laziness, cognitive-debt, performance-paradox, cognitive-friction). Stadler et al. provide the cleanest CLT-anchored empirical demonstration the KB has — and a mediator (GCL) that gives the cluster a shared mechanistic vocabulary.
+The study measured same-session justification quality, not delayed retention, lasting skill loss, processing fluency or metacognitive monitoring. Recommendation categories did not differ significantly in their distribution (χ² = 1.78, p = .411); this is not proof of equivalence or of unchanged information exposure.
 
 ## Key Passages
 
@@ -54,35 +50,32 @@ The framing the paper provides — "cognitive ease at a cost" — is a clean lin
 
 ## Relevance
 
-The cleanest CLT-anchored empirical case in the KB. Three load-bearing contributions:
-
-- **Mediator-level evidence.** The full mediation of justification-quality differences by germane cognitive load is the most mechanism-specific finding the KB has on the cognitive-ease-at-a-cost pattern. Where Kosmyna et al. (2025) measure neural correlates and Bastani et al. (2025) measure post-task performance, Stadler et al. measure the *intermediate variable* — what is bypassed during the task — and show it accounts for the entire downstream effect on output quality. This makes germane cognitive load the shared currency in which several KB concepts (fluency-bias, desirable-difficulty, metacognitive-laziness, cognitive-debt) can be linked at the same level of explanation.
-- **Faithful titling.** "Cognitive ease at a cost" is the paper's own framing — and it captures, in plain English, the structural pattern the KB has been articulating across multiple concept entries. Useful linguistic anchor; less jargon-laden than "fluency bias" or "desirable difficulty."
-- **The H3 null is itself useful.** The paper expected output homogeneity from LLM use and didn't find it. Final decisions remained diverse even when the information-gathering process was constrained. This refines the homogenization concern: AI may narrow the *informational substrate* without narrowing the *decision distribution*. KB entries on AI-driven sameness should distinguish between the two (e.g., [[anderson-homogenization-2024]] found group-level homogeneity in *idea* generation but not individual-level — a parallel resolution).
+- Separates ease of a research task from the quality of the justifications produced in that session.
+- Provides a randomized tool comparison and an exploratory account involving self-reported cognitive load.
+- Leaves durable learning and the proposed causal mechanism untested. Results from this task and interface do not establish that all LLM-assisted work reduces understanding.
 
 ## Supports
 
-- [[fluency-bias]] — direct empirical demonstration: lower cognitive load (the felt-easiness of LLM output) translates to lower-quality reasoning
-- [[desirable-difficulty]] — the search-engine condition is the "more difficult" condition that produced better outcomes; germane load is the CLT-side label for what desirable difficulty engages
-- [[cognitive-debt]] — converging behavioral evidence for the construct: LLM use → reduced engagement → weaker output
-- [[metacognitive-laziness]] — reduced germane load is the operational signature of metacognitive bypass; LLM users invested less in active processing of the content
-- [[performance-paradox]] — cognitive-load dimension of the paradox: easier tools, weaker outcomes
-- [[cognitive-friction]] — search engines impose the friction that generates meaning; LLMs strip it; phenomenologically experienced as lower CL
-- [[cognitive-offloading]] — adds CLT-mediator evidence: what gets offloaded is precisely the germane processing
-- [[capacity-erosion]] — single-session evidence that even brief LLM use bypasses the active processing that builds capacity
+- [[fluency-bias]] — related concern about ease, but processing fluency was not measured
+- [[desirable-difficulty]] — lower load coexisted with weaker justifications; more difficulty was not itself tested as an intervention
+- [[cognitive-debt]] — no longitudinal measure of accumulated cost
+- [[metacognitive-laziness]] — cognitive-load ratings are distinct from metacognitive behaviour
+- [[performance-paradox]] — distinguishes task ease from same-session quality, not assisted performance from delayed learning
+- [[cognitive-friction]] — [Inference] relevant to effort, without measuring meaning or productive friction directly
+- [[cognitive-offloading]] — [Inference] one possible interpretation, not an isolated causal mechanism
+- [[capacity-erosion]] — no evidence here of lasting skill erosion
 
 ## Contradicts / Extends
 
-- Extends [[kosmyna-cognitive-debt-2025]] — Kosmyna measured neural connectivity (EEG) and produced *self-reports* of low ownership; Stadler et al. supply the cognitive-load mediator that connects "weaker neural engagement" to "weaker output." The two findings are at different measurement levels but tell the same story: AI use reduces engagement, engagement is what produces quality.
-- Extends [[bastani-guardrails-math-rct-2025]] — Bastani measured post-task exam scores and inferred crutch behavior from interaction logs; Stadler et al. measure the during-task subjective load directly. Bastani's inferred mechanism gets a measured-mediator counterpart.
-- Extends [[fan-metacognitive-laziness-2025]] — Fan demonstrated reduced metacognitive transitions in process-mining; Stadler et al. demonstrate reduced germane load on a validated CLT scale. Two different operationalizations of the same underlying disengagement.
-- Refines [[anderson-homogenization-2024]] and the broader "AI homogenizes outputs" framing — Stadler et al.'s H3 null shows that LLM use can narrow *information exposure* without narrowing *final decisions*. The homogenization concern needs to specify which level it operates at (idea generation, information gathering, group-level pooling, individual decision).
+- [[kosmyna-cognitive-debt-2025]] uses EEG and other outcomes. This study does not establish a mediator connecting its findings to Kosmyna's.
+- [[bastani-guardrails-math-rct-2025]] includes a later unaided exam; Stadler's outcome is same-session justification quality.
+- [[fan-metacognitive-laziness-2025]] examines learning-process behaviour; germane-load ratings do not establish the same process.
+- [[anderson-homogenization-2024]] concerns idea similarity. Stadler's nonsignificant difference in recommendation categories addresses a different outcome.
 
 ## Open Questions
 
-- Single-session, no retention test. The paper does not measure whether what was learned (or not learned) during the 20-minute task transfers to later unaided performance. The complement to this paper would be a Bastani-style design with a delayed unassisted assessment.
-- ChatGPT-3.5 (April–May 2023) is now several model generations old. Modern LLMs cite sources, perform retrieval, and offer step-by-step reasoning that may invoke higher germane load. The mediator-level finding (GCL → quality) should generalize, but the absolute load levels may not.
-- The N=91 sample is small for a mediation analysis; replication at scale would strengthen the GCL-mediator claim.
-- No prompt-pattern moderation. Authors acknowledge in §7.1 that prompting strategies may fundamentally change the result. This suggests the cognitive-ease effect is *specific to default LLM use* and may be modulated by interaction patterns that re-introduce engagement (Socratic prompting, explanation requests) — connecting to Shen & Tamkin (2026)'s six-pattern typology.
-- The H3 null on homogeneity opens a question: does LLM exposure narrow recommendations *over time* (longitudinal repeated exposure) even if it doesn't narrow them in a single session? The single-shot design cannot answer this.
-- No measure of subjective confidence or ownership. Kosmyna et al. found low ownership in LLM users; whether Stadler's lower-load LLM users also reported less ownership of their justifications is untested but plausible.
+- Would results persist on a delayed unaided assessment or transfer task?
+- Would mediation replicate in a larger sample, and would an intervention targeting the proposed process change outcomes?
+- How do prompting, interface design and model capabilities affect results? This study does not test newer systems or show that challenge prompts restore learning.
+- Could repeated use change recommendation diversity even though no difference was detected in this session?
+- How do confidence, ownership and measured cognitive processes relate to self-reported load?

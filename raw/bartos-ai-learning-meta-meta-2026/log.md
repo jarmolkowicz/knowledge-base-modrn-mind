@@ -40,3 +40,8 @@
 - sources/bartos-ai-learning-meta-meta-2026.md created.
 - 5 UPDATEs applied (paragraph + Related link + frontmatter source line + Sources section line each).
 - sync-source-links.py / build-index.py / update_readme_counts.py run; counts 60→61 sources, 124→125 total.
+
+## 2026-09-26 — priority audit correction integrated
+
+- A03/A04: positive model-specific estimate; no mechanism inferred from bias adjustment; educational levels not individual skill comparisons.
+- User approved priority corrections; three-lens self-review and mechanical validation passed. Related entries corrected in the same batch. Original files and prior decisions unchanged.

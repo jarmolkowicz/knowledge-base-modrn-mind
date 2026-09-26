@@ -17,3 +17,8 @@
 
 ## 2026-04-29T12:29:34Z — re-distilled (Pass 2 batch 1)
 - Replaced sources/risko-gilbert-cognitive-offloading-2016.md with v2 draft
+
+## 2026-09-26 — priority audit correction integrated
+
+- A17: reliance versus capability; attribution to Ward / Wegner and Ward.
+- User approved priority corrections; three-lens self-review and mechanical validation passed. Related entries corrected in the same batch. Original files and prior decisions unchanged.

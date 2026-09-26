@@ -9,33 +9,28 @@ sources:
 
 ## What To Do
 
-Reduce AI-generated low-quality work output at the team level by building trust, ensuring competence, and cultivating a Pilot mindset. This is the first team-level practice in the KB.
+Test team practices intended to reduce low-quality AI-assisted work: clearer quality expectations, support for evaluating output, and room to raise problems. These are proposals drawn from survey findings and the authors' interpretation, not tested interventions.
 
 ## How To Do It
 
-**Three organizational levers:**
+[Inference] Adapt three proposed practices to the team's work:
 
-1. **Build team trust.** Teams with high trust reduced workslop by 61%. Trust means people feel safe saying "I don't know how to use this well yet" rather than performing AI compliance. Practical steps: normalize sharing AI failures, create space for honest assessment of AI output quality, reward quality over speed.
+1. **Support honest discussion.** Normalize reporting AI errors and asking for help. Niederhoffer et al. report a 61% reduction associated with team trust, but the survey does not establish that a trust-building intervention caused that reduction.
+2. **Build competence and control.** Provide relevant training, review standards and discretion about when to use AI. Respondents who felt competent with and in control of AI tools were reported as half as likely to create workslop; this association does not measure the effect of training.
+3. **Keep responsibility for the result.** Ask whether the output meets the recipient's needs and whether its claims have been checked. In the authors' typology, "Pilots" used AI 75% more often at work than "Passengers" — not more than the average worker. The typology does not prove that adopting a mindset changes output quality.
 
-2. **Ensure AI competence and control.** Workers who feel competent with and in control of their AI tools are half as likely to produce workslop. Never mandate AI use without training. Provide hands-on skill-building, not just tool access. Let people choose when and how to use AI for their specific tasks.
-
-3. **Cultivate the Pilot mindset.** "Pilots" (high agency + high optimism) use AI 75% more than average but use it to enhance creativity, not to avoid work. "Passengers" use AI to get tasks off their plate. The difference is agency — feeling ownership over the work, not just the output. Ask: "Am I using AI to do better work, or to avoid doing work?"
-
-**What to avoid:**
-- Blanket AI mandates without training or quality norms
-- Measuring AI adoption by usage metrics alone
-- Pressuring overwhelmed teams to "just use AI" — 53% admit to sending subpar AI work, primarily because they feel "stretched too thin"
+Review outcomes such as recipient rework and errors, not AI usage alone. Overload and vague mandates are concerns raised by the authors, not experimentally isolated causes.
 
 ## Why It Works
 
-Niederhoffer et al. (N=1,150) found that 40% of employees received workslop in the last month, costing ~2 hours per incident. The root cause is not laziness but a management failure: vague mandates, no training, no quality culture. [[workslop]] shifts the cognitive burden downstream — the recipient must decode, infer context, and often redo the work. The three levers address the actual causes (trust deficit, skill gap, agency deficit) rather than symptoms.
+[Inference] These practices may help teams address conditions associated with [[workslop]]. The articles report survey evidence, including roughly two hours of recipient work per incident, and offer management recommendations. They do not demonstrate the effectiveness of this complete method.
 
 ## Related
 
-- [[workslop]] - the phenomenon this practice addresses
-- [[novice-vulnerability]] - novices most likely to produce workslop without realizing it
-- [[execution-commoditization]] - workslop is what commoditized execution looks like without judgment
-- [[calibration]] - workslop as organizational calibration failure
+- [[workslop]] - the problem this proposed practice addresses
+- [[novice-vulnerability]] - questions about task knowledge; career stage was not established as the cause of workslop
+- [[execution-commoditization]] - output volume does not establish usefulness
+- [[calibration]] - checking perceived quality against recipient needs
 
 ## Sources
 

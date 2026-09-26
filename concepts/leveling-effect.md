@@ -11,47 +11,34 @@ sources:
 
 ## What It Is
 
-AI raises the floor of performance while potentially lowering the ceiling. Lower-skilled workers show larger improvements; higher-skilled workers benefit less. The variance between workers narrows.
+A pattern in which lower-performing participants gain more from AI assistance than higher-performing participants, narrowing performance differences on the measured task. It does not imply that stronger performers lose skill or that independent expertise has equalized.
 
 ## Why It Matters
 
-If AI compresses the performance distribution, differentiation becomes harder. Professional value may shift from "being good" to "being different"—and AI pulls everyone toward sameness.
+Assisted performance differences can shrink without equivalent changes in underlying skill. Compare assisted outcomes with later unaided performance before drawing conclusions about learning or professional development.
 
 ## Key Insight
 
-From BCG study:
-- Lower-skilled consultants: 43% quality improvement
-- Higher-skilled consultants: 17% quality improvement
+In Dell'Acqua et al.'s BCG study, consultants below the baseline-performance midpoint improved quality by about 43%, compared with 17% for those above it, on tasks within the tested AI capability range. Both groups benefited; larger gains for one group do not mean AI cannot amplify expertise.
 
-AI doesn't amplify expertise—it compensates for its absence.
+Bartoš et al.'s comparisons across primary, secondary and university education address differences between educational settings. They do not test whether lower-performing people benefit more within a setting and cannot establish that leveling disappears after bias correction.
 
-Bartoš et al. (2026) provide an umbrella check on the leveling-effect claim at the meta-analytic field level. Their subgroup analyses by educational level (primary k=63, secondary k=93, university k=204) found no level at which AI/LLMs produce consistent benefits or substantially reduce between-study heterogeneity [pp.14-17]. The publication-bias-adjusted prediction intervals at every educational level span both substantial harm and substantial benefit. [Inference] The umbrella does not contradict Dell'Acqua et al. (2023) or Bastani et al. (2025) at the individual-study level — both papers found leveling patterns in their specific contexts — but it does show that across the broader published meta-analytic record on AI-and-learning, the leveling effect is not a robustly detectable subgroup pattern. Bastani et al. (2025) further showed in their classroom RCT that the leveling effect during AI-assisted practice **disappears in unassisted exam performance**: weaker students caught up with AI but fell back when it was removed, suggesting leveling is conditional on continued AI access.
+Bastani et al. found a reduction in score dispersion during AI-assisted practice that did not persist in the unaided exam. This result is specific to that classroom intervention; it is not proof that leveling always requires continued assistance.
 
 ## The Double Edge
 
-**Benefits**:
-- Democratizes access to competent output
-- Reduces quality variance in teams
-- Helps struggling performers meet standards
-
-**Risks**:
-- Reduces motivation for skill development ("why improve if AI compensates?")
-- Makes expertise harder to demonstrate
-- May prevent development of top performers
+Assistance may help weaker performers produce better output on a particular task. Whether this changes motivation, future learning or the development of top performers requires separate evidence. A narrower score distribution is not the same as more homogeneous ideas.
 
 ## Implications for Professional Development
 
-If juniors use AI to produce senior-level work:
-- They skip the struggle that builds capability
-- The organization gets good output but doesn't develop talent
-- Long-term expertise pool may shrink
+[Inference] Assess both supported output and independent progress. If learning matters, preserve relevant opportunities for practice and feedback; neither lower baseline performance nor junior job title dictates one AI-use rule.
 
 ## Related
 
-- [[cognitive-debt]] - why skipping struggle has costs
-- [[desirable-difficulty]] - what gets bypassed
-- [[creativity-diversity-paradox]] - collective version of this
-- [[bartos-ai-learning-meta-meta-2026]] - umbrella subgroup analysis: educational level does not yield consistent benefits or reduce heterogeneity; leveling pattern not robustly detectable at the meta-analytic field level
+- [[cognitive-debt]] - possible accumulated learning cost, not established by a compressed performance distribution
+- [[desirable-difficulty]] - task-appropriate learning conditions
+- [[creativity-diversity-paradox]] - a different question about idea similarity
+- [[bartos-ai-learning-meta-meta-2026]] - education-level subgroups are not a test of individual skill leveling
 
 ## Sources
 

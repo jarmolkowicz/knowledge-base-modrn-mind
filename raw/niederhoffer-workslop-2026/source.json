@@ -21,7 +21,14 @@
       "outcome": "workbench_backfilled",
       "by": "human (Pass 1 gap-fill)",
       "at": "2026-04-29T13:31:14Z",
-      "reason": "KB entry pre-existed without per-source workbench. Source is a two-article HBR series (Niederhoffer et al. 2025 + 2026); both PDFs were in inbox. Backfilled with 2026 article as canonical original; 2025 article kept alongside as original-2025.pdf. source.md is the concatenated extraction of both. Audit trail (triage/distill/critique) not available \u2014 pre-pipeline ingestion."
+      "reason": "KB entry pre-existed without per-source workbench. Source is a two-article HBR series (Niederhoffer et al. 2025 + 2026); both PDFs were in inbox. Backfilled with 2026 article as canonical original; 2025 article kept alongside as original-2025.pdf. source.md is the concatenated extraction of both. Audit trail (triage/distill/critique) not available — pre-pipeline ingestion."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved priority corrections",
+      "reason": "A08: Pilots compared with Passengers; survey associations separated from tested interventions. Approval: Make priority corrections. Drafted, three-lens self-critiqued and validated in local batch kb-priority-corrections-2026-09-26. Historical decisions and original files preserved."
     }
   ]
 }

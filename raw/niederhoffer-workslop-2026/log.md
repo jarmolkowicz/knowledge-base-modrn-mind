@@ -6,3 +6,8 @@
 - 2026 article saved as original.pdf; 2025 article saved as original-2025.pdf
 - source.md is concatenated extraction
 - Audit trail incomplete (Stages 2-4 not recorded)
+
+## 2026-09-26 — priority audit correction integrated
+
+- A08: Pilots compared with Passengers; survey associations separated from tested interventions.
+- User approved priority corrections; three-lens self-review and mechanical validation passed. Related entries corrected in the same batch. Original files and prior decisions unchanged.

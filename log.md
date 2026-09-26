@@ -96,3 +96,11 @@ Parseable: `grep "^## \[" log.md | tail -20` shows recent activity.
 - Chen proof/publication-year distinction recorded with local evidence; validator handling covered by eight regression tests. No alteration to extracted source text.
 - Solé deferred; Mat Ali skipped; Zhang excluded. Original PDFs, extracted text and temporary files remain Git-ignored. No commit or push.
 - Full source list, integration destinations and checks: [Julia integration record](raw/julia-new-2026-09-26/integration-overview.md).
+
+## [2026-09-26] audit-correction | Apply user-approved priority evidence corrections
+
+- Corrected 11 high-severity audit findings across 23 existing entries: unsupported practice thresholds; novice/expert generalizations; Bartoš effect interpretation and leveling comparison; Stadler measurement/mediation limits; Han willingness and scale attribution; Socratic-method limits; Workslop comparator and causal language; Risko reliance/attribution; Bjork prerequisites; Hatano AI extrapolation.
+- Updated directly repeated claims in related entries and rebuilt the index. Socratic Partnership and Novice Vulnerability are now emerging. Entry counts unchanged: 134 sources, 73 concepts, 22 methods.
+- Drafts passed three-lens self-critique, draft validation, whole-KB structural checks, 8 validator regression tests and 32 correction-specific guards. This was a scoped correction pass, not complete verification of all entries.
+- Seven affected source workbenches received appended correction decisions and log records; originals and historical decisions preserved. Local correction drafts/reports are Git-ignored. Remaining medium/low audit findings and quotation checks remain open. No commit or push.
+- Final whole-KB recheck flagged one unrelated, newly created workbench missing its catalog date (`tamisier-fayard-255-design-ai-systems-that-actually-strengthen-2026`, `ingested_at`). Left untouched. The 23 corrected entries passed their checks; seven source histories verified append-only and original-file hashes unchanged.

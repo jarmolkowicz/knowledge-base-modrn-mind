@@ -10,58 +10,37 @@ sources:
 
 ## What To Do
 
-Self-assess weekly using observable behavioral signals. Focus on what you DO, not how you FEEL.
+Use these proposed prompts to review whether AI use fits your learning, work and social goals. This is not a validated screen for dependence or [[capacity-erosion]], and the colours are not diagnostic categories.
 
 ## How To Do It
 
-**Weekly review (10-15 min):**
+[Inference] Review a recent task and compare your impressions with observable work:
 
-**🟢 Green signals:**
-- Work effectively without AI when needed
-- Catch AI errors and improve its output
-- Reject or significantly transform AI contributions
-- Still learning and developing skills
-- Can confidently explain your work
+- **Green — continue and check:** you can explain the reasoning, verify important claims and complete the parts you need to perform unaided.
+- **Yellow — investigate:** you accept output without checking it, cannot explain a decision, or have fewer opportunities to practise a skill you want to keep.
+- **Red — respond to a demonstrated problem:** an unaided task reveals a meaningful gap, repeated errors escape your checks, or your pattern of use interferes with work or relationships.
 
-**🟡 Yellow signals:**
-- Mild discomfort working without AI
-- Accepting most AI output without changes
-- Recent heavy AI reliance
-- Difficulty explaining work without referencing AI
+A low editing percentage is not evidence of lost skill. Discomfort without a tool, feeling understood by AI or private disclosure alone also does not establish dependence.
 
-**🔴 Red signals:**
-- Significant difficulty working without AI
-- Accepting AI output nearly verbatim (<20% changes)
-- Can't distinguish good from plausible-but-wrong
-- Work feels hollow despite productivity
+**Choose a response to the specific problem:**
 
-**Relatedness/social signals** (Fang et al., 2025; Nosta, 2025):
+1. Identify the capability or outcome that matters.
+2. Try a comparable unaided task or ask a knowledgeable colleague to review your reasoning.
+3. If a gap is demonstrated, arrange relevant practice, feedback or support and reassess.
+4. Adjust AI use to that goal. No validated AI-free quota or recovery period is established by the cited sources.
 
-AI use affects not just competence but social connection. Monitor these alongside the signals above:
-
-| 🟢 Green | 🟡 Yellow | 🔴 Red |
-|----------|----------|--------|
-| Seeking colleagues for feedback and discussion | Preferring AI responses over colleague input | Sharing with AI what you would not tell anyone |
-| Preferring human feedback on important work | Declining social invitations or collaboration | AI feels more understanding than people |
-| Maintaining normal social routines | Spending noticeably more time with AI than peers | Emotional dependence on AI interaction |
-
-Fang et al. (2025) found in a 4-week RCT (N=981) that higher daily AI chatbot usage correlated with increased loneliness and decreased socialization with real people (both p < 0.0001). The effect was dose-dependent — not binary.
-
-**Actions:**
-- Green: Keep current approach
-- Yellow: Increase unassisted work 20-30%, schedule AI-free day
-- Red: 2-4 week restoration, 50%+ unassisted work
+**Social-use prompts:** Are valued relationships or activities being displaced? Is the pattern of use causing problems you want to change? Fang et al. (2025) found associations between heavier chatbot use and poorer psychosocial outcomes within a four-week study. Usage amount was not itself randomized; this does not validate a diagnostic threshold or show that reducing use by a set amount reverses harm.
 
 ## Why It Works
 
-Makes [[capacity-erosion]] visible before it's severe. Yellow is normal—the skill is catching it early.
+[Inference] Combining reflection with task evidence may help identify a mismatch between assisted output and the capability you need. The complete monitoring method has not been tested for early detection, prevention or recovery.
 
 ## Related
 
-- [[metacognition]] - self-monitoring capacity
-- [[capacity-erosion]] - what this detects
-- [[strategic-alternation]] - what to adjust
-- [[ai-loneliness-effect]] - the relational risk the social signals detect
+- [[metacognition]] - monitoring your own understanding
+- [[capacity-erosion]] - a possible concern, not a diagnosis made by this method
+- [[strategic-alternation]] - another proposed way to organize practice and assistance
+- [[ai-loneliness-effect]] - evidence and limits concerning social chatbot use
 
 ## Sources
 

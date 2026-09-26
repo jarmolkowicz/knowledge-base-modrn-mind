@@ -33,7 +33,7 @@ The two interact reciprocally: data suggests which model fits; the adopted model
 
 The motivating example: a farmer with conventional skills may, through years of growing rice and observing covariations, build a conceptual model of plants. With it, the farmer adapts to unusual weather or disease — handles the *unfamiliar*. Without it, only trial-and-error or empirical minor adjustment is available when the original procedure stops working.
 
-For human thinking with AI: this is the foundational distinction the KB inherits. AI-supported work tends to build *routine expertise* — pattern matching, applying procedures, executing fluent outputs — while leaving the conceptual layer underbuilt. The AI handles the procedural part; the human is rarely required to construct the underlying model. When AI fails or context changes (the "unusual weather" of professional work), the AI-supported worker has only the procedure, not the principles. This is the distillation of why AI substitution is a long-term capability problem, even when short-term performance looks fine.
+[Inference] The routine/adaptive distinction offers a question for AI-supported work: does the workflow help people understand why a procedure works and adapt it to new conditions? The chapter did not test GenAI, establish that AI mainly builds routine expertise, or demonstrate lasting capability loss. Even its prediction about highly standardized technology reducing opportunities to develop conceptual knowledge is presented as needing empirical confirmation.
 
 ## Key Passages
 
@@ -54,29 +54,26 @@ For human thinking with AI: this is the foundational distinction the KB inherits
 
 ## Relevance
 
-A foundational distinction for the KB's preservation cluster. Three load-bearing contributions:
-
-- **Names the right target.** The KB's preservation argument isn't "preserve all skill" — it's preserve **adaptive** expertise. Routine expertise can be safely automated; adaptive expertise has to be cultivated. This is a useful conceptual sharpening.
-- **Specifies the mechanism.** Conceptual knowledge requires both empirical observation and a preconceptual model. AI substitution often supplies neither — it gives the answer, not the data-and-model that build the conceptual layer. The mechanism for why AI undermines adaptive expertise is therefore precise: it short-circuits the data-collection and model-building loop.
-- **Provides the failure mode.** When the original procedure fails (which happens in any non-stationary domain — and AI's deployment context is highly non-stationary), the routine-only expert has trial-and-error; the adaptive expert has principles to reason from. This is the real cost of AI substitution.
+- Distinguishes efficient performance in familiar conditions from flexible understanding that supports adaptation.
+- Proposes that conceptual knowledge develops through interaction between observed variation and explanatory models.
+- [Inference] AI workflows could be assessed for the opportunities they provide to explain, vary and test procedures. The chapter does not determine which tasks are safe to automate or validate a particular AI-use schedule.
 
 ## Supports
 
-- [[strategic-alternation]] — alternation builds the conceptual layer that pure AI use leaves underbuilt
-- [[desirable-difficulty]] — Bjork's framing in cognitive vocabulary; Hatano & Inagaki's framing in expertise vocabulary; same underlying claim
-- [[ericsson-deliberate-practice-1993]] — Ericsson's deliberate practice produces what Hatano & Inagaki call adaptive expertise
-- [[bjork-desirable-difficulties-2011]] — variation-of-conditions builds the empirical-knowledge half of adaptive expertise
-- [[capacity-erosion]] — capacity erosion is specifically the loss of the conceptual layer; routine skills can persist
-- [[judgment]] — adaptive expertise is the substrate of professional judgment in novel situations
-- [[gentner-markman-analogy-1997]] — [[analogical-reasoning|analogical reasoning]] is one mechanism by which preconceptual models get borrowed across domains
+- [[strategic-alternation]] — [Inference] a possible application, not a method tested by this chapter
+- [[desirable-difficulty]] — related learning questions, not an identical construct
+- [[ericsson-deliberate-practice-1993]] — related account of practice; deliberate practice and adaptive expertise should not be treated as interchangeable
+- [[bjork-desirable-difficulties-2011]] — varied practice is relevant to learning; it does not by itself establish adaptive expertise
+- [[capacity-erosion]] — [Inference] loss of conceptual understanding is one possible concern, not the definition of all erosion
+- [[judgment]] — conceptual understanding can inform responses to unfamiliar problems
+- [[gentner-markman-analogy-1997]] — [[analogical-reasoning|analogical reasoning]] offers an account of borrowing models across domains
 
 ## Contradicts / Extends
 
-- Foundational; extended by [[ericsson-deliberate-practice-1993]] (mechanism of how the conceptual layer gets built) and [[bjork-desirable-difficulties-2011]] (cognitive conditions that favor it).
-- Cross-cultural angle (Japanese vs. Western trajectories of expertise) is mostly outside KB scope but supports the claim that "adaptive expertise" is a generalizable construct, not a culture-specific artifact.
+Related to [[ericsson-deliberate-practice-1993]] and [[bjork-desirable-difficulties-2011]], but these sources ask different questions. The chapter's cross-cultural discussion proposes conditions for developing expertise; it does not establish a universal AI-use rule.
 
 ## Open Questions
 
-- AI as *external* conceptual knowledge: can AI supply the model layer rather than just the procedure? In principle yes (AI can verbalize principles, predict, invent variations) — but only if the human queries it for that, which most workflows don't. Would explicit prompting for "explain why this works" recover some of the conceptual-knowledge construction?
-- The empirical-knowledge half requires *observed covariations*. AI-mediated work often hides the variations (the AI handles edge cases; the human sees only the smooth surface). Is there a workflow design that re-exposes the variations the AI is handling silently?
-- Hatano & Inagaki argue conceptual knowledge construction is *endogenous* — driven by intrinsic motivation for understanding. If AI satisfies the immediate procedural need, does the intrinsic motivation to understand "why" attenuate? This is testable.
+- Can AI assistance help learners construct and test conceptual models rather than only apply procedures?
+- When does automation hide useful variation, and when does it free resources for exploring it?
+- Does satisfying an immediate procedural need reduce motivation to understand why a procedure works? This remains a hypothesis for AI-supported work.

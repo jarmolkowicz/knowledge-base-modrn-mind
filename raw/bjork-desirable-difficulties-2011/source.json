@@ -30,6 +30,13 @@
       "by": "human (Pass 2 pilot)",
       "at": "2026-04-29T11:22:48Z",
       "reason": "Re-distilled inline using opendataloader-pdf-extracted source.md. Added Key Passages section (5 verbatim quotes with page locators), expanded Key Insight with storage/retrieval framework, added 3 supports wikilinks (fluency-bias, metacognition, judgment-development-paradox), added Open Questions."
+    },
+    {
+      "stage": "audit_correction",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "by": "Codex librarian; user-approved priority corrections",
+      "reason": "A18: learner prerequisites and conditional learning benefits; AI application labeled inference. Approval: Make priority corrections. Drafted, three-lens self-critiqued and validated in local batch kb-priority-corrections-2026-09-26. Historical decisions and original files preserved."
     }
   ],
   "pages": 10

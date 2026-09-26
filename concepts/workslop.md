@@ -21,9 +21,11 @@ From BetterUp Labs / Stanford Social Media Lab survey (N=1,150):
 - ~50% of recipients view senders as less capable, creative, and reliable afterward
 - 42% see senders as less trustworthy
 
-Workslop is not laziness — it is what happens when overwhelmed employees are given vague mandates to "use AI" without training, agency, or trust. 53% of respondents admitted to sending subpar AI-generated work at least some of the time — primarily because they feel "stretched too thin."
+The authors interpret workslop in terms of overload, vague mandates, competence and trust. The survey does not isolate these as causes or show that laziness can be ruled out. It reports that 53% admitted sending subpar AI-generated work at least some of the time.
 
-## Mechanism
+## Proposed Mechanism
+
+[Inference] A possible organizational sequence, not a causal chain established by the survey:
 ```
 Vague AI mandate + Overburdened employees + No quality norms
     → Performative AI use (demonstrate compliance)
@@ -35,29 +37,32 @@ Vague AI mandate + Overburdened employees + No quality norms
 
 ## Producer-Side Motivational Mechanism
 
-Hai et al. (2025) supply the within-person motivational mechanism that the workslop literature has had to infer. In a daily-ESM study of 229 service-industry employees (1,050 matched within-person observations), daily GenAI collaboration intensity predicted same-day **work alienation** (felt disconnection from work, γ = .14, p < .001), which in turn predicted **employee expediency** — corner-cutting, performance-number manipulation, protocol violations, and self-serving rule enforcement (γ = .30, p < .01). The full indirect path is significant under high digital job demands (estimate = .06, CI [.010, .118]) and non-significant under low demands.
+Hai et al. (2025) report within-person observational associations among daily GenAI collaboration, work alienation and self-reported employee expediency in 229 employees. The conditional indirect association was significant under high digital job demands, but not low demands. They did not measure workslop or experimentally isolate this pathway.
 
-Expediency is the *producer-side dual* of workslop. Niederhoffer et al.'s survey evidence captures the recipient-side cost (40% receive workslop monthly; ~2 hours per incident; 50% view senders as less capable). Hai et al. document the upstream mechanism: when daily GenAI collaboration alienates the producer from their work, the producer's commitment to ethical standards wanes in parallel with their commitment to substantive engagement, and the most expedient route — passing along AI output with minimal substance — becomes more likely. The two papers together describe the full producer→recipient cycle: daily collaboration intensity → felt disconnection → withdrawal of ethical engagement → low-substance output passed downstream → recipient bears the cognitive burden, judges the sender as less reliable.
+[Inference] Expediency could be relevant to why someone passes along low-quality work, but expediency and workslop are different constructs. Combining the two studies does not demonstrate a complete causal sequence from AI use to producer disengagement to recipient costs.
 
-The Hai et al. moderator (digital job demands) extends the workslop entry's protective-factor list: just as competence-and-control over AI tools halves workslop creation and team trust reduces it by 61%, *bounded digital demands* — managing information overload, prolonged digital connectivity, and continuous skill-update pressure — appear to attenuate the alienation pathway that produces the expedient withdrawal in the first place.
+Hai et al.'s observational associations with digital job demands and Niederhoffer et al.'s survey associations with competence and trust concern different measures. Neither establishes that reducing demands, providing training or building trust will cause the reported reduction in workslop.
 
 ## What Protects Against It
-- **Competence and control over AI tools** — halves workslop creation
-- **Team trust** — reduces workslop by 61%
-- **Agency + Optimism** ("Pilots" vs "Passengers") — high-agency workers use AI more but create better output
-- **Clear norms** — "AI is a collaborative tool, not a shortcut"
+
+The following are associated factors or proposals, not proven protective interventions:
+
+- **Competence and control over AI tools** — associated with being half as likely to create workslop in the survey.
+- **Team trust** — authors report 61% lower workslop associated with trust, not the measured effect of a trust-building intervention.
+- **Agency and optimism** — the "Pilots" group reported using AI 75% more often at work than "Passengers"; the groups also reported different motives.
+- **Clear quality norms** — [Inference] a practice to test against recipient rework and errors.
 
 ## The Irony
 "The greatest irony of all is that to make AI work at work, we need to get better at being human."
 
 ## Related
 - [[execution-commoditization]] - workslop is commoditized execution without quality judgment
-- [[novice-vulnerability]] - novices most likely to produce workslop (can't evaluate output)
+- [[novice-vulnerability]] - task knowledge may matter; novices were not shown to be the most frequent producers
 - [[confidence-competence-gap]] - senders often don't recognize output as subpar
 - [[fluency-bias]] - workslop succeeds because it looks polished
 - [[agency]] - high-agency workers resist producing workslop
 - [[calibration]] - workslop results from failure to calibrate AI use to task demands
-- [[hai-dark-side-collaboration-2025]] - producer-side motivational mechanism; expediency as the upstream withdrawal that channels into workslop output
+- [[hai-dark-side-collaboration-2025]] - observational associations with expediency; a connection to workslop remains untested
 
 ## Sources
 
