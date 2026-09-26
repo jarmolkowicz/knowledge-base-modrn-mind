@@ -1,0 +1,94 @@
+{
+  "slug": "inzlicht-effort-paradox-2018",
+  "original_filename": "Inzlich et al. - The Effort Paradox.pdf",
+  "format": "pdf",
+  "source_type": "paper",
+  "word_count": 11041,
+  "hash": "df7b6068142d5c5a544652765ce5de04206ac4621f5e8e1fd706958e5db47649",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T16:06:54Z",
+  "decisions": [
+    {
+      "stage": "triage",
+      "outcome": "INCLUDE",
+      "date": "2026-09-26",
+      "reason": "User approved the recommended outcome, rationale and scope: Approved. Proceed.",
+      "authority": "user"
+    },
+    {
+      "stage": "distill",
+      "outcome": "PROCEED_TO_CRITIQUE",
+      "date": "2026-09-26",
+      "reason": "User approved formal critique after the 19-paper draft handoff: go aheadf.",
+      "authority": "user"
+    },
+    {
+      "stage": "critique",
+      "round": 1,
+      "outcome": "REVISE",
+      "date": "2026-09-26",
+      "reason": "User approved eight flagged draft revisions and re-review: yes. Integration not authorized.",
+      "authority": "user"
+    },
+    {
+      "stage": "revision_review",
+      "round": 2,
+      "outcome": "READY",
+      "date": "2026-09-26",
+      "reason": "Specified title Effort Heuristic, emerging status, full removal of the unsupported causal loop, and a separately labeled speculative AI analogy. Kruger citation retained without claiming original-source verification.",
+      "authority": "librarian"
+    },
+    {
+      "stage": "critique",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "reason": "User approved integration of all 19 reviewed papers, subject to final checks: \"Approved\".",
+      "authority": "user"
+    },
+    {
+      "stage": "validation",
+      "outcome": "PASS",
+      "date": "2026-09-26",
+      "reason": "Required validator returned zero findings before moving this source. Shared foundations integrated first; missing cross-references fixed in drafts. Chen publication-year evidence recorded where applicable.",
+      "authority": "librarian"
+    },
+    {
+      "stage": "integrate",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "reason": "Applied the user-approved integration decision after validation. Source and new-entry drafts moved; update proposals retained; originals and extracted text preserved.",
+      "authority": "librarian"
+    }
+  ],
+  "pages": 24,
+  "title": "The Effort Paradox: Effort Is Both Costly and Valued",
+  "authors": "Michael Inzlicht, Amitai Shenhav and Christopher Y. Olivola",
+  "year": 2018,
+  "publication_note": "Trends in Cognitive Sciences, 22(4), 337–349. DOI: 10.1016/j.tics.2018.01.007.",
+  "bibliographic_note": "Author spelling is Inzlicht, not the Dropbox filename's Inzlich.",
+  "source_path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Inzlich et al. - The Effort Paradox.pdf",
+  "triage_recommendation": "INCLUDE",
+  "triaged_at": "2026-09-26 16:16:16 UTC",
+  "batch": "julia-new-2026-09-26",
+  "distilled_at": "2026-09-26 16:28:33 UTC",
+  "distillation_decision": "PROCEED_TO_CRITIQUE",
+  "critique_overall": "READY",
+  "critique_decision": "PROCEED_TO_INTEGRATE",
+  "critiqued_at": "2026-09-26",
+  "critique_round": 2,
+  "revised_at": "2026-09-26",
+  "revision_decision": "REVISE",
+  "revision_status": "complete",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "validated_at": "2026-09-26",
+  "validation_findings": 0,
+  "integrated_at": "2026-09-26",
+  "integrated_paths": [
+    "sources/inzlicht-effort-paradox-2018.md",
+    "concepts/effort-paradox.md",
+    "concepts/effort-heuristic.md",
+    "methods/effort-investment-review.md"
+  ]
+}

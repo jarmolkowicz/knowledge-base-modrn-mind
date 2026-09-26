@@ -49,6 +49,8 @@ Supplies concrete workplace accounts of retained [[agency]] and [[professional-i
 
 ## Supports
 
+- [[meaningful-work]] — work-specific meaning, distinct from engagement and productivity.
+
 - [[ai-work-practice-ideal-types]] — three descriptive orientations for discussing task choices and support needs.
 - [[agency]] — employees actively define what to delegate and what authority to keep.
 - [[professional-identity-threat]] — concerns about expertise coexist with perceived benefits.

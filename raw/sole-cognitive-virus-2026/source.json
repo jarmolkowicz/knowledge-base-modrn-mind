@@ -1,0 +1,31 @@
+{
+  "slug": "sole-cognitive-virus-2026",
+  "original_filename": "Sole et al. - Large-Language Models as a Cognitive Virus.pdf",
+  "format": "pdf",
+  "source_type": "paper",
+  "word_count": 8732,
+  "hash": "e172efe1eee27418aa3bf847b2d8498335c9f4727f723e64219e97af0b161c22",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "deferred",
+  "ingested_at": "2026-09-26T16:06:49Z",
+  "decisions": [
+    {
+      "stage": "triage",
+      "outcome": "DEFER",
+      "date": "2026-09-26",
+      "reason": "User approved the recommended outcome, rationale and scope: Approved. Proceed.",
+      "authority": "user"
+    }
+  ],
+  "pages": 12,
+  "title": "Large-Language Models as a Cognitive Virus",
+  "authors": "Ricard Solé and colleagues",
+  "year": 2026,
+  "publication_note": "arXiv:2609.03344v1, supplied preprint.",
+  "bibliographic_note": "Correct catalog heuristic from article to paper.",
+  "source_path": "D:\\Dropbox\\Dropbox\\Papers\\Sole et al. - Large-Language Models as a Cognitive Virus.pdf",
+  "triage_recommendation": "DEFER",
+  "triaged_at": "2026-09-26 16:16:16 UTC",
+  "batch": "julia-new-2026-09-26"
+}

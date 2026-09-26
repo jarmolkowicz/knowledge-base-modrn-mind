@@ -1,0 +1,566 @@
+{
+  "date": "2026-09-26",
+  "mode": "HITL",
+  "stage": "integrated",
+  "authority": "User approved integration of all 19 reviewed papers: \"Approved\". Completed after final checks.",
+  "folder": "D:\\Dropbox\\Dropbox\\Papers",
+  "unique_papers": 21,
+  "files": [
+    {
+      "slug": "claessens-ai-outsourcing-perceptions-2026",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Claessens et al. (2026).pdf",
+      "hash": "43b112cdb7fa5be872daf69983f135df17ef5a8ed66436daed5320ed9d458c40",
+      "role": "primary"
+    },
+    {
+      "slug": "rajaram-tsim-flipped-classroom-2026",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Rajaram & Tsim (2026) - GenAI-Integrated Flipped Classroom Learning Design.pdf",
+      "hash": "9a016c3429c77a0fe25e40397c7c9854ad2f2bccd16071b0e8f81287c3005cbc",
+      "role": "primary"
+    },
+    {
+      "slug": "sole-cognitive-virus-2026",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Sole et al. - Large-Language Models as a Cognitive Virus.pdf",
+      "hash": "e172efe1eee27418aa3bf847b2d8498335c9f4727f723e64219e97af0b161c22",
+      "role": "primary"
+    },
+    {
+      "slug": "allan-meaningful-work-meta-analysis-2019",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Allan et al. - Outcomes of Meaningful Work- A Meta-Analysis.pdf",
+      "hash": "a6d2b4ee7792dcdb6c8dc8b8a236f407659bd287caf6f82ec3c5945c5c52b1a5",
+      "role": "primary"
+    },
+    {
+      "slug": "bailey-madden-meaningful-meaningless-2016",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Bailey & Madden - What Makes work meaningful - Or meaningless.pdf",
+      "hash": "5b0ad74ea7edd3cc68065688648b0d06c56d9938cb540424db24e16f98d75c7a",
+      "role": "primary"
+    },
+    {
+      "slug": "bailey-madden-time-reclaimed-2017",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Bailey & Madden (2017) - Time reclaimed.pdf",
+      "hash": "2ed184bd174bf39658ab55a4e51f9910a1e43c4f34181405e4d0153abf200287",
+      "role": "primary"
+    },
+    {
+      "slug": "bankins-formosa-ai-meaningful-work-2023",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Bankins & Formosa (2023) - The ethical implications of artificial intelligence (AI) for meaningful work.pdf",
+      "hash": "6c13d6ab649720e609ac01aac892410863df22bbeae0ffc07df38f5a6e30e746",
+      "role": "primary"
+    },
+    {
+      "slug": "chen-basic-needs-cultures-2015",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Chen et al. (2015) - Basic psychological need satisfaction, need frustration, and need 3 strength across four cultures.pdf",
+      "hash": "083af4ac172a067ec9e0ffff726edad39c93c8b4a69ea27fe588311930657743",
+      "role": "primary"
+    },
+    {
+      "slug": "hackman-oldham-work-design-1976",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Hackman & Oldham (1976) - Motivation through the Design of Work- Test of a Theory.pdf",
+      "hash": "524bb13ae2eeeb96fa82c298810cc7391012146392856d183923438a5d25e092",
+      "role": "primary"
+    },
+    {
+      "slug": "inzlicht-effort-paradox-2018",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Inzlich et al. - The Effort Paradox.pdf",
+      "hash": "df7b6068142d5c5a544652765ce5de04206ac4621f5e8e1fd706958e5db47649",
+      "role": "primary"
+    },
+    {
+      "slug": "kasser-ryan-intrinsic-extrinsic-goals-1996",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Kasser & Ryan (1996).pdf",
+      "hash": "63dc8fac24c531d1fdba2752499c939980a5e54c8944943bbb822d34e2295375",
+      "role": "primary"
+    },
+    {
+      "slug": "lips-wiersma-wright-meaningful-work-scale-2012",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Lips-Wiersma & Wright (2012) - Measuring the Meaning of Meaningful Work.pdf",
+      "hash": "53ca5cc3f3f27de7e590f3b7099194bb775b578577c09cf797495ef980bc039a",
+      "role": "primary"
+    },
+    {
+      "slug": "martela-riekki-meaningful-work-pathways-2018",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Martela & Riekki (2018).pdf",
+      "hash": "fed4ba6e141d05ce22a3559573bd8a7d8f3bec377e7f17314c4eabb2bab1cfcd",
+      "role": "primary"
+    },
+    {
+      "slug": "martela-steger-meaning-life-2016",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Martela & Steger (2016) - The Three Meanings of Meaning in Life.pdf",
+      "hash": "7f6bd3f1cc65c7a10d7a041e0bab585a646bd9a1430095f78cde49ec4652d776",
+      "role": "primary"
+    },
+    {
+      "slug": "martela-meaningful-work-longitudinal-2021",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Martela et al. (2021) - What makes work meaningful_ Longitudinal evidence for the importance of autonomy and beneficence for meaningful work.pdf",
+      "hash": "4a2b6819cbf155a1bb67fbd368c8bf7a3cc18d824f86bd2370642bf62fccc2ad",
+      "role": "primary"
+    },
+    {
+      "slug": "martela-meaningful-work-longitudinal-2021",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Martela et al. (2021) - What makes work meaningful.pdf",
+      "hash": "98f1dfdf293755513af5660e7781f6d1a151af09117bd4703aa075176e4ab660",
+      "role": "alternate-preproof"
+    },
+    {
+      "slug": "martikainen-meaningfulness-moments-2022",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Martikainen et al. (2021) Moments of Meaningfulness and Meaninglessness.pdf",
+      "hash": "8c3ddd663451babf264a924822824ee66394506fe68794f919c1fb385c666ad7",
+      "role": "primary"
+    },
+    {
+      "slug": "mat-ali-job-characteristics-satisfaction-2014",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Mat Ali et al. (2013) - Hackman and Oldham’s Job Characteristics Model to Job Satisfaction.pdf",
+      "hash": "63d1af85e6997e76c823fbfdbcfd7557e502bdaded472e7decbf9b7cb9e649b4",
+      "role": "primary"
+    },
+    {
+      "slug": "niemiec-aspirations-attainment-2009",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Niemiec, Ryan & Deci (2009).pdf",
+      "hash": "20d17928d6eb2ffe815b213bc929e9d274b5aa04b9b6ddae58365e396e0a863d",
+      "role": "primary"
+    },
+    {
+      "slug": "sheldon-niemiec-balanced-needs-2006",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Sheldon & Niemiec - It’s Not Just the Amount That Counts- Balanced Need Satisfaction Also Affects Well-Being.pdf",
+      "hash": "6180a70c5a7e7a18f7c8cf788808fc5f96af367bfbe75642544776761c645f3e",
+      "role": "primary"
+    },
+    {
+      "slug": "smids-robots-meaningful-work-2020",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Smids, Nyholm & Berkers (2019) - Robots in the Workplace.pdf",
+      "hash": "a96826b705c6789175d035b2fc40a16cd46b0ec1bedffca713e33b699db883c7",
+      "role": "primary"
+    },
+    {
+      "slug": "szots-kovats-primecz-hr-meaningfulness-2025",
+      "path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Szots-Kovtas & Primecz (2025) - How do human resource managers make sense of their work  A study of changing work meaningfulness using the critical incident technique.pdf",
+      "hash": "55ed82374effb7c9afb6a63ac463da12e74ed2691cb86b2e82919fff8a58f819",
+      "role": "primary"
+    }
+  ],
+  "excluded": "Zhang remains excluded; survey draft not a paper; known papers not re-ingested.",
+  "triaged_at": "2026-09-26 16:16:16 UTC",
+  "recommendation_counts": {
+    "INCLUDE": 11,
+    "PARTIAL": 8,
+    "DEFER": 1,
+    "SKIP": 1
+  },
+  "assessments": [
+    {
+      "slug": "claessens-ai-outsourcing-perceptions-2026",
+      "title": "Negative perceptions of outsourcing to artificial intelligence",
+      "recommendation": "INCLUDE",
+      "relevance": "HIGH",
+      "quality": "HIGH",
+      "decision": "INCLUDE",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "critique_round": 2,
+      "revision_decision": "REVISE",
+      "revision_status": "complete",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/claessens-ai-outsourcing-perceptions-2026.md",
+        "concepts/authenticity.md",
+        "concepts/disclosure-penalty.md"
+      ]
+    },
+    {
+      "slug": "rajaram-tsim-flipped-classroom-2026",
+      "title": "GenAI-Integrated Flipped Classroom Learning Design in Management Education: A Conceptual Behavioral Stakeholder Framework",
+      "recommendation": "PARTIAL",
+      "relevance": "HIGH",
+      "quality": "MEDIUM",
+      "decision": "PARTIAL",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/rajaram-tsim-flipped-classroom-2026.md",
+        "concepts/metacognition.md"
+      ]
+    },
+    {
+      "slug": "sole-cognitive-virus-2026",
+      "title": "Large-Language Models as a Cognitive Virus",
+      "recommendation": "DEFER",
+      "relevance": "HIGH",
+      "quality": "MEDIUM",
+      "decision": "DEFER",
+      "status": "deferred"
+    },
+    {
+      "slug": "allan-meaningful-work-meta-analysis-2019",
+      "title": "Outcomes of Meaningful Work: A Meta-Analysis",
+      "recommendation": "INCLUDE",
+      "relevance": "HIGH",
+      "quality": "HIGH",
+      "decision": "INCLUDE",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "critique_round": 2,
+      "revision_decision": "REVISE",
+      "revision_status": "complete",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/allan-meaningful-work-meta-analysis-2019.md",
+        "concepts/meaningful-work.md",
+        "methods/ai-work-practice-ideal-types.md"
+      ]
+    },
+    {
+      "slug": "bailey-madden-meaningful-meaningless-2016",
+      "title": "What Makes Work Meaningful—or Meaningless?",
+      "recommendation": "INCLUDE",
+      "relevance": "HIGH",
+      "quality": "MEDIUM",
+      "decision": "INCLUDE",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "critique_round": 2,
+      "revision_decision": "REVISE",
+      "revision_status": "complete",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/bailey-madden-meaningful-meaningless-2016.md",
+        "concepts/meaningful-work.md",
+        "concepts/professional-identity-threat.md"
+      ]
+    },
+    {
+      "slug": "bailey-madden-time-reclaimed-2017",
+      "title": "Time reclaimed: temporality and the experience of meaningful work",
+      "recommendation": "PARTIAL",
+      "relevance": "MEDIUM",
+      "quality": "MEDIUM",
+      "decision": "PARTIAL",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/bailey-madden-time-reclaimed-2017.md",
+        "concepts/professional-identity-threat.md"
+      ]
+    },
+    {
+      "slug": "bankins-formosa-ai-meaningful-work-2023",
+      "title": "The Ethical Implications of Artificial Intelligence (AI) For Meaningful Work",
+      "recommendation": "INCLUDE",
+      "relevance": "HIGH",
+      "quality": "MEDIUM",
+      "decision": "INCLUDE",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "critique_round": 2,
+      "revision_decision": "REVISE",
+      "revision_status": "complete",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/bankins-formosa-ai-meaningful-work-2023.md",
+        "methods/ai-meaningful-work-design.md"
+      ]
+    },
+    {
+      "slug": "chen-basic-needs-cultures-2015",
+      "title": "Basic psychological need satisfaction, need frustration, and need strength across four cultures",
+      "recommendation": "INCLUDE",
+      "relevance": "HIGH",
+      "quality": "HIGH",
+      "decision": "INCLUDE",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/chen-basic-needs-cultures-2015.md",
+        "concepts/basic-psychological-needs.md"
+      ]
+    },
+    {
+      "slug": "hackman-oldham-work-design-1976",
+      "title": "Motivation through the Design of Work: Test of a Theory",
+      "recommendation": "INCLUDE",
+      "relevance": "HIGH",
+      "quality": "HIGH",
+      "decision": "INCLUDE",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/hackman-oldham-work-design-1976.md",
+        "methods/job-characteristics-model.md"
+      ]
+    },
+    {
+      "slug": "inzlicht-effort-paradox-2018",
+      "title": "The Effort Paradox: Effort Is Both Costly and Valued",
+      "recommendation": "INCLUDE",
+      "relevance": "HIGH",
+      "quality": "HIGH",
+      "decision": "INCLUDE",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "critique_round": 2,
+      "revision_decision": "REVISE",
+      "revision_status": "complete",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/inzlicht-effort-paradox-2018.md",
+        "concepts/effort-paradox.md",
+        "concepts/effort-heuristic.md",
+        "methods/effort-investment-review.md"
+      ]
+    },
+    {
+      "slug": "kasser-ryan-intrinsic-extrinsic-goals-1996",
+      "title": "Further Examining the American Dream: Differential Correlates of Intrinsic and Extrinsic Goals",
+      "recommendation": "PARTIAL",
+      "relevance": "MEDIUM",
+      "quality": "MEDIUM",
+      "decision": "PARTIAL",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/kasser-ryan-intrinsic-extrinsic-goals-1996.md",
+        "concepts/agency.md"
+      ]
+    },
+    {
+      "slug": "lips-wiersma-wright-meaningful-work-scale-2012",
+      "title": "Measuring the Meaning of Meaningful Work: Development and Validation of the Comprehensive Meaningful Work Scale (CMWS)",
+      "recommendation": "INCLUDE",
+      "relevance": "HIGH",
+      "quality": "HIGH",
+      "decision": "INCLUDE",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "critique_round": 2,
+      "revision_decision": "REVISE",
+      "revision_status": "complete",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/lips-wiersma-wright-meaningful-work-scale-2012.md",
+        "methods/ai-work-practice-ideal-types.md"
+      ]
+    },
+    {
+      "slug": "martela-riekki-meaningful-work-pathways-2018",
+      "title": "Autonomy, Competence, Relatedness, and Beneficence: A Multicultural Comparison of the Four Pathways to Meaningful Work",
+      "recommendation": "INCLUDE",
+      "relevance": "HIGH",
+      "quality": "MEDIUM",
+      "decision": "INCLUDE",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/martela-riekki-meaningful-work-pathways-2018.md",
+        "concepts/agency.md"
+      ]
+    },
+    {
+      "slug": "martela-steger-meaning-life-2016",
+      "title": "The meaning of meaning in life: Coherence, purpose and significance as the three facets of meaning",
+      "recommendation": "INCLUDE",
+      "relevance": "HIGH",
+      "quality": "MEDIUM",
+      "decision": "INCLUDE",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/martela-steger-meaning-life-2016.md",
+        "concepts/meaning-facets.md"
+      ]
+    },
+    {
+      "slug": "martela-meaningful-work-longitudinal-2021",
+      "title": "What makes work meaningful? Longitudinal evidence for the importance of autonomy and beneficence for meaningful work",
+      "recommendation": "INCLUDE",
+      "relevance": "HIGH",
+      "quality": "MEDIUM",
+      "decision": "INCLUDE",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/martela-meaningful-work-longitudinal-2021.md",
+        "concepts/agency.md"
+      ]
+    },
+    {
+      "slug": "martikainen-meaningfulness-moments-2022",
+      "title": "Moments of Meaningfulness and Meaninglessness: A Qualitative Inquiry Into Affective Eudaimonia at Work",
+      "recommendation": "PARTIAL",
+      "relevance": "MEDIUM",
+      "quality": "MEDIUM",
+      "decision": "PARTIAL",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/martikainen-meaningfulness-moments-2022.md",
+        "methods/ai-work-practice-ideal-types.md"
+      ]
+    },
+    {
+      "slug": "mat-ali-job-characteristics-satisfaction-2014",
+      "title": "Hackman and Oldham's Job Characteristics Model to Job Satisfaction",
+      "recommendation": "SKIP",
+      "relevance": "MEDIUM",
+      "quality": "LOW",
+      "decision": "SKIP",
+      "status": "skipped"
+    },
+    {
+      "slug": "niemiec-aspirations-attainment-2009",
+      "title": "The Path Taken: Consequences of Attaining Intrinsic and Extrinsic Aspirations in Post-College Life",
+      "recommendation": "PARTIAL",
+      "relevance": "MEDIUM",
+      "quality": "MEDIUM",
+      "decision": "PARTIAL",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/niemiec-aspirations-attainment-2009.md",
+        "concepts/agency.md"
+      ]
+    },
+    {
+      "slug": "sheldon-niemiec-balanced-needs-2006",
+      "title": "It's Not Just the Amount That Counts: Balanced Need Satisfaction Also Affects Well-Being",
+      "recommendation": "PARTIAL",
+      "relevance": "MEDIUM",
+      "quality": "MEDIUM",
+      "decision": "PARTIAL",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "critique_round": 2,
+      "revision_decision": "REVISE",
+      "revision_status": "complete",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/sheldon-niemiec-balanced-needs-2006.md",
+        "concepts/basic-psychological-needs.md",
+        "concepts/agency.md"
+      ]
+    },
+    {
+      "slug": "smids-robots-meaningful-work-2020",
+      "title": "Robots in the Workplace: a Threat to—or Opportunity for—Meaningful Work?",
+      "recommendation": "PARTIAL",
+      "relevance": "HIGH",
+      "quality": "MEDIUM",
+      "decision": "PARTIAL",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/smids-robots-meaningful-work-2020.md",
+        "concepts/professional-identity-threat.md"
+      ]
+    },
+    {
+      "slug": "szots-kovats-primecz-hr-meaningfulness-2025",
+      "title": "How do human resource managers make sense of their work? A study of changing work meaningfulness using the critical incident technique",
+      "recommendation": "PARTIAL",
+      "relevance": "MEDIUM",
+      "quality": "MEDIUM",
+      "decision": "PARTIAL",
+      "status": "integrated",
+      "distillation_decision": "PROCEED_TO_CRITIQUE",
+      "critique_overall": "READY",
+      "critique_decision": "PROCEED_TO_INTEGRATE",
+      "integration_decision": "PROCEED_TO_INTEGRATE",
+      "integrated_paths": [
+        "sources/szots-kovats-primecz-hr-meaningfulness-2025.md",
+        "concepts/professional-identity-threat.md"
+      ]
+    }
+  ],
+  "triage_approved_at": "2026-09-26",
+  "draft_counts": {
+    "sources": 19,
+    "concepts": 4,
+    "methods": 2,
+    "update_proposals": 17,
+    "existing_targets": 8
+  },
+  "distillation_decision": "PROCEED_TO_CRITIQUE",
+  "critique_decision": "PROCEED_TO_INTEGRATE",
+  "critique_counts": {
+    "READY": 19,
+    "FLAGS": 0,
+    "BLOCKED": 0,
+    "drafts": 42,
+    "current_lens_verdicts": 126,
+    "drafts_needing_revision": 0
+  },
+  "initial_critique_counts": {
+    "READY": 12,
+    "FLAGS": 7,
+    "BLOCKED": 0,
+    "drafts": 42,
+    "lens_verdicts": 126,
+    "drafts_needing_revision": 8
+  },
+  "revision_counts": {
+    "papers": 7,
+    "drafts": 8,
+    "new_lens_verdicts": 24,
+    "unchanged_drafts": 34
+  },
+  "revision_decision": "REVISE",
+  "revision_status": "complete",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "current_report": "integration-overview.md",
+  "integrated_at": "2026-09-26",
+  "integration_counts": {
+    "sources": 19,
+    "concepts": 4,
+    "methods": 2,
+    "update_proposals": 17,
+    "existing_entries_updated": 8,
+    "other_entries_crosslinked": 7,
+    "total_entries": 229
+  }
+}

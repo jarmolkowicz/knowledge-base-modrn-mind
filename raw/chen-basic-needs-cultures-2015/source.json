@@ -1,0 +1,80 @@
+{
+  "slug": "chen-basic-needs-cultures-2015",
+  "original_filename": "Chen et al. (2015) - Basic psychological need satisfaction, need frustration, and need 3 strength across four cultures.pdf",
+  "format": "pdf",
+  "source_type": "paper",
+  "word_count": 18448,
+  "hash": "083af4ac172a067ec9e0ffff726edad39c93c8b4a69ea27fe588311930657743",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T16:06:52Z",
+  "decisions": [
+    {
+      "stage": "triage",
+      "outcome": "INCLUDE",
+      "date": "2026-09-26",
+      "reason": "User approved the recommended outcome, rationale and scope: Approved. Proceed.",
+      "authority": "user"
+    },
+    {
+      "stage": "distill",
+      "outcome": "PROCEED_TO_CRITIQUE",
+      "date": "2026-09-26",
+      "reason": "User approved formal critique after the 19-paper draft handoff: go aheadf.",
+      "authority": "user"
+    },
+    {
+      "stage": "critique",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "reason": "User approved integration of all 19 reviewed papers, subject to final checks: \"Approved\".",
+      "authority": "user"
+    },
+    {
+      "stage": "validation",
+      "outcome": "PASS",
+      "date": "2026-09-26",
+      "reason": "Required validator returned zero findings before moving this source. Shared foundations integrated first; missing cross-references fixed in drafts. Chen publication-year evidence recorded where applicable.",
+      "authority": "librarian"
+    },
+    {
+      "stage": "integrate",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "reason": "Applied the user-approved integration decision after validation. Source and new-entry drafts moved; update proposals retained; originals and extracted text preserved.",
+      "authority": "librarian"
+    }
+  ],
+  "pages": 21,
+  "title": "Basic psychological need satisfaction, need frustration, and need strength across four cultures",
+  "authors": "Beiwen Chen and colleagues",
+  "year": 2015,
+  "publication_note": "Motivation and Emotion, 39(2), 216–236. DOI: 10.1007/s11031-014-9450-1.",
+  "bibliographic_note": "Supplied file is a 2014 revised proof. The 2015 journal citation is corroborated in Martela et al. (2021), PDF p.13 references; no web metadata check performed.",
+  "source_path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Chen et al. (2015) - Basic psychological need satisfaction, need frustration, and need 3 strength across four cultures.pdf",
+  "triage_recommendation": "INCLUDE",
+  "triaged_at": "2026-09-26 16:16:16 UTC",
+  "batch": "julia-new-2026-09-26",
+  "distilled_at": "2026-09-26 16:28:33 UTC",
+  "distillation_decision": "PROCEED_TO_CRITIQUE",
+  "critique_overall": "READY",
+  "critique_decision": "PROCEED_TO_INTEGRATE",
+  "critiqued_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "publication_year_verification": {
+    "year": 2015,
+    "reason": "Supplied copy is a 2014 proof. The published Martela 2021 paper cites this same Chen title as 2015, Motivation and Emotion 39(2), 216–236; retain the publication year without modifying the extracted original.",
+    "reviewed_by": "librarian",
+    "verified_at": "2026-09-26",
+    "evidence_file": "raw/martela-meaningful-work-longitudinal-2021/source.md",
+    "evidence_quote": "& Verstuyf, J. (2015). Basic psychological need satisfaction, need frustration, and need strength across four cultures. Motivation and Emotion, 39 (2), 216 – 236 ."
+  },
+  "validated_at": "2026-09-26",
+  "validation_findings": 0,
+  "integrated_at": "2026-09-26",
+  "integrated_paths": [
+    "sources/chen-basic-needs-cultures-2015.md",
+    "concepts/basic-psychological-needs.md"
+  ]
+}

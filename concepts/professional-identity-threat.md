@@ -15,6 +15,9 @@ sources:
   - "Baumeister, R. F., Vohs, K. D., Aaker, J. L., & Garbinsky, E. N. (2013). Some key differences between a happy life and a meaningful life. The Journal of Positive Psychology, 8(6), 505–516. https://doi.org/10.1080/17439760.2013.830764"
   - "Jia, J., Ning, X., & Liu, W. (2025). The consequences and theoretical explanation of workplace AI on employees: A systematic literature review. Journal of Digital Management, 1, 14. https://doi.org/10.1007/s44362-025-00016-3"
   - "Wang, D., & Zhou, X. (2025). The impact of AI awareness on employees’ job burnout: A chain mediation of perceived organizational support and organizational commitment. SAGE Open. https://doi.org/10.1177/21582440251400532"
+  - "Bailey, C., & Madden, A. (2017). Time reclaimed: temporality and the experience of meaningful work. Work, Employment and Society, 31(1), 3–18. https://doi.org/10.1177/0950017015604100"
+  - "Smids, J., Nyholm, S., & Berkers, H. (2020). Robots in the workplace: A threat to—or opportunity for—meaningful work? Philosophy & Technology, 33, 503–522. https://doi.org/10.1007/s13347-019-00377-4"
+  - "Szőts-Kováts, K., & Primecz, H. (2025). How do human resource managers make sense of their work? A study of changing work meaningfulness using the critical incident technique. Human Resource Development International, 28(1), 132–151. https://doi.org/10.1080/13678868.2024.2310656"
 ---
 
 # Professional Identity Threat
@@ -36,6 +39,8 @@ The mapped conversations need not come from people employed in the assigned occu
 [Inference] Ask which tasks and work relationships a person experiences as threatened. Handa's usage data and Hai's daily alienation measures cannot by themselves establish the prevalence, chronicity or task-level distribution of professional identity threat.
 
 Baumeister et al. (2013) provide a non-AI foundation for separating happiness from meaningfulness. In an exploratory three-wave survey, the two were positively related, but self-expression and contribution showed different associations with meaning than happiness after each outcome was controlled for the other. These adjusted relationships are not causal effects and can differ from unadjusted relationships (PDF pp.5–6, 10–14). [Inference] Evaluating AI-assisted work should ask separately about satisfaction, meaning and authorship, rather than use greater ease or happiness as proof that professional identity is preserved.
+
+Bailey and Madden (2017) interviewed 44 refuse collectors, stonemasons and academics. Meaningful moments often connected completed work with past practice, other people and future contribution. Workers did not share a single preferred pace: slow craft and fast completion could each carry meaning. These accounts concern interpreted experiences, not measured identity erosion or AI effects. [Inference] When AI changes working time, examine control over pacing and visibility of contribution—not speed alone.
 
 ## Key Insight
 
@@ -77,6 +82,10 @@ Zhao and He (2024) provide a specific mechanism: [[ai-impostor-phenomenon|impost
 
 Wang and Zhou (2025) surveyed 434 university faculty in China. Greater concern that AI could replace their role was associated with greater self-reported burnout; perceived organizational support and commitment were associated with less burnout. Here, “AI awareness” means replacement concerns, not AI literacy or measured adoption. The cross-sectional survey does not establish that AI caused burnout, that skills declined, or that the proposed support programs would reduce strain (PDF pp.4–10).
 
+Smids, Nyholm and Berkers (2020) argue that robotization may either diminish or expand skill use, recognition, relationships and autonomy, depending on task and workplace design. These are conceptual possibilities illustrated with examples, not measured GenAI identity effects. They also caution that improvements across all dimensions are not always possible. [Inference] Review what a changed role lets a person contribute and receive recognition for; supervision is not inherently either meaningful or alienating.
+
+Szőts-Kováts and Primecz (2025) analyzed 37 retrospectively narrated incidents from 16 HR managers. Some accounts connected work events with changes in values or occupational self-understanding; others involved unstable or no change. Reported lasting reinterpretations were not prospectively verified. [Inference] An AI-related disruption should not be treated as proof of permanent identity loss or inevitable positive transformation.
+
 ## Proposed Support
 
 [Speculation] Unaided practice may help some people clarify authorship or regain confidence. The cited evidence does not establish that it restores professional identity. Discuss the person's work conditions and goals, and assess any proposed support rather than assuming a benefit.
@@ -95,6 +104,8 @@ Wu et al. (2025) ran four preregistered online experiments (total N=3,562) on tw
 Wu's experiments, Hai's observational field study and Hermann's theoretical review address different constructs and designs. Together they motivate questions about work experience; they do not establish one shared BPNT-mediated identity-threat pathway.
 
 ## Related
+
+- [[basic-psychological-needs]] — satisfaction and frustration of autonomy, competence and relatedness; not a measure of retained skill.
 
 - [[cognitive-debt]] - related capability concern, distinct from identity
 - [[strategic-alternation]] - proposed practice approach; identity restoration not established
@@ -115,6 +126,8 @@ Wu's experiments, Hai's observational field study and Hermann's theoretical revi
 
 - [[ai-impostor-phenomenon]] — feeling fraudulent despite successful AI-assisted work.
 
+- [[meaningful-work]] — experienced significance of work, distinct from professional identity change.
+
 ## Sources
 
 - [[nikolova-robots-meaning-2024]] — Nikolova et al. (2024)
@@ -130,4 +143,8 @@ Wu's experiments, Hai's observational field study and Hermann's theoretical revi
 - [[baumeister-happy-meaningful-life-2013]] — Baumeister, R. F., Vohs, K. D., Aaker, J. L., & Garbinsky, E. N. (2013). Some key differences between a happy life and a meaningful life. The Journal of Positive Psychology, 8(6), 505–516. https://doi.org/10.1080/17439760.2013.830764
 - [[jia-workplace-ai-review-2025]] — Jia, J., Ning, X., & Liu, W. (2025). The consequences and theoretical explanation of workplace AI on employees: A systematic literature review. Journal of Digital Management, 1, 14. https://doi.org/10.1007/s44362-025-00016-3
 - [[wang-ai-awareness-burnout-2025]] — Wang, D., & Zhou, X. (2025). The impact of AI awareness on employees’ job burnout: A chain mediation of perceived organizational support and organizational commitment. SAGE Open. https://doi.org/10.1177/21582440251400532
+
+- [[bailey-madden-time-reclaimed-2017]] — Bailey, C., & Madden, A. (2017). Time reclaimed: temporality and the experience of meaningful work. Work, Employment and Society, 31(1), 3–18. https://doi.org/10.1177/0950017015604100
+- [[smids-robots-meaningful-work-2020]] — Smids, J., Nyholm, S., & Berkers, H. (2020). Robots in the workplace: A threat to—or opportunity for—meaningful work? Philosophy & Technology, 33, 503–522. https://doi.org/10.1007/s13347-019-00377-4
+- [[szots-kovats-primecz-hr-meaningfulness-2025]] — Szőts-Kováts, K., & Primecz, H. (2025). How do human resource managers make sense of their work? A study of changing work meaningfulness using the critical incident technique. Human Resource Development International, 28(1), 132–151. https://doi.org/10.1080/13678868.2024.2310656
 

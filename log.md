@@ -86,3 +86,13 @@ Parseable: `grep "^## \[" log.md | tail -20` shows recent activity.
 - Recorded three-lens self-critique and zero-finding draft gate before integration. All 43 public entries match retained drafts; whole-KB linter zero findings. Index refreshed; counts remain 204.
 - Four evidence-status reductions; 24 selected recent Julia passages preserved verbatim. Original source workbenches and historical reviews untouched. Temporary/cache/binary exclusions remain in force.
 - Saved in a correction-only local commit; no push. Unrelated and concurrent work left untouched.
+
+## [2026-09-26] ingest | Julia batch: 19 reviewed papers integrated
+
+- User approved integration after formal critique and eight draft revisions. All 19 pre-integration gates passed; shared foundations installed before dependent papers.
+- Added 19 source notes, four concepts (meaningful-work, basic-psychological-needs, effort-paradox, meaning-facets) and two methods (job-characteristics-model, ai-meaningful-work-design).
+- Applied 17 update proposals to eight existing entries and two new foundations; seven other entries received cross-references only. Effort Heuristic now emerging, with the unsupported AI inverse loop removed.
+- KB counts: 204 -> 229 entries (134 sources, 73 concepts, 22 methods). Structural linter: zero findings. All 38 source quotations preserved; all 22 supplied PDF hashes match the catalog.
+- Chen proof/publication-year distinction recorded with local evidence; validator handling covered by eight regression tests. No alteration to extracted source text.
+- Solé deferred; Mat Ali skipped; Zhang excluded. Original PDFs, extracted text and temporary files remain Git-ignored. No commit or push.
+- Full source list, integration destinations and checks: [Julia integration record](raw/julia-new-2026-09-26/integration-overview.md).

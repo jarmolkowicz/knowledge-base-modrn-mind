@@ -1,0 +1,93 @@
+{
+  "slug": "bailey-madden-meaningful-meaningless-2016",
+  "original_filename": "Bailey & Madden - What Makes work meaningful - Or meaningless.pdf",
+  "format": "pdf",
+  "source_type": "article",
+  "word_count": 7407,
+  "hash": "5b0ad74ea7edd3cc68065688648b0d06c56d9938cb540424db24e16f98d75c7a",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T16:06:51Z",
+  "decisions": [
+    {
+      "stage": "triage",
+      "outcome": "INCLUDE",
+      "date": "2026-09-26",
+      "reason": "User approved the recommended outcome, rationale and scope: Approved. Proceed.",
+      "authority": "user"
+    },
+    {
+      "stage": "distill",
+      "outcome": "PROCEED_TO_CRITIQUE",
+      "date": "2026-09-26",
+      "reason": "User approved formal critique after the 19-paper draft handoff: go aheadf.",
+      "authority": "user"
+    },
+    {
+      "stage": "critique",
+      "round": 1,
+      "outcome": "REVISE",
+      "date": "2026-09-26",
+      "reason": "User approved eight flagged draft revisions and re-review: yes. Integration not authorized.",
+      "authority": "user"
+    },
+    {
+      "stage": "revision_review",
+      "round": 2,
+      "outcome": "READY",
+      "date": "2026-09-26",
+      "reason": "Rerouted the main update to meaningful-work; retained only an optional identity cross-link. Original proposal filename remains as audit history.",
+      "authority": "librarian"
+    },
+    {
+      "stage": "critique",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "reason": "User approved integration of all 19 reviewed papers, subject to final checks: \"Approved\".",
+      "authority": "user"
+    },
+    {
+      "stage": "validation",
+      "outcome": "PASS",
+      "date": "2026-09-26",
+      "reason": "Required validator returned zero findings before moving this source. Shared foundations integrated first; missing cross-references fixed in drafts. Chen publication-year evidence recorded where applicable.",
+      "authority": "librarian"
+    },
+    {
+      "stage": "integrate",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "reason": "Applied the user-approved integration decision after validation. Source and new-entry drafts moved; update proposals retained; originals and extracted text preserved.",
+      "authority": "librarian"
+    }
+  ],
+  "pages": 18,
+  "title": "What Makes Work Meaningful—or Meaningless?",
+  "authors": "Catherine Bailey and Adrian Madden",
+  "year": 2016,
+  "publication_note": "MIT Sloan Management Review; supplied accepted version with Sussex repository cover.",
+  "bibliographic_note": "Article classification retained. Cover gives 1 June 2016.",
+  "source_path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Bailey & Madden - What Makes work meaningful - Or meaningless.pdf",
+  "triage_recommendation": "INCLUDE",
+  "triaged_at": "2026-09-26 16:16:16 UTC",
+  "batch": "julia-new-2026-09-26",
+  "distilled_at": "2026-09-26 16:28:33 UTC",
+  "distillation_decision": "PROCEED_TO_CRITIQUE",
+  "critique_overall": "READY",
+  "critique_decision": "PROCEED_TO_INTEGRATE",
+  "critiqued_at": "2026-09-26",
+  "critique_round": 2,
+  "revised_at": "2026-09-26",
+  "revision_decision": "REVISE",
+  "revision_status": "complete",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "validated_at": "2026-09-26",
+  "validation_findings": 0,
+  "integrated_at": "2026-09-26",
+  "integrated_paths": [
+    "sources/bailey-madden-meaningful-meaningless-2016.md",
+    "concepts/meaningful-work.md",
+    "concepts/professional-identity-threat.md"
+  ]
+}

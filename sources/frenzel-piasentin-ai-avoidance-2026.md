@@ -43,6 +43,8 @@ Adds workers' own experience to the KB's distinction between output and capabili
 
 ## Supports
 
+- [[basic-psychological-needs]] — satisfaction and frustration of autonomy, competence and relatedness; not a measure of retained skill.
+
 - [[competence-authenticity]] — named contribution, grounded in focus-group accounts.
 - [[confidence-competence-gap]] — reports success without understanding, while also showing possible underestimation.
 - [[professional-identity-threat]] — participants questioned the personal value of their contributions.

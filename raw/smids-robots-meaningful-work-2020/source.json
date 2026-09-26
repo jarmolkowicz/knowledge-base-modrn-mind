@@ -1,0 +1,72 @@
+{
+  "slug": "smids-robots-meaningful-work-2020",
+  "original_filename": "Smids, Nyholm & Berkers (2019) - Robots in the Workplace.pdf",
+  "format": "pdf",
+  "source_type": "paper",
+  "word_count": 11606,
+  "hash": "a96826b705c6789175d035b2fc40a16cd46b0ec1bedffca713e33b699db883c7",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T16:07:21Z",
+  "decisions": [
+    {
+      "stage": "triage",
+      "outcome": "PARTIAL",
+      "date": "2026-09-26",
+      "reason": "User approved the recommended outcome, rationale and scope: Approved. Proceed.",
+      "authority": "user"
+    },
+    {
+      "stage": "distill",
+      "outcome": "PROCEED_TO_CRITIQUE",
+      "date": "2026-09-26",
+      "reason": "User approved formal critique after the 19-paper draft handoff: go aheadf.",
+      "authority": "user"
+    },
+    {
+      "stage": "critique",
+      "outcome": "PROCEED_TO_INTEGRATE",
+      "date": "2026-09-26",
+      "reason": "User approved integration of all 19 reviewed papers, subject to final checks: \"Approved\".",
+      "authority": "user"
+    },
+    {
+      "stage": "validation",
+      "outcome": "PASS",
+      "date": "2026-09-26",
+      "reason": "Required validator returned zero findings before moving this source. Shared foundations integrated first; missing cross-references fixed in drafts. Chen publication-year evidence recorded where applicable.",
+      "authority": "librarian"
+    },
+    {
+      "stage": "integrate",
+      "outcome": "integrated",
+      "date": "2026-09-26",
+      "reason": "Applied the user-approved integration decision after validation. Source and new-entry drafts moved; update proposals retained; originals and extracted text preserved.",
+      "authority": "librarian"
+    }
+  ],
+  "pages": 20,
+  "title": "Robots in the Workplace: a Threat to—or Opportunity for—Meaningful Work?",
+  "authors": "Jilles Smids, Sven Nyholm and Hannah Berkers",
+  "year": 2020,
+  "publication_note": "Philosophy & Technology, 33, 503–522. DOI: 10.1007/s13347-019-00377-4.",
+  "bibliographic_note": "Use issue year 2020; online publication 1 November 2019, matching filename year.",
+  "source_path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Smids, Nyholm & Berkers (2019) - Robots in the Workplace.pdf",
+  "triage_recommendation": "PARTIAL",
+  "triaged_at": "2026-09-26 16:16:16 UTC",
+  "batch": "julia-new-2026-09-26",
+  "distilled_at": "2026-09-26 16:28:33 UTC",
+  "distillation_decision": "PROCEED_TO_CRITIQUE",
+  "critique_overall": "READY",
+  "critique_decision": "PROCEED_TO_INTEGRATE",
+  "critiqued_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "validated_at": "2026-09-26",
+  "validation_findings": 0,
+  "integrated_at": "2026-09-26",
+  "integrated_paths": [
+    "sources/smids-robots-meaningful-work-2020.md",
+    "concepts/professional-identity-threat.md"
+  ]
+}

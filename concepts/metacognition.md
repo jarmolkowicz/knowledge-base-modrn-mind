@@ -15,6 +15,7 @@ sources:
 - Fernandes et al. (2026)
 - "Marcoccia, Quattrociocchi & Capraro (2026)"
 - "Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. Psychological Review, 84(3), 231–259."
+- "Rajaram, K., & Tsim, F. (2026). GenAI-Integrated Flipped Classroom Learning Design in Management Education: A Conceptual Behavioral Stakeholder Framework. Supplied manuscript, September 5, 2026."
 ---
 
 # Metacognition
@@ -89,6 +90,8 @@ Marcoccia et al. (2026) measure a separate part of [[metacognition]]: deciding w
 
 Nisbett and Wilson (1977) distinguish awareness of thoughts and feelings from access to the processes that produced a judgment. In the experiments they review, explanations sometimes missed influential factors or named factors with no detectable effect. Reports could also be accurate; the paper does not show that all introspection is unreliable. [Inference] When reviewing AI-assisted work, treat “why I accepted this answer” as an explanation to check against recorded choices, available evidence and outcomes—not as direct proof of the mental process.
 
+Rajaram and Tsim (2026) propose a conceptual distinction between regulating one's preparation before class and testing that understanding through discussion, reflection and challenge in class. Their AI-supported flipped-classroom framework is untested. [Inference] A learning-design review can ask which monitoring and judgment activities students still perform themselves. Interaction logs may offer clues, but visible dialogue or confident self-assessment is not proof of understanding or unaided transfer.
+
 ## Related
 
 - [[calibration]] - applied metacognition
@@ -122,4 +125,6 @@ Nisbett and Wilson (1977) distinguish awareness of thoughts and feelings from ac
 - [[fernandes-metacognition-2025]] — Fernandes et al. (2026)
 - [[marcoccia-willingness-dont-know-2026]] — Marcoccia, Quattrociocchi & Capraro (2026)
 - [[nisbett-wilson-introspection-1977]] — Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. Psychological Review, 84(3), 231–259.
+
+- [[rajaram-tsim-flipped-classroom-2026]] — Rajaram, K., & Tsim, F. (2026). GenAI-Integrated Flipped Classroom Learning Design in Management Education: A Conceptual Behavioral Stakeholder Framework. Supplied manuscript, September 5, 2026.
 

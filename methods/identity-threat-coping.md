@@ -86,6 +86,8 @@ When NOT to use:
 
 ## Related
 
+- [[basic-psychological-needs]] — satisfaction and frustration of autonomy, competence and relatedness; not a measure of retained skill.
+
 - [[professional-identity-threat]] — the underlying phenomenon the strategies are responding to
 - [[paradox-of-expertise]] — paradox-of-expertise is often expressed as symbolic self-completion (emphasis on irreplaceable expertise) or dissociation (avoiding GenAI tasks)
 - [[agency]] — autonomy is one of the three needs the strategies address

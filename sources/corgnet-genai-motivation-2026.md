@@ -47,6 +47,8 @@ Useful counterevidence to universal motivational-harm claims. It shows that comp
 
 ## Supports
 
+- [[basic-psychological-needs]] — satisfaction and frustration of autonomy, competence and relatedness; not a measure of retained skill.
+
 - [[agency]] — qualifies claims that AI presence always lowers perceived control.
 - [[human-ai-complementarity]] — human–AI beat human–human here, but there is no AI-alone arm establishing strict synergy.
 

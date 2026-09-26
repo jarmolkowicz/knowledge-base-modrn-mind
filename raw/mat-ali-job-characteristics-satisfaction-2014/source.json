@@ -1,0 +1,31 @@
+{
+  "slug": "mat-ali-job-characteristics-satisfaction-2014",
+  "original_filename": "Mat Ali et al. (2013) - Hackman and Oldham’s Job Characteristics Model to Job Satisfaction.pdf",
+  "format": "pdf",
+  "source_type": "paper",
+  "word_count": 3691,
+  "hash": "63d1af85e6997e76c823fbfdbcfd7557e502bdaded472e7decbf9b7cb9e649b4",
+  "extractor": "pypdf",
+  "extractor_script_version": "0.1.0",
+  "status": "skipped",
+  "ingested_at": "2026-09-26T16:07:19Z",
+  "decisions": [
+    {
+      "stage": "triage",
+      "outcome": "SKIP",
+      "date": "2026-09-26",
+      "reason": "User approved the recommended outcome, rationale and scope: Approved. Proceed.",
+      "authority": "user"
+    }
+  ],
+  "pages": 7,
+  "title": "Hackman and Oldham's Job Characteristics Model to Job Satisfaction",
+  "authors": "Syukrina Alini Mat Ali and colleagues",
+  "year": 2014,
+  "publication_note": "Procedia – Social and Behavioral Sciences, 129, 46–52. DOI: 10.1016/j.sbspro.2014.03.646.",
+  "bibliographic_note": "Use publication year 2014, not conference year 2013. This recommendation is not an allegation of misconduct.",
+  "source_path": "D:\\Dropbox\\Dropbox\\Papers\\Meaningful Work\\Mat Ali et al. (2013) - Hackman and Oldham’s Job Characteristics Model to Job Satisfaction.pdf",
+  "triage_recommendation": "SKIP",
+  "triaged_at": "2026-09-26 16:16:16 UTC",
+  "batch": "julia-new-2026-09-26"
+}

@@ -13,6 +13,10 @@ sources:
   - "Corgnet, B., Fumagalli, E., & Rezaei, S. (2026). Beyond Performance: Replacing a Human Coworker with AI Enhances Motivation. Working paper, June 12, 2026."
   - "Wang, S., Sun, X., Ni, S., Wu, M., & Hu, K. (2026). Employees show greater willingness to voice toward algorithmic than human leaders in cognitive tasks through fairness perception and psychological safety. Scientific Reports. https://doi.org/10.1038/s41598-026-61031-6"
   - "Werner, T., Soraperra, I., Calvano, E., Parkes, D. C., & Rahwan, I. (2024). Experimental evidence that conversational artificial intelligence can steer consumer behavior without detection. arXiv:2409.12143v1. https://arxiv.org/abs/2409.12143"
+  - "Kasser, T., & Ryan, R. M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. Personality and Social Psychology Bulletin, 22(3), 280–287."
+  - "Niemiec, C. P., Ryan, R. M., & Deci, E. L. (2009). The path taken: Consequences of attaining intrinsic and extrinsic aspirations in post-college life. Journal of Research in Personality. https://doi.org/10.1016/j.jrp.2008.09.001"
+  - "Martela, F., & Riekki, T. J. J. (2018). Autonomy, competence, relatedness, and beneficence: A multicultural comparison of the four pathways to meaningful work. Frontiers in Psychology, 9, 1157. https://doi.org/10.3389/fpsyg.2018.01157"
+  - "Martela, F., Gómez, M., Unanue, W., Araya, S., Bravo, D., & Espejo, A. (2021). What makes work meaningful? Longitudinal evidence for the importance of autonomy and beneficence for meaningful work. Journal of Vocational Behavior, 131, 103631. https://doi.org/10.1016/j.jvb.2021.103631"
 ---
 
 # Agency
@@ -69,6 +73,12 @@ AI management does not uniformly suppress voice. Across three Chinese scenario e
 
 [[conversational-steering|Conversational steering]] can shape the reasons behind an apparently independent choice. In Werner et al.'s (2024) preregistered experiment, participants received an advance warning about the seller's interest. Reversing the assistant's favored book produced a 36-percentage-point difference in stated choices. The effect remained among participants who later reported noticing the influence. This shows that retaining the final decision is not by itself evidence that advice served the user's interests. It does not establish that all disclosure fails: awareness was measured after exposure, not randomized, and there was no warning-versus-no-warning test. See [[werner-conversational-ai-steering-2024]].
 
+### Goal ownership and felt experience
+
+Goal content and goal ownership are different. Kasser and Ryan (1996) associated relative emphasis on intrinsic rather than extrinsic aspirations with well-being, while distinguishing what people pursue from their reasons for pursuing it. Niemiec, Ryan and Deci (2009) followed recent graduates over one year: reported intrinsic-goal attainment was associated with better psychological health, while extrinsic-attainment findings depended on outcome and adjustment. Neither study establishes causal direction or shows that external rewards always undermine agency. [Inference] Ask separately whether an AI-supported goal matters to the person, whether they endorse it, and whether success preserves their capability.
+
+Martela and Riekki (2018) associated felt autonomy, relatedness and beneficence with [[meaningful-work]] across Finnish, Indian and US samples; competence had no unique association in the US joint model. Martela et al. (2021) found that autonomy and perceived contribution predicted later meaning in the main three-month-lag models, without the same adjusted prospective pattern for competence or relatedness. The latter cohort had heavy attrition, and its separate three-wave mediation hypothesis was not supported. Cross-sectional and prospective associations are not intervention effects. Felt effectiveness, contribution and autonomy are not retained skill, objective impact or decision authority. [Inference] Review these experiences alongside, not instead of, independent judgment and accountability.
+
 ## Related
 
 - three core capacities - what enables agency
@@ -93,6 +103,9 @@ AI management does not uniformly suppress voice. Across three Chinese scenario e
 
 - [[dillon-work-patterns-2025]] — field experiment distinguishing individually changeable work patterns from coordination-dependent ones; not a direct measure of agency.
 
+- [[meaningful-work]] — experienced significance is a separate outcome from control or capability.
+- [[basic-psychological-needs]] — felt autonomy, competence and relatedness; distinct from retained skill and accountable agency.
+
 ## Sources
 
 - [[alessandro-self-efficacy-2025]] — Alessandro et al. (2025)
@@ -106,4 +119,9 @@ AI management does not uniformly suppress voice. Across three Chinese scenario e
 - [[corgnet-genai-motivation-2026]] — Corgnet, B., Fumagalli, E., & Rezaei, S. (2026). Beyond Performance: Replacing a Human Coworker with AI Enhances Motivation. Working paper, June 12, 2026.
 - [[wang-algorithmic-leadership-voice-2026]] — Wang, S., Sun, X., Ni, S., Wu, M., & Hu, K. (2026). Employees show greater willingness to voice toward algorithmic than human leaders in cognitive tasks through fairness perception and psychological safety. Scientific Reports. https://doi.org/10.1038/s41598-026-61031-6
 - [[werner-conversational-ai-steering-2024]] — Werner, T., Soraperra, I., Calvano, E., Parkes, D. C., & Rahwan, I. (2024). Experimental evidence that conversational artificial intelligence can steer consumer behavior without detection. arXiv:2409.12143v1. https://arxiv.org/abs/2409.12143
+
+- [[kasser-ryan-intrinsic-extrinsic-goals-1996]] — Kasser, T., & Ryan, R. M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. Personality and Social Psychology Bulletin, 22(3), 280–287.
+- [[niemiec-aspirations-attainment-2009]] — Niemiec, C. P., Ryan, R. M., & Deci, E. L. (2009). The path taken: Consequences of attaining intrinsic and extrinsic aspirations in post-college life. Journal of Research in Personality. https://doi.org/10.1016/j.jrp.2008.09.001
+- [[martela-riekki-meaningful-work-pathways-2018]] — Martela, F., & Riekki, T. J. J. (2018). Autonomy, competence, relatedness, and beneficence: A multicultural comparison of the four pathways to meaningful work. Frontiers in Psychology, 9, 1157. https://doi.org/10.3389/fpsyg.2018.01157
+- [[martela-meaningful-work-longitudinal-2021]] — Martela, F., Gómez, M., Unanue, W., Araya, S., Bravo, D., & Espejo, A. (2021). What makes work meaningful? Longitudinal evidence for the importance of autonomy and beneficence for meaningful work. Journal of Vocational Behavior, 131, 103631. https://doi.org/10.1016/j.jvb.2021.103631
 

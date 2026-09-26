@@ -129,6 +129,43 @@ def load_draft_entries(workbench_dir: Path) -> dict[str, Entry]:
 _YEAR_RE = re.compile(r"\b(19|20)\d{2}\b")
 
 
+def has_verified_publication_year(
+    workbench_dir: Path, slug_year: str, drafts: dict[str, Entry]
+) -> bool:
+    """Accept a reviewed proof/publication-year distinction, never a bare override.
+
+    source.json must name a local evidence file and an exact supporting passage.
+    The year must also occur in the source draft's citation. The reviewer owns
+    the bibliographic judgment; this function checks the recorded evidence.
+    """
+    try:
+        meta = json.loads((workbench_dir / "source.json").read_text(encoding="utf-8-sig"))
+        record = meta.get("publication_year_verification", {})
+        if not isinstance(record, dict):
+            return False
+        if str(record.get("year")) != slug_year or str(meta.get("year")) != slug_year:
+            return False
+        if not all(isinstance(record.get(k), str) and record[k].strip()
+                   for k in ("reason", "reviewed_by", "verified_at", "evidence_file", "evidence_quote")):
+            return False
+        evidence = (KB_ROOT / record["evidence_file"]).resolve()
+        if not evidence.is_relative_to(KB_ROOT.resolve()) or not evidence.is_file():
+            return False
+        normalize = lambda text: " ".join(text.split())
+        quote = normalize(record["evidence_quote"])
+        if not re.search(rf"\b{re.escape(slug_year)}\b", quote):
+            return False
+        if quote not in normalize(evidence.read_text(encoding="utf-8-sig")):
+            return False
+        source = drafts.get(workbench_dir.name)
+        return source is not None and any(
+            re.search(rf"\b{re.escape(slug_year)}\b", citation)
+            for citation in source.sources
+        )
+    except (OSError, ValueError, TypeError, AttributeError):
+        return False
+
+
 def check_slug_year_match(workbench_dir: Path, drafts: dict[str, Entry]) -> list[Finding]:
     """Compare the year suffix in the workbench slug to years that appear on
     the first page of source.md (the original extracted text). A mismatch is
@@ -156,6 +193,8 @@ def check_slug_year_match(workbench_dir: Path, drafts: dict[str, Entry]) -> list
     found_years = {f"{y[0:2]}{y[2:4]}" if len(y) == 4 else y for y in re.findall(r"\b(?:19|20)\d{2}\b", first_page)}
 
     if slug_year not in found_years and found_years:
+        if has_verified_publication_year(workbench_dir, slug_year, drafts):
+            return findings
         findings.append(
             Finding(
                 check="slug_year_mismatch",

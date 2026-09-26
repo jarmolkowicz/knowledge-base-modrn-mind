@@ -1,41 +1,41 @@
 ---
-status: solid
+status: emerging
 area: [erosion, risk]
 sources:
   - "Kruger et al. (2004)"
+  - "Inzlicht, M., Shenhav, A., & Olivola, C. Y. (2018). The Effort Paradox: Effort Is Both Costly and Valued. Trends in Cognitive Sciences, 22(4), 337–349. https://doi.org/10.1016/j.tics.2018.01.007"
 ---
 
-# Effort Heuristic (Inverse)
+# Effort Heuristic
 
 ## What It Is
 
-The effort heuristic: we associate effort with value—things that took more effort seem more valuable. The inverse effect with AI: because AI work feels effortless, solo work feels unnecessarily hard by comparison.
+The effort heuristic is inferring value from perceived effort: work believed to have required more effort can seem more valuable. This concerns subjective valuation, not proof of higher quality or better learning. The broader [[effort-paradox]] concerns effort acting as both a cost and a source of value.
 
 ## Why It Matters
 
-AI creates a contrast effect. After experiencing AI's effortless output, the normal effort of thinking feels like a bug rather than a feature. This makes productive struggle feel wrong even when it's exactly what builds capacity.
+Perceived effort can influence how people value work. Inzlicht et al. (2018) review non-AI evidence about effort's costs and value, with stronger evidence for valuing products of effort than for valuing effort itself. Difficulty alone does not establish that a task should stay manual or that it builds expertise.
 
 ## Key Insight
 
-The inverse effort heuristic creates a self-reinforcing loop:
+[Speculation] An easy AI alternative might change how worthwhile independent effort feels. Inzlicht et al. (2018) discuss an analogous easy-alternative effect in charitable giving, not an AI-to-deskilling experiment. Whether that analogy transfers to AI use, repeated effort avoidance or retained skill needs direct evidence.
 
-1. AI produces output effortlessly
-2. Solo work feels harder by comparison
-3. You associate that difficulty with inefficiency
-4. You use AI more to avoid "unnecessary" effort
-5. Solo work feels even harder (contrast increases)
-6. Repeat
+There is no established AI-specific "inverse" mechanism demonstrated by this review. Keep subjective value, actual quality and learning benefits separate; do not present the removed six-step loop as a tested causal sequence.
 
-The effort you're avoiding is often the exact effort that builds expertise. The heuristic misleads you into thinking struggle is a problem to solve rather than a feature of learning.
+The existing Kruger et al. (2004) citation concerns the general heuristic; its original study was not re-reviewed in this update and does not support the AI extension.
 
 ## Related
 
-- [[desirable-difficulty]] - effort is often beneficial, not wasteful
-- [[fluency-bias]] - easy feels good, hard feels wrong
-- [[cognitive-offloading]] - avoiding effort through delegation
-- [[capacity-erosion]] - result of systematically avoiding effort
+- [[desirable-difficulty]] — some learning conditions can help retention; effort alone is not sufficient.
+- [[fluency-bias]] — perceived ease can influence judgment.
+- [[cognitive-offloading]] — delegation can reduce effort, with context-dependent consequences.
+- [[capacity-erosion]] — a separate capability concern, not an outcome established by the effort heuristic.
+- [[effort-paradox]] — broader cost/value distinction.
+- [[inzlicht-effort-paradox-2018]] — non-AI review supporting the distinction.
 
 ## Sources
 
 - Kruger et al. (2004)
+
+- [[inzlicht-effort-paradox-2018]] — Inzlicht, M., Shenhav, A., & Olivola, C. Y. (2018). The Effort Paradox: Effort Is Both Costly and Valued. Trends in Cognitive Sciences, 22(4), 337–349. https://doi.org/10.1016/j.tics.2018.01.007
 

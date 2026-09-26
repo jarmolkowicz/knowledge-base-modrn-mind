@@ -65,6 +65,9 @@ The paper's productivity inventory in Table 2 is also a useful single-source rol
 
 ## Supports
 
+- [[basic-psychological-needs]] — satisfaction and frustration of autonomy, competence and relatedness; not a measure of retained skill.
+- [[meaningful-work]] — work-specific meaning, distinct from engagement and productivity.
+
 - [[professional-identity-threat]] — Hermann et al. embed identity-threat in BPNT (competence + autonomy + relatedness). Existing KB entry has SDT mentioned briefly; this paper anchors the connection in a citable peer-reviewed review.
 - [[novice-vulnerability]] — review documents the asymmetric productivity gains for less-skilled workers (Brynjolfsson 2025: 34% gain for novices vs. minimal for experienced; Noy & Zhang 2023; Dell'Acqua 2023) as competence-need satisfaction that simultaneously erodes competence development.
 - [[performance-paradox]] — Hermann et al. cite the Dell'Acqua et al. consultant-without-AI study as evidence that "consultants had offloaded the task to the AI rather than used it to learn the requisite skills" — same mechanism the KB has named the performance paradox.

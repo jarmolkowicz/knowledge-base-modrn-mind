@@ -3,6 +3,7 @@ status: emerging
 area: [preservation, risk]
 sources:
   - "Memmert, Soroko & Bittner (2025)"
+  - "Inzlicht, M., Shenhav, A., & Olivola, C. Y. (2018). The Effort Paradox: Effort Is Both Costly and Valued. Trends in Cognitive Sciences, 22(4), 337–349. https://doi.org/10.1016/j.tics.2018.01.007"
 ---
 
 # Effort Investment Review
@@ -25,6 +26,8 @@ Memmert, Soroko & Bittner (2025) distinguish effort intensity, persistence and d
 4. Check the whole day: did saved time improve the original work, support learning or recovery, or fill with more tasks? Did unfinished checking move to a colleague?
 5. For the next similar task, state the quality requirement, who checks it and who owns the result. Record any change to the allocation of work and revisit it after another task.
 
+[Inference] After mapping where effort went, ask what retained effort contributed: quality, practice, enjoyment, involvement, or only burden. Difficulty alone is not a reason to retain a task.
+
 ## Why It Works
 
 The rationale is drawn from 21 professional interviews in [[memmert-effort-management-2025]], not a causal test. Looking across tasks makes otherwise hidden costs visible and separates [[cognitive-offloading]] from overall disengagement. The review also records the monitoring and steering work described by [[metacognitive-demand]].
@@ -32,6 +35,8 @@ The rationale is drawn from 21 professional interviews in [[memmert-effort-manag
 ## Strengths / Limitations
 
 Useful for making assumptions about productivity explicit. Self-reports can still miss unconscious changes; use work examples or time records where available. More effort does not guarantee better results, and equal total effort does not demonstrate preserved skill. This is not a validated score, diagnosis or fixed optimal allocation.
+
+The [[effort-paradox]] separates effort costs from possible subjective value. It does not show that every effortful task builds skill or that this review improves learning.
 
 ## When It Applies
 
@@ -44,6 +49,11 @@ Team reviews, training discussions and recurring professional tasks with mixed h
 - [[calibration]] — uses the review to inform the next allocation decision.
 - [[memmert-effort-management-2025]] — qualitative basis and limits.
 
+- [[effort-paradox]] — saving effort and retaining value are separate questions.
+- [[inzlicht-effort-paradox-2018]] — conceptual basis.
+
 ## Sources
 
 - [[memmert-effort-management-2025]] — Memmert, Soroko & Bittner (2025)
+
+- [[inzlicht-effort-paradox-2018]] — Inzlicht, M., Shenhav, A., & Olivola, C. Y. (2018). The Effort Paradox: Effort Is Both Costly and Valued. Trends in Cognitive Sciences, 22(4), 337–349. https://doi.org/10.1016/j.tics.2018.01.007

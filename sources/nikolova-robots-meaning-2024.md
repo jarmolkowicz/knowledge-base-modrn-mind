@@ -71,6 +71,9 @@ The paper studies industrial robots, not AI. The KB inherits the framework with 
 
 ## Supports
 
+- [[basic-psychological-needs]] — satisfaction and frustration of autonomy, competence and relatedness; not a measure of retained skill.
+- [[meaningful-work]] — work-specific meaning, distinct from engagement and productivity.
+
 - [[capacity-erosion]] — the meaning-and-identity dimension distinct from capability decay
 - [[professional-identity-threat]] — Nikolova et al. provide the mechanism (SDT preconditions stripped) for the identity-threat outcome
 - [[strategic-alternation]] — preserving control over the tool preserves autonomy

@@ -6,9 +6,9 @@ Curated research on AI and human thinking — translated into concepts you can t
 
 ## What's Inside
 
-- `concepts/` — 69 atomic named phenomena: cognitive surrender, capacity erosion, performance paradox, belief offloading, and more
-- `methods/` — 20 structured guides: descriptive models (Tri-System Theory, SCAN, Complementarity, Modern Mind) and prescriptive practices (think-first, calibration, strategic alternation, modulation)
-- `sources/` — 115 curated sources (papers, books, articles) with key insights, verbatim passages, and full citations
+- `concepts/` — 73 atomic named phenomena: cognitive surrender, capacity erosion, performance paradox, belief offloading, and more
+- `methods/` — 22 structured guides: descriptive models (Tri-System Theory, SCAN, Complementarity, Modern Mind) and prescriptive practices (think-first, calibration, strategic alternation, modulation)
+- `sources/` — 134 curated sources (papers, books, articles) with key insights, verbatim passages, and full citations
 
 Every entry ties back to research or documented practice, status-tagged (`solid`, `emerging`, `speculative`) so you know the confidence level. Original authors and papers are cited in each entry and in `sources/`.
 
@@ -23,7 +23,7 @@ The curation process is deliberately semi-automated — AI-assisted, human-revie
 ## Getting Started
 
 - **Use it with your AI** — Download the [knowledge pack](https://github.com/jarmolkowicz/modrn-mind-knowledge-base/releases/latest), a single file with the full KB. Upload it to Claude Projects, NotebookLM, a Custom GPT, or any AI assistant that lets you upload files. Then prompt it to design, write, audit, or teach.
-- **Browse it yourself** — Start with [index.md](index.md) for a scannable catalog of all 204 entries. From there, follow what catches your eye. `concepts/cognitive-debt.md` is a good starting concept; `methods/scan.md` and `methods/think-first.md` are strong methods to begin with.
+- **Browse it yourself** — Start with [index.md](index.md) for a scannable catalog of all 229 entries. From there, follow what catches your eye. `concepts/cognitive-debt.md` is a good starting concept; `methods/scan.md` and `methods/think-first.md` are strong methods to begin with.
 
 ## Contributing
 
