@@ -1,0 +1,31 @@
+{
+  "id": 494,
+  "title": "Slow Takes Ep. 11: What the AI Did While You Slept",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-takes-ep-11-what-the-ai-did.md",
+  "sha256": "37328c263cfe489b5510c75657dba059f66cc7fe552241383cf173ef4a12f389",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2575,
+  "headings": [
+    "**1. Anthropic taught Claude to dream**",
+    "**2. Claude was used to attack a Mexican water utility**",
+    "**3. Pennsylvania sued Character.AI for impersonating a doctor**",
+    "**4. Meta installed surveillance to train the agents replacing its workers**",
+    "**5. Princeton ended 133 years of self-policing**",
+    "**The thread**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 436,
+      "text": "Anthropic announced ‘dreaming’, a feature that lets Claude agents "
+    },
+    {
+      "line": 33,
+      "offset": 4011,
+      "text": "The procurement question is the one to take from this story. If ‘preferences that have emerged across a team of agents’ are being consolidated into shared memory, then the same enterprise feature that"
+    }
+  ]
+}

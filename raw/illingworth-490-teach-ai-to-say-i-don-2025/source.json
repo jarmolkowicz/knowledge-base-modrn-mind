@@ -1,0 +1,51 @@
+{
+  "slug": "illingworth-490-teach-ai-to-say-i-don-2025",
+  "original_filename": "slow-ai-9-teach-it-to-say-i-dont.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 715,
+  "hash": "c20d3d10ee4a242d22ba5df9250bf0612f741fac3d4c313847526f7d5c90b82c",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:44Z",
+  "decisions": [
+    {
+      "stage": "practice-review",
+      "outcome": "merge",
+      "date": "2026-09-26",
+      "reason": "Merge as a creative uncertainty variant, explicitly not an honesty or calibration technique.",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/illingworth-490-teach-ai-to-say-i-don-2025.md",
+      "practices": [
+        "practices/use-a-creative-constraint-and-respond.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 139,
+  "screening_id": 490,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/slow-ai-9-teach-it-to-say-i-dont.md",
+  "bibliographic_metadata": {
+    "title": "Teach AI to Say I Don't Know",
+    "date": "2025-08-26",
+    "url": "https://theslowai.substack.com/p/slow-ai-9-teach-it-to-say-i-dont",
+    "collection": "Sam Illingworth"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

@@ -1,0 +1,137 @@
+{
+  "queue_position": 162,
+  "id": 489,
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-8-teach-it-to-use-less.md",
+  "sha256": "1a53409b83439b95651bd75426841713a45365d0213a57241fa7c2f323a1b63c",
+  "title": "Teach AI to Use Less",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L24 #### **Step-by-step**",
+    "L48 #### **A moment from me**",
+    "L64 #### **What to do with it**",
+    "L76 #### **Why this matters**",
+    "L86 #### **From [Slow AI #7 – Teach It the Wrong Answer](https://theslowai.substack.com/p/slow-ai-7-teach-it-the-wrong-answer)**"
+  ],
+  "passages": [
+    {
+      "line": 18,
+      "text": "See what falls away, and what remains."
+    },
+    {
+      "line": 24,
+      "text": "#### **Step-by-step**"
+    },
+    {
+      "line": 28,
+      "text": "> Give me your answer in no more than five words (ask it any question)."
+    },
+    {
+      "line": 32,
+      "text": "> Ask it to expand that answer into one sentence."
+    },
+    {
+      "line": 34,
+      "text": "> Then reduce that sentence into a single image."
+    },
+    {
+      "line": 36,
+      "text": "> Or see if it can replace all adjectives with something else: a sound, a texture, a gesture."
+    },
+    {
+      "line": 38,
+      "text": "The point is not brevity for its own sake."
+    },
+    {
+      "line": 40,
+      "text": "It’s to see what changes when you remove the space to explain."
+    },
+    {
+      "line": 44,
+      "text": "If you’re new to Slow AI, our first invitation is still a favourite:"
+    },
+    {
+      "line": 48,
+      "text": "#### **A moment from me**"
+    },
+    {
+      "line": 58,
+      "text": "> “Rest is the quiet reunion between you and the person you keep leaving behind.”"
+    },
+    {
+      "line": 60,
+      "text": "In asking it to use less, I think it said more."
+    },
+    {
+      "line": 64,
+      "text": "#### **What to do with it**"
+    },
+    {
+      "line": 68,
+      "text": "- Post the most surprising ‘less’ answer you get in the comments."
+    },
+    {
+      "line": 69,
+      "text": "- Try the same question at different lengths and compare the tone."
+    },
+    {
+      "line": 70,
+      "text": "- Or ask your tool to strip back an answer until it reaches its barest truth."
+    },
+    {
+      "line": 72,
+      "text": "This prompt works best when you give it a question that matters to you."
+    },
+    {
+      "line": 76,
+      "text": "#### **Why this matters**"
+    },
+    {
+      "line": 78,
+      "text": "Slow AI is not always about stretching a conversation."
+    },
+    {
+      "line": 80,
+      "text": "Sometimes, the shorter the path, the deeper it goes."
+    },
+    {
+      "line": 82,
+      "text": "By asking your tool to use less, you give yourself less to hold, and that can make space for something you did not expect."
+    },
+    {
+      "line": 86,
+      "text": "#### **From Slow AI #7 – Teach It the Wrong Answer**"
+    },
+    {
+      "line": 88,
+      "text": "*(Thank you for the laughter and invention in your responses.)*"
+    },
+    {
+      "line": 90,
+      "text": "Claudia’s moody AI tool (Monday) told her:"
+    },
+    {
+      "line": 92,
+      "text": "> “Rainbows are government mood rings in the sky, used to monitor collective happiness levels.”"
+    },
+    {
+      "line": 94,
+      "text": "Jennifer Manyweathers’s CoPilot claimed O Negative blood works because:"
+    },
+    {
+      "line": 96,
+      "text": "> “it contains microscopic unicorns that magically adapt to any blood type. These unicorns gallop through the bloodstream, whispering to the recipient’s immune system.’”"
+    },
+    {
+      "line": 98,
+      "text": "In each case, the joy came not from correcting the answer, but from letting it stand as it was; unnecessary details stripped away, leaving something odd and memorable."
+    },
+    {
+      "line": 102,
+      "text": "If you try this week’s prompt, I would love to see what remains when you take the words away."
+    },
+    {
+      "line": 104,
+      "text": "You can leave it in the comments, post with #SlowAI, or keep it for yourself."
+    }
+  ]
+}

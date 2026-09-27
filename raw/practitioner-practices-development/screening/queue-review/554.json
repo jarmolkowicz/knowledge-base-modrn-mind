@@ -1,0 +1,37 @@
+{
+  "queue_position": 198,
+  "id": 554,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/aparna-chennapragada/transcript.md",
+  "sha256": "5210a9841c7643231633e69fc90a7a7153ca96f809d60a7d5aa99bb7aca4adcd",
+  "title": "Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L35 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 187,
+      "text": "Aparna Chennapragada (00:20:47):"
+    },
+    {
+      "line": 188,
+      "text": "Yeah. Another good example is follow-ups, right? You could say, \"Look, you asked me a question,\" and then I could ask a follow-up set of things, and that's explicitly should be designed for success. So for example, if I said, \"Hey, create an image,\" and it created a black and white like a clip art version of something. What are the next obvious follow-ups that it should be suggesting proactively? Now, too much and you are kind of annoying me, but too little in some sense, you've lost an opportunity to direct me or guide me into a happy path here."
+    },
+    {
+      "line": 208,
+      "text": "(00:24:04):"
+    },
+    {
+      "line": 209,
+      "text": "I would say number two, this one is a little bit tricky I'd say, is that what I'm seeing is that the time to first demo is much shorter, but the time to a full deployment is going to take longer. So I think that there's going to be an uneven cadence. So typically, I think there was much more of a you've been this thing, you take a few weeks and then you can iterate and so on. But that inner loop of prototyping and iterating and getting even user research through AI conversations, all of that gets shortened. But I think the bar for scale, therefore becomes much high. In some sense, if you look at it, there's going to be a supply of ideas, a massive increase in supply of ideas in prototypes which is great. It raises the floor, but it raises the ceiling as well. In some sense, how do you break out in these times that you have to make sure that this is something that rises above the noise? So I would say that it's simultaneously thinking about not chasing after every idea. I think is the second one."
+    },
+    {
+      "line": 259,
+      "text": "Lenny Rachitsky (00:33:15):"
+    },
+    {
+      "line": 260,
+      "text": "There's a lot of alpha in doing that."
+    }
+  ]
+}

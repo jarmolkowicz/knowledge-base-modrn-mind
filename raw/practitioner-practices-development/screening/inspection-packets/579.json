@@ -1,0 +1,26 @@
+{
+  "id": 579,
+  "title": "Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/cam-adams/transcript.md",
+  "sha256": "0963490f1b7adddea43c2ba463cfba0ecebd3dcdc19af9d291db877bb286cc42",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 11474,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 852,
+      "text": "Canva is bigger than Figma and Miro and Webflow combi"
+    },
+    {
+      "line": 289,
+      "offset": 45411,
+      "text": "The current one isn't similar. We have constantly gone back to it because it performs really well. We do actually apply the same approach of little steps buildi"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 286,
+  "title": "Fable 5.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/dont-use-claude-fable-5.md",
+  "sha256": "5d9c83f0aa5e6f99add1a3361de03c6a5125d31af359f9fec108777f18e3b76f",
+  "access": "public-page",
+  "kind": "article",
+  "words": 5152,
+  "headings": [
+    "**1. Don’t prompt** *Fable* **5.**",
+    "**#1. I did the test.**",
+    "**#2. Sonnet or Opus?**",
+    "**2. Expensive** *super***intelligence.**",
+    "**Because I read the docs for you.**",
+    "**3. Some Fable-5** *worthy* **tasks.**",
+    "**1 - Help me decide prompt.**",
+    "**2. The Deep Research prompt.**",
+    "**3. The Archive-to-Argument prompt.**",
+    "**4. The Operating Review prompt**",
+    "**4. Connect** *Fable* **to everything.**",
+    "**5. What the** *f\\*\\*\\** **is Claude Cowork?**",
+    "**6. What the** *f\\*\\*\\** **is Claude Code?**",
+    "**7.** ***/fable-prompter***"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 339,
+      "text": "**Do not use Fable 5** if you don’t know how."
+    },
+    {
+      "line": 183,
+      "offset": 11529,
+      "text": "Here’s an example of me filling out the prompt template. Claude asks me questions, I answer, and it thinks deeply now."
+    }
+  ]
+}

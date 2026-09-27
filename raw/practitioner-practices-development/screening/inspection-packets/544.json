@@ -1,0 +1,26 @@
+{
+  "id": 544,
+  "title": "Behind the product: Replit | Amjad Masad (co-founder and CEO)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/amjad-masad/transcript.md",
+  "sha256": "a00d03bc0a8e15789c0f09cb31c2673fbbc1b0cd77ce50cb3016f5e8ec1af7ec",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 10378,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 37,
+      "offset": 785,
+      "text": "The idea behind Replit is that making software today "
+    },
+    {
+      "line": 124,
+      "offset": 14569,
+      "text": "Yes. Exactly. Exactly. All right, so we're going to start building. Since this is a pretty big, big prompt, the initial coding might take a while. There's diffe"
+    }
+  ]
+}

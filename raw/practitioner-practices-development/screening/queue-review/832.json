@@ -1,0 +1,37 @@
+{
+  "queue_position": 398,
+  "id": 832,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/yamashata/transcript.md",
+  "sha256": "64443f86c9dcf57b2c106aec473cf6ef6462340170255dd4c605a40d221c7aff",
+  "title": "An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 212,
+      "text": "(00:21:28):"
+    },
+    {
+      "line": 213,
+      "text": "And I think a PM can do this, too, which is a customer is asking for a feature, but then you would say, okay, why are they asking for it, and back up the problem. But I think there's one more step you can take, which is, why do they have that problem in the first place? And maybe there's something there, and that could be an opportunity to make a bigger product impact by fixing that underlying condition that created the problem in the first place."
+    },
+    {
+      "line": 275,
+      "text": "(00:29:55):"
+    },
+    {
+      "line": 276,
+      "text": "And I think one of the things that's really interesting about him is that he actually really cares very deeply about any given user and how they're feeling about Figma. I remember when, during the height of the pandemic, we were doing a one-on-one walking around Delores Park, because this is the era where you would take meetings, if you take meetings, they're all outside, and then he needed to use the bathroom. So he came out to my house in the Castro, he used the bathroom, and then he met my partner, and my partner was on Figma, had Figma pulled up because he is just doing work. And then Dylan just went straight in there and wanted to ask what the biggest problems were or what's not working, and they started geeking out on some issue around Google fonts, and this is the first major interaction between the two of them."
+    },
+    {
+      "line": 458,
+      "text": "Lenny (00:58:35):"
+    },
+    {
+      "line": 459,
+      "text": "That's awesome. Reminds me of a quote and a tagline that the Airbnb's first growth team had for a long time. Love drives growth, not the other way around. They made posters of this, put it all over the product teams."
+    }
+  ]
+}

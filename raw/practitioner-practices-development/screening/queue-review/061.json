@@ -1,0 +1,62 @@
+{
+  "queue_position": 17,
+  "id": 61,
+  "path": "raw/inbox/Practical/Cal Newport/why-hasnt-ai-made-work-easier.md",
+  "sha256": "263e58485e8a4bbe7748a54b5d5a53a8427d45743d1c4ef0a8387156e1a653b3",
+  "title": "Why Hasn’t AI Made Work Easier?",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L47 ### **I Need Your Help**",
+    "L53 ### **AI Reality Check**: Is Claude Conscious?"
+  ],
+  "passages": [
+    {
+      "line": 13,
+      "text": "# Why Hasn’t AI Made Work Easier?"
+    },
+    {
+      "line": 19,
+      "text": "- We end up *busier* than before without producing more of the high-value output that actually moves the needle."
+    },
+    {
+      "line": 27,
+      "text": "The piece cites new research from the software company ActivTrak, which analyzed the digital activity of 164,000 workers across more than 1,000 employers. What makes the study notable is its methodology: it tracked individual AI users for 180 days before and after they began using these tools, providing clear insight into what changed. The results?"
+    },
+    {
+      "line": 39,
+      "text": "This points toward a pattern similar to what happened when email first arrived. It was undeniably true that sending emails was more efficient than wrangling fax machines and voicemail. But once workers gained access to low-friction communication, they transformed their days into a furious flurry of back-and-forth messaging that felt “productive” in the ​abstract, activity-centric sense​ of that term, but ultimately hurt almost every other aspect of their jobs and ​made everyone miserable​."
+    },
+    {
+      "line": 53,
+      "text": "### **AI Reality Check**: Is Claude Conscious?"
+    },
+    {
+      "line": 55,
+      "text": "If you were following AI news last week, you might have noticed a barrage of concerning headlines about Anthropic’s Claude LLM, including:"
+    },
+    {
+      "line": 61,
+      "text": "*Here’s what happened.* Anthropic infamously puts outlandish warnings and observations in their release notes for their new models because, I suppose, they think it makes them look more safety-aware and responsible (e.g., their classic ​AI blackmail farce​)."
+    },
+    {
+      "line": 63,
+      "text": "True to form, in the notes accompanying the recent release of Opus 4.6, they wrote that the model **“expresses occasional discomfort with the experience of being a product**” and would **“assign itself a 15 to 20 percent probability of being conscious under a variety of prompting circumstances.”**"
+    },
+    {
+      "line": 65,
+      "text": "That last part is key. With the right prompts, you can induce an LLM to describe itself as anything you want. Remember: the goal of LLMs is to complete whatever story they’re provided as input. If you wind a model up – even subtly – to write a story from the perspective of being a conscious AI, it will oblige."
+    },
+    {
+      "line": 67,
+      "text": "Anyway, in ​a recent interview​, Ross Douthat asked Anthropic CEO Dario Amodei about this particular release note. Amodei answered, in part, by saying:"
+    },
+    {
+      "line": 69,
+      "text": "“We don’t know if the models are conscious. We are not even sure that we know what it would mean for a model to be conscious or whether a model can be conscious. But we’re open to the idea that it could be.”"
+    },
+    {
+      "line": 71,
+      "text": "Of course, you could say the same thing about a vacuum cleaner. It’s a non-answer containing no actual information or testable claims. But, the internet being the internet, ran with it. *Sigh.*"
+    }
+  ]
+}

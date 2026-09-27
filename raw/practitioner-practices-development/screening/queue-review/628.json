@@ -1,0 +1,37 @@
+{
+  "queue_position": 245,
+  "id": 628,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/eric-ries/transcript.md",
+  "sha256": "e667f9705e47a99aa0b6eb9befe766dfcb6bcd8ca45e005c50bfca1062bfab4f",
+  "title": "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 374,
+      "text": "(01:06:00):"
+    },
+    {
+      "line": 375,
+      "text": "But I think it's important also to understand how much that is true. And that's like, again, go back to why science is so important. Why do we write all the elementary things about science? We write our hypothesis down, we subject our things, we do that because human psychology is so buggy and people who are fighting with their generative AI chatbots and stuff are starting to see, those are nothing but a reflection of human theory of mind. So we're starting to see it in alien creature that, wow, our intelligence has all these weird behaviors and gaps and things, and of course we want our robots to be perfect, but it's like, well, first look in the mirror and realize that you yourself carry all those cognitive biases and you've got to put in place a structure to get around them or they're going to destroy you."
+    },
+    {
+      "line": 473,
+      "text": "(01:21:08):"
+    },
+    {
+      "line": 474,
+      "text": "First step, write a business plan for taking over the world, and that will spawn a new agent with a new AI. Be like okay, your job is to go write this business plan. And sometimes it'll go try to write the business plan, but oftentimes it'll spawn ... The subtask will be like oh, first thing I need to do is spawn an AI agent that knows how to take over the world and have it write the business plan. Everyone will just pass the buck to somebody else. It'll go into an infinite regress. It's like, first thing we need to do is research this. And then the thing that comes back, and now we've learned to research that we need to research 10 more things. Each of those 10 things require researching 10 more. So many ways this can go wrong."
+    },
+    {
+      "line": 815,
+      "text": "(02:13:26):"
+    },
+    {
+      "line": 816,
+      "text": "And so I don't want to say that I know all the answers or that my values are the ones that should win out, but I do think that we do have a certain shared set of values that we ought to be more ardent in defending. And I hope your listeners will take that to heart."
+    }
+  ]
+}

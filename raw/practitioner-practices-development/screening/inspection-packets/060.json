@@ -1,0 +1,24 @@
+{
+  "id": 60,
+  "title": "Why Didn't AI Join the Workforce in 2025?",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/why-didnt-ai-join-the-workforce-in-2025.md",
+  "sha256": "6abcc642b7200101382b087e6548256b9e86c9b2f5ad61297de7a1cf4b8f3cfd",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 692,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 9,
+      "offset": 199,
+      "text": "Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘jo"
+    },
+    {
+      "line": 13,
+      "offset": 1414,
+      "text": "The industry had reason to be optimistic that 2025 would prove pivotal. In previous years, AI agents like Claude Code and OpenAI’s Codex had become impressively adept at tackling multi-step computer programming problems. It seemed natural that this same skill might easily generalize to other types of tasks. Mark Benioff, CEO of Salesforce, became so enthusia"
+    }
+  ]
+}

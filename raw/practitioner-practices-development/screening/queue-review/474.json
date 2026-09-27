@@ -1,0 +1,42 @@
+{
+  "queue_position": 149,
+  "id": 474,
+  "path": "raw/inbox/Practical/Sam Illingworth/parenting-with-ai-no-right-way.md",
+  "sha256": "e572591d13941f505d13da28305d28401978e9d768b5e77721ead653a99be704",
+  "title": "There Is No One Right Way to Parent With AI. There Are Some Wrong Ones.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L27 #### **Where the conversation usually gets stuck**",
+    "L43 #### **Five things the research is showing**",
+    "L53 #### **Where the screen time analogy helps and where it breaks**",
+    "L61 #### **Community Reflections**",
+    "L63 #### **[Dr Sam Illingworth](https://open.substack.com/users/253722705-dr-sam-illingworth?utm_source=mentions)**",
+    "L81 #### **[April | The Narrative Nest](https://open.substack.com/users/8257352-april-the-narrative-nest?utm_source=mentions)**",
+    "L107 #### **[Becky Hayward](https://open.substack.com/users/25550121-becky-hayward?utm_source=mentions)**",
+    "L127 #### **[Alyssa Fu Ward, PhD](https://open.substack.com/users/118913109-alyssa-fu-ward-phd?utm_source=mentions)**",
+    "L155 #### **[Nicolle Weeks](https://open.substack.com/users/1649947-nicolle-weeks?utm_source=mentions)**",
+    "L165 #### **[Joel Salinas](https://open.substack.com/users/198127390-joel-salinas?utm_source=mentions)**",
+    "L175 #### **[Carla Engelbrecht, Ed.D.](https://open.substack.com/users/23190426-carla-engelbrecht-edd?utm_source=mentions)**",
+    "L195 #### **[Karen Spinner](https://open.substack.com/users/363410124-karen-spinner?utm_source=mentions)**",
+    "L209 #### **[Jenny Ouyang](https://open.substack.com/users/282291554-jenny-ouyang?utm_source=mentions)**",
+    "L229 #### **What this adds up to**"
+  ],
+  "passages": [
+    {
+      "line": 107,
+      "text": "#### **Becky Hayward**"
+    },
+    {
+      "line": 119,
+      "text": "But what I observe in my own situation is the gap between my professional/personal life and my parenting instincts. At work, AI is a tool in the hands of someone who already knows what they’re looking for after years of training in the legal field. That’s the key, I think. Someone who already knows and has developed specific skills. My son doesn’t know these skills yet. He’s still building the fundamentals in the true basics: reading, writing, math, problem solving, relationship building, and, more importantly, how to sit with a question, how to work something out either by himself or with another person, how to be wrong and try again. He’s still learning the tools to simply be human and process his emotions, and I’m not quite ready to hand him a tool that smooths all of that over before he even knows what’s being smoothed."
+    },
+    {
+      "line": 165,
+      "text": "#### **Joel Salinas**"
+    },
+    {
+      "line": 169,
+      "text": "A few months ago, I wrote about how my 7-year-old built an app to celebrate what AI can unlock for a child’s creativity (when used well), and I still believe every word of it, but the opposite is also true: the same tool that can boost a child’s thinking can just as easily stunt it if we are not careful. The rule I try to hold to at home is small but strict: when my daughter asks a basic question about a bird or an insect, we go to the hardcover encyclopedia on the shelf first, and only then is she welcome to dig deeper with the guardrailed AI on my phone. The encyclopedia comes first, the AI comes second, and the thinking always comes before the tool."
+    }
+  ]
+}

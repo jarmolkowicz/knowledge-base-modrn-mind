@@ -1,0 +1,26 @@
+{
+  "id": 733,
+  "title": "The one question that saves product careers | Matt LeMay",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/matt-lemay/transcript.md",
+  "sha256": "f3c3d34a4d06e407b4597f721db5d0bf9f887af12059c8cd138eac2b191337b8",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 17479,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 773,
+      "text": "More product managers and teams are getting la"
+    },
+    {
+      "line": 249,
+      "offset": 14876,
+      "text": "That's a really interesting insight. I think a lot of this comes from just PMs naturally are trained to deflect credit and to include, say '"
+    }
+  ]
+}

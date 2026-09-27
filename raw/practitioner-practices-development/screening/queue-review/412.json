@@ -1,0 +1,56 @@
+{
+  "queue_position": 114,
+  "id": 412,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-bans-schools-prohibition-evidence.md",
+  "sha256": "8e5691fd49b37bc216d84299a346a4948eefd5605132c8fb9f11f8adaf837ae7",
+  "title": "My Six-Year-Old Told Me to Say No to AI",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L21 #### **In this post I will:**",
+    "L33 #### **What New York and Los Angeles decided**",
+    "L47 #### **Why a school system would do this**",
+    "L63 #### **The last two times we tried this**",
+    "L89 #### **Who a ban lands on**",
+    "L101 #### **The one restriction I support**",
+    "L117 #### **Five things to do instead of AI prohibition**",
+    "L135 #### **What I have not worked out**"
+  ],
+  "passages": [
+    {
+      "line": 89,
+      "text": "#### **Who a ban lands on**"
+    },
+    {
+      "line": 97,
+      "text": "**My book goes underneath all of this.** *Slow AI* is about the question this post is a corner of: knowing when to use these tools, and when to leave them alone. It was a #1 Amazon bestseller in Education."
+    },
+    {
+      "line": 117,
+      "text": "#### **Five things to do instead of AI prohibition**"
+    },
+    {
+      "line": 119,
+      "text": "**1. Ask the children, and write down what they say.** You do not need a working group. A parent can ask at dinner what their child thinks AI is for, and a teacher can spend ten minutes of one lesson asking a class what they already use and what they worry about. New York convened its student coalition after the ban. My daughter formed a position without anybody asking her anything."
+    },
+    {
+      "line": 121,
+      "text": "**2. Teach these three questions.** Not how to prompt. When is this system guessing, who profits from me believing it, and what is it doing to my own thinking while I use it. Those three work in a classroom, a staff meeting, and a kitchen."
+    },
+    {
+      "line": 123,
+      "text": "**3. Have the conversations at home.** “What do you know about AI?” “Are you using it in your classrooms?” “If it tells you something important, who else can you ask?” No school policy reached my kitchen table, and none will reach yours."
+    },
+    {
+      "line": 125,
+      "text": "**4. Try the things yourself before you decide about them.** You cannot judge the limits of a tool you have never opened, and most of the adults legislating about AI have never used it regularly."
+    },
+    {
+      "line": 127,
+      "text": "**5. Ask what the design change would be.** Before a restriction, ask what could be altered in how the thing behaves, and who you would have to ask. Restriction is what you reach for when nobody will change the product."
+    },
+    {
+      "line": 131,
+      "text": "Prohibition can be implemented in a fortnight and educational change can take a decade (or longer!), so of course one of them keeps arriving first."
+    }
+  ]
+}

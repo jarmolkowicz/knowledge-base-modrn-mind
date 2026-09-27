@@ -1,0 +1,26 @@
+{
+  "id": 755,
+  "title": "Storytelling with Nancy Duarte: How to craft compelling presentations and tell a story that sticks",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/nancy-duarte/transcript.md",
+  "sha256": "407c78fbf2f42af846cd23d99bf3839709669df854ad3e1ef84665375b40db90",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15223,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 38,
+      "offset": 849,
+      "text": "A lot of people think that the only time yo"
+    },
+    {
+      "line": 551,
+      "offset": 79800,
+      "text": "I'm excited about a tool I just paid for last week. It's called writer.com. So, it's built on multiple language models and includi"
+    }
+  ]
+}

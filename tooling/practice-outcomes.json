@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "status": "provisional",
+  "adopted": "2026-09-27",
+  "meaning": "Intended benefits, not demonstrated effects",
+  "categories": [
+    {
+      "id": "understanding",
+      "title": "Understanding",
+      "role": "core",
+      "definition": "Explain a relationship, mechanism or limit and apply it to a case.",
+      "boundary": "Not recognition of fluent prose or an AI rating."
+    },
+    {
+      "id": "independent-capability",
+      "title": "Independent capability",
+      "role": "core",
+      "definition": "Perform a chosen skill under explicitly reduced-assistance conditions, including later use.",
+      "boundary": "An immediate attempt is practice or assessment, not evidence of durable transfer. Keep accommodations."
+    },
+    {
+      "id": "judgment",
+      "title": "Better-founded judgment",
+      "role": "core",
+      "definition": "Choose using relevant evidence, alternatives and consequences.",
+      "boundary": "A checked artifact, consensus or successful outcome alone does not establish improved judgment."
+    },
+    {
+      "id": "calibration",
+      "title": "Calibration",
+      "role": "core",
+      "definition": "Bring confidence and reliance into closer relation with available evidence and actual performance.",
+      "boundary": "Doubt, felt reassurance and numerical confidence ratings alone are not calibration."
+    },
+    {
+      "id": "authorship-agency",
+      "title": "Authorship and agency",
+      "role": "core",
+      "definition": "Form purposes, criteria and substantive contributions one can explain, revise or refuse.",
+      "boundary": "Formal approval, imitation of a voice or a disclosure log alone is insufficient."
+    },
+    {
+      "id": "creative-development",
+      "title": "Creative development",
+      "role": "core",
+      "definition": "Develop, select and reshape possibilities for an intended creative purpose.",
+      "boundary": "More suggestions or polished imitation is not improved creativity; range and selection should be observed separately."
+    },
+    {
+      "id": "attention",
+      "title": "Directed attention",
+      "role": "core",
+      "definition": "Spend attention deliberately on chosen work and stop or redirect when appropriate.",
+      "boundary": "Screen time, discomfort and task throughput alone are not the outcome."
+    },
+    {
+      "id": "shared-understanding",
+      "title": "Shared understanding",
+      "role": "core",
+      "definition": "Communicate or reconcile meaning so actual people understand the relevant ideas and differences.",
+      "boundary": "Simulated audience reactions, persuasion and consensus do not establish shared understanding."
+    },
+    {
+      "id": "accountability",
+      "title": "Accountability and informed participation",
+      "role": "enabling",
+      "definition": "Make authority, contributions, data use and unresolved responsibilities inspectable to those affected.",
+      "boundary": "Documentation or named ownership alone does not show agency, fairness or compliance."
+    },
+    {
+      "id": "work-quality",
+      "title": "Quality of the immediate work",
+      "role": "enabling",
+      "definition": "Make a specific output, process or check more accurate, useful or fit for its purpose.",
+      "boundary": "Better assisted work does not by itself show stronger thinking or retained capability."
+    }
+  ]
+}

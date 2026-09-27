@@ -1,0 +1,26 @@
+{
+  "id": 834,
+  "title": "How to grow a subscription business | Yuriy Timen (Grammarly, Canva, Airtable)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/yuriy-timen/transcript.md",
+  "sha256": "071c4ebc39248b4d31a0c57340e96037731503541765b154819d6146c5c9bf9a",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 11285,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 828,
+      "text": "The only thing that's worse than a channel "
+    },
+    {
+      "line": 162,
+      "offset": 14163,
+      "text": "Yeah. Honestly, the first thing you look for is that, is there inherent product network effects? It's something that it's either t"
+    }
+  ]
+}

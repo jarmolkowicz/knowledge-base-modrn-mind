@@ -1,0 +1,26 @@
+{
+  "id": 670,
+  "title": "Building better roadmaps | Janna Bastow (Mind the Product, ProdPad)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/janna-bastow/transcript.md",
+  "sha256": "cbd9e0be5f87229aa087e39b958ff912443cafb09ede804f5e63a581fae52557",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 11432,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 805,
+      "text": "The whole point about a roadmap is that it's n"
+    },
+    {
+      "line": 393,
+      "offset": 51998,
+      "text": "So the value isn't the prototype, the value is in the prototyping process. The value isn't in your roadmap, The value is in the roadmapping "
+    }
+  ]
+}

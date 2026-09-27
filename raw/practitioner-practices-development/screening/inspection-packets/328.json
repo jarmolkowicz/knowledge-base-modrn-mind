@@ -1,0 +1,31 @@
+{
+  "id": 328,
+  "title": "Search.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/search.md",
+  "sha256": "6b54b41690fc602c9ba9fcfe879c75a698404f5863097c9207238a82bf961611",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1043,
+  "headings": [
+    "**Table of contents**",
+    "**1. My method & results.**",
+    "**2. The best model to search (anything).**",
+    "**3. The best model for each case study.**",
+    "**4. Search vs. Deep Research. How to pick?**",
+    "**5. Best-of prompts to search** ***(copy & paste).***"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 127,
+      "text": "I use AI for (mostly) two tasks: (1) **searching** things, (2) **writing*"
+    },
+    {
+      "line": 120,
+      "offset": 5687,
+      "text": "Prompt: “Find the 5 most authoritative YouTube videos to learn “How to write a thesis with AI”. For each: channel, publish date, why it’s credible, and exact timestamp for the most valuable 2 minutes.”"
+    }
+  ]
+}

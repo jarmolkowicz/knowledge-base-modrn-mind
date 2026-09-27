@@ -1,0 +1,37 @@
+{
+  "queue_position": 278,
+  "id": 676,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jeanne-grosser/transcript.md",
+  "sha256": "1f8349d561342278a16cee0173d76d6c374f1e1162ac4ae863e2b2159be08220",
+  "title": "What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe, Google)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 42,
+      "text": "Jeanne DeWitt Grosser (00:00:03):"
+    },
+    {
+      "line": 43,
+      "text": "With AI, it's just intensified because you have 10 players pursuing the same market opportunity and so your ability to actually bring the product to market to differentiate yourself from the competition has become more strategically important than it was previously."
+    },
+    {
+      "line": 60,
+      "text": "Jeanne DeWitt Grosser (00:01:23):"
+    },
+    {
+      "line": 61,
+      "text": "The litmus test I have always given my sales team is if you are an account executive in my org and I put you in front of 10 engineers at our company, it should take them 10 minutes to figure out you aren't a product manager."
+    },
+    {
+      "line": 171,
+      "text": "Jeanne DeWitt Grosser (00:22:32):"
+    },
+    {
+      "line": 172,
+      "text": "I think on prospecting it can replace a fair amount because the average SDR wasn't doing overly sophisticated research in the first place. So where I, think the last part to go as I mentioned will be in deep enterprise prospecting where you can be at multiple layers in an org chart, you've got to pick between business lines, you've got to triangulate those. But I do think for the things that are more repetitive that often don't take that much time to learn and get ramped, AI will be good at that. And in my view, no one graduated from college and was like, \"Yes, I just went to college for four years to become an SDR.\" It was more, \"Okay, that's where you are forced to start.\" But I think the average SDR could have gone straight into outbound or straight into an SMB closing role. And so basically what we're just doing is shifting folks into something that uses more of their full capacity right out of the gates rather than sort of the forcing function of working your way up the totem pole."
+    }
+  ]
+}

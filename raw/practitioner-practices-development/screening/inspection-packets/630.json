@@ -1,0 +1,26 @@
+{
+  "id": 630,
+  "title": "Taking control of your career | Ethan Evans (Amazon)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ethan-evans/transcript.md",
+  "sha256": "33a3c15da43be632154fdb9e923d4e096e05f1e665f45fac1f0106c23df5f44d",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15006,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 755,
+      "text": "People think invention takes all this time, but you o"
+    },
+    {
+      "line": 579,
+      "offset": 67213,
+      "text": "And so when we first told him, \"Well, we think you're missing ownership,\" he was like, \"You're staying that the whole S team can't get its leadership principles"
+    }
+  ]
+}

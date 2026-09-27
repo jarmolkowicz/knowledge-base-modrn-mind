@@ -46,6 +46,14 @@
       "batch": "kb-remaining-corrections-2026-09-27",
       "reason": "A13: rendered first page confirms Ericsson, Krampe and Tesch-Romer, Psychological Review 1993, pp.363-406. Correct stale catalog hash after the replacement documented on 2026-04-29. Original PDF not changed.",
       "previous_hash": "3f87e3c1621ef9b57dcccea07337e332dbef27482c3774933e5d1c0d26b25634"
+    },
+    {
+      "stage": "supplementary_practices_stage_5",
+      "outcome": "integrated",
+      "date": "2026-09-27",
+      "by": "Codex librarian; user-authorized Continue",
+      "reason": "Reviewed supplementary practices or research-context updates integrated. Original source status and earlier history retained.",
+      "batch": "raw/kb-practice-screening-2026-09-27/review/integration/decision.json"
     }
   ],
   "pages": 44

@@ -1,0 +1,26 @@
+{
+  "id": 823,
+  "title": "A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/uri-levine/transcript.md",
+  "sha256": "f0910e175e24f7b0335aa50206a43149636331ef612f30fb16bc88ddd4d46a94",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 14826,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 837,
+      "text": "You've co-founded 10 different companies. Y"
+    },
+    {
+      "line": 133,
+      "offset": 18776,
+      "text": "The second conclusion is that you really want to fail fast. Just think about it, right? If you fail fast, you still have plenty of"
+    }
+  ]
+}

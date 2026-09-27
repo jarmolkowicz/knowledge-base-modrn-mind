@@ -1,0 +1,32 @@
+{
+  "id": 506,
+  "title": "Slow Takes Episode 3: Who Decides?",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-takes-ep3-who-decides.md",
+  "sha256": "83182ee15e0b67819f94a5235b170f38f9cf366246a81b8c2c2528a644dd2738",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1791,
+  "headings": [
+    "What we covered",
+    "1. DOGE used ChatGPT to cancel humanities grants",
+    "2. House of Lords: creative industries face “clear and present danger”",
+    "3. OpenAI’s Pentagon deal: surveillance ban with loopholes",
+    "4. The “Artificial Hivemind”: AI is making everyone sound the same",
+    "5. AI is already causing fatal accidents in gig work",
+    "The thread"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 398,
+      "text": "This is the third episode of *Slow Takes*, a weekly Substack Live "
+    },
+    {
+      "line": 29,
+      "offset": 1755,
+      "text": "**What we said on the live:** A chatbot decided which humanities projects deserve to exist. Not expert review. A language model answering a binary question about a term it cannot define. This is what "
+    }
+  ]
+}

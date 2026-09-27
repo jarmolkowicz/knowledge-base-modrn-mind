@@ -1,0 +1,90 @@
+{
+  "queue_position": 87,
+  "id": 348,
+  "path": "raw/inbox/Practical/Ruben Hassid/youre-using-ai-backwards.md",
+  "sha256": "27dbfc336702159f2c7ddf5a0dc18864f094b7fc5a2037d5c5a27691ded93c9f",
+  "title": "Mirror.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L24 ## **#1. AI is average** *(the 70th percentile)*.",
+    "L54 ## **#2. The confidence trap.**",
+    "L82 ## **#3. What expertise** *(actually)* **is.**",
+    "L90 #### **1. You feel wrongness before you can name it.**",
+    "L104 #### **2. You have scars.**",
+    "L124 #### **3. You know where the danger is.**",
+    "L140 #### **4. You know what your audience won’t say.**",
+    "L172 ## **#4. How to be the expert** *(and use AI)***.**",
+    "L178 #### **Step 1: Upload what you love.**",
+    "L182 #### **Step 2: Extract the patterns.**",
+    "L190 #### **Step 3: Add your scars.**",
+    "L202 #### **Step 4: Add your audience.**",
+    "L210 #### **Step 5: Export.**",
+    "L250 ## **#5. The steering wheel.**",
+    "L260 #### **You redirect.**",
+    "L290 #### **The formula:**",
+    "L305 ## **#6. The shift.**",
+    "L333 ## **Too long, didn’t read.**"
+  ],
+  "passages": [
+    {
+      "line": 24,
+      "text": "## **#1. AI is average** *(the 70th percentile)*."
+    },
+    {
+      "line": 28,
+      "text": "Given a sequence of words, they predict the most likely next word. Then the next. Then the next. That’s it. That’s the whole trick."
+    },
+    {
+      "line": 34,
+      "text": "When you ask AI a question, it doesn’t think. It calculates: *What word would most likely come next, based on all the text that’s ever been written about this topic?*"
+    },
+    {
+      "line": 54,
+      "text": "## **#2. The confidence trap.**"
+    },
+    {
+      "line": 58,
+      "text": "When you ask a great strategist for advice, they don’t give you a clean answer. They say, *“It depends.”* They ask clarifying questions. They point out exceptions. They tell you about the time it didn’t work."
+    },
+    {
+      "line": 90,
+      "text": "#### **1. You feel wrongness before you can name it.**"
+    },
+    {
+      "line": 94,
+      "text": "A designer looks at a layout and feels the spacing is off, before measuring anything. A writer reads a sentence and knows it’s clunky before identifying the passive voice. A strategist hears a recommendation and thinks *“that’ll never work”*, before articulating why."
+    },
+    {
+      "line": 104,
+      "text": "#### **2. You have scars.**"
+    },
+    {
+      "line": 116,
+      "text": "*“Never design without knowing how it fails.”* — Because you built something beautiful that broke the first time someone used it wrong."
+    },
+    {
+      "line": 190,
+      "text": "#### **Step 3: Add your scars.**"
+    },
+    {
+      "line": 195,
+      "text": "Now I’ll tell you my personal constraints. These are rules I learned the hard way. Ask me questions one by one to extract them: what I never do, what I always do, where I’ve been burned before, what mistakes I see others make."
+    },
+    {
+      "line": 202,
+      "text": "#### **Step 4: Add your audience.**"
+    },
+    {
+      "line": 207,
+      "text": "Now ask me about my specific audience. Who they are, what they’ve tried before, what they’re afraid of, what they won’t say out loud, what makes them trust or distrust."
+    },
+    {
+      "line": 210,
+      "text": "#### **Step 5: Export.**"
+    },
+    {
+      "line": 233,
+      "text": "I uploaded my context file. It contains my standards, constraints, landmines, and audience. Read it fully before starting. Then, I want you to do this task: [YOUR TASK]. Before you write anything, list the 3 rules from my file that matter most for this task. Then give me your execution plan. "
+    }
+  ]
+}

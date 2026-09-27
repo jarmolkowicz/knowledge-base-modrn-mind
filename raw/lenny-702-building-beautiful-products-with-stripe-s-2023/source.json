@@ -1,0 +1,45 @@
+{
+  "slug": "lenny-702-building-beautiful-products-with-stripe-s-2023",
+  "original_filename": "transcript.md",
+  "format": "md",
+  "source_type": "transcript",
+  "word_count": 18422,
+  "hash": "fed7068934d866b44d760bd7b6244f6abd26796ca3645927afe6ef96ccd2e0be",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:47Z",
+  "decisions": [
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/lenny-702-building-beautiful-products-with-stripe-s-2023.md",
+      "practices": [
+        "practices/review-quality-through-a-real-journey.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 696,
+  "screening_id": 702,
+  "collected_from": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/katie-dill/transcript.md",
+  "bibliographic_metadata": {
+    "title": "Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)",
+    "date": "2023-10-15",
+    "url": "https://www.youtube.com/watch?v=gfEEcssu304",
+    "collection": "Lenny's Podcast"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "practice_review": "practice-review.json"
+}

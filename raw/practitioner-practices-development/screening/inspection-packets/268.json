@@ -1,0 +1,27 @@
+{
+  "id": 268,
+  "title": "Banana.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/banana.md",
+  "sha256": "8ce30334b60fda348c14d127e917d9c8bae37993ea0df8ba50dcad7db2b152e4",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 354,
+  "headings": [
+    "How to access “nano-banana”",
+    "My favorite image-editing prompts"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 127,
+      "text": "The new best AI to generate images. Yes, it's better than ChatGPT."
+    },
+    {
+      "line": 32,
+      "offset": 1001,
+      "text": "It can generate images, sure. But ChatGPT & Midjourney are better."
+    }
+  ]
+}

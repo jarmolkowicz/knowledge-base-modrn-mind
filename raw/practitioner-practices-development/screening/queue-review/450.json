@@ -1,0 +1,51 @@
+{
+  "queue_position": 139,
+  "id": 450,
+  "path": "raw/inbox/Practical/Sam Illingworth/can-claude-write-slow-ai.md",
+  "sha256": "df275b3d00ec1748e7a30fea3cc4da67b9c050643b539a500d87bc4183a1f1a2",
+  "title": "Can Claude Write Slow AI?",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L35 ## The Excerpts",
+    "L37 #### **Excerpt 1**",
+    "L49 #### **Excerpt 2**",
+    "L65 #### **Excerpt 3**",
+    "L79 #### **Excerpt 4**",
+    "L93 #### **Excerpt 5**",
+    "L105 #### **Excerpt 6**"
+  ],
+  "passages": [
+    {
+      "line": 13,
+      "text": "# Can Claude Write Slow AI?"
+    },
+    {
+      "line": 15,
+      "text": "*Slow AI* started as a weekly newsletter with a single prompt. I would write a short introduction, suggest an exercise, and ask people to try it with their AI tool of choice. That was it. One post a week. One idea. See what happens."
+    },
+    {
+      "line": 23,
+      "text": "I gave Claude a detailed voice profile of my writing: my sentence rhythm, my rhetorical moves, the way I open with a blunt claim and close with a short sentence that pins it down, my tendency to blend academic vocabulary with plain-language force. I gave it access to my published posts. Then I asked it to write three excerpts on topics I have already covered, in my voice."
+    },
+    {
+      "line": 27,
+      "text": "All six cover topics I have written about before. This is deliberate. I am not testing whether you recognise my positions. I am testing whether you recognise my voice. The arguments will sound familiar either way. The question is whether the writing feels like mine."
+    },
+    {
+      "line": 105,
+      "text": "#### **Excerpt 6**"
+    },
+    {
+      "line": 117,
+      "text": "Notice what you used to decide. The rhythm? The vocabulary? The argument? The feeling? Whatever signal you relied on, pay attention to it. That signal is what this experiment is testing."
+    },
+    {
+      "line": 123,
+      "text": "I write about AI every week. I tell you to read critically, to notice what is missing, to question what sounds confident. This experiment asks whether any of that works. Whether the people who read me most carefully can tell when the writing is not mine."
+    },
+    {
+      "line": 131,
+      "text": "Paid subscribers get full access to every *Slow AI* post, monthly webinars, and a CPD-accredited curriculum (25 credits, The CPD Group). The critique stays free. The practice costs what it is worth."
+    }
+  ]
+}

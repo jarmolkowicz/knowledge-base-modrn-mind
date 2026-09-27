@@ -1,0 +1,39 @@
+{
+  "id": 364,
+  "title": "AI SEO for Beginners (Full Playbook!)",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/ai-seo-for-beginners-full-playbook.md",
+  "sha256": "389e0626fb40a41d8a9547b373724acefe1b8b00a04fd3750f23bece08cf962b",
+  "access": "public-page",
+  "kind": "article",
+  "words": 6970,
+  "headings": [
+    "1. What Is SEO?",
+    "2. What Is AI SEO (AEO) And How Is It Different From SEO?",
+    "3. Why Is AI SEO Good News For Businesses?",
+    "4. Beginner: What Is The 1 Thing You Want To Be Known For?",
+    "5. Say The Same Thing Everywhere",
+    "6. Beginner: Which Pages Do AI Answers Actually Quote?",
+    "7. Intermediate: How Do You Find The Questions Buyers Actually Ask?",
+    "8. Intermediate: How Do You Format A Page So AI Can Quote It?",
+    "9. How Do You Get AI To Mention Your Brand?",
+    "10. Advanced: Do Press Releases Help With AI SEO?",
+    "11. Advanced: Get Your Voice On Other People’s Platforms",
+    "12. Advanced: Turn It Into a Claude Skill",
+    "Before writing",
+    "Structure"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 408,
+      "text": "***TLDR: AI SEO, also called AEO or answer engine optimization, is how"
+    },
+    {
+      "line": 292,
+      "offset": 14000,
+      "text": "> **Prompt:** I sell [what you sell] to [who you sell to]. My main competitors are [list 3 to 5]. Give me a prioritized list of 10 pages I should write, using only these 3 formats: “best [category]” lists, “[me"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 272,
+  "title": "5.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/chatgpt-5.md",
+  "sha256": "5dc045228a67bcd902e24335ca9e3667dd4f8cd9db32dae685483402cd4367d4",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 575,
+  "headings": [
+    "**Table of contents**",
+    "1. GPT-5. So what’s new?",
+    "2. My first 24-hour vibe check.",
+    "Fast",
+    "Reasoning",
+    "Creative writing",
+    "Maths & Healthcare",
+    "3. The needed ‘Think longer’ hack.",
+    "4. A vibe coding model: bye-bye Lovable?",
+    "5. Best of GPT-5 prompts *(to copy & paste).*"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 120,
+      "text": "The new ChatGPT-5 is out. Is it *(really)* better?"
+    },
+    {
+      "line": 69,
+      "offset": 2385,
+      "text": "ChatGPT finally feels less AI-like when writing text."
+    }
+  ]
+}

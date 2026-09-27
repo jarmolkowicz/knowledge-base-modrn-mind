@@ -1,0 +1,169 @@
+{
+  "queue_position": 65,
+  "id": 294,
+  "path": "raw/inbox/Practical/Ruben Hassid/gold.md",
+  "sha256": "baa0c1c0ce174fe1fc25d2dff5a80b5a24577266c1d548ee46677ca3c1630caa",
+  "title": "Prompt.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L56 ## What People Actually Prompt",
+    "L58 #### Work vs. Life flipped.",
+    "L64 #### The Big Three (≈80% of all chats).",
+    "L72 #### Coding is small. Editing is huge.",
+    "L80 #### Advisor > Autopilot.",
+    "L113 ## Who’s Using It (and Why You Should Care)",
+    "L130 ## Misconceptions to Drop",
+    "L138 ## Opportunities",
+    "L149 ## What to Do — with copy-paste prompts",
+    "L242 ## Don’t (and what to do instead)",
+    "L252 ## Keep Your Team’s Edge",
+    "L260 ## The New Gold Standard",
+    "L280 ## **What Ruben** *(that’s me)* **Will Do**"
+  ],
+  "passages": [
+    {
+      "line": 20,
+      "text": "# The Gold Rush"
+    },
+    {
+      "line": 26,
+      "text": "By July 2025, **700 million** people were using ChatGPT weekly, or **2.5 billion messages a day** (29,000/sec). That’s 10% of the world’s adults."
+    },
+    {
+      "line": 28,
+      "text": "In comparison, Google has 200,000 queries per second. ChatGPT isn’t so far off. And the trend keeps going in that direction:"
+    },
+    {
+      "line": 38,
+      "text": "ChatGPT’s DAU/MAU ratio (desktop) doubled from 9-10% in early 2023 to nearly 20% by August 2025. Google Search’s ratio dropped from 27-28% to 25% in the same period."
+    },
+    {
+      "line": 44,
+      "text": "And by data, I mean a 60-page study from OpenAI itself that is live since this week (here’s the link)."
+    },
+    {
+      "line": 50,
+      "text": "Understanding *how* people use it is understanding the future trends of the new gold rush. Time to mine some gold:"
+    },
+    {
+      "line": 58,
+      "text": "#### Work vs. Life flipped."
+    },
+    {
+      "line": 62,
+      "text": "Translation: ChatGPT is now a life tool first, a work tool second (even though work use is still growing in absolute terms)."
+    },
+    {
+      "line": 64,
+      "text": "#### The Big Three (≈80% of all chats)."
+    },
+    {
+      "line": 70,
+      "text": "Together, they dominate the feed. Over the last year, Guidance held ~29%, Writing slid 36% → 24%, Info surged 14% → 24%."
+    },
+    {
+      "line": 72,
+      "text": "#### Coding is small. Editing is huge."
+    },
+    {
+      "line": 76,
+      "text": "Meanwhile, in Writing, two-thirds of requests are *“make my text better”* (editing/translation/argument) rather than *“write from scratch.”*"
+    },
+    {
+      "line": 80,
+      "text": "#### Advisor > Autopilot."
+    },
+    {
+      "line": 91,
+      "text": "- At work, people lean **Doing** (especially **Writing**) because it drafts fast. But the **best results** come when you treat ChatGPT like a thinking partner first."
+    },
+    {
+      "line": 95,
+      "text": "- Use **Ask → Decide → Do**. Get options, pick one, then have it drafted. You’ll ship faster without shipping junk."
+    },
+    {
+      "line": 99,
+      "text": "1. **Ask:** “Give me 3 angles to announce a product update to SMBs. For each: who it appeals to, 1 risk, 1 must-include detail.”"
+    },
+    {
+      "line": 101,
+      "text": "3. **Do:** “Draft the email using that angle. Keep it 120–150 words, add a P.S. for a webinar, and a 3-item verify list.”"
+    },
+    {
+      "line": 103,
+      "text": "If you skip “Ask” and go straight to “Do,” you’ll often get a plausible draft that’s mis-aimed—pretty words, wrong decision."
+    },
+    {
+      "line": 113,
+      "text": "## Who’s Using It (and Why You Should Care)"
+    },
+    {
+      "line": 115,
+      "text": "- **The gender gap closed.** ChatGPT mainly started male. By mid-2025, women used ChatGPT weekly more than men."
+    },
+    {
+      "line": 118,
+      "text": "- **Pros use it to** ***ask*****, not just** ***do*****.** Highly educated professionals are more likely to use ChatGPT for work and to ask for guidance at work, not just push tasks."
+    },
+    {
+      "line": 120,
+      "text": "People don’t find value in automation, but in decision support. That’s where productivity jumps, especially in knowledge jobs. One estimate pegs consumer surplus from generative AI at ~$97B/year in the US; inside firms, the big gains show up when people use ChatGPT as an advisor or research assistant."
+    },
+    {
+      "line": 138,
+      "text": "## Opportunities"
+    },
+    {
+      "line": 140,
+      "text": "1. **Guidance-as-a-service.** Coaching, tutoring, plan-building. Guidance stayed ~29% even as the user base exploded."
+    },
+    {
+      "line": 141,
+      "text": "2. **Writing partner.** At work, Writing is king (~40% of work messages). Your edge: draft fast, then use GPT to finetune tone, structure, and clarity."
+    },
+    {
+      "line": 142,
+      "text": "3. **Search-plus.** Info seeking rose 14% → 24%. Use GPT to synthesize, not just fetch. Ask for trade-offs, next steps, and verification cues."
+    },
+    {
+      "line": 143,
+      "text": "4. **Ride new capabilities early.** When image generation landed (Apr 2025), multimedia jumped from ~2% → >7% and stayed high. New features shift habits. Be early."
+    },
+    {
+      "line": 252,
+      "text": "## Keep Your Team’s Edge"
+    },
+    {
+      "line": 254,
+      "text": "- **Train for asking.** Teach your team to frame **Asking** prompts (comparisons, trade-offs, criteria) *before* delegating **Doing** tasks."
+    },
+    {
+      "line": 255,
+      "text": "- **Instrument the obvious.** If you build products, double-down where users already live: guidance, writing, search-plus."
+    },
+    {
+      "line": 256,
+      "text": "- **Global & young.** Localize and price for emerging markets; program for Gen-Z workflows (tutoring, coaching, job prep)."
+    },
+    {
+      "line": 260,
+      "text": "## The New Gold Standard"
+    },
+    {
+      "line": 266,
+      "text": "Do that, and you’ll get the productivity boost **without** paying the cognitive debt I ranted about last time."
+    },
+    {
+      "line": 276,
+      "text": "*archive of part articles: https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?tab=t.0#heading=h.b81azxnvmq1z*"
+    },
+    {
+      "line": 280,
+      "text": "## **What Ruben** *(that’s me)* **Will Do**"
+    },
+    {
+      "line": 282,
+      "text": "I just recorded a Facecam video of how I feel about this study, and how it will change my media business (content creation) and my software (EasyGen)."
+    }
+  ]
+}

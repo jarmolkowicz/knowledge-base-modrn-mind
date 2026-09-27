@@ -1,0 +1,52 @@
+{
+  "slug": "lenny-684-how-to-see-like-a-designer-2024",
+  "original_filename": "transcript.md",
+  "format": "md",
+  "source_type": "transcript",
+  "word_count": 15961,
+  "hash": "a02e137cbbfb0e6a142e7d95d68f22e5c7136292aae5d00995093ba5bab8495c",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:47Z",
+  "decisions": [
+    {
+      "stage": "practice-review",
+      "outcome": "retain",
+      "date": "2026-09-26",
+      "reason": "Retain two distinct cards: observing one’s visual reactions and selecting from a generated creative pool.",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/lenny-684-how-to-see-like-a-designer-2024.md",
+      "practices": [
+        "practices/name-your-own-visual-reactions.md",
+        "practices/choose-from-an-ai-generated-creative-pool.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 489,
+  "screening_id": 684,
+  "collected_from": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jessica-hische/transcript.md",
+  "bibliographic_metadata": {
+    "title": "How to see like a designer: The hidden power of typography and logos | Jessica Hische",
+    "date": "2024-10-20",
+    "url": "https://www.youtube.com/watch?v=tLLqE6Ia8-U",
+    "collection": "Lenny's Podcast"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

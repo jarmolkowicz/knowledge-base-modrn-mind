@@ -1,0 +1,32 @@
+{
+  "id": 471,
+  "title": "Everyone Says They Use AI. Almost Nobody Pays For It.",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/only-2-percent-pay-for-ai.md",
+  "sha256": "9497d0bdb0e9a0031b6510b91f1ca23f2b62ca650b7d535b9fccba0803674f6f",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1394,
+  "headings": [
+    "**In this post I will:**",
+    "**Two banks went and counted**",
+    "**Half of America has never a chatbot**",
+    "**The number nobody quotes**",
+    "**What people say when you actually ask them**",
+    "**Why your feed says otherwise**",
+    "**Five things to do instead**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 438,
+      "text": "You are surrounded by people talking about using AI at the frontie"
+    },
+    {
+      "line": 19,
+      "offset": 581,
+      "text": "- Show you how few people are actually using AI."
+    }
+  ]
+}

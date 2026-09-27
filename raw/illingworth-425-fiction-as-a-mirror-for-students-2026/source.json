@@ -1,0 +1,51 @@
+{
+  "slug": "illingworth-425-fiction-as-a-mirror-for-students-2026",
+  "original_filename": "ai-fiction-student-reflection.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 2182,
+  "hash": "79a6b8182ff1d109e84fecf9e8353934fbd3010ac0e6832ec1b77a3b138949fa",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:43Z",
+  "decisions": [
+    {
+      "stage": "practice-review",
+      "outcome": "retain",
+      "date": "2026-09-26",
+      "reason": "Retain the order: character prompt, independent student writing, then discussion. Do not imply the AI classroom routine itself has field evaluation.",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/illingworth-425-fiction-as-a-mirror-for-students-2026.md",
+      "practices": [
+        "practices/use-fictional-questions-for-your-own-reflection.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 185,
+  "screening_id": 425,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/ai-fiction-student-reflection.md",
+  "bibliographic_metadata": {
+    "title": "Fiction as a Mirror for Students Using AI",
+    "date": "2026-01-09",
+    "url": "https://theslowai.substack.com/p/ai-fiction-student-reflection",
+    "collection": "Sam Illingworth"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

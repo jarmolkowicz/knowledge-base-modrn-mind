@@ -1,0 +1,52 @@
+{
+  "slug": "lenny-550-this-will-make-you-a-better-2024",
+  "original_filename": "transcript.md",
+  "format": "md",
+  "source_type": "transcript",
+  "word_count": 15787,
+  "hash": "b262e5e7636035e19e545801ce59d4c075eb9ed4f30d8ae25bea599cd52aba7d",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:41Z",
+  "decisions": [
+    {
+      "stage": "practice-review",
+      "outcome": "retain",
+      "date": "2026-09-26",
+      "reason": "Retain independent input; merge advance stopping actions into Doshi’s premortem card as a distinct contribution, not independent validation.",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/lenny-550-this-will-make-you-a-better-2024.md",
+      "practices": [
+        "practices/collect-independent-views-before-discussion.md",
+        "practices/turn-a-premortem-into-actions.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 492,
+  "screening_id": 550,
+  "collected_from": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/annie-duke/transcript.md",
+  "bibliographic_metadata": {
+    "title": "This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)",
+    "date": "2024-05-02",
+    "url": "https://www.youtube.com/watch?v=svQMODvIGAE",
+    "collection": "Lenny's Podcast"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

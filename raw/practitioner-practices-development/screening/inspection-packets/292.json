@@ -1,0 +1,31 @@
+{
+  "id": 292,
+  "title": "10,000 followers in 17 days.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/from-49-to-10000-followers-in-17.md",
+  "sha256": "0a4e0389b49894e8e19e09b4063ad3358b4f13d365d6125059489814cfd02d46",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1395,
+  "headings": [
+    "**1. How to instantly optimize your Linkedin.**",
+    "A. Your profile picture **sucks**.",
+    "B. I don’t understand **why** I should follow you.",
+    "C. Stop writing for **everyone**.",
+    "Detection.",
+    "**2. The secrets to +1,000 followers per day.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 223,
+      "text": "And (by far) the most ambitious course I have ever written."
+    },
+    {
+      "line": 202,
+      "offset": 13354,
+      "text": "Once you write your caption (with AI), make sure it does not sound like an AI… by using an AI to get the first vibe check."
+    }
+  ]
+}

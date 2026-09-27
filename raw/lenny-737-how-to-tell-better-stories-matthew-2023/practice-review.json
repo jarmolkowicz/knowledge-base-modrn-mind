@@ -1,0 +1,33 @@
+{
+  "id": 737,
+  "group_index": 18,
+  "decision": "draft_with_limits",
+  "coverage": "Read relevant complete transcript exchanges: L440–510; 01:06:37–01:18:39. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L440–510; 01:06:37–01:18:39"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Reports collecting more moments over years and using some in stories."
+  ],
+  "proposed_outcomes": [
+    "Notice experience and build a personal story archive."
+  ],
+  "limits": [
+    "Self-reported frequency and coaching testimonials; no memory or therapeutic evaluation. Interpretations of others’ motives are not facts. Do not turn private experiences into public material without judgment."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/lenny-737-how-to-tell-better-stories-matthew-2023/drafts/practices/record-lived-moments.md"
+  ],
+  "role": "origin",
+  "review_note": "Homework for Life: date and briefly record a lived moment; distinguish recalled past events from today’s events.",
+  "author": "Matthew Dicks",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/record-lived-moments.md"
+  ],
+  "historical_drafts_retained": true
+}

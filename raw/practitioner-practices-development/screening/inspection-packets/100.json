@@ -1,0 +1,24 @@
+{
+  "id": 100,
+  "title": "The Shape of the Thing",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/the-shape-of-the-thing.md",
+  "sha256": "1133e497d9e21db4db450f32724764e84eb787fee528d9ee6337ef4e379ba6e0",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1973,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 371,
+      "text": "In October of 2023, I wrote about the “Shape of the Shadow of the Thing,” speculating on the Thing t"
+    },
+    {
+      "line": 33,
+      "offset": 4417,
+      "text": "As an example, I picked four hard and diverse AI tests and graphed progress over time in the image below. In the upper left are the scores on the Google-Proof Q&A benchmark, a test of knowledge where graduate students using Google only score 34% outside their field and 70% or so inside of it, but th"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 327,
+  "title": "Joking.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/same.md",
+  "sha256": "bc855c7a3587186decfbcf7db83036b5291fb0d1a11b2735fdfcd47ea63763f5",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 823,
+  "headings": [
+    "**Table of contents**",
+    "1. You don’t understand LLMs.",
+    "2. How to get anything creative.",
+    "3. How to push ChatGPT to be edgy.",
+    "5. Best of GPT-5 prompts *(to copy & paste).*"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 125,
+      "text": "Ask AI “Tell me a joke about [whatever, really]”."
+    },
+    {
+      "line": 153,
+      "offset": 6514,
+      "text": "ChatGPT’s answer was pretty good. But what if I want deeper insights in learning Hebrew faster? Let’s go deeper with this simple follow-up prompt:"
+    }
+  ]
+}

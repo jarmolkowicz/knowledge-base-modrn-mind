@@ -1,0 +1,58 @@
+{
+  "queue_position": 118,
+  "id": 417,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-cognitive-offloading-student-learning.md",
+  "sha256": "09d07ae4dbc9a35e7d20e3671bcf294e6bbcb85fbe64930f5d56d7a29719702a",
+  "title": "AI Is Improving Student Performance. It Is Also Destroying Student Learning.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L17 #### In this post I will:",
+    "L37 #### **The performance paradox in practice**",
+    "L47 #### **Fluency is the trap**",
+    "L61 #### **The new equity gap**",
+    "L69 #### **What learning a language taught me about cognitive load**",
+    "L81 #### **Why this matters beyond the classroom**"
+  ],
+  "passages": [
+    {
+      "line": 17,
+      "text": "#### In this post I will:"
+    },
+    {
+      "line": 31,
+      "text": "When students use AI to bypass the hard thinking itself (“write me an essay about the causes of World War I”), the entire schema-construction process collapses. The generation of ideas, the retrieval of knowledge, the analysis of connections, the synthesis of an argument: all of it is outsourced. Lodge and Loble call this *detrimental offloading*. The student is no longer learning. They are completing a task."
+    },
+    {
+      "line": 47,
+      "text": "#### **Fluency is the trap**"
+    },
+    {
+      "line": 49,
+      "text": "The report identifies a vicious cycle that should concern anyone working with AI, not only in education."
+    },
+    {
+      "line": 69,
+      "text": "#### **What learning a language taught me about cognitive load**"
+    },
+    {
+      "line": 75,
+      "text": "Do not test me on my Japanese now. It feels like a lifetime ago. Which is itself the point. Skills atrophy without constant use and practice. The cognitive effort I put in during those conversations built something durable. The grammar tables did not."
+    },
+    {
+      "line": 77,
+      "text": "Lodge and Loble’s report gives this a name. The textbook drilling managed extraneous load (formatting, presentation) while letting me avoid the intrinsic load (actually thinking in Japanese, producing language under pressure). The conversations forced the intrinsic work. The discomfort was the learning."
+    },
+    {
+      "line": 81,
+      "text": "#### **Why this matters beyond the classroom**"
+    },
+    {
+      "line": 85,
+      "text": "The question the report leaves you with is not whether AI is good or bad for learning. It is whether the person using it knows the difference between the parts of a task that can be safely outsourced and the parts where the struggle is the point."
+    },
+    {
+      "line": 93,
+      "text": "This post gives you the argument. The Slow AI Curriculum gives you twelve months of structured practice in knowing the difference: which cognitive acts to keep, which to delegate, and how to tell one from the other under pressure. Monthly live seminars, CPD accreditation, a community of 225+ educators, researchers, and professionals working through this together."
+    }
+  ]
+}

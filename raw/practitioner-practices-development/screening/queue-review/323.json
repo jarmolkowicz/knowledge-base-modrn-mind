@@ -1,0 +1,55 @@
+{
+  "queue_position": 74,
+  "id": 323,
+  "path": "raw/inbox/Practical/Ruben Hassid/prompt-maker.md",
+  "sha256": "e76be69b5c146b30df1fdaf04191e9e0b1843912862a776173477501f98c64dc",
+  "title": "How to not prompt.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L48 ### Example #1: Linkedin hooks",
+    "L101 ### Example #2: Newsletter",
+    "L123 ## **This is the annoying marketing part…**"
+  ],
+  "passages": [
+    {
+      "line": 30,
+      "text": "If you already subscribed to Ruben Hassid (my Substack), you will eventually master all of the above. But let’s focus today on my free “**Prompt Maker**”."
+    },
+    {
+      "line": 48,
+      "text": "### Example #1: Linkedin hooks"
+    },
+    {
+      "line": 50,
+      "text": "I prompted: “A prompt to write drastically different hooks for a Linkedin post I share.” Here’s my Prompt Maker’s answer:"
+    },
+    {
+      "line": 62,
+      "text": "When copying & pasting, be careful with the green text: it says “Insert Linkedin post here” so it’s up to you to insert it the right way. To do so, I write this:"
+    },
+    {
+      "line": 79,
+      "text": "2. Paste it on a new ChatGPT chat → paste your own Linkedin post → choose the model o3 (at the top left)."
+    },
+    {
+      "line": 101,
+      "text": "### Example #2: Newsletter"
+    },
+    {
+      "line": 105,
+      "text": "I input: “A prompt to read my last 3 newsletters I input to search the web & give me ideas for new topics.”"
+    },
+    {
+      "line": 123,
+      "text": "## **This is the annoying marketing part…**"
+    },
+    {
+      "line": 131,
+      "text": "> If 1% of you forward this email to a colleague, that’s an extra 4,000 people to keep this newsletter free forever!"
+    },
+    {
+      "line": 133,
+      "text": "> And if you are theperson who received it (welcome!), you can join us here for the next newsletter:"
+    }
+  ]
+}

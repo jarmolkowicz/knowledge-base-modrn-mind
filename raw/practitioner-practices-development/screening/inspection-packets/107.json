@@ -1,0 +1,39 @@
+{
+  "id": 107,
+  "title": "Modern Mind Framework",
+  "collection": "Modrn Mind",
+  "path": "raw/inbox/Practical/Modrn Mind/Modern Mind Framework - Consolidated.md",
+  "sha256": "8c4e4ee6554d79865a1bf63366a0d38147f51fad8081e67886ff2ac29e0bfe0c",
+  "access": "extent_not_verified",
+  "kind": "internal_working_document",
+  "words": 5794,
+  "headings": [
+    "1.1 The Problem",
+    "The Permanent Tension",
+    "The Chef and the Food Replicator",
+    "Cognitive Biases Driving Unconscious Erosion",
+    "The Core Insight",
+    "1.1b First Principles (Axioms)",
+    "Derivation Map",
+    "1.2 The Foundation",
+    "Agency as Source of Professional Value",
+    "Three Core Capacities",
+    "Capacity 1: How You Think and Decide",
+    "Capacity 2: Where Your Ideas Come From",
+    "Capacity 3: How You Improve Over Time",
+    "Dual Development Paths"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 2,
+      "offset": 24,
+      "text": "**Status**: Living Document (Consolidated from Attempts 1-5)"
+    },
+    {
+      "line": 94,
+      "offset": 4515,
+      "text": "The decision of WHEN to create vs. curate is itself an exercise of agency. If you unconsciously default to AI, you lose this meta-level agency first. Then your capacity to create or curate well erodes."
+    }
+  ]
+}

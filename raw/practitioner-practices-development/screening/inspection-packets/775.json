@@ -1,0 +1,26 @@
+{
+  "id": 775,
+  "title": "Peter Deng",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/peter-deng/transcript.md",
+  "sha256": "3fd87528041c01b1cf7160f528bf649551b080aef9aa259707efbbba02437508",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 22353,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 34,
+      "offset": 405,
+      "text": "You built and led Facebook news feeds. You "
+    },
+    {
+      "line": 172,
+      "offset": 16449,
+      "text": "At age nine he could think about that, whereas being at age nine, I was playing with Legos and maybe QBasic. And so this idea of h"
+    }
+  ]
+}

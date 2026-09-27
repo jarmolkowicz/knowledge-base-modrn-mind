@@ -1,0 +1,32 @@
+{
+  "id": 283,
+  "title": "Declining.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/declining.md",
+  "sha256": "5723cdf3a520829ec8904b33c1a8a1b1e7076f8653c5b6353e13da2df209044b",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 596,
+  "headings": [
+    "**The better-than-ChatGPT tool to write.**",
+    "You are new? Access my archive: *https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing.*",
+    "**The better-than-ChatGPT tool to search.**",
+    "**The better-than-ChatGPT tool for media.**",
+    "Nano Banana Pro for images.",
+    "Veo-3.1 for videos.",
+    "**My personal prompt library for each.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 159,
+      "text": "A 6% drop in web traffic from a peak of 203 million 7-day average visits,"
+    },
+    {
+      "line": 155,
+      "offset": 6565,
+      "text": "I will first share my updated prompt library for ChatGPT, and then my favorite prompts for each alternative (Claude, Grok & Gemini):"
+    }
+  ]
+}

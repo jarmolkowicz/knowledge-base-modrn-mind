@@ -1,0 +1,26 @@
+{
+  "id": 701,
+  "title": "Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder, designer, CEO)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/karri-saarinen/transcript.md",
+  "sha256": "9d9166822e969d2d6849dba858c9eb553eb5c2249911d7ae1caf532a0adaae87",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 17891,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 871,
+      "text": "My belief is that, like any domain or industry"
+    },
+    {
+      "line": 64,
+      "offset": 4610,
+      "text": "Now with Composer you can automate your trading with a library of over 1,000 strategies that are easy to understand and tweak using an AI as"
+    }
+  ]
+}

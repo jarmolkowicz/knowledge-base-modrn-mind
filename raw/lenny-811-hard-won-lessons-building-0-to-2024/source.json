@@ -1,0 +1,51 @@
+{
+  "slug": "lenny-811-hard-won-lessons-building-0-to-2024",
+  "original_filename": "transcript.md",
+  "format": "md",
+  "source_type": "transcript",
+  "word_count": 23251,
+  "hash": "49f6a4eadcefb015b601c370fa1beac308c2653f68e5cd66592ac425629fbff9",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:48Z",
+  "decisions": [
+    {
+      "stage": "practice-review",
+      "outcome": "retain",
+      "date": "2026-09-26",
+      "reason": "Retain a specific team grounding routine, not the sweeping claim that competitors should be ignored.",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/lenny-811-hard-won-lessons-building-0-to-2024.md",
+      "practices": [
+        "practices/return-to-real-user-accounts.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 942,
+  "screening_id": 811,
+  "collected_from": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/tanguy-crusson/transcript.md",
+  "bibliographic_metadata": {
+    "title": "Hard-won lessons building 0 to 1 inside Atlassian | Tanguy Crusson (Head of Jira Product Discovery)",
+    "date": "2024-06-16",
+    "url": "https://www.youtube.com/watch?v=cZqpqb5qR5A",
+    "collection": "Lenny's Podcast"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

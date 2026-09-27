@@ -1,0 +1,26 @@
+{
+  "id": 623,
+  "title": "How Netflix builds a culture of excellence | Elizabeth Stone (CTO)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/elizabeth-stone/transcript.md",
+  "sha256": "fe6dd4833951ca7648d45ffea78e67c7d38d0e83bacdc4713f8d4c83d644d25b",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 12604,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 828,
+      "text": "We can't really have any of the other aspects of the "
+    },
+    {
+      "line": 204,
+      "offset": 31753,
+      "text": "The reason the keeper test and that question is useful is because no one wants to think that way. It's very hard to say to someone, \"I think this isn't the righ"
+    }
+  ]
+}

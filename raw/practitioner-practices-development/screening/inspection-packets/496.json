@@ -1,0 +1,30 @@
+{
+  "id": 496,
+  "title": "Slow Takes Ep. 13: The Pope vs the IPO",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-takes-ep-13-the-pope-vs-the.md",
+  "sha256": "e72c1a4866984bf7d817f6e084d73e10bcaedd94e114cb09e9efbfb6984469d8",
+  "access": "public-page",
+  "kind": "article",
+  "words": 998,
+  "headings": [
+    "**The Pope told the world to slow AI down**",
+    "**Anthropic shipped Opus 4.8 and trailed something bigger**",
+    "**Tony Blair told Labour it is ‘playing with fire’**",
+    "**Sam Altman walked back the jobs apocalypse**",
+    "**The Home Office will scan child asylum seekers’ faces**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 412,
+      "text": "Every Monday at 12:45 BST, Leor from Exploring ChatGPT and I go th"
+    },
+    {
+      "line": 67,
+      "offset": 5433,
+      "text": "It has signed a £322,000 contract to test AI facial age estimation at Dover, to judge whether young people claiming to be children actually are (the BBC reported the contract; Human Rights Watch calle"
+    }
+  ]
+}

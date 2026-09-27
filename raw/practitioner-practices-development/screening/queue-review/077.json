@@ -1,0 +1,35 @@
+{
+  "queue_position": 28,
+  "id": 77,
+  "path": "raw/inbox/Practical/Ethan Mollick/innovation-through-prompting.md",
+  "sha256": "bb16d8ee9d9b5be84fb287d51a6b2a6d1f56a3912b4b034cef1fa53532b4e0db",
+  "title": "Innovation through prompting",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 18,
+      "text": "We took a context we know well, interactive teaching tools and pedagogy, and created research-based exercises that would have been difficult or impossible to do before the advent of generative AI. For example, the ability to generate a compelling educational simulation, with appropriate teaching support, using just a few paragraphs of text is an entirely new capability that AI has enabled. We have piloted a range of similar AI experiences in recent months, and they show considerable promise. While more experiments are needed on their effectiveness, these new tools expand the capabilities available to educators."
+    },
+    {
+      "line": 24,
+      "text": "# Level 1: Use a pre-made prompt"
+    },
+    {
+      "line": 28,
+      "text": "For example, here is a goal-play prompt you can try (GPT, Gemini Advanced link, and the paper has the full text of all the prompts). In a goal play, the AI sets up a scenario in which the student *knows something the character in the simulation does not* and guides the character using what they know, generally a framework they have to apply. In this case, students must apply a goal-setting framework to help a fictional character set goals. For fun, I decided to help out poor Hamlet, Prince of Denmark."
+    },
+    {
+      "line": 46,
+      "text": "# Level 3: Create tools that make tools"
+    },
+    {
+      "line": 48,
+      "text": "The next level of innovating through prompting is to help other people create their own innovations based on your knowledge. To do this, you need to develop *tooling* - prompts that can make prompts. This allows people to share not just a specific prompt, but their skill in prompt crafting. We call these kinds of prompts blueprints, and here is one that creates tutors (GPT, Gemini Advanced). You can take the text it creates and use it as a prompt to create a solid AI tutor tailored to a specific topic. This works much better than many generic tutor prompts because it is so focused and can be more easily tested by an expert instructor."
+    },
+    {
+      "line": 52,
+      "text": "OpenAI’s GPT maker tool is an example of a blueprint, but we think much more tailored blueprints will be useful for many educators and organizations. They can help people build the prompts they need for specific situations."
+    }
+  ]
+}

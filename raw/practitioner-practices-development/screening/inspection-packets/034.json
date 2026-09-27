@@ -1,0 +1,24 @@
+{
+  "id": 34,
+  "title": "In Defense of Thinking",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/in-defense-of-thinking-2.md",
+  "sha256": "5befaad5bf1752281f45bcad5fa70044c89abbc27c45f0b688875a1bba2340ba",
+  "access": "public-page",
+  "kind": "article",
+  "words": 839,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 359,
+      "text": "Ten years ago, I published ​*Deep Work*​*.* It was my second mainstream hardcover idea book. The previous title, ​*So Go"
+    },
+    {
+      "line": 33,
+      "offset": 3562,
+      "text": "Distractions in the workplace intensified over the past decade with the addition of instant messaging tools like Slack and low-friction digital meeting programs like Zoom. Outside of work, social media, which was generally still admired when *Deep Work* came out, has morphed into an addictive TikTok-ified slurry of optimized brain rot. Meanwhile, new AI tool"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 788,
+  "title": "A better way to plan, build, and ship products | Ryan Singer (creator of “Shape Up\")",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ryan-hoover/transcript.md",
+  "sha256": "5fe8b8af81145be4fc31aa2ca88c83028921b884c57a3216ef28512a123843cd",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15148,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 818,
+      "text": "[00:00:00] Ryan: I don't know how to articu"
+    },
+    {
+      "line": 238,
+      "offset": 63879,
+      "text": "[00:52:23] Ryan: Yeah, yeah, the problem journal is one. And again, like I think it's helpful, not to try to come up with the solu"
+    }
+  ]
+}

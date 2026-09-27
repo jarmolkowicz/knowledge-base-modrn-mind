@@ -1,0 +1,97 @@
+{
+  "queue_position": 178,
+  "id": 525,
+  "path": "raw/inbox/Practical/Sam Illingworth/why-ai-answers-too-fast-for-us-to-think.md",
+  "sha256": "537409bdaafddd3d28ae85b71ed3392e8d06dce24b4f447afbe0490fffa26501",
+  "title": "When AI Answers Too Fast, We Stop Thinking",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L28 #### **Step-by-step**",
+    "L48 #### **A moment from me**",
+    "L72 #### **What to do with it**",
+    "L90 #### **Why this matters**",
+    "L106 #### **From last week: [Why AI Ethics Fails When Left to Experts](https://theslowai.substack.com/p/why-ai-ethics-fails)**"
+  ],
+  "passages": [
+    {
+      "line": 28,
+      "text": "#### **Step-by-step**"
+    },
+    {
+      "line": 30,
+      "text": "After your AI tool gives an instant answer, pause and ask it:"
+    },
+    {
+      "line": 32,
+      "text": "> `Before replying, ask me one question that would deepen this thought.`"
+    },
+    {
+      "line": 36,
+      "text": "• Notice what kind of question it asks.  "
+    },
+    {
+      "line": 37,
+      "text": "• Write down your answer to that question before continuing.  "
+    },
+    {
+      "line": 38,
+      "text": "• Observe how your thinking shifts when the tool slows down."
+    },
+    {
+      "line": 40,
+      "text": "Speed looks like progress, but thinking lives in the pause."
+    },
+    {
+      "line": 44,
+      "text": "If you are new to Slow AI, our first invitation was *Teach It Something It Cannot Know*."
+    },
+    {
+      "line": 48,
+      "text": "#### **A moment from me**"
+    },
+    {
+      "line": 56,
+      "text": "> `Before replying, ask me one question that would deepen this thought.`"
+    },
+    {
+      "line": 64,
+      "text": "Since then, I have built this pause into my process: one question before every answer. It slows the pace, but widens the view. Each exchange feels less like extraction and more like conversation."
+    },
+    {
+      "line": 72,
+      "text": "#### **What to do with it**"
+    },
+    {
+      "line": 76,
+      "text": "• Try the same prompt in your next chat with your AI tool.  "
+    },
+    {
+      "line": 77,
+      "text": "• Notice what changes when you invite a question before an answer.  "
+    },
+    {
+      "line": 78,
+      "text": "• Write down one small way you can build that pause into your routine."
+    },
+    {
+      "line": 90,
+      "text": "#### **Why this matters**"
+    },
+    {
+      "line": 94,
+      "text": "Yet the practice of slowing down to ask better questions is ancient wisdom. Long before search bars and chatbots, ancient Greek philosopher Socrates wandered the streets of Athens asking people what they truly meant by words like justice or truth. His method was simple conversation built on curiosity and friction. He believed that the hardest questions could not be answered quickly because understanding takes time."
+    },
+    {
+      "line": 106,
+      "text": "#### **From last week: Why AI Ethics Fails When Left to Experts**"
+    },
+    {
+      "line": 116,
+      "text": "Together, these reflections show that ethics thrives when it moves from paperwork to practice, from compliance to conversation."
+    },
+    {
+      "line": 122,
+      "text": "If you try this week’s prompt, I would love to know what question your AI asked, and what changed when you answered it before moving on."
+    }
+  ]
+}

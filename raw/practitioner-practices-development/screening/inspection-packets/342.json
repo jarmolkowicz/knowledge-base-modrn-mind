@@ -1,0 +1,39 @@
+{
+  "id": 342,
+  "title": "Video.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/video.md",
+  "sha256": "3021a14fdc7be0cbfe2c166c2a1cdcca48c7342424cf473debb3f9ea6f82c3cc",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1103,
+  "headings": [
+    "1. From text → to video.",
+    "Google Veo-3 ✪✪✪✪",
+    "Hailuo ✪✪✪",
+    "PixVerse ✪✪",
+    "OpenAI Sora ✪",
+    "2. From image → to video.",
+    "Kling 2.5 ✪✪✪",
+    "Midjourney ✪✪",
+    "Runway ✪",
+    "3. From image + video → to video.",
+    "Kinetix ✪✪✪✪✪",
+    "Luma ✪",
+    "Moonvalley ✪",
+    "4. I am Iron Man."
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 14,
+      "offset": 183,
+      "text": "You don’t have a shortage of good AI to make videos: Google Veo-3, OpenAI"
+    },
+    {
+      "line": 74,
+      "offset": 1938,
+      "text": "The famous Sora from OpenAI, the parent company of ChatGPT."
+    }
+  ]
+}

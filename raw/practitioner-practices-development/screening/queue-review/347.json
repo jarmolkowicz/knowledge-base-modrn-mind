@@ -1,0 +1,68 @@
+{
+  "queue_position": 86,
+  "id": 347,
+  "path": "raw/inbox/Practical/Ruben Hassid/your-prompt-sucks.md",
+  "sha256": "9ebe184a4728cdcbab84bfd9b677e80a5566f626b369b4ec48d8d14ebb6fd50b",
+  "title": "Your prompt sucks.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L51 ## 1. Your Prompt Fail Before You Even Type.",
+    "L57 ## ",
+    "L73 #### **A. Find a reference — and download it as markdown.**",
+    "L98 #### **B. Reverse-engineer your reference.**",
+    "L118 #### **C. Fill out your success brief.**",
+    "L170 ## 2. Show, Don’t Tell.",
+    "L213 ## 3. It’s Called “Chat” For A Reason.",
+    "L279 ## Cheat sheet."
+  ],
+  "passages": [
+    {
+      "line": 30,
+      "text": "I made you believe that ChatGPT, when prompted correctly, writes better prompts than you. Because 2 years ago, I made my first GPT, the **Prompt Maker**:"
+    },
+    {
+      "line": 34,
+      "text": "OK, maybe this GPT is better than 99% of people using ChatGPT. These prompts are definitely better than “*Write me an email*”. But the truth is, you have two types of requests to an LLM (*like ChatGPT*):"
+    },
+    {
+      "line": 39,
+      "text": "   Heavy brainstorming, parsing a legal contract, creating a multi-step marketing plan, writing a brief to an agency… The sky is the limit, but the method is specific."
+    },
+    {
+      "line": 170,
+      "text": "## 2. Show, Don’t Tell."
+    },
+    {
+      "line": 190,
+      "text": "> Now that you know all of this information, let's create the plan to complete it step by step in a chat (5 steps maximum). Define the outline, and ask me one question so you can move on to the first step."
+    },
+    {
+      "line": 213,
+      "text": "## 3. It’s Called “Chat” For A Reason."
+    },
+    {
+      "line": 233,
+      "text": "> ***“Training language models to follow instructions with human feedback”*** (arXiv:2203.02155, 2022)."
+    },
+    {
+      "line": 265,
+      "text": "At each turn, push closer to the final desired output (e.g., “*Now produce the final version incorporating all fixes*” or “*Summarize everything so far into a clean, complete answer*”). Do not explore tangents unless strictly necessary."
+    },
+    {
+      "line": 271,
+      "text": "You now know 1/ what to do before a prompt, 2/ how to prompt, and 3/ the importance of chatting with your AI."
+    },
+    {
+      "line": 279,
+      "text": "## Cheat sheet."
+    },
+    {
+      "line": 291,
+      "text": "✦ It’s my free gift to people who subscribe to **How to AI**. If you didn’t subscribe to this newsletter for free (*like 230,000 other weekly readers*), well, do it."
+    },
+    {
+      "line": 293,
+      "text": "✦ If you are a subscriber but can’t find the prompt library link, leave a comment under this article. My team will personally DM you the link!"
+    }
+  ]
+}

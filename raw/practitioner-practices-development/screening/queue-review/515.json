@@ -1,0 +1,74 @@
+{
+  "queue_position": 169,
+  "id": 515,
+  "path": "raw/inbox/Practical/Sam Illingworth/velocity-trap-ai-decision-paralysis.md",
+  "sha256": "947a4cc31130e55394c64d72b46de90b3411289c033957fc35288af911604cdf",
+  "title": "The Velocity Trap: Why AI Makes You Start Everything and Finish Nothing",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L22 #### **Why more options make us slower**",
+    "L40 #### **How can AI help you stop generating and start committing?**",
+    "L62 #### **A moment from** [Alena Gorb](https://open.substack.com/users/32717720-alena-gorb?utm_source=mentions)",
+    "L96 #### **What to share**",
+    "L104 #### **Why decision paralysis is the last human bottleneck**",
+    "L116 #### **From [How to Test for Real Understanding When AI Makes Every Answer Sound Right](https://theslowai.substack.com/p/ai-fluency-trap-test-real-understanding)**"
+  ],
+  "passages": [
+    {
+      "line": 22,
+      "text": "#### **Why more options make us slower**"
+    },
+    {
+      "line": 34,
+      "text": "But not all research is negative. A study by Sun et al. (2025) found AI can boost workplace creativity, but only when employees show strong metacognition. The ability to plan, evaluate, monitor, and refine thinking when using AI."
+    },
+    {
+      "line": 40,
+      "text": "#### **How can AI help you stop generating and start committing?**"
+    },
+    {
+      "line": 42,
+      "text": "Try this prompt with your AI tool of choice:"
+    },
+    {
+      "line": 62,
+      "text": "#### **A moment from** Alena Gorb"
+    },
+    {
+      "line": 84,
+      "text": "The discomfort came from recognition."
+    },
+    {
+      "line": 116,
+      "text": "#### **From How to Test for Real Understanding When AI Makes Every Answer Sound Right**"
+    },
+    {
+      "line": 124,
+      "text": "**John Brewton** put it simply: ‘Strong thinking always requires friction somewhere in the process.’"
+    },
+    {
+      "line": 126,
+      "text": "Each of these responses describes the same pattern: fluency without commitment. The tool generates, the human defers, and nothing moves forward. That is exactly the velocity trap **Alena Gorb** and I are naming in this post, and the prompt above is designed to break it."
+    },
+    {
+      "line": 130,
+      "text": "Alena and I would love to hear which question from your AI felt most confrontational."
+    },
+    {
+      "line": 132,
+      "text": "We read and respond to all your comments."
+    },
+    {
+      "line": 138,
+      "text": "**This month in the curriculum:** 142 paid members (from education, research, policy, and industry) explored how AI image generators default to colonial tropes when depicting race, profession, and power. We ran the same prompt across tools and continents. The biases were near-identical. The conversation that followed was not."
+    },
+    {
+      "line": 140,
+      "text": "*The Slow AI Curriculum for Critical Literacy* is a 12-month programme for people who want to learn when AI helps, when it harms, and how to tell the difference. Each month covers one critical theme, with a live 45-minute seminar, research syntheses, moderated dialogue, and full recordings. You receive a Certificate of Critical AI Literacy upon completion."
+    },
+    {
+      "line": 142,
+      "text": "Read the 2026 Handbook for Critical AI Literacy to see exactly what the programme covers. **£75/year.**"
+    }
+  ]
+}

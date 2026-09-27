@@ -1,0 +1,33 @@
+{
+  "id": 527,
+  "title": "Wikipedia Just Banned AI. Stack Overflow Shows What Happens If You Don’t.",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/wikipedia-banned-ai-stack-overflow-warning.md",
+  "sha256": "03153b1bff8e709f3676b18f16db652c7cdb219e57811a2c028c08a04dc8e636",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1574,
+  "headings": [
+    "**In this post I will:**",
+    "**The vote**",
+    "**What the policy actually says**",
+    "**Why Wikipedia did it**",
+    "**What happened to Stack Overflow**",
+    "**Wikipedia was a joke when I was at school**",
+    "**Is this AI’s chance to follow the Wikipedia pattern?**",
+    "**The shape of an honest rule**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 495,
+      "text": "Stack Overflow’s monthly questions have collapsed since ChatGPT la"
+    },
+    {
+      "line": 95,
+      "offset": 8096,
+      "text": "AI developers have the option to take the same line. Train on the human commons but pay back into it. Build the human-in-the-loop step into every product decision. Treat the writers, the editors, the "
+    }
+  ]
+}

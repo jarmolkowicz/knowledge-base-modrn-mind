@@ -1,0 +1,69 @@
+{
+  "queue_position": 166,
+  "id": 508,
+  "path": "raw/inbox/Practical/Sam Illingworth/smarter-ai-less-reliable-hot-mess.md",
+  "sha256": "f315df6b17c0ea7fb77c29b5c8a1525bb904e55bf59ef303aeb81cf1f23089d8",
+  "title": "The Smarter AI Gets, the Less You Can Trust It on the Hard Stuff ",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L17 ### **In this post I will:**",
+    "L25 ### **The question they asked**",
+    "L39 ### **Three findings that matter**",
+    "L47 ### **What this means in plain language**",
+    "L61 ### **Why current safeguards fail**",
+    "L83 ### **Five practices for unreliable systems**",
+    "L93 #### **1. Run it twice**",
+    "L99 #### **2. Shorten the chain**",
+    "L105 #### **3. Match the model to the task difficulty**",
+    "L111 #### **4. Separate generation from evaluation**",
+    "L117 #### **5. Name the confidence you cannot verify**",
+    "L125 ### **A team-level audit you can run this week**",
+    "L135 ### **Why this matters for you**"
+  ],
+  "passages": [
+    {
+      "line": 25,
+      "text": "### **The question they asked**"
+    },
+    {
+      "line": 33,
+      "text": "Bias is the part of the error that is systematic. If a model consistently gets a particular type of question wrong in the same way, you can learn to spot it, write a policy around it, build a guardrail. Variance is the part that is random. The same model answers the same question correctly three times and incorrectly twice, for no reason a reviewer can trace."
+    },
+    {
+      "line": 83,
+      "text": "### **Five practices for unreliable systems**"
+    },
+    {
+      "line": 91,
+      "text": "Each one has a counter-practice. Here are five I am now using in my own work and which I encourage you to try out in your own workflows."
+    },
+    {
+      "line": 93,
+      "text": "#### **1. Run it twice**"
+    },
+    {
+      "line": 95,
+      "text": "Before acting on any consequential AI output, ask the same question again in a fresh conversation. If the answers differ materially, you have detected variance. Aggregating multiple samples provides a path to more coherent behaviour, because averaging reduces the variance component of error. Asking twice and comparing is a rough approximation of statistical ensembling. Enough to catch the most obvious cases of a model in its variance zone."
+    },
+    {
+      "line": 97,
+      "text": "**C**opy the prompt, open a new conversation (not the same thread), paste, compare. If the core recommendation changes, trust neither answer without independent verification."
+    },
+    {
+      "line": 99,
+      "text": "#### **2. Shorten the chain**"
+    },
+    {
+      "line": 101,
+      "text": "The paper’s clearest finding is that longer reasoning produces more incoherent errors. If you are using a reasoning model (Claude with extended thinking, GPT with reasoning, Gemini with chain-of-thought), and the task is consequential, run it once with reasoning turned on and once with reasoning turned off. Then compare."
+    },
+    {
+      "line": 135,
+      "text": "### **Why this matters for you**"
+    },
+    {
+      "line": 137,
+      "text": "Every person reading this post will use AI this week. Does your current practice catch the kind of failure this research has documented?"
+    }
+  ]
+}

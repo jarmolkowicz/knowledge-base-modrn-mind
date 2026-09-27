@@ -1,0 +1,43 @@
+{
+  "queue_position": 47,
+  "id": 194,
+  "path": "raw/inbox/Practical/Nate B Jones/my-kids-do-long-division-by-hand.md",
+  "sha256": "500005b612287c1ab1da8ad145a516b97b8bf429960ea616688d8095af132335",
+  "title": "My Kids Do Long Division by Hand",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 16,
+      "text": "I have three kids. I work in AI every day. I’ve spent weeks writing about autonomous agents that negotiate car purchases, dark factories where code writes itself, and enterprise adoption curves that look like hockey sticks drawn by a shaking hand. And every evening, I go home to the same question every parent is facing, whether they realize it yet or not: what does education mean when machines can do most of what we spent the last century teaching humans to do?"
+    },
+    {
+      "line": 20,
+      "text": "- **The calculator parallel that explains everything.** Why the 1970s panic over calculators is the exact playbook for what’s happening now — and the part of that story everyone leaves out."
+    },
+    {
+      "line": 21,
+      "text": "- **Why the basics matter more now, not less.** The connection between what I write about autonomous agents and why my kids still do math by hand."
+    },
+    {
+      "line": 22,
+      "text": "- **The trap I’m most worried about.** Cognitive offloading, learned helplessness, and the quiet erosion nobody’s tracking closely enough."
+    },
+    {
+      "line": 23,
+      "text": "- **Seven principles that scale.** What I’m actually doing at my kitchen table — and why it holds whether your kid is five or fifteen."
+    },
+    {
+      "line": 24,
+      "text": "- **Five prompts to build your own plan.** A 10-minute action plan, a readiness assessment, a project designer, an assignment redesigner for educators, and a weekly check-in that catches the slide before it becomes dependency."
+    },
+    {
+      "line": 26,
+      "text": "This piece is the most personal thing I’ve written for this newsletter. It’s also, I think, the most urgent."
+    },
+    {
+      "line": 28,
+      "text": "My ten-year-old sat at the kitchen table last month working through long division. By hand. With a pencil. Because I asked her to. I’m also teaching her to vibe code with Claude. Those are not contradictory positions. They’re the only positions that make sense together — and the reasoning behind that is what this piece is about."
+    }
+  ]
+}

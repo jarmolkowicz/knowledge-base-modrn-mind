@@ -1,0 +1,24 @@
+{
+  "id": 71,
+  "title": "Claude Code and What Comes Next",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/claude-code-and-what-comes-next.md",
+  "sha256": "b11e73d11256635090ebffabb687c4c594b76f5d410611f4941db2ddc340b1da",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2446,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 213,
+      "text": "I opened Claude Code and gave it the command: “*Develop a web-based or software-based startup idea t"
+    },
+    {
+      "line": 22,
+      "offset": 3560,
+      "text": "Unfortunately for most of us who want to experiment with AI, these new tools are built for programmers. And I mean they are *really* built for programmers: they assume that you understand Python commands and programming best practices and they are wrapped in interfaces that look like something from "
+    }
+  ]
+}

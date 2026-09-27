@@ -1,0 +1,41 @@
+{
+  "id": 255,
+  "author": "Melchior Tamisier-Fayard, Theodoros Evgeniou and Anne-Laure Fayard",
+  "group_index": 13,
+  "decision": "retain",
+  "locators": [
+    "[p.3] question-based programs",
+    "[p.4] AI-free work and expertise",
+    "[p.5] Process in parallel",
+    "[p.5–6] interfaces"
+  ],
+  "basis": "Management synthesis drawing on studies, interviews and reported organizational experiments",
+  "reported_outcomes": [
+    "Reports a With Company branding comparison: human-led and heavily AI-supported teams worked in parallel, with the human-led proposal selected. No randomized comparison or retained-skill test."
+  ],
+  "proposed_outcomes": [
+    "Preserve alternative framings and make human/AI contributions visible."
+  ],
+  "limits": [
+    "The experiment compared two team workflows, not a pure AI system against humans.",
+    "Reported counts of images and programs are not evidence of lasting reasoning gains.",
+    "Underlying studies and programs need their own review before using their claims as primary evidence."
+  ],
+  "review_note": "Retain the described parallel creative routes; the rest informs context, not a validated intervention package.",
+  "coverage": "Close-read all six available extracted PDF pages, lines 1–207. Page images not rendered; linked underlying studies not reread.",
+  "related_entries": [
+    "agency",
+    "anderson-homogenization-2024"
+  ],
+  "practice_files": [
+    "raw/tamisier-fayard-255-design-ai-systems-that-actually-strengthen-2026/drafts/practices/develop-parallel-creative-routes.md"
+  ],
+  "role": "origin",
+  "draft_only": true,
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/develop-parallel-creative-routes.md"
+  ],
+  "historical_drafts_retained": true
+}

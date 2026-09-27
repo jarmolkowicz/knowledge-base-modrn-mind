@@ -1,0 +1,35 @@
+{
+  "id": 421,
+  "group_index": 15,
+  "decision": "draft_with_limits",
+  "coverage": "Read the complete available local article body; linked images, videos and external claims not independently inspected.",
+  "locators": [
+    "L81–120, L140–146"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Provides his own AI-use statement and a proposed reciprocal classroom policy."
+  ],
+  "proposed_outcomes": [
+    "Make responsibility and assistance visible."
+  ],
+  "limits": [
+    "No evaluation of the policy or its effects. Disclosure can carry social costs; do not promise trust gains. News, survey figures and tool-version claims are not verified here."
+  ],
+  "related_entries": [
+    "cheong-penalizing-transparency-2025"
+  ],
+  "practice_files": [
+    "raw/illingworth-421-your-ai-policy-does-not-apply-2026/drafts/practices/make-ai-disclosure-reciprocal.md"
+  ],
+  "role": "origin",
+  "review_note": "State tools, tasks, human checks and responsibility; apply disclosure expectations to the people writing the policy too.",
+  "author": "Sam Illingworth",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/make-ai-disclosure-reciprocal.md"
+  ],
+  "historical_drafts_retained": true
+}

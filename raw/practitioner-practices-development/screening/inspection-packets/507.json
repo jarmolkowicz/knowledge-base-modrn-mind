@@ -1,0 +1,32 @@
+{
+  "id": 507,
+  "title": "Slow Takes Ep. 4: The Gap Between Looking Right and Being Right",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-takes-ep4-the-gap-between-looking-right-and-being-right.md",
+  "sha256": "fd20896a6601f966c5a779ae68bb7d960dea96916a7781266c10b42d2af73e4d",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2120,
+  "headings": [
+    "What we covered",
+    "1. Yann LeCun raises $1.03B for AMI Labs",
+    "2. Anthropic CEO says Claude might be conscious",
+    "3. AI chatbots routinely violate mental health ethics",
+    "4. Three years in, universities still have no AI policy",
+    "5. OpenAI acquires Promptfoo",
+    "The thread"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 490,
+      "text": "This is the fourth episode of *Slow Takes*, a weekly Substack Live"
+    },
+    {
+      "line": 85,
+      "offset": 10727,
+      "text": "The hypocrisy question came up, and it is a real one: instructors are banning AI for students while using it themselves to write feedback, mark essays, and prepare lectures. Students notice. Shadow AI"
+    }
+  ]
+}

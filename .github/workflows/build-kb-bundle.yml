@@ -6,6 +6,7 @@ on:
     paths:
       - 'concepts/**'
       - 'methods/**'
+      - 'practices/**'
       - 'sources/**'
       - 'tooling/scripts/build-bundle.sh'
       - '.github/workflows/build-kb-bundle.yml'
@@ -32,11 +33,13 @@ jobs:
           CONCEPTS=$(ls concepts/*.md 2>/dev/null | wc -l | tr -d ' ')
           METHODS=$(ls methods/*.md 2>/dev/null | wc -l | tr -d ' ')
           SOURCES=$(ls sources/*.md 2>/dev/null | wc -l | tr -d ' ')
-          TOTAL=$((CONCEPTS + METHODS + SOURCES))
+          PRACTICES=$(find practices -maxdepth 1 -name '*.md' -type f | wc -l | tr -d ' ')
+          TOTAL=$((CONCEPTS + METHODS + PRACTICES + SOURCES))
           DATE=$(date +%Y.%m.%d)
 
           echo "concepts=$CONCEPTS" >> "$GITHUB_OUTPUT"
           echo "methods=$METHODS" >> "$GITHUB_OUTPUT"
+          echo "practices=$PRACTICES" >> "$GITHUB_OUTPUT"
           echo "sources=$SOURCES" >> "$GITHUB_OUTPUT"
           echo "total=$TOTAL" >> "$GITHUB_OUTPUT"
           echo "date=$DATE" >> "$GITHUB_OUTPUT"
@@ -64,6 +67,7 @@ jobs:
           ### Contents
           - **${{ steps.stats.outputs.concepts }}** concepts
           - **${{ steps.stats.outputs.methods }}** methods
+          - **${{ steps.stats.outputs.practices }}** practices
           - **${{ steps.stats.outputs.sources }}** sources
           - **${{ steps.stats.outputs.total }}** entries total
 
@@ -74,7 +78,7 @@ jobs:
           - **Any LLM** — Paste relevant sections into your conversation for grounded answers
 
           ### Bundle composition
-          The bundle is the **compact** view of the KB: concept and method entries are full-fidelity; source distillations omit the heaviest sections (`Key Passages`, `Open Questions`, `Contradicts / Extends`) to keep the bundle within reasonable token budgets. Citation, Key Insight, Key Findings, Relevance, and Supports remain. The canonical full-fat source files live in [`sources/`](https://github.com/jarmolkowicz/modrn-mind-knowledge-base/tree/main/sources) in the repo.
+          The bundle is the **compact** view of the KB: concept, method and practice entries are full-fidelity; source distillations omit the heaviest sections (`Key Passages`, `Open Questions`, `Contradicts / Extends`) to keep the bundle within reasonable token budgets. Citation, Key Insight, Key Findings, Relevance, and Supports remain. The canonical full-fat source files live in [`sources/`](https://github.com/jarmolkowicz/modrn-mind-knowledge-base/tree/main/sources) in the repo.
 
           Built automatically from the latest commit on `main`.
           EOF

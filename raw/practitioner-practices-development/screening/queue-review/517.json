@@ -1,0 +1,72 @@
+{
+  "queue_position": 171,
+  "id": 517,
+  "path": "raw/inbox/Practical/Sam Illingworth/what-is-critical-ai-literacy.md",
+  "sha256": "67cc938af23c912eb5bad7ed8671dbb1fb4dbde5a1246a0a3f451dda19b3ded8",
+  "title": "What Is Critical AI Literacy?",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L18 #### **What AI literacy gets wrong**",
+    "L30 #### **A working definition of critical AI literacy**",
+    "L44 #### **Why critical AI literacy matters now**",
+    "L96 #### **Five questions for critical AI literacy**",
+    "L110 #### **How to develop critical AI literacy**",
+    "L126 #### **Frequently asked questions about critical AI literacy**",
+    "L150 #### **The Slow AI curriculum**",
+    "L166 #### **Start Here**"
+  ],
+  "passages": [
+    {
+      "line": 96,
+      "text": "#### **Five questions for critical AI literacy**"
+    },
+    {
+      "line": 98,
+      "text": "Before using AI for any consequential task, ask yourself:"
+    },
+    {
+      "line": 110,
+      "text": "#### **How to develop critical AI literacy**"
+    },
+    {
+      "line": 112,
+      "text": "There is no shortcut. Critical AI literacy is a practice, not a credential you collect and forget. It requires structured reflection over time."
+    },
+    {
+      "line": 116,
+      "text": "**Read critically.** When you see a claim about AI, ask who funded the research, who benefits from the conclusion, and what is missing. Most AI coverage is written by people with a financial interest in its adoption."
+    },
+    {
+      "line": 118,
+      "text": "**Test the tools yourself.** Do not rely on demos or marketing. Ask AI the same question in English and another language and compare the outputs. Run your own writing through a detector. Ask AI to cite its sources and check whether they exist. Direct experience reveals what theory cannot."
+    },
+    {
+      "line": 120,
+      "text": "**Sit with discomfort.** The urge to reach for AI is strongest when you are stuck, bored, or uncertain. Those are precisely the moments when your own thinking matters most. Boredom is where ideas begin. Uncertainty is where judgement develops."
+    },
+    {
+      "line": 122,
+      "text": "**Talk to other people.** Critical thinking is not a solo activity. It sharpens through disagreement, through hearing perspectives you had not considered, through discovering that your assumptions are not universal."
+    },
+    {
+      "line": 126,
+      "text": "#### **Frequently asked questions about critical AI literacy**"
+    },
+    {
+      "line": 132,
+      "text": "**Is critical AI literacy anti-AI?**"
+    },
+    {
+      "line": 142,
+      "text": "Yes, and you should. The five questions in this post work at any level. The key principle is that critical AI literacy is taught through direct experience with AI tools, not through lectures about AI tools. Students need to test, question, and discover the limitations themselves."
+    },
+    {
+      "line": 166,
+      "text": "#### **Start Here**"
+    },
+    {
+      "line": 172,
+      "text": "- **I Built a Game to Test Whether You Can Tell Human Writing from AI**. Most people score no better than a coin flip."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "queue_position": 27,
+  "id": 76,
+  "path": "raw/inbox/Practical/Ethan Mollick/i-cyborg-using-co-intelligence.md",
+  "sha256": "aaf9d8e6602d0ed1ff77db1fe4ac0b15cb3b0ff3552cf9498792db67cee7fed3",
+  "title": "I, Cyborg: Using Co-Intelligence",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 18,
+      "text": "# The Author Alone"
+    },
+    {
+      "line": 20,
+      "text": "People often ask me if I have other people help writing these posts, or a ghost writer, or someone managing my social media feeds. The answer to all those questions is no, it is just me, writing and tweeting more than I probably should (which is why I hope people are forgiving of my spelling errors and erratic newsletter schedules). Then, naturally, people also ask me if I use AI to write for me, and the answer, again, is no, for a reason that I think is useful to understand."
+    },
+    {
+      "line": 28,
+      "text": "# Author as Cyborg and Centaur"
+    },
+    {
+      "line": 30,
+      "text": "As I have discussed before, the most valuable way to start use AI for work is to become a Centaur or Cyborg. Fortunately, this does not involve getting cursed to turn into the half human/half horse of Greek myth or grafting electronic gizmos to your body. They are rather two approaches to co-intelligence that integrate the work of person and machine. Centaur work has a clear line between person and machine, like the clear line between the human torso and horse body of the mythical centaur. It depends on a strategic division of labor, switching between AI and human tasks, allocating responsibilities based on the strengths and capabilities of each entity. When I am doing an analysis with the help of AI, I will decide on what statistical approaches to do but then let the AI handle producing graphs. In our study at BCG, Centaurs would do the work they were strongest at themselves, and then hand off tasks inside the Jagged Frontier to the AI."
+    },
+    {
+      "line": 48,
+      "text": "# The Future of the Author"
+    },
+    {
+      "line": 58,
+      "text": "A new paper gives us some of the first evidence of how quickly LLM development is happening right now. And the answer is that LLMs are improving several times as fast as Moore's Law, the engine of the digital age, which holds that the number of transistors on a computer chip doubles every two years or so. For LLMs, the main measure in the paper is how well models perform, and the authors find that the compute needed to achieve a given level of AI ability is halving every 5 to 14 months, as opposed to 24 months for Moore’s Law."
+    }
+  ]
+}

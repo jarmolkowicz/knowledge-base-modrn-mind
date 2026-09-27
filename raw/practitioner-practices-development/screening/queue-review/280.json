@@ -1,0 +1,81 @@
+{
+  "queue_position": 59,
+  "id": 280,
+  "path": "raw/inbox/Practical/Ruben Hassid/consulting.md",
+  "sha256": "ac5f584b2a020c7d296fa719febb77758051678d78017cb890debdc4168780a5",
+  "title": "Consultants.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L14 ### **Table of contents**",
+    "L27 ## 1. Being a consultant in 2025.",
+    "L47 ## 2. How AI is eating up search.",
+    "L57 ### Perplexity to search.",
+    "L65 #### How much should you spend on AI?",
+    "L102 ### ChatGPT to search.",
+    "L126 ### Other things to search.",
+    "L146 ## 3. How AI is eating up designing slides.",
+    "L176 ## 4. A video of me being a consultant"
+  ],
+  "passages": [
+    {
+      "line": 47,
+      "text": "## 2. How AI is eating up search."
+    },
+    {
+      "line": 49,
+      "text": "**Before AI:** Knowledge workers spent **~20% of the week** just looking for information (≈ **8 hours in a 40-hour week**). That’s McKinsey’s MGI study of interaction work."
+    },
+    {
+      "line": 65,
+      "text": "#### How much should you spend on AI?"
+    },
+    {
+      "line": 100,
+      "text": "Perplexity is my number 1 choice to search, but if you can’t pay for it (and only pay for ChatGPT), here is the solid alternative:"
+    },
+    {
+      "line": 102,
+      "text": "### ChatGPT to search."
+    },
+    {
+      "line": 116,
+      "text": "> Search on the web for these [*sources, for example a link*] to answer the following [*your topic*]."
+    },
+    {
+      "line": 122,
+      "text": "It’s the most powerful (it also takes the longest) search available. You can use the same prompt as I used on Perplexity. Then you simply have to answer ChatGPT’s questions."
+    },
+    {
+      "line": 126,
+      "text": "### Other things to search."
+    },
+    {
+      "line": 128,
+      "text": "I use Consensus to search for academic papers. I even made a YouTube video a year ago about me writing an entire thesis for my ex. She actually got 90+/100 at a prestigious university. I guess AI is eating up studying, too."
+    },
+    {
+      "line": 130,
+      "text": "Consensus is awesome because it’s specifically made for academic papers. You quickly get the academic “consensus” on any question."
+    },
+    {
+      "line": 132,
+      "text": "To search through tweets, I use Grok. Reminder: everything happens first on X/Twitter. So Grok is super helpful for this (as it is the AI from X)."
+    },
+    {
+      "line": 136,
+      "text": "But to search on Reddit, I use a GPT on ChatGPT. This email gets too long, so I’ll make an entire newsletter on how to search on Reddit using ChatGPT."
+    },
+    {
+      "line": 146,
+      "text": "## 3. How AI is eating up designing slides."
+    },
+    {
+      "line": 148,
+      "text": "I invited Grant Lee, the CEO of Gamma (50 million users) to write this section with me. It has been recently listed as one of the potential future $1 billion company in the next coming years."
+    },
+    {
+      "line": 164,
+      "text": "4 - It generates a near-perfect presentation, shareable with a link. I can edit every single part of it, ask AI to edit it, change any image, generate it with any AI model… Gamma is basically what Powerpoint was supposed to be in 2025."
+    }
+  ]
+}

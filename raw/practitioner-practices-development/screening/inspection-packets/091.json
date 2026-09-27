@@ -1,0 +1,24 @@
+{
+  "id": 91,
+  "title": "Strategies for an Accelerating Future",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/strategies-for-an-accelerating-future.md",
+  "sha256": "79aef3029a31b0f838d8345d4685b319adc1619d080d6c71a37fb81228be1342",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1877,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 231,
+      "text": "I didn’t expect to have to update my views on the state-of-the-art in AI so soon after writing about"
+    },
+    {
+      "line": 38,
+      "offset": 7974,
+      "text": "So how can leaders start to think about the rapidly advancing nature of AI? The first thing they should do is use it. No amount of reading and research can substitute for spending 10 hours or so with a frontier model, learning what it can do. After getting familiar, companies should think about the "
+    }
+  ]
+}

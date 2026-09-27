@@ -1,0 +1,26 @@
+{
+  "id": 746,
+  "title": "An inside look at Deel’s unprecedented growth | Meltem Kuran Berkowitz (Head of Growth)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/meltem-kuran/transcript.md",
+  "sha256": "829a99ec9b99f786784f5256b52342482d1f9fd69ac3a6fa93ef0e418a70f409",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15273,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 860,
+      "text": "... early days, it's very important to just"
+    },
+    {
+      "line": 139,
+      "offset": 13820,
+      "text": "Well, I think over time Reddit became the place that you go to when you want peer answers, whether that peer is someone right next"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 33,
+  "title": "How Not to Be Alone",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/how-not-to-be-alone-jonathan-safran-foer-on-the-dangers-of-diminished-communication.md",
+  "sha256": "3a4ee4b268504416bf111042158d477a7f6b33428e3b619c3a06a74f5cb15c92",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 297,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 13,
+      "offset": 418,
+      "text": "In 2013, the novelist Jonathan Safran Foer gave the commencement address at Middlebury College. He subsequently adapted "
+    },
+    {
+      "line": 15,
+      "offset": 750,
+      "text": "In this piece, Foer explores the evolution of communication technology, writing:"
+    }
+  ]
+}

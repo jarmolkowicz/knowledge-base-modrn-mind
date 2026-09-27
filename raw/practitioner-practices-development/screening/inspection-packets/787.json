@@ -1,0 +1,26 @@
+{
+  "id": 787,
+  "title": "The ultimate guide to A/B testing | Ronny Kohavi (Airbnb, Microsoft, Amazon)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ronny-kohavi/transcript.md",
+  "sha256": "8acfd156d7c610d9386169d44f0e446d083aeb6f38c36b5a165fac26bd89f3a6",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 14495,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 831,
+      "text": "I'm very clear that I'm a big fan of test e"
+    },
+    {
+      "line": 129,
+      "offset": 12042,
+      "text": "But as you said, they're very rare. I think most of the time, the winnings are made this inch by inch. And there's a graph that I "
+    }
+  ]
+}

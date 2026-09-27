@@ -1,0 +1,70 @@
+{
+  "queue_position": 109,
+  "id": 403,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/viral-powerpoints-slides-free-notebooklm.md",
+  "sha256": "a234c1ad7c6db0541528074dea8a3572fab6bdc242d287908b4640a85181ae24",
+  "title": "How I created these VIRAL POWERPOINTS",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L44 ## Getting Started",
+    "L68 ## Beginner Prompt",
+    "L95 ## Intermediate Prompt",
+    "L131 ## Next Level Prompt",
+    "L201 ## Additional Tips and Tricks",
+    "L227 ## **P.S. Need More Help? 👋**"
+  ],
+  "passages": [
+    {
+      "line": 34,
+      "text": "AI does the heavy lifting of research, outlining, and ideation so you can focus on the creative storytelling that hooks people."
+    },
+    {
+      "line": 44,
+      "text": "## Getting Started"
+    },
+    {
+      "line": 50,
+      "text": "Add “Sources” on the left side, for example, add this Youtube video or search the web for new sources:"
+    },
+    {
+      "line": 131,
+      "text": "## Next Level Prompt"
+    },
+    {
+      "line": 135,
+      "text": "It has more proven viral visual layouts, safety rules to help reduce hallucinations, and explicit theme/typography guidelines which you can easily customize to fit your needs."
+    },
+    {
+      "line": 139,
+      "text": "> You are a top 0.1% Powerpoint presentation designer. Using ONLY the provided sources, create a visually stunning VIRAL SLIDE DECK by following these exact design principles:"
+    },
+    {
+      "line": 144,
+      "text": "> - Convert all statistics into CLEAN, ELEGANT DATA VISUALIZATIONS (e.g. circle percentages, icon-based charts, progress bars)"
+    },
+    {
+      "line": 165,
+      "text": "> Adjust number of slides based on source material complexity. Use the following guidelines to structure the main narrative:"
+    },
+    {
+      "line": 201,
+      "text": "## Additional Tips and Tricks"
+    },
+    {
+      "line": 203,
+      "text": "If you already know the exact outline or content you want to use in your presentation, instead of letting NotebookLM AI decide on the specifics, simply add it to the prompt. Just specify that you want to use your outline exactly, then paste it into the prompt."
+    },
+    {
+      "line": 205,
+      "text": "To better match your brand or style, update the Theme and Typography sections. The current preset is optimized for social media sharing with a clean minimal theme, so that the core focus is on your ideas and content."
+    },
+    {
+      "line": 207,
+      "text": "To share your notebook and slides publicly, click SHARE button in the top-right corner. Update NOTEBOOK ACCESS to “Anyone with a link”, then click “Copy link” and share it."
+    },
+    {
+      "line": 223,
+      "text": "If you LOVED this newsletter, please consider **SHARING it with your community** to help teach more people for FREE! <3<3<3"
+    }
+  ]
+}

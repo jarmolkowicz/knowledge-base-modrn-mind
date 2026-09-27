@@ -1,0 +1,33 @@
+{
+  "id": 353,
+  "title": "3 ChatGPT Prompts to Optimize Your LinkedIn",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/3-chatgpt-prompts-to-optimize-your.md",
+  "sha256": "70ac1ec7eaec9fca8d5ce07e3376f81d08c5e30186b9db6ca65c1f9aad3a8bf4",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1643,
+  "headings": [
+    "1. Work Experience",
+    "Prompt:",
+    "Output Example:",
+    "Prompt:",
+    "Output Example:",
+    "Prompt:",
+    "Output Example:",
+    "Need More Help? 👋"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 227,
+      "text": "Your LinkedIn profile is your global digital resume."
+    },
+    {
+      "line": 179,
+      "offset": 8885,
+      "text": "I recommend running this prompt immediately after Prompt #1 and Prompt #2 so that ChatGPT can leverage all your cumulative information."
+    }
+  ]
+}

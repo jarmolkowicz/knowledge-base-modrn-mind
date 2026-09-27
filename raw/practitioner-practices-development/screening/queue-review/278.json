@@ -1,0 +1,59 @@
+{
+  "queue_position": 58,
+  "id": 278,
+  "path": "raw/inbox/Practical/Ruben Hassid/claude-linkedin.md",
+  "sha256": "e92a91021b41cd03515c0463b1fee461dc6283be0ec23ac1190f785490ce6208",
+  "title": "Claude + Linkedin.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L61 ## **I know Linkedin better than you.**",
+    "L83 ## **1. Spend $2 to extract 1,000 posts.**",
+    "L125 ## **2. Train Claude on your Excel.**",
+    "L188 ## **3. Create a reusable skill.**",
+    "L240 ## **4. “I went ultra-viral once.”**",
+    "L303 ## **5. When this falls short** *(being honest).*",
+    "L321 ## **I don’t care about Claude.**"
+  ],
+  "passages": [
+    {
+      "line": 13,
+      "text": "# Claude + Linkedin."
+    },
+    {
+      "line": 51,
+      "text": "How to set it up. How I use it every single week to write (*good*) posts. How to create a positive feedback loop of better posts = trains Claude better = to write better posts."
+    },
+    {
+      "line": 125,
+      "text": "## **2. Train Claude on your Excel.**"
+    },
+    {
+      "line": 136,
+      "text": "I'm going to give you an Apify \"LinkedIn profile posts\" export — a CSV or XLSX scrape of one person's LinkedIn posts, anywhere from 50 to 5,000+ rows. I coach this person on their content and need a decision-ready report on what's actually working, so I can tell them what to double down on and what to drop. Treat this as a serious analytics deliverable, not a quick summary. If no file is attached, ask me for it before doing anything else."
+    },
+    {
+      "line": 141,
+      "text": "- There's no date column, but the timestamp is encoded in the activity ID (`engagement/id`, also the number after \"activity-\" in the URL): take it as a 64-bit integer and shift right 22 bits for Unix milliseconds (date = id >> 22, then ÷1000). Use this to build the timeline for cadence and best-day/time."
+    },
+    {
+      "line": 157,
+      "text": "2. An SOP for the next post, reverse-engineered from the highest outliers: the repeatable recipe spelled out step by step — the hook formula, the winning format and angle, and the visual template (what slide 1 / the image should contain and look like), with real outlier posts as worked examples."
+    },
+    {
+      "line": 188,
+      "text": "## **3. Create a reusable skill.**"
+    },
+    {
+      "line": 203,
+      "text": "Since you can't create a viral post without having input for me, when I invoke the skill, you must use the AskUserQuestion tool, tailored to what Grant does best, to get the right input before generating angles/hooks/captions. I will then pick my favorite ones to assemble a viral post together with you."
+    },
+    {
+      "line": 303,
+      "text": "## **5. When this falls short** *(being honest).*"
+    },
+    {
+      "line": 317,
+      "text": "**Use it wisely**. I hate copycats who then share a tiny little sentence in their comment like *“credits: Ruben”.* Don’t be this guy."
+    }
+  ]
+}

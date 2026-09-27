@@ -1,0 +1,52 @@
+{
+  "queue_position": 21,
+  "id": 68,
+  "path": "raw/inbox/Practical/Ethan Mollick/an-opinionated-guide-to-using-ai.md",
+  "sha256": "c359bb61632a36a316ea630fd4e0a01c0a7485b085a1aadc3c429730177f402d",
+  "title": "An Opinionated Guide to Using AI Right Now",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L34 ## Picking the model",
+    "L50 ## **Getting better answers**",
+    "L62 ## **Multimodal inputs**",
+    "L68 ## **Making Things for You: Images, Video, Code, and Documents**"
+  ],
+  "passages": [
+    {
+      "line": 20,
+      "text": "# **Picking an Advanced AI System**"
+    },
+    {
+      "line": 28,
+      "text": "Just picking one of these three isn’t enough, however, because each AI system has multiple AI models to select. **Chat models** are generally the ones you get for free and are best for conversation, because they answer quickly and are usually the most personable. **Agent models** take longer to answer but can autonomously carry out many steps (searching the web, using code, making documents), getting complex work done. **Wizard models** take a very long time and handle very complex academic tasks. For real work that matters, I suggest using Agent models, they are more capable and consistent and are much less likely to make errors (but remember that all AI models still have a lot of randomness associated with them and may answer in different ways if you ask the same question again.)"
+    },
+    {
+      "line": 32,
+      "text": "Same question asked of a chat model and an agentic one. You can see the chat model answered “off the top of its head” while the agentic model did outside research and checked a lot of assumptions before answering,"
+    },
+    {
+      "line": 80,
+      "text": "# **Quick Tips**"
+    },
+    {
+      "line": 88,
+      "text": "- **Experiment and have fun:** Play is often a good way to learn what AI can do. Ask a video or image model to make a cartoon, ask an advanced AI to turn your report or writing into a game, do a deep research report on a topic that you are excited about, ask the AI to guess where you are from a picture, show the AI an image of your fridge and ask for recipe ideas, work with the AI to plot out a dream trip. Try things and you will learn the limits of the system."
+    },
+    {
+      "line": 90,
+      "text": "# Where this goes"
+    },
+    {
+      "line": 94,
+      "text": "The chart at the top of this post shows what people use AI for *today*. But I’d bet that in two years, that chart looks completely different. And that isn’t just because AI changed what it can do, but also because users figured out what it should do. So, pick a system and start with something that actually matters to you, like a report you need to write, a problem you’re trying to solve, or a project you have been putting off. Then try something ridiculous just to see what happens. The goal isn’t to become an AI expert. It’s to build intuition about what these systems can and can’t do, because that intuition is what will matter as these tools keep evolving."
+    },
+    {
+      "line": 96,
+      "text": "The future of AI isn’t just about better models. It’s about people figuring out what to do with them."
+    },
+    {
+      "line": 102,
+      "text": "This is an opinionated guide because, like all of my writing on this Substack, social media, and my books, I write it all myself and I only get AI feedback when I am done with a draft. I might make mistakes, and my opinion may not be yours, but I do not take money from any of the AI companies, so they very much are my opinions."
+    }
+  ]
+}

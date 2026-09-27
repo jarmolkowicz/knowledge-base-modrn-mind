@@ -1,0 +1,45 @@
+{
+  "queue_position": 281,
+  "id": 680,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jen-abel-20/transcript.md",
+  "sha256": "eec9209897af89d9fa640385ecddc204bf85f09b703820c9e0948c9dd49a286e",
+  "title": "$1M to $10M: The enterprise sales playbook with Jen Abel",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L34 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 399,
+      "text": "Jen Abel (00:36:30):"
+    },
+    {
+      "line": 400,
+      "text": "Or Microsoft Copilot. So I don't hear much about Anthropic to be honest. So that might be more of a small business startup-ey, I don't know or it's a different part of the organization that's using it."
+    },
+    {
+      "line": 447,
+      "text": "Jen Abel (00:41:15):"
+    },
+    {
+      "line": 448,
+      "text": "Palantir, this Forward Deployed Engineer, that's exactly what they're doing. There's a lot of companies out, I'm sure OpenAI, and this is what someone told me they were in and talking to CTOs and helping them better understand how AI and their organization can better work together. And it was them coaching them, educating them, whether they did it for free or not, I don't know, but they got their foot in the door, they started to build trust and then it gets adopted."
+    },
+    {
+      "line": 768,
+      "text": "(01:08:05):"
+    },
+    {
+      "line": 769,
+      "text": "I use all of these little things and I seldom customize a note in a way that people expect which is that first customized sentence because AI does that, and everyone's doing that. So I go the opposite extreme, which is like remove it and I customize it with how I frame it or the subject line. So it's like if I'm talking to someone like a peer, I might say quick question like QQ."
+    },
+    {
+      "line": 849,
+      "text": "Jen Abel (01:14:30):"
+    },
+    {
+      "line": 850,
+      "text": "This stuff is really hard. It's very hard. Sales is also all about learning very, very quickly from the rejection. The rejection is good because it's a forced learning and you never want to go through that again, but you have to be, I don't like to use the word cringe. You can't be afraid to cringe is like bringing your AI recorder into a call, that's cringey, but sending 15 notes to people that you can deliver serious value to, don't be afraid, and don't be afraid to ask the hard questions. Be different."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 152,
+  "title": "The agent web is being built this month",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/coinbase-stripe-and-cloudflare-all.md",
+  "sha256": "ddf90e7ea8d19c59b13f12eb80961e3b5a689f9a2a5441f80e9440a4a4f27c7a",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 269,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 229,
+      "text": "Last Tuesday, Coinbase, Cloudflare, and OpenAI all shipped major agent infrastructure "
+    },
+    {
+      "line": 12,
+      "offset": 541,
+      "text": "While everyone debates OpenClaw’s 160,000 GitHub stars and whether agents are safe to run locally, the real story is happening one layer down. Every major infrastructure company is simultaneously building primitives that let agents pay, read, search, and execu"
+    }
+  ]
+}

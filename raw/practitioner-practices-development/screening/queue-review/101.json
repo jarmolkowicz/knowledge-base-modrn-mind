@@ -1,0 +1,35 @@
+{
+  "queue_position": 42,
+  "id": 101,
+  "path": "raw/inbox/Practical/Ethan Mollick/the-twilight-of-the-chatbots.md",
+  "sha256": "897cacdd57d0b8a1e9c953e7911c61eb99db7ecda55739918298939a34cd0be0",
+  "title": "The twilight of the chatbots",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 13,
+      "text": "# The twilight of the chatbots"
+    },
+    {
+      "line": 31,
+      "text": "But abstract graphs only get you so far, and they can hide how jagged the frontier is (and also the fact that the open weights models, while very impressive, do not always perform as well as their benchmarks would indicate). To get real insight, you need to try using AI for different use cases and rigorously assess how good they are in the areas that matter to you. As a fun example, I created a test where AIs have to build an interactive simulation of a harbor evolving over time. You can play with all the result here. I think it gives an interesting perspective on how much models can differ from each other in areas like design, stylistic approach, and even judgement. As systems do ever longer tasks, these hard-to-benchmark factors become more important."
+    },
+    {
+      "line": 35,
+      "text": "# The way we use AI is changing"
+    },
+    {
+      "line": 37,
+      "text": "As AIs can do longer and longer tasks, the way people are using AI is changing. Until recently, the dominant way to use AI was as a co-intelligence. You would ask the AI to do something, check the results, and then ask for it to do the next step of your job. By careful prompting and human attention, you could guide AIs to do complex and long-term tasks."
+    },
+    {
+      "line": 55,
+      "text": "# A moment in time"
+    },
+    {
+      "line": 57,
+      "text": "Being on an exponential means each change over a fixed window is larger than the one before it. If your organization wrote an AI plan any time before the winter of 2025, it described a system that could do a couple of hours of work with a fairly high error rate. A few months later, you can get sixteen hours or more of work from a single prompt. This is why AI keeps feeling like it is making leaps, even though it is a curve on a graph, we keep experiencing a steady doubling of capability as a series of shocks. We are very bad at feeling exponentials from the inside, and we are currently inside one."
+    }
+  ]
+}

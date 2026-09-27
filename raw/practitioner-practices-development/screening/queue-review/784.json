@@ -1,0 +1,37 @@
+{
+  "queue_position": 359,
+  "id": 784,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/richard-rumelt/transcript.md",
+  "sha256": "948de8f46058990e21a30a19081115727e9d1445fabd10c0ea95f8ba27370745",
+  "title": "Good Strategy, Bad Strategy | Richard Rumelt",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 110,
+      "text": "(00:15:55):"
+    },
+    {
+      "line": 111,
+      "text": "There are companies that say, \"Well, our future is\"... let's say something that's not in a software business. That's industry 4.0 for 5.0 that we're going to have... we're investing in the future of robotics and AI and even computer vision and all that. That's going to be our future. And then you see what they're doing. They've bought this company, they've bought this company, they've bought this company, and that's it. It's strategic assembly without any synthesis. So strategy's not mysterious. What's mysterious to me, what was mysterious to me and what remains mysterious to me is how so many organizational leaders don't do it. They create bad strategy. They do something that they say is strategy and then it's not."
+    },
+    {
+      "line": 209,
+      "text": "(00:38:10):"
+    },
+    {
+      "line": 210,
+      "text": "And when the new generative AI, we have the possibility of stronger effects than we've ever seen before, but we don't know yet. But the suspicion is that size is what matters, that the size of the data that you could put into the learning algorithm is going to make your AI better. And so again, a big... It's going to matter."
+    },
+    {
+      "line": 254,
+      "text": "(00:47:02):"
+    },
+    {
+      "line": 255,
+      "text": "And then it took a long time for them to put in the structure itself of government and then maybe became a democracy. Maybe not, but that's the process. It's not like you just go in there and say, you're now no longer a warlord with society because we've decreed it."
+    }
+  ]
+}

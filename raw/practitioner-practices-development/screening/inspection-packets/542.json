@@ -1,0 +1,26 @@
+{
+  "id": 542,
+  "title": "Scripts for navigating difficult conversations | Alisa Cohn (executive coach)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/alisa-cohn/transcript.md",
+  "sha256": "392df9b059263e0f2d921e23fa17c33c9d82bead01b6da50862be7476c29619f",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 17335,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 832,
+      "text": "I want to dive right into talking about your advice o"
+    },
+    {
+      "line": 57,
+      "offset": 2189,
+      "text": "Today my guest is Alisa Cohn. Alisa is an executive coach who has worked with C-suite execs at both startups like Etsy, Wirecutter, Venmo, and DraftKings, along"
+    }
+  ]
+}

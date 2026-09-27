@@ -1,0 +1,29 @@
+{
+  "queue_position": 368,
+  "id": 793,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/sam-schillace/transcript.md",
+  "sha256": "aaeb5f9c2877761822a6e26359e313098c70de8baf03f5a3cbff24ddfbaf1721",
+  "title": "How to be more innovative | Sam Schillace (Microsoft deputy CTO, creator of Google Docs)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 204,
+      "text": "(00:25:32):"
+    },
+    {
+      "line": 205,
+      "text": "I think ChatGPT is a great recent example of something that was just added a ton of new value to the world and got this explosive growth, and then you see lots of other AI stuff that people are doing that's just not bad, but not great, and it's sort of kind of adding a little bit of value and slowly lumbering along, or maybe it's going to collapse under its weight. That's one thing about the users are lazy part of this. And then the other one I think is, again, it's almost like physics. I think of this as entropy, or people who are confused about entropy or will be like, \"Entropy is not real. Look, it runs backwards all the time on earth. Life gets more complicated. What is the deal with entropy?\" And like, \"Well no, you have to consider the whole system, right? The entire system of the solar system, including the sun is increasing in entropy all the time. We're just making use of some of it.\""
+    },
+    {
+      "line": 432,
+      "text": "(01:04:19):"
+    },
+    {
+      "line": 433,
+      "text": "So that just started me down this rabbit hole of thinking about building the Semantic Kernel, which we built, and then building Infinite Chatbot, which was next, and these other projects we've been working on. And the more I think about this stuff, the more I do think those two quotes are good quotes. I think what's going to happen over time... I actually think we're at the beginning of this just gigantic disruption in the software industry. I think the way that the internet made distribution of information free, I think AI is going to make pixels free. "
+    }
+  ]
+}

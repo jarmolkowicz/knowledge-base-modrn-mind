@@ -1,0 +1,29 @@
+{
+  "queue_position": 346,
+  "id": 768,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/noam-lovinsky/transcript.md",
+  "sha256": "ccdd0f7cceb08b8f3d4300749d472bd6d0723e51f78c0ec0b680b1af97a75ea6",
+  "title": "The happiness and pain of product management | Noam Lovinsky (Grammarly, FB, Thumbtack, YT)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 342,
+      "text": "(00:53:04):"
+    },
+    {
+      "line": 343,
+      "text": "I think that a product that is that easy to use, that easy to extract value from, but then also that prevalent, how many different text boxes do you write in a given day? I mean, it is not less than 10, it is tens or potentially hundreds, right? And so it is everywhere and it is very, very low effort to get real value from it. And then the where we work is what I said, you don't have to change anything about your workflow. Grammarly meets you where you are and you get value from it. Doing that really well at this level of quality for a user base of this scale, essentially it's like a huge AI achievement masquerading as a little UX innovation, right? But that experience, that UX that sort of brings AI to the masses has obviously served Grammarly really well. I think those are some of the strengths that we're going to continue to lean on to now provide a very different type of assistance and value that we can because of where the technology has moved."
+    },
+    {
+      "line": 507,
+      "text": "Noam Lovinsky (01:08:42):"
+    },
+    {
+      "line": 508,
+      "text": "Yeah. I'm pretty much @noaml everywhere online, so Twitter is probably the easiest. My DMs are open. And then how people can be useful to me is please use Grammarly, provide any feedback that you might have. And honestly, if I can be helpful in almost any way, feel free to reach out. I often will take those conversations and build those connections, and that is always very helpful for me as well."
+    }
+  ]
+}

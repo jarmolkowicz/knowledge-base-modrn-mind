@@ -1,0 +1,26 @@
+{
+  "id": 611,
+  "title": "The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/dr-fei-fei-li/transcript.md",
+  "sha256": "2194b88f2b3d99b90132dfc99912a0303cb2919da4851ce2fea5f47cae20bdae",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 11893,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 38,
+      "offset": 806,
+      "text": "A lot of people call you the godmother of AI. The wor"
+    },
+    {
+      "line": 122,
+      "offset": 12316,
+      "text": "It is, for me, hard to keep in mind that AI is so new for everybody when I lived my entire professional life in AI. There's a part of me that is just, it's so s"
+    }
+  ]
+}

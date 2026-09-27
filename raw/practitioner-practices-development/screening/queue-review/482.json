@@ -1,0 +1,117 @@
+{
+  "queue_position": 155,
+  "id": 482,
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-11-teach-it-what-to-keep.md",
+  "sha256": "3bdcdff0a01e657ddfcd884e3a32123f63adac9bdd49083926256433447a7019",
+  "title": "How to Teach AI What to Keep Private",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L30 #### **Step-by-step**",
+    "L54 #### **A moment from me**",
+    "L72 #### **What to do with it**",
+    "L84 #### **Why this matters**",
+    "L94 #### **From [Slow AI #10 – Teach It What to Ask You](https://theslowai.substack.com/p/slow-ai-10-teach-it-what-to-ask-you)**"
+  ],
+  "passages": [
+    {
+      "line": 14,
+      "text": "- Learn a gentler way to practise privacy awareness before it really matters."
+    },
+    {
+      "line": 22,
+      "text": "By the end, you may find yourself surprised, not by the seriousness of the risks, but by the way your AI tool frames them."
+    },
+    {
+      "line": 24,
+      "text": "Last week, in Teach It What to Ask You, many of you explored what happens when you let your tool lead with a question. Some of your reflections appear at the end of this post."
+    },
+    {
+      "line": 30,
+      "text": "#### **Step-by-step**"
+    },
+    {
+      "line": 34,
+      "text": "> Pretend this is a secret: I had two slices of toast for breakfast. If that fact were made public, what possible risks could arise for me or others?"
+    },
+    {
+      "line": 38,
+      "text": "> Swap the toast for another harmless detail; the colour of your socks, the song stuck in your head, the name of your neighbour’s cat."
+    },
+    {
+      "line": 40,
+      "text": "> Ask your tool to exaggerate the risks until they sound like the plot of a thriller."
+    },
+    {
+      "line": 42,
+      "text": "> Or ask it to minimise them until they sound utterly trivial."
+    },
+    {
+      "line": 44,
+      "text": "This prompt is not about real danger."
+    },
+    {
+      "line": 46,
+      "text": "It is about experimenting safely with how disclosure works."
+    },
+    {
+      "line": 50,
+      "text": "If you’re new to *Slow AI*, our first invitation was: *Teach It Something It Cannot Know.*"
+    },
+    {
+      "line": 54,
+      "text": "#### **A moment from me**"
+    },
+    {
+      "line": 62,
+      "text": "Silly, yes. But it reminded me how quickly even tiny details can be woven into a story about us. One piece of trivia links to another, and before long, a pattern begins to appear."
+    },
+    {
+      "line": 72,
+      "text": "#### **What to do with it**"
+    },
+    {
+      "line": 77,
+      "text": "- Try the same prompt with another harmless detail and compare the results."
+    },
+    {
+      "line": 78,
+      "text": "- Or see what happens if you ask it to imagine both the *worst* and the *least* possible consequences."
+    },
+    {
+      "line": 80,
+      "text": "This works best when you keep it playful."
+    },
+    {
+      "line": 84,
+      "text": "#### **Why this matters**"
+    },
+    {
+      "line": 88,
+      "text": "Practising on low-risk details lets us slow down enough to notice what is happening before it becomes serious."
+    },
+    {
+      "line": 90,
+      "text": "By training yourself to ask, *what if this were public?* you build a habit of safety that travels with you."
+    },
+    {
+      "line": 94,
+      "text": "#### **From Slow AI #10 – Teach It What to Ask You**"
+    },
+    {
+      "line": 106,
+      "text": "BD asked ChatGPT: *Ask me a question.*"
+    },
+    {
+      "line": 114,
+      "text": "Kim asked Copilot for a philosophical question."
+    },
+    {
+      "line": 122,
+      "text": "These moments show how handing over the question can open humour, vulnerability, and surprise."
+    },
+    {
+      "line": 126,
+      "text": "If you try this week’s prompt, I would love to see the funniest or most unexpected ‘risks’ your tool invents."
+    }
+  ]
+}

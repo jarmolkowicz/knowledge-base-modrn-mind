@@ -1,0 +1,51 @@
+{
+  "slug": "illingworth-488-teach-ai-the-wrong-answer-2025",
+  "original_filename": "slow-ai-7-teach-it-the-wrong-answer.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 538,
+  "hash": "5987743e5ddef61a38a431f3ec1830b15b12ba5987f0513c13dc47f2bf13677c",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:44Z",
+  "decisions": [
+    {
+      "stage": "practice-review",
+      "outcome": "retain",
+      "date": "2026-09-26",
+      "reason": "Retain one creative-constraint card with compression and uncertainty variants from 489 and 490; do not treat them as independent validation.",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/illingworth-488-teach-ai-the-wrong-answer-2025.md",
+      "practices": [
+        "practices/use-a-creative-constraint-and-respond.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 117,
+  "screening_id": 488,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/slow-ai-7-teach-it-the-wrong-answer.md",
+  "bibliographic_metadata": {
+    "title": "Teach AI the Wrong Answer",
+    "date": "2025-08-12",
+    "url": "https://theslowai.substack.com/p/slow-ai-7-teach-it-the-wrong-answer",
+    "collection": "Sam Illingworth"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

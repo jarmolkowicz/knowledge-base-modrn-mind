@@ -1,0 +1,36 @@
+{
+  "id": 419,
+  "title": "We need to talk about AI data centres",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-data-centres-uk-jobs.md",
+  "sha256": "5b3911405eea85d0d235e7fa454ca1dfe63ecfe4206892c1332be1cb150da70f",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2258,
+  "headings": [
+    "**In this post I will:**",
+    "**A 200 megawatt campus on green belt farmland**",
+    "**Thirty-five metres, next to a village**",
+    "**The developers’ case, which is better than objectors admit**",
+    "**Nobody is required to tell you what it uses**",
+    "**A Successful Pause**",
+    "**The jobs promise**",
+    "**Whose models are these, exactly?**",
+    "**The claim that this is a bubble**",
+    "**A farm in the north-west of England**",
+    "**If you want to do something**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 404,
+      "text": "A neighbour mentioned it in passing and I did not believe him."
+    },
+    {
+      "line": 37,
+      "offset": 1694,
+      "text": "I write about AI for a living. I use these tools every day and I argue in public that people should learn to use them well. I found out about this at school drop-off."
+    }
+  ]
+}

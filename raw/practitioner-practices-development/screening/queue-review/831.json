@@ -1,0 +1,37 @@
+{
+  "queue_position": 397,
+  "id": 831,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/will-larson/transcript.md",
+  "sha256": "a8e2fe52d5ce163ccea601b9daec06ac44195a03a0e58aec387aa3830d1b0c85",
+  "title": "The engineering mindset | Will Larson (Carta, Stripe, Uber, Calm, Digg)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 251,
+      "text": "(00:28:34):"
+    },
+    {
+      "line": 252,
+      "text": "To me, the biggest strength of writing what you want is you get to write where there's energy and you don't have to write where there's no energy, which takes you really, really negative. And this also ties into how I write books, which is that I basically write the entire thing before I start working with a publisher. And if you are, I think diligent and good at anticipating what their concerns are going to be, you can mostly reuse the content that you're trying to write. This is also easier in the sorts of books I write."
+    },
+    {
+      "line": 278,
+      "text": "Will Larson (00:32:13):"
+    },
+    {
+      "line": 279,
+      "text": "Yeah. I just a hundred percent agree with that. I think the other thing is that everyone converges on the same thing that they think people want. So it's crypto two years ago. It's like AI right now or it's counter AI. AI is going to ruin the world. It's hard to say something very novel because, one, everyone is trying to say something about it. Two, it's almost certainly not what you're that knowledgeable about where if you just stick in your lane, I think the biggest risk to writers is quitting."
+    },
+    {
+      "line": 455,
+      "text": "(00:56:39):"
+    },
+    {
+      "line": 456,
+      "text": "But I think those values did work well for Facebook and those values were meaningful for Facebook. And so first you can't do is just steal values. Value cargo culting. Users first. Great Amazon value. A lot of companies aren't users first and that's okay, but what's not okay is when you put, \"Hey, we're users first,\" and then you actually show the decisions you're making and you clearly aren't users first."
+    }
+  ]
+}

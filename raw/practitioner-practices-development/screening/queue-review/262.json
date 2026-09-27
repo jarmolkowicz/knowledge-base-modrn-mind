@@ -1,0 +1,57 @@
+{
+  "queue_position": 50,
+  "id": 262,
+  "path": "raw/inbox/Practical/Ruben Hassid/ai-couldnt-do-excel.md",
+  "sha256": "b3e75f3ac2bf40613dde7c1aa44336fb90e313020a76511ee136d6a964548e5e",
+  "title": "How to install Claude Excel.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L41 ## **How to install Claude in Excel.**",
+    "L62 ## **How to read formulas you've never seen.**",
+    "L90 ## **How to clean messy data in seconds.**",
+    "L112 ## **How to analyze data without formulas.**",
+    "L138 ## **How to turn a PDF into a** *(real)* **Excel.**",
+    "L162 ## **How to build** *(any)* **financial model.**",
+    "L182 ## **What it can’t do** *(yet)***.**",
+    "L208 ## **Too long, didn’t read.**",
+    "L234 ## **PS: Microsoft Copilot answered.**"
+  ],
+  "passages": [
+    {
+      "line": 27,
+      "text": "The gap was never intelligence. Copilot *(Microsoft’s own AI)* just failed at building the right AI for Excel, inside Excel. So Claude did it first."
+    },
+    {
+      "line": 37,
+      "text": "> ***UPDATE**: As I’m writing this guide, Microsoft released a Copilot **answer** to the mega-viral Claude Excel. I am sharing how bad it is at the end, but in 2 words → it sucks.*"
+    },
+    {
+      "line": 62,
+      "text": "## **How to read formulas you've never seen.**"
+    },
+    {
+      "line": 68,
+      "text": "There's a formula you've never seen. You need to know what it does, not what the function means in general, but what *this specific formula* does in *this spreadsheet*."
+    },
+    {
+      "line": 90,
+      "text": "## **How to clean messy data in seconds.**"
+    },
+    {
+      "line": 92,
+      "text": "You got a data export. Dates in 5 formats. Names split wrong. Duplicates everywhere. Before you can do anything, you need to clean it."
+    },
+    {
+      "line": 182,
+      "text": "## **What it can’t do** *(yet)***.**"
+    },
+    {
+      "line": 192,
+      "text": "And Anthropic *(Claude’s parent company)* is clear: don't use it for final client deliverables without review, audit-critical calculations without verification, or models with highly sensitive data without proper controls."
+    },
+    {
+      "line": 196,
+      "text": "You must experience it first. For understanding, building, cleaning, and reviewing spreadsheets? It works. It actually works. And that’s the future of Excel."
+    }
+  ]
+}

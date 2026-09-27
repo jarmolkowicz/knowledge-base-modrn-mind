@@ -42,3 +42,13 @@
 - Integrated: `sources/bankins-formosa-ai-meaningful-work-2023.md`, `methods/ai-meaningful-work-design.md`.
 - 19-source batch: approved update proposals merged; initial critique, revision history and original files retained. Draft source/concept/method files moved into the public KB; update proposals remain in drafts/updates/.
 - Whole-KB structural check passed after content integration. No commit, push or external upload.
+
+
+## 2026-09-27 — Supplementary practice review
+
+Targeted source review, draft/overlap decision and self-critique recorded in [practice-review-2026-09-27.md](practice-review-2026-09-27.md). Drafts ready for integration review; no canonical edit or change to historical source status.
+
+
+## 2026-09-27 — Supplementary practices integrated
+
+Stage 5 completed under the user’s continuation instruction. See the batch [integration decision](../kb-practice-screening-2026-09-27/review/integration/decision.json). Original drafts and originals retained.

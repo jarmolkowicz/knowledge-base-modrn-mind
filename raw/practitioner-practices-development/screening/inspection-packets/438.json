@@ -1,0 +1,31 @@
+{
+  "id": 438,
+  "title": "The People Reviewing AI Research Are Using AI to Do It",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-peer-review-crisis-iclr.md",
+  "sha256": "2580541fecbcd0988c5943d3ba19fc378ec790ca02ea2f67bd4d6892a3f81270",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1270,
+  "headings": [
+    "**What happened at ICLR**",
+    "**The reviews that reviewed themselves**",
+    "**Why this happened**",
+    "**The mirror**",
+    "**What peer review is actually for**",
+    "**Why this matters for you**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 441,
+      "text": "The world’s largest AI conference asked thousands of researchers to re"
+    },
+    {
+      "line": 95,
+      "offset": 8134,
+      "text": "This is why critical AI literacy matters beyond the classroom. The question is never just ‘did an AI write this?’ The question is: what happens to the systems we trust when no one can answer that question relia"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 59,
+  "title": "Why Can't We Tame AI?",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/why-cant-we-tame-ai.md",
+  "sha256": "3a1167ae87d852552212a88db5f1f589d728f399714acdf0ca4182fd989e092b",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 738,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 9,
+      "offset": 139,
+      "text": "Last month, Anthropic released a safety report about one of its most powerful chatbots, Claude Opus 4. The report attrac"
+    },
+    {
+      "line": 27,
+      "offset": 3335,
+      "text": "Could Asimov’s approach, based on fundamental laws we all trust, be the solution to our current issues with AI? Without giving too much away, in my article, I explore this possibility, closely examining our current technical strategies for controlling AI behavior. The result is perhaps surprising: what we’re doing right now – a model-tuning technique called "
+    }
+  ]
+}

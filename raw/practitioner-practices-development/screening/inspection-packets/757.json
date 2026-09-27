@@ -1,0 +1,26 @@
+{
+  "id": 757,
+  "title": "How to price your product | Naomi Ionita (Menlo Ventures)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/naomi-ionita/transcript.md",
+  "sha256": "b390f054d4781a0ea4926fc10c9041d54ca70e2d6fbf41d5b331ff872ae14284",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 10387,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 802,
+      "text": "Do not set it and forget it. I see companie"
+    },
+    {
+      "line": 387,
+      "offset": 54223,
+      "text": "I mean, I wouldn't be doing my job as a VC if I didn't mention Generative AI right now. It's really having a moment. So there's a "
+    }
+  ]
+}

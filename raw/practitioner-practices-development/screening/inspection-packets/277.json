@@ -1,0 +1,35 @@
+{
+  "id": 277,
+  "title": "Claude for teams.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/claude-for-teams.md",
+  "sha256": "4c990479600f07566cb39921e3a55711a98f462e7ed12cfdf823dcf633f2c489",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2668,
+  "headings": [
+    "Table of contents",
+    "**How to set up Claude’s team plan**",
+    "**Monday: How to set up ‘Projects’.**",
+    "Step 1 → Let Claude figure out which Projects you need.",
+    "**Tuesday: How to create ‘Prompt Templates’.**",
+    "**Wednesday: Test your Project for a ‘wow’.**",
+    "**Thursday: Don’t train 10 people. Convert 1.**",
+    "**Friday: How to quickly roll it out for the team.**",
+    "What happens next.",
+    "**A message from the author, Ruben.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 350,
+      "text": "You quit ChatGPT, and set up Claude for yourself."
+    },
+    {
+      "line": 340,
+      "offset": 18176,
+      "text": "Claude produces something good. Using their work. In the company’s voice. On the first try. They didn’t learn a single thing. They didn’t take a course. The context layer you built Monday through Wednesday did the work."
+    }
+  ]
+}

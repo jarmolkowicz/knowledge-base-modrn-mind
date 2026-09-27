@@ -1,0 +1,26 @@
+{
+  "id": 729,
+  "title": "Product management theater | Marty Cagan (Silicon Valley Product Group)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/marty-cagan/transcript.md",
+  "sha256": "ca1176f92ddc0df0ba9521efdd64c234b81ea27a32a534eed692a1ed888be6ba",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 14716,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 829,
+      "text": "There is no question that a lot of companies o"
+    },
+    {
+      "line": 279,
+      "offset": 49027,
+      "text": "And what I kept seeing was people taking what they get too literally, too seriously, too much value, and they were heading off in a wrong di"
+    }
+  ]
+}

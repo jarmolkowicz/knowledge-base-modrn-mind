@@ -1,0 +1,45 @@
+{
+  "queue_position": 272,
+  "id": 668,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jake-knapp-john-zeratsky/transcript.md",
+  "sha256": "603617ca9564d431b0a77d5de8768d9c6a5955aeee69fa7b3a7802cbf77a227b",
+  "title": "Making time for what matters | Jake Knapp and John Zeratsky (Authors of Make Time, Character VC)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 189,
+      "text": "Jake Knapp (00:23:14):"
+    },
+    {
+      "line": 190,
+      "text": "Excellent, excellent. Okay. Yeah. And if you're not watching on video, Lenny had a sticky note and he wrote it down. So, that's actually literally the best way to do this is write it down on a sticky note, put it somewhere where you can see it. And so, you've got highlight, laser during the time of the highlight, energize, make sure you have the energy you need when the time comes. And these are just tactics around sleep and food and exercise, and just things that help with your mental energy, not crazy stuff. And then the final thing is reflect, and this is where we think about this as the scientific method. Did it work? Did what I tried today work out? And if not, just being curious about it, what didn't? And adjusting and trying to think, \"Okay, maybe there's another tactic I can try.\""
+    },
+    {
+      "line": 258,
+      "text": "(00:32:12):"
+    },
+    {
+      "line": 259,
+      "text": "And I did this exercise earlier this week. I was switching to a new calendar thing, and trying some new features with... We invest in this company called Reclaim, and they do this stuff-"
+    },
+    {
+      "line": 780,
+      "text": "(01:31:20):"
+    },
+    {
+      "line": 781,
+      "text": "This will be our third time running through this. We found that it's especially valuable for AI startups. So it just turns out that a lot of the complex issues you have to figure out with turning something that may not initially be trustworthy may require a big behavior shift to customers who aren't used to working in this way and sometimes artificial intelligence can produce things that feel kind of alien to people."
+    },
+    {
+      "line": 783,
+      "text": "(01:31:45):"
+    },
+    {
+      "line": 784,
+      "text": "And so making this stuff actually useful, more than just a chatbot with little stars that's in the corner that says, \"Hey, would you like to ask the AI a question about this?\" But something that's really meaningful, doing this kind of repeated and we'd run a sequence of Sprints doing it again and again, you work with directly with John and I, we find a really powerful way to get started."
+    }
+  ]
+}

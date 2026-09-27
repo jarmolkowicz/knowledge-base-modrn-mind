@@ -1,0 +1,37 @@
+{
+  "queue_position": 242,
+  "id": 621,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/elena-verna-40/transcript.md",
+  "sha256": "dd7eb21629e43832c1f82fae758c45fd7eda0d9a691b8d6f65ae37058eb71e95",
+  "title": "The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L33 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 509,
+      "text": "(01:01:39):"
+    },
+    {
+      "line": 510,
+      "text": "And again, the main point here is it would take years to get to that stage where it became a question that you had to face really hard face-to-face. Now, it's three months, and all of a sudden you have to face that question again. And it's happening because of two things, in my opinion. Number one, in AI technology of what LLM is capable of doing changes still very rapidly with new model release, with each new model release. I think we'll stabilize at some point and then it's going to become more marginal, but we're not there yet. So every three months or so, every single AI LLM provider creates a step function change in what is possible with that LLM. And when you have this new possibility in just an underlying technology that opens up in front of you, then it creates another ceiling of what is possible to build on top of it."
+    },
+    {
+      "line": 617,
+      "text": "(01:16:56):"
+    },
+    {
+      "line": 618,
+      "text": "And I use Granola a lot, for example, because to me, it's super helpful to get AI summaries of the meetings and it's very powerful for me. I use Wispr Flow a lot because I feel like I have no time to type anymore. So I just talk to my phone and talk to my laptop all the time in order to do it. But we're even thinking about all of the customer support automations that are done through AI. Every single aspect of what we do, question is asked, what can AI do here first, and then how we can add ourselves into the equation."
+    },
+    {
+      "line": 758,
+      "text": "Elena Verna (01:28:18):"
+    },
+    {
+      "line": 759,
+      "text": "You have to lead with that. That's the thing. You have to lead with the things that you are capable of achieving, knowing what you have with AI, because that is a lot of people. Especially in traditional tech or in more traditional companies, they're looking for somebody to show them because it's really hard to figure it out on your own versus coming in and seeing and then copying."
+    }
+  ]
+}

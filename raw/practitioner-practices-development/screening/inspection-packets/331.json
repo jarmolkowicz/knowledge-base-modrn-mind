@@ -1,0 +1,29 @@
+{
+  "id": 331,
+  "title": "How Socrates prompts ChatGPT.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/socrates-and-ai.md",
+  "sha256": "74201e9077019df8d8877c73c7421fbf3aae45e7cb3559692d2da612cbaf23a1",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 876,
+  "headings": [
+    "The ‘How’ of Self-Ask Prompting",
+    "Example 2 – Blog-post outline for SMB audience",
+    "Example 3 – LinkedIn hooks for a new tool",
+    "This is the annoying marketing part…"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 219,
+      "text": "> *“My hope is that someday, when the next Aristotle is alive, we can cap"
+    },
+    {
+      "line": 20,
+      "offset": 745,
+      "text": "Self-Ask Prompting - or the Socratic way of prompting ChatGPT - is a technique to tells the model to decide whether it needs follow-up questions, ask them aloud, answer them, and only then state the final answer."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 10,
+  "title": "The Must-Read Articles of the Month",
+  "collection": "Adam Grant",
+  "path": "raw/inbox/Practical/Adam Grant/the-must-read-articles-of-the-month.md",
+  "sha256": "4242ee1d370b18ac216ccc4068cf532cd719a4553d9e9c0319f5086a8f476421",
+  "access": "public-page",
+  "kind": "article",
+  "words": 295,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 407,
+      "text": "The smarter women are, the more hostility they face."
+    },
+    {
+      "line": 29,
+      "offset": 1216,
+      "text": "Since chatGPT, although students’ personal statements seem more creative because they use more varied words, they actually feature less original ideas. AI writing produces an illusion of creativity."
+    }
+  ]
+}

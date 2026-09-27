@@ -1,0 +1,29 @@
+{
+  "queue_position": 321,
+  "id": 735,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/matt-mochary/transcript.md",
+  "sha256": "b3ec342c77c0a4dd52d952de73855e72d532f03504af5a1f7690869a95e7a52e",
+  "title": "Are your fears giving you terrible advice? | Matt Mochary",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L39 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 158,
+      "text": "Matt Mochary (00:17:33):"
+    },
+    {
+      "line": 159,
+      "text": "Then I realized I needed an organization to test my most radical ideas, and also all of my CEOs had been asking me to create software because I have a methodology and it's step one, step two, step three, and you do it in one-on-ones and then a methodology for a team meeting and then a methodology for feedback and then a methodology for every different motion in the company. It's all in Google Docs. And they said to me, \"Matt, this is amazing. I love this one-on-one process. I love your team process, but I don't want to have to teach each of my reports the way you've taught me. I'd like it just being softer. I just hit a button and boom, it happens automatically.\" At first, I said, \"No, that's not interesting to me. I'm not a developer. You, Brian Armstrong, you're a developer and you have a thousand engineers that work for you. Why don't you go create it?\""
+    },
+    {
+      "line": 470,
+      "text": "Matt Mochary (01:04:10):"
+    },
+    {
+      "line": 471,
+      "text": "What I do with the energy audit is you go through a calendar, two weeks of a calendar, a representative two weeks and you first look at all the meetings you have, but then you fill in there's time in between meetings. What were you actually doing? Take your best guess, write it in and then hour by hour, take a green marker and a red marker and each hour from Monday, 8:00 AM to 6:00 PM and the same thing each day for two weeks, each hour ask yourself at the end of that hour, did I have more energy or less energy?"
+    }
+  ]
+}

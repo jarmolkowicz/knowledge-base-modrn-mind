@@ -1,0 +1,31 @@
+{
+  "id": 481,
+  "title": "Teach AI What to Ask You",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-10-teach-it-what-to-ask-you.md",
+  "sha256": "fa56b77eadad16a3c7bf5a93ddf6eab7aaa63d3d24acc85f9252aee25c08d3b9",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 459,
+  "headings": [
+    "The best answers start with unexpected questions.",
+    "Step-by-step",
+    "A moment from me",
+    "What to do with it",
+    "Why this matters",
+    "From Slow AI #9 – Teach It to Say I Don't Know"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 262,
+      "text": "The point of this post is not to give you a faster or smarter way "
+    },
+    {
+      "line": 68,
+      "offset": 1825,
+      "text": "We often use AI as a mirror for our curiosity."
+    }
+  ]
+}

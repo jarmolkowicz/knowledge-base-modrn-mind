@@ -1,0 +1,60 @@
+{
+  "queue_position": 135,
+  "id": 446,
+  "path": "raw/inbox/Practical/Sam Illingworth/anthropic-pentagon-ai-safety-blacklist.md",
+  "sha256": "1e21884182cdf8e788e92d307263217b166f4511a2891751bc94bb5476a240d8",
+  "title": "Nobody Blinked. Now What?",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L21 #### **How we got here**",
+    "L41 #### **Why Anthropic is not the hero of this story**",
+    "L55 #### **The precedent that just got set**",
+    "L65 #### **What the other companies did**",
+    "L75 #### **What to watch for**",
+    "L85 #### **What this means for you**",
+    "L97 #### **Nobody is clean**",
+    "L113 #### **What I am doing**"
+  ],
+  "passages": [
+    {
+      "line": 21,
+      "text": "#### **How we got here**"
+    },
+    {
+      "line": 23,
+      "text": "Anthropic makes Claude, the AI model I use to edit and research for this newsletter. In 2024, Anthropic partnered with Palantir to deploy Claude on classified military networks. In July 2025, the Pentagon awarded Anthropic a $200 million contract. Claude became the first frontier AI model operating inside the US defence and intelligence apparatus, hosted on Amazon Web Services, which also built the CIA’s primary cloud infrastructure."
+    },
+    {
+      "line": 65,
+      "text": "#### **What the other companies did**"
+    },
+    {
+      "line": 71,
+      "text": "If the government expected Anthropic’s punishment to discipline the rest of the industry into compliance, the early signs suggest the opposite. Rival companies whose workers normally compete for talent and market share are now signing the same letter. The question is whether that solidarity survives the next contract negotiation."
+    },
+    {
+      "line": 85,
+      "text": "#### **What this means for you**"
+    },
+    {
+      "line": 87,
+      "text": "I use Claude. I build tools with Claude. I use it to edit and research for this newsletter. I am not a neutral observer. And that is precisely the point."
+    },
+    {
+      "line": 93,
+      "text": "These are not hypothetical questions. They are Monday morning questions for every organisation that adopted AI tools without thinking about what it means to depend on them."
+    },
+    {
+      "line": 113,
+      "text": "#### **What I am doing**"
+    },
+    {
+      "line": 119,
+      "text": "I use the tool because it helps me research, edit, and build. I do not use it because I trust the company. The distinction matters. The tool is useful. The company is a corporation making corporate decisions under corporate pressures. The moment I confuse the two is the moment I stop thinking critically about either."
+    },
+    {
+      "line": 123,
+      "text": "Neither side is clean. A precedent has been set. Every company, every government, and every user of these tools now has to decide what that means for them."
+    }
+  ]
+}

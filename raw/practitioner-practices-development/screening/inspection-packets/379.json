@@ -1,0 +1,39 @@
+{
+  "id": 379,
+  "title": "This ONE thing made me $120,000 ARR - Automate DMs with Claude & ChatGPT",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/facebook-instagram-dm-automation-with-claude-chatgpt-blotato.md",
+  "sha256": "4c42dd0c23de45c8ce1f479bf45b034f04ff5d8184c0ec7a14d795bcae135625",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1311,
+  "headings": [
+    "Before You Start",
+    "1. Create the Automation",
+    "2. Choose What Triggers the DM",
+    "3. Write the DM",
+    "4. Publish and Test",
+    "Step 1. Connect Blotato",
+    "Step 2. Create DM Automation",
+    "Step 3. (OPTIONAL) Capture Email and Send It to Your CRM",
+    "RECAP: Your Finished Flow",
+    "NEXT-LEVEL USE CASES",
+    "Create Multiple DM Automations from a Spreadsheet",
+    "Update Many DM Automations at Once",
+    "Review DM Automation Analytics",
+    "A/B Test the Messages"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 504,
+      "text": "This Instagram reel generated $120,000 in annual recurring revenue (AR"
+    },
+    {
+      "line": 25,
+      "offset": 715,
+      "text": "I open Claude and ask it to create a DM automation for Facebook + Instagram."
+    }
+  ]
+}

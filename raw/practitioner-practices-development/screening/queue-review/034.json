@@ -1,0 +1,107 @@
+{
+  "queue_position": 6,
+  "id": 34,
+  "path": "raw/inbox/Practical/Cal Newport/in-defense-of-thinking-2.md",
+  "sha256": "5befaad5bf1752281f45bcad5fa70044c89abbc27c45f0b688875a1bba2340ba",
+  "title": "In Defense of Thinking",
+  "coverage": "all available text, excluding linked images/media",
+  "headings": [],
+  "passages": [
+    {
+      "line": 9,
+      "text": "text_scope: \"visible_article_body; linked audio/video not transcribed\""
+    },
+    {
+      "line": 10,
+      "text": "curation_status: \"unreviewed\""
+    },
+    {
+      "line": 11,
+      "text": "---"
+    },
+    {
+      "line": 13,
+      "text": "# In Defense of Thinking"
+    },
+    {
+      "line": 15,
+      "text": "Ten years ago, I published ​*Deep Work*​*.* It was my second mainstream hardcover idea book. The previous title, ​*So Good They Can’t Ignore You*​*,* hadn’t sold as well as we hoped, so the expectations were lower for this follow-up."
+    },
+    {
+      "line": 17,
+      "text": "This turned out to be freeing, as it allowed me to write *Deep Work* largely for myself – exploring the conceptual edges of the issues surrounding distraction that interested me most."
+    },
+    {
+      "line": 19,
+      "text": "I was fascinated, for example, by the economic reality that so many knowledge work organizations systematically undervalued focus, and was convinced that this provided a massive opportunity for those willing to correct for this mistake. In this way, I saw myself as articulating something like *Moneyball* for the cubicle class. I also firmly believed that the act of thinking was at the core of the post-Paleolithic human experience; the source of our greatest ideas, satisfactions, and even moments of transcendence."
+    },
+    {
+      "line": 21,
+      "text": "This mixture of the economic and philosophical was different from the typical book in this genre at the time. Readers probably expected that I would open on a breathless tale of an overworked executive, then regurgitate some stats about interruptions, before proceeding with long lists of tips calibrated to be practical, but also not too challenging, presented in a conversational tone and accompanied by clearly manipulated case studies."
+    },
+    {
+      "line": 23,
+      "text": "But *Deep Work* was much weirder and more intense than that. Re-reading it recently, I was struck by how many of my stories had nothing to do with the knowledge sector at all. I quoted philosophers of religion and a blacksmith who forged swords with ancient techniques. I profiled a memory champion and discussed *chavruta,* the Jewish practice of studying Talmud or Torah in pairs. Rather than opening the book on a frustrated executive, I focused on Carl Jung’s efforts to break free from Sigmund Freud’s capriciousness. It was a direct look at the sources and ideas that most resonated with me."
+    },
+    {
+      "line": 25,
+      "text": "This idiosyncratic approach seemed to reveal something fundamentally true about the problematic state of work at that time, as the book soon found an audience, going on to sell more than two million copies in over forty-five languages. (In its wake, *So Good They Can’t Ignore You* finally found its groove as well, quietly selling more than half a million copies, providing me with a dash of retrospective vindication.)"
+    },
+    {
+      "line": 27,
+      "text": "All of this led me recently to ask a natural follow-up question: **How have things changed since that book first came out in 2016?**"
+    },
+    {
+      "line": 29,
+      "text": "I tackled this query in ​a long-form essay​ I published in the *New York Times* over the weekend. My answer wasn’t optimistic:"
+    },
+    {
+      "line": 31,
+      "text": "> “The problems I focused on in *Deep Work*, and in my writing since, have been getting steadily worse. In 2016 my main concern was helping people find enough free time for deep work. Today I think we’re rapidly losing the ability to think deeply at all, regardless of how much space we can find in our schedules for these efforts.”"
+    },
+    {
+      "line": 33,
+      "text": "Distractions in the workplace intensified over the past decade with the addition of instant messaging tools like Slack and low-friction digital meeting programs like Zoom. Outside of work, social media, which was generally still admired when *Deep Work* came out, has morphed into an addictive TikTok-ified slurry of optimized brain rot. Meanwhile, new AI tools offer quick-fix short-cuts to whatever intellectually engaging work activities remain."
+    },
+    {
+      "line": 35,
+      "text": "None of this is great news."
+    },
+    {
+      "line": 37,
+      "text": "So, what should we do? The obvious short answer is to read ​*Deep Work*.​ (Or, if you already have, buy some copies for people you know who need to hear its message!)"
+    },
+    {
+      "line": 39,
+      "text": "But that’s only a small step toward our larger goal of a world in which we once again respect the act of cognition. In my *Times* piece, I suggest a louder response: we launch a revolution in defense of thinking."
+    },
+    {
+      "line": 41,
+      "text": "I go on to suggest multiple concrete actions that such a revolution can include, such as:"
+    },
+    {
+      "line": 43,
+      "text": "- Stop consuming social media (which is, if we are being honest, digital junk food and something adults largely need to eliminate from a healthy content diet)."
+    },
+    {
+      "line": 44,
+      "text": "- Keep your phone plugged in and charging when at home instead of on your person."
+    },
+    {
+      "line": 45,
+      "text": "- Push Congress to follow Australia’s lead and ban social media for kids."
+    },
+    {
+      "line": 46,
+      "text": "- Build work cultures in which phones and laptops stay out of meetings, and find collaboration strategies that don’t require constant messaging."
+    },
+    {
+      "line": 47,
+      "text": "- Stop vague demands to “use AI” and instead carefully integrate these tools where they actually make us smarter, not just busier."
+    },
+    {
+      "line": 49,
+      "text": "But more important than any specific suggestion is the larger spirit of revolution. “I’m done ceding my brain — the core of all that makes me who I am — to the financial interests of a small number of technology billionaires or the shortsighted conveniences of hyperactive communication styles,” I write in the conclusion of my *Times* op-ed. “It’s time to move past fretting about our slide into the cognitive shallows and decide to actually do something about it.”"
+    }
+  ]
+}

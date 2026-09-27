@@ -1,0 +1,31 @@
+{
+  "id": 382,
+  "title": "How I Built a $1M Solo AI Business... Then Rebuilt It",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/how-i-built-a-1m-solo-ai-business.md",
+  "sha256": "d9e72749b97b6103c0504eb0c956c7c167a6b140af50bf196bbcd74917cf0166",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2389,
+  "headings": [
+    "1. The Idea Was A Public Question",
+    "2. The Vision Was Too Big, So I Cut It Down",
+    "3. Early Adopters Proved Interest Is Not The Same As Behavior",
+    "4. Launch Day Broke In Public",
+    "5. Revenue Gave Me Permission To Rebuild",
+    "Not Sure Where To Start? 👇"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 439,
+      "text": "*TLDR… I launched Blotato by using AI to test demand, vibe code my fir"
+    },
+    {
+      "line": 146,
+      "offset": 7927,
+      "text": "AI gave me a fast first version to start getting feedback."
+    }
+  ]
+}

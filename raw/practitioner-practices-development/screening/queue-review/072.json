@@ -1,0 +1,39 @@
+{
+  "queue_position": 24,
+  "id": 72,
+  "path": "raw/inbox/Practical/Ethan Mollick/claude-dispatch-and-the-power-of.md",
+  "sha256": "5c3adce7b64276e4d2ef6b5da2c5902952714f376c208ab68427eb857538fb2a",
+  "title": "Claude Dispatch and the Power of Interfaces",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 13,
+      "text": "# Claude Dispatch and the Power of Interfaces"
+    },
+    {
+      "line": 21,
+      "text": "This shouldn’t be a surprise to you if you have used a chatbot to get things done. You ask a specific question and get five paragraphs that contain the answer (somewhere!) while the AI also offers three new things you didn’t ask about. The interface itself creates cognitive costs that overwhelm the benefits of the AI’s intelligence. So what does a better interface look like?"
+    },
+    {
+      "line": 35,
+      "text": "# Using the interfaces you already have"
+    },
+    {
+      "line": 43,
+      "text": "Using a combination of Dispatch and Claude Code creates an interface that feels like talking to a competent assistant. For example, I asked Claude from my phone to prepare a morning briefing, and it reads from my calendars, emails, and online channels, then gives me a report on what I need to do next. But Cowork also does more complex work. From my phone, I asked it to look at a recent presentation I made and see if the graph in Slide 3 was up-to-date, and, if not, to update it. You can see that it got slightly stuck at one place (a site blocked it from downloading a file), but, aside from that, the results were very impressive. It opened and “viewed” the PowerPoint and investigated my entire computer for more up-to-date data. When I gave it a link to a more updated online paper, it downloaded the PDF, located the newer graph, clipped out the image of the graph, and updated my PowerPoint for me. This is sophisticated and complicated work, that, even if not always seamless, is usually close enough to save a lot of time."
+    },
+    {
+      "line": 49,
+      "text": "# Interfaces on Demand"
+    },
+    {
+      "line": 51,
+      "text": "All of this assumes that we need to decide our interfaces in advance. But the latest AI systems can actually build an interface for you. For example, over the past few weeks, Claude gained the ability to generate visualizations directly in the conversation. These aren’t static images. They’re interactive, adjustable, and Claude can modify them as you ask follow-up questions."
+    },
+    {
+      "line": 53,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!tmFI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45e99e6d-10df-4f09-90c9-c34ed3eebf44_2102x1593.png)"
+    }
+  ]
+}

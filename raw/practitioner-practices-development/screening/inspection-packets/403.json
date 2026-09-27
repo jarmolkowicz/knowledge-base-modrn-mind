@@ -1,0 +1,31 @@
+{
+  "id": 403,
+  "title": "How I created these VIRAL POWERPOINTS",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/viral-powerpoints-slides-free-notebooklm.md",
+  "sha256": "a234c1ad7c6db0541528074dea8a3572fab6bdc242d287908b4640a85181ae24",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1520,
+  "headings": [
+    "Getting Started",
+    "Beginner Prompt",
+    "Intermediate Prompt",
+    "Next Level Prompt",
+    "Additional Tips and Tricks",
+    "**P.S. Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 221,
+      "text": "Ever spent HOURS staring at a blank slide, trying to make a presentati"
+    },
+    {
+      "line": 34,
+      "offset": 2592,
+      "text": "AI does the heavy lifting of research, outlining, and ideation so you can focus on the creative storytelling that hooks people."
+    }
+  ]
+}

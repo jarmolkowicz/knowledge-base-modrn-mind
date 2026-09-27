@@ -1,0 +1,27 @@
+{
+  "id": 305,
+  "title": "How to train your own ChatGPT.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/how-to-train-your-own-chatgpt.md",
+  "sha256": "2e193c03bf8033e934b872eb35efdd6adcfe7e920f5f834ead39a084b81c0d96",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 886,
+  "headings": [
+    "#1 - How to create your GPT.",
+    "#2 - Hook Generator GPT"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 196,
+      "text": "Custom GPTs *should be* the best thing of ChatGPT."
+    },
+    {
+      "line": 152,
+      "offset": 8614,
+      "text": "2. Test it using the GPT link, like: <https://chatgpt.com/g/g-685d6f8f1c048191907f3e0cfd2b0dbf-hook-generator-gpt>."
+    }
+  ]
+}

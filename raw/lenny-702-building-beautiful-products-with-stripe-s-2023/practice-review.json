@@ -1,0 +1,33 @@
+{
+  "id": 702,
+  "group_index": 18,
+  "decision": "draft_with_limits",
+  "coverage": "Read relevant complete transcript exchanges: L265–379; 00:29:28–00:48:43. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L265–379; 00:29:28–00:48:43"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Describes Stripe’s review process and an invoice-interface fix associated with reduced support need."
+  ],
+  "proposed_outcomes": [
+    "Build shared quality judgment and identify issues."
+  ],
+  "limits": [
+    "Self-reported field use, no controlled attribution. Scores are explicitly qualitative. Internal taste supplements, not replaces, user research and actual outcomes."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/lenny-702-building-beautiful-products-with-stripe-s-2023/drafts/practices/review-quality-through-a-real-journey.md"
+  ],
+  "role": "origin",
+  "review_note": "Walk a real user journey as a multidisciplinary team; log friction, apply an explicit qualitative rubric and discuss scores.",
+  "author": "Katie Dill",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/review-quality-through-a-real-journey.md"
+  ],
+  "historical_drafts_retained": true
+}

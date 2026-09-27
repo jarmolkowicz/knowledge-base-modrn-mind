@@ -1,0 +1,33 @@
+{
+  "id": 725,
+  "group_index": 18,
+  "decision": "draft_with_limits",
+  "coverage": "Read relevant complete transcript exchanges: L561–571; 01:12:37–01:14:13. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L561–571; 01:12:37–01:14:13"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Reports one colleague found it much faster."
+  ],
+  "proposed_outcomes": [
+    "Clarify the argument before formatting."
+  ],
+  "limits": [
+    "Single anecdote; the reported time saving is not a benchmark. Paper is not essential where another accessible medium preserves author control."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/lenny-725-mastering-product-strategy-and-growing-as-2023/drafts/practices/outline-the-argument-before-slides.md"
+  ],
+  "role": "origin",
+  "review_note": "Write an outline, draw slide boxes, choose headline text, sketch visuals, then build the deck.",
+  "author": "Maggie Crowley",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/outline-the-argument-before-slides.md"
+  ],
+  "historical_drafts_retained": true
+}

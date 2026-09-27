@@ -1,0 +1,35 @@
+{
+  "queue_position": 32,
+  "id": 84,
+  "path": "raw/inbox/Practical/Ethan Mollick/on-working-with-wizards.md",
+  "sha256": "7e8dba3897e2bd09a2613fca2107073e60760b74e31a2562caa9e320cee30c46",
+  "title": "On Working with Wizards",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 12,
+      "text": "A good way to illustrate this change is to ask an AI to explain what has happened since I wrote the book. I fed my book and all 140 or so One Useful Thing posts (incidentally, I can’t believe I have written that many posts!) into NotebookLM and chose the new video overview option with a basic prompt to make a video about what has happened in the world of AI."
+    },
+    {
+      "line": 22,
+      "text": "# Asking for Magic"
+    },
+    {
+      "line": 24,
+      "text": "Right now, no AI model feels more like a wizard than GPT-5 Pro, which is only accessible to paying users. GPT-5 Pro is capable of some frankly amazing feats. For example, I gave it an academic paper to read with the instructions “critique the methods of this paper, figure out better methods and apply them.” This was not just any paper, it was my job market paper, which means my first major work as an academic. It took me over a year to write and was read carefully by many of the brightest people in my field before finally being peer reviewed and published in a major journal."
+    },
+    {
+      "line": 50,
+      "text": "# The Problems with Wizards"
+    },
+    {
+      "line": 58,
+      "text": "Not only can I not intervene, I also cannot be entirely sure what the AI system actually did. The steps that Claude reported are mere summaries of its work, GPT-5 Pro provides even less information, while NotebookLM gives you almost no insights at all into its process in creating a video. Even if I could see the steps, however, I would need to be an expert in many fields - from coding to entrepreneurship - to really have a sense of what the AI was doing. And then, of course, there is the question of accuracy. How can I tell if the AI is accurate without checking every fact? And even if the facts are right, maybe I would have made a different judgement about how to present or frame them. But I can’t do anything, because wizards don’t want my help and work in secretive ways that even they can’t explain."
+    },
+    {
+      "line": 76,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!_7Xu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd787c39-049e-40b0-8e6e-d0938a977c96_1376x864.png)"
+    }
+  ]
+}

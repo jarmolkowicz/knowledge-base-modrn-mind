@@ -1,0 +1,26 @@
+{
+  "id": 700,
+  "title": "OpenAI researcher on why soft skills are the future of work | Karina Nguyen",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/karina-nguyen/transcript.md",
+  "sha256": "a4bc268e991ef585f5e9771640da9087ca4fcbd703774260e24e58ed606a9d94",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 12225,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 801,
+      "text": "Not only are you working at the cutting edge o"
+    },
+    {
+      "line": 180,
+      "offset": 19580,
+      "text": "So it's the same thing of how personality is made in the models with those. It's very similar methods. But, yes, I think my time at OpenAI h"
+    }
+  ]
+}

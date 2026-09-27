@@ -1,0 +1,31 @@
+{
+  "id": 401,
+  "title": "This 1 Claude Skill fully replaces your Higgsfield subscription",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/this-1-claude-skill-fully-replaces.md",
+  "sha256": "51b5f5ec57b724e35871b03ecb37d61a685df990d321bd8a6be671d91cead0ae",
+  "access": "public-page",
+  "kind": "article",
+  "words": 3323,
+  "headings": [
+    "Models",
+    "Budget and ledger (never blow the spend)",
+    "Pre-animate QA gate (stop wasting video spend)",
+    "**The numbers (as of today)**",
+    "**Set this up yourself (copy this)**",
+    "Not Sure Where To Start? 👇"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 460,
+      "text": "*TLDR: Here’s the exact 5 step setup to make faceless AI videos withou"
+    },
+    {
+      "line": 108,
+      "offset": 5685,
+      "text": "- An AI agent. Claude Code, Codex, Hermes, or Openclaw, all work great . Any agent can read the skill, OpenClaw included. The skill is a SKILL.md file on the agentskills.io open standard, so it also runs in Ope"
+    }
+  ]
+}

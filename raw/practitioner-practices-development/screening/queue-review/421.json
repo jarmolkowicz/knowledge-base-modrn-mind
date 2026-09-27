@@ -1,0 +1,60 @@
+{
+  "queue_position": 120,
+  "id": 421,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-disclosure-statement-template.md",
+  "sha256": "ccc9adc95ad861171af293e0db7c8816854465caf60b6d4efe55c5ec8d501a0c",
+  "title": "Your AI Policy Does Not Apply to the Person Who Wrote It",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L29 #### **What MIT said about AI detectors**",
+    "L49 #### **The half of the report nobody covered**",
+    "L63 #### **Two in five UK institutions have nothing to declare**",
+    "L79 #### **The disclosure statement I use**",
+    "L95 #### **How to write your own in ten minutes**",
+    "L114 #### **If you teach, write it with your students**",
+    "L134 #### **If you do not teach, this is still your problem**",
+    "L152 #### **What this actually changes**"
+  ],
+  "passages": [
+    {
+      "line": 79,
+      "text": "#### **The disclosure statement I use**"
+    },
+    {
+      "line": 83,
+      "text": "> **How AI was used in this piece.** I used Claude (Opus 5) to pressure-test the argument and to check quotations against the original reports. It provided edits and suggestions for improvements, but it did not write the first draft. Every source named here I checked and opened myself. Where I have quoted, the quotation is verbatim and has been checked. The judgements, and the errors, are mine."
+    },
+    {
+      "line": 114,
+      "text": "#### **If you teach, write it with your students**"
+    },
+    {
+      "line": 116,
+      "text": "A disclosure statement written by a committee and issued to students is another policy about them. Written in the room, in week one, with the people it governs, it becomes something else. Ask your students what they think is fair. Ask what they would want to know about how their work is marked. Ask them to draft the paragraph that covers you."
+    },
+    {
+      "line": 120,
+      "text": "Then hold yourself to it in public for a term. The first time you tell a group of students that you used a model to draft their feedback and then rewrote it, you will find out what your policy is actually worth."
+    },
+    {
+      "line": 134,
+      "text": "#### **If you do not teach, this is still your problem**"
+    },
+    {
+      "line": 138,
+      "text": "Commission work and your suppliers are guessing at your position, then pricing the risk in. A disclosure line at the bottom of a proposal is a competitive advantage, because most of your competitors will not write one."
+    },
+    {
+      "line": 152,
+      "text": "#### **What this actually changes**"
+    },
+    {
+      "line": 154,
+      "text": "Detection asks a question with no answer in it. You cannot prove you did not use a tool, and the people worst served by being asked are the ones who already write differently from the expected pattern."
+    },
+    {
+      "line": 156,
+      "text": "Disclosure asks a question that can be answered. It applies to everyone in the room. It takes ten minutes, and it puts the burden on the person with the most power in the exchange, which is where burdens belong."
+    }
+  ]
+}

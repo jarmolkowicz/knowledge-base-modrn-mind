@@ -1,0 +1,32 @@
+{
+  "id": 509,
+  "title": "Stop AI From Agreeing With Everything You Say",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/stop-ai-agreeing-debate-prompt.md",
+  "sha256": "98d17a37561f5533075460f6a53feff2205128f5dc821397a3fcf5851fc0cde8",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1561,
+  "headings": [
+    "**Why AI agreement weakens your thinking**",
+    "**How to run a ten-round AI debate**",
+    "**Real example: how [Gencay](https://open.substack.com/users/162064751-gencay?utm_source=mentions) tested the prompt**",
+    "**When AI flatters, your voice fades**",
+    "**What to share**",
+    "**What careful AI use teaches you**",
+    "**From [What Did You Love Before It Had to Matter?](https://theslowai.substack.com/p/what-did-you-love-before-it-had-to-matter)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 244,
+      "text": "Chatbots often fall into agreement. You ask for advice. They affir"
+    },
+    {
+      "line": 22,
+      "offset": 1193,
+      "text": "Most talk about AI bias focuses on datasets or guardrails. That view matters, but the lived experience of bias often arrives through tone. When a system flatters your instincts, rewards certainty, and"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 542,
+  "author": "Alisa Cohn, interviewed by Lenny Rachitsky",
+  "group_index": 13,
+  "decision": "retain",
+  "locators": [
+    "00:49:19–00:55:56; L455–498"
+  ],
+  "basis": "Executive-coaching practice explanation",
+  "reported_outcomes": [
+    "Reports inconsistent understandings in meetings she observes; no quantified comparison."
+  ],
+  "proposed_outcomes": [
+    "Make decisions, owners, timing and communication obligations explicit."
+  ],
+  "limits": [
+    "A visible summary can silence disagreement if it appears settled too early.",
+    "AI adaptation is inferred, not evaluated in the interview.",
+    "Being listed as owner does not establish actual agreement or authority."
+  ],
+  "review_note": "Retain independent accounts of what was decided before reconciling the final record.",
+  "coverage": "Close-read complete relevant transcript exchanges at listed timestamps and surrounding context; not full 784-line transcript; audio/video not reviewed.",
+  "related_entries": [
+    "agency",
+    "anderson-homogenization-2024"
+  ],
+  "practice_files": [
+    "raw/lenny-542-scripts-for-navigating-difficult-conversations-alisa-2025/drafts/practices/check-what-each-person-thinks-was-decided.md"
+  ],
+  "role": "origin",
+  "draft_only": true,
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/check-what-each-person-thinks-was-decided.md"
+  ],
+  "historical_drafts_retained": true
+}

@@ -1,0 +1,26 @@
+{
+  "id": 805,
+  "title": "The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/shreyas-doshi-live/transcript.md",
+  "sha256": "7a7e51e198b7120710411272f3acb5a15eb12fb003709e72f3463c9f53aaf5db",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 7018,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 827,
+      "text": "Today, I am super excited to bring you a ve"
+    },
+    {
+      "line": 231,
+      "offset": 27524,
+      "text": "And when I asked myself this question, and again, I really had to dig deep. It wasn't easy, but at some point I realized that no, "
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "queue_position": 191,
+  "id": 544,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/amjad-masad/transcript.md",
+  "sha256": "a00d03bc0a8e15789c0f09cb31c2673fbbc1b0cd77ce50cb3016f5e8ec1af7ec",
+  "title": "Behind the product: Replit | Amjad Masad (co-founder and CEO)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L34 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 123,
+      "text": "Amjad Masad (00:13:47):"
+    },
+    {
+      "line": 124,
+      "text": "Yes. Exactly. Exactly. All right, so we're going to start building. Since this is a pretty big, big prompt, the initial coding might take a while. There's different styles of using Replit agents. I often go with minimalist prompts. That's also how I code as well. I have a vague idea for what I want to build and iterate from there. Other people, product managers like to write PRDs and more descriptive things, and you can do either of those things. The AI now responded and then said, I'll build all of that for you. I'm going to build up the initial prototype and you can tell me how it feels, and then we can make it better from there. The AI is also suggesting, adding comment threads, implementing email notifications, and so I can select those and it's being creative, it's telling me what else I could build, but for now, I'm just going to go with a prototype and then we can assess from there."
+    },
+    {
+      "line": 273,
+      "text": "(00:32:51):"
+    },
+    {
+      "line": 274,
+      "text": "The most important model that we use is the Sonnet model from Claude, from Anthropic, and it is the best model at coding. So that's the model we use for coding, but we use models from OpenAI as well because a multi-agent system. And so we have models that are critiquing. We have manager editor model, and we have a critique model and different models will have different powers. We also train some of our models, like the embedding model for search is something we trained internally. So I actually wrote about it back in '22. I said it's going to be society of models, like products will be made of a lot of different models, and it's quite a heavy engineering project."
+    }
+  ]
+}

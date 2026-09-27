@@ -1,0 +1,30 @@
+{
+  "id": 490,
+  "title": "Teach AI to Say I Don't Know",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-9-teach-it-to-say-i-dont.md",
+  "sha256": "c20d3d10ee4a242d22ba5df9250bf0612f741fac3d4c313847526f7d5c90b82c",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 660,
+  "headings": [
+    "**Step-by-step**",
+    "**A moment from me**",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**From Slow AI #8 – Teach It to Use Less**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 212,
+      "text": "If you’re new here, *Slow AI* is a weekly series of gentle prompts"
+    },
+    {
+      "line": 16,
+      "offset": 503,
+      "text": "The aim is not speed or productivity. It’s to slow down, to ask different questions, and to let AI help us notice what we might otherwise miss."
+    }
+  ]
+}

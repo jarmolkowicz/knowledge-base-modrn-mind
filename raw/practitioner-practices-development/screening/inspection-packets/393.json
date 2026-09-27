@@ -1,0 +1,32 @@
+{
+  "id": 393,
+  "title": "I Asked ChatGPT To Make Me As Much Money As Possible",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/i-asked-chatgpt-to-make-me-money-prompt-chain.md",
+  "sha256": "9e9ce09a2ee1190a05f7e97b0caf0ed5e83495b79a7514319cff6c6e47467163",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1056,
+  "headings": [
+    "Prerequisite: Establish Context",
+    "Beginner Prompt Chain",
+    "Prompt #1:",
+    "Prompt #3:",
+    "Intermediate Bonus Prompt",
+    "Next-Level Bonus Prompt",
+    "**P.S. Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 261,
+      "text": "> On my last AI Livestream, I closed with my official music debut! It’"
+    },
+    {
+      "line": 84,
+      "offset": 5155,
+      "text": "Don’t be afraid to ask clarifying questions, push back, propose alternatives, question ChatGPT’s choice, etc. For example, I asked ChatGPT why it chose this high-ticket Done For You offer instead of selling cou"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 349,
+  "title": "Train.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/youtube.md",
+  "sha256": "775bacbb3ec7f6338c13575ec2747fbc77ba1764972ed1afb9183d740e677e84",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 232,
+  "headings": [
+    "**You are new? Check my archive of guides:**",
+    "**How to find the best videos to train your AI.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 150,
+      "text": "It is the biggest collection of free masterclasses on anything."
+    },
+    {
+      "line": 29,
+      "offset": 843,
+      "text": "But what if you could turn hours of free videos into a perfectly trained AI?"
+    }
+  ]
+}

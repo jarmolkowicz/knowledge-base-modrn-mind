@@ -1,0 +1,42 @@
+{
+  "queue_position": 165,
+  "id": 494,
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-takes-ep-11-what-the-ai-did.md",
+  "sha256": "37328c263cfe489b5510c75657dba059f66cc7fe552241383cf173ef4a12f389",
+  "title": "Slow Takes Ep. 11: What the AI Did While You Slept",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L23 #### **1. Anthropic taught Claude to dream**",
+    "L35 #### **2. Claude was used to attack a Mexican water utility**",
+    "L47 #### **3. Pennsylvania sued Character.AI for impersonating a doctor**",
+    "L59 #### **4. Meta installed surveillance to train the agents replacing its workers**",
+    "L71 #### **5. Princeton ended 133 years of self-policing**",
+    "L85 #### **The thread**"
+  ],
+  "passages": [
+    {
+      "line": 23,
+      "text": "#### **1. Anthropic taught Claude to dream**"
+    },
+    {
+      "line": 33,
+      "text": "The procurement question is the one to take from this story. If ‘preferences that have emerged across a team of agents’ are being consolidated into shared memory, then the same enterprise feature that promises your Claude deployment will get better at your work is also, by design, transferring patterns across customers whose engagements were sold as private. Anthropic published a write-up of how the consolidation is observable and auditable. Read it before you renew. The second question for anyone running these tools on real work this week is operational. You are now also responsible for what your agent learned overnight. Reset, audit and reset again is the floor. The third question is the harder one, and it is the one AI Doesn’t Just Make You Worse. It Makes You Stop Trying. already opened: when the tool gets quietly better while you are asleep, you have to work harder, not less hard, to notice that you have stopped noticing."
+    },
+    {
+      "line": 35,
+      "text": "#### **2. Claude was used to attack a Mexican water utility**"
+    },
+    {
+      "line": 45,
+      "text": "This is the operational counterpart to Story 1. The same lab that shipped autonomous self-improvement was named in the attempted attack. The OpenAI co-implication is the structural finding: this is not an Anthropic-specific failure, it is a frontier-lab failure. Procurement officers buying enterprise Claude licences this quarter should read the Dragos report before signing, and should ask their vendor a single question: what attempts have your models been used in that you have not disclosed?"
+    },
+    {
+      "line": 85,
+      "text": "#### **The thread**"
+    },
+    {
+      "line": 91,
+      "text": "Critical AI literacy is what puts the question back into the room. To make sure that wherever the system sits, somebody has been asked."
+    }
+  ]
+}

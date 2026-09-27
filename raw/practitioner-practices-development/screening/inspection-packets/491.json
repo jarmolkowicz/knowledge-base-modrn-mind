@@ -1,0 +1,28 @@
+{
+  "id": 491,
+  "title": "Archival Silence: A Proof of Concept for the Slow AI Curriculum",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-curriculum-archival-silence.md",
+  "sha256": "33a606323b0bb5df2194d8da1b8c0505eb882fa229feece1c42dbce65bbbb9ef",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 916,
+  "headings": [
+    "**The theory**",
+    "**The prompt**",
+    "**The dialogue**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 285,
+      "text": "The *Slow AI Curriculum for AI Literacy* is now open for registrat"
+    },
+    {
+      "line": 82,
+      "offset": 6545,
+      "text": "In the comments below, please share the summary your AI tool generated using the above prompt and highlight any omissions that you think it might have made."
+    }
+  ]
+}

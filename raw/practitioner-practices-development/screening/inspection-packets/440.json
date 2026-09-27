@@ -1,0 +1,34 @@
+{
+  "id": 440,
+  "title": "The Work AI Handed Back",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-rehiring-workers-replaced.md",
+  "sha256": "2db0fe6162d2fd22414a211828b6c23efcdef59d09937f2f092f6c501ba763c1",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1398,
+  "headings": [
+    "**In this post I will:**",
+    "**What Ford found when the machine did the inspecting**",
+    "**What IBM found in the other 6%**",
+    "**The third case**",
+    "**What the three reversals have in common**",
+    "**The 6% in seven professions**",
+    "**The three-question test**",
+    "**What to do when your manager cannot see it**",
+    "**Why this matters**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 381,
+      "text": "Ford spent years handing vehicle quality checks to automated systems, "
+    },
+    {
+      "line": 61,
+      "offset": 3189,
+      "text": "Commonwealth Bank of Australia cut 45 customer service roles in 2025, saying an AI voice bot had reduced call volumes by two thousand a week. In reality, the bank was offering staff overtime and putting team le"
+    }
+  ]
+}

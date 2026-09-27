@@ -1,0 +1,39 @@
+{
+  "id": 390,
+  "title": "How to Set Up ChatGPT Astra & Build Minecraft!",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/how-to-set-up-chatgpt-astra-and-build-minecraft.md",
+  "sha256": "ff5411a105ae2ffb25509833f0726643ca21296b6f9a1a4dadeb342544d578f2",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1451,
+  "headings": [
+    "Play Astra’s Minecraft clone here:",
+    "Watch the best game clips here!",
+    "1. What Is ChatGPT Astra?",
+    "2. Install ChatGPT Work And Select Astra",
+    "3. Enable Computer Use And Run A Test",
+    "4. Let’s Build Minecraft!",
+    "What Happened First…",
+    "The Features Started Working Together",
+    "What Astra Actually Did",
+    "5. Recap",
+    "FAQ",
+    "Is ChatGPT Astra faster at Computer Use?",
+    "Why do I not see Astra?",
+    "Do I need to build a game to use Computer Use?"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 17,
+      "offset": 477,
+      "text": "In only 8 minutes, GPT-6 Astra made Minecraft."
+    },
+    {
+      "line": 68,
+      "offset": 2118,
+      "text": "If Astra is missing, update your ChatGPT first."
+    }
+  ]
+}

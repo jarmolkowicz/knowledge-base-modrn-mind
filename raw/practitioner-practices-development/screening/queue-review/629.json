@@ -1,0 +1,37 @@
+{
+  "queue_position": 246,
+  "id": 629,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/eric-simons/transcript.md",
+  "sha256": "b7a5d4d7bb420d69cf68f7849f497c47380a34a0b87a9cf74fd07634525223ed",
+  "title": "Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 441,
+      "text": "Eric Simons (00:49:08):"
+    },
+    {
+      "line": 442,
+      "text": "Yeah, I mean, especially... When you're starting greenfield stuff, you can use Bolt to build... you know. Like Salesforce, as an example. One of the first people that signed up for Bolt was this guy named Paul, and he's an entrepreneur, and doesn't know how to code. Built a CRM in three weeks, that has AI built into it and Stripe for billing, et cetera. He had gotten a quote from an agency for this, it was going to be 30 grand, and take six months. He had done in three weeks, and I think he spent 300 bucks on Bolt for the thing. So it's like, this is... And he's making money off of this. This is his start. Right?"
+    },
+    {
+      "line": 573,
+      "text": "(01:07:36):"
+    },
+    {
+      "line": 574,
+      "text": "And lo and behold, that's exactly what has happened. But yeah, that's the big deal that is, kind of under the hood, this is... What's going on here is, a very critical threshold has been passed with LLM's ability to write production grade code and apps that actually look beautiful, and actually function well. It's not perfect, but there's kind of this zero to one moment that's happened where it's like, \"Okay, so now, yeah. Now the AI is the first thing,\" and then you're kind of popping a developer in every now and then, versus the other way around."
+    },
+    {
+      "line": 594,
+      "text": "(01:09:13):"
+    },
+    {
+      "line": 595,
+      "text": "What I didn't really think about though, is if AI, if LLMs are going to get better at a specific vertical, which are going to be the things that it would be. And if you look at law, for example, you want to make the best LLM for looking at case law. The problem with that stuff is, it's not deterministic. The judge's ruling is dependent on society's view of things at the time, political stuff going on, the jury. There's a ton of things, that it's not deterministic. And so you can't really create a lot of training data that's going to be super reliable, and produce really good results. And you can't just make up cases and say, \"Theoretically, the judge would say this.\" Because, I mean, it just doesn't work."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 199,
+  "title": "OpenAI is charging $20K/month for an AI employee",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/openai-is-charging-20kmonth-for-an.md",
+  "sha256": "205b0b1416099b8bd2745eb6c400dcfd02be19443fc832544cd8b0f028f487fa",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 247,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 247,
+      "text": "The unit of work in software just changed from instructions to tokens. If you’re still"
+    },
+    {
+      "line": 12,
+      "offset": 561,
+      "text": "This isn’t about whether AI will replace developers. The developer role is splitting into three distinct tracks, and the middle of the old distribution is the most exposed. Enterprises are reorganizing around intelligence throughput instead of headcount. Start"
+    }
+  ]
+}

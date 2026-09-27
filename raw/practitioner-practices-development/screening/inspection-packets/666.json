@@ -1,0 +1,26 @@
+{
+  "id": 666,
+  "title": "Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jackson-shuttleworth/transcript.md",
+  "sha256": "7bfe0ce1f2642bc1a2d4ddde4211ba2e44985b6ae797ee47de0ecc23086082e9",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 17967,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 851,
+      "text": "... Duolingo is a $14 billion company, it's hi"
+    },
+    {
+      "line": 163,
+      "offset": 17962,
+      "text": "Duolingo has very much, has a strong test it philosophy, we're willing to test a lot of different... Honestly, we'd much rather test it than"
+    }
+  ]
+}

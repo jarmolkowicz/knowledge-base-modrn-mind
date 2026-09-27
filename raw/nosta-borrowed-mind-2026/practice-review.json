@@ -1,0 +1,42 @@
+{
+  "id": 880,
+  "group_index": 2,
+  "decision": "retain",
+  "role": "origin",
+  "locators": [
+    "Printed chapter 7, Reclaiming Agency; EPUB [ch.25 — xhtml/xhtml-0-24.xhtml], source.md L113; Sequence Matters and Protect the Baseline"
+  ],
+  "basis": "John Nosta’s philosophical/practitioner synthesis, with secondary research interpretation.",
+  "reported_outcomes": [
+    "Proposes periodic unaided performance checks and deliberate practice without assistance; no evaluation of the proposed routine."
+  ],
+  "proposed_outcomes": [
+    "Track a specific capability separately from assisted output."
+  ],
+  "limits": [
+    "Underlying clinical study not independently verified locally. Do not turn a reported performance drop into proven skill atrophy. The MIT crossover is not proof of the precise outline-first intervention claimed. No validated alternation ratio or interval."
+  ],
+  "related_entries": [
+    "strategic-alternation",
+    "think-first",
+    "nosta-ai-rebound-2025",
+    "nosta-borrowed-mind-2026"
+  ],
+  "review_note": "Retain conditional baseline-check draft; existing source remains integrated, with update proposal only. This adds no new empirical confirmation.",
+  "practitioner": "Practise safely; retain accommodations and avoid removing safeguards in live high-stakes work.",
+  "coverage": "Read the complete printed Chapter 7 (Reclaiming Agency), its heading/contents and existing KB entry; not the whole book.",
+  "practice_files": [
+    "raw/mollick-066-against-brain-damage-2025/drafts/practices/save-your-own-starting-point.md",
+    "raw/nosta-borrowed-mind-2026/drafts/practices/check-a-capability-without-the-assistant.md"
+  ],
+  "source_path": "raw/nosta-borrowed-mind-2026/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/save-your-own-starting-point.md",
+    "practices/check-a-capability-without-the-assistant.md"
+  ],
+  "historical_drafts_retained": true
+}

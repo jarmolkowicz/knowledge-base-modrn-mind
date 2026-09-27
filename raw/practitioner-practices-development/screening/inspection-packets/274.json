@@ -1,0 +1,34 @@
+{
+  "id": 274,
+  "title": "The new Claude charts.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/claude-charts.md",
+  "sha256": "42c65915aca5541670c6cd6dc398b625678e4e560a60d91b956b53b97f9a2c29",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 676,
+  "headings": [
+    "**How to create an interactive chart.**",
+    "**Example #1. How much money to invest?**",
+    "**Example #2. Understand the exponential.**",
+    "**Example #3. Learn chess, with interactions.**",
+    "**How to share it with others.**",
+    "How to share it with your team",
+    "How to share it with your client",
+    "**Be that person.**",
+    "**archive of my past blogs: https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 164,
+      "text": "Claude is launching a new feature every single day."
+    },
+    {
+      "line": 69,
+      "offset": 1853,
+      "text": "💡 **Pro tip**: You can ask Claude to first gather information by deeply searching the web / finding consensus. And then ask for the interactive chart."
+    }
+  ]
+}

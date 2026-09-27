@@ -1,0 +1,38 @@
+{
+  "id": 464,
+  "group_index": 0,
+  "decision": "merge",
+  "role": "support",
+  "locators": [
+    "L15–45, correction and arithmetic",
+    "L113–139, accessibility and five actions"
+  ],
+  "basis": "Sam Illingworth combines environmental commentary and five proposed actions.",
+  "reported_outcomes": [
+    "Reports correcting an earlier public note after reader feedback; no evaluated behavioral outcomes."
+  ],
+  "proposed_outcomes": [
+    "Check whether output serves anyone; ask procurers for environmental evidence."
+  ],
+  "limits": [
+    "Internal arithmetic error: 1–2 trillion litres/year divided by 365 and 5.4 million litres/training yields about 507–1,015 trainings/day, not hundreds of thousands. Model size or price is not a verified environmental ranking. Policy and per-query figures require separate verification."
+  ],
+  "related_entries": [
+    "effort-investment-review"
+  ],
+  "review_note": "Retain output-necessity support only in this allocation. Environmental procurement is a separate evidence task; no environmental saving estimate enters the draft.",
+  "practitioner": "Preserve the explicit accessibility caveat. A useful access aid is not waste simply because its benefit is personal.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [
+    "raw/newport-022-avoiding-digital-productivity-traps-2026/drafts/practices/choose-the-result-before-the-tool.md"
+  ],
+  "source_path": "raw/illingworth-464-the-actual-environmental-cost-of-ai-2026/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/choose-the-result-before-the-tool.md"
+  ],
+  "historical_drafts_retained": true
+}

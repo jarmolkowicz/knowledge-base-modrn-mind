@@ -1,0 +1,33 @@
+{
+  "id": 755,
+  "group_index": 18,
+  "decision": "draft_with_limits",
+  "coverage": "Read relevant complete transcript exchanges: L148–188; 00:16:22–00:22:56. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L148–188; 00:16:22–00:22:56"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Describes annual and quarterly internal communication practice."
+  ],
+  "proposed_outcomes": [
+    "Make the message responsive to the audience’s situation."
+  ],
+  "limits": [
+    "First-person company account, no measured comprehension or behavioral change. Leaders may not represent the whole audience; psychological and biographical causal claims excluded."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/lenny-755-storytelling-with-nancy-duarte-how-to-2023/drafts/practices/listen-before-shaping-the-message.md"
+  ],
+  "role": "origin",
+  "review_note": "Listen through interviews/surveys before an internal talk; compare needs with the requested change and rehearse an ugly rough cut with leaders.",
+  "author": "Nancy Duarte",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/listen-before-shaping-the-message.md"
+  ],
+  "historical_drafts_retained": true
+}

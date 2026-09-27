@@ -1,0 +1,37 @@
+{
+  "queue_position": 298,
+  "id": 701,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/karri-saarinen/transcript.md",
+  "sha256": "9d9166822e969d2d6849dba858c9eb553eb5c2249911d7ae1caf532a0adaae87",
+  "title": "Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder, designer, CEO)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 63,
+      "text": "(00:03:28):"
+    },
+    {
+      "line": 64,
+      "text": "Now with Composer you can automate your trading with a library of over 1,000 strategies that are easy to understand and tweak using an AI assistant and visual editor. Composer is the first ever algorithmic trading platform where you don't need any coding experience and includes a full range of trading indicators for you to get creative and a Discord community of 2,500 traders to discuss your ideas with. Composer also has a powerful back tester to see the historical performance of your strategies and you can then invest with a single click."
+    },
+    {
+      "line": 300,
+      "text": "(00:42:27):"
+    },
+    {
+      "line": 301,
+      "text": "And then the team can try to focus on those things. Now if something happens, like I don't know, we really need to jump on this other thing. At least there was some kind of initial state that we decided before we want to do these things and then now something else happened and so now we have to go on this thing. So you have an answer when someone comes to you to ask, \"Why didn't you do this other thing before?\" Then you can say, \"Well, we did decide to do that, but then something happened and we had to do this other thing.\""
+    },
+    {
+      "line": 579,
+      "text": "Karri Saarinen (01:21:17):"
+    },
+    {
+      "line": 580,
+      "text": "Yeah. I think, for us, there can be sometimes... For example, now we have... Most of the AI companies are using us, so I think it's always... Before that, it was a crypto company, so I think there's... When we see these kinds of things happening, then we start to think like, \"Could we do something differently or could we get more of these AI companies on board?\""
+    }
+  ]
+}

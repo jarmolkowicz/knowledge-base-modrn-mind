@@ -1,0 +1,50 @@
+{
+  "slug": "mollick-077-innovation-through-prompting-2024",
+  "original_filename": "innovation-through-prompting.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 2027,
+  "hash": "bb16d8ee9d9b5be84fb287d51a6b2a6d1f56a3912b4b034cef1fa53532b4e0db",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:41Z",
+  "decisions": [
+    {
+      "stage": "practice-close-reading",
+      "outcome": "retain",
+      "at": "2026-09-26",
+      "scope": "draft-only; integration pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/mollick-077-innovation-through-prompting-2024.md",
+      "practices": [
+        "practices/teach-a-simulated-learner.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 75,
+  "screening_id": 77,
+  "collected_from": "raw/inbox/Practical/Ethan Mollick/innovation-through-prompting.md",
+  "bibliographic_metadata": {
+    "title": "Innovation through prompting",
+    "date": "2024-04-22",
+    "url": "https://www.oneusefulthing.org/p/innovation-through-prompting",
+    "collection": "Ethan Mollick"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

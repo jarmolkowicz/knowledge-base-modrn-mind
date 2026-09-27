@@ -1,0 +1,24 @@
+{
+  "id": 386,
+  "title": "How to Build an AI Startup",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/how-to-build-an-ai-startup.md",
+  "sha256": "fd80bacc1ea34798ebc26d312bb5034ba3b9d625a91ba48c03374c0c4cce3111",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1067,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 185,
+      "text": "A decade earlier, building an AI startup was incredibly hard."
+    },
+    {
+      "line": 101,
+      "offset": 7341,
+      "text": "In the New Way, tasks that were previously very hard (e.g. text summarization) are now much easier with minimal finetuning and out-of-the-box LLMs. You can get pretty far by finetuning your prompts, no coding r"
+    }
+  ]
+}

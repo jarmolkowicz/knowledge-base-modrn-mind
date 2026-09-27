@@ -1,0 +1,53 @@
+{
+  "queue_position": 145,
+  "id": 463,
+  "path": "raw/inbox/Practical/Sam Illingworth/illusion-of-control-ai-adoption.md",
+  "sha256": "ad6988e1f40c4bb13f35a1fc42247a34f7eb200d9bc74dc6f759e0a1d20c16aa",
+  "title": "The Illusion of Control",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L30 #### **What the Formula 1 problem reveals about AI adoption**",
+    "L42 #### **A moment from** [Anna Levitt](https://open.substack.com/users/4848460-anna-levitt?utm_source=mentions)",
+    "L76 #### **What to share**",
+    "L84 #### **Why AI literacy must come before AI deployment**",
+    "L96 #### **From [Why AI Emotional Advice Feels Safe But Isn’t](https://theslowai.substack.com/p/should-child-use-ai-emotional-advice)**"
+  ],
+  "passages": [
+    {
+      "line": 16,
+      "text": "Speed disguises itself as progress. Organisations distribute AI tools before anyone knows how to use them safely, then call the chaos adoption. Teams freeze, second-guess, or perform competence. None of these are transformation. They are survival postures."
+    },
+    {
+      "line": 76,
+      "text": "#### **What to share**"
+    },
+    {
+      "line": 78,
+      "text": "Run the Formula 1 prompt this week. Then sit with what comes back. Notice which part of the response you recognise from your own experience. The sensation of power without preparation. The pressure to keep moving. The moment you realised nobody trained you for this."
+    },
+    {
+      "line": 84,
+      "text": "#### **Why AI literacy must come before AI deployment**"
+    },
+    {
+      "line": 88,
+      "text": "Most organisations cannot answer any of these. They deployed first and hoped literacy would follow. It did not. What followed was performance: teams pretending competence because admitting confusion looks like resistance."
+    },
+    {
+      "line": 96,
+      "text": "#### **From Why AI Emotional Advice Feels Safe But Isn’t**"
+    },
+    {
+      "line": 102,
+      "text": "Alyssa Fu Ward, PhD named the question that every leader should be asking: “I find myself trying to balance between - where is the harm in using AI in these situations and where is the human still present and the AI has just moved the starting point?”"
+    },
+    {
+      "line": 104,
+      "text": "Davina's Place caught something that applies to boardrooms as much as classrooms. She described watching teenagers “mistake the requirement to complete, for example, an essay as being about the end product not the process.” Replace ‘essay’ with ‘quarterly AI integration target’ and you have the illusion of control in one sentence."
+    },
+    {
+      "line": 106,
+      "text": "That is the pattern Anna | how to boss AI is naming at the organisational level. The tool produces output. The output looks finished. Leaders call it adoption. But the learning never started. The car responded. Nobody learned to drive."
+    }
+  ]
+}

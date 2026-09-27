@@ -1,0 +1,26 @@
+{
+  "id": 674,
+  "title": "We replaced our sales team with 20 AI agents—here’s what happened next | Jason Lemkin (SaaStr)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jason-m-lemkin/transcript.md",
+  "sha256": "f8dbfa59575511ac459ba5b2a2909ee55e382c11c8230713d439ca591d69261c",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 25838,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 845,
+      "text": "Here's the mistake that 99% of founders and sa"
+    },
+    {
+      "line": 667,
+      "offset": 100787,
+      "text": "The number one thing they can do, and this is very tactical, at the end of each meeting, because again, both of them are good middlers, the "
+    }
+  ]
+}

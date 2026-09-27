@@ -1,0 +1,24 @@
+{
+  "id": 39,
+  "title": "On Bottlenecks and Productivity",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/on-bottlenecks-and-productivity.md",
+  "sha256": "ea1461f2c39be3d4536cb06e465ac3fcfa961c4a20d7eab7fe3483d571cb8e35",
+  "access": "public-page",
+  "kind": "article",
+  "words": 457,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 384,
+      "text": "David Epstein, the #1 *New York Times* bestselling author of ​*The Sports Gene*​ and ​*Range*​, has a new book out calle"
+    },
+    {
+      "line": 31,
+      "offset": 3794,
+      "text": "When we deploy a digital tool like email to speed up communication, or generative AI to create (sloppy) slide presentations quickly, we don’t automatically become better at our jobs. If these steps don’t improve the bottleneck in our process – the key link where the real value is produced – then, as in the chicken coop example, they’re just as likely to crea"
+    }
+  ]
+}

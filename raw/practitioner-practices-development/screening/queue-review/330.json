@@ -1,0 +1,81 @@
+{
+  "queue_position": 81,
+  "id": 330,
+  "path": "raw/inbox/Practical/Ruben Hassid/slow.md",
+  "sha256": "121013970cd491c09ffe8975b4945e2389ab77ad17b9cecd1f68be83886837d7",
+  "title": "Slow.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L16 ## **January Broke You** *(& You Didn’t Even Notice)*",
+    "L24 #### **That’s January. One month of 2026.**",
+    "L40 #### Why are you so slow when AI is so fast?",
+    "L48 ## **You’re Measuring The** *Wrong* **Speed**",
+    "L80 ## **Your Brain Protects You** *(& that’s the problem)*",
+    "L104 ## **The 4 Traps Keeping You** *Painfully* **Stuck**",
+    "L110 #### **Trap 1: The Permission Loop**",
+    "L130 #### **Trap 2: The News Addiction**",
+    "L148 #### **Trap 3: The Tool Carousel**",
+    "L160 #### **Trap 4: The Reflex Problem**",
+    "L182 ## **Start This Week** *(Not Someday → This Week)*",
+    "L188 #### **Act 1: Show, don’t ask.**",
+    "L194 #### **Act 2: For every article you read, try one thing.**",
+    "L208 #### **Act 3: Pick one tool. Commit for 30 days.**",
+    "L216 #### **Act 4: AI is the mirror, not the teacher.**",
+    "L226 ## **Play Like A Kid** *(The Only Advice That Matters)*",
+    "L254 ## **Too long, didn’t read.**"
+  ],
+  "passages": [
+    {
+      "line": 80,
+      "text": "## **Your Brain Protects You** *(& that’s the problem)*"
+    },
+    {
+      "line": 96,
+      "text": "**The adoption curve.** A researcher named Everett Rogers mapped the spread of innovations. Only 2.5% of people are true early adopters *(the ones who try new things before anyone else)*. The next 13.5% are early majority. **The remaining 84% wait**. They wait until the change is too obvious to avoid."
+    },
+    {
+      "line": 110,
+      "text": "#### **Trap 1: The Permission Loop**"
+    },
+    {
+      "line": 112,
+      "text": "You were trained your whole career to ask first. Get buy-in. Align stakeholders. Socialize the idea. Make sure everyone’s comfortable before you move."
+    },
+    {
+      "line": 148,
+      "text": "#### **Trap 3: The Tool Carousel**"
+    },
+    {
+      "line": 150,
+      "text": "You started with ChatGPT. Then you heard Claude was better for writing. So you switched. Then Gemini had that massive context window. So you tried that. Then Perplexity seemed better for research. So you added that to the rotation."
+    },
+    {
+      "line": 156,
+      "text": "Meanwhile, someone else picked ChatGPT eighteen months ago and never left. They learned Projects. They learned Custom Instructions. They learned how to build GPTs. They went deep. And they’re running circles around you."
+    },
+    {
+      "line": 188,
+      "text": "#### **Act 1: Show, don’t ask.**"
+    },
+    {
+      "line": 192,
+      "text": "Do the thing quickly *(the scrappy AI first draft)* → then show it to the client at the meeting → and sell it on the premise of what could be done *once* they pay for it."
+    },
+    {
+      "line": 216,
+      "text": "#### **Act 4: AI is the mirror, not the teacher.**"
+    },
+    {
+      "line": 218,
+      "text": "You need a draft and a final product. Stop doing both yourself. It’s slow. It’s exhausting. And your first drafts are mediocre anyway. Stop doing both with AI. It’s generic. It’s soulless. And it sounds like everyone else."
+    },
+    {
+      "line": 254,
+      "text": "## **Too long, didn’t read.**"
+    },
+    {
+      "line": 262,
+      "text": "Four moves get you out. Show, don’t ask. Read one article, try one thing. One tool, thirty days. AI is a mirror, not a teacher."
+    }
+  ]
+}

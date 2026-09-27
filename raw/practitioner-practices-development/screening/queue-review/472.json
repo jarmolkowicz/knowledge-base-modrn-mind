@@ -1,0 +1,33 @@
+{
+  "queue_position": 148,
+  "id": 472,
+  "path": "raw/inbox/Practical/Sam Illingworth/openai-navier-stokes-anthropic-slowdown.md",
+  "sha256": "d9ddfb1261c8794d87b1da35aaf5e09d421b899e9581202cfa8029c8bdd93c4e",
+  "title": "Slow Takes Ep. 27: Marking Their Own Homework",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L25 #### **1. OpenAI says it solved Navier-Stokes**",
+    "L31 #### **2. Anthropic’s report card, and a call to slow down**",
+    "L37 #### **3. 40,200 jobs, or 10,400**",
+    "L43 #### **4. Alpha School’s heart-rate test**",
+    "L49 #### **5. A camera in your toothbrush**"
+  ],
+  "passages": [
+    {
+      "line": 31,
+      "text": "#### **2. Anthropic’s report card, and a call to slow down**"
+    },
+    {
+      "line": 33,
+      "text": "Anthropic has published Detecting and countering misuse of AI: September 2026, covering December 2025 to August 2026. It includes five cases of people using Claude in ways that could support biological weapons development and six weapons cases, among them a freelance team in Russia writing software for kamikaze drone swarms. Publishing this deserves credit, but Anthropic chose what went in, and nobody outside can check what it left out. Over the weekend Dario Amodei followed with We Must Pace the Frontier, calling for embedded outside evaluators, shared safety standards and limits on the pace of progress, and coordination with countries such as China. Leor raised a problem few people are discussing: rival US companies agreeing to slow down together could fall foul of antitrust law, and Amodei’s essay asks the government for a narrow waiver for exactly that reason. Amodei also writes that pausing made little sense when it was floated in 2023. I disagree; these guardrails belonged in the tools from the start."
+    },
+    {
+      "line": 43,
+      "text": "#### **4. Alpha School’s heart-rate test**"
+    },
+    {
+      "line": 45,
+      "text": "Benjamin Riley’s reporting on Alpha School, the private AI school network, describes a boot camp where children watch recorded videos of their parents criticising them while wearing a heart monitor. Go more than 10% above your resting rate and you fail. The same boot camp asks them to win 100 Twitter followers. Leor, a chess player, made the fair point that staying calm under pressure is a real skill. You teach that with patience and calm breathing, and Alpha School has turned it into a public stress test with a pass mark."
+    }
+  ]
+}

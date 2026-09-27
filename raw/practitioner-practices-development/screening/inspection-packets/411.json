@@ -1,0 +1,36 @@
+{
+  "id": 411,
+  "title": "AI Doesn’t Just Make You Worse. It Makes You Stop Trying.",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-assistance-persistence-study.md",
+  "sha256": "550b655a14682e550f1bc3bf2333c326ef6cbcf06c2e8d7ebd19b07b434e3a20",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1914,
+  "headings": [
+    "**In this post I will:**",
+    "**What the study found**",
+    "**The finding that reframes the conversation**",
+    "**Why persistence matters more than performance**",
+    "**The boiling frog, with a timer**",
+    "**A three-part framework for using AI so the scaffolding survives**",
+    "**1. The Ten-Minute Floor**",
+    "**2. The Hints-Not-Answers Rule**",
+    "**3. The Unaided Baseline Test**",
+    "**A diagnostic exercise to run this week**",
+    "**Why this matters for you**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 452,
+      "text": "Ten minutes of AI use is enough to start eroding your persistence."
+    },
+    {
+      "line": 163,
+      "offset": 10810,
+      "text": "1. **Am I using AI to save effort or to learn something?** If it is genuinely a save-effort task (expense report, summary of a meeting you attended), proceed without guilt. If it is a learn-something task (writ"
+    }
+  ]
+}

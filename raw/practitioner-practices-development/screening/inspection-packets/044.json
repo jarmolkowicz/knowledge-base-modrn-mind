@@ -1,0 +1,24 @@
+{
+  "id": 44,
+  "title": "Superintelligence is a Fairy Tale. But Chasing It Can Still Cause Harm.",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/superintelligence-is-a-fairy-tale-but-chasing-it-can-still-cause-harm.md",
+  "sha256": "d4e86f9a61819e86a7e7b8e1609e9924b8e22339f95ff4a503debd41e0add159",
+  "access": "public-page",
+  "kind": "article",
+  "words": 939,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 502,
+      "text": "Yesterday, multiple Anthropic employees casually announced online that they thought the types of AI they’re building cou"
+    },
+    {
+      "line": 43,
+      "offset": 4642,
+      "text": "First things first, it’s important to emphasize something that many media figures and commentators seem to be missing: **AI is not the same thing as LLMs**. Many of the most impressive AI systems that exist today – including those that beat humans at games, win Nobel prizes for studying proteins, and self-drive cars through crowded city streets – have very l"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 524,
+  "author": "Mia Kiraki, with Sam Illingworth",
+  "group_index": 11,
+  "decision": "retain",
+  "locators": [
+    "L20, attribution",
+    "L38–52, missing chapter and timebox",
+    "L72–84, commentary"
+  ],
+  "basis": "Proposed creative procedure; reflection rather than documented before/after project",
+  "reported_outcomes": [
+    "No finished project comparison in this source; later reader reports appear in source 530."
+  ],
+  "proposed_outcomes": [
+    "Use generated material as a structural provocation for a bounded human experiment."
+  ],
+  "limits": [
+    "AI cannot discover the uniquely correct missing chapter or read the writer’s unspoken intention.",
+    "Generated autobiographical detail is not memory.",
+    "Thirty minutes is a suggested timebox, not an evaluated dose."
+  ],
+  "review_note": "Retain testing one human-made change rather than automatically inserting the generated chapter.",
+  "coverage": "Close-read all 156 lines of available extracted article text; image-only content and linked media not reviewed.",
+  "related_entries": [
+    "agency",
+    "doshi-hauser-creativity-diversity-2024"
+  ],
+  "practice_files": [
+    "raw/illingworth-524-when-your-writing-wobbles-listen-for-2025/drafts/practices/test-one-creative-change.md"
+  ],
+  "role": "origin",
+  "draft_only": true,
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/test-one-creative-change.md"
+  ],
+  "historical_drafts_retained": true
+}

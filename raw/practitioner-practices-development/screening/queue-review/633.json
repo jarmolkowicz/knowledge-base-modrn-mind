@@ -1,0 +1,37 @@
+{
+  "queue_position": 248,
+  "id": 633,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/evan-lapointe/transcript.md",
+  "sha256": "f9a7d484f288e9a7202bc381045b209cee47ace7dec1ea0667c9975eeb02ec5c",
+  "title": "Improve strategy, influence, and decision-making by understanding your brain | Evan LaPointe",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 162,
+      "text": "(00:24:38):"
+    },
+    {
+      "line": 163,
+      "text": "Here's something super tactical, which is, meetings, generally speaking, are a combination of priming and decision making, if you look at meetings through the lens of the phases that they are. A lot of meetings skip the priming step altogether. They launched directly into decision making. It would be safe to skip the priming step if we began the meeting under the assumption that everybody here is on the same page, has the same information, and generally speaking, intends for the same outcome. I think that's a ludicrous assumption for most meetings, and yet most people are actually shocked to find out that we're not on the same page even though we literally never have been, and as long as you're on day two plus of working together. It's a crazy thing that we don't do priming, and priming can be simple. It can even be done in the invite. One of the things that's crazy about Outlook and Google is you can put a very terrible useless meeting into Outlook and it will never look at it and be like, this is probably useless."
+    },
+    {
+      "line": 210,
+      "text": "Lenny Rachitsky (00:36:13):"
+    },
+    {
+      "line": 211,
+      "text": "The thing you said about openness and not being good at big vision, brainstorming, super resonates with me, because that's exactly me. So I took your test, what is it called? What do you call this test, by the way?"
+    },
+    {
+      "line": 588,
+      "text": "(01:40:08):"
+    },
+    {
+      "line": 589,
+      "text": "Who is glad you exist? Why are they glad you exist? And that is a fact. That is not an inspiring idea. That is like, okay, we work with this company that does AI-based optical character recognition, document ingestion, et cetera. Why is the world glad that they exist? Well, because we get 95% of the documents scanned into structured data that normally people have to transfer by hand. That's pretty compelling. Why is the world glad Warby Parker exists? Because before you used to choose between looking dumb and it being cheap and looking cool and it being expensive, and now you can look cool and it's cheap. The world's really glad we exist."
+    }
+  ]
+}

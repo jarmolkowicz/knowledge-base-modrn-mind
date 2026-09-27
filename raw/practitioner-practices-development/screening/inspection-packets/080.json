@@ -1,0 +1,24 @@
+{
+  "id": 80,
+  "title": "Management as AI superpower",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/management-as-ai-superpower.md",
+  "sha256": "f455e6cbbca7f60a625d578e01016ed8679e7853f96c52054c5944b20d1faa7a",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2166,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 201,
+      "text": "I just taught an experimental class at the University of Pennsylvania where I challenged students to"
+    },
+    {
+      "line": 70,
+      "offset": 14812,
+      "text": "As a business school professor, I think many people have the skills they need, or can learn them, in order to work with AI agents - they are management 101 skills. If you can explain what you need, give effective feedback, and design ways of evaluating work, you are going to be able to work with age"
+    }
+  ]
+}

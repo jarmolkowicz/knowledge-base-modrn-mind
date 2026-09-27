@@ -1,0 +1,42 @@
+{
+  "id": 460,
+  "group_index": 3,
+  "decision": "retain",
+  "role": "origin",
+  "locators": [
+    "L61–84, Illingworth poem editing",
+    "L194–208, Joshua Sherman songwriting and checklist",
+    "L86–192, other contributor accounts for context"
+  ],
+  "basis": "Multi-contributor practice collection co-edited by Alyssa Fu Ward; specific first-person accounts from Illingworth and Joshua Sherman.",
+  "reported_outcomes": [
+    "Illingworth accepted two critiques and kept another image. Sherman describes revisions he authored, rejecting AI advice, and a personal checklist applied without AI."
+  ],
+  "proposed_outcomes": [
+    "Convert creative disagreement into reusable human craft criteria."
+  ],
+  "limits": [
+    "Selected self-reports, not independent quality assessment or representative sample. Contributor practices differ: some do use generated material; no universal AI-never-writes claim. Legal borrowing claims not adopted."
+  ],
+  "related_entries": [
+    "think-first",
+    "cognitive-offloading"
+  ],
+  "review_note": "Merge criticism examples into Hogue card; retain Sherman’s reusable craft checklist as a distinct downstream routine.",
+  "practitioner": "Credit each contributor separately. A checklist expresses a creator’s choices, not universal rules of art.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [
+    "raw/illingworth-459-how-can-writers-use-ai-ethically-2025/drafts/practices/request-criticism-without-rewriting.md",
+    "raw/illingworth-460-how-creatives-are-actually-using-ai-2026/drafts/practices/turn-creative-disagreement-into-your-own-checklist.md"
+  ],
+  "source_path": "raw/illingworth-460-how-creatives-are-actually-using-ai-2026/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/request-criticism-without-rewriting.md",
+    "practices/turn-creative-disagreement-into-your-own-checklist.md"
+  ],
+  "historical_drafts_retained": true
+}

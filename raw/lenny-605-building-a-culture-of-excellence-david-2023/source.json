@@ -1,0 +1,51 @@
+{
+  "slug": "lenny-605-building-a-culture-of-excellence-david-2023",
+  "original_filename": "transcript.md",
+  "format": "md",
+  "source_type": "transcript",
+  "word_count": 19489,
+  "hash": "75c58803103ab2555ae3793acade5e3017ff1f4f0ca0310b1ed8c2ebbdd823ec",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:46Z",
+  "decisions": [
+    {
+      "stage": "practice-review",
+      "outcome": "retain",
+      "date": "2026-09-26",
+      "reason": "Retain a concrete division of creative work with an explicit learning-goal boundary.",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/lenny-605-building-a-culture-of-excellence-david-2023.md",
+      "practices": [
+        "practices/let-the-child-write-the-story.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 674,
+  "screening_id": 605,
+  "collected_from": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/david-singleton/transcript.md",
+  "bibliographic_metadata": {
+    "title": "Building a culture of excellence | David Singleton (CTO of Stripe)",
+    "date": "2023-05-04",
+    "url": "https://www.youtube.com/watch?v=F0_IKKY3HCk",
+    "collection": "Lenny's Podcast"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

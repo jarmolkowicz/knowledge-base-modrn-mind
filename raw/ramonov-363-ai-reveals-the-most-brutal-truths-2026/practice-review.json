@@ -1,0 +1,26 @@
+{
+  "id": 363,
+  "group_index": 16,
+  "decision": "retain_counterexample_only",
+  "coverage": "Read the complete available local article body; linked images, videos and external claims not independently inspected.",
+  "locators": [
+    "L33–79"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Prompt sequence only; no outcome evidence."
+  ],
+  "proposed_outcomes": [
+    "Self-discovery and action, as claimed by author."
+  ],
+  "limits": [
+    "Caveat that answers are imperfect does not ground psychological claims. Conversation history is partial; emotionally forceful language is not evidence of insight. Do not recommend this chain."
+  ],
+  "related_entries": [],
+  "practice_files": [],
+  "role": "counterexample",
+  "review_note": "A chain asks AI to infer the user’s true identity and insecurities, predict their future, then prescribe action.",
+  "author": "Sabrina Ramonov",
+  "integration_decision": "pending",
+  "draft_only": true
+}

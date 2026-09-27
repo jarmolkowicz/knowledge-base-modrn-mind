@@ -1,0 +1,34 @@
+{
+  "id": 514,
+  "title": "There Are Three Ways to Learn With AI. Most People Use None of Them.",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/three-ways-to-learn-with-ai.md",
+  "sha256": "ed09bf8d385f557a5a1db650bc0fc0213018c35825a7110f63d1731a6a9dfe17",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1756,
+  "headings": [
+    "**The study**",
+    "**The three patterns that preserved learning**",
+    "**The three patterns that destroyed it**",
+    "**The productive struggle that AI removes**",
+    "**What this means for anyone using AI to work**",
+    "**Why this matters beyond coding**",
+    "**How to use AI tools without losing the ability to think**",
+    "**The audit question**",
+    "**Why learning still requires friction**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 470,
+      "text": "A new study tested 52 developers learning a new skill. Half used A"
+    },
+    {
+      "line": 121,
+      "offset": 8397,
+      "text": "Test it this week: the next time you are about to ask an AI tool to write something for you, ask it to explain the three hardest decisions involved in writing it instead. Then write it yourself."
+    }
+  ]
+}

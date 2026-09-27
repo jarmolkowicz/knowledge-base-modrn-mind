@@ -1,0 +1,33 @@
+{
+  "id": 356,
+  "group_index": 7,
+  "decision": "merge",
+  "coverage": "Full available extracted article, L1–389. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L63–85: goal, constraints, verification",
+    "L93 and L206: model-scored rubric",
+    "L246–276: autonomous marketing account",
+    "L351–363: turn cap"
+  ],
+  "basis": "Goal-mode proposal and personal marketing account.",
+  "reported_outcomes": [
+    "Author reports improved click-through results; raw data and controls unavailable."
+  ],
+  "proposed_outcomes": [
+    "Set bounded outcome and checks before autonomous work."
+  ],
+  "limits": [
+    "A model giving itself eight out of ten is not external validation.",
+    "Adaptive marketing tests may be confounded.",
+    "Commands and permissions not independently checked."
+  ],
+  "related_entries": [
+    "automation-bias",
+    "metacognitive-demand"
+  ],
+  "practice_files": [
+    "raw/mollick-080-management-as-ai-superpower-2026/drafts/practices/define-the-delegation-before-the-agent-starts.md"
+  ],
+  "role": "support",
+  "review_note": "Merge goal, bounds and checks; exclude self-score and causal-uplift claims."
+}

@@ -1,0 +1,39 @@
+{
+  "id": 265,
+  "title": "Atlas.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/atlas.md",
+  "sha256": "812ee0132d57c3caa8c829bf1b6529f8ce89fa0e829dfc9a74b4f349a2bce8c7",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 749,
+  "headings": [
+    "**Table of contents**",
+    "1. Atlas. So what’s new? How to install it?",
+    "What’s new? TL;DR.",
+    "How to install ChatGPT Atlas today.",
+    "2. My first 24-hour vibe check.",
+    "Default search is ChatGPT",
+    "Side bar assistant",
+    "Search through your history",
+    "3. Agent mode: ChatGPT works for you",
+    "Watch any video, ask anything",
+    "Fill out a form (in Hebrew?!)",
+    "Unsubscribe from every marketing email",
+    "Cheating just got too easy. Bye-bye universities?",
+    "4. Best of GPT-Atlas prompts *(to copy & paste).*"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 124,
+      "text": "The new browser from ChatGPT - Atlas - is out."
+    },
+    {
+      "line": 73,
+      "offset": 3294,
+      "text": "The default search is ChatGPT first, “Google-like” browsing second."
+    }
+  ]
+}

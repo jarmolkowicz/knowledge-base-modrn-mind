@@ -1,0 +1,37 @@
+{
+  "id": 408,
+  "group_index": 0,
+  "decision": "retain",
+  "role": "origin",
+  "locators": [
+    "L111–145, Three questions before you trust an AI agent"
+  ],
+  "basis": "Sam Illingworth proposes three governance questions, illustrated with secondary accounts of failures.",
+  "reported_outcomes": [
+    "No outcome data for the questions."
+  ],
+  "proposed_outcomes": [
+    "Keep consequences, reversibility and human responsibility visible."
+  ],
+  "limits": [
+    "Game theory does not require human feelings, so the claim that the game collapses without felt stakes is too broad. Mechanical descriptions can also oversimplify what a system does. Cases and amounts not independently verified here."
+  ],
+  "related_entries": [
+    "cognitive-offloading"
+  ],
+  "review_note": "Retain cost-bearer and recovery checks; revise the language check into a factual permissions/action description rather than a forced slogan about pattern matching.",
+  "practitioner": "Require a real owner, recovery route and authorization boundary; asking questions alone cannot provide these controls.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [
+    "raw/illingworth-408-ai-agents-do-not-play-games-2026/drafts/practices/name-consequences-before-delegating.md"
+  ],
+  "source_path": "raw/illingworth-408-ai-agents-do-not-play-games-2026/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/name-consequences-before-delegating.md"
+  ],
+  "historical_drafts_retained": true
+}

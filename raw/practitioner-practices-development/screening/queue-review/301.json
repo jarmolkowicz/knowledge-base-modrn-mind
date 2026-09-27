@@ -1,0 +1,82 @@
+{
+  "queue_position": 67,
+  "id": 301,
+  "path": "raw/inbox/Practical/Ruben Hassid/how-to-better-use-ai-before-prompting.md",
+  "sha256": "aabd21f3c8fca7a0fe05664d117477b06bfe90e1071737ebeda2d08cd461cd1d",
+  "title": "How to better use AI (before prompting).",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L52 ## **Stop introducing yourself.**",
+    "L66 #### **Projects fix this permanently** (& how to create one).",
+    "L78 #### ChatGPT.",
+    "L106 #### Claude.",
+    "L114 #### Grok.",
+    "L126 ## **Thinking mode is not “smarter mode”.**",
+    "L164 ## **Search to avoid lies.**",
+    "L196 #### Search breaks this loop.",
+    "L216 #### ",
+    "L222 ## **Too long, didn’t read.**"
+  ],
+  "passages": [
+    {
+      "line": 12,
+      "text": "They open a blank chat → They type a question → They get a mediocre answer → They rewrite the question → Still mediocre → They add more detail → Slightly better → They Google “best prompts for X.” → They copy-paste someone else’s framework → No results → Then they conclude: “*AI just isn’t that good yet.*”"
+    },
+    {
+      "line": 52,
+      "text": "## **Stop introducing yourself.**"
+    },
+    {
+      "line": 60,
+      "text": "It’s like meeting your coworker every Monday morning and saying: *“Hi, I’m Ruben. I write a newsletter about AI. I like short sentences. I hate corporate speak.”*"
+    },
+    {
+      "line": 78,
+      "text": "#### ChatGPT."
+    },
+    {
+      "line": 96,
+      "text": "✦ What I usually do: I create a google doc, give only the best information, and download it as a markdown file before I upload it to my project."
+    },
+    {
+      "line": 126,
+      "text": "## **Thinking mode is not “smarter mode”.**"
+    },
+    {
+      "line": 152,
+      "text": "You can prompt questions that require *reasoning*. Questions where the answer isn’t obvious. Questions where you actually need the AI to figure something out rather than recall something it’s seen before."
+    },
+    {
+      "line": 154,
+      "text": "Most people never ask those questions because they’ve been trained by bad outputs to expect bad outputs."
+    },
+    {
+      "line": 164,
+      "text": "## **Search to avoid lies.**"
+    },
+    {
+      "line": 174,
+      "text": "Before you ever typed your first prompt, the model was trained on a massive snapshot of the internet: books, articles, forums, websites, conversations."
+    },
+    {
+      "line": 192,
+      "text": "It generates what a correct answer *would sound like*, because that’s what it was trained to do. Fill in the blank. Continue the sequence."
+    },
+    {
+      "line": 194,
+      "text": "This is how hallucination can happen. Not lying. Not malfunction. Just pattern-completion running unsupervised."
+    },
+    {
+      "line": 196,
+      "text": "#### Search breaks this loop."
+    },
+    {
+      "line": 198,
+      "text": "When you turn on search, you’re forcing the AI to reach outside its frozen training data and touch something real. Something that exists right now. Something the AI has to *cite* rather than *generate*."
+    },
+    {
+      "line": 204,
+      "text": "Pre-training gave the AI a memory of the world as it existed months or years ago, filtered through whatever happened to be on the internet."
+    }
+  ]
+}

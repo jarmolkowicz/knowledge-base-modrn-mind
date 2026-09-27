@@ -1,0 +1,30 @@
+{
+  "id": 341,
+  "title": "Vibe.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/vibing.md",
+  "sha256": "cef8e4e9a89ef8f4e3d0af4e8ded8f6284e47d615d240b4a16ca573a047a5b15",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 623,
+  "headings": [
+    "From idea → to app.",
+    "1. Go to blink.new.",
+    "2. Describe what you want",
+    "3. Some quick edits, and it’s functional",
+    "From rookie → to pro."
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 123,
+      "text": "My best GPT, “Prompt Maker”, has over **1 million users.**"
+    },
+    {
+      "line": 42,
+      "offset": 1686,
+      "text": "Think about it like ChatGPT, but to build an app."
+    }
+  ]
+}

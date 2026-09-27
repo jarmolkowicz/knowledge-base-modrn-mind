@@ -1,0 +1,80 @@
+{
+  "queue_position": 177,
+  "id": 524,
+  "path": "raw/inbox/Practical/Sam Illingworth/when-your-writing-wobbles-listen-for-what-ai-echoes.md",
+  "sha256": "8c201bb0a2a17573f8dc754a3d66628a3e2384e1d444280d53e0fe7ed82a0adf",
+  "title": "When your writing wobbles, listen for what AI echoes",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L38 #### **Step-by-step**",
+    "L60 #### Slow AI #1 – Teach It Something It Cannot Know",
+    "L72 #### **A moment from [Mia](https://substack.com/@miakiraki)**",
+    "L88 #### **What to do with it**",
+    "L100 #### **Why this matters**",
+    "L118 #### **From last week**",
+    "L132 #### **Let’s collaborate**",
+    "L138 #### Collaborating with Slow AI"
+  ],
+  "passages": [
+    {
+      "line": 22,
+      "text": "Instead of piling on more polish, we ask: what if you let AI write the chapter you can feel, but cannot yet see?"
+    },
+    {
+      "line": 38,
+      "text": "#### **Step-by-step**"
+    },
+    {
+      "line": 40,
+      "text": "Paste a short section of your current project (a draft, outline, or article) into your AI tool of choice and then try this prompt:"
+    },
+    {
+      "line": 42,
+      "text": "`You are my most attentive reader. Read the project below, then write a short ‘missing chapter’ that would make the whole thing feel complete. Reveal what I have not said, link an early idea to a later one, and change one small thing in the structure if needed. Return only a title and the missing chapter.`"
+    },
+    {
+      "line": 46,
+      "text": "- From what it writes, pick one small change you could make this week **and test it for 30 minutes.**"
+    },
+    {
+      "line": 48,
+      "text": "For example, if the missing chapter suggests that your ending feels rushed, you might move one key paragraph earlier and see how it changes the flow. If it hints that your tone shifts halfway through, try rewriting a single section in the opening voice. If it proposes a new point of view, write one paragraph from that angle to see what happens."
+    },
+    {
+      "line": 50,
+      "text": "The point is to test a single idea, not rewrite everything."
+    },
+    {
+      "line": 52,
+      "text": "The goal is not more content, but more clarity."
+    },
+    {
+      "line": 56,
+      "text": "If you are new to *Slow AI*, here is our first invitation:"
+    },
+    {
+      "line": 72,
+      "text": "#### **A moment from Mia**"
+    },
+    {
+      "line": 74,
+      "text": "You’re often an unreliable narrator."
+    },
+    {
+      "line": 118,
+      "text": "#### **From last week**"
+    },
+    {
+      "line": 122,
+      "text": "**Eric Woods** noticed how “ChatGPT’s empathy bombing” mirrors human power dynamics, appearing loyal to everyone while serving its own retention loop. Eric compared this to leadership styles that comfort and confuse in equal measure, raising the question of who benefits from simulated care."
+    },
+    {
+      "line": 138,
+      "text": "#### Collaborating with Slow AI"
+    },
+    {
+      "line": 150,
+      "text": "If you try this week’s prompt, Mia and I would love to hear what missing chapters your AI tools helped to reveal."
+    }
+  ]
+}

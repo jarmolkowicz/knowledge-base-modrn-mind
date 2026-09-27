@@ -1,0 +1,37 @@
+{
+  "queue_position": 279,
+  "id": 677,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jeff-weinstein/transcript.md",
+  "sha256": "125d8dab3c9ec7b853b6f5765154b62aa42055c4b8611ce5b06d7f546d61eff7",
+  "title": "Building product at Stripe: craft, metrics, and customer obsession | Jeff Weinstein (Product lead)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L35 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 670,
+      "text": "(02:19:55):"
+    },
+    {
+      "line": 671,
+      "text": "That's a little intense on the pantomime, but I think the point gets across that... Again, because it's so natural to think internal, if you begin the sentence physically with \"The customer\" then start your sentence, you just have a much better shot at it."
+    },
+    {
+      "line": 688,
+      "text": "Jeff Weinstein (02:20:53):"
+    },
+    {
+      "line": 689,
+      "text": "If finding my email address is your issue? It can't possibly be, but it is my first initial and last name at basically everything in the world, though my handle on Twitter is jeff_weinstein, but gosh, if you can't find my email address then you got a bigger problem."
+    },
+    {
+      "line": 793,
+      "text": "Jeff Weinstein (02:30:40):"
+    },
+    {
+      "line": 794,
+      "text": "On my first month working here, which I guess is six, seven years ago now, they had put me in charge of our payments infrastructure services. That's all the backend systems that communicate with the financial system and all the internal APIs where we build the external APIs and products on top of, so quite a lot of stuff. I knew nothing about finance. I knew nothing about the scale that we're talking about. They entrusted me, somewhat insanely, with that responsibility. On the first month we had our quarterly business review where... The normal quarterly process, and I was like, \"Okay, cool. I'll do the next one. I'll write the next one.\" I've been here one month. They're like, \"No, you write it. It'll be even better that you write it.\" It's like, oh my God. It's forcing me to have to, in the fourth week, have that catalyst to understand the whole business and with the permission, because I was going to have to write this doc about how we're doing. The company had been in existence for seven years before I got here. It was already at some reasonable scale."
+    }
+  ]
+}

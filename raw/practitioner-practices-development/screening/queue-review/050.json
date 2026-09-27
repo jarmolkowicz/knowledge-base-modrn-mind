@@ -1,0 +1,47 @@
+{
+  "queue_position": 13,
+  "id": 50,
+  "path": "raw/inbox/Practical/Cal Newport/the-perfect-cheating-machine.md",
+  "sha256": "2c2490b5649db975daf65940b17d7feece35907d756f97526d2ece20f44fe3c8",
+  "title": "The Perfect Cheating Machine?",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 13,
+      "text": "“Could the chatbot, which provides coherent, quirky, and conversational responses to simple language inquires, inspire more students to cheat?”, asked an NBC News article, published only a week after ChatGPT’s initial launch. Several months later, a professor in the Texas A&M system took this warning to heart and failed his entire class after convincing himself that every one of his students had used AI to write their final assignments. (It turns out that his method of detection—asking ChatGPT itself whether it produced the submissions—was unreliable. He later changed the grades.)"
+    },
+    {
+      "line": 15,
+      "text": "“AI seems almost built for cheating,” explains Ethan Mollick, in his recent bestseller, *Co-Intelligence*. He predicted, in particular, that paper writing as a pedagogical tool might be on the way out, forcing institutions to adapt to other methods to teach composition: “In-school assignments on non-internet-enabled computers, combined with written exams, will ensure students learn basic writing skills.”"
+    },
+    {
+      "line": 17,
+      "text": "It’s hard to believe that it’s been almost two years since we first started hearing these concerns about ChatGPT providing students the perfect cheating machine. As a professor and writer myself, these issues interest me, especially when it comes to academic compositions. So in my most recent article for *The New Yorker*, published earlier this month, and titled “What Kind of Writer is ChatGPT?,” I set out to understand how these tools are currently being put to work by students tackling writing assignments."
+    },
+    {
+      "line": 19,
+      "text": "My approach was to move beyond speculation and watch actual students use AI on actual assignments, with a particular focus on a graduate student I called Chris, who was using ChatGPT to write a significant anthropology paper."
+    },
+    {
+      "line": 21,
+      "text": "As I explain in the article, what I observed Chris doing was more complicated than you might have guessed:"
+    },
+    {
+      "line": 27,
+      "text": "The bigger point to be made here, however, is about how we think about this new age of artificial intelligence in which we’ve been enveloped since late 2022. These tools are undeniably powerful. Accordingly, they will undeniably end up changing some things about our lives in major ways."
+    },
+    {
+      "line": 31,
+      "text": "#####"
+    },
+    {
+      "line": 33,
+      "text": "In the latest episode of my podcast, *Deep Questions*, released earlier today, I take an unconventional look at the idea of discipline and how to improve it (**listen** | **watch**)"
+    },
+    {
+      "line": 35,
+      "text": "Have you read my new book, ***Slow Productivity*: *The Lost Art of Accomplishment without Burnout***? If not, here’s yet another reason to consider doing so: Goodreads just listed *Slow Productivity* as #1 on their recently released list of the “Most Popular Self Help Books of 2024.”"
+    }
+  ]
+}

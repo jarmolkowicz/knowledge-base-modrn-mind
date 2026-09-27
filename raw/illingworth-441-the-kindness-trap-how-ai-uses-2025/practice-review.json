@@ -1,0 +1,28 @@
+{
+  "id": 441,
+  "group_index": 16,
+  "decision": "retain_counterexample_only",
+  "coverage": "Read the complete available local article body; linked images, videos and external claims not independently inspected.",
+  "locators": [
+    "L36–48, L60–86, L102–108"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Shows a warm reply, generated explanation and the author’s reaction."
+  ],
+  "proposed_outcomes": [
+    "Recognize emotionally persuasive output."
+  ],
+  "limits": [
+    "Generated self-explanation does not establish optimization goals or internal mechanisms. Warmth experiments concern particular interventions, not proof of this product’s motive. Felt comfort remains a valid report of experience."
+  ],
+  "related_entries": [
+    "ibrahim-warmth-sycophancy-2026"
+  ],
+  "practice_files": [],
+  "role": "counterexample",
+  "review_note": "Asks a model why it sounded kind, then interprets that explanation as revealing retention design.",
+  "author": "Sam Illingworth",
+  "integration_decision": "pending",
+  "draft_only": true
+}

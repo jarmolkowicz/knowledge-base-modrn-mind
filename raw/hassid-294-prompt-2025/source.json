@@ -1,0 +1,32 @@
+{
+  "slug": "hassid-294-prompt-2025",
+  "original_filename": "gold.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 1611,
+  "hash": "baa0c1c0ce174fe1fc25d2dff5a80b5a24577266c1d548ee46677ca3c1630caa",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "critiqued",
+  "ingested_at": "2026-09-26T20:59:42Z",
+  "decisions": [
+    {
+      "stage": "practice-review",
+      "outcome": "counterexample",
+      "date": "2026-09-26",
+      "reason": "Changed from selected practice: keep as a counterexample showing why a claimed human decision step must exist in the actual procedure.",
+      "integration": "pending"
+    }
+  ],
+  "lines": 287,
+  "screening_id": 294,
+  "collected_from": "raw/inbox/Practical/Ruben Hassid/gold.md",
+  "bibliographic_metadata": {
+    "title": "Prompt.",
+    "date": "2025-09-21",
+    "url": "https://ruben.substack.com/p/gold",
+    "collection": "Ruben Hassid"
+  },
+  "draft_only": true,
+  "integration_decision": "pending"
+}

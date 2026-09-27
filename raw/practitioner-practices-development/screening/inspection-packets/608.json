@@ -1,0 +1,26 @@
+{
+  "id": 608,
+  "title": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/dharmesh-shah/transcript.md",
+  "sha256": "beb46b5ff5ddcac1daca83f931164f61fed9568067ee10af9f7c81e057961c29",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 20630,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 831,
+      "text": "Some of the best startup advice I've heard is startup"
+    },
+    {
+      "line": 786,
+      "offset": 111575,
+      "text": "So whatever it is, whatever line of business you're in, whatever you do as a professional, I guarantee you there are ways AI can help you, even with the tools t"
+    }
+  ]
+}

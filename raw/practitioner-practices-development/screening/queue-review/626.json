@@ -1,0 +1,37 @@
+{
+  "queue_position": 244,
+  "id": 626,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/eoghan-mccabe/transcript.md",
+  "sha256": "218d0790a5c3c079c3d4d459f8bf92693c7f7a1b7333d3fb963000e1a18ed413",
+  "title": "How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L35 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 115,
+      "text": "(00:10:52):"
+    },
+    {
+      "line": 116,
+      "text": "And we believed that was quite possible for some couple years after that moment. But we were only six weeks into the launch of GPT 3.5 when we actually had a beta version of Fin. I got a text from Des, my co-founder, a week or so after the launch of GPT 3.5 and he said, \"The AI team have something interesting and they actually think we could make a product out of this.\" And this was long before there's now no doubt 100 service agents. We had something very early working and part of what we had to our advantage also was that we had this giant base 300, sorry, 30,000 paying customers, hundreds of thousands of active users, millions of their users, billions of data points."
+    },
+    {
+      "line": 328,
+      "text": "Eoghan McCabe (00:56:26):"
+    },
+    {
+      "line": 329,
+      "text": "I think so. I don't actually generally promote working that hard. I try to not fetishize it. I actually think a life well-lived includes taking slow walks in nature where you're not thinking about ARR growth or hiring your chief revenue officer, not going to eight meetings a day. Maybe you should go to no meetings a day, certainly not working 12 hours a day. I don't actually promote that in general as a thing one should do with their life. I'm simply saying that if you want to compete and enjoy success in this age, which means you need to be doing AI, that is the price."
+    },
+    {
+      "line": 331,
+      "text": "(00:57:16):"
+    },
+    {
+      "line": 332,
+      "text": "So, you either decide to pay the price or get out. Don't half-ass it. You see all these companies saying, we do AI and they've just sprinkle a little bit of crappy AI and they've got the same cultures. It won't work. The one thing I will say, the one little asterisk to my first point is that all great people and great things have been achieved through hard work. And so I'm speaking out of both sides of my mouth here, to younger people to let them know that every way of living is valid, but people who have achieved things have always worked hard and they find a way to enjoy it too. And particularly in 2025 in AI."
+    }
+  ]
+}

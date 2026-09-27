@@ -1,0 +1,38 @@
+{
+  "id": 360,
+  "group_index": 9,
+  "decision": "retain",
+  "coverage": "Full available extracted article, L1–129. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L23–47: organize, do not choose insurance plan",
+    "L51–61: tracker sections",
+    "L71: document-only comparison with locators or not-found",
+    "L91–99: ask accountable sources and record confirmed answers"
+  ],
+  "basis": "Proposed healthcare-insurance administration guide.",
+  "reported_outcomes": [],
+  "proposed_outcomes": [
+    "Keep documents, questions and confirmed answers separate."
+  ],
+  "limits": [
+    "No measured user outcome.",
+    "Coverage, deadline and drug claims not checked or extracted as advice.",
+    "Redaction does not guarantee deidentification.",
+    "An accountable source must confirm terms."
+  ],
+  "related_entries": [
+    "reference-verification",
+    "agency"
+  ],
+  "practice_files": [
+    "raw/ramonov-360-ai-for-healthcare-insurance-2026/drafts/practices/keep-a-document-and-question-tracker.md"
+  ],
+  "role": "origin",
+  "review_note": "Credit AskGwyn; retain tracker, no coverage recommendation or medical/legal claims.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/keep-a-document-and-question-tracker.md"
+  ],
+  "historical_drafts_retained": true
+}

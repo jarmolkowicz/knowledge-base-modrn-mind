@@ -1,0 +1,30 @@
+{
+  "id": 463,
+  "title": "The Illusion of Control",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/illusion-of-control-ai-adoption.md",
+  "sha256": "ad6988e1f40c4bb13f35a1fc42247a34f7eb200d9bc74dc6f759e0a1d20c16aa",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1423,
+  "headings": [
+    "**What the Formula 1 problem reveals about AI adoption**",
+    "**A moment from** [Anna Levitt](https://open.substack.com/users/4848460-anna-levitt?utm_source=mentions)",
+    "**What to share**",
+    "**Why AI literacy must come before AI deployment**",
+    "**From [Why AI Emotional Advice Feels Safe But Isn’t](https://theslowai.substack.com/p/should-child-use-ai-emotional-advice)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 308,
+      "text": "*I chose Matiks because this post is about what happens when organisat"
+    },
+    {
+      "line": 106,
+      "offset": 8461,
+      "text": "That is the pattern Anna | how to boss AI is naming at the organisational level. The tool produces output. The output looks finished. Leaders call it adoption. But the learning never started. The car responded."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "ramonov-356-goal-2026",
+  "original_filename": "6-insane-projects-to-learn-claude-fable-loop-engineering.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 3037,
+  "hash": "155a0f647610ac92f3a209258b2824badb5040d08aec879a63f446e8c61b9473",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "critiqued",
+  "ingested_at": "2026-09-26T20:59:43Z",
+  "decisions": [
+    {
+      "stage": "practice_review",
+      "date": "2026-09-26",
+      "decision": "merge",
+      "scope": "draft_only",
+      "integration": "pending"
+    }
+  ],
+  "lines": 390,
+  "screening_id": 356,
+  "collected_from": "raw/inbox/Practical/Sabrina Ramonov/6-insane-projects-to-learn-claude-fable-loop-engineering.md",
+  "bibliographic_metadata": {
+    "title": "6 INSANE Projects to Learn Claude Fable and /goal",
+    "date": "2026-07-11",
+    "url": "https://www.sabrina.dev/p/6-insane-projects-to-learn-claude-fable-loop-engineering",
+    "collection": "Sabrina Ramonov"
+  },
+  "draft_only": true,
+  "integration_decision": "pending"
+}

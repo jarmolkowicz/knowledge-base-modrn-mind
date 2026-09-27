@@ -1,0 +1,29 @@
+{
+  "queue_position": 226,
+  "id": 600,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/dalton-caldwell/transcript.md",
+  "sha256": "be62eda59a6eb9c1a248f5f823d88a7899ad968f23128b11cf9eed6e47b00153",
+  "title": "Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 312,
+      "text": "Dalton Caldwell (00:40:57):"
+    },
+    {
+      "line": 313,
+      "text": "Yeah, I think when I talked to aspiring founders about this a lot, they're like, \"Yeah, yeah, yeah, I talked to customers. We get it. Cool.\" And I'm like, \"Cool. Well, how many customers do you talk to?\" And they're like, \"Well.\" And they get really quiet. And so I think this is one of those things like, hey, you should have a healthy diet and exercise every day or whatever, where people know it and that doesn't mean they do it. And so I think to start with, you have to get out in the world and talk to people in person. And you can't just hide behind your keyboard and call that talking to customers. Right? I think a lot of folks, the inclinations are to build a landing page and buy some Instagram ads and try to get people to sign up for something. And again, maybe that's something, but I think a lot of the reason people do that is they're just shy and they don't want to put themselves out there because it's a little awkward to go talk to people."
+    },
+    {
+      "line": 432,
+      "text": "(00:57:03):"
+    },
+    {
+      "line": 433,
+      "text": "And so I didn't think a lot about the personality traits of these people. Again, they were all pretty different people, but what they had in common is the folks that are now the really big names just had a lot of staying power. Right? So when I met Sam, he had dropped out of Stanford to work on Loot, which is hilariously a way to find people around you to hang out with. An interesting theme here, huh? He was cool. He was this really young guy and he just did that. It wasn't huge. And then he got into other stuff and ended up working at YC, ended up getting involved in hard tech and has now reinvented himself as the big mind behind AI, which again, awesome. But if I think about who he was back in the day, yeah, he was a 23-year-old working on a thing for feature phones to find friends in your neighborhood."
+    }
+  ]
+}

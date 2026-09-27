@@ -39,3 +39,13 @@
 - Rebuilt index and counts; refreshed source links for affected entries, resolving ambiguous author-year matches explicitly.
 - Status: integrated. See [batch integration report](../julia-2026-09-26-integration.md).
 - Temporary folders excluded from Git. No commit or push made.
+
+
+## 2026-09-27 — Supplementary practice review
+
+Targeted source review, draft/overlap decision and self-critique recorded in [practice-review-2026-09-27.md](practice-review-2026-09-27.md). Drafts ready for integration review; no canonical edit or change to historical source status.
+
+
+## 2026-09-27 — Supplementary practices integrated
+
+Stage 5 completed under the user’s continuation instruction. See the batch [integration decision](../kb-practice-screening-2026-09-27/review/integration/decision.json). Original drafts and originals retained.

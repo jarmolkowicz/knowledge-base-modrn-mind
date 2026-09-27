@@ -1,0 +1,24 @@
+{
+  "id": 79,
+  "title": "Making AI Work: Leadership, Lab, and Crowd",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/making-ai-work-leadership-lab-and.md",
+  "sha256": "c253fd9ce1bee9a2e637fd4e0d46a4fdf0a3279eb8f6ecc5e03594bb7793ed14",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2869,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 237,
+      "text": "Companies are approaching AI transformation with incomplete information. After extensive conversatio"
+    },
+    {
+      "line": 79,
+      "offset": 19882,
+      "text": "The key is treating AI adoption as an organizational learning challenge, not merely a technical one. Successful companies are building feedback loops between Leadership, Lab, and Crowd that let them learn faster than their competitors. They are rethinking fundamental assumptions about how work gets "
+    }
+  ]
+}

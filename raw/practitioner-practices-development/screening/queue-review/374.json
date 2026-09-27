@@ -1,0 +1,75 @@
+{
+  "queue_position": 98,
+  "id": 374,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/claude-code-full-course-for-beginners.md",
+  "sha256": "f592f082d880b94d6b565a969c21ee0cc34e3af505b8258f5417c73d7c5fc327",
+  "title": "CLAUDE CODE FULL COURSE",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L65 ## Claude Code Settings",
+    "L71 ### Permissions",
+    "L85 ### Modes",
+    "L95 ### Context",
+    "L99 ### VSCode Extension vs Terminal",
+    "L109 ### Model",
+    "L121 ## Step 1: Create the `/post` Skill",
+    "L123 ### What are skills?",
+    "L140 ### Building the skill",
+    "L177 ### Testing the Skill",
+    "L227 ## Step 2: Add Per-Platform Brand Voice",
+    "L309 ## Step 3: Create Quality Gate",
+    "L315 ### What are hooks?",
+    "L329 ### Building the hook",
+    "L361 ## Step 4: Add Subagents for Multi-Platform Posting",
+    "L406 ## Step 5: Create the `/plan-week` Skill",
+    "L472 ## Step 6: Create CLAUDE.md",
+    "L508 ## CONGRATULATIONS!! Here’s What You Built…",
+    "L530 ## **P.S. Need More Help? 👋**"
+  ],
+  "passages": [
+    {
+      "line": 123,
+      "text": "### What are skills?"
+    },
+    {
+      "line": 138,
+      "text": "You do NOT need to create this file structure manually. When you tell Claude to create a skill, it builds the directory and writes `SKILL.md` for you. But knowing the structure helps if something goes wrong -- if `/post` does not appear when you type `/`, check that the file is at `.claude/skills/post/SKILL.md` or restart your Claude session."
+    },
+    {
+      "line": 140,
+      "text": "### Building the skill"
+    },
+    {
+      "line": 142,
+      "text": "Start simple. The first version of `/post` targets a single platform so you can verify everything works: your API key, your connected accounts, the visual generation, and the publishing flow. Once this works end-to-end for one platform, you will upgrade it to post to all platforms in parallel in Step 4."
+    },
+    {
+      "line": 227,
+      "text": "## Step 2: Add Per-Platform Brand Voice"
+    },
+    {
+      "line": 277,
+      "text": "Then, Claude will try to pull examples and use them as your voice reference. As you gain traction on social media, I definitely recommend using your own real samples."
+    },
+    {
+      "line": 315,
+      "text": "### What are hooks?"
+    },
+    {
+      "line": 317,
+      "text": "Hooks run code at key points in Claude Code’s lifecycle. They fire automatically, so you don’t have to remember to call them. A hook can format files after edits, block commands before they execute, inject context at session start, and more."
+    },
+    {
+      "line": 406,
+      "text": "## Step 5: Create the `/plan-week` Skill"
+    },
+    {
+      "line": 437,
+      "text": "Before running it, I recommend using Blotato’s ‘next free slot’ so you can setup your posting schedule one time, then new posts will just be queued up every day. That way, you don’t have to worry about scheduling exact days or times."
+    },
+    {
+      "line": 462,
+      "text": "The `/plan-week` skill uses Blotato API for research (Step 1), per-platform brand voice for content adaptation (Step 2), the quality gate hook for automatic checks (St`3), and parallel subagents for batch execution (Step 4).`"
+    }
+  ]
+}

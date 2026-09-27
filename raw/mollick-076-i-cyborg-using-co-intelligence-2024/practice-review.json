@@ -1,0 +1,38 @@
+{
+  "id": 76,
+  "group_index": 9,
+  "decision": "retain",
+  "coverage": "Full available extracted article, L1–66. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L30: human graphs with AI statistics",
+    "L34–36: alternatives, own wording and reading",
+    "L40–46: selective response to fictional-reader criticism"
+  ],
+  "basis": "Personal writing and research accounts.",
+  "reported_outcomes": [
+    "Author selectively accepts suggestions; unaided-skill effects not measured."
+  ],
+  "proposed_outcomes": [
+    "Choose which contribution stays human."
+  ],
+  "limits": [
+    "No universal optimal division.",
+    "Feeling control does not establish retained capability."
+  ],
+  "related_entries": [
+    "partial-automation-principle",
+    "dellacqua-jagged-frontier-2023",
+    "agency"
+  ],
+  "practice_files": [
+    "raw/mollick-076-i-cyborg-using-co-intelligence-2024/drafts/practices/choose-the-human-part-of-the-work.md"
+  ],
+  "role": "origin",
+  "review_note": "Editorial procedure grounded in examples, not a tested learning intervention.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/keep-one-thinking-step.md"
+  ],
+  "historical_drafts_retained": true
+}

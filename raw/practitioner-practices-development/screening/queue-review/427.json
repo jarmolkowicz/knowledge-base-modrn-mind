@@ -1,0 +1,49 @@
+{
+  "queue_position": 125,
+  "id": 427,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-fluency-trap-test-real-understanding.md",
+  "sha256": "3a0c97379eab4a2af4559fd65ff1b435416c07dfe9f4167dcc383b015a8d3e35",
+  "title": "How to Test for Real Understanding When AI Makes Every Answer Sound Right",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L30 #### **How to design assessment questions that AI cannot fake**",
+    "L44 #### **A moment from** [Mahelet G Fikru](https://open.substack.com/users/399759399-mahelet-g-fikru?utm_source=mentions)",
+    "L106 #### **What to Share**",
+    "L118 #### **Why AI fluency is a threat to learning**",
+    "L130 #### **From [Is your AI overwriting your memory?](http://Is your AI overwriting your memory?)**"
+  ],
+  "passages": [
+    {
+      "line": 44,
+      "text": "#### **A moment from** Mahelet G Fikru"
+    },
+    {
+      "line": 84,
+      "text": "Next, I adjusted the prompt by specifying that students should use a personal example so that each group of students presents different factors based on what is relevant to what they already know. This is even a better question because it helps students to remember the logic behind the answer as they are using an example that matters most to them."
+    },
+    {
+      "line": 88,
+      "text": "`Act as a sceptical Senior Educational Technologist. I will give you a topic. Generate one short, plain language question that tests whether someone genuinely understands this topic rather than can restate fluent AI output. The question must require explaining why the central idea works or fails in a specific case, be answerable in under 100 words, and make shallow understanding immediately visible. The question should also require students to use a personal example.`"
+    },
+    {
+      "line": 94,
+      "text": "When educators directly ask students to relate a concept through a personal example, students are discouraged from simply plugging the question into ChatGPT, because AI does not have access to their personal experiences. This requirement makes them pause and think."
+    },
+    {
+      "line": 106,
+      "text": "#### **What to Share**"
+    },
+    {
+      "line": 108,
+      "text": "Try the diagnostic prompt on a topic you teach or know well. Look at the question AI produces and ask yourself whether your students could answer it by copying the output back into the same tool. If they could, the question is not doing its job. If they could not, notice what changed: the question forced a leap that fluency alone cannot make."
+    },
+    {
+      "line": 130,
+      "text": "#### **From Is your AI overwriting your memory?**"
+    },
+    {
+      "line": 144,
+      "text": "If you try this week’s prompt, Mahelet G Fikru and I would love to hear what you discovered about the differences between fluency and understanding."
+    }
+  ]
+}

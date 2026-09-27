@@ -1,0 +1,24 @@
+{
+  "id": 13,
+  "title": "The Truth About People Pleasing",
+  "collection": "Adam Grant",
+  "path": "raw/inbox/Practical/Adam Grant/the-truth-about-people-pleasing.md",
+  "sha256": "84b6795326b7d6de932703aaa91e0826f106fadf0e366e0aba8687d727080636",
+  "access": "public-page",
+  "kind": "article",
+  "words": 391,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 395,
+      "text": "I’m a recovering people pleaser. For most of my life, I didn’t tell the Uber driver the car was freezing or the restaura"
+    },
+    {
+      "line": 25,
+      "offset": 1511,
+      "text": "After I described people pleasing as selfish, some of the audience disagreed: “It’s not selfish—it’s survival.” I think they got it wrong… and so did I."
+    }
+  ]
+}

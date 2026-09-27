@@ -1,0 +1,26 @@
+{
+  "id": 707,
+  "title": "Why not asking for what you want is holding you back | Kenneth Berger (exec coach, first PM @Slack)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/kenneth-berger/transcript.md",
+  "sha256": "271bf321738ce421501c0835d61e10ff43a82ff740b614f8b3e446afae0162e8",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 14749,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 863,
+      "text": "You were famously the first PM at Slack and th"
+    },
+    {
+      "line": 181,
+      "offset": 19093,
+      "text": "They didn't show up to the party or they didn't deliver on time because my CTO said, \"Yeah, I think maybe we can deliver by May 1st.\" And th"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 80,
+  "group_index": 7,
+  "decision": "retain",
+  "coverage": "Full available extracted article, L1–78. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L10–18: MBA prototype class",
+    "L24–32: human time, success likelihood and AI process costs",
+    "L44: projected saving",
+    "L58–60: purpose, limits, deliverables, done and checks"
+  ],
+  "basis": "Teaching observation and proposed delegation model.",
+  "reported_outcomes": [
+    "MBA participants made prototypes during a four-day class; no AI-native comparison group or controlled outperformance finding."
+  ],
+  "proposed_outcomes": [
+    "Include review and retry costs; define the delegated assignment."
+  ],
+  "limits": [
+    "Existing canonical entry adds an AI-native comparison, validation language and an inequality not shown in this article.",
+    "Projected savings are not observed results.",
+    "Benchmark win-or-tie rates are not local success probabilities.",
+    "Time alone omits responsibility, harm and retained skill."
+  ],
+  "related_entries": [
+    "mollick-management-ai-superpower-2026",
+    "bainbridge-ironies-automation-1983",
+    "partial-automation-principle",
+    "metacognitive-demand"
+  ],
+  "practice_files": [
+    "raw/mollick-080-management-as-ai-superpower-2026/drafts/practices/count-the-cost-of-review-before-delegating.md",
+    "raw/mollick-080-management-as-ai-superpower-2026/drafts/practices/define-the-delegation-before-the-agent-starts.md"
+  ],
+  "role": "origin",
+  "review_note": "Duplicate canonical source: source draft UPDATE ONLY. Two practice drafts; canonical corrections flagged, not applied."
+}

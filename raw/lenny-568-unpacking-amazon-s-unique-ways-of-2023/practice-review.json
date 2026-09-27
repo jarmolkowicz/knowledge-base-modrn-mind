@@ -1,0 +1,33 @@
+{
+  "id": 568,
+  "group_index": 18,
+  "decision": "draft_with_limits",
+  "coverage": "Read relevant complete transcript exchanges: L221–306; 00:35:26–00:50:27. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L221–306; 00:35:26–00:50:27"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Describes Amazon practice and consulting implementation."
+  ],
+  "proposed_outcomes": [
+    "Expose weak ideas and clarify customer value."
+  ],
+  "limits": [
+    "Retrospective field account, no causal comparison. Illustrative funnel counts are explicitly imaginary; the artifact is not evidence that customers want it. AI benefits would be an adaptation."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/lenny-568-unpacking-amazon-s-unique-ways-of-2023/drafts/practices/write-a-proposal-to-test-the-idea.md"
+  ],
+  "role": "origin",
+  "review_note": "Write a customer/problem/solution proposal and FAQ; revise through widening circles of critique and allow ideas to be rejected.",
+  "author": "Bill Carr",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/write-a-proposal-to-test-the-idea.md"
+  ],
+  "historical_drafts_retained": true
+}

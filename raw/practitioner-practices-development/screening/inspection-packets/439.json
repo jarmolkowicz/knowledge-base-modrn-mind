@@ -1,0 +1,33 @@
+{
+  "id": 439,
+  "title": "Why Your AI Prompts Produce Noise Instead of Decisions",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-precision-research-framework.md",
+  "sha256": "80ac88aad094bc0ecf457064e45c0ce0db3896ac61669462db1b692edcdc298a",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1271,
+  "headings": [
+    "**Step-by-step**",
+    "Teach AI Something It Cannot Know",
+    "**A moment from** [Raghav Mehra](https://open.substack.com/users/325219597-raghav-mehra?utm_source=mentions)",
+    "**Stop AI from stealing your voice**",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**From [AI Career Reflection: A Prompt to Evaluate Professional Adaptability](https://theslowai.substack.com/p/ai-career-reflection-prompt)**",
+    "**How I Plan a Week of Notes Without Losing Hours**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 263,
+      "text": "Most of us have now had the same experience. You ask your AI tool a qu"
+    },
+    {
+      "line": 118,
+      "offset": 5503,
+      "text": "AI makes it easy to produce pages of plausible content, which encourages scatter thinking. You can generate ten ideas in minutes and skim a field in an hour. The volume feels productive, but it becomes harder t"
+    }
+  ]
+}

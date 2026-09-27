@@ -1,0 +1,18 @@
+{
+  "new_practice_drafts": 8,
+  "update_proposals": 10,
+  "original_sources_checked": 19,
+  "families_accounted_for": 18,
+  "selected_draft_findings": [],
+  "other_workbench_findings": [
+    {
+      "check": "slug_year_mismatch",
+      "entry": "niederhoffer-workslop-2026",
+      "issue": "slug ends in -2026 but source.md page 1 mentions years ['2023', '2025'] only — none of which match. Likely the slug year is wrong.",
+      "fix": "check the source's actual publication year. If correct, rename the workbench dir + update source.json: slug to use the right year.",
+      "workbench": "niederhoffer-workslop-2026"
+    }
+  ],
+  "additional_failures": [],
+  "canonical_files_unchanged": 418
+}

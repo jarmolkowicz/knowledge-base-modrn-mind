@@ -1,0 +1,39 @@
+{
+  "id": 284,
+  "title": "Ban.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/delve.md",
+  "sha256": "0e2deb07994f8bc6593a293a6db0ac570d341d16c3073c4da0e22fe812065f1f",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1348,
+  "headings": [
+    "**1. Never use these (AI) words.**",
+    "So I spent a dozen hours finding the entire “overused-AI-words-that-only-AI-overuses, not-other-normal-human-beings” library.",
+    "**You are new? Access my archive of guides:**",
+    "**2. Recognize and delete (AI) expressions.**",
+    "The “IN A WORLD WHERE” DRAMA",
+    "The “MOST PEOPLE VS FEW WHO” SPLIT",
+    "The “STOP DOING X. START DOING Y.” SWITCH",
+    "The “NOT THIS. NOT THAT. BUT THIS.” TRIPLE",
+    "The “IF YOU’RE NOT DOING X, YOU’RE ALREADY BEHIND” FOMO",
+    "The “THE REAL WORK IS…” REVEAL",
+    "The “YOU DON’T NEED MORE X. YOU NEED Y.” MINIMALIST SMACK",
+    "The “IT’S NEVER BEEN EASIER / HARDER” PARADOX",
+    "The “HERE’S THE TRUTH / NOBODY TELLS YOU” FAKE REVEAL",
+    "**3. The copy & paste prompt to edit any text and remove its AI feel.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 120,
+      "text": "ChatGPT is obsessed with certain words: delve, tapestry, realm…"
+    },
+    {
+      "line": 36,
+      "offset": 731,
+      "text": "Last week, you learned how to remove em dashes and make ChatGPT write like you. I think you should read this first, before jumping into this section."
+    }
+  ]
+}

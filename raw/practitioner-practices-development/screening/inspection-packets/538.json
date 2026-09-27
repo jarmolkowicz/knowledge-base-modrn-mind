@@ -1,0 +1,26 @@
+{
+  "id": 538,
+  "title": "Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/albert-cheng/transcript.md",
+  "sha256": "3d54a9270941b408be3933d8b0183f47f092f0b0d72ec24925bd7af172e184b2",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 16988,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 891,
+      "text": "Growth as the job is to connect users to the value of"
+    },
+    {
+      "line": 211,
+      "offset": 20475,
+      "text": "And I think what's also kind of interesting is that just human nature is that if you have a question that you feel like you might be a bit embarrassed to ask or"
+    }
+  ]
+}

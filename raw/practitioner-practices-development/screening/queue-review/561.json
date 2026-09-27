@@ -1,0 +1,49 @@
+{
+  "queue_position": 202,
+  "id": 561,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ayo-omojola/transcript.md",
+  "sha256": "469a9a6d0a067c480d5e38e1c5ed18ba587cdb12ca4df8f62a4cae6be763ee53",
+  "title": "Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 37,
+      "text": "## Transcript"
+    },
+    {
+      "line": 250,
+      "text": "And this is like, again, a thing that I learned, which we went through. Between plastic, the overlay, the paper, the envelope, and the finishes, easily 1,000 combinations before we got to like the first version of the Cash Card that was shipped. And there's a team still there, still doing like literally physical card objects that are not the same as anything that exists in-market, just like going into differentiation thing. And then a lot of the stuff we did around our regulatory work, around prepaid, building a digital wallet, et cetera, made me realize that like a thing that would happen very frequently is, you want to work on something and you go talk to an expert. And usually for most people, an expert is not like, hey, the most expert person in the world, because that's a very, very hard thing to know who that is, especially when you're not an expert."
+    },
+    {
+      "line": 262,
+      "text": "You said you ask these questions that don't matter. Is there an example recently? Because that's a really interesting concept, of just a question you asked, or questions you like to ask that are just like, \"God damn it, why are you asking these questions?\""
+    },
+    {
+      "line": 271,
+      "text": "... there is a field in a database table that tells you why a payment was made. And there's a bunch of values in that field that are very articulate, like, \"Hey, this payment was made because it was co-pay, this payment was made because it was the patient was visiting without insurance,\" right? And then there's like a field, and it's empty. There's a value that's just null, and we use null as like, \"Hey...\" The way null is described is, after a claim is adjudicated and complete, and the patient has a balance, we leave that field blank if we're just billing the patient for their balance. The problem with that is, if there is any other exception or reason why a payment might occur, and we're in a complex environment, we have over 120 clinics, there's a lot of humans who can press the pay button in a bunch of different places, you will not know if it's included in that field, in that null value field."
+    },
+    {
+      "line": 313,
+      "text": "That is really good and practical advice. Before we wrap up, I want to give you a chance just to describe Carbon Health for folks that may not be familiar with it. Just like, what is it, where can you use it, how do you sign up, who's it for?"
+    },
+    {
+      "line": 382,
+      "text": "That's okay. I find that the first book, except for the Three-Body Problem where the first book is the worst book, I feel like with this and many of these books, the first one is like... I'm just going to stop I think at the first one, that's my plan."
+    },
+    {
+      "line": 424,
+      "text": "Interesting, very subtle. Oh, I see what you're saying. That feels so appropriate to you, Ayo. Just connecting people, it's like the core of your being. I could see why you love that meme. Next question, what's a favorite interview question that you like to ask when you're hiring, interviewing?"
+    },
+    {
+      "line": 451,
+      "text": "I am on Twitter @ay_o, and I write at kunle.app, K-U-N-L-E.app. And the way listeners can be useful to me is tell me what I'm wrong about, I love that. Just be like, \"Hey, you said this thing. It's false, here's an example of why,\" I love that."
+    },
+    {
+      "line": 454,
+      "text": "I love these answers to this question, because people love to leave comments on YouTube, and so we'll see-"
+    }
+  ]
+}

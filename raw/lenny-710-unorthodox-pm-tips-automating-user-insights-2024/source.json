@@ -1,0 +1,51 @@
+{
+  "slug": "lenny-710-unorthodox-pm-tips-automating-user-insights-2024",
+  "original_filename": "transcript.md",
+  "format": "md",
+  "source_type": "transcript",
+  "word_count": 18573,
+  "hash": "6d1b19ed1814c6f152a69244221657afb8ae69e777af44fce90ccf872e08cb56",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:47Z",
+  "decisions": [
+    {
+      "stage": "practice-review",
+      "outcome": "retain",
+      "date": "2026-09-26",
+      "reason": "Retain the dated record and scheduled revisit; AI adaptation is curator inference.",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/lenny-710-unorthodox-pm-tips-automating-user-insights-2024.md",
+      "practices": [
+        "practices/keep-a-decision-and-outcome-log.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 801,
+  "screening_id": 710,
+  "collected_from": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/kevin-yien/transcript.md",
+  "bibliographic_metadata": {
+    "title": "Unorthodox PM tips: Automating user insights, unselling candidates, decision logs, more | Kevin Yien",
+    "date": "2024-08-18",
+    "url": "https://www.youtube.com/watch?v=xOTO98MXG9o",
+    "collection": "Lenny's Podcast"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

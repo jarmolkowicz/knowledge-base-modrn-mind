@@ -1,0 +1,26 @@
+{
+  "id": 599,
+  "title": "How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/crystal-w/transcript.md",
+  "sha256": "d63c62ba8b4ab5552c06c64fbc2e85d8755e59ba148a3e13e19a54882c8d68cd",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 11166,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 38,
+      "offset": 809,
+      "text": "I felt like it was a problem that was very solvable. "
+    },
+    {
+      "line": 173,
+      "offset": 19371,
+      "text": "So everyone wants to go on retention. They want to see that users are doing this thing, and they want to get from step zero to 100 really quickly, but they don'"
+    }
+  ]
+}

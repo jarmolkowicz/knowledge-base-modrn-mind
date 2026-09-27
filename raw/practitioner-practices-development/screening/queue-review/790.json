@@ -1,0 +1,37 @@
+{
+  "queue_position": 365,
+  "id": 790,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ryan-singer/transcript.md",
+  "sha256": "89b6f6996a007f045ed38b313428626309ba5b2ca3edc3480d08ec98015e073e",
+  "title": "A better way to plan, build, and ship products | Ryan Singer (creator of “Shape Up\")",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 189,
+      "text": "(00:12:04):"
+    },
+    {
+      "line": 190,
+      "text": "And then the framework, Ruby on Rails, he ended up releasing that after Basecamp was standing. Because it was extracted from the things that were necessary to give V1 of Basecamp to stand up."
+    },
+    {
+      "line": 522,
+      "text": "(00:58:25):"
+    },
+    {
+      "line": 523,
+      "text": "You're not doing a new AI model. It's more about how do I use the APIs and the frameworks and the tech stack that we have? How do I put that together to build something? Then if the problem is clear and the time is now, you will be able to come to a conclusion about what's possible to build in three sessions, something like that. The key thing is leaning into those sessions and really wrestling with each other. If you have just the product and the designer there and then it's like, well, we'll show this to the technical person later, then it can all blow up. And then you find out it's more complicated than you thought and you have to go back to the drawing board. We need to have all the necessary information in the same room for these sessions to go fast."
+    },
+    {
+      "line": 738,
+      "text": "Ryan Singer (01:25:26):"
+    },
+    {
+      "line": 739,
+      "text": "Honestly, I think it starts the first project where, for example, the founding engineer is hands off and then the new hire is taking over responsibility. Or the person who was like sort of founder/CEO is first giving it to a PM to kind of thinking they're going to carry it through. And then, it's not exactly meeting their expectations of what they thought was going to happen. I think that's when those disconnects actually start. It's the first step away from the work where the seeds of all of these problems actually start."
+    }
+  ]
+}

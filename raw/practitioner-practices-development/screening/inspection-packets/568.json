@@ -1,0 +1,26 @@
+{
+  "id": 568,
+  "title": "Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/bill-carr/transcript.md",
+  "sha256": "3b3073ef1b2241b05871f645e892ad84a1f7f204a1a5c9a64b5940ce5c8bbb90",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 16534,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 824,
+      "text": "... Jeff would say, we took it as an article of faith"
+    },
+    {
+      "line": 258,
+      "offset": 43131,
+      "text": "So I work to have them first implement this PR/FAQ process is the first step. Then the next step really is to go from there to say, \"Okay, writing PR/FAQs is on"
+    }
+  ]
+}

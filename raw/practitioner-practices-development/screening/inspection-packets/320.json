@@ -1,0 +1,24 @@
+{
+  "id": 320,
+  "title": "How fast AI moves.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/past.md",
+  "sha256": "18f280f9f8599c3e346b430bdc07e4ebc87a7354b3730d73d37588fbc24edcda",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 857,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 147,
+      "text": "I was talking to a friend the other day, and she told me she was obsessed"
+    },
+    {
+      "line": 18,
+      "offset": 429,
+      "text": "Because people think they know ChatGPT, but they are talking about a ChatGPT of the past. The one from 2 years ago."
+    }
+  ]
+}

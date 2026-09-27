@@ -1,0 +1,30 @@
+{
+  "id": 458,
+  "title": "Guilty Until Proved Human",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/guilty-until-proved-human-ai-detection.md",
+  "sha256": "32eac034c5ffacf7fc2e7a8d91ad83b395fa79893127aa3cb42c9dbdb7416865",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1393,
+  "headings": [
+    "**The evidence**",
+    "Who is being harmed",
+    "The discrimination problem",
+    "**Follow the money**",
+    "**The alternative**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 395,
+      "text": "A student submits her essay. An algorithm flags it. She is now guilty "
+    },
+    {
+      "line": 34,
+      "offset": 1414,
+      "text": "For non-native English speakers, the numbers are catastrophic. Liang et al. (2023), published by Stanford researchers in *Patterns* (Cell Press), found that seven widely used GPT detectors flagged 61.3% of genu"
+    }
+  ]
+}

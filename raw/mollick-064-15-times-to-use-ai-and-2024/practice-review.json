@@ -1,0 +1,43 @@
+{
+  "id": 64,
+  "group_index": 0,
+  "decision": "merge",
+  "role": "support",
+  "locators": [
+    "L10–36, uses",
+    "L38–50, five non-use cases"
+  ],
+  "basis": "Ethan Mollick offers explicitly contextual experience-based advice with research links.",
+  "reported_outcomes": [
+    "Gives examples of AI-generated alternatives; no test of the whole decision checklist."
+  ],
+  "proposed_outcomes": [
+    "Choose assistance according to learning purpose, checkability and acceptable failure."
+  ],
+  "limits": [
+    "Tool capability examples are dated 2024. Broad statements about when effort is the point are judgment calls, not a universal ban on learning support. Linked studies not all verified."
+  ],
+  "related_entries": [
+    "cognitive-offloading",
+    "think-first"
+  ],
+  "review_note": "Merge decision criteria and learning-purpose boundary; no separate 20-item practice card.",
+  "practitioner": "Support access and task completion where these are the goal; retain the specific reasoning someone intends to practise.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [
+    "raw/newport-022-avoiding-digital-productivity-traps-2026/drafts/practices/choose-the-result-before-the-tool.md",
+    "raw/illingworth-523-how-to-hold-on-to-what-2025/drafts/practices/keep-one-thinking-step.md",
+    "raw/mollick-066-against-brain-damage-2025/drafts/practices/save-your-own-starting-point.md"
+  ],
+  "source_path": "raw/mollick-064-15-times-to-use-ai-and-2024/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/choose-the-result-before-the-tool.md",
+    "practices/save-your-own-starting-point.md",
+    "practices/keep-one-thinking-step.md"
+  ],
+  "historical_drafts_retained": true
+}

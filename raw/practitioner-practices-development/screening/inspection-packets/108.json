@@ -1,0 +1,39 @@
+{
+  "id": 108,
+  "title": "The Modrn Mind Workflow (Stage-Based)",
+  "collection": "Modrn Mind",
+  "path": "raw/inbox/Practical/Modrn Mind/Modern Mind Workflow v2.0.md",
+  "sha256": "7b1e6dce3a52a794f21d2a27d31ea6c0720af2e8d5f5320e27a5ec8501257fad",
+  "access": "extent_not_verified",
+  "kind": "internal_working_document",
+  "words": 4288,
+  "headings": [
+    "Core Principle: Cognitive Engagement Before AI Assistance",
+    "The Five Stages",
+    "1. LEARNING",
+    "2. RESEARCH",
+    "3. FORMING IDEAS",
+    "4. WRITING",
+    "5. EDITING",
+    "Stage 1: LEARNING (Building Domain Competence)",
+    "Option A: Orientation Mapping (Learning Roadmap)",
+    "Option B: Interactive Comprehension Building (Interactive Learning Reading)",
+    "Moving from Learning to Research",
+    "Stage 2: RESEARCH (Gathering & Processing Source Material)",
+    "Option A: Finding Sources (Research Assistant)",
+    "Option B: Deep Processing (Deep Reading - No AI)"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 5,
+      "offset": 103,
+      "text": "Research shows that early AI reliance causes \"shallow encoding\" and builds \"cognitive debt\" - when y"
+    },
+    {
+      "line": 9,
+      "offset": 903,
+      "text": "**How to Use This Workflow**: When working on professional writing, ask yourself: \"What stage am I in? How should I approach this task? Should I use AI, and if yes, how? What are the tradeoffs?\" This document presents options for each stage with honest assessment of consequences for your cognitive a"
+    }
+  ]
+}

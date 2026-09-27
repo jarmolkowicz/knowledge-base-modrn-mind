@@ -1,0 +1,45 @@
+{
+  "slug": "illingworth-529-you-will-be-accused-of-using-2026",
+  "original_filename": "you-will-be-accused-of-using-ai-here.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 2503,
+  "hash": "8dacd231d6c3d6e51f85dd7df3cbc98b536e8ac982954565aff8567dfb2d4134",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:45Z",
+  "decisions": [
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/illingworth-529-you-will-be-accused-of-using-2026.md",
+      "practices": [
+        "practices/keep-a-writing-process-record.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 181,
+  "screening_id": 529,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/you-will-be-accused-of-using-ai-here.md",
+  "bibliographic_metadata": {
+    "title": "You Will Be Accused of Using AI. Here Is How to Prove You Wrote It.",
+    "date": "2026-08-07",
+    "url": "https://theslowai.substack.com/p/you-will-be-accused-of-using-ai-here",
+    "collection": "Sam Illingworth"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "practice_review": "practice-review.json"
+}

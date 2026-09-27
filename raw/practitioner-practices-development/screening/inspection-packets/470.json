@@ -1,0 +1,30 @@
+{
+  "id": 470,
+  "title": "Slow Takes Ep. 26: Who Asked?",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/nyc-ai-ban-nvidia-hugging-face-uber.md",
+  "sha256": "4a5a2d633e1e3d3081a9737ec2e09697e1675525e3f9d119e0eb361343e70c0a",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1279,
+  "headings": [
+    "**1. New York pulls the plug for the under-14s**",
+    "**2. Nvidia buys the commons**",
+    "**3. Two AI systems, one investigation**",
+    "**4. Same job, two prices**",
+    "**5. A shirt the cameras cannot read**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 397,
+      "text": "Every Monday, Leor from Exploring ChatGPT and I go through the wee"
+    },
+    {
+      "line": 25,
+      "offset": 994,
+      "text": "New York City has suspended student-facing generative AI from 2-K through eighth grade for a school year, around 600,000 children, which is two-thirds of the system, and removed companion chatbots fro"
+    }
+  ]
+}

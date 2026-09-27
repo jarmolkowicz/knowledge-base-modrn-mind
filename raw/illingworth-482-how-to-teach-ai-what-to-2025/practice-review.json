@@ -1,0 +1,33 @@
+{
+  "id": 482,
+  "group_index": 15,
+  "decision": "merge_as_support_with_limits",
+  "coverage": "Read the complete available local article body; linked images, videos and external claims not independently inspected.",
+  "locators": [
+    "L30–64, L76–90"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Author reports a playful exchange about toast and routines."
+  ],
+  "proposed_outcomes": [
+    "Prompt reflection before sharing information."
+  ],
+  "limits": [
+    "Not a privacy risk assessment, training of confidentiality, or change to retention settings. Exaggerated and minimized stories can both mislead. No separate recommended privacy card."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/illingworth-436-every-ai-onboarding-tool-is-already-2026/drafts/practices/ask-before-workplace-data-disclosure.md"
+  ],
+  "role": "support",
+  "review_note": "Use invented trivial disclosures to notice how the framing of a privacy question changes generated stories.",
+  "author": "Sam Illingworth",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/ask-before-workplace-data-disclosure.md"
+  ],
+  "historical_drafts_retained": true
+}

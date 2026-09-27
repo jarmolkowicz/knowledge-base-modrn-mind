@@ -1,0 +1,25 @@
+{
+  "slug": "illingworth-452-do-you-really-understand-your-ai-2025",
+  "original_filename": "do-you-really-understand-your-ai.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 1532,
+  "hash": "2190eb9587325e3cc6ea6eda9bcb47cc8a592f5afd947e4622cfe9f757e7abc3",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "critiqued",
+  "ingested_at": "2026-09-26T20:59:44Z",
+  "decisions": [],
+  "lines": 195,
+  "screening_id": 452,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/do-you-really-understand-your-ai.md",
+  "bibliographic_metadata": {
+    "title": "Do You Really Understand Your AI Tool?",
+    "date": "2025-12-02",
+    "url": "https://theslowai.substack.com/p/do-you-really-understand-your-ai",
+    "collection": "Sam Illingworth"
+  },
+  "draft_only": true,
+  "integration_decision": "pending",
+  "practice_review": "practice-review.json"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 528,
+  "title": "One Builds Worlds. One Predicts Words.",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/world-models-vs-word-models.md",
+  "sha256": "b1a951bf171a59ed1322dba62fb0ab1ad03e0f4fbba75941793361b9c3ae6101",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1681,
+  "headings": [
+    "**A billion dollar bet against your chatbot**",
+    "**What your AI tool actually does**",
+    "**What world models do differently**",
+    "**Why this matters for how you use AI**",
+    "**The real question about AI is not whether it will get smarter**",
+    "**What comes after word prediction, and how to be ready for it**",
+    "**What transfers from critical AI literacy**",
+    "**What you need to start building now**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 410,
+      "text": "Last week, the most decorated AI scientist alive bet a billion dol"
+    },
+    {
+      "line": 115,
+      "offset": 9698,
+      "text": "**3. Judgement about when the model is enough and when it is not.** This is the hardest skill and the one least likely to be taught in any corporate AI training. World models will be convincing. They "
+    }
+  ]
+}

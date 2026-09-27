@@ -1,0 +1,28 @@
+{
+  "id": 428,
+  "title": "AI cannot be your friend",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-friendship-contradiction-curriculum.md",
+  "sha256": "8f15d3e624a174ce2afe126e7c6114c0b29dd081a6adc69a2ce062989671fec4",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 920,
+  "headings": [
+    "**The theory**",
+    "**The prompt**",
+    "**The dialogue**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 210,
+      "text": "The *Slow AI Curriculum for AI Literacy* is now open for registration."
+    },
+    {
+      "line": 38,
+      "offset": 2591,
+      "text": "To observe the friend-tool contradiction in practice, you must test the AI’s capacity for genuine relational friction. Copy and paste the following prompt into your tool:"
+    }
+  ]
+}

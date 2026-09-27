@@ -1,0 +1,33 @@
+{
+  "id": 425,
+  "title": "Fiction as a Mirror for Students Using AI",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-fiction-student-reflection.md",
+  "sha256": "79a6b8182ff1d109e84fecf9e8353934fbd3010ac0e6832ec1b77a3b138949fa",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1960,
+  "headings": [
+    "**Step-by-step**",
+    "Teach AI Something It Cannot Know",
+    "**A moment from** [Steve Peha](https://open.substack.com/users/24543784-steve-peha?utm_source=mentions)",
+    "**Stop AI from stealing your voice**",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**From [Using AI for Meditation](https://theslowai.substack.com/p/ai-meditation-reflective-prompt)**",
+    "**How I Plan a Week of Notes Without Losing Hours**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 235,
+      "text": "Stories allow children to recognise complex truths before they have th"
+    },
+    {
+      "line": 38,
+      "offset": 2500,
+      "text": "If you are doing this with your students, then introduce the exercise by demonstrating the prompt on a shared screen. Allow students to choose their own figures or provide a curated list relevant to your curren"
+    }
+  ]
+}

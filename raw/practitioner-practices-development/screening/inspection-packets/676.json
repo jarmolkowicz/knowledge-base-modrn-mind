@@ -1,0 +1,26 @@
+{
+  "id": 676,
+  "title": "What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe, Google)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jeanne-grosser/transcript.md",
+  "sha256": "1f8349d561342278a16cee0173d76d6c374f1e1162ac4ae863e2b2159be08220",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15136,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 851,
+      "text": "I've been getting so many asks for go-to-marke"
+    },
+    {
+      "line": 172,
+      "offset": 24421,
+      "text": "I think on prospecting it can replace a fair amount because the average SDR wasn't doing overly sophisticated research in the first place. S"
+    }
+  ]
+}

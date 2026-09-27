@@ -1,0 +1,28 @@
+{
+  "id": 65,
+  "title": "A Guide to Which AI to Use in the Agentic Era",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/a-guide-to-which-ai-to-use-in-the.md",
+  "sha256": "9c30e5c3faf4515cb7c8e556621b3ee2590580882ed588b20fde51665bcd1102",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 3083,
+  "headings": [
+    "The Models Right Now",
+    "The Chatbot Interfaces",
+    "Other apps and harnesses"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 243,
+      "text": "I have written eight of these guides since ChatGPT came out, but this version represents a very larg"
+    },
+    {
+      "line": 36,
+      "offset": 6756,
+      "text": "When you are using any AI app (more on those shortly), including phone apps or websites, **the single most important thing you can do is pick the right model,** which the AI companies do not make easy. If you are just chatting, the default models are fine, if you want to do real work, they are not. "
+    }
+  ]
+}

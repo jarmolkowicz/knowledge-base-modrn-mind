@@ -1,0 +1,26 @@
+{
+  "id": 664,
+  "title": "Notion's lost years, near collapse during COVID, staying small to move fast, building horizontal",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ivan-zhao/transcript.md",
+  "sha256": "f1bd2d547638ecbaa93388aa204f59cb8dc95dcb30c42dd405046098335ee239",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 12796,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 37,
+      "offset": 839,
+      "text": "The way you described the early years of Notio"
+    },
+    {
+      "line": 478,
+      "offset": 60073,
+      "text": "We definitely did not expect language model. It's such a gift for everybody building tools, right? Complete change the material you can work"
+    }
+  ]
+}

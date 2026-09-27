@@ -1,0 +1,37 @@
+{
+  "queue_position": 283,
+  "id": 682,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jerry-colonna/transcript.md",
+  "sha256": "5db1e677fb62f5372ef1b8b4f853a8d90dea2f3f14a517448fe58d156e712e30",
+  "title": "How have I been complicit in creating the conditions I say I don’t want? | Jerry Colonna",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 297,
+      "text": "Jerry Colonna (00:36:55):"
+    },
+    {
+      "line": 298,
+      "text": "What, is she an idiot? No, she's a smart person. The people who actually know you and care about you may be proud of your efforts, but their love for you is not dependent upon its success. And that's like a rewiring. Do you have children?"
+    },
+    {
+      "line": 429,
+      "text": "Lenny Rachitsky (01:01:47):"
+    },
+    {
+      "line": 430,
+      "text": "Along these lines of glasses and even coaching, the world of coaching, there's a really interesting use case I saw today that Dan Shipper shared that I think you'd love, which is now that ChatGPT has memory, remembers everything you've said, and you can think back, you can ask it, \"What are blank spots in the way I see the world that I'm not seeing?\" You could also upload all your chat transcripts from your meetings and ask it what could you do better in meetings?"
+    },
+    {
+      "line": 432,
+      "text": "Jerry Colonna (01:02:14):"
+    },
+    {
+      "line": 433,
+      "text": "Look, one of my colleagues in the coaching company, he has uploaded, he kept all of his journal entries, I think over 10 years journal entries from Evernote, and he uploaded that. I think he uses Claude, and he's asked Claude to highlight things. What am I not saying that I need to say? What am I saying that's not being heard? He's asked it to reflect back, and I think it's been incredibly helpful for him. I think the result is that he is a better coach, which is interesting, because the feeling is, well, does this replace it? I am finding, I'm using ChatGPT really as a writing and thinking partner in a way that I did not have before, and I'm still using my live real human writing buddies, which are really important to me. Where does this all end up? I had no idea. It is unsettling, it's uncanny, and it's also enlivening and exciting."
+    }
+  ]
+}

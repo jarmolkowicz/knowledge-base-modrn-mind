@@ -1,0 +1,26 @@
+{
+  "id": 634,
+  "title": "Failure",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/failure/transcript.md",
+  "sha256": "dd2001e1050d0b2cd8fd902b779717a741c1dc05b9daccbfde474dd173c70af9",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 11738,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 681,
+      "text": "Today we've got another very special compilati"
+    },
+    {
+      "line": 216,
+      "offset": 33787,
+      "text": "Growth experiments in my history are typically like 30%-ish success rate. So the vast majority of things that you try don't work. And so you"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 378,
+  "title": "Every Claude Code Concept Explained for Normal People",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/every-claude-code-concept-explained-beginners.md",
+  "sha256": "03ffa1bdb3a9a8a182cd1fbf8e744a49fa01b422afd9d46c0b051f78589c9c21",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 6434,
+  "headings": [
+    "Section 1: Getting Started",
+    "1. The Terminal",
+    "2. Installation + Pricing",
+    "3. File Access",
+    "4. Image + PDF Reading",
+    "Section 2: Your First Real Tasks",
+    "5. Tool Use (Claude ACTS, Not Chats)",
+    "6. How to Talk to Claude Code",
+    "7. CLAUDE.md (Your AI’s Instruction Manual)",
+    "8. Plan Mode",
+    "Section 3: How Claude’s Brain Works",
+    "9. Context Window",
+    "10. Tokens + Cost Management",
+    "11. Model Selection (Picking the Right Brain)"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 294,
+      "text": "You type something. It types back. Fancy autocomplete."
+    },
+    {
+      "line": 180,
+      "offset": 7824,
+      "text": "And here’s a power move: instead of trying to write the perfect prompt, let Claude help you write it."
+    }
+  ]
+}

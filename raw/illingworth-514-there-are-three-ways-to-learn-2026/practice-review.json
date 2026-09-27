@@ -1,0 +1,43 @@
+{
+  "id": 514,
+  "group_index": 4,
+  "decision": "retain",
+  "role": "origin",
+  "locators": [
+    "L27–75, study interpretation",
+    "L109–151, three exercises and audit question"
+  ],
+  "basis": "Sam Illingworth proposes workplace exercises from Shen and Tamkin’s exploratory coding interaction patterns.",
+  "reported_outcomes": [
+    "No outcomes for the proposed workplace exercises. Cited study compares AI access and describes small behavior clusters."
+  ],
+  "proposed_outcomes": [
+    "Ask conceptual questions then perform a task; investigate generated work before accepting it."
+  ],
+  "limits": [
+    "Strategies were not randomized. Local research entry gives low-cluster mean around 39%, not learned nothing. Durable skill atrophy, universal learning loss and transfer beyond coding are not established. Model explanations are generated rationales, not records of internal decisions."
+  ],
+  "related_entries": [
+    "shen-skill-formation-2026",
+    "six-pattern-diagnostic",
+    "bjork-desirable-difficulties-2011",
+    "fernandes-metacognition-2025"
+  ],
+  "review_note": "Retain question-first exercise, distinguish variants and add a real attempt instead of relying on Could I do it? self-report. Reject moral framing that needing AI means avoiding learning.",
+  "practitioner": "Separate learning goal from assisted task completion. Keep access aids, external answers and human instruction available.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [
+    "raw/illingworth-514-there-are-three-ways-to-learn-2026/drafts/practices/ask-about-the-gap-then-do-the-task.md",
+    "raw/lenny-698-from-managing-people-to-managing-ai-2025/drafts/practices/explain-it-back-before-the-correction.md"
+  ],
+  "source_path": "raw/illingworth-514-there-are-three-ways-to-learn-2026/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/ask-about-the-gap-then-do-the-task.md",
+    "practices/explain-it-back-before-the-correction.md"
+  ],
+  "historical_drafts_retained": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": 316,
+  "title": "Anything.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/master.md",
+  "sha256": "34ac4965bc1413450f8ff609133619b5512dd018d8d9cfe56bdefe690ba701c2",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 894,
+  "headings": [
+    "**Table of contents**",
+    "1. How to find the gem through the noise.",
+    "The wrong way…",
+    "The right way…",
+    "2. How I feed it to AI.",
+    "3. The exact steps to make one.",
+    "4. Say “Hi!” to your mentor."
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 131,
+      "text": "I went from 0 to (nearly) 700,000 followers in 3 years."
+    },
+    {
+      "line": 72,
+      "offset": 2330,
+      "text": "Your algorithm - would it be Linkedin, YouTube, X - is as good as your scrolling sessions. The first step of joining my team is to 1) create a fresh social account 2) type “AI” 3) like and save as many **good** (= useful"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 267,
+  "title": "Pro.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/banana-2.md",
+  "sha256": "1fd998a999d76daac5377e2a36e35d5f13c110c1f38bffa338405af4fdd10ada",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 458,
+  "headings": [
+    "**How to access “nano-banana-pro”**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 14,
+      "offset": 192,
+      "text": "Google released “nano-banana-pro” right inside Gemini."
+    },
+    {
+      "line": 102,
+      "offset": 7030,
+      "text": "**Prompt**: “The most weird mundane photo you can imagine.”"
+    }
+  ]
+}

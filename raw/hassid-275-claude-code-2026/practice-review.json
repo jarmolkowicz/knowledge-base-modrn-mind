@@ -1,0 +1,36 @@
+{
+  "id": 275,
+  "group_index": 8,
+  "decision": "counterexample",
+  "coverage": "Full available extracted article, L1–417. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L101, L123, L133, L217, L369: permissive approvals",
+    "L271: incremental construction",
+    "L321–325: visual review, brief, repeated-error advice"
+  ],
+  "basis": "Promotional tool tutorial.",
+  "reported_outcomes": [],
+  "proposed_outcomes": [
+    "Build prototypes with small instructions and visible feedback."
+  ],
+  "limits": [
+    "Blanket permission bypass is not a general practice.",
+    "Visual inspection cannot verify data handling, authorization or backend behavior.",
+    "Every-time repair claims unsupported."
+  ],
+  "related_entries": [
+    "automation-bias",
+    "agency"
+  ],
+  "practice_files": [
+    "raw/hassid-339-vibecoding-2026/drafts/practices/use-a-prototype-to-brief-a-developer.md"
+  ],
+  "role": "counterexample",
+  "review_note": "Boundary case for prototype review; exclude permissive setup and repair guarantees.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/use-a-prototype-to-brief-a-developer.md"
+  ],
+  "historical_drafts_retained": true
+}

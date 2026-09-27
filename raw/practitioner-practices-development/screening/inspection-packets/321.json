@@ -1,0 +1,38 @@
+{
+  "id": 321,
+  "title": "Slides.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/powerpoint.md",
+  "sha256": "de9ebe89c529bed465aec3daeae8b7cc87d39f0f7aa9a5d4a1c9fc7df9457c84",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1744,
+  "headings": [
+    "**Method #1. Claude**",
+    "**Method #2. Gamma**",
+    "**Method #3. Claude + Gamma**",
+    "**How I recommend it** (Research → Brief → Generate)",
+    "**The ultimate guides for AI + slides, for teams.**",
+    "**Step 1: Create your Gamma theme.**",
+    "**Step 2: Build your brand rules file.**",
+    "**Step 3: Add Gamma settings to the file.**",
+    "Gamma Settings - Theme: [name of the theme you saved earlier]",
+    "**Step 4: Use it.**",
+    "**Step 5: Update it.**",
+    "Be that person.",
+    "archive of my past blogs: https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 324,
+      "text": "It’s 2026, so you better not make your slides manually. AI does it for yo"
+    },
+    {
+      "line": 52,
+      "offset": 1966,
+      "text": "**The catch:** Claude writes and structures well, has great research capabilities, but the visual side stays basic. Good enough for a team sync (if they really don’t care about designs). Too flat for a client meeting."
+    }
+  ]
+}

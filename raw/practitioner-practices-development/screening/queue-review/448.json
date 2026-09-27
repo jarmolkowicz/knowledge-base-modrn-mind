@@ -1,0 +1,62 @@
+{
+  "queue_position": 137,
+  "id": 448,
+  "path": "raw/inbox/Practical/Sam Illingworth/best-response-to-ai-is-a-library-card.md",
+  "sha256": "90d2a05b94aba064fecfe7fb4b00287db578de6b31f5b9803c127442ec8610f1",
+  "title": "The Best Response to AI Is a Library Card",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L25 #### **You cannot be AI literate if you are not literate first**",
+    "L39 #### **What reading does that AI cannot replicate**",
+    "L59 #### **Critical literacy is not a specialised skill**",
+    "L71 #### **Why libraries are worth fighting for**",
+    "L83 #### **The Slow AI Public Library**",
+    "L97 #### **Why literacy comes before everything**"
+  ],
+  "passages": [
+    {
+      "line": 25,
+      "text": "#### **You cannot be AI literate if you are not literate first**"
+    },
+    {
+      "line": 33,
+      "text": "We have skipped a step. The conversation about AI literacy has leapt straight to prompt engineering and responsible use without asking whether the person at the keyboard has the critical literacy to evaluate what the machine produces. You cannot assess AI output if you have never learned to assess an argument. You cannot spot a hallucinated citation if you have never read the real thing."
+    },
+    {
+      "line": 59,
+      "text": "#### **Critical literacy is not a specialised skill**"
+    },
+    {
+      "line": 61,
+      "text": "There is a phrase in education: ‘reading across the curriculum.’ It means that reading is not the English department’s responsibility. It belongs everywhere. Every subject builds on the ability to read, interpret, and question a text."
+    },
+    {
+      "line": 71,
+      "text": "#### **Why libraries are worth fighting for**"
+    },
+    {
+      "line": 75,
+      "text": "They are one of the few remaining public spaces where you can think slowly, borrow freely, and encounter ideas you did not ask for. A library does not optimise your reading. It lets you wander. That wandering is where the unexpected connections happen, the ones no recommendation engine would have made."
+    },
+    {
+      "line": 83,
+      "text": "#### **The Slow AI Public Library**"
+    },
+    {
+      "line": 87,
+      "text": "The Slow AI Public Library asks you three questions about how you use AI, what worries you about it, and what you have not made time for lately. Then it prescribes you a book. Not an AI book. A book that builds the skills AI erodes: judgement, empathy, patience, close reading, the ability to hold not-knowing."
+    },
+    {
+      "line": 89,
+      "text": "44 books. Fiction, poetry, non-fiction. Authors from 16 countries. Every one of them chosen because it builds something that no prompt can replicate."
+    },
+    {
+      "line": 97,
+      "text": "#### **Why literacy comes before everything**"
+    },
+    {
+      "line": 107,
+      "text": "*Paid membership gets you access to a fully accredited curriculum, monthly live seminars, a community of over 220 policymakers, educators, and creators, and full access to all Slow AI posts.*"
+    }
+  ]
+}

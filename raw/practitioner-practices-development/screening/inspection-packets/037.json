@@ -1,0 +1,24 @@
+{
+  "id": 37,
+  "title": "No One Knows Anything About AI",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/no-one-knows-anything-about-ai.md",
+  "sha256": "161bb327bb65eb243ec74ec053735117e2415ad78b577b827aadaaf14b945d96",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 817,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 9,
+      "offset": 168,
+      "text": "I want to present you with two narratives about AI. Both of them are about using this technology to automate computer pr"
+    },
+    {
+      "line": 11,
+      "offset": 354,
+      "text": "The first narrative notes that Large Language Models (LLMs) are exceptionally well-suited for coding because source code, at its core, is just very well-structured text, which is exactly what these models excel at generating. Because of this tight match between need and capability, the programming industry is serving as an economic sacrificial lamb, the firs"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 629,
+  "title": "Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/eric-simons/transcript.md",
+  "sha256": "b7a5d4d7bb420d69cf68f7849f497c47380a34a0b87a9cf74fd07634525223ed",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 16988,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 864,
+      "text": "The rate you're growing is absurd. You're in this coh"
+    },
+    {
+      "line": 595,
+      "offset": 73460,
+      "text": "What I didn't really think about though, is if AI, if LLMs are going to get better at a specific vertical, which are going to be the things that it would be. An"
+    }
+  ]
+}

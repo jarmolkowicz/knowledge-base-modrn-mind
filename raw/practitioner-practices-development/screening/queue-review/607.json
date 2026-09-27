@@ -1,0 +1,45 @@
+{
+  "queue_position": 232,
+  "id": 607,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/dhanji-r-prasanna/transcript.md",
+  "sha256": "5858b55a486b04d0dfb5654a046ce69e795df71b6d4949cdc0889e48f5035884",
+  "title": "How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 213,
+      "text": "Dhanji R. Prasanna (00:21:49):"
+    },
+    {
+      "line": 214,
+      "text": "So Goose is a general purpose AI agent. So you can think of it as a desktop tool or a program that you can download and install on your computer and then it has a UI. You can talk to it just like a chatbot and you can say anything from, \"Hey Goose, organize my photos by category, and it has the ability to look within your photos and if there are a lot of trees, it'll organize them as nature photos. And there are a lot of people, it'll organize them as portraiture.\" All of this sort of stuff to writing software for you."
+    },
+    {
+      "line": 345,
+      "text": "(00:39:40):"
+    },
+    {
+      "line": 346,
+      "text": "So a lot of times, I tell teams just question the base assumption, particularly our InfoSec teams because they'll twist themselves into knot sometimes trying to secure something and you'll be like, \"We'll just ask the team that's building it to do it differently or to not build that at all if it doesn't matter, and then you won't have to increase your surface area of securing it.\" So I think those are the areas where it's better for a human to use judgment and AI has not done a great job."
+    },
+    {
+      "line": 441,
+      "text": "Dhanji R. Prasanna (00:54:04):"
+    },
+    {
+      "line": 442,
+      "text": "I would say really try and use these tools yourself. So the way in which I think we've been able to drive most of the adoption is Jack uses Goose, I use Goose, our executive team all have used Goose and use it regularly and use other AI programming tools and assistance as well, and we do it every single day."
+    },
+    {
+      "line": 465,
+      "text": "Dhanji R. Prasanna (00:56:56):"
+    },
+    {
+      "line": 466,
+      "text": "Yeah, pretty much. I said, \"I have all these receipts there in Google Drive, so we have similar origin problem there and I need to get them into a single form and I need to collate the totals and do all this.\" So it tried a few approaches first. It tried to download them and it tried to read them using a PDF reader and this and that. And then the thing about Goose that I think a lot of the other AI agents learn from us as well is if it tries a few things and fails, it'll back up and it'll try a different route and it'll just keep going until it makes some progress."
+    }
+  ]
+}

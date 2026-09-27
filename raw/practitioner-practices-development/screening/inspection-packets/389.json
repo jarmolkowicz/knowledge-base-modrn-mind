@@ -1,0 +1,31 @@
+{
+  "id": 389,
+  "title": "How to make ChatGPT & Claude sound like a human",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/how-to-make-chatgpt-and-claude-sound-human.md",
+  "sha256": "6ff14c4a4264f422db413cfab4ac63997aa991c39bba469d5f78bdb9537b7f48",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1106,
+  "headings": [
+    "Free AI Watermark Remover",
+    "What About Claude Watermark Based on Words?",
+    "AI Humanizer Prompt - Intro",
+    "How to Use The AI Humanizer Prompt",
+    "Copy Paste Sabrina’s AI Humanizer Prompt",
+    "Not Sure Where To Start? 👇"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 436,
+      "text": "***TLDR: Free watermark remover and amazing AI humanizer prompt to fix"
+    },
+    {
+      "line": 59,
+      "offset": 2150,
+      "text": "This single prompt substantially humanizes AI-generated outputs, so that they sound less AI, more human. The prompt contains a comprehensive list of AI writing signs and phrases, then instructs AI to avoid them"
+    }
+  ]
+}

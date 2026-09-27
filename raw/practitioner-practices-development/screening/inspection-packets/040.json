@@ -1,0 +1,24 @@
+{
+  "id": 40,
+  "title": "On Craft and the Human Condition",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/on-craft-and-the-human-condition.md",
+  "sha256": "39e0d0f336aa936abef798dd39c9aa452eeeac8740b79eb96dd08c383e4e6f95",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 310,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 9,
+      "offset": 174,
+      "text": "In *Deep Work*, I tell the story of Ric Furrer, a general blacksmith who runs a forge in Door County, Wisconsin: a rural"
+    },
+    {
+      "line": 15,
+      "offset": 1346,
+      "text": "As I then elaborate, there’s something about mastery that resonates with the human condition. When we observe someone successfully apply a hard-won skill — an athlete, a writer, a leader, an adventurer, a musician — we become rapt, our admiration unmistakable. We also, crucially, tend to feel a moment of inspiration in which we experience a compulsion to pur"
+    }
+  ]
+}

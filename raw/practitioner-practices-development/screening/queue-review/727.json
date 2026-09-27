@@ -1,0 +1,25 @@
+{
+  "queue_position": 315,
+  "id": 727,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/marc-benioff/transcript.md",
+  "sha256": "e92aef987b27ee393453084c4283680c23855dab654d971e981854013012e05c",
+  "title": "Behind the founder: Marc Benioff",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 36,
+      "text": "## Transcript"
+    },
+    {
+      "line": 330,
+      "text": "Then, when I talk to my doctors and nurses at UCSF, they're all burnt out post-pandemic because they're scheduling pajama time to go through all their digital messages at night. It's like a lot of this could be done a lot easier with agents and AI, and we're going to make their lives a lot better, a lot easier, simpler. Some of those things that they're doing, they don't need to talk to me about what my cholesterol number is because I got my labs, and the cholesterol number is this number or that number. A lot of this can be done with technology, and then save the parts that are important for them like when I come to see them or I want to have a real, deeper, more empathetic conversation face-to-face with a deeply experienced doctor. That's a whole another opportunity for me."
+    },
+    {
+      "line": 348,
+      "text": "This week, at Salesforce, we'll probably do about 2 trillion AI transactions. With our total now, Einstein and Agentforce platforms, we're definitely the largest provider of enterprise AI transactions in the world as far as I could tell, and I keep thinking, \"Wow, this is going to get more and more intense.\" One step was we had to automate all these customer touch points. So like wearing my Disney fanboy shirt here, we run the Disney Store and the Disney Guides, and there's Disney Real Estate, and there's the DisneyQuest call center, and there's... Every aspect of Disney. When you're a customer, you're interfacing with Salesforce."
+    }
+  ]
+}

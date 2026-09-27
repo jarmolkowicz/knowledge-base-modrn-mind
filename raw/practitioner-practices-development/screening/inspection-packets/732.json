@@ -1,0 +1,26 @@
+{
+  "id": 732,
+  "title": "The surprising truth about what closes deals: Insights from 2.5m sales conversations | Matt Dixon",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/matt-dixon/transcript.md",
+  "sha256": "043b3418af6e82f6cd107f9fdd5dfc96566d9d6747c6f05b9229a6cb332fe710",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 12096,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 855,
+      "text": "We collected two and a half million sales call"
+    },
+    {
+      "line": 115,
+      "offset": 8730,
+      "text": "What makes Enterpret special is its ability to build customer-specific adaptive AI models that provide the most granular and accurate catego"
+    }
+  ]
+}

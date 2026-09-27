@@ -1,0 +1,32 @@
+{
+  "slug": "mollick-105-what-can-be-done-in-59-2024",
+  "original_filename": "what-can-be-done-in-59-seconds-an.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 2200,
+  "hash": "b46caa2c3212158aa35390afc5bae36b034c5b06e03f87adb433767bdc1b8fcd",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "critiqued",
+  "ingested_at": "2026-09-26T20:59:42Z",
+  "decisions": [
+    {
+      "stage": "practice_review",
+      "date": "2026-09-26",
+      "decision": "counterexample",
+      "scope": "draft_only",
+      "integration": "pending"
+    }
+  ],
+  "lines": 73,
+  "screening_id": 105,
+  "collected_from": "raw/inbox/Practical/Ethan Mollick/what-can-be-done-in-59-seconds-an.md",
+  "bibliographic_metadata": {
+    "title": "What Can be Done in 59 Seconds",
+    "date": "2024-01-31",
+    "url": "https://www.oneusefulthing.org/p/what-can-be-done-in-59-seconds-an",
+    "collection": "Ethan Mollick"
+  },
+  "draft_only": true,
+  "integration_decision": "pending"
+}

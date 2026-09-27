@@ -1,0 +1,40 @@
+{
+  "id": 414,
+  "group_index": 2,
+  "decision": "retain",
+  "role": "origin",
+  "locators": [
+    "L53–74, Tina Austin critique",
+    "L80–128, revised exercise and limits",
+    "L132–148, classroom procedure"
+  ],
+  "basis": "Joint public exchange between Sam Illingworth and Tina Austin, ending with a proposed classroom design.",
+  "reported_outcomes": [
+    "Documents correction of an earlier study claim and a revised exercise; no student outcome data for this exercise."
+  ],
+  "proposed_outcomes": [
+    "Keep initial position, opposing argument construction and explanation of revision with the learner."
+  ],
+  "limits": [
+    "The 22 interviews discussed cannot demonstrate durable trait change. Divergent outputs can arise from prompts, context and sampling, not necessarily user identity. Forty-minute timing is proposed, not optimized. Excessive questioning can exhaust learners."
+  ],
+  "related_entries": [
+    "think-first",
+    "bjork-desirable-difficulties-2011"
+  ],
+  "review_note": "Retain the September procedure rather than the earlier AI-generates-both-sides version; explicit attribution to both authors.",
+  "practitioner": "Record the baseline by speech, drawing or typing; give novices source material and teacher support.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [
+    "raw/illingworth-414-ai-changes-the-learner-2026/drafts/practices/build-the-opposing-case-yourself.md"
+  ],
+  "source_path": "raw/illingworth-414-ai-changes-the-learner-2026/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/build-the-opposing-case-yourself.md"
+  ],
+  "historical_drafts_retained": true
+}

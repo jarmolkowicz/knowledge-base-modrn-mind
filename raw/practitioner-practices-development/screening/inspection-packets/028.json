@@ -1,0 +1,24 @@
+{
+  "id": 28,
+  "title": "Did OpenAI’s New Model “Go Rogue”?",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/did-openais-new-model-go-rogue.md",
+  "sha256": "5127f711046fb5ca671a1c53b3e4aa3903280e1c7ef424dc87ca31e31e460455",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1103,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 389,
+      "text": "A couple of weeks ago, the AI company Hugging Face ​announced​ that they had discovered an intrusion into their producti"
+    },
+    {
+      "line": 29,
+      "offset": 2315,
+      "text": "A large language model on its own, of course, cannot break into anything: all it does is generate reasonable next tokens in response to input prompts. To use ExploitGym, you need a control program called a *harness* that provides access to many different software development tools useful for hacking into systems. The harness can repeatedly prompt an LLM to h"
+    }
+  ]
+}

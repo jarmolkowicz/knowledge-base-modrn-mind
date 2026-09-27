@@ -1,0 +1,37 @@
+{
+  "queue_position": 294,
+  "id": 694,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/judd-antin/transcript.md",
+  "sha256": "602a564d5f5a279dc57b03487fd84d06331f8ef21d8e980485714d7eeee74c90",
+  "title": "The UX Research reckoning is here | Judd Antin (Airbnb, Meta)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 41,
+      "text": "Lenny (00:00:54):"
+    },
+    {
+      "line": 42,
+      "text": "Today my guest is Judd Anton. Judd helped build the user research practice at Facebook. He was a longtime head of research at Airbnb, and his direct reports have gone on to lead research teams at Figma, Notion, Slack, Robinhood, Duolingo, Fair, and other amazing companies. These days, Judd spends his time consulting, helping companies with organizational challenges, product strategy, design, research, hiring, onboarding, and crisis management. In our conversation, we unpack a conclusion that Jud has come to recently about how the user research field is going through a reckoning and what needs to change both within the user research field and how companies leverage user research going forward. "
+    },
+    {
+      "line": 146,
+      "text": "(00:18:56):"
+    },
+    {
+      "line": 147,
+      "text": "And then in the old version of this, the fifth tool was SQL, because I think good researchers need to be able to run their own queries. These days, so much of that is dashboarded, that the fifth tool may now be prompt engineering, which is a thing we could talk about, but I think maybe that's the fifth tool is somewhere, is it technical skills that fall in between querying your own data, understanding it very well in companies that are awash with data and then interacting with generative AI."
+    },
+    {
+      "line": 566,
+      "text": "Judd Antin (01:09:59):"
+    },
+    {
+      "line": 567,
+      "text": "We recently watched The Last of Us and it blew our mind. I watched it after I played the video game after long last, if you are a person who plays video games and you haven't played The Last of Us, play it. If you don't know, the show is based on the video game, not the other way around."
+    }
+  ]
+}

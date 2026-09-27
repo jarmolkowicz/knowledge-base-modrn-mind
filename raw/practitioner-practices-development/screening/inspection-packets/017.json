@@ -1,0 +1,24 @@
+{
+  "id": 17,
+  "title": "What I Got Wrong About Connection",
+  "collection": "Adam Grant",
+  "path": "raw/inbox/Practical/Adam Grant/what-i-got-wrong-about-connection.md",
+  "sha256": "d9eba800611a81ee891b53d2c9a5c6c431a0c753c159fe30175933c4df27d4eb",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 594,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 218,
+      "text": "I’m overjoyed to announce my next book, VIBE. It’s available for preorder now:"
+    },
+    {
+      "line": 28,
+      "offset": 3126,
+      "text": "In L.A., my conversation partner was an actor who understood the power of rehearsal. Backstage, she guided me to practice the kind of conversation we wanted to have. When I tried to ask about her life, she gave a quick answer and then tossed it back to me. She was moving us into a rhythm of riffing, and we were able to carry that vibe onto the stage—and into"
+    }
+  ]
+}

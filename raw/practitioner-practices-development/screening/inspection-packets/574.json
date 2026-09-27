@@ -1,0 +1,26 @@
+{
+  "id": 574,
+  "title": "Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/brendan-foody/transcript.md",
+  "sha256": "581c317f90b1cd988b6d387df7fd712e0927359723aacb5258ecc022f7ccf68a",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 12458,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 874,
+      "text": "The wealthiest companies in the world are willing to "
+    },
+    {
+      "line": 115,
+      "offset": 9370,
+      "text": "Yeah. I think that for enterprises especially, the core way to think about it is how can they build a test or systematic way to measure how well AI automates th"
+    }
+  ]
+}

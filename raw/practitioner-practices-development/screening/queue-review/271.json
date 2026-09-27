@@ -1,0 +1,77 @@
+{
+  "queue_position": 53,
+  "id": 271,
+  "path": "raw/inbox/Practical/Ruben Hassid/carousels.md",
+  "sha256": "f19f3c4dd29ebe233d30dab6a2bad13f1dd24a6fde6a7b93fa0fe2fb0f8f4aae",
+  "title": "Carousels.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L33 ## **1.** **How to make a Linkedin carousel, with AI.**",
+    "L45 #### **Step 1**: Context.",
+    "L55 #### **Step 2**: Extract the key information.",
+    "L127 #### **Step 3**: Go to Gamma.",
+    "L165 ## **2. My own Linkedin results using AI.**"
+  ],
+  "passages": [
+    {
+      "line": 55,
+      "text": "#### **Step 2**: Extract the key information."
+    },
+    {
+      "line": 69,
+      "text": "> **Part 1: The Extraction** First, provide a comprehensive breakdown of the video content. Do not just summarize; extract the “meat” of the content using the following structure:  "
+    },
+    {
+      "line": 73,
+      "text": ">  The Framework: If the speaker uses a specific step-by-step process or mental model, outline it clearly."
+    },
+    {
+      "line": 110,
+      "text": "> Slide 9: The Summary. A TL;DR (Too Long; Didn’t Read) checklist for readers to save or screenshot.  "
+    },
+    {
+      "line": 111,
+      "text": "> Slide 10: The CTA. A low-friction question to spark comments (e.g., Which of these 3 steps is your biggest bottleneck?)."
+    },
+    {
+      "line": 127,
+      "text": "#### **Step 3**: Go to Gamma."
+    },
+    {
+      "line": 141,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!og4V!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6775dfc7-ccf9-4fdf-894b-8c7d98ec3441_1920x1080.jpeg)"
+    },
+    {
+      "line": 147,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!0tOV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F686c1c46-62f7-4f6b-abcf-4f12516e6681_2308x1126.png)"
+    },
+    {
+      "line": 151,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!hvmv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcae9277f-df97-476f-bc12-cb09a5752d11_1920x1080.jpeg)"
+    },
+    {
+      "line": 153,
+      "text": "You have to select a theme (or make your own) + AI images source + Nano Banana Pro. It’s the best combo for perfect Linkedin carousels."
+    },
+    {
+      "line": 155,
+      "text": "Check the full carousel: **<https://gamma.app/docs/The-Thesis-Stack-Write-10000-Words-in-40-Minutes-oumo19zkp4uirog>**."
+    },
+    {
+      "line": 157,
+      "text": "But the way I make LinkedIn carousel is slightly different. I’ll share more on the next section of this newsletter."
+    },
+    {
+      "line": 161,
+      "text": "###### **Are you new? Access my archive:** *https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing.*"
+    },
+    {
+      "line": 165,
+      "text": "## **2. My own Linkedin results using AI.**"
+    },
+    {
+      "line": 171,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!Ncu0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe760ed74-996d-433c-ada6-67ae3e8fb4b5_956x1682.png)"
+    }
+  ]
+}

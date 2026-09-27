@@ -1,0 +1,24 @@
+{
+  "id": 148,
+  "title": "Codex 5.3 vs. Opus 4.6",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/codex-53-vs-opus-46-two-agent-philosophies.md",
+  "sha256": "55b0a62157726f014829c6ea07355b504e517f0ac11fb04a68fe7ccd9e2eb938",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 395,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 203,
+      "text": "On Wednesday afternoon, within twenty minutes of each other, OpenAI shipped an AI syst"
+    },
+    {
+      "line": 12,
+      "offset": 597,
+      "text": "Same afternoon. Two completely different answers to the same question: what should an AI agent actually do for you?"
+    }
+  ]
+}

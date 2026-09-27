@@ -1,0 +1,76 @@
+{
+  "queue_position": 85,
+  "id": 345,
+  "path": "raw/inbox/Practical/Ruben Hassid/you-forgot-70-of-yesterdays-meeting.md",
+  "sha256": "bfd30f7c6fd6c59643e37ef6bc1447d59f41a32a631e577f14292d5576cab768",
+  "title": "You forgot 70% of yesterday's meeting.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L30 ## **It gets worse in groups.**",
+    "L54 ## **There is no other notetaker.**",
+    "L70 ### Why Granola is just cooler.",
+    "L90 ## **Prompt 1: TLDR so-short-you-have-to-read it.**",
+    "L127 ## **Quick How-To for Granola Recipe.**",
+    "L152 ## **Prompt 2: Action items, nothing more.**",
+    "L192 ## **Prompt 3: From Pain Point → to Linkedin post.**",
+    "L236 ## **The “*****I never forget meeting*****” worklow.**"
+  ],
+  "passages": [
+    {
+      "line": 90,
+      "text": "## **Prompt 1: TLDR so-short-you-have-to-read it.**"
+    },
+    {
+      "line": 98,
+      "text": "Link for direct access → https://recipes.granola.ai/r/540bee25-5a9b-426a-9543-bdcb03589760. But if you want to recreate it, here’s the exact prompt I use:"
+    },
+    {
+      "line": 152,
+      "text": "## **Prompt 2: Action items, nothing more.**"
+    },
+    {
+      "line": 162,
+      "text": "> You are reviewing a meeting to extract action items assigned to a specific person. Your job: Find and list of the action items assigned to the people the user will mention. It could be multiple people."
+    },
+    {
+      "line": 192,
+      "text": "## **Prompt 3: From Pain Point → to Linkedin post.**"
+    },
+    {
+      "line": 200,
+      "text": "Here’s the link to access it → <https://recipes.granola.ai/r/b8832f11-1c95-43fa-9fec-3f6e756dc059>. If you just want the prompt to modify it, here it is:"
+    },
+    {
+      "line": 202,
+      "text": "> A meeting just finished where a customer or prospect shared a frustration or pain point. Your job is to turn that pain point into a clear designer brief for a LinkedIn post."
+    },
+    {
+      "line": 220,
+      "text": "> Pain point: [One sentence describing the frustration in the customer’s own words or closely paraphrased]"
+    },
+    {
+      "line": 224,
+      "text": "> Emotion to evoke: [What the reader should feel when they see the post—e.g., “finally, someone gets it”]"
+    },
+    {
+      "line": 228,
+      "text": "> Supporting text: [2-3 sentences expanding on the frustration, written as if speaking directly to the audience, verbatim of the meeting only]"
+    },
+    {
+      "line": 230,
+      "text": "> Visual direction: [A simple suggestion for the designer—e.g., “split screen showing expectation vs reality” or “single bold quote on dark background”]"
+    },
+    {
+      "line": 232,
+      "text": "> If no clear pain point was discussed in the meeting, output only: “No pain point identified in this meeting.”"
+    },
+    {
+      "line": 236,
+      "text": "## **The “*****I never forget meeting*****” worklow.**"
+    },
+    {
+      "line": 262,
+      "text": "###### archive of my past articles: https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing"
+    }
+  ]
+}

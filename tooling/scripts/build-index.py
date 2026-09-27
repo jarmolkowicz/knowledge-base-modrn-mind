@@ -31,7 +31,7 @@ SECTION_HEADERS_BY_TYPE: dict[str, list[str]] = {
     "source": ["Key Insight"],
     "concept": ["What It Is", "Overview"],
     "framework": ["Overview", "Core Idea", "What It Is"],
-    "practice": ["What To Do", "Overview", "What It Is"],
+    "practice": ["Use When", "What To Do", "Overview", "What It Is"],
     "method": ["Overview", "What It Is", "What To Do"],
 }
 
@@ -127,6 +127,8 @@ def build_index() -> str:
             continue
         out.append(f"## {TYPE_LABEL[t]} ({len(by_type[t])})")
         out.append("")
+        if t == 'practice' and (KB_ROOT / 'practice-guide.md').exists():
+            out.extend(['[Browse practices by intended outcome](practice-guide.md).', ''])
         out.extend(_render_table(by_type[t], t))
         out.append("")
 

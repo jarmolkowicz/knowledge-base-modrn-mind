@@ -1,0 +1,25 @@
+{
+  "slug": "ramonov-399-the-6-claude-prompts-to-get-2026",
+  "original_filename": "the-6-claude-prompts-to-get-you-ahead.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 1820,
+  "hash": "7e1bcab7da1b314837465c0c04c863fcaf250ad9b3bb62c3c037a692639834d4",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "critiqued",
+  "ingested_at": "2026-09-26T20:59:43Z",
+  "decisions": [],
+  "lines": 240,
+  "screening_id": 399,
+  "collected_from": "raw/inbox/Practical/Sabrina Ramonov/the-6-claude-prompts-to-get-you-ahead.md",
+  "bibliographic_metadata": {
+    "title": "The 6 Claude Prompts to Get You Ahead of 99% of People using AI",
+    "date": "2026-07-25",
+    "url": "https://www.sabrina.dev/p/the-6-claude-prompts-to-get-you-ahead",
+    "collection": "Sabrina Ramonov"
+  },
+  "draft_only": true,
+  "integration_decision": "pending",
+  "practice_review": "practice-review.json"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 413,
+  "title": "How to Use AI to Test Whether a Career Decision Is Reversible",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-career-decision-reversible-return-path.md",
+  "sha256": "af4f79fa94beb4a3b4dd044b7e5cac58ec21f529fdc7397a3aeb5786ac32bc9f",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1299,
+  "headings": [
+    "**How to use AI to map a return path for career decisions**",
+    "**A moment from [Ting Wang](https://open.substack.com/users/181211715-ting-wang?utm_source=mentions)**",
+    "What to share",
+    "**From [The Velocity Trap: Why AI Makes You Start Everything and Finish Nothing](https://theslowai.substack.com/p/velocity-trap-ai-decision-paralysis)**",
+    "**Why this matters**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 287,
+      "text": "Multinational career decisions are rarely about ambition alone. They a"
+    },
+    {
+      "line": 88,
+      "offset": 7787,
+      "text": "If you try this prompt, Ting | Orienting with AI and I would welcome hearing what it revealed about your own career decisions. We read and respond to all comments."
+    }
+  ]
+}

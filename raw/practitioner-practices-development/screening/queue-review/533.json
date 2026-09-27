@@ -1,0 +1,41 @@
+{
+  "queue_position": 183,
+  "id": 533,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ada-chen-rekhi/transcript.md",
+  "sha256": "343a980b64fb24666859549da88a83af927ea197feea0e592dc1bf0645dc0bb6",
+  "title": "Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L41 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 39,
+      "text": "# Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi"
+    },
+    {
+      "line": 88,
+      "text": "(00:07:45):"
+    },
+    {
+      "line": 89,
+      "text": "There's just so much rich data to actually explore with that. First, are you suited to being a developer? Are webdev boot camps effective? What's the state of the economy in the hiring market right now for junior web developers? And that's an example of maybe a question that's a little bit more specific and gives people something to anchor on. So that's the first piece. The next piece is really around how do you curate who you ask? I think there are two dimensions of this. The first one is the obvious one, which is a subject matter expert who really knows something about the topic at hand. So maybe a webdev themselves, for my example question. Another one, and this dimension I think is really important, is someone who knows you really well and can provide insight on how well does that work for you. And then after that, you really want to ask the question. And this touches on what you said about how do you make it really lightweight?"
+    },
+    {
+      "line": 430,
+      "text": "(00:53:54):"
+    },
+    {
+      "line": 431,
+      "text": "So then I took the step after we met and I gave her that feedback in one of our next coaching sessions where we invited each other to give each other feedback. I shared a lot of my impressions with her and I told her, \"I respect you so much as an operator. I want to tell you that in the physical meeting that we had together, there was this disparity on how I would've potentially perceived you when I first met you in person versus what I've come to know about you from the months that we spent together.\""
+    },
+    {
+      "line": 634,
+      "text": "Lenny (01:17:51):"
+    },
+    {
+      "line": 635,
+      "text": "Awesome. And then Notejoy, how do they check that out?"
+    }
+  ]
+}

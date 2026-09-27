@@ -1,0 +1,26 @@
+{
+  "id": 809,
+  "title": "Mental models for building products people love ft. Stewart Butterfield",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/stewart-butterfield/transcript.md",
+  "sha256": "7bd042f32c2e6de2b490a56e627f0d5be70a4fcfe7e159582a61b9ffafa4715b",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 16435,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 835,
+      "text": "This is 2014. That was the year that Slack "
+    },
+    {
+      "line": 102,
+      "offset": 10502,
+      "text": "I think in many cases, people will add a feature, it's not good enough and so people don't use it or appreciate it, but now you've"
+    }
+  ]
+}

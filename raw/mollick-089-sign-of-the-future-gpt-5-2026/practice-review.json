@@ -1,0 +1,29 @@
+{
+  "id": 89,
+  "group_index": 7,
+  "decision": "counterexample",
+  "coverage": "Full available extracted article, L1–65. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L43: polished paper with weak hypothesis and causal concerns",
+    "L47: simulated RPG players",
+    "L51: repetitive fiction"
+  ],
+  "basis": "First-person model demonstrations.",
+  "reported_outcomes": [
+    "Author describes competent-looking analysis with weak substantive choices."
+  ],
+  "proposed_outcomes": [],
+  "limits": [
+    "Simulated players are not real playtesting.",
+    "Polish and correct calculations do not establish a worthwhile question or causal identification."
+  ],
+  "related_entries": [
+    "reference-verification",
+    "metacognitive-demand"
+  ],
+  "practice_files": [
+    "raw/mollick-080-management-as-ai-superpower-2026/drafts/practices/define-the-delegation-before-the-agent-starts.md"
+  ],
+  "role": "counterexample",
+  "review_note": "Counterexample for result criteria; no simulated-user validation claim."
+}

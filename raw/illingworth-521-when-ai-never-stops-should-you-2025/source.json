@@ -1,0 +1,50 @@
+{
+  "slug": "illingworth-521-when-ai-never-stops-should-you-2025",
+  "original_filename": "when-ai-never-stops-should-you.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 1030,
+  "hash": "9f6646a39743d494f330f758e2403a2f7728fd83b82e9ebf6498566fd98a2e4d",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:45Z",
+  "decisions": [
+    {
+      "stage": "practice-close-reading",
+      "outcome": "retain",
+      "at": "2026-09-26",
+      "scope": "draft-only; integration pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/illingworth-521-when-ai-never-stops-should-you-2025.md",
+      "practices": [
+        "practices/carry-one-question-offline.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 125,
+  "screening_id": 521,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/when-ai-never-stops-should-you.md",
+  "bibliographic_metadata": {
+    "title": "When AI Never Stops, Should You?",
+    "date": "2025-09-30",
+    "url": "https://theslowai.substack.com/p/when-ai-never-stops-should-you",
+    "collection": "Sam Illingworth"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

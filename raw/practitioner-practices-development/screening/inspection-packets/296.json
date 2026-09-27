@@ -1,0 +1,27 @@
+{
+  "id": 296,
+  "title": "Restore.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/grandma.md",
+  "sha256": "b9a4c8d4fe08f65ad08de197f99220eb33f40390f1d5bf2ac34c6427811d8dd5",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 428,
+  "headings": [
+    "Upload the picture to Gemini.",
+    "Animate the generated & restored photo"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 130,
+      "text": "I restored my grandma's 1960s photo & animated it with AI."
+    },
+    {
+      "line": 74,
+      "offset": 4976,
+      "text": "And that’s more important than any “productivity prompt hack using AI”."
+    }
+  ]
+}

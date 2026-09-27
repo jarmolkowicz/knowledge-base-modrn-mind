@@ -1,0 +1,26 @@
+{
+  "id": 29,
+  "title": "Do We Need AI to Revolutionize Work?",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/do-we-need-ai-to-revolutionize-work.md",
+  "sha256": "fcfb6bb8676ffc96bdb670b0bfee70bc14e22003648960ac0b19743fc1b601f4",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 676,
+  "headings": [
+    "Speaking of books, my longtime friend and collaborator Scott Young has a fantastic new title out this week called: [***Get Better at Anything: 12 Maxims for Mastery***](https://www.amazon.com/Get-Better-Anything-Maxims-Mastery/dp/0063256673). I think Scott has written the ultimate (and approachable) guide to getting better at the stuff that matters. If you’re interested in engineering a deeper life, you need this book in your proverbial toolkit. ([Learn more](https://www.amazon.com/Get-Better-Anything-Maxims-Mastery/dp/0063256673).)"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 11,
+      "offset": 259,
+      "text": "In recent months, I’ve been doing a fair number of interviews about my new book, *Slow Productivity*. I’m often asked du"
+    },
+    {
+      "line": 29,
+      "offset": 3247,
+      "text": "(Mustafa Suleyman has argued that the real Turing Test that matters is whether a given AI can go off and earn $100,000 for you on the internet. I would argue the test that’s more relevant — and consequential — is whether an AI can empty your inbox.)"
+    }
+  ]
+}

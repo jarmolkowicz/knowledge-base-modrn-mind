@@ -1,0 +1,37 @@
+{
+  "id": 276,
+  "group_index": 9,
+  "decision": "retain",
+  "coverage": "Full available extracted article, L1–548. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L79–125: relevant context, examples and output folders",
+    "L140–179: read-only wording",
+    "L273–278: questions and plan approval",
+    "L382–394 and L452: human writing and final review"
+  ],
+  "basis": "Proposed context-folder workflow with demonstrations.",
+  "reported_outcomes": [],
+  "proposed_outcomes": [
+    "Reduce avoidable assumptions through context and questions."
+  ],
+  "limits": [
+    "Read-only prompts are not access controls.",
+    "More context can expose private material and add noise.",
+    "Folder structure does not prove persistent memory or instruction following."
+  ],
+  "related_entries": [
+    "agency",
+    "automation-bias"
+  ],
+  "practice_files": [
+    "raw/hassid-276-cowork-2026/drafts/practices/curate-context-and-clarify-before-drafting.md"
+  ],
+  "role": "origin",
+  "review_note": "Retain selection and clarification; omit setup, security promises and replacement claims.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/curate-context-and-clarify-before-drafting.md"
+  ],
+  "historical_drafts_retained": true
+}

@@ -1,0 +1,63 @@
+{
+  "queue_position": 126,
+  "id": 428,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-friendship-contradiction-curriculum.md",
+  "sha256": "8f15d3e624a174ce2afe126e7c6114c0b29dd081a6adc69a2ce062989671fec4",
+  "title": "AI cannot be your friend",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L16 #### **The theory**",
+    "L36 #### **The prompt**",
+    "L54 #### **The dialogue**"
+  ],
+  "passages": [
+    {
+      "line": 36,
+      "text": "#### **The prompt**"
+    },
+    {
+      "line": 38,
+      "text": "To observe the friend-tool contradiction in practice, you must test the AI’s capacity for genuine relational friction. Copy and paste the following prompt into your tool:"
+    },
+    {
+      "line": 46,
+      "text": "> Never type anything into an AI, even in incognito mode, that would ruin your life if it ended up on a billboard."
+    },
+    {
+      "line": 52,
+      "text": "The output is a performance of empathy without the presence of an independent entity. It is a risk-free interaction for the machine, which proves that it is not a friend, but a sophisticated mirror of your own desire for validation."
+    },
+    {
+      "line": 54,
+      "text": "#### **The dialogue**"
+    },
+    {
+      "line": 56,
+      "text": "To model this, I typed the above prompt into Gemini 3 (Pro, Thinking Mode) and got the following response:"
+    },
+    {
+      "line": 66,
+      "text": "This is why I worry when people tell me to let them be and let them develop friendships with AI tools. What they are actually entering into is a relationship designed by BigTech to maximise engagement."
+    },
+    {
+      "line": 68,
+      "text": "The advocacy for AI companionship ignores the predatory nature of commercial interests that exploit vulnerability to ensure persistent engagement."
+    },
+    {
+      "line": 74,
+      "text": "That does not mean the output is useless. It means it must be situated. Advice without care is not neutral. It carries incentives, assumptions, and power."
+    },
+    {
+      "line": 76,
+      "text": "However, I accept that this interpretation is my own, and that our curriculum facilitates mutual inquiry."
+    },
+    {
+      "line": 80,
+      "text": "In the comments below, please share the output your AI tool generated using the above prompt and highlight where the response offers optimisation instead of care, and how that difference matters."
+    },
+    {
+      "line": 84,
+      "text": "**Only 20 Inaugural Scholar places remain at the reduced annual rate of £50. Once filled, enrolment returns to £75. There will be no extension.**"
+    }
+  ]
+}

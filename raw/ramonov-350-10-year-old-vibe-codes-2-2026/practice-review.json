@@ -1,0 +1,38 @@
+{
+  "id": 350,
+  "group_index": 8,
+  "decision": "merge",
+  "coverage": "Full available extracted article, L1–203. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L20–30: niece’s two-app demonstration",
+    "L62–70: one feature at a time",
+    "L122–126: fix music issue before adding more"
+  ],
+  "basis": "Family demonstration and tutorial.",
+  "reported_outcomes": [
+    "Two app demonstrations reported; independent coding skill not tested."
+  ],
+  "proposed_outcomes": [
+    "Keep prototyping inspectable with small steps."
+  ],
+  "limits": [
+    "Working demos are not understanding or production quality.",
+    "Claim that learning code is obsolete unsupported.",
+    "Do not reuse exposed credentials or private details."
+  ],
+  "related_entries": [
+    "shen-skill-formation-2026",
+    "agency"
+  ],
+  "practice_files": [
+    "raw/hassid-339-vibecoding-2026/drafts/practices/use-a-prototype-to-brief-a-developer.md"
+  ],
+  "role": "support",
+  "review_note": "Merge incremental tests; no separate card or learning claim.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/use-a-prototype-to-brief-a-developer.md"
+  ],
+  "historical_drafts_retained": true
+}

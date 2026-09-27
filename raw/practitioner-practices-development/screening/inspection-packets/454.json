@@ -1,0 +1,39 @@
+{
+  "id": 454,
+  "title": "The Evidence-Based Guide to AI: When to Use It, When to Stop, and How to Tell the Difference",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/evidence-based-guide-ai-when-to-use-when-to-stop.md",
+  "sha256": "2c433e3fcd58e000c7e20a43d77059d1684b57eb55c73a9921080543a8d039f3",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2970,
+  "headings": [
+    "**Part One: When Not to Use It**",
+    "**1. Not when you are trying to learn something.**",
+    "**2. Not when the process is the point.**",
+    "**3. Not when you need to remember something.**",
+    "**4. Not when you are emotionally vulnerable.**",
+    "**5. Not when other people’s lives are affected by the output.**",
+    "**6. Not when you are forming your own opinion.**",
+    "**7. Not when accountability is the service.**",
+    "**8. Not when making an irreversible decision.**",
+    "**9. Not when the skill is core to who you are professionally.**",
+    "**10. Not when you do not know enough to check it.**",
+    "**Part Two: When to Use It**",
+    "**11. When you are an expert, and you know what right looks like.**",
+    "**12. When the task is repetitive and well defined.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 539,
+      "text": "Most AI guidance is written by people who want you to use more AI. Thi"
+    },
+    {
+      "line": 21,
+      "offset": 1036,
+      "text": "This post is written in collaboration with Frank Andrade AKA The PyCoach. Frank is the writer behind *Artificial Corner*, a publication dedicated to helping non-technical professionals learn AI. He breaks down "
+    }
+  ]
+}

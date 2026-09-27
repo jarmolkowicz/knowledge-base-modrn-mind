@@ -1,0 +1,29 @@
+{
+  "id": 436,
+  "title": "Every AI Onboarding Tool Is Already Playing This Game",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-onboarding-tools-workplace-surveillance.md",
+  "sha256": "a99d8212cbb3d3a82e670ced51ada6edbcc601226646829f78e6f5a73bec5c0a",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1204,
+  "headings": [
+    "**What workplace AI tools actually collect**",
+    "**What Good Employee does**",
+    "**Five questions to ask when an AI tool asks you something at work**",
+    "**Why this matters for you**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 19,
+      "offset": 822,
+      "text": "Your company’s AI onboarding tool knows more about you than your manag"
+    },
+    {
+      "line": 39,
+      "offset": 2309,
+      "text": "The word ‘helpfulness’ does a lot of work in enterprise AI. A tool that asks how you handle stress is populating a behavioural profile. A tool that tracks your email response times is modelling your patterns. T"
+    }
+  ]
+}

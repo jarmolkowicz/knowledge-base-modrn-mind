@@ -1,0 +1,88 @@
+{
+  "queue_position": 54,
+  "id": 274,
+  "path": "raw/inbox/Practical/Ruben Hassid/claude-charts.md",
+  "sha256": "42c65915aca5541670c6cd6dc398b625678e4e560a60d91b956b53b97f9a2c29",
+  "title": "The new Claude charts.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L21 ## **How to create an interactive chart.**",
+    "L37 ## **Example #1. How much money to invest?**",
+    "L59 ## **Example #2. Understand the exponential.**",
+    "L73 ## **Example #3. Learn chess, with interactions.**",
+    "L89 ## **How to share it with others.**",
+    "L99 #### How to share it with your team",
+    "L108 #### How to share it with your client",
+    "L127 ## **Be that person.**"
+  ],
+  "passages": [
+    {
+      "line": 59,
+      "text": "## **Example #2. Understand the exponential.**"
+    },
+    {
+      "line": 69,
+      "text": "💡 **Pro tip**: You can ask Claude to first gather information by deeply searching the web / finding consensus. And then ask for the interactive chart."
+    },
+    {
+      "line": 73,
+      "text": "## **Example #3. Learn chess, with interactions.**"
+    },
+    {
+      "line": 78,
+      "text": "Interactive chart on how to master the 20% of chess for a complete rookie (that gives you 80% of what you must master)."
+    },
+    {
+      "line": 89,
+      "text": "## **How to share it with others.**"
+    },
+    {
+      "line": 93,
+      "text": "![Image](https://substackcdn.com/image/fetch/$s_!3X8p!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ab42c4d-ad50-4146-981e-a242fc220575_1917x804.jpeg)"
+    },
+    {
+      "line": 99,
+      "text": "#### How to share it with your team"
+    },
+    {
+      "line": 104,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!n-BE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ad23765-6f6a-46dd-a865-d591e340603f_3456x1922.png)"
+    },
+    {
+      "line": 108,
+      "text": "#### How to share it with your client"
+    },
+    {
+      "line": 113,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!_xs3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde258986-12d1-418f-8bb0-d2de2c9eae36_3456x1938.png)"
+    },
+    {
+      "line": 117,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!qCZs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F352a734a-c15a-40fa-9e3a-66447691c6ed_3456x1928.png)"
+    },
+    {
+      "line": 123,
+      "text": "💡 **Pro tip**: If you need to send a link, upload the html. (the thing you just downloaded) to a Google Drive, and send the link of that drive."
+    },
+    {
+      "line": 127,
+      "text": "## **Be that person.**"
+    },
+    {
+      "line": 129,
+      "text": "This newsletter is entirely free. I want to be the greatest filter to the permanent AI noise. And 366,000+ people read this twice a week to know what to focus on."
+    },
+    {
+      "line": 131,
+      "text": "Some people came because of my LinkedIn. But most readers subscribed because someone they trusted sent one of my articles to them."
+    },
+    {
+      "line": 137,
+      "text": "If someone sent you this, first **thank them**, and don’t miss the next guide by **subscribing** for free. *Bonus point if you introduce yourself in the comment section.*"
+    },
+    {
+      "line": 143,
+      "text": "###### **archive of my past blogs: https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing**"
+    }
+  ]
+}

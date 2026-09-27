@@ -1,0 +1,37 @@
+{
+  "id": 464,
+  "title": "The Actual Environmental Cost of AI",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/is-ai-bad-for-the-environment.md",
+  "sha256": "16ba4ce40cfd0e4ac58afd8d7705839d8dcdcd743e627fe9d2964b5f57340591",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2543,
+  "headings": [
+    "**In this post I will:**",
+    "**Where I am coming from**",
+    "**What the thread taught me**",
+    "**Training is the headline. Inference is the bill.**",
+    "**The geography argument**",
+    "**The emissions number nobody wants to talk about**",
+    "**The missing lifecycle assessment**",
+    "**The recursive absurdity**",
+    "**The caveat that matters**",
+    "**Wicked problems need wicked problem-solvers**",
+    "**Five things you can actually do this week**",
+    "**What are your solutions?**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 406,
+      "text": "The AI environmental conversation is broken in both directions. Three "
+    },
+    {
+      "line": 139,
+      "offset": 15373,
+      "text": "5. **Push for disclosure regulation.** In the UK, the forthcoming AI (Regulation) Bill and the AI Security Institute’s remit are the two live vehicles. Write to your MP asking for per-query energy and water dis"
+    }
+  ]
+}

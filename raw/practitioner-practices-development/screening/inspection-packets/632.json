@@ -1,0 +1,26 @@
+{
+  "id": 632,
+  "title": "The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ethan-smith/transcript.md",
+  "sha256": "64f7c6abcdeb0838000f566333e8dec5e31ccfcff6a163c013a77fa6e54fb706",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 14162,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 836,
+      "text": "There's this term everyone's hearing about, AEO."
+    },
+    {
+      "line": 451,
+      "offset": 34837,
+      "text": "Then I would transform those into questions. And actually you can just give those keywords to ChatGPT and say, \"Make these into questions,\" and it does a pretty"
+    }
+  ]
+}

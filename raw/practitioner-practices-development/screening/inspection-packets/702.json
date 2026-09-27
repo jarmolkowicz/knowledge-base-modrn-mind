@@ -1,0 +1,26 @@
+{
+  "id": 702,
+  "title": "Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/katie-dill/transcript.md",
+  "sha256": "fed7068934d866b44d760bd7b6244f6abd26796ca3645927afe6ef96ccd2e0be",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 17223,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 865,
+      "text": "The use of the word beauty in books that have "
+    },
+    {
+      "line": 310,
+      "offset": 40921,
+      "text": "Oh man, what an awesome process. I have a million questions I want to ask to better understand how you operationalize this. I'll try to ask "
+    }
+  ]
+}

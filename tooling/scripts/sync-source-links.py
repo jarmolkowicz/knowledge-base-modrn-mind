@@ -1,11 +1,16 @@
-"""Sync the ## Sources section in concept and method entries.
+"""Sync the ## Sources section in concept, method and practice entries.
 
 For each non-source entry with citations in `sources:` frontmatter,
 build (or update) a `## Sources` section in the body with wikilinks
 to the matching source entries. This makes citation navigation
 clickable in Obsidian without changing the frontmatter schema.
 
-Match logic: extract first-author surname + 4-digit year from each
+When source_entries is present, use those exact source stems. This is required
+for new practice integrations where several articles share an author and year.
+The list can include supporting/counterexample records; their roles stay in the
+entry's Origin and Evidence sections. Citation strings remain separately visible.
+
+Legacy match logic: extract first-author surname + 4-digit year from each
 citation, find the source entry whose stem starts with that surname
 and ends with that year. Diacritic-insensitive.
 
@@ -21,6 +26,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import json
 import re
 import sys
 import unicodedata
@@ -31,6 +37,9 @@ if str(_DIR) not in sys.path:
     sys.path.insert(0, str(_DIR))
 
 from kb_search import Entry, load_entries  # noqa: E402
+
+_ALIAS_PATH = _DIR.parent / 'citation-aliases.json'
+_ALIASES = json.loads(_ALIAS_PATH.read_text(encoding='utf-8')) if _ALIAS_PATH.exists() else {}
 
 
 def _normalize(s: str) -> str:
@@ -44,6 +53,9 @@ def find_source_match(citation: str, source_stems: set[str]) -> str | None:
     """Match a citation string to a source entry stem. Returns stem or None."""
     if not citation or not citation.strip():
         return None
+    alias = _ALIASES.get(citation)
+    if alias and alias.get('source') in source_stems and alias.get('reason') and alias.get('evidence'):
+        return alias['source']
 
     # Extract year (prefer parenthesized; fall back to trailing 4-digit)
     year_match = re.search(r"\((\d{4})\)", citation) or re.search(r"\b(\d{4})\b", citation)
@@ -73,7 +85,7 @@ def find_source_match(citation: str, source_stems: set[str]) -> str | None:
     return None
 
 
-def build_sources_section(citations: list[str], source_stems: set[str]) -> tuple[str, list[str]]:
+def build_sources_section(citations: list[str], source_stems: set[str], source_entries: list[str] | None = None) -> tuple[str, list[str]]:
     """Build the ## Sources section. Returns (section_text, unmatched_citations).
 
     Matched citations get wikilinks. Unmatched citations are written as plain
@@ -82,6 +94,18 @@ def build_sources_section(citations: list[str], source_stems: set[str]) -> tuple
     """
     lines = ["## Sources", ""]
     unmatched: list[str] = []
+
+    if source_entries:
+        for stem in dict.fromkeys(source_entries):
+            if stem in source_stems:
+                lines.append(f"- [[{stem}]]")
+            else:
+                lines.append(f"- {stem} (source entry missing)")
+                unmatched.append(stem)
+        if citations:
+            lines.extend(["", "Recorded citations:", ""])
+            lines.extend(f"- {c.strip()}" for c in citations if c.strip())
+        return "\n".join(lines), unmatched
 
     for citation in citations:
         citation = citation.strip()
@@ -105,11 +129,11 @@ SOURCES_SECTION_RE = re.compile(
 
 def sync_entry(entry: Entry, source_stems: set[str], dry_run: bool = False) -> tuple[bool, list[str]]:
     """Read entry, sync ## Sources section. Returns (changed, unmatched_citations)."""
-    if not entry.sources:
+    if not entry.sources and not entry.source_entries:
         return False, []
 
     text = Path(entry.path).read_text(encoding="utf-8")
-    new_section, unmatched = build_sources_section(entry.sources, source_stems)
+    new_section, unmatched = build_sources_section(entry.sources, source_stems, entry.source_entries)
     if not new_section.strip():
         return False, unmatched
 
@@ -142,7 +166,7 @@ def main(argv: list[str] | None = None) -> int:
 
     targets = [
         e for e in entries.values()
-        if e.type != "source" and e.sources and (not args.entry or e.stem == args.entry)
+        if e.type != "source" and (e.sources or e.source_entries) and (not args.entry or e.stem == args.entry)
     ]
 
     if args.entry and not targets:
@@ -164,7 +188,7 @@ def main(argv: list[str] | None = None) -> int:
     print(f"\n{verb} {updated}/{len(targets)} entries")
 
     if all_unmatched:
-        print(f"\n{len(all_unmatched)} entries have unmatched citations (flagged with TODO):")
+        print(f"\n{len(all_unmatched)} entries have unresolved source references:")
         for stem, citations in all_unmatched:
             print(f"  {stem}:")
             for c in citations:

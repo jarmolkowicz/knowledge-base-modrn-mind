@@ -1,0 +1,37 @@
+{
+  "queue_position": 240,
+  "id": 616,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/edwin-chen/transcript.md",
+  "sha256": "c37bb07e1e0a4276af4c82340e6cf4a00617aa2d1cc1816cafd9a2dda7178ed2",
+  "title": "The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 300,
+      "text": "(00:27:17):"
+    },
+    {
+      "line": 301,
+      "text": "And I think that answer to that... Well, I don't know if answer is myself. I have an idea in my head, but I think the answer to that question maybe reveals certain things about what kinds of AI models those companies want to build and what direction and what future they want to achieve, yeah, so I think about that a lot."
+    },
+    {
+      "line": 516,
+      "text": "(00:49:09):"
+    },
+    {
+      "line": 517,
+      "text": "So let me give you an example. So I was asking Claude to help me draft an email the other day, and it went through 30 different versions. And after 30 minutes, yeah, I think it really crafted me the perfect email, and I sent it. But then I realized that I spent 30 minutes doing something that didn't matter at all. Sure, now I got the perfect email, but I spent 30 minutes doing something I wouldn't have worried at all before, and this email probably didn't even move the needle on anything anyways."
+    },
+    {
+      "line": 594,
+      "text": "Edwin Chen (00:58:01):"
+    },
+    {
+      "line": 595,
+      "text": "I'll get a bit philosophical here, but I think the question itself is a bit philosophical, so bear with me. So the most straightforward way of thinking about what we do is we train and evaluate AI. But there's a deeper mission that I often think about, which is helping our customers think about their dream objective functions. Like yeah, what kind of model do they want their model to be? And once we help them do that, we'll help them train their model to reach their north star and we'll help them measure that progress. But it's really hard because objective functions are really rich and complex. It's kind of like the difference between having a kid and asking them, \"Okay, what test do you want to pass? Do you want them to get a high score on SAT and write a really good college essay?\" That's a simplistic version versus what kind of person do you want them to grow up to be? Will you be happy if they're happy no matter what they do or are you hoping they'll go to a good school and be financially successful?"
+    }
+  ]
+}

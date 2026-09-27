@@ -1,0 +1,26 @@
+{
+  "id": 793,
+  "title": "How to be more innovative | Sam Schillace (Microsoft deputy CTO, creator of Google Docs)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/sam-schillace/transcript.md",
+  "sha256": "aaeb5f9c2877761822a6e26359e313098c70de8baf03f5a3cbff24ddfbaf1721",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 18356,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 838,
+      "text": "We tend to undervalue the things we're good"
+    },
+    {
+      "line": 469,
+      "offset": 81746,
+      "text": "And I do think unfortunately, one of the other ways in which this is very reminiscent of the early dot com era, and I think plenty"
+    }
+  ]
+}

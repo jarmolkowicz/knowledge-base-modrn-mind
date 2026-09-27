@@ -40,6 +40,21 @@ def resolve(citation: str, source_stems: set[str], aliases: dict) -> str | None:
     return candidates[0] if len(candidates) == 1 else None
 
 
+def check_explicit_sources(entry, source_stems: set[str]) -> list[dict]:
+    """Check reviewed exact identities, without guessing from first names/year.
+
+    This checks navigation, not whether a citation or claim is supported.
+    Source roles and the review manifest document that separate editorial work.
+    """
+    findings = []
+    for target in entry.source_entries:
+        if target not in source_stems:
+            findings.append({'entry': entry.stem, 'source': target, 'issue': 'explicit source entry missing'})
+        elif target not in entry.wikilinks:
+            findings.append({'entry': entry.stem, 'source': target, 'issue': 'identity resolved but canonical link missing'})
+    return findings
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--entry', action='append', default=[])
@@ -62,6 +77,10 @@ def main() -> int:
             continue
         if args.drafts and (args.drafts / (stem + '.md')).is_file():
             entry = _parse_file(args.drafts / (stem + '.md'), entry.type)
+        if entry.source_entries:
+            checked += len(entry.sources)
+            findings.extend(check_explicit_sources(entry, sources))
+            continue
         for citation in entry.sources:
             checked += 1
             target = resolve(citation, sources, aliases)

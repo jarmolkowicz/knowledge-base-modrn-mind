@@ -1,0 +1,29 @@
+{
+  "queue_position": 324,
+  "id": 739,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/mayur-kamat/transcript.md",
+  "sha256": "914f3a7c01790a4948e6cec552699ac6cb3d1c9b7e4070017c8c042559ddeb56",
+  "title": "Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat (CPO at N26)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 429,
+      "text": "(01:15:43):"
+    },
+    {
+      "line": 430,
+      "text": "If you ask me across N26. But even when we did this at Binance or at Agoda, there are three areas where AI is complete game changer. One is on coding. Again, you can use whatever latest tool for prototyping or not most value, especially for the companies I have worked at, which are fairly large companies, very large code bases."
+    },
+    {
+      "line": 444,
+      "text": "Mayur Kamat (01:18:13):"
+    },
+    {
+      "line": 445,
+      "text": "Yes, yes. But again, hopeful to, generally not a big fan of ... The thing I call a little bit jaded. You have tools now that you write few things and they make a long essay for it. And then you have tools that compress long essays into few words. You could have just said few words in the first place and save the whole round trip. It's like a reverse zip. I remember when we had zip and it was a game changer, but there was a big file you needed to send over a slow network, so you compressed it and sent it and then expanded it. We're doing the reverse now. We have a small thing, we make it big and then send it over and somebody's making it small. But on these three areas, if you're at all skilled companies, if you don't have a great tool for developing productivity, you're not looking at essential basic LLM bots for deflecting customer service and you're not looking at patterns on user transactions or user communications or detect fraud, that's the first area I would focus on."
+    }
+  ]
+}

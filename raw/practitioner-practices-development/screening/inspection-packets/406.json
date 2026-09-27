@@ -1,0 +1,36 @@
+{
+  "id": 406,
+  "title": "Academia Is Enshittifying. AI Made It Faster.",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/academia-is-enshittifying-ai-made-it-faster.md",
+  "sha256": "2d46cb8c192d44ffaabe2355de88c90e9fc4614e6352265229a4eed293bbf6d8",
+  "access": "public-page",
+  "kind": "article",
+  "words": 3194,
+  "headings": [
+    "**In this post I will:**",
+    "**What the retraction notice does and does not say**",
+    "**Why the paper was always going to find what it found**",
+    "**Confirmation did the work of evidence**",
+    "**The three stages of enshittification, applied to academia**",
+    "**What AI catalyses, at every stage**",
+    "**Citations outlive their evidence**",
+    "**The system, not the technology**",
+    "**The publish-or-perish machine**",
+    "**What academic publishing looks like now**",
+    "**Questions I do not have answers to**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 440,
+      "text": "In May 2025 a meta-analysis in *Humanities and Social Sciences Communi"
+    },
+    {
+      "line": 113,
+      "offset": 13375,
+      "text": "The slippage I want to flag is this: the question ‘is AI making research worse’ and the question ‘is research itself getting worse’ are different questions. The first one has a satisfying answer (we can ban AI,"
+    }
+  ]
+}

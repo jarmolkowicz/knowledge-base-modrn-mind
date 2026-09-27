@@ -1,0 +1,25 @@
+{
+  "slug": "illingworth-486-teach-ai-what-you-are-not-2025",
+  "original_filename": "slow-ai-5-teach-it-what-you-are-not-saying.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 751,
+  "hash": "9aef975e8d09c0d6d54da8c067f139278ecb395c393dff09dd999ae909eb4e66",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "critiqued",
+  "ingested_at": "2026-09-26T20:59:44Z",
+  "decisions": [],
+  "lines": 145,
+  "screening_id": 486,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/slow-ai-5-teach-it-what-you-are-not-saying.md",
+  "bibliographic_metadata": {
+    "title": "Teach AI What You Are Not Saying",
+    "date": "2025-07-29",
+    "url": "https://theslowai.substack.com/p/slow-ai-5-teach-it-what-you-are-not-saying",
+    "collection": "Sam Illingworth"
+  },
+  "draft_only": true,
+  "integration_decision": "pending",
+  "practice_review": "practice-review.json"
+}

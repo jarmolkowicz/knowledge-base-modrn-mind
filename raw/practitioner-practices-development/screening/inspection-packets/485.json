@@ -1,0 +1,30 @@
+{
+  "id": 485,
+  "title": "What Would Help Your AI Tool Go Slow?",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-4-what-would-help-you-go.md",
+  "sha256": "d7a9b87a9eb75724da4f1ad49fe8b94dd8bb4f56e8f6a58089897a3ef45c4ffe",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 660,
+  "headings": [
+    "**Step-by-step**",
+    "A moment from me",
+    "What to do with it",
+    "Why this matters",
+    "**From [Slow AI #3 – What Should I Sit with Today](https://theslowai.substack.com/p/slow-ai-3-what-should-i-sit-with)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 230,
+      "text": "Sometimes, the best way to slow down is to stop talking about your"
+    },
+    {
+      "line": 123,
+      "offset": 3912,
+      "text": "**If you try this week’s prompt, I would love to hear what your AI tool came back with, and whether it slowed** ***you*** **down at all.**"
+    }
+  ]
+}

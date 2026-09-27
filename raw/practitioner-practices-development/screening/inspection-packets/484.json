@@ -1,0 +1,30 @@
+{
+  "id": 484,
+  "title": "What Should You Sit with Today?",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-3-what-should-i-sit-with.md",
+  "sha256": "da4e20f9bca771b4b77fd8537b4f3f0b19ff62aa4b632d1daf35f4383371a1f4",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 566,
+  "headings": [
+    "**Step-by-step**",
+    "**A moment from me**",
+    "**What to do with it**",
+    "**Why this matters**",
+    "From [Slow AI #2: Teach It a Lie You Once Believed](https://theslowai.substack.com/p/slow-ai-2-teach-it-a-lie)"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 218,
+      "text": "Sometimes it helps to have a prompt that does not want a quick ans"
+    },
+    {
+      "line": 46,
+      "offset": 1229,
+      "text": "I asked ChatGPT, *what should I sit with today?*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 591,
+  "group_index": 14,
+  "decision": "merge_as_support_with_limits",
+  "coverage": "Read relevant complete transcript exchanges: L122–168; 00:14:52–00:24:53. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L122–168; 00:14:52–00:24:53"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Reports repeated product work and personal success using reference customers."
+  ],
+  "proposed_outcomes": [
+    "Ground decisions in lived problems and observed use."
+  ],
+  "limits": [
+    "Success is retrospective self-report. Recommended customer counts are heuristics, not proof of product-market fit. Vaccine analogy and unspecified validation studies excluded."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/lenny-802-why-great-ai-products-are-all-2024/drafts/practices/seek-contrary-customer-evidence.md"
+  ],
+  "role": "support",
+  "review_note": "Work with people who actually have the problem; distinguish use and expressed approval from value and adoption.",
+  "author": "Christian Idiodi",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/seek-contrary-customer-evidence.md"
+  ],
+  "historical_drafts_retained": true
+}

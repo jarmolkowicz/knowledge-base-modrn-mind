@@ -1,0 +1,24 @@
+{
+  "id": 96,
+  "title": "The Lazy Tyranny of the Wait Calculation",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/the-lazy-tyranny-of-the-wait-calculation.md",
+  "sha256": "0c9f3f52308f575be4d48fd57bf47fe1efc05eefb125096a76a2f458a6fc56d2",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2219,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 240,
+      "text": "Say you wanted to get to our stellar neighbor, Barnard’s Star as fast as possible. When should you l"
+    },
+    {
+      "line": 75,
+      "offset": 13063,
+      "text": "Returning to the timeline for AI as an academic, one thought crosses my mind: the time it takes to go from a new idea for a project to publishing a completed paper is **often greater than the timeline for reaching AGI according to prediction markets.** I have had papers published in far less time (a"
+    }
+  ]
+}

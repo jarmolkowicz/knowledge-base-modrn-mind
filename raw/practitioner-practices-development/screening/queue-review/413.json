@@ -1,0 +1,49 @@
+{
+  "queue_position": 115,
+  "id": 413,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-career-decision-reversible-return-path.md",
+  "sha256": "af4f79fa94beb4a3b4dd044b7e5cac58ec21f529fdc7397a3aeb5786ac32bc9f",
+  "title": "How to Use AI to Test Whether a Career Decision Is Reversible",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L30 #### **How to use AI to map a return path for career decisions**",
+    "L44 #### **A moment from [Ting Wang](https://open.substack.com/users/181211715-ting-wang?utm_source=mentions)**",
+    "L56 #### What to share",
+    "L62 #### **From [The Velocity Trap: Why AI Makes You Start Everything and Finish Nothing](https://theslowai.substack.com/p/velocity-trap-ai-decision-paralysis)**",
+    "L76 #### **Why this matters**"
+  ],
+  "passages": [
+    {
+      "line": 30,
+      "text": "#### **How to use AI to map a return path for career decisions**"
+    },
+    {
+      "line": 34,
+      "text": "`I am thinking about a specific career decision. Guide me through a slow inquiry that helps me understand its true shape. Begin by helping me explore how reversible the decision is in practice and what a return path would require in time, money and effort. Then help me map a clear route back if things do not unfold as I expect. Finally, help me examine the parts of my situation that make the decision feel irreversible even if it is not. Ask one question at a time. Keep the focus on clarity rather than reassurance. Use my context to anchor the inquiry. My context is [your situation, including countries, timelines and constraints].`"
+    },
+    {
+      "line": 38,
+      "text": "When it asks the first question, answer slowly. If you feel a pull toward justification, pause and return to description. What is true? What is uncertain? What is assumed?"
+    },
+    {
+      "line": 56,
+      "text": "#### What to share"
+    },
+    {
+      "line": 58,
+      "text": "Describe the first question that made the decision feel more concrete. Notice whether what shifted was the return path becoming visible or the realisation that a constraint you treated as structural was actually emotional. If you mapped a route back that you had not previously considered, describe what it would require and whether naming the cost changed how the decision felt. You do not need a conclusion. The goal is a clearer sightline, not a verdict."
+    },
+    {
+      "line": 76,
+      "text": "#### **Why this matters**"
+    },
+    {
+      "line": 84,
+      "text": "If you enjoyed this post, you can visit *Where I Begin Again*, where Ting | Orienting with AI explores how lives shape the choices we make and the clarity we need before we take them."
+    },
+    {
+      "line": 88,
+      "text": "If you try this prompt, Ting | Orienting with AI and I would welcome hearing what it revealed about your own career decisions. We read and respond to all comments."
+    }
+  ]
+}

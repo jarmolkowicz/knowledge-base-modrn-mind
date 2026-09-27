@@ -1,0 +1,53 @@
+{
+  "queue_position": 96,
+  "id": 369,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/build-your-ai-personal-assistant-social-media-marketing.md",
+  "sha256": "93686803edf2b14cd5adde2f750ce086586c9649de18ce11a88bf8a11cfe3610",
+  "title": "Build Your AI Personal Assistant",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L18 ## Prompt 1 - AI Agent Social Media Manager",
+    "L44 ## Prompt 2 - Your Brand Voice",
+    "L56 ## Prompt 3 - Your Quality Gates",
+    "L72 ## Next Steps…. Win $6k at My Vibe Code Hackathon!",
+    "L86 ## **P.S. Need More Help? 👋**"
+  ],
+  "passages": [
+    {
+      "line": 12,
+      "text": "Learn how to use Claude Code to build your own AI social media manager in minutes. In this video, I’ll walk you through setting up Claude Code and the exact prompts to use to write content in your brand voice, generate visuals, and post to social media. If you want to save time, stay consistent, and leverage AI agents like a pro, this step-by-step tutorial will show you exactly how to do it."
+    },
+    {
+      "line": 18,
+      "text": "## Prompt 1 - AI Agent Social Media Manager"
+    },
+    {
+      "line": 20,
+      "text": "Highly recommend following the Youtube tutorial to set things up properly, including installing Visual Studio Code, installing Claude Code, and opening a project directory."
+    },
+    {
+      "line": 27,
+      "text": "ai social media manager that knows my brand voice and makes social media posts for linkedin, instagram, twitter, and facebook"
+    },
+    {
+      "line": 39,
+      "text": "ask me clarifying questions, one at a time, until you are 95% confident you can complete the task successfully"
+    },
+    {
+      "line": 44,
+      "text": "## Prompt 2 - Your Brand Voice"
+    },
+    {
+      "line": 46,
+      "text": "Use this prompt to improve your AI Social Media Manager, so that it writes in your unique brand voice. Paste lots of real examples for the best results!"
+    },
+    {
+      "line": 56,
+      "text": "## Prompt 3 - Your Quality Gates"
+    },
+    {
+      "line": 65,
+      "text": "create a helper script that runs before publishing a post that checks ALL of the following quality criteria are met:"
+    }
+  ]
+}

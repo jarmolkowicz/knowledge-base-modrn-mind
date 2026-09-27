@@ -1,0 +1,38 @@
+{
+  "id": 750,
+  "author": "Mike Krieger, interviewed by Lenny Rachitsky",
+  "group_index": 12,
+  "decision": "retain",
+  "locators": [
+    "00:09:00–00:11:14; L116–129"
+  ],
+  "basis": "First-person family routine",
+  "reported_outcomes": [
+    "Describes replacing an immediate request to Claude with a question about how to find out; no learning assessment."
+  ],
+  "proposed_outcomes": [
+    "Keep the child involved in choosing an inquiry route."
+  ],
+  "limits": [
+    "Confidence in a child’s answer is not accuracy; the coral anecdote demonstrates stance, not verification.",
+    "The guest leads an AI product organization.",
+    "No age-specific outcome or general developmental benefit established."
+  ],
+  "review_note": "Retain the question-before-tool sequence and merge two human inquiry variants without claiming the same evidence basis.",
+  "coverage": "Close-read complete relevant transcript exchanges at listed timestamps and surrounding context; not full 475-line transcript; audio/video not reviewed.",
+  "related_entries": [
+    "agency",
+    "bastani-guardrails-math-rct-2025"
+  ],
+  "practice_files": [
+    "raw/lenny-750-anthropic-s-cpo-on-what-comes-2025/drafts/practices/ask-how-to-find-out-before-asking-ai.md"
+  ],
+  "role": "origin",
+  "draft_only": true,
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/ask-how-to-find-out-before-asking-ai.md"
+  ],
+  "historical_drafts_retained": true
+}

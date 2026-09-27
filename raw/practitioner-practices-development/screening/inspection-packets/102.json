@@ -1,0 +1,24 @@
+{
+  "id": 102,
+  "title": "Thinking Like an AI",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/thinking-like-an-ai.md",
+  "sha256": "1d7c2aced8a73e87ef174b0b97b2bdd7c498afa001e00a1e1503025216ea2746",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2470,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 177,
+      "text": "This is my 100th post on this Substack, which got me thinking about how I could summarize the many t"
+    },
+    {
+      "line": 20,
+      "offset": 1809,
+      "text": "When you give an AI a prompt, you are effectively asking it to predict the next token that would come after the prompt. The AI then takes everything that has been written before, runs it through a mathematical model of language, and generates the probability of which token is likely to come next in "
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 423,
+  "title": "Your AI Has 171 Emotion Patterns. Every One of Them Is a Lever.",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-emotion-vectors-sycophancy-deception.md",
+  "sha256": "4e63cdefe4e0e8bdac77e7c794f5ee5dc02df1583053d11b2daf92ca706c1745",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1526,
+  "headings": [
+    "**In this post I will:**",
+    "**What they found**",
+    "**The three behaviours**",
+    "**What this means when you open your AI tool**",
+    "**Why the humanities are the diagnostic**",
+    "**Four tests to run on your AI tool this week**",
+    "**1. The Agreement Test**",
+    "**2. The Pressure Test**",
+    "**3. The Mood Mirror Test**",
+    "**4. The Fresh Start Test**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 472,
+      "text": "Anthropic’s interpretability team just published research that should "
+    },
+    {
+      "line": 67,
+      "offset": 5705,
+      "text": "This post gives you the research. The paid section gives you four tests to run on your own AI tool this week: an agreement test, a pressure test, a mood mirror test, and a fresh start test. Each takes less than"
+    }
+  ]
+}

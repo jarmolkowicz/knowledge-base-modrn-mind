@@ -1,0 +1,41 @@
+{
+  "id": 523,
+  "group_index": 0,
+  "decision": "retain",
+  "role": "origin",
+  "locators": [
+    "L24, Timo Mason credit",
+    "L36–56, Step-by-step",
+    "L76–110, contributor example",
+    "L130–136, reflection"
+  ],
+  "basis": "Timo Mason’s first-person prompt experiment plus a one-week practice proposed with Sam Illingworth.",
+  "reported_outcomes": [
+    "Different stated business purposes elicited different suggested protected tasks; connection with people recurred."
+  ],
+  "proposed_outcomes": [
+    "Make a personal non-delegation choice visible and enact it."
+  ],
+  "limits": [
+    "Model answers are suggestions, not evidence of the person’s values or future skill atrophy. No assessment of retained skill or improved relationships. Never-automate language is too absolute for accommodations and changing circumstances."
+  ],
+  "related_entries": [
+    "cognitive-offloading",
+    "think-first"
+  ],
+  "review_note": "Retain one chosen task and written reason, with revisable boundaries and explicit human purpose before AI input.",
+  "practitioner": "Make the commitment manageable; a protected reasoning step can be smaller than a whole task.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [
+    "raw/illingworth-523-how-to-hold-on-to-what-2025/drafts/practices/keep-one-thinking-step.md"
+  ],
+  "source_path": "raw/illingworth-523-how-to-hold-on-to-what-2025/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/keep-one-thinking-step.md"
+  ],
+  "historical_drafts_retained": true
+}

@@ -1,0 +1,29 @@
+{
+  "queue_position": 274,
+  "id": 671,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jason-droege/transcript.md",
+  "sha256": "e5c1a0afabbd5e9de7afbc3a8c730ed63b88c7c1431f8cf9927b826aa57658f9",
+  "title": "Scale AI CEO on Meta's $14B deal, scaling Uber Eats to $80B, & what frontier labs are building next",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L34 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 174,
+      "text": "(00:24:27):"
+    },
+    {
+      "line": 175,
+      "text": "So there's a huge backlog. They want to be able to see more patients, they want to be able to provide better care, and they want to prevent the number of revisits because they want to give the accurate diagnosis day one and what the treatment should be. Well, to do this today without the help of AI, the doctor really needs to read 200 to 300 pages of documentation and it's rolled into one document, but in different formats. And so, if you're a doctor, how are you going to read 200 or 300 pages of everything? So what they do is they do the best they can. They scan it, they ask a nurse to look at it, they ask maybe a more junior doctor to take a look at this case. They want to treat the patient well, obviously this is why they became a doctor. And then, they go into the room and they talk to the person and then they make a diagnosis."
+    },
+    {
+      "line": 228,
+      "text": "Lenny Rachitsky (00:33:48):"
+    },
+    {
+      "line": 229,
+      "text": "To you, this is so obvious and to people in your market that I think a lot of people think about AI being trained on just here's a bunch of data, check it out, learn everything you can from all of human history and all of written record. But what's wild is basically people are sitting around teaching AI things it doesn't know, filling gaps. That's how AI is getting smarter now. There's no more real data for it to feed on. It's just like, here's what I don't know, or here's what an expert found you're wrong. I'm going to teach you this. And the fact that it scales and that's keeping models improving is so mind-boggling."
+    }
+  ]
+}

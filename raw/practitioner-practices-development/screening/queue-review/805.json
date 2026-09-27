@@ -1,0 +1,25 @@
+{
+  "queue_position": 378,
+  "id": 805,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/shreyas-doshi-live/transcript.md",
+  "sha256": "7a7e51e198b7120710411272f3acb5a15eb12fb003709e72f3463c9f53aaf5db",
+  "title": "The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 36,
+      "text": "## Transcript"
+    },
+    {
+      "line": 96,
+      "text": "But building these integrations in-house cost an average of three months of engineering, according to the 2024 State of Integration survey, which results in difficult roadmap trade-offs. This is why engineering teams at Coffee AI, AI21, and over 100 other B2B SaaS companies use Paragon, so they can focus their efforts on core product features, not integrations. The result, they've shipped integrations seven times faster, all while avoiding the never-ending maintenance that comes with rolling your own integrations. Visit useparagon.com/lenny to see how Paragon can help you accelerate your product's integration roadmap today and get $1,000 in credit on their Pro and Enterprise plans. That's useparagon.com."
+    },
+    {
+      "line": 231,
+      "text": "And when I asked myself this question, and again, I really had to dig deep. It wasn't easy, but at some point I realized that no, actually, I don't have good taste. I don't have good taste in how I choose to evaluate things that come my way. Again, not in terms of the product, because by that time I had skills to say, \"Well, this should not be a two-step flow. This should be a three-step flow,\" whatever the case may be. But I still did not have good taste in terms of how I choose what are the things I choose to believe, how do I learn, who do I learn from, what content I learned from, what content I resonate with? And then, I went on this journey to try to develop that better taste."
+    }
+  ]
+}

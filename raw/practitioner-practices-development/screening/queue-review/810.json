@@ -1,0 +1,29 @@
+{
+  "queue_position": 382,
+  "id": 810,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/tamar-yehoshua/transcript.md",
+  "sha256": "5e3dddf3f860c141ed79049453e99ce7acc63ab0764138fc9bdda1acda471844",
+  "title": "Lessons in product leadership and AI strategy from Glean, Google, Amazon, and Slack | Tamar Yehoshua",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 402,
+      "text": "Tamar Yehoshua (01:02:41):"
+    },
+    {
+      "line": 403,
+      "text": "My first week at Glean was eye-opening in learning some of these things. But let me first just explain what Glean does for people who may not know. So Glean was started as enterprise search. Glean reads content of all your SaaS apps. So it reads the content from Microsoft, Google, Slack, Salesforce, Jira, like any SaaS tool that you use, it indexes it and enables you to search. So it started as just enterprise search and using AI. So it was an AI search using BERT models and using vector embeddings in 2019. Because the early engineers at Glean came from Google and Google created BERT to enhance search. And so it was obvious that they would be using ML techniques for search. Then GPT3 came along and added a natural language interface, a chat interface. You can ask the question in actual language and get an answer, and it basically is a knowledge graph of your organization. So you can ask any question. Think of ChatGPT for your enterprise. Ask any question about your enterprise."
+    },
+    {
+      "line": 519,
+      "text": "Tamar Yehoshua (01:16:19):"
+    },
+    {
+      "line": 520,
+      "text": "Find me on LinkedIn and I have a subject called Practical Intelligence where I've been interviewing practitioners who are working with AI. It was my way of learning. I started when I was a VC. Trying to continue doing it. And how can I be helpful if you are a customer of Glean, I'd love to know what you think, what works and what does more."
+    }
+  ]
+}

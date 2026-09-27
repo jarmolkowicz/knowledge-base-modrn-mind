@@ -1,0 +1,24 @@
+{
+  "id": 58,
+  "title": "Why Can't AI Empty My Inbox?",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/why-cant-ai-empty-my-inbox.md",
+  "sha256": "f65604692d0e3c90a819d13c42c12650aea9e638b5a5eb93bb3127112557745b",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 846,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 9,
+      "offset": 160,
+      "text": "The address that I use for this newsletter has long since been overrun by nonsense. Seemingly every PR and marketing fir"
+    },
+    {
+      "line": 27,
+      "offset": 2158,
+      "text": "The bigger question I ask in this article, however, is whether AI will soon be able to go beyond filtering messages to answering them on our behalf, automating the task of email altogether. This would be a big deal:"
+    }
+  ]
+}

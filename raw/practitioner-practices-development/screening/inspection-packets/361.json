@@ -1,0 +1,37 @@
+{
+  "id": 361,
+  "title": "AI for Lawyers (3 Real Use Cases)",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/ai-for-lawyers-3-real-use-cases.md",
+  "sha256": "c9b71ba826fc5c74a8dbc50881e085dd51bc57fda8667d55ee9ed855c32a91f7",
+  "access": "public-page",
+  "kind": "article",
+  "words": 3920,
+  "headings": [
+    "Meet Paula Rojas",
+    "1. A New Lawsuit Lands: 1 Hour Down to About 5 Minutes",
+    "Why this is the RIGHT kind of first project",
+    "2. Court Filings That Sound Like HER, Not Like AI",
+    "How she organizes her files for Claude Cowork",
+    "The 2 things that make a skill good",
+    "3. The Court Schedule Check (Playwright MCP)",
+    "AI hallucinations",
+    "What She’s NOT Doing",
+    "RECAP",
+    "FAQ",
+    "Not Sure Where To Start? 👇"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 397,
+      "text": "*TLDR… a litigation lawyer in Chile with zero tech background built 3 "
+    },
+    {
+      "line": 231,
+      "offset": 12705,
+      "text": "**First, teach it how YOU write.** She fed Claude a pile of filings she’d already written, in her own voice, and had Opus analyze them. How does she present facts? How does she build arguments? How does she str"
+    }
+  ]
+}

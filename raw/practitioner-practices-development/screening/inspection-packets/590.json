@@ -1,0 +1,26 @@
+{
+  "id": 590,
+  "title": "Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/chris-hutchins/transcript.md",
+  "sha256": "80762c58dcf52d084e4d709259dc43c407efe2c3405153c836f799d1d1c83a34",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 16686,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 835,
+      "text": "Yes, there are four million podcasts. However, there "
+    },
+    {
+      "line": 181,
+      "offset": 27947,
+      "text": "I think we all run into people and you're like, \"Gosh, this person's really smart. I wish that I could just pick their brain for an hour.\" And sometimes you cou"
+    }
+  ]
+}

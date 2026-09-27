@@ -1,0 +1,37 @@
+{
+  "queue_position": 256,
+  "id": 645,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/gina-gotthilf/transcript.md",
+  "sha256": "3447822da5814c8124bb2bff038656687569002a27746807ed0a9013dbfbf44c",
+  "title": "Scaling Duolingo, embracing failure, and insight into Latin America’s tech scene | Gina Gotthilf",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 276,
+      "text": "(00:20:04):"
+    },
+    {
+      "line": 277,
+      "text": "So I would be able to do something and be like, oh wow, this has a 3% conversion rate. And then get approval for a new version and deploy it and then be like, okay, we're at 6% now. And then actually improve. There was one day where I brought one page from three to 12% conversion rate with statistical significance. So that's, I think, the biggest benefit of having those dollar amounts."
+    },
+    {
+      "line": 471,
+      "text": "Gina Gotthilf (00:42:50):"
+    },
+    {
+      "line": 472,
+      "text": "Totally. And that's so hard to do, especially when you're young. And I think I'll add that, especially when you're female as well, or maybe other minorities. It's just really hard to trust your instinct because you're constantly telling yourself, do I really know anything or am I just being lucky? But you have to, and I think that forcing yourself to pretend that you know answers and just finding out what this pretend person who would know all the answers would think is really helpful because it helps you develop your point of view, your voice, and to trust yourself, even when you're working on something that you don't fully understand."
+    },
+    {
+      "line": 675,
+      "text": "(01:16:48):"
+    },
+    {
+      "line": 676,
+      "text": "So for example, there's examples of these in India and in some countries in Africa where, I don't know, the desktop was skipped, people just went straight to mobile. I think we can see these catapult opportunities because then when you start building something and you didn't even build for the previous version of whatever it is that was being used because in the US or more developed market, you had access to them, then you are in a way at an advantage. So I'm excited to see how that plays out in the next few years, and I'm particularly curious to see how that plays out when it comes to AI."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 168,
+  "title": "Executive Briefing: Anthropic tested 16 models",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/executive-briefing-trust-architecture.md",
+  "sha256": "4bdb96cd1a2154d58a3d17c20fdf6fc3e35f87e41c1380506c703840ea3b79df",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 768,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 246,
+      "text": "The agent wasn’t broken. It did exactly what autonomous systems do — pursued an object"
+    },
+    {
+      "line": 16,
+      "offset": 1548,
+      "text": "And the same design failure is operating at every level of human organization simultaneously. Anthropic first flagged the behavior in the Claude 4 system card in June 2025, then published the full research in October — stress-testing sixteen frontier models in"
+    }
+  ]
+}

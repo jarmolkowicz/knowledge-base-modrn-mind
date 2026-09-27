@@ -1,0 +1,29 @@
+{
+  "queue_position": 275,
+  "id": 673,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jason-fried/transcript.md",
+  "sha256": "27890b98b3b885895d8cbc4c896d2b455b7b17dc50f06c5faf6da5f973b5155c",
+  "title": "Jason Fried challenges your thinking on fundraising, goals, growth, and more",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L39 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 311,
+      "text": "(00:40:24):"
+    },
+    {
+      "line": 312,
+      "text": "So what we often encourage people to do is keep working the way you're working, but some future project, some low criticality project, try this new method on that. So if it doesn't work, because it's probably not going to work very well the first time, just like if I gave you a guitar and you never played before, it'd be unreasonable for me to expect you to play well. You're going to suck for a while. So go pick some things that don't matter if you suck at them for a while and try this method over there and go, oh, you know what? I'm actually getting quite good. Now let's try to bring this into some more critical stuff. I think that's the important way to approach these sorts of projects, which is to take the criticality out. Because what ends up happening is that when people try to try something new on something really critical and it doesn't work, they'll never try it again."
+    },
+    {
+      "line": 788,
+      "text": "Jason Fried (01:45:22):"
+    },
+    {
+      "line": 789,
+      "text": "We haven't started writing it. I can tell you, or I'm thinking about it, and it's going to revolve around the idea of gut and intuition in business and decision-making. I don't really know exactly how they all play in here in a book, but I think we need to celebrate gut and intuition more in business. And most business books are not about that. They're about the opposite in many ways. Whatever, you can't improve what you can't measure, or whatever these things are. And I think that's true in a lot of realms, like medicine, you can look at your biomarkers and you can do things."
+    }
+  ]
+}

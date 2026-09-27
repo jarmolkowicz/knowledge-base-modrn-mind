@@ -1,0 +1,33 @@
+{
+  "id": 760,
+  "group_index": 14,
+  "decision": "draft_with_limits",
+  "coverage": "Read relevant complete transcript exchanges: L377–423; 00:48:54–00:57:35. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L377–423; 00:48:54–00:57:35"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Explains why a build-and-test/slow-or-complicated item is ambiguous."
+  ],
+  "proposed_outcomes": [
+    "Make survey responses interpretable."
+  ],
+  "limits": [
+    "Expert advice and worked example, not a test of AI survey design. A model calling an item good is not validation. Productivity attribution remains confounded by concurrent changes."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/lenny-760-how-to-measure-ai-developer-productivity-2025/drafts/practices/review-survey-questions-for-decisions.md"
+  ],
+  "role": "origin",
+  "review_note": "Review whether each survey question supports a useful decision; separate bundled questions with a researcher or AI critique.",
+  "author": "Nicole Forsgren",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/review-survey-questions-for-decisions.md"
+  ],
+  "historical_drafts_retained": true
+}

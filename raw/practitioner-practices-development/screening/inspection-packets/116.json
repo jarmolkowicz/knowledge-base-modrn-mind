@@ -1,0 +1,24 @@
+{
+  "id": 116,
+  "title": "A $3 million karaoke company triggered a logistics selloff",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/a-karaoke-company-just-erased-174.md",
+  "sha256": "0c13eeb6a97dab0536a5ba866a4216520d82952e48887206a1285407c394180e",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 376,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 266,
+      "text": "A former karaoke company just triggered a selloff that erased roughly $17.4 billion fr"
+    },
+    {
+      "line": 14,
+      "offset": 1156,
+      "text": "But here’s what almost nobody inside a panicking company is seeing: **the scare trade just created the single largest career opportunity in a decade.** Every organization that watched its sector get hammered is now asking the same question: what can AI actuall"
+    }
+  ]
+}

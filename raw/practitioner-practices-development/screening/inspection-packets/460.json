@@ -1,0 +1,39 @@
+{
+  "id": 460,
+  "title": "How Creatives Are Actually Using AI (And What They Refuse to Let It Do)",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/how-creatives-actually-use-ai.md",
+  "sha256": "7a91b35c5d79b29629a82224dbfffecd6dd4a9d486ef51125d1b78b50085cf08",
+  "access": "public-page",
+  "kind": "article",
+  "words": 3713,
+  "headings": [
+    "**Art has always been stolen**",
+    "**Where AI complicates this**",
+    "**How creatives actually use AI in their work**",
+    "**Slow AI**",
+    "**[Alyssa Fu Ward, PhD](https://open.substack.com/users/118913109-alyssa-fu-ward-phd?utm_source=mentions)**",
+    "**[Natalie Nicholson](https://open.substack.com/users/354634571-natalie-nicholson?utm_source=mentions)**",
+    "**[Mia Kiraki 🎭](https://open.substack.com/users/362428399-mia-kiraki?utm_source=mentions)**",
+    "**[AI Meets Girlboss](https://open.substack.com/users/415027717-ai-meets-girlboss?utm_source=mentions)**",
+    "**[Dallas Payne](https://open.substack.com/users/324339337-dallas-payne?utm_source=mentions)**",
+    "**[Caitlin McColl 🇨🇦](https://open.substack.com/users/31587167-caitlin-mccoll?utm_source=mentions)**",
+    "**[Story Beyond Play](https://open.substack.com/users/228948496-story-beyond-play?utm_source=mentions) (Avery K. Tingle)**",
+    "**[AI Cinema By Elettra Fiumi](https://open.substack.com/users/6044959-ai-cinema-by-elettra-fiumi?utm_source=mentions)**",
+    "**[Lag Phase](https://open.substack.com/users/30441737-lag-phase?utm_source=mentions)**",
+    "**[Joshua Sherman](https://open.substack.com/users/439316418-joshua-sherman?utm_source=mentions)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 478,
+      "text": "This is not a debate about whether AI belongs in creative work. That a"
+    },
+    {
+      "line": 196,
+      "offset": 20244,
+      "text": "I write and record songs under the name First Radio On. I’ve been in bands and played shows up and down the West Coast. Today, I use AI as a thinking partner for lyrics, music theory, harmonic analysis, arrange"
+    }
+  ]
+}

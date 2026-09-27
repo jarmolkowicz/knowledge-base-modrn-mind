@@ -1,0 +1,39 @@
+{
+  "id": 374,
+  "title": "CLAUDE CODE FULL COURSE",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/claude-code-full-course-for-beginners.md",
+  "sha256": "f592f082d880b94d6b565a969c21ee0cc34e3af505b8258f5417c73d7c5fc327",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 4010,
+  "headings": [
+    "Claude Code Settings",
+    "Permissions",
+    "Modes",
+    "Context",
+    "VSCode Extension vs Terminal",
+    "Model",
+    "Step 1: Create the `/post` Skill",
+    "What are skills?",
+    "Building the skill",
+    "Testing the Skill",
+    "Step 2: Add Per-Platform Brand Voice",
+    "Step 3: Create Quality Gate",
+    "What are hooks?",
+    "Building the hook"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 229,
+      "text": "> - Win $6k at my Vibe Code Hackathon! (signup)"
+    },
+    {
+      "line": 138,
+      "offset": 6854,
+      "text": "You do NOT need to create this file structure manually. When you tell Claude to create a skill, it builds the directory and writes `SKILL.md` for you. But knowing the structure helps if something goes wrong -- "
+    }
+  ]
+}

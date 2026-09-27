@@ -1,0 +1,26 @@
+{
+  "id": 616,
+  "title": "The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/edwin-chen/transcript.md",
+  "sha256": "c37bb07e1e0a4276af4c82340e6cf4a00617aa2d1cc1816cafd9a2dda7178ed2",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 14649,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 844,
+      "text": "You guys hit a billion in revenue in less than four y"
+    },
+    {
+      "line": 595,
+      "offset": 68706,
+      "text": "I'll get a bit philosophical here, but I think the question itself is a bit philosophical, so bear with me. So the most straightforward way of thinking about wh"
+    }
+  ]
+}

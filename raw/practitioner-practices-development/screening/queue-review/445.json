@@ -1,0 +1,58 @@
+{
+  "queue_position": 134,
+  "id": 445,
+  "path": "raw/inbox/Practical/Sam Illingworth/anthropic-multi-agent-warning.md",
+  "sha256": "088de6579ca4deea9f1f4b368d756cc1490f2fd5dab33f96a87cfaa8cc106004",
+  "title": "The Anthropic Paper That Should Worry Anyone Buying AI Agents",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L17 #### **In this post I will:**",
+    "L25 #### **The finding**",
+    "L35 #### **What the study actually did**",
+    "L47 #### **Why aligned individuals build misaligned groups**",
+    "L59 #### **You are already inside one**",
+    "L73 #### **The gap that is now yours to close**",
+    "L89 #### **A field guide to being processed by an agent team**",
+    "L93 #### **1. The helpline that keeps handing you off**",
+    "L101 #### **2. The insurance claim or fraud hold that will not move**",
+    "L109 #### **3. The healthcare referral that keeps bouncing back**",
+    "L117 #### **4. The benefits, welfare, or immigration decision**",
+    "L125 #### **5. The school admission, the university application, the assessment**",
+    "L133 #### **6. The subscription, the account hold, the platform decision**",
+    "L141 #### **What this leaves you with**"
+  ],
+  "passages": [
+    {
+      "line": 73,
+      "text": "#### **The gap that is now yours to close**"
+    },
+    {
+      "line": 79,
+      "text": "The agent team will not stop running. The remaining question is whether it runs over you or whether you put a human back into the loop."
+    },
+    {
+      "line": 101,
+      "text": "#### **2. The insurance claim or fraud hold that will not move**"
+    },
+    {
+      "line": 107,
+      "text": "**The ask:** request the specific reason for the decision in writing. In the US, the Equal Credit Opportunity Act requires creditors to give you a specific written explanation for any adverse decision, and your state department of insurance has its own complaint process for insurance decisions. In the UK and EU, the FCA’s Consumer Duty plus the right to human review under GDPR Article 22 cover the same ground. Similar rights exist in Canada, Australia, and many other jurisdictions. The first ask is the same anywhere: force them to put the reason in writing, then look up which authority covers it where you are."
+    },
+    {
+      "line": 109,
+      "text": "#### **3. The healthcare referral that keeps bouncing back**"
+    },
+    {
+      "line": 115,
+      "text": "**The ask:** request your full medical record. In the US, this is your HIPAA right of access; providers must give you a copy within 30 days. In the UK and EU, a Subject Access Request under data protection law gets the same thing. Most other jurisdictions have an equivalent. If any part of the triage was AI-assisted, ask which model and what confidence score. Ask your clinician to escalate manually outside the AI pipeline. The Anthropic finding is the technical reason patients in agent-mediated systems should expect to advocate harder, not less hard, than before."
+    },
+    {
+      "line": 125,
+      "text": "#### **5. The school admission, the university application, the assessment**"
+    },
+    {
+      "line": 127,
+      "text": "The team often includes an eligibility filter, a scoring agent, a plagiarism or LLM-detection checker (Turnitin, GPTZero, Copyleaks), a feedback generator, and a notional ‘human reviewer’ who in practice signs off on a batch of pre-decided cases."
+    }
+  ]
+}

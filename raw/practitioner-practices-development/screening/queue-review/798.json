@@ -1,0 +1,37 @@
+{
+  "queue_position": 371,
+  "id": 798,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/scott-belsky/transcript.md",
+  "sha256": "07d2289d808cb0590a150da361941423463689e6d1abfbf8c906a68f42432d67",
+  "title": "Lessons on product sense, AI, the first mile experience, and the messy middle | Scott Belsky (Adobe)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 348,
+      "text": "(00:36:15):"
+    },
+    {
+      "line": 349,
+      "text": "So right now, I mean in Photoshop, we're experimenting with instead of just reducing an image and cropping, you can also extend an image. And that's, of course, using generative AI for out painting. And so, you can imagine as you're doing edits in that as well as in other forms of design, getting kind of thumbnails of what you might be trying to accomplish and then touching them, almost like predictive text to go to the next step, to the next step, to the next step and take leaps in the creative process as opposed to incremental steps."
+    },
+    {
+      "line": 369,
+      "text": "Scott Belsky (00:38:28):"
+    },
+    {
+      "line": 370,
+      "text": "Quite simply in one word, play. We all have to be playing with this technology. We have to find ways. The risk of becoming more experienced in your career is you get stuck in your ways. And you're like, \"Ah, no. I don't need to have that automatic draft in my email and get ChatGPT to suggest what I want to respond with. I'm fine without that.\" Make sure you try it. Make sure you play with it. Write poems for your friends. Try a lot of these various generative AI tools out there just to see what's possible and pursue every curiosity."
+    },
+    {
+      "line": 558,
+      "text": "Scott Belsky (01:00:05):"
+    },
+    {
+      "line": 559,
+      "text": "But it's a product called Tome. And they can take a narrative that you want to put into a presentation, and with AI basically create just a draft of this presentation with imagery and compelling points. And it's almost as if you handed this off to an intern and said, \"Come back to me with something I can work with.\" And suddenly, it's instantly there. So that's been like a fun one to play with."
+    }
+  ]
+}

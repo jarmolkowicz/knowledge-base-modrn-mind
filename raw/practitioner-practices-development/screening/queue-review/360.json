@@ -1,0 +1,77 @@
+{
+  "queue_position": 93,
+  "id": 360,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/ai-for-healthcare-insurance-planning.md",
+  "sha256": "00c94693445fba092866d8624a754a8481e9483337230edf153306c41574101a",
+  "title": "AI for Healthcare & Insurance",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L49 ## **1.** **Create one AI chat that keeps you organized.**",
+    "L65 ## **2.** **Make AI explain the fine print**",
+    "L87 ### **3.** **Make AI find the questions you didn’t know to ask**",
+    "L101 ## **AI shouldn’t make your healthcare decisions.**",
+    "L111 ## Not Sure Where To Start? 👇"
+  ],
+  "passages": [
+    {
+      "line": 13,
+      "text": "# AI for Healthcare & Insurance"
+    },
+    {
+      "line": 43,
+      "text": "IMPORTANT: Use AI as a translator and organizer to understand what you’re reading, keep track of information, and also figure out what questions to ask."
+    },
+    {
+      "line": 49,
+      "text": "## **1.** **Create one AI chat that keeps you organized.**"
+    },
+    {
+      "line": 61,
+      "text": "List what we should review before 2027 Open Enrollment. Add it to the tracker. Do not recommend a plan. Flag anything requiring verification through Medicare.gov or the plan. Do not replace verified information with assumptions."
+    },
+    {
+      "line": 65,
+      "text": "## **2.** **Make AI explain the fine print**"
+    },
+    {
+      "line": 71,
+      "text": "Explain this notice at a 4th grade reading level. List only changes stated in the document. Flag anything affecting drug cost or access. Note the page or section for each change. If the notice does not include an answer, write “not found” instead of guessing. Update the tracker."
+    },
+    {
+      "line": 87,
+      "text": "### **3.** **Make AI find the questions you didn’t know to ask**"
+    },
+    {
+      "line": 91,
+      "text": "Based only on the plan documents, our tracker, and verified information, give me 5 questions that still need answers before Open Enrollment. For each, identify the best authoritative source to check."
+    },
+    {
+      "line": 97,
+      "text": "For other coverage, check with the health plan, employer’s benefits team, or official Marketplace resources."
+    },
+    {
+      "line": 99,
+      "text": "Verify the answers and bring them back to the chat. Ask AI to update the tracker and show unanswered items."
+    },
+    {
+      "line": 101,
+      "text": "## **AI shouldn’t make your healthcare decisions.**"
+    },
+    {
+      "line": 103,
+      "text": "Its job is to help you organize information, understand the language and help you ask better questions before you decide."
+    },
+    {
+      "line": 105,
+      "text": "*This is for general educational information only, not plan advice. Verify Medicare coverage information through Medicare.gov, your plan or SHIP.*"
+    },
+    {
+      "line": 111,
+      "text": "## Not Sure Where To Start? 👇"
+    },
+    {
+      "line": 129,
+      "text": "***IMPORTANT:** I will NEVER ask you for money. I am NOT sending you friend requests. I am NOT on Whatsapp, Telegram, or messaging apps. I will NEVER sell a course. Always block & report scammers.*"
+    }
+  ]
+}

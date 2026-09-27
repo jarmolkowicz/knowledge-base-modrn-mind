@@ -1,0 +1,45 @@
+{
+  "queue_position": 238,
+  "id": 614,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/dylan-field-20/transcript.md",
+  "sha256": "2291da60de31f49ba9f96bddf1f195f50cec341dde05e3698187cfe869603df0",
+  "title": "Dylan Field live at Figma's Config: Intuition, simplicity, and the future of design",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L35 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 556,
+      "text": "(01:13:03):"
+    },
+    {
+      "line": 557,
+      "text": "But also, there's so much that we can do to grow. You can either see AI as an opportunity for your company to grow and do more, or you can look at it as cost-cutting efficiency, but I think the growth part's way more exciting. It's like on the individual side you can see it as a path for you to learn and grow and explore the world in human consciousness, or you can use it to do your homework. Obviously, I've got a point of view on which one's better. I think it'll be interesting to see how people adapt and grow."
+    },
+    {
+      "line": 571,
+      "text": "Dylan Field (01:14:59):"
+    },
+    {
+      "line": 572,
+      "text": "Beyond the obvious, I think there are certain domains where it does really well. I definitely oftentimes will ask an AI model about a legal question now before I call a lawyer, because I find it's not replacing my call with a great lawyer, but it does inform my point of view. You have to be careful about when you do that. Your conversation with AI is not the same as your conversation with a lawyer, but I think that any place where you're going to consult an expert but can come in more informed, that is interesting. Another thing that's not day to day, but I find it's very good at, and this is underexplored, is whenever you have a space of possibility, and there are many dimensions to that space, so let's say I'm trying to write fiction."
+    },
+    {
+      "line": 610,
+      "text": "Dylan Field (01:18:14):"
+    },
+    {
+      "line": 611,
+      "text": "Yeah, there's those sorts of that variety. A lot of them don't work anymore, but there's still a lot of stuff that does work and it's interesting to probe and play AI psychologist."
+    },
+    {
+      "line": 670,
+      "text": "Dylan Field (01:21:12):"
+    },
+    {
+      "line": 671,
+      "text": "Yeah, I think for Figma, looking in the past, collaboration was the first big change that made it so that there was a differentiated product for us to go build in the browser. But then, the second one that is something that obviously we're thinking about now is AI. Someday we'll be talking about BCI on this podcast, but not there yet."
+    }
+  ]
+}

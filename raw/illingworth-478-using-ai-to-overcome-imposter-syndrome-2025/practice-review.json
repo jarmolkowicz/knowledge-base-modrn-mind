@@ -1,0 +1,28 @@
+{
+  "id": 478,
+  "group_index": 16,
+  "decision": "retain_counterexample_only",
+  "coverage": "Read the complete available local article body; linked images, videos and external claims not independently inspected.",
+  "locators": [
+    "L36–44, L66–76, L100–108"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Khalaf reports a confidence jolt while writing in a second language."
+  ],
+  "proposed_outcomes": [
+    "Confidence and overcoming imposter feelings."
+  ],
+  "limits": [
+    "Reported confidence is not evidence of skill, accurate self-assessment or clinical benefit. Repeating a statement until it feels true cannot establish its truth. Preserve experience, reject authority claim."
+  ],
+  "related_entries": [
+    "ibrahim-warmth-sycophancy-2026"
+  ],
+  "practice_files": [],
+  "role": "counterexample",
+  "review_note": "Prompts a perceptive ally to infer hidden imposter feelings and supply a reframe, proof and next step.",
+  "author": "Farida Khalaf, guest contributor hosted by Sam Illingworth",
+  "integration_decision": "pending",
+  "draft_only": true
+}

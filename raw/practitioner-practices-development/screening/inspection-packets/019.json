@@ -1,0 +1,24 @@
+{
+  "id": 19,
+  "title": "AI Isn’t Breaking Work. It’s Already Broken.",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/ai-isnt-breaking-work-its-already-broken.md",
+  "sha256": "f5e27762975c653048e6dc7470426b166ce6827fda34c1ca55d715d6e0297f4d",
+  "access": "public-page",
+  "kind": "article",
+  "words": 353,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 419,
+      "text": "The *Financial Times* ​recently reported​ an interview with Rebecca Hinds, head of the Work AI Institute. Hinds was disc"
+    },
+    {
+      "line": 19,
+      "offset": 918,
+      "text": "- When calculating the 11 hours saved, workers aren’t counting all of the time they spend waiting for AI agents to complete tasks (an activity some are now calling “botsitting”)."
+    }
+  ]
+}

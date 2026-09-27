@@ -1,0 +1,50 @@
+{
+  "slug": "illingworth-422-you-did-not-learn-that-with-2026",
+  "original_filename": "ai-dunning-kruger-illusion-mastery.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 1597,
+  "hash": "6680a262da0ea44655d1f867d7fe76eaf5d41db103d468ae5ebcb0a645a3ec1d",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:43Z",
+  "decisions": [
+    {
+      "stage": "practice-close-reading",
+      "outcome": "retain",
+      "at": "2026-09-26",
+      "scope": "draft-only; integration pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/illingworth-422-you-did-not-learn-that-with-2026.md",
+      "practices": [
+        "practices/diagnose-your-draft-before-feedback.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 162,
+  "screening_id": 422,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/ai-dunning-kruger-illusion-mastery.md",
+  "bibliographic_metadata": {
+    "title": "You Did Not Learn That With AI",
+    "date": "2026-08-05",
+    "url": "https://theslowai.substack.com/p/ai-dunning-kruger-illusion-mastery",
+    "collection": "Sam Illingworth"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

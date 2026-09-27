@@ -1,0 +1,24 @@
+{
+  "id": 207,
+  "title": "Prompting just split into 4 different skills",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/prompting-just-split-into-4-different.md",
+  "sha256": "9a5b294f0d070fdd01283970e99d5365316847ac04bf3720c8ae0e186f719f7f",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 486,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 242,
+      "text": "Most people think they’re good at prompting. They’re not — they’re good at *chatting* "
+    },
+    {
+      "line": 24,
+      "offset": 2630,
+      "text": "- **7 prompts and a pre-flight check.** A pen-and-paper thinking exercise before you touch AI, a 10-minute quick start that scores where you stand and builds your first context document, and the full build-out — specification engineer, intent framework builder"
+    }
+  ]
+}

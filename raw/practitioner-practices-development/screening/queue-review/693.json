@@ -1,0 +1,45 @@
+{
+  "queue_position": 293,
+  "id": 693,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/josh-miller/transcript.md",
+  "sha256": "b3ef962842a62db3a027bfaaa73a823c68662b121d1d10c29429b2a8e8aa2bf0",
+  "title": "Competing with giants: An inside look at how The Browser Company builds product | Josh Miller (CEO)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 168,
+      "text": "Josh Miller (00:19:26):"
+    },
+    {
+      "line": 169,
+      "text": "Well, first of all, thank you Scott, if you're listening. It's somewhat of an awkward question admittedly, because it's like someone complimenting you about your product. It's always impossible to really take and accept the compliment, because you see all the blemishes. Of course we see all these ways in which we don't ship fast enough and could be doing a better job listening and building with members. But, at risk of sounding a bit cliche, I really think we ship our values. So, we thought a lot about our values as a company. You can read about them online. And I think if you examine those values and then you look at your compliment or Scott's compliment, you can see [inaudible 00:20:05] one-to-one. So the first, and I really think the most important is, we hire people that show up with heartfelt intensity."
+    },
+    {
+      "line": 483,
+      "text": "Josh Miller (01:24:01):"
+    },
+    {
+      "line": 484,
+      "text": "The first TV show episode I've cried from in recent memories, episode three of The Last of Us. I thought I was watching a zombie violence thing and I just was sitting there bawling. So that one. And then I've been re-watching all of the Adam Curtis documentaries on YouTube. I'm a huge Adam Curtis fan."
+    },
+    {
+      "line": 507,
+      "text": "Josh Miller (01:24:56):"
+    },
+    {
+      "line": 508,
+      "text": "What would you like to ask me? That seems like a non-answer, but my interviews at Browser Company are all, \"Ask me anything,\" and I find what people ask, and how they follow up, is as revealing about who they are and what they care about than anything I could ask them."
+    },
+    {
+      "line": 537,
+      "text": "Josh Miller (01:26:42):"
+    },
+    {
+      "line": 538,
+      "text": "Yeah. Big takeaway from this conversation, we got to get much better at describing what the heck we built. And why it's good for you. So, I'm not proud of my first or last answer, but it is what it is."
+    }
+  ]
+}

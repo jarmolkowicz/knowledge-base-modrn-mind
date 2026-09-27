@@ -1,0 +1,29 @@
+{
+  "id": 359,
+  "title": "How I Used AI to Grow 3.5M+ Followers (+ 2 Free Prompts)",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/ai-content-multiplication-3-million-followers.md",
+  "sha256": "6bcd17421c98c80e41d400aae4a72e023d68b54d6400f61002bab3e63e758217",
+  "access": "public-page",
+  "kind": "article",
+  "words": 498,
+  "headings": [
+    "2 free prompts for Content Multiplication!",
+    "Prompt 1: Turn 1 idea into posts for every platform",
+    "Prompt 2: Turn 1 idea into an Instagram carousel",
+    "Not Sure Where To Start? 👇"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 19,
+      "offset": 538,
+      "text": "This system helped me grow to **3.5M+ followers** — without a big budg"
+    },
+    {
+      "line": 34,
+      "offset": 995,
+      "text": "2. Use ChatGPT/Claude to adapt it for each platform."
+    }
+  ]
+}

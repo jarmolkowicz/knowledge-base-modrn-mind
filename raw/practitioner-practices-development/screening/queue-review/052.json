@@ -1,0 +1,39 @@
+{
+  "queue_position": 14,
+  "id": 52,
+  "path": "raw/inbox/Practical/Cal Newport/the-satisfying-strain-of-learning-hard-material-a-deliberate-practice-case-study.md",
+  "sha256": "bf3756e1450da17ac57d5c48ee7e7d1501758cb37c0a2344cec92ed7cade12f1",
+  "title": "The Satisfying Strain of Learning Hard Material",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 13,
+      "text": "This morning I finished my notes for an upcoming lecture in my graduate-level theory of computation course."
+    },
+    {
+      "line": 17,
+      "text": "1. ***The process of creating them is very hard*.** On average, it takes me between 2.5 to 3 hours to prepare a lecture. This preparation requires that I work with absolutely zero distractions as the material is too difficult to be internalized if my attention is divided in any way. Furthermore, the work is not particularly pleasant. Learning things that are this hard *does no*t put you in a flow state. It instead puts you in a state of strain, similar to what is experienced by a musician learning a new technique."
+    },
+    {
+      "line": 18,
+      "text": "2. ***I have gotten better at this process.*** The lecture I prepared today was the twenty-first such lecture I have prepared this semester. The earliest lectures were a struggle in the sense that my mind rebelled at the strain required and lobbied aggressively for  distraction. This morning, by contrast, I was able to slip into this hard work with little friction, tolerate the strain for three consecutive hours, then come out on the other side feeling a sense of satisfaction."
+    },
+    {
+      "line": 20,
+      "text": "Recently, we have been discussing the *deliberate practice hypothesis*, which argues that knowledge workers can experience big jumps in value if they apply deliberate practice techniques to their work. My three-month experiment in timed, forced concentration provides a nice case study of this idea. I am now better at mastering hard concepts than I was before. The mental acuity developed from this practice translates over to the research side of my job, helping me more efficiently understand existing results and more deeply explore my own ideas."
+    },
+    {
+      "line": 22,
+      "text": "To toss the ball back in your court, imagine what would happen if you replaced “graduate-level theory of computation” with a prohibitively complicated but exceptionally valuable topic in your own field, and then tackled it with the same persistence…"
+    },
+    {
+      "line": 24,
+      "text": "#####"
+    },
+    {
+      "line": 26,
+      "text": "*This post is part of my series on **the deliberate practice hypothesis**, which claims that applying the principles of deliberate practice to the world of knowledge work is a key strategy for building a remarkable working life.*"
+    }
+  ]
+}

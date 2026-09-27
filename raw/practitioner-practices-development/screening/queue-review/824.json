@@ -1,0 +1,29 @@
+{
+  "queue_position": 392,
+  "id": 824,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/uri-levine-20/transcript.md",
+  "sha256": "cba043c6c1b15c831bf67cdfa4eac92dff0695c3c351ebead71a90fb624a98ae",
+  "title": "A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L35 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 130,
+      "text": "Uri Levine (00:08:34):"
+    },
+    {
+      "line": 131,
+      "text": "Covid was an excellent example. And one of my startups back then, called Order.chat, and actually it was the first AI chat back in 2020. And that was meant to help people to make reservations to restaurants. As simple as, \"Oh, I would like to make a reservations for six people for tomorrow night at XYZ restaurant.\" And that chat was actually very, very successful in Israel. And the reason is that we actually built an engine that had facing the user with a chat but also facing the restaurant with a chat. So we did not require any integration, we could go online anywhere and actually cover all the restaurants in no time. And that turned out to be pretty successful and then Covid hit. And guess what? All the restaurants were shut down for hosting guests and there were no more reservations for restaurants."
+    },
+    {
+      "line": 517,
+      "text": "Uri Levine (01:12:42):"
+    },
+    {
+      "line": 518,
+      "text": "But this is true for everything in your life. Look, if you are working in a place and you are not happy and you suffer there, then I would say ... The guidance that I give to my children is very simple. If you're not happy at your working place, then ask yourself, is there something that I can do to change that? Then try to change that for the next three month. If you're unable to change that, then leave. You don't deserve to be unhappy. And you need to control your own destiny. For me, quitting your job, do you know what it means? You fire your own job boss, that's what it means. You fire your boss by quitting, that's it."
+    }
+  ]
+}

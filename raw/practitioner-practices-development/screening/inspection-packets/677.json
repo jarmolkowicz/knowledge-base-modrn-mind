@@ -1,0 +1,26 @@
+{
+  "id": 677,
+  "title": "Building product at Stripe: craft, metrics, and customer obsession | Jeff Weinstein (Product lead)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jeff-weinstein/transcript.md",
+  "sha256": "125d8dab3c9ec7b853b6f5765154b62aa42055c4b8611ce5b06d7f546d61eff7",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 26654,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 38,
+      "offset": 876,
+      "text": "Watching you operate on Twitter, you're just b"
+    },
+    {
+      "line": 794,
+      "offset": 144317,
+      "text": "On my first month working here, which I guess is six, seven years ago now, they had put me in charge of our payments infrastructure services"
+    }
+  ]
+}

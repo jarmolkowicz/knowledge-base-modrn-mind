@@ -1,0 +1,29 @@
+{
+  "queue_position": 306,
+  "id": 712,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/kristen-berman/transcript.md",
+  "sha256": "a66c7c329f8e7f8e18bbbb0170ad6786e965fee29ea3dcfd1f3bd24bf1670659",
+  "title": "Using behavioral science to improve your product | Kristen Berman (Irrational Labs)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 37,
+      "text": "## Transcript"
+    },
+    {
+      "line": 148,
+      "text": "So, when you ask a question, you can insert an idea into someone's head, you can get them thinking about something different. And so, in a sign up flow, what would you want people to be thinking about? You probably want them to be thinking about the benefits that you offer. So, if you ask them a question they can think about the benefits, it's going to increase their motivation to get over the hump of the future friction you're going to put in front of them because now they understand the benefits. So, as an example, if you go to Apartment List, they ask you questions during the signup flow that's like: What kind of apartment do you want? Do you want a studio, or a one-bedroom, a five bedroom? Do you want a patio, a basement, a view? Now, all of a sudden, I'm thinking, I'm engaging with the benefit. I understand how much supply that they have. So, if you Stitch Fix, or... Actually, Trunk Club has come out and said they did this and it increased conversion by 133%."
+    },
+    {
+      "line": 517,
+      "text": "Wow, that sounds really useful. So, you go through the product, make a screenshot of every little step, and then connect what barrier's keeping them from progressing. Is that roughly right?"
+    },
+    {
+      "line": 577,
+      "text": "Yeah. So, it's basically made me feel that it's rehearsing life. And I think, sports, it's so obvious you want to practice. I just started ping pong lessons actually, and I'm doing the same stroke for an hour. But in life, we don't rehearse as much. I don't write an email a hundred times, and then practice sending it. And so, I think there's probably an opportunity for us all to learn some lessons from that."
+    }
+  ]
+}

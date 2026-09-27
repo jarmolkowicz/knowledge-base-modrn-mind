@@ -1,0 +1,37 @@
+{
+  "queue_position": 263,
+  "id": 655,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/hari-srinivasan/transcript.md",
+  "sha256": "689c32e5039c58eb3c5cb44e561b1436681fab0277c03a51b10e63a08a5962fd",
+  "title": "LinkedIn’s product evolution and the art of building complex systems | Hari Srinivasan (LinkedIn)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 207,
+      "text": "(00:18:20):"
+    },
+    {
+      "line": 208,
+      "text": "Another one was this concept of, there's a lot more people who are starting to look for jobs by values. They were saying, \"Look, most job sites work by you come in and you look for a job and a title, and that's how you navigate the world.\" We started realizing a lot of people wanted to come in and instead of look at it like that, they may say, \"Look, I really want a job. This aligned with my purpose.\" Or even by an interest, I may want something in AI. We started launching collections in the way to filter in these things. We're still seeing some of that usage today."
+    },
+    {
+      "line": 273,
+      "text": "(00:26:21):"
+    },
+    {
+      "line": 274,
+      "text": "On the skill side, we talked about it a little bit, but I do think there's a big change. When you were just looking at title, I think you only had one way to really prove that you had the skills. You had to have that title, which is very hard to break in. In a world where you're looking at skills, you can go through and say, \"Look, I can do these things and you could put evidence behind it.\" I'd really encourage people to do that. If you just go to any job post, you can see the skills, you can say add and you can see all the evidence and how you can add it. I would really encourage people to do that because when people are in recruiter and they're looking for skills, profiles pop up and you can scroll over a skill and you can actually see all those evidences."
+    },
+    {
+      "line": 372,
+      "text": "Hari Srinivasan (00:35:55):"
+    },
+    {
+      "line": 373,
+      "text": "It's a fantastic question. I just openly think first of all, just career-wise, I've always been drawn to that. We talk about product as a whole. We always talk about it as a whole, but there's many different things you can build, many different types of things. And then we go, maybe there's hardware and software consumer goods. I actually try to think about products by their complexity curve a lot."
+    }
+  ]
+}

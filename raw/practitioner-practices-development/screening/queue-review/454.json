@@ -1,0 +1,96 @@
+{
+  "queue_position": 141,
+  "id": 454,
+  "path": "raw/inbox/Practical/Sam Illingworth/evidence-based-guide-ai-when-to-use-when-to-stop.md",
+  "sha256": "2c433e3fcd58e000c7e20a43d77059d1684b57eb55c73a9921080543a8d039f3",
+  "title": "The Evidence-Based Guide to AI: When to Use It, When to Stop, and How to Tell the Difference",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L25 ### **Part One: When Not to Use It**",
+    "L27 #### **1. Not when you are trying to learn something.**",
+    "L37 #### **2. Not when the process is the point.**",
+    "L47 #### **3. Not when you need to remember something.**",
+    "L55 #### **4. Not when you are emotionally vulnerable.**",
+    "L63 #### **5. Not when other people’s lives are affected by the output.**",
+    "L73 #### **6. Not when you are forming your own opinion.**",
+    "L81 #### **7. Not when accountability is the service.**",
+    "L89 #### **8. Not when making an irreversible decision.**",
+    "L97 #### **9. Not when the skill is core to who you are professionally.**",
+    "L109 #### **10. Not when you do not know enough to check it.**",
+    "L121 ### **Part Two: When to Use It**",
+    "L123 #### **11. When you are an expert, and you know what right looks like.**",
+    "L131 #### **12. When the task is repetitive and well defined.**",
+    "L141 #### **13. When you need more options, not a final answer.**",
+    "L149 #### **14. When pattern recognition at scale is the task.**",
+    "L157 #### **15. When accessibility is the genuine barrier.**",
+    "L165 #### **16. When you want to stress-test your own thinking.**",
+    "L173 #### **17. When the alternative is genuinely nothing.**",
+    "L181 ### **One final principle**"
+  ],
+  "passages": [
+    {
+      "line": 13,
+      "text": "# The Evidence-Based Guide to AI: When to Use It, When to Stop, and How to Tell the Difference"
+    },
+    {
+      "line": 21,
+      "text": "This post is written in collaboration with Frank Andrade AKA The PyCoach. Frank is the writer behind *Artificial Corner*, a publication dedicated to helping non-technical professionals learn AI. He breaks down complex topics into practical, step-by-step guides. Check out his best work here."
+    },
+    {
+      "line": 37,
+      "text": "#### **2. Not when the process is the point.**"
+    },
+    {
+      "line": 43,
+      "text": "When you ask AI to write something for you, you receive a document. You do not receive the thinking that document would have produced."
+    },
+    {
+      "line": 89,
+      "text": "#### **8. Not when making an irreversible decision.**"
+    },
+    {
+      "line": 95,
+      "text": "Before any irreversible decision: ask whether you have genuinely evaluated the AI’s output, or merely received it."
+    },
+    {
+      "line": 97,
+      "text": "#### **9. Not when the skill is core to who you are professionally.**"
+    },
+    {
+      "line": 107,
+      "text": "Ask yourself: if this tool disappeared tomorrow, would I still be able to do this work? If the answer is uncertain, the use is worth reconsidering."
+    },
+    {
+      "line": 109,
+      "text": "#### **10. Not when you do not know enough to check it.**"
+    },
+    {
+      "line": 117,
+      "text": "This applies to vibe coding too. The barrier to creating software has never been lower, but if you cannot spot a bug, you will ship one. That is fine for personal projects. Before building anything for work, learn enough to ask the right questions and spot when something is off."
+    },
+    {
+      "line": 141,
+      "text": "#### **13. When you need more options, not a final answer.**"
+    },
+    {
+      "line": 147,
+      "text": "The practical lesson: AI is good at expanding a list. Use it to generate more options than you would have thought of alone, then apply human judgement to filter them. The next step (deciding which ideas are worth pursuing) remains yours."
+    },
+    {
+      "line": 165,
+      "text": "#### **16. When you want to stress-test your own thinking.**"
+    },
+    {
+      "line": 171,
+      "text": "The condition is that you must engage with the output rather than simply receive it. Ask AI to argue against you. Then argue back. The value is in the friction, not the answer."
+    },
+    {
+      "line": 181,
+      "text": "### **One final principle**"
+    },
+    {
+      "line": 189,
+      "text": "The third question is the most important. If you cannot do your work without the tool, the question is no longer whether AI is useful. The question is who is doing the work."
+    }
+  ]
+}

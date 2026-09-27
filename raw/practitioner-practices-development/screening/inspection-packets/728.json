@@ -1,0 +1,26 @@
+{
+  "id": 728,
+  "title": "AI and product management | Marily Nika (Meta, Google)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/marily-nika/transcript.md",
+  "sha256": "e5e12847e22992890963dfe04c119690751b6f5b9d0793d88b3498689b2ae978",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 9293,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 772,
+      "text": "There is something called the shiny object tra"
+    },
+    {
+      "line": 144,
+      "offset": 13042,
+      "text": "This is a good question and I guess the message I want to pass is you shouldn't be overwhelmed by these technologies if you don't have a tec"
+    }
+  ]
+}

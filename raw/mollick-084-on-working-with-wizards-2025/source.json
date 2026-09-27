@@ -1,0 +1,32 @@
+{
+  "slug": "mollick-084-on-working-with-wizards-2025",
+  "original_filename": "on-working-with-wizards.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 2660,
+  "hash": "7e8dba3897e2bd09a2613fca2107073e60760b74e31a2562caa9e320cee30c46",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "critiqued",
+  "ingested_at": "2026-09-26T20:59:42Z",
+  "decisions": [
+    {
+      "stage": "practice_review",
+      "date": "2026-09-26",
+      "decision": "counterexample",
+      "scope": "draft_only",
+      "integration": "pending"
+    }
+  ],
+  "lines": 77,
+  "screening_id": 84,
+  "collected_from": "raw/inbox/Practical/Ethan Mollick/on-working-with-wizards.md",
+  "bibliographic_metadata": {
+    "title": "On Working with Wizards",
+    "date": "2025-09-11",
+    "url": "https://www.oneusefulthing.org/p/on-working-with-wizards",
+    "collection": "Ethan Mollick"
+  },
+  "draft_only": true,
+  "integration_decision": "pending"
+}

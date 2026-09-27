@@ -1,0 +1,51 @@
+{
+  "slug": "illingworth-517-what-is-critical-ai-literacy-2026",
+  "original_filename": "what-is-critical-ai-literacy.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 2668,
+  "hash": "67cc938af23c912eb5bad7ed8671dbb1fb4dbde5a1246a0a3f451dda19b3ded8",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:45Z",
+  "decisions": [
+    {
+      "stage": "practice_review",
+      "date": "2026-09-26",
+      "decision": "merge",
+      "scope": "draft_only",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/illingworth-517-what-is-critical-ai-literacy-2026.md",
+      "practices": [
+        "practices/test-ai-on-the-work-it-will-do.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 183,
+  "screening_id": 517,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/what-is-critical-ai-literacy.md",
+  "bibliographic_metadata": {
+    "title": "What Is Critical AI Literacy?",
+    "date": "2026-02-13",
+    "url": "https://theslowai.substack.com/p/what-is-critical-ai-literacy",
+    "collection": "Sam Illingworth"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

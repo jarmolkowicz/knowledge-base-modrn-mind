@@ -1,0 +1,100 @@
+{
+  "queue_position": 60,
+  "id": 281,
+  "path": "raw/inbox/Practical/Ruben Hassid/context-is-all-you-need.md",
+  "sha256": "0696de5504dadc55637379963d7773e43e97505ad80a5d82725eb04dd30dd27a",
+  "title": "Context > Prompt.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L32 ## **The science behind context engineering.**",
+    "L42 #### Step 1: Define the Goal, Not the Process",
+    "L73 #### Step 2: Specify Constraints (Not Rules)",
+    "L106 #### Step 3: Give examples.",
+    "L120 #### Step 4: Embed Performance Criteria",
+    "L138 #### Step 5: Hierarchical Goal Structure (When Goals Are Complex)",
+    "L160 #### Conclusion: here’s a solid template.",
+    "L204 ## **7 examples of good context engineering.**",
+    "L210 #### 1. Strategic decision memo",
+    "L232 #### 2. Rewrite a cold email that actually sells",
+    "L265 #### 3. LinkedIn post with 1 story, 1 lesson",
+    "L296 #### 4. Learning a new skill in 30 days",
+    "L325 #### 5. Product spec that engineers can use",
+    "L351 #### 6. Synthesis of messy customer interviews",
+    "L385 #### 7. Personal operating system with AI",
+    "L425 ## **3. Meet me on an intimate Zoom call.**"
+  ],
+  "passages": [
+    {
+      "line": 32,
+      "text": "## **The science behind context engineering.**"
+    },
+    {
+      "line": 36,
+      "text": "But instead of trying to get everything from the first try (**goal → action → execution → evaluation → refinement)**, you should structure your goal so the model implicitly understands the rest."
+    },
+    {
+      "line": 106,
+      "text": "#### Step 3: Give examples."
+    },
+    {
+      "line": 118,
+      "text": "Structure: **“Here’s an example of the level of detail I’m looking for: [example]. Here’s what good looks like: [example].”**"
+    },
+    {
+      "line": 210,
+      "text": "#### 1. Strategic decision memo"
+    },
+    {
+      "line": 216,
+      "text": "> Primary goal: I need a 2-page decision memo on whether we should adopt [AI tool] for [team / workflow]. The memo must end with a clear “yes, no, or test first” recommendation."
+    },
+    {
+      "line": 232,
+      "text": "#### 2. Rewrite a cold email that actually sells"
+    },
+    {
+      "line": 238,
+      "text": "> Primary goal: Rewrite the email below so it gets more replies from [ICP, for example “Heads of Marketing at 50–500 person SaaS companies”]."
+    },
+    {
+      "line": 253,
+      "text": "> Performance: Success means a busy VP can scan this on mobile in under 10 seconds and know what this is, why it matters now, and the exact next step."
+    },
+    {
+      "line": 265,
+      "text": "#### 3. LinkedIn post with 1 story, 1 lesson"
+    },
+    {
+      "line": 271,
+      "text": "> Primary goal: Write a post that tells one specific story about [experience, for example “the first time I shipped an AI feature that broke in production”] and teaches one clear lesson about using AI at work."
+    },
+    {
+      "line": 296,
+      "text": "#### 4. Learning a new skill in 30 days"
+    },
+    {
+      "line": 302,
+      "text": "> Primary goal: Create a 30-day learning plan to go from beginner to competent in [skill, for example “pricing SaaS products”], with 30 to 45 minutes per day."
+    },
+    {
+      "line": 325,
+      "text": "#### 5. Product spec that engineers can use"
+    },
+    {
+      "line": 331,
+      "text": "> Primary goal: Write a 1-page product spec for a new feature called [feature name] that helps [target user] achieve [user outcome] using [AI capability, for example “auto-summarisation”]."
+    },
+    {
+      "line": 345,
+      "text": "> Performance: Success means an engineer can estimate this in a 30-minute planning meeting and a designer can sketch a first version with no more than 3 clarification questions."
+    },
+    {
+      "line": 385,
+      "text": "#### 7. Personal operating system with AI"
+    },
+    {
+      "line": 391,
+      "text": "> Primary goal: Design a simple weekly operating system that uses ChatGPT to help me prioritise, decide faster, and protect focus time."
+    }
+  ]
+}

@@ -1,0 +1,1706 @@
+{
+  "date": "2026-09-27",
+  "status": "proposed-v1",
+  "scope": "all 78 original practice drafts, manually mapped; 77 proposed standalone cards",
+  "categories": [
+    {
+      "id": "understanding",
+      "title": "Understanding",
+      "role": "core",
+      "definition": "Explain a relationship, mechanism or limit and apply it to a case.",
+      "boundary": "Not recognition of fluent prose or an AI rating."
+    },
+    {
+      "id": "independent-capability",
+      "title": "Independent capability",
+      "role": "core",
+      "definition": "Perform a chosen skill under explicitly reduced-assistance conditions, including later use.",
+      "boundary": "An immediate attempt is practice or assessment, not evidence of durable transfer. Keep accommodations."
+    },
+    {
+      "id": "judgment",
+      "title": "Better-founded judgment",
+      "role": "core",
+      "definition": "Choose using relevant evidence, alternatives and consequences.",
+      "boundary": "A checked artifact, consensus or successful outcome alone does not establish improved judgment."
+    },
+    {
+      "id": "calibration",
+      "title": "Calibration",
+      "role": "core",
+      "definition": "Bring confidence and reliance into closer relation with available evidence and actual performance.",
+      "boundary": "Doubt, felt reassurance and numerical confidence ratings alone are not calibration."
+    },
+    {
+      "id": "authorship-agency",
+      "title": "Authorship and agency",
+      "role": "core",
+      "definition": "Form purposes, criteria and substantive contributions one can explain, revise or refuse.",
+      "boundary": "Formal approval, imitation of a voice or a disclosure log alone is insufficient."
+    },
+    {
+      "id": "creative-development",
+      "title": "Creative development",
+      "role": "core",
+      "definition": "Develop, select and reshape possibilities for an intended creative purpose.",
+      "boundary": "More suggestions or polished imitation is not improved creativity; range and selection should be observed separately."
+    },
+    {
+      "id": "attention",
+      "title": "Directed attention",
+      "role": "core",
+      "definition": "Spend attention deliberately on chosen work and stop or redirect when appropriate.",
+      "boundary": "Screen time, discomfort and task throughput alone are not the outcome."
+    },
+    {
+      "id": "shared-understanding",
+      "title": "Shared understanding",
+      "role": "core",
+      "definition": "Communicate or reconcile meaning so actual people understand the relevant ideas and differences.",
+      "boundary": "Simulated audience reactions, persuasion and consensus do not establish shared understanding."
+    },
+    {
+      "id": "accountability",
+      "title": "Accountability and informed participation",
+      "role": "enabling",
+      "definition": "Make authority, contributions, data use and unresolved responsibilities inspectable to those affected.",
+      "boundary": "Documentation or named ownership alone does not show agency, fairness or compliance."
+    },
+    {
+      "id": "work-quality",
+      "title": "Quality of the immediate work",
+      "role": "enabling",
+      "definition": "Make a specific output, process or check more accurate, useful or fit for its purpose.",
+      "boundary": "Better assisted work does not by itself show stronger thinking or retained capability."
+    }
+  ],
+  "primary_counts_after_consolidation": {
+    "authorship-agency": 10,
+    "independent-capability": 8,
+    "calibration": 4,
+    "work-quality": 9,
+    "creative-development": 7,
+    "judgment": 11,
+    "accountability": 10,
+    "attention": 3,
+    "understanding": 7,
+    "shared-understanding": 8
+  },
+  "mappings": [
+    {
+      "slug": "request-criticism-without-rewriting",
+      "path": "raw/illingworth-459-how-can-writers-use-ai-ethically-2025/drafts/practices/request-criticism-without-rewriting.md",
+      "title": "Request criticism without rewriting",
+      "source_ids": [
+        459,
+        460,
+        449,
+        480,
+        516,
+        801
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "work-quality"
+      ],
+      "rationale": "The writer judges criticism and makes the revisions instead of accepting replacement prose.",
+      "observable_check": "[Inference] Which criticism did you reject, and what purpose did your own revision serve?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "turn-creative-disagreement-into-your-own-checklist",
+      "path": "raw/illingworth-460-how-creatives-are-actually-using-ai-2026/drafts/practices/turn-creative-disagreement-into-your-own-checklist.md",
+      "title": "Turn creative disagreement into your own checklist",
+      "source_ids": [
+        459,
+        460
+      ],
+      "primary_outcome": "independent-capability",
+      "secondary_outcomes": [
+        "creative-development"
+      ],
+      "rationale": "The reusable checklist is applied without reopening the assistant; later craft improvement remains untested.",
+      "observable_check": "[Inference] Can you use, explain and sometimes reject a checklist item without consulting the conversation?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "test-ai-on-the-work-it-will-do",
+      "path": "raw/mollick-075-giving-your-ai-a-job-interview-2025/drafts/practices/test-ai-on-the-work-it-will-do.md",
+      "title": "Test AI on the work it will do",
+      "source_ids": [
+        75,
+        289,
+        423,
+        479,
+        508,
+        517
+      ],
+      "primary_outcome": "calibration",
+      "secondary_outcomes": [
+        "work-quality"
+      ],
+      "rationale": "Repeated representative tests can inform warranted reliance on this tool for this task.",
+      "observable_check": "[Inference] Curator-proposed observation, not a validated measure: Which real task failures did benchmarks or a first good impression miss?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "inspect-real-errors-before-automating-evaluation",
+      "path": "raw/lenny-652-why-ai-evals-are-the-hottest-2025/drafts/practices/inspect-real-errors-before-automating-evaluation.md",
+      "title": "Inspect real errors before automating evaluation",
+      "source_ids": [
+        652
+      ],
+      "primary_outcome": "work-quality",
+      "secondary_outcomes": [
+        "calibration"
+      ],
+      "rationale": "Human error inspection and held-out judgments ground evaluation; this primarily improves checking rather than training a person.",
+      "observable_check": "[Inference] Curator-proposed observation, not a validated measure: What failure did your own reading reveal before categories and scores existed?",
+      "fit": "qualified",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "rehearse-a-bounded-reasoning-case",
+      "path": "raw/lenny-658-how-to-build-a-team-that-2025/drafts/practices/rehearse-a-bounded-reasoning-case.md",
+      "title": "Rehearse a bounded reasoning case",
+      "source_ids": [
+        658
+      ],
+      "primary_outcome": "independent-capability",
+      "secondary_outcomes": [
+        "understanding"
+      ],
+      "rationale": "The person chooses and explains an answer before feedback in a checked practice case.",
+      "observable_check": "[Inference] Can you identify the decisive premise and what change would alter your answer?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "choose-the-result-before-the-tool",
+      "path": "raw/newport-022-avoiding-digital-productivity-traps-2026/drafts/practices/choose-the-result-before-the-tool.md",
+      "title": "Choose the result before the tool",
+      "source_ids": [
+        22,
+        263,
+        64,
+        464,
+        739
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "attention"
+      ],
+      "rationale": "The person defines worthwhile work and chooses assistance for the actual limiting step.",
+      "observable_check": "[Inference] Did the limiting step change, or did the tool only create more material to review?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "develop-parallel-creative-routes",
+      "path": "raw/tamisier-fayard-255-design-ai-systems-that-actually-strengthen-2026/drafts/practices/develop-parallel-creative-routes.md",
+      "title": "Develop parallel creative routes before combining them",
+      "source_ids": [
+        255
+      ],
+      "primary_outcome": "creative-development",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "rationale": "Keeping routes separate exposes alternative framings before a team combines or chooses them.",
+      "observable_check": "[Inference] Notice which workflow contributed a useful framing and who can explain it. More images is different from a better proposal or preserved capability.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "save-your-own-starting-point",
+      "path": "raw/mollick-066-against-brain-damage-2025/drafts/practices/save-your-own-starting-point.md",
+      "title": "Save your own starting point",
+      "source_ids": [
+        879,
+        880,
+        64,
+        66,
+        729
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "rationale": "A revisable initial contribution makes later changes and their reasons inspectable.",
+      "observable_check": "[Inference] Which change came from new evidence, which from a suggestion, and which from your own reconsideration?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "collect-independent-views-before-discussion",
+      "path": "raw/lenny-550-this-will-make-you-a-better-2024/drafts/practices/collect-independent-views-before-discussion.md",
+      "title": "Collect independent views before discussion",
+      "source_ids": [
+        550
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "shared-understanding"
+      ],
+      "rationale": "Independent submissions preserve differences that can inform a collective decision.",
+      "observable_check": "[Inference] Notice whether the record includes genuinely different estimates and reasons, and whether the final decision is distinguished from everyone’s personal view.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "turn-a-premortem-into-actions",
+      "path": "raw/lenny-804-the-art-of-product-management-shreyas-2022/drafts/practices/turn-a-premortem-into-actions.md",
+      "title": "Turn a premortem into actions and stopping criteria",
+      "source_ids": [
+        550,
+        804
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "accountability"
+      ],
+      "rationale": "Possible failures are translated into chosen actions and stopping criteria, not just a risk list.",
+      "observable_check": "[Inference] Notice whether a concern changed an action or stopping rule. A longer risk list is not a safer project.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "answer-questions-about-your-belief",
+      "path": "raw/illingworth-512-use-ai-to-examine-your-beliefs-2025/drafts/practices/answer-questions-about-your-belief.md",
+      "title": "Answer questions about a belief you hold",
+      "source_ids": [
+        512,
+        387,
+        270,
+        515
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "rationale": "The person examines premises and checks factual reasons before changing a belief.",
+      "observable_check": "[Inference] Keep the initial and final belief sentences and the reason for any change. A shift in certainty alone is not improvement.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "preserve-an-ai-claim-before-challenging-it",
+      "path": "raw/illingworth-456-this-is-how-to-stop-being-2026/drafts/practices/preserve-an-ai-claim-before-challenging-it.md",
+      "title": "Preserve an AI claim before challenging it",
+      "source_ids": [
+        437,
+        456,
+        580
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "rationale": "An incident record preserves what was actually claimed so later explanations can be checked.",
+      "observable_check": "[Inference] Curator-proposed observation, not a validated measure: Can you reconstruct the original claim without relying on the model’s later version?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "check-correctness-and-completeness",
+      "path": "raw/illingworth-453-stop-trusting-your-intuition-when-evaluating-2026/drafts/practices/check-correctness-and-completeness.md",
+      "title": "Check correctness and completeness separately",
+      "source_ids": [
+        453,
+        328
+      ],
+      "primary_outcome": "work-quality",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "rationale": "Separate inspections target false or unsupported claims and important omissions in a particular answer.",
+      "observable_check": "[Inference] Curator-proposed observation, not a validated measure: Which flags survive your inspection, and what did the model miss?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "carry-one-question-offline",
+      "path": "raw/illingworth-521-when-ai-never-stops-should-you-2025/drafts/practices/carry-one-question-offline.md",
+      "title": "Carry one question away from the chat",
+      "source_ids": [
+        263,
+        521,
+        616,
+        739
+      ],
+      "primary_outcome": "attention",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "rationale": "Ending the generation loop creates room for a person to pursue or leave an unresolved thought.",
+      "observable_check": "[Inference] Did you stop when you intended, and did the next useful thought come from you, another person, a source, or more generation?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "check-a-capability-without-the-assistant",
+      "path": "raw/nosta-borrowed-mind-2026/drafts/practices/check-a-capability-without-the-assistant.md",
+      "title": "Check a capability without the assistant",
+      "source_ids": [
+        880
+      ],
+      "primary_outcome": "independent-capability",
+      "secondary_outcomes": [
+        "calibration"
+      ],
+      "rationale": "Comparable reduced-assistance attempts expose what the person can currently do and what help is needed.",
+      "observable_check": "[Inference] What can you now explain or perform under the agreed conditions, and what help remains necessary?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "review-ai-code-against-independent-checks",
+      "path": "raw/ramonov-402-the-ultimate-ai-coding-guide-2025/drafts/practices/review-ai-code-against-independent-checks.md",
+      "title": "Review AI code against independent checks",
+      "source_ids": [
+        38,
+        402,
+        636
+      ],
+      "primary_outcome": "work-quality",
+      "secondary_outcomes": [
+        "understanding"
+      ],
+      "rationale": "Independent expected behavior and inspection test the code; capability preservation is not directly measured.",
+      "observable_check": "[Inference] Curator-proposed observation, not a validated measure: Could you explain the expected behavior and find an error without consulting the same model?",
+      "fit": "qualified",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "keep-one-thinking-step",
+      "path": "raw/illingworth-523-how-to-hold-on-to-what-2025/drafts/practices/keep-one-thinking-step.md",
+      "title": "Keep one thinking step for yourself",
+      "source_ids": [
+        64,
+        76,
+        416,
+        523
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "independent-capability"
+      ],
+      "rationale": "The person chooses and performs a valued contribution; a retained step is an opportunity for practice, not proof of skill.",
+      "observable_check": "[Inference] What did you actually choose or work out during the protected step, and was that what you intended to keep?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "define-the-delegation-before-the-agent-starts",
+      "path": "raw/mollick-080-management-as-ai-superpower-2026/drafts/practices/define-the-delegation-before-the-agent-starts.md",
+      "title": "Define the delegation before the agent starts",
+      "source_ids": [
+        72,
+        80,
+        89,
+        95,
+        356
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "rationale": "The brief makes authority, completion criteria, checkpoints and return of control explicit.",
+      "observable_check": "[Inference] Curator-proposed observation, not a validated measure: Did you define an inspectable result, and did control return when it could not be met?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "hold_for_source_correction",
+      "integration_note": "Existing Mollick source entry has a pending correction; approve the focused update before relying on that canonical entry."
+    },
+    {
+      "slug": "choose-the-human-part-of-the-work",
+      "path": "raw/mollick-076-i-cyborg-using-co-intelligence-2024/drafts/practices/choose-the-human-part-of-the-work.md",
+      "title": "Choose the human part of the work",
+      "source_ids": [
+        76
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "independent-capability"
+      ],
+      "rationale": "The same retained-contribution choice is already covered by keep-one-thinking-step; preserve this source as a variant.",
+      "observable_check": "[Inference] Curator-proposed observation, not a validated measure: Which substantive choice remained yours, and could you explain it without quoting AI?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "merge_variant",
+      "merge_into": "keep-one-thinking-step",
+      "integration_status": "retained_variant",
+      "integration_note": ""
+    },
+    {
+      "slug": "teach-a-simulated-learner",
+      "path": "raw/mollick-077-innovation-through-prompting-2024/drafts/practices/teach-a-simulated-learner.md",
+      "title": "Teach a simulated learner",
+      "source_ids": [
+        77
+      ],
+      "primary_outcome": "understanding",
+      "secondary_outcomes": [
+        "independent-capability"
+      ],
+      "rationale": "Explaining and applying a framework requires the person to generate an account rather than read another explanation.",
+      "observable_check": "[Inference] What did you have to work out yourself, and could you apply it to a different case?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "test-and-share-a-team-ai-workflow",
+      "path": "raw/mollick-079-making-ai-work-leadership-lab-and-2025/drafts/practices/test-and-share-a-team-ai-workflow.md",
+      "title": "Test and share a team AI workflow",
+      "source_ids": [
+        79,
+        277
+      ],
+      "primary_outcome": "work-quality",
+      "secondary_outcomes": [
+        "shared-understanding"
+      ],
+      "rationale": "Testing and sharing failure conditions makes the workflow usable by others; retained capability needs a separate check.",
+      "observable_check": "[Inference] Notice whether coworkers can identify failure conditions and adapt the workflow, not only reproduce its best demonstration.",
+      "fit": "qualified",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "count-the-cost-of-review-before-delegating",
+      "path": "raw/mollick-080-management-as-ai-superpower-2026/drafts/practices/count-the-cost-of-review-before-delegating.md",
+      "title": "Count the cost of review before delegating",
+      "source_ids": [
+        80,
+        84,
+        105
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "accountability"
+      ],
+      "rationale": "A full-work comparison informs the choice to delegate instead of equating generation speed with useful savings.",
+      "observable_check": "[Inference] Curator-proposed observation, not a validated measure: How much time went to review and recovery, and could you judge the result?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "hold_for_source_correction",
+      "integration_note": "Existing Mollick source entry has a pending correction; remove unsupported comparison and validation claims before reuse."
+    },
+    {
+      "slug": "use-a-prototype-to-brief-a-developer",
+      "path": "raw/hassid-339-vibecoding-2026/drafts/practices/use-a-prototype-to-brief-a-developer.md",
+      "title": "Use a prototype to brief a developer",
+      "source_ids": [
+        275,
+        339,
+        350
+      ],
+      "primary_outcome": "shared-understanding",
+      "secondary_outcomes": [
+        "work-quality"
+      ],
+      "rationale": "A concrete but explicitly incomplete prototype helps the person and developer discuss intended behavior and unknowns.",
+      "observable_check": "[Inference] Curator-proposed observation, not a validated measure: What became clearer, and what still needs expert investigation?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "curate-context-and-clarify-before-drafting",
+      "path": "raw/hassid-276-cowork-2026/drafts/practices/curate-context-and-clarify-before-drafting.md",
+      "title": "Curate context and clarify before drafting",
+      "source_ids": [
+        276
+      ],
+      "primary_outcome": "work-quality",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "rationale": "Relevant context and corrected assumptions improve the immediate brief; no independent learning outcome is built in.",
+      "observable_check": "[Inference] Curator-proposed observation, not a validated measure: Which assumption did clarification expose, and did the correction survive into the artifact?",
+      "fit": "qualified",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "choose-an-argument-before-drafting",
+      "path": "raw/hassid-286-fable-5-2026/drafts/practices/choose-an-argument-before-drafting.md",
+      "title": "Choose an argument before drafting from your archive",
+      "source_ids": [
+        286
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "creative-development"
+      ],
+      "rationale": "The writer compares possible arguments and decides what the available archive can support before drafting.",
+      "observable_check": "[Inference] Notice whether you can explain why you rejected the other routes and whether the chosen argument is actually supported by your material.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "articulate-your-writing-preferences",
+      "path": "raw/hassid-306-i-am-just-a-text-file-2026/drafts/practices/articulate-your-writing-preferences.md",
+      "title": "Articulate your writing preferences through examples",
+      "source_ids": [
+        306
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "creative-development"
+      ],
+      "rationale": "Concrete examples make the person's editing criteria expressible and revisable, rather than delegating identity to a profile.",
+      "observable_check": "[Inference] Notice whether you can now explain an editing choice more precisely without the profile. A convincing imitation is a different outcome.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "reset-a-drifting-conversation",
+      "path": "raw/hassid-324-quit-chatgpt-2026/drafts/practices/reset-a-drifting-conversation.md",
+      "title": "Reset a drifting conversation",
+      "source_ids": [
+        324
+      ],
+      "primary_outcome": "work-quality",
+      "secondary_outcomes": [
+        "attention"
+      ],
+      "rationale": "A corrected brief addresses a failed interaction; a fresh conversation alone does not improve the user's thinking.",
+      "observable_check": "[Inference] Curator-proposed observation, not a validated measure: Did the brief correct an identifiable problem or merely produce a more agreeable answer?",
+      "fit": "qualified",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "record-a-workflow-before-turning-it-into-instructions",
+      "path": "raw/hassid-325-replaced-2026/drafts/practices/record-a-workflow-before-turning-it-into-instructions.md",
+      "title": "Record a workflow before turning it into instructions",
+      "source_ids": [
+        325
+      ],
+      "primary_outcome": "understanding",
+      "secondary_outcomes": [
+        "accountability"
+      ],
+      "rationale": "Explaining actual steps and exceptions makes tacit work inspectable before a generated procedure hardens it.",
+      "observable_check": "[Inference] Curator-proposed observation, not a validated measure: Which exception or judgment did the first draft miss?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "keep-a-document-and-question-tracker",
+      "path": "raw/ramonov-360-ai-for-healthcare-insurance-2026/drafts/practices/keep-a-document-and-question-tracker.md",
+      "title": "Keep a document and question tracker",
+      "source_ids": [
+        360
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "rationale": "The record separates document statements, unanswered questions and confirmations from accountable people.",
+      "observable_check": "[Inference] Curator-proposed observation, not a validated measure: Can you distinguish a document statement, an open question and a confirmed answer?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "settle-the-strategy-before-requesting-a-draft",
+      "path": "raw/ramonov-361-ai-for-lawyers-2026/drafts/practices/settle-the-strategy-before-requesting-a-draft.md",
+      "title": "Settle the strategy before requesting a draft",
+      "source_ids": [
+        361
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "rationale": "An accountable professional chooses the substantive approach before generated wording makes it appear settled.",
+      "observable_check": "[Inference] Curator-proposed observation, not a validated measure: Which strategic choice did you make before polished text made it seem inevitable?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "preview-and-approve-before-publishing",
+      "path": "raw/ramonov-375-claude-just-changed-content-creation-forever-2026/drafts/practices/preview-and-approve-before-publishing.md",
+      "title": "Preview and approve before publishing",
+      "source_ids": [
+        375
+      ],
+      "primary_outcome": "work-quality",
+      "secondary_outcomes": [
+        "accountability"
+      ],
+      "rationale": "Inspection of the actual artifact catches errors before release; approval alone is not intellectual agency.",
+      "observable_check": "[Inference] Curator-proposed observation, not a validated measure: Which problem appeared only when you inspected the artifact?",
+      "fit": "qualified",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "answer-ai-questions-with-real-evidence",
+      "path": "raw/ramonov-394-ai-co-founder-mega-prompt-2026/drafts/practices/answer-ai-questions-with-real-evidence.md",
+      "title": "Answer AI questions with real evidence",
+      "source_ids": [
+        394
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "calibration"
+      ],
+      "rationale": "Missing facts are sought in records and with people rather than replaced by model confidence.",
+      "observable_check": "[Inference] Curator-proposed observation, not a validated measure: What real evidence changed the decision, and which assumption remains unresolved?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "name-consequences-before-delegating",
+      "path": "raw/illingworth-408-ai-agents-do-not-play-games-2026/drafts/practices/name-consequences-before-delegating.md",
+      "title": "Name consequences before delegating",
+      "source_ids": [
+        408
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "rationale": "The person examines who bears consequences and whether authority and recovery mechanisms are real.",
+      "observable_check": "[Inference] Can you point to the actual approval and recovery mechanism, rather than a statement that a human is in charge?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "keep-your-sensory-association-in-the-work",
+      "path": "raw/illingworth-409-teaching-ai-to-notice-neurodiverse-perception-2025/drafts/practices/keep-your-sensory-association-in-the-work.md",
+      "title": "Keep your sensory association in the work",
+      "source_ids": [
+        409
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "creative-development"
+      ],
+      "rationale": "The user decides whether a generated scene preserves their intended expression; the model does not validate perception.",
+      "observable_check": "[Inference] Identify one place where the system preserved or flattened your association. Keep subjective expression distinct from factual verification.",
+      "fit": "qualified",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "ask-children-about-ai-before-setting-rules",
+      "path": "raw/illingworth-412-my-six-year-old-told-me-2026/drafts/practices/ask-children-about-ai-before-setting-rules.md",
+      "title": "Ask children about AI before setting rules",
+      "source_ids": [
+        412
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [
+        "shared-understanding"
+      ],
+      "rationale": "Listening lets affected children inform a rule while adults retain their responsibilities.",
+      "observable_check": "[Inference] Notice whether the discussion reveals an assumption you had wrong. This is participation in rule-making, not evidence that every use should be allowed.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "map-a-return-path",
+      "path": "raw/illingworth-413-how-to-use-ai-to-test-2026/drafts/practices/map-a-return-path.md",
+      "title": "Map a return path before choosing",
+      "source_ids": [
+        413
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "calibration"
+      ],
+      "rationale": "Concrete and verified return constraints make a choice more assessable than generic reassurance.",
+      "observable_check": "[Inference] Notice whether the return path became more specific, rather than merely more reassuring. Keep unresolved constraints visible.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "build-the-opposing-case-yourself",
+      "path": "raw/illingworth-414-ai-changes-the-learner-2026/drafts/practices/build-the-opposing-case-yourself.md",
+      "title": "Build the opposing case yourself",
+      "source_ids": [
+        414
+      ],
+      "primary_outcome": "independent-capability",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "rationale": "The learner constructs the argument themselves after receiving an objection, leaving reasoning work with the learner.",
+      "observable_check": "[Inference] Can the learner reconstruct the opposing argument and identify the evidence that matters without reading AI’s text?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "make-ai-disclosure-reciprocal",
+      "path": "raw/illingworth-421-your-ai-policy-does-not-apply-2026/drafts/practices/make-ai-disclosure-reciprocal.md",
+      "title": "Make AI disclosure specific and reciprocal",
+      "source_ids": [
+        421
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "rationale": "Specific reciprocal disclosure makes contributions and responsibility inspectable without promising trust gains.",
+      "observable_check": "[Inference] Can someone tell which work and judgments were actually yours? This is a proposed observation, not a validated measure.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "diagnose-your-draft-before-feedback",
+      "path": "raw/illingworth-422-you-did-not-learn-that-with-2026/drafts/practices/diagnose-your-draft-before-feedback.md",
+      "title": "Diagnose your draft before feedback",
+      "source_ids": [
+        422
+      ],
+      "primary_outcome": "calibration",
+      "secondary_outcomes": [
+        "understanding"
+      ],
+      "rationale": "Comparing a prior diagnosis with checked feedback exposes discrepancies in self-assessment.",
+      "observable_check": "[Inference] What changed between your diagnosis and the reconstruction, and can you point to why?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "use-fictional-questions-for-your-own-reflection",
+      "path": "raw/illingworth-425-fiction-as-a-mirror-for-students-2026/drafts/practices/use-fictional-questions-for-your-own-reflection.md",
+      "title": "Use fictional questions for your own reflection",
+      "source_ids": [
+        425
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "understanding"
+      ],
+      "rationale": "The person writes their own response to an interpretation; emotional resonance cannot certify a truth about them.",
+      "observable_check": "[Inference] Notice which question led you to something you could support from the text or your own experience. Emotional resonance does not authenticate an interpretation.",
+      "fit": "qualified",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "ask-for-an-explanation-in-a-specific-case",
+      "path": "raw/illingworth-427-how-to-test-for-real-understanding-2026/drafts/practices/ask-for-an-explanation-in-a-specific-case.md",
+      "title": "Ask for an explanation in a specific case",
+      "source_ids": [
+        427
+      ],
+      "primary_outcome": "understanding",
+      "secondary_outcomes": [
+        "calibration"
+      ],
+      "rationale": "Case application and follow-up expose what the learner can explain beyond polished description.",
+      "observable_check": "[Inference] Can the learner explain what assumption would need to change for their conclusion to fail?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "check-missing-perspectives",
+      "path": "raw/illingworth-435-when-ai-sounds-neutral-is-it-2025/drafts/practices/check-missing-perspectives.md",
+      "title": "Check missing perspectives against real evidence",
+      "source_ids": [
+        435,
+        491
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "shared-understanding"
+      ],
+      "rationale": "Outside evidence determines whether an apparent omission matters and warrants changing the answer.",
+      "observable_check": "[Inference] Which specific outside evidence changed the answer? This is a proposed observation, not a validated measure.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "ask-before-workplace-data-disclosure",
+      "path": "raw/illingworth-436-every-ai-onboarding-tool-is-already-2026/drafts/practices/ask-before-workplace-data-disclosure.md",
+      "title": "Ask how workplace disclosures will be used",
+      "source_ids": [
+        436,
+        482
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "rationale": "Documented answers about collection and use inform a person's disclosure decision.",
+      "observable_check": "[Inference] Which questions received a documented answer, and which remain unknown? This is a proposed observation, not a validated measure.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "define-the-decision-before-research",
+      "path": "raw/illingworth-439-why-your-ai-prompts-produce-noise-2025/drafts/practices/define-the-decision-before-research.md",
+      "title": "Define the decision before asking AI to research",
+      "source_ids": [
+        439
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "attention"
+      ],
+      "rationale": "Research is tied to a consequential question and evidence that could change the choice.",
+      "observable_check": "[Inference] Record which piece of evidence changed a decision, or state that none did. Brevity and apparent actionability are separate from accuracy.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "record-human-interventions",
+      "path": "raw/illingworth-440-the-work-ai-handed-back-2026/drafts/practices/record-human-interventions.md",
+      "title": "Record the human work needed around AI",
+      "source_ids": [
+        440
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [],
+      "rationale": "A contemporaneous record makes corrections and context-dependent human work visible.",
+      "observable_check": "[Inference] What types of intervention recur, and what would let the team detect them earlier? This is a proposed observation, not a validated measure.",
+      "fit": "qualified",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "ask-how-to-find-out-before-asking-ai",
+      "path": "raw/lenny-750-anthropic-s-cpo-on-what-comes-2025/drafts/practices/ask-how-to-find-out-before-asking-ai.md",
+      "title": "Ask how to find out before asking AI",
+      "source_ids": [
+        474,
+        714,
+        750
+      ],
+      "primary_outcome": "independent-capability",
+      "secondary_outcomes": [
+        "understanding"
+      ],
+      "rationale": "The child participates in choosing and pursuing an inquiry route before receiving an answer.",
+      "observable_check": "[Inference] Notice whether the child can explain a way to investigate another question. An enjoyable exchange is not evidence of lasting learning.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "use-a-creative-constraint-and-respond",
+      "path": "raw/illingworth-488-teach-ai-the-wrong-answer-2025/drafts/practices/use-a-creative-constraint-and-respond.md",
+      "title": "Use a creative constraint, then make something yourself",
+      "source_ids": [
+        488,
+        489,
+        490
+      ],
+      "primary_outcome": "creative-development",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "rationale": "The person uses an explicitly fictional provocation to make something rather than treating generated associations as knowledge.",
+      "observable_check": "[Inference] Notice what you added or rejected, not just what the model produced. Forced uncertainty is role-play, not calibrated knowledge.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "ask-about-the-gap-then-do-the-task",
+      "path": "raw/illingworth-514-there-are-three-ways-to-learn-2026/drafts/practices/ask-about-the-gap-then-do-the-task.md",
+      "title": "Ask about the gap, then do the task",
+      "source_ids": [
+        514
+      ],
+      "primary_outcome": "independent-capability",
+      "secondary_outcomes": [
+        "understanding"
+      ],
+      "rationale": "Explanations address a gap while the person still performs and checks the learning task.",
+      "observable_check": "[Inference] Compare what you predicted you could do with the actual attempt, keeping confidence and performance separate.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "explain-it-back-before-the-correction",
+      "path": "raw/lenny-698-from-managing-people-to-managing-ai-2025/drafts/practices/explain-it-back-before-the-correction.md",
+      "title": "Explain it back before the correction",
+      "source_ids": [
+        514,
+        698
+      ],
+      "primary_outcome": "understanding",
+      "secondary_outcomes": [
+        "calibration"
+      ],
+      "rationale": "An unaided explanation reveals gaps before feedback; later transfer is a separate observation.",
+      "observable_check": "[Inference] Can you explain the concept on a different example, and which parts still require help?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "test-one-creative-change",
+      "path": "raw/illingworth-524-when-your-writing-wobbles-listen-for-2025/drafts/practices/test-one-creative-change.md",
+      "title": "Test one creative change suggested by AI",
+      "source_ids": [
+        524,
+        530
+      ],
+      "primary_outcome": "creative-development",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "rationale": "A bounded human revision is compared with the original rather than accepting AI's interpretation of hidden intent.",
+      "observable_check": "[Inference] Compare the changed passage with the saved original and explain what improved or was lost. You may reject the suggestion.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "keep-a-writing-process-record",
+      "path": "raw/illingworth-529-you-will-be-accused-of-using-2026/drafts/practices/keep-a-writing-process-record.md",
+      "title": "Keep a record of how the writing developed",
+      "source_ids": [
+        529
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "rationale": "The record reconstructs contributions and choices without claiming conclusive proof of authorship.",
+      "observable_check": "[Inference] Could you reconstruct one important change without relying on memory? This is a proposed observation, not a validated measure.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "ask-contextual-human-advisers",
+      "path": "raw/lenny-533-feeling-stuck-here-s-how-to-2023/drafts/practices/ask-contextual-human-advisers.md",
+      "title": "Ask advisers who know the subject and you",
+      "source_ids": [
+        533
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "shared-understanding"
+      ],
+      "rationale": "People with domain and personal context supply reasons and surprises for the person's decision.",
+      "observable_check": "[Inference] What did a person know that was absent from the initial framing? This is a proposed observation, not a validated measure.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "expand-agent-authority-one-tested-step-at-a-time",
+      "path": "raw/lenny-537-why-most-ai-products-fail-lessons-2026/drafts/practices/expand-agent-authority-one-tested-step-at-a-time.md",
+      "title": "Expand agent authority one tested step at a time",
+      "source_ids": [
+        537
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [
+        "calibration"
+      ],
+      "rationale": "Observed performance informs a bounded expansion, reduction or retention of authority.",
+      "observable_check": "[Inference] Curator-proposed observation, not a validated measure: What evidence changed authority, including a choice to stop or roll back?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "check-what-each-person-thinks-was-decided",
+      "path": "raw/lenny-542-scripts-for-navigating-difficult-conversations-alisa-2025/drafts/practices/check-what-each-person-thinks-was-decided.md",
+      "title": "Check what each person thinks was decided",
+      "source_ids": [
+        542
+      ],
+      "primary_outcome": "shared-understanding",
+      "secondary_outcomes": [
+        "accountability"
+      ],
+      "rationale": "Comparing participants' accounts reveals disagreement before owners and actions are recorded.",
+      "observable_check": "[Inference] Notice whether unresolved items stay unresolved in the record. Apparent agreement with a displayed summary may hide dissent.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "set-creative-criteria-before-generating",
+      "path": "raw/lenny-558-the-art-of-building-legendary-brands-2022/drafts/practices/set-creative-criteria-before-generating.md",
+      "title": "Set creative criteria before generating options",
+      "source_ids": [
+        558
+      ],
+      "primary_outcome": "creative-development",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "rationale": "The person defines a brief and compares candidates against criteria chosen before attractive options appear.",
+      "observable_check": "[Inference] Notice whether criteria changed merely to favor the first attractive candidate. A long idea list is not a measure of creative judgment.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "write-a-proposal-to-test-the-idea",
+      "path": "raw/lenny-568-unpacking-amazon-s-unique-ways-of-2023/drafts/practices/write-a-proposal-to-test-the-idea.md",
+      "title": "Write a proposal to test the idea",
+      "source_ids": [
+        568,
+        677
+      ],
+      "primary_outcome": "understanding",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "rationale": "Constructing and defending a customer/problem/solution account can expose gaps or justify abandoning an idea.",
+      "observable_check": "[Inference] What did making the document reveal that a finished template would have hidden? This is a proposed observation, not a validated measure.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "match-confidence-to-evidence",
+      "path": "raw/lenny-663-becoming-evidence-guided-itamar-gilad-2023/drafts/practices/match-confidence-to-evidence.md",
+      "title": "Match confidence to the evidence you have",
+      "source_ids": [
+        578,
+        663
+      ],
+      "primary_outcome": "calibration",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "rationale": "The person distinguishes enthusiasm from evidence strength and selects a proportionate next check.",
+      "observable_check": "[Inference] Ask what observation would lower confidence. Do not turn the practitioner’s confidence scale into a probability of success.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "rehearse-with-audience-experience",
+      "path": "raw/lenny-585-why-most-product-managers-are-unprepared-2023/drafts/practices/rehearse-with-audience-experience.md",
+      "title": "Rehearse with someone who knows the audience",
+      "source_ids": [
+        585,
+        660,
+        673
+      ],
+      "primary_outcome": "shared-understanding",
+      "secondary_outcomes": [
+        "independent-capability"
+      ],
+      "rationale": "A knowledgeable colleague helps expose gaps in what the speaker can explain to this audience.",
+      "observable_check": "[Inference] Which question exposed a gap in understanding rather than presentation polish? This is a proposed observation, not a validated measure.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "ask-what-an-update-would-change",
+      "path": "raw/lenny-589-al-engineering-101-with-chip-huyen-2025/drafts/practices/ask-what-an-update-would-change.md",
+      "title": "Ask what an update would change",
+      "source_ids": [
+        589
+      ],
+      "primary_outcome": "attention",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "rationale": "A decision and revisit trigger determine whether investigating an update deserves attention now.",
+      "observable_check": "[Inference] Which update actually changed a decision, and which only consumed attention?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "seek-contrary-customer-evidence",
+      "path": "raw/lenny-802-why-great-ai-products-are-all-2024/drafts/practices/seek-contrary-customer-evidence.md",
+      "title": "Seek contrary evidence in customer material",
+      "source_ids": [
+        591,
+        802
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "calibration"
+      ],
+      "rationale": "Actual customer material is used to test a preferred strategy rather than confirm it.",
+      "observable_check": "[Inference] Did a checked contradiction change your choice, or only produce a more persuasive story? This is a proposed observation, not a validated measure.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "build-the-model-to-understand-it",
+      "path": "raw/lenny-601-developing-a-growth-model-marketplace-growth-2022/drafts/practices/build-the-model-to-understand-it.md",
+      "title": "Build the explanatory model yourself",
+      "source_ids": [
+        601
+      ],
+      "primary_outcome": "understanding",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "rationale": "Constructing relationships and revising assumptions against results develops an explainable account of the system.",
+      "observable_check": "[Inference] Can you explain why changing one assumption changes the result? This is a proposed observation, not a validated measure.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "let-the-child-write-the-story",
+      "path": "raw/lenny-605-building-a-culture-of-excellence-david-2023/drafts/practices/let-the-child-write-the-story.md",
+      "title": "Let the child write the story around supporting images",
+      "source_ids": [
+        605
+      ],
+      "primary_outcome": "independent-capability",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "rationale": "The child performs the chosen writing work while using image support; the account shows participation, not demonstrated learning.",
+      "observable_check": "[Inference] Notice the writing and choices the child actually did. If drawing is the learning goal, choose a different division of work.",
+      "fit": "qualified",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "protect-a-daily-highlight",
+      "path": "raw/lenny-668-making-time-for-what-matters-jake-2024/drafts/practices/protect-a-daily-highlight.md",
+      "title": "Protect a daily highlight",
+      "source_ids": [
+        668
+      ],
+      "primary_outcome": "attention",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "rationale": "The person allocates feasible time to a chosen activity and reviews what enabled that attention.",
+      "observable_check": "[Inference] Did you spend any protected attention on the thing you chose, and what made that easier or harder?",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "name-your-own-visual-reactions",
+      "path": "raw/lenny-684-how-to-see-like-a-designer-2024/drafts/practices/name-your-own-visual-reactions.md",
+      "title": "Name your own visual reactions",
+      "source_ids": [
+        684
+      ],
+      "primary_outcome": "creative-development",
+      "secondary_outcomes": [
+        "understanding"
+      ],
+      "rationale": "Comparing visible features makes personal creative judgments more specific without universalizing them.",
+      "observable_check": "[Inference] Notice whether you can explain a preference more specifically. Your association may be personal or cultural; it does not establish what every audience feels.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "choose-from-an-ai-generated-creative-pool",
+      "path": "raw/lenny-684-how-to-see-like-a-designer-2024/drafts/practices/choose-from-an-ai-generated-creative-pool.md",
+      "title": "Choose from an AI-generated creative pool",
+      "source_ids": [
+        684
+      ],
+      "primary_outcome": "creative-development",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "rationale": "The person selects components and retains creative development instead of equating generation with authorship.",
+      "observable_check": "[Inference] State why each chosen element belongs. Fast generation and retained enjoyment do not establish improved independent creativity.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "review-quality-through-a-real-journey",
+      "path": "raw/lenny-702-building-beautiful-products-with-stripe-s-2023/drafts/practices/review-quality-through-a-real-journey.md",
+      "title": "Review quality through a real user journey",
+      "source_ids": [
+        702
+      ],
+      "primary_outcome": "work-quality",
+      "secondary_outcomes": [
+        "shared-understanding"
+      ],
+      "rationale": "Actual use and discussion of qualitative criteria reveal friction; improvements in the team's judgment remain a further claim.",
+      "observable_check": "[Inference] Which disagreement changed the quality criterion or uncovered something a score concealed? This is a proposed observation, not a validated measure.",
+      "fit": "qualified",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "argue-the-other-side-before-deciding",
+      "path": "raw/lenny-705-leading-with-empathy-keith-yandell-2023/drafts/practices/argue-the-other-side-before-deciding.md",
+      "title": "Explain the other side before deciding",
+      "source_ids": [
+        705
+      ],
+      "primary_outcome": "shared-understanding",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "rationale": "Participants explain and check each other's reasons before a named decision maker resolves the choice.",
+      "observable_check": "[Inference] Did the discussion reveal a real trade-off or merely produce agreement? This is a proposed observation, not a validated measure.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "keep-a-decision-and-outcome-log",
+      "path": "raw/lenny-710-unorthodox-pm-tips-automating-user-insights-2024/drafts/practices/keep-a-decision-and-outcome-log.md",
+      "title": "Keep a decision and outcome log",
+      "source_ids": [
+        710
+      ],
+      "primary_outcome": "calibration",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "rationale": "Preserved prior reasoning can be compared with results, including right predictions reached for wrong reasons.",
+      "observable_check": "[Inference] Notice wrong reasons behind right predictions as well as wrong outcomes. Count uncertainty and missing information, not only wins.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "outline-the-argument-before-slides",
+      "path": "raw/lenny-725-mastering-product-strategy-and-growing-as-2023/drafts/practices/outline-the-argument-before-slides.md",
+      "title": "Outline the argument before making slides",
+      "source_ids": [
+        725
+      ],
+      "primary_outcome": "shared-understanding",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "rationale": "The person shapes the sequence of claims before formatting makes a presentation feel complete.",
+      "observable_check": "[Inference] Did a headline or transition reveal a missing reason or unsupported claim? This is a proposed observation, not a validated measure.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "answer-example-relevance",
+      "path": "raw/lenny-731-how-to-speak-more-confidently-and-2024/drafts/practices/answer-example-relevance.md",
+      "title": "Answer, example, relevance",
+      "source_ids": [
+        731
+      ],
+      "primary_outcome": "shared-understanding",
+      "secondary_outcomes": [
+        "independent-capability"
+      ],
+      "rationale": "A direct answer, example and relevance statement are practiced for a real listener rather than judged by fluency alone.",
+      "observable_check": "[Inference] Did the example clarify the answer, or distract from an unanswered question? This is a proposed observation, not a validated measure.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "record-lived-moments",
+      "path": "raw/lenny-737-how-to-tell-better-stories-matthew-2023/drafts/practices/record-lived-moments.md",
+      "title": "Record a lived moment each day",
+      "source_ids": [
+        737
+      ],
+      "primary_outcome": "creative-development",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "rationale": "Brief dated observations supply personally sourced material while separating current events from older memories.",
+      "observable_check": "[Inference] Which details would you otherwise have forgotten, and which interpretations need checking? This is a proposed observation, not a validated measure.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "speak-your-thoughts-before-summarizing",
+      "path": "raw/lenny-741-she-turned-100-rejections-into-a-2025/drafts/practices/speak-your-thoughts-before-summarizing.md",
+      "title": "Speak your thoughts before summarizing them with AI",
+      "source_ids": [
+        741
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "attention"
+      ],
+      "rationale": "The person articulates concerns and checks the AI summary against their own priorities.",
+      "observable_check": "[Inference] Notice whether the action list reflects your priorities rather than merely the easiest items to summarize.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "listen-before-shaping-the-message",
+      "path": "raw/lenny-755-storytelling-with-nancy-duarte-how-to-2023/drafts/practices/listen-before-shaping-the-message.md",
+      "title": "Listen before shaping the message",
+      "source_ids": [
+        755
+      ],
+      "primary_outcome": "shared-understanding",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "rationale": "Actual audience input changes the message and the requested action before presentation polish.",
+      "observable_check": "[Inference] What changed because you heard from the audience rather than imagined them? This is a proposed observation, not a validated measure.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "review-survey-questions-for-decisions",
+      "path": "raw/lenny-760-how-to-measure-ai-developer-productivity-2025/drafts/practices/review-survey-questions-for-decisions.md",
+      "title": "Review survey questions against the decision",
+      "source_ids": [
+        760
+      ],
+      "primary_outcome": "work-quality",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "rationale": "Question revision aims at interpretable responses; a better survey does not itself establish better reasoning by its author.",
+      "observable_check": "[Inference] Can you explain what you would do differently for each answer? This is a proposed observation, not a validated measure.",
+      "fit": "qualified",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "practice-choosing-decisive-questions",
+      "path": "raw/lenny-803-the-rituals-of-great-teams-shishir-2022/drafts/practices/practice-choosing-decisive-questions.md",
+      "title": "Practice choosing the questions that change the plan",
+      "source_ids": [
+        803
+      ],
+      "primary_outcome": "independent-capability",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "rationale": "Low-stakes practice links each selected question to the later choices its answer changes.",
+      "observable_check": "[Inference] Can you show the downstream choice changed by each question? This is a proposed observation, not a validated measure.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "return-to-real-user-accounts",
+      "path": "raw/lenny-811-hard-won-lessons-building-0-to-2024/drafts/practices/return-to-real-user-accounts.md",
+      "title": "Return to real user accounts when AI ideas distract",
+      "source_ids": [
+        811
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "attention"
+      ],
+      "rationale": "Real user accounts inform whether an attractive AI possibility deserves a change of priorities.",
+      "observable_check": "[Inference] Notice whether the proposal answers a user need or merely copies a visible feature. Interviews support judgment; they do not automatically validate demand.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "explain-the-algorithm-you-own",
+      "path": "raw/lenny-819-why-ai-is-disrupting-traditional-product-2025/drafts/practices/explain-the-algorithm-you-own.md",
+      "title": "Explain the algorithm you are responsible for",
+      "source_ids": [
+        819
+      ],
+      "primary_outcome": "understanding",
+      "secondary_outcomes": [
+        "accountability"
+      ],
+      "rationale": "A product owner explains objectives and inputs with implementers before exercising responsibility.",
+      "observable_check": "[Inference] Can the accountable product owner explain an important trade-off and show how it is checked? This is a proposed observation, not a validated measure.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    },
+    {
+      "slug": "accordion-speaking-rehearsal",
+      "path": "raw/lenny-821-why-most-public-speaking-advice-is-2024/drafts/practices/accordion-speaking-rehearsal.md",
+      "title": "Rehearse a talk by compressing and expanding it",
+      "source_ids": [
+        821
+      ],
+      "primary_outcome": "shared-understanding",
+      "secondary_outcomes": [
+        "independent-capability"
+      ],
+      "rationale": "Compressing and expanding a talk clarifies its essential meaning while the person repeatedly performs the delivery.",
+      "observable_check": "[Inference] What stayed essential across versions, and can a listener state it back? This is a proposed observation, not a validated measure.",
+      "fit": "clear",
+      "fit_note": "This is an intended benefit. The source does not directly evaluate this complete routine.",
+      "consolidation": "retain",
+      "merge_into": null,
+      "integration_status": "awaiting_editorial_decision",
+      "integration_note": ""
+    }
+  ],
+  "integration_approved": false
+}

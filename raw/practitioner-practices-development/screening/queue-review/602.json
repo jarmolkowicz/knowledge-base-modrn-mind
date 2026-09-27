@@ -1,0 +1,37 @@
+{
+  "queue_position": 228,
+  "id": 602,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/dan-shipper/transcript.md",
+  "sha256": "c6a9cb31e88dc173e860eae0c94d1becadfb78381f5413ef158fc1d0680c0990",
+  "title": "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 456,
+      "text": "(00:36:20):"
+    },
+    {
+      "line": 457,
+      "text": "So I think when I ask it to write something for me, it's actually better than yours. Or maybe not yours, but your average ChatGPT user. And I also find I use it a lot for self-reflection and personal growth type stuff. So it knows me. So when I send it a meeting transcript, and I'm like, \"How did I do?\" It's like, \"Well, you did that thing that you normally do, but you're way better on this other thing.\" And I like that. I think that's really great. So day-to-day, o3, that's my go-to."
+    },
+    {
+      "line": 480,
+      "text": "Dan Shipper (00:37:44):"
+    },
+    {
+      "line": 481,
+      "text": "But yeah, no other model can do this. Which is earlier versions of Claude, and I think generally versions of other models, when you ask them, \"Is this piece of writing any good,\" Claude, for example, would always give it a B+. And then if you did another turn of the same conversation, you're like, \"I updated this,\" it would always go to A-. And then if you give it another turn, it would go to A."
+    },
+    {
+      "line": 729,
+      "text": "(00:59:27):"
+    },
+    {
+      "line": 730,
+      "text": "And so we notice that. We start to then use ChatGPT and cloud first, these general purpose tools to try it and see is this useful? Does this actually work? All that kind of stuff. And then if it does, we will unbundle it into its own separate thing that becomes an app. And I think what's really special about this time is the entire game board has been totally reset in terms of things you can build. Where five years ago it was like you're going to build another Notes app. We've been building notes app for forever, another B2B SAS app. It's all the same stuff in slightly different packaging. And now it's totally new territory. No one knows what's going on. Everyone's inventing it as it happens. All these new workflows are being created in a very similar way to, I don't know, for example, when spreadsheets were first a thing on computers, we were figuring out all these new workflows on spreadsheets."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 511,
+  "title": "The Models You Can Inspect Are the Ones Being Banned",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/the-models-you-can-inspect-are-the.md",
+  "sha256": "7e65a861dd4d544d0a0370762a6b585a889917fd3b9132d12ccd851630a40406",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1198,
+  "headings": [
+    "**The Pentagon’s AI**",
+    "**The open source inversion**",
+    "**Both sides of the same coin**",
+    "**Where I stand (and where I am not sure)**",
+    "**What the flags are hiding**",
+    "**What to notice this week**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 445,
+      "text": "DeepSeek has been banned. OpenAI just signed a deal with the Penta"
+    },
+    {
+      "line": 49,
+      "offset": 4071,
+      "text": "DeepSeek and Qwen (Alibaba’s open source AI model family) are open source. You can download the model weights. You can inspect the architecture. You can run them on your own hardware, on your own netw"
+    }
+  ]
+}

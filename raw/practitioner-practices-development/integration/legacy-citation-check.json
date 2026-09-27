@@ -1,0 +1,407 @@
+{
+  "before": [
+    {
+      "entry": "ai-boundary-spanning",
+      "citation": "Dell'Acqua, F., Ayoubi, C., Lifshitz, H., Sadun, R., Mollick, E., Mollick, L., Han, Y., Goldman, J., Nair, H., Taub, S., & Lakhani, K. R. (2026). The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork. Organization Science, Articles in Advance. https://doi.org/10.1287/orsc.2025.20702",
+      "issue": "canonical link missing"
+    },
+    {
+      "entry": "ai-moralization",
+      "citation": "de Mello, V. O., Côté, É., Ayad, R., Inbar, Y., Plaks, J., & Inzlicht, M. (2026). The moralization of artificial intelligence. University of Toronto.",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "amathia-drift",
+      "citation": "Nosta, The Borrowed Mind (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "anchoring-bias",
+      "citation": "Tversky & Kahneman (1974)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "anthropomorphism-of-technology",
+      "citation": "Epley, Waytz & Cacioppo (2007)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "anthropomorphism-of-technology",
+      "citation": "Waytz, Cacioppo & Epley (2010)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "anti-intelligence",
+      "citation": "Nosta, Anti-Intelligence (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "anti-intelligence",
+      "citation": "Nosta, The Borrowed Mind (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "borrowed-certainty",
+      "citation": "Nosta, The Borrowed Mind (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "cognitive-friction",
+      "citation": "Nosta, Frictionless Intelligence (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "cognitive-grit",
+      "citation": "Nosta, The Borrowed Mind (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "coherence-trap",
+      "citation": "Nosta, The Borrowed Mind (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "coherence-trap",
+      "citation": "Nosta, The Tragic Flaw in AI (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "complementarity-framework",
+      "citation": "Liu, C. (2026). The Organizational Behavior of Agentic AI: Context, Boundaries, and Collective Intelligence in Human-Agent Workflows. arXiv:2606.30986v1.",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "confidence-competence-gap",
+      "citation": "Scispace Literature Synthesis (2025)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "confidence-competence-gap",
+      "citation": "Tankelevitch et al. (2024)",
+      "issue": "canonical link missing"
+    },
+    {
+      "entry": "confidence-competence-gap",
+      "citation": "Fernandes et al. (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "contextual-transaction-cost",
+      "citation": "Liu, C. (2026). The Organizational Behavior of Agentic AI: Context, Boundaries, and Collective Intelligence in Human-Agent Workflows. arXiv:2606.30986v1.",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "cybernetic-teammate",
+      "citation": "Dell'Acqua, F., Ayoubi, C., Lifshitz, H., Sadun, R., Mollick, E., Mollick, L., Han, Y., Goldman, J., Nair, H., Taub, S., & Lakhani, K. R. (2026). The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork. Organization Science, Articles in Advance. https://doi.org/10.1287/orsc.2025.20702",
+      "issue": "canonical link missing"
+    },
+    {
+      "entry": "desirable-difficulty",
+      "citation": "Nosta, Frictionless Intelligence (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "disclosure-penalty",
+      "citation": "de Mello et al. (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "execution-commoditization",
+      "citation": "Niederhoffer et al. (2025/2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "illusion-of-explanatory-depth",
+      "citation": "Rozenblit, L. & Keil, F. (2002). The misunderstood limits of folk science: an illusion of explanatory depth. Cognitive Science, 26, 521–562.",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "metacognition",
+      "citation": "Fernandes et al. (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "metacognitive-demand",
+      "citation": "Tankelevitch et al. (2024)",
+      "issue": "canonical link missing"
+    },
+    {
+      "entry": "minimum-cognitive-integrity",
+      "citation": "Nosta, The Borrowed Mind (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "novice-vulnerability",
+      "citation": "Niederhoffer et al. (2025/2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "professional-identity-threat",
+      "citation": "de Mello et al. (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "social-friction",
+      "citation": "Eubanks, Muran & Safran (2018)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "social-friction",
+      "citation": "Ibrahim, L., Hafner, F. S., Cheng, M., Lee, C., Anselmetti, R., Willer, R., Rocher, L., & Yang, D. (2026). Sycophantic AI makes human interaction feel more effortful and less satisfying over time. arXiv:2605.07912v1.",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "social-sycophancy",
+      "citation": "Ibrahim, L., Hafner, F. S., Cheng, M., Lee, C., Anselmetti, R., Willer, R., Rocher, L., & Yang, D. (2026). Sycophantic AI makes human interaction feel more effortful and less satisfying over time. arXiv:2605.07912v1.",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "sycophancy",
+      "citation": "Malmqvist (2025)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "sycophancy",
+      "citation": "Ibrahim, L., Hafner, F. S., & Rocher, L. (2026). Training language models to be warm can reduce accuracy and increase sycophancy. Nature, 652, 1159–1165. doi:10.1038/s41586-026-10410-0",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "upskilling-deskilling-paradox",
+      "citation": "Shukla et al. (2025)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "upskilling-deskilling-paradox",
+      "citation": "Krook (2025)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "workslop",
+      "citation": "Niederhoffer et al. (2025/2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "workslop-prevention",
+      "citation": "Niederhoffer, K., Robichaux, A., & Hancock, J. T. (2025/2026). AI-Generated Workslop / Why People Create AI 'Workslop'. Harvard Business Review.",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "zone-of-proximal-development",
+      "citation": "Vygotsky (1978)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "zone-of-proximal-development",
+      "citation": "Wood et al. (1976)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "zone-of-proximal-development",
+      "citation": "Van de Pol et al. (2010)",
+      "issue": "unresolved identity"
+    }
+  ],
+  "after": [
+    {
+      "entry": "ai-boundary-spanning",
+      "citation": "Dell'Acqua, F., Ayoubi, C., Lifshitz, H., Sadun, R., Mollick, E., Mollick, L., Han, Y., Goldman, J., Nair, H., Taub, S., & Lakhani, K. R. (2026). The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork. Organization Science, Articles in Advance. https://doi.org/10.1287/orsc.2025.20702",
+      "issue": "canonical link missing"
+    },
+    {
+      "entry": "ai-moralization",
+      "citation": "de Mello, V. O., Côté, É., Ayad, R., Inbar, Y., Plaks, J., & Inzlicht, M. (2026). The moralization of artificial intelligence. University of Toronto.",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "amathia-drift",
+      "citation": "Nosta, The Borrowed Mind (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "anchoring-bias",
+      "citation": "Tversky & Kahneman (1974)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "anthropomorphism-of-technology",
+      "citation": "Epley, Waytz & Cacioppo (2007)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "anthropomorphism-of-technology",
+      "citation": "Waytz, Cacioppo & Epley (2010)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "anti-intelligence",
+      "citation": "Nosta, Anti-Intelligence (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "anti-intelligence",
+      "citation": "Nosta, The Borrowed Mind (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "borrowed-certainty",
+      "citation": "Nosta, The Borrowed Mind (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "cognitive-friction",
+      "citation": "Nosta, Frictionless Intelligence (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "cognitive-grit",
+      "citation": "Nosta, The Borrowed Mind (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "coherence-trap",
+      "citation": "Nosta, The Borrowed Mind (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "coherence-trap",
+      "citation": "Nosta, The Tragic Flaw in AI (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "complementarity-framework",
+      "citation": "Liu, C. (2026). The Organizational Behavior of Agentic AI: Context, Boundaries, and Collective Intelligence in Human-Agent Workflows. arXiv:2606.30986v1.",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "confidence-competence-gap",
+      "citation": "Scispace Literature Synthesis (2025)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "confidence-competence-gap",
+      "citation": "Tankelevitch et al. (2024)",
+      "issue": "canonical link missing"
+    },
+    {
+      "entry": "confidence-competence-gap",
+      "citation": "Fernandes et al. (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "contextual-transaction-cost",
+      "citation": "Liu, C. (2026). The Organizational Behavior of Agentic AI: Context, Boundaries, and Collective Intelligence in Human-Agent Workflows. arXiv:2606.30986v1.",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "cybernetic-teammate",
+      "citation": "Dell'Acqua, F., Ayoubi, C., Lifshitz, H., Sadun, R., Mollick, E., Mollick, L., Han, Y., Goldman, J., Nair, H., Taub, S., & Lakhani, K. R. (2026). The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork. Organization Science, Articles in Advance. https://doi.org/10.1287/orsc.2025.20702",
+      "issue": "canonical link missing"
+    },
+    {
+      "entry": "desirable-difficulty",
+      "citation": "Nosta, Frictionless Intelligence (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "disclosure-penalty",
+      "citation": "de Mello et al. (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "execution-commoditization",
+      "citation": "Niederhoffer et al. (2025/2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "illusion-of-explanatory-depth",
+      "citation": "Rozenblit, L. & Keil, F. (2002). The misunderstood limits of folk science: an illusion of explanatory depth. Cognitive Science, 26, 521–562.",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "metacognition",
+      "citation": "Fernandes et al. (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "metacognitive-demand",
+      "citation": "Tankelevitch et al. (2024)",
+      "issue": "canonical link missing"
+    },
+    {
+      "entry": "minimum-cognitive-integrity",
+      "citation": "Nosta, The Borrowed Mind (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "novice-vulnerability",
+      "citation": "Niederhoffer et al. (2025/2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "professional-identity-threat",
+      "citation": "de Mello et al. (2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "social-friction",
+      "citation": "Eubanks, Muran & Safran (2018)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "social-friction",
+      "citation": "Ibrahim, L., Hafner, F. S., Cheng, M., Lee, C., Anselmetti, R., Willer, R., Rocher, L., & Yang, D. (2026). Sycophantic AI makes human interaction feel more effortful and less satisfying over time. arXiv:2605.07912v1.",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "social-sycophancy",
+      "citation": "Ibrahim, L., Hafner, F. S., Cheng, M., Lee, C., Anselmetti, R., Willer, R., Rocher, L., & Yang, D. (2026). Sycophantic AI makes human interaction feel more effortful and less satisfying over time. arXiv:2605.07912v1.",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "sycophancy",
+      "citation": "Malmqvist (2025)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "sycophancy",
+      "citation": "Ibrahim, L., Hafner, F. S., & Rocher, L. (2026). Training language models to be warm can reduce accuracy and increase sycophancy. Nature, 652, 1159–1165. doi:10.1038/s41586-026-10410-0",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "upskilling-deskilling-paradox",
+      "citation": "Shukla et al. (2025)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "upskilling-deskilling-paradox",
+      "citation": "Krook (2025)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "workslop",
+      "citation": "Niederhoffer et al. (2025/2026)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "workslop-prevention",
+      "citation": "Niederhoffer, K., Robichaux, A., & Hancock, J. T. (2025/2026). AI-Generated Workslop / Why People Create AI 'Workslop'. Harvard Business Review.",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "zone-of-proximal-development",
+      "citation": "Vygotsky (1978)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "zone-of-proximal-development",
+      "citation": "Wood et al. (1976)",
+      "issue": "unresolved identity"
+    },
+    {
+      "entry": "zone-of-proximal-development",
+      "citation": "Van de Pol et al. (2010)",
+      "issue": "unresolved identity"
+    }
+  ],
+  "regressions": []
+}

@@ -1,0 +1,45 @@
+{
+  "queue_position": 304,
+  "id": 709,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/kevin-weil/transcript.md",
+  "sha256": "2fc7e798dee98a0bdc3f8e81d32daf07087f2a094c66a613f76b9f7d3b407d21",
+  "title": "OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 114,
+      "text": "Kevin Weil (00:09:05):"
+    },
+    {
+      "line": 115,
+      "text": "There's this quote I love, which is \"AI is whatever hasn't been done yet\" because once it's been done, when it kind of works, then you call it machine learning, and once it's kind of ubiquitous and it's everywhere, then it's just an algorithm. So I've always loved that we call things AI when they still don't quite work and then by the time it's like an AI algorithm that's recommending you follow, oh, that's just an algorithm, but this new thing, like self-driving cars, that's it. I think to some degree we're always going to be there and the next thing is always going to be AI and the current thing that we use every day and is just a part of our lives, that's an algorithm."
+    },
+    {
+      "line": 126,
+      "text": "Kevin Weil (00:10:24):"
+    },
+    {
+      "line": 127,
+      "text": "I had the same experience when I first got into a Waymo, your very first ride, at least my very first ride, my first 10 seconds in a Waymo, it starts driving and you're like, \"Oh my God, watch out for that bike.\" You're holding onto whatever you can. And then five minutes in, you've calmed down and you realize that you're getting driven around the city without a driver and it's working. You're just like, \"Oh my God, I am living in the future right now.\" And then another 10 minutes, you're bored, you're doing email on your phone, answering Slack messages, and suddenly this miracle of human invention is just an expected part of your life from then on. And there is really something in the way that we all are adapting to AI that's kind of like that. These miraculous things happen and computers can do something they've never been able to do before and it blows our mind collectively for a week and then we're like, oh, yeah. Oh, now it's just machine learning on its way to being an algorithm."
+    },
+    {
+      "line": 285,
+      "text": "Kevin Weil (00:35:02):"
+    },
+    {
+      "line": 286,
+      "text": "I think being first helps, which is one of the reasons why we're so focused on moving quickly. We like being the first to launch new capabilities. Things like deep research. Our models, they can do a lot of things. So they can take real-time video input, you have speech to speech, you can do speech to text and text to speech. They can do deep research. They can operate on a canvas, they can write code. So ChatGPT can be this one- stop-shop where all the things that you want to do are possible. And as we go forward in it, we have more agentic tools like Operator where it's browsing for you and doing things for you on the web, more and more you're going to be able to come to this one place to ChatGPT, give it instructions and have it accomplish real things for you in the world. There's something fundamentally valuable in that. So we think a lot about that. We try to move really fast so that we are always the most useful place for people to come to."
+    },
+    {
+      "line": 405,
+      "text": "Kevin Weil (00:53:52):"
+    },
+    {
+      "line": 406,
+      "text": "We use it a lot. I mean, every one of us is in Chat GPT all the time summarizing docs, using it to help write docs with GPTs that write product specs and things like that, all the stuff that you would imagine. I mean talk about writing evals, you can actually use models to help you write evals and they're pretty good at it. That all said, I'm still sort of disappointed by us, and I really mean me, in, if I were to just teleport my five-year-old self leading product at some other company into my day job, I would recognize it still. And I think we should be in a world, certainly a year from now, probably even more now, where I almost wouldn't recognize it because the workflows are so different and I'm using AI so heavily, and I'd still recognize it today. So I think in some sense, I'm not doing a good enough job of that."
+    }
+  ]
+}

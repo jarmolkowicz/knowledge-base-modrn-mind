@@ -1,0 +1,39 @@
+{
+  "id": 275,
+  "title": "Claude Code.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/claude-code.md",
+  "sha256": "a55be76cb8ab5dae0d3121423bb7f7c467eb422d837816801d5ce10d9ff98dee",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2638,
+  "headings": [
+    "**Forget coding. English is the new code.**",
+    "**Step 1: Create a free GitHub account.**",
+    "**Step 2: Go back to Claude Code, and link your GitHub.**",
+    "**Step 3: Code, but without code. Just type words.**",
+    "**Step 4: Accept everything. Check the live website. Edit infinitely.**",
+    "**I can make you code 100x faster.**",
+    "**Step 1: Download VS Code. It’s free.**",
+    "**Step 2: Install the Claude extension.**",
+    "**Step 3: Go to Claude’s settings inside VS Code.**",
+    "**Step 4: Vibecode, faster than ever.**",
+    "**The best way to prompt Claude Code.**",
+    "**Start with a screenshot.**",
+    "**Describe the end result. Never the steps.**",
+    "**Point Claude to your files.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 225,
+      "text": "Recently, you’ve been *abusing* **Claude Cowork**."
+    },
+    {
+      "line": 321,
+      "offset": 18217,
+      "text": "**2. You can’t review the code.** When Claude writes code, you’re trusting it. You don’t read code. I don’t either. If Claude writes something messy, we won’t catch it. My workaround: test the actual website. Click every"
+    }
+  ]
+}

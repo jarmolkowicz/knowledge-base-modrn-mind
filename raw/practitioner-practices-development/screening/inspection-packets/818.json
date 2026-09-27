@@ -1,0 +1,26 @@
+{
+  "id": 818,
+  "title": "Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Zero)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/tom-conrad/transcript.md",
+  "sha256": "426efe21541f6785a38a881aab674e76f2268bedaf98d2f43f905ed3e7bee8ec",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 17267,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 861,
+      "text": "There's this belief that everybody needs to"
+    },
+    {
+      "line": 361,
+      "offset": 44240,
+      "text": "But maybe the thing that I think of first is, I think we met our early audience in an incredibly genuine way. For example, when we"
+    }
+  ]
+}

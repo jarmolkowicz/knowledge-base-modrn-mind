@@ -1,0 +1,29 @@
+{
+  "queue_position": 282,
+  "id": 681,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jeremy-henrickson/transcript.md",
+  "sha256": "86209726a84a72aea94dcf4ad8820ce9f8d4321de6c6631ca3de5e78bd022bc1",
+  "title": "Moving fast and navigating uncertainty | Jeremy Henrickson (Rippling, Coinbase)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 239,
+      "text": "Jeremy Henrickson (00:25:38):"
+    },
+    {
+      "line": 240,
+      "text": "Yeah, I think that's right. So I mean, the fundamental contention is having a single system of record is better for many, many, many reasons, right? The most simple of which is there's a single source of truth and all of these other products can rely on it. But also, unless you start without assumption of everything being in a single system of record, there's a bunch of other things you can't do. You can't build out a, I don't know, a permissioning system that looks at the various attributes across all of these products. You now suddenly have to do an integration and each of these products talks different languages. You can't do simple things, build a product and say, who is this person's manager? Most products, you can't do that. Most products you find some system of truth, export everybody's name and email address and a spreadsheet, have another email address or another name, maybe an employee ID of who that person reports to and upload that to another system, which by the way is immediately out of date because organizational structures change all the time."
+    },
+    {
+      "line": 527,
+      "text": "Jeremy Henrickson (01:02:31):"
+    },
+    {
+      "line": 528,
+      "text": "Well, first is my favorite series of books ever, which is the Baroque Cycle by Neal Stephenson. It's a nine-volume epic or three-volume, nine-book epic depending on how you want to look at it. But it's about the time just before and into the enlightenment, historical fiction, a lot of fun. And I also love the Culture series by Iain Banks, which is just super fun, far-future sort of universe that I've really enjoyed."
+    }
+  ]
+}

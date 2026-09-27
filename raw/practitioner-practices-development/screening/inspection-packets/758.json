@@ -1,0 +1,26 @@
+{
+  "id": 758,
+  "title": "Inside ChatGPT: The fastest growing product in history | Nick Turley (OpenAI)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/nick-turley/transcript.md",
+  "sha256": "33910180512bda4fcb11b7aa3a2241c078870061d03f3838dbe33f12ae5a3cd2",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 19019,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 37,
+      "offset": 847,
+      "text": "You were a product leader at Dropbox, then "
+    },
+    {
+      "line": 301,
+      "offset": 34235,
+      "text": "One thing we've learned, I'll answer that question in a minute, but one thing we've learned with ChatGPT is that there really is n"
+    }
+  ]
+}

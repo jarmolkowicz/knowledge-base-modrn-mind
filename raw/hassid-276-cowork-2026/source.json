@@ -1,0 +1,51 @@
+{
+  "slug": "hassid-276-cowork-2026",
+  "original_filename": "claude-cowork.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 4913,
+  "hash": "5048fbeaa5f9074dbc27f3ea6e7530b725406629748f39477f8132ac0770b186",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:42Z",
+  "decisions": [
+    {
+      "stage": "practice_review",
+      "date": "2026-09-26",
+      "decision": "retain",
+      "scope": "draft_only",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/hassid-276-cowork-2026.md",
+      "practices": [
+        "practices/curate-context-and-clarify-before-drafting.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 549,
+  "screening_id": 276,
+  "collected_from": "raw/inbox/Practical/Ruben Hassid/claude-cowork.md",
+  "bibliographic_metadata": {
+    "title": "Cowork.",
+    "date": "2026-03-05",
+    "url": "https://ruben.substack.com/p/claude-cowork",
+    "collection": "Ruben Hassid"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

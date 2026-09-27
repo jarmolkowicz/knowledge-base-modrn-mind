@@ -1,0 +1,51 @@
+{
+  "slug": "illingworth-437-is-your-ai-overwriting-your-memory-2026",
+  "original_filename": "ai-overwriting-your-memory.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 1431,
+  "hash": "bc0528fd699ebf2690802662f02e973ac11f2037be63bb56f3b48a6d1b2c24a6",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:41Z",
+  "decisions": [
+    {
+      "stage": "practice_review",
+      "date": "2026-09-26",
+      "decision": "counterexample",
+      "scope": "draft_only",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/illingworth-437-is-your-ai-overwriting-your-memory-2026.md",
+      "practices": [
+        "practices/preserve-an-ai-claim-before-challenging-it.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 113,
+  "screening_id": 437,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/ai-overwriting-your-memory.md",
+  "bibliographic_metadata": {
+    "title": "Is your AI overwriting your memory?",
+    "date": "2026-02-10",
+    "url": "https://theslowai.substack.com/p/ai-overwriting-your-memory",
+    "collection": "Sam Illingworth"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

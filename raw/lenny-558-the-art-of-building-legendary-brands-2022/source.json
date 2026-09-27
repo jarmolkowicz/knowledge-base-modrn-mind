@@ -1,0 +1,51 @@
+{
+  "slug": "lenny-558-the-art-of-building-legendary-brands-2022",
+  "original_filename": "transcript.md",
+  "format": "md",
+  "source_type": "transcript",
+  "word_count": 17333,
+  "hash": "39b729fbcff757967868586a6cc85af1430cf4f1ab8c1c561ef957f2f026b757",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:45Z",
+  "decisions": [
+    {
+      "stage": "practice-review",
+      "outcome": "retain",
+      "date": "2026-09-26",
+      "reason": "Retain the human naming procedure as a transferable baseline; optional AI additions are inference.",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/lenny-558-the-art-of-building-legendary-brands-2022.md",
+      "practices": [
+        "practices/set-creative-criteria-before-generating.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 732,
+  "screening_id": 558,
+  "collected_from": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/arielle-jackson/transcript.md",
+  "bibliographic_metadata": {
+    "title": "The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)",
+    "date": "2022-08-18",
+    "url": "https://www.youtube.com/watch?v=mJEWns2hyDs",
+    "collection": "Lenny's Podcast"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

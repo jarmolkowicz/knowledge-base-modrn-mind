@@ -1,0 +1,26 @@
+{
+  "id": 487,
+  "group_index": 16,
+  "decision": "retain_counterexample_only",
+  "coverage": "Read the complete available local article body; linked images, videos and external claims not independently inspected.",
+  "locators": [
+    "L33–43, L52–63, L77–80"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Model guesses, user corrects it, model adapts."
+  ],
+  "proposed_outcomes": [
+    "Notice sensations and develop expressive language."
+  ],
+  "limits": [
+    "The exchange shows responsive improvisation, not access to bodily state. A human-first writing exercise would be an editorial redesign, not a validated procedure from this source."
+  ],
+  "related_entries": [],
+  "practice_files": [],
+  "role": "counterexample",
+  "review_note": "Asks AI to guess bodily feeling before supplying the person’s experience.",
+  "author": "Sam Illingworth",
+  "integration_decision": "pending",
+  "draft_only": true
+}

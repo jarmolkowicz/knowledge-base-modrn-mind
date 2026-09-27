@@ -1,0 +1,24 @@
+{
+  "id": 42,
+  "title": "On God and LLMs",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/on-god-and-llms.md",
+  "sha256": "3a702b78aa4834ee83eb3655f2b4b6264565d5de72e991befe85f145c2697a24",
+  "access": "public-page",
+  "kind": "article",
+  "words": 508,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 336,
+      "text": "The second chapter of Genesis poetically describes the beginning of the human story. “The Lord formed Adam from the dust"
+    },
+    {
+      "line": 29,
+      "offset": 2545,
+      "text": "Should we be so quick to extend the role of *ruach memalela* to machines, allowing them, seemingly all at once, to become active participants in a ritual so defining to our experience? Should we let AI write and speak on our behalf, or serve as a golemic conversation partner when authentic human companionship isn’t readily available? Something about this, fo"
+    }
+  ]
+}

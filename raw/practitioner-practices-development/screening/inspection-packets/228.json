@@ -1,0 +1,24 @@
+{
+  "id": 228,
+  "title": "16 million stolen conversations",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/three-labs-just-stole-claudes-brain.md",
+  "sha256": "3c817adc2d59ea2d465012f8b1a7a19e6797a27e4e5b0add606d7d5a41662073",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 381,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 214,
+      "text": "Three Chinese AI labs just ran 16 million conversations with Claude through 24,000 fak"
+    },
+    {
+      "line": 12,
+      "offset": 512,
+      "text": "This post argues that distillation isn’t espionage. It’s piracy. And like every piracy wave before it, it doesn’t stop — it slows down. The real story is that the incentive to extract frontier capabilities applies to everyone, not just state-backed Chinese lab"
+    }
+  ]
+}

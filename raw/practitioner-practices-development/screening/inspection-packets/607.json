@@ -1,0 +1,26 @@
+{
+  "id": 607,
+  "title": "How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/dhanji-r-prasanna/transcript.md",
+  "sha256": "5858b55a486b04d0dfb5654a046ce69e795df71b6d4949cdc0889e48f5035884",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15108,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 843,
+      "text": "There's a lot of talk about productivity gains throug"
+    },
+    {
+      "line": 214,
+      "offset": 22686,
+      "text": "So Goose is a general purpose AI agent. So you can think of it as a desktop tool or a program that you can download and install on your computer and then it has"
+    }
+  ]
+}

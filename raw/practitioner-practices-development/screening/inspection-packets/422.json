@@ -1,0 +1,38 @@
+{
+  "id": 422,
+  "title": "You Did Not Learn That With AI",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-dunning-kruger-illusion-mastery.md",
+  "sha256": "6680a262da0ea44655d1f867d7fe76eaf5d41db103d468ae5ebcb0a645a3ec1d",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1375,
+  "headings": [
+    "**In this post I will:**",
+    "**The study that measured the gap**",
+    "**Why everyone will call this Dunning-Kruger, and why that is only half right**",
+    "**What the tool does to you**",
+    "**The fix is cheap, and it has nothing to do with detectors**",
+    "**The trial that shows what to do**",
+    "**What you ask decides what you get**",
+    "**The protocol**",
+    "**One: write your diagnosis before the model writes its own**",
+    "**Two: ask the broad question, not the narrow one**",
+    "**Three: close the laptop and reproduce it**",
+    "**Four: notice who this costs most**",
+    "**What this is really about**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 401,
+      "text": "You know the feeling at the end of a good session with a chatbot. The "
+    },
+    {
+      "line": 93,
+      "offset": 5645,
+      "text": "There were four conditions that were tested: peer feedback only, AI feedback delivered straight away, AI feedback given only after the student had assessed their own draft against the criteria, and a hybrid add"
+    }
+  ]
+}

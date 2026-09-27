@@ -1,0 +1,35 @@
+{
+  "id": 400,
+  "title": "The Emerging Field of LLM Ops",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/the-emerging-field-of-llm-ops.md",
+  "sha256": "a2c108ac79998705deceae382936df095aa2178269324403642b85a80eac8abb",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1228,
+  "headings": [
+    "What is LLM Ops?",
+    "Why LLM Ops?",
+    "User Experience",
+    "Compliance and Safety",
+    "Development and Debugging",
+    "Quality Assurance",
+    "Cost Management",
+    "Latency and Performance",
+    "Conclusion",
+    "Need More Help? 👋"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 194,
+      "text": "Companies are rushing to build LLM-powered apps."
+    },
+    {
+      "line": 108,
+      "offset": 3362,
+      "text": "LLM tasks are often open-ended. This makes human feedback important in evaluating LLM performance. Dedicated LLM Ops tools can also provide a unified way to gather labeled data from human feedback."
+    }
+  ]
+}

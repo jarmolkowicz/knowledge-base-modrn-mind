@@ -1,0 +1,27 @@
+{
+  "queue_position": 48,
+  "id": 207,
+  "path": "raw/inbox/Practical/Nate B Jones/prompting-just-split-into-4-different.md",
+  "sha256": "9a5b294f0d070fdd01283970e99d5365316847ac04bf3720c8ae0e186f719f7f",
+  "title": "Prompting just split into 4 different skills",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 12,
+      "text": "Here’s what I mean. Two people sit down with the same model on the same Tuesday morning. Same subscription, same context window. One types a request, gets back something 70% right, spends forty minutes cleaning it up — good use of AI, maybe 30% faster than doing it by hand. The other spends eleven minutes writing a structured specification, hands it to an autonomous agent, makes coffee, and comes back to finished deliverables that hit every quality bar she defined up front. Does this five times before lunch. Her output this week would have taken three weeks in 2024."
+    },
+    {
+      "line": 14,
+      "text": "Same model. Same Tuesday. The difference isn’t talent or technical ability. It’s that she’s practicing a discipline that most people don’t know exists yet — and the gap between the people who’ve found it and the people who haven’t is already 10x and compounding. Three model releases in February alone (Opus 4.6, GPT-5.3-Codex, Gemini 3.1 Pro) shipped with autonomous agent capabilities that make chat-based prompting feel like bringing a phone book to a search engine fight. The models stopped being conversation partners and started being workers. Workers that run for hours, then days, without checking in. And the skill of directing a worker you can’t supervise in real time is a fundamentally different discipline from the skill of having a productive conversation."
+    },
+    {
+      "line": 21,
+      "text": "- **What Tobi Lütke figured out first.** The Shopify CEO’s insight about context engineering that made him a better leader, not just a better AI user."
+    },
+    {
+      "line": 24,
+      "text": "- **7 prompts and a pre-flight check.** A pen-and-paper thinking exercise before you touch AI, a 10-minute quick start that scores where you stand and builds your first context document, and the full build-out — specification engineer, intent framework builder, eval harness, constraint architecture designer, and the problem statement rewriter that trains the Lütke primitive. Start with the pre-flight."
+    }
+  ]
+}

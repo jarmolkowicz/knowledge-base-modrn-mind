@@ -1,0 +1,40 @@
+{
+  "id": 427,
+  "group_index": 4,
+  "decision": "retain",
+  "role": "origin",
+  "locators": [
+    "L22, Mahelet G Fikru credit",
+    "L30–40, exercise",
+    "L44–98, economics example and follow-up"
+  ],
+  "basis": "Mahelet G Fikru reports designing questions with ChatGPT and describes related flipped-classroom practice with personal cases, coauthored with Sam Illingworth.",
+  "reported_outcomes": [
+    "Shows a revised EV supply/demand question and describes asking follow-up questions on student examples; no assessed learning gain."
+  ],
+  "proposed_outcomes": [
+    "Elicit an explanation of why a concept applies or fails in a concrete case."
+  ],
+  "limits": [
+    "Personal examples and counterintuitive questions are not AI-proof. A model can invent experiences or answer the question. Difficulty alone does not establish retention, and a fluent answer is not sufficient evidence of human understanding."
+  ],
+  "related_entries": [
+    "bjork-desirable-difficulties-2011",
+    "fernandes-metacognition-2025"
+  ],
+  "review_note": "Retain teacher-checked case explanation; reject the headline claim of questions AI cannot fake.",
+  "practitioner": "Offer a shared case for people who cannot or do not wish to disclose personal experience; use live follow-up and explicit criteria.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [
+    "raw/illingworth-427-how-to-test-for-real-understanding-2026/drafts/practices/ask-for-an-explanation-in-a-specific-case.md"
+  ],
+  "source_path": "raw/illingworth-427-how-to-test-for-real-understanding-2026/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/ask-for-an-explanation-in-a-specific-case.md"
+  ],
+  "historical_drafts_retained": true
+}

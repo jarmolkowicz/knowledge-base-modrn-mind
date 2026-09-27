@@ -1,0 +1,24 @@
+{
+  "scope": "all selected sources",
+  "sources": 139,
+  "reviews": 139,
+  "original_hashes_verified": 139,
+  "practice_files": 78,
+  "local_links_checked": 755,
+  "errors": [],
+  "findings_by_source": [
+    {
+      "id": 52,
+      "workbench": "raw/newport-052-the-satisfying-strain-of-learning-hard-2026",
+      "findings": [
+        {
+          "check": "slug_year_mismatch",
+          "entry": "newport-052-the-satisfying-strain-of-learning-hard-2026",
+          "issue": "slug ends in -2026 but source.md page 1 mentions years ['2010', '2011', '2012'] only — none of which match. Likely the slug year is wrong.",
+          "fix": "check the source's actual publication year. If correct, rename the workbench dir + update source.json: slug to use the right year."
+        }
+      ]
+    }
+  ],
+  "integration_approved": false
+}

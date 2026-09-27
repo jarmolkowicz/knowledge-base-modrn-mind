@@ -1,0 +1,91 @@
+{
+  "queue_position": 179,
+  "id": 526,
+  "path": "raw/inbox/Practical/Sam Illingworth/why-humanities-are-the-moat-against-ai.md",
+  "sha256": "c07bee670343c355af4a2e58a5aaaaaa6df823a2b7e6e10cba2b64c879cbfe35",
+  "title": "The Humanities Are the Moat",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L17 #### **In this post I will:**",
+    "L25 #### **Why naming a robot Plato tells you everything**",
+    "L41 #### **Why the humanities have been defunded for twenty years**",
+    "L53 #### **The most important skills AI cannot replicate are humanities skills**",
+    "L65 #### **What happens when you automate the thinking tasks**",
+    "L75 #### **Why the humanities are the moat against AI**",
+    "L93 #### **The hardest question in critical AI literacy**",
+    "L109 #### **Five texts that build the skills AI cannot replicate**",
+    "L117 #### **Rhetoric, Aristotle (4th century BCE)**",
+    "L125 #### **Frankenstein, Mary Shelley (1818)**",
+    "L133 #### **Do Androids Dream of Electric Sheep?, Philip K. Dick (1968)**",
+    "L141 #### **Watchmen, Alan Moore and Dave Gibbons (1986)**",
+    "L149 #### **The Colonel, Carolyn Forché (1978)**",
+    "L161 #### **What these five texts share**",
+    "L169 #### **A note on what is missing from this list**"
+  ],
+  "passages": [
+    {
+      "line": 53,
+      "text": "#### **The most important skills AI cannot replicate are humanities skills**"
+    },
+    {
+      "line": 59,
+      "text": "What the OECD described is the absence of exactly what the humanities train you to do: evaluate, question, resist the first answer, and ask whether the output is actually good or merely fluent."
+    },
+    {
+      "line": 93,
+      "text": "#### **The hardest question in critical AI literacy**"
+    },
+    {
+      "line": 95,
+      "text": "There is a question I ask in my curriculum: what is the AI not saying?"
+    },
+    {
+      "line": 97,
+      "text": "It sounds simple. It is the hardest question in critical AI literacy. Because the AI always sounds complete. The output is fluent, structured, and confident. It reads like it has considered everything. The skill is noticing what it has not considered, and that skill has a name."
+    },
+    {
+      "line": 125,
+      "text": "#### **Frankenstein, Mary Shelley (1818)**"
+    },
+    {
+      "line": 129,
+      "text": "Shelley’s question is not whether the creature is dangerous. It is whether the creator has any right to abandon what he made. Victor Frankenstein builds something, refuses to take responsibility for it, and spends the rest of the novel blaming his creation for the consequences of his own negligence. Replace ‘creature’ with ‘model’ and the plot describes the entire AI safety debate."
+    },
+    {
+      "line": 133,
+      "text": "#### **Do Androids Dream of Electric Sheep?, Philip K. Dick (1968)**"
+    },
+    {
+      "line": 135,
+      "text": "Dick’s question is not whether machines can think. It is whether humans can still feel."
+    },
+    {
+      "line": 137,
+      "text": "The Voigt-Kampff test in the novel measures empathy, the one quality the androids cannot simulate. The test fails. Not because the androids pass it, but because the humans start failing it too."
+    },
+    {
+      "line": 141,
+      "text": "#### **Watchmen, Alan Moore and Dave Gibbons (1986)**"
+    },
+    {
+      "line": 143,
+      "text": "The question at the centre of *Watchmen* is not who has power. It is who decides what to do with it when nobody is looking."
+    },
+    {
+      "line": 149,
+      "text": "#### **The Colonel, Carolyn Forché (1978)**"
+    },
+    {
+      "line": 155,
+      "text": "And in the reporting, it does something that AI structurally cannot: it asks the reader to decide what the facts mean. There is no summary of this poem that captures what it does. You have to read it."
+    },
+    {
+      "line": 161,
+      "text": "#### **What these five texts share**"
+    },
+    {
+      "line": 169,
+      "text": "#### **A note on what is missing from this list**"
+    }
+  ]
+}

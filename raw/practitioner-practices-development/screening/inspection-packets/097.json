@@ -1,0 +1,26 @@
+{
+  "id": 97,
+  "title": "The Overhang",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/the-overhang.md",
+  "sha256": "bebed2646713bfc558ad3345c657704e4696885389b6aedd3d30f19b7f18e4df",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2105,
+  "headings": [
+    "An interlude about the pre-order bonus for my book"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 341,
+      "text": "We are still on an exponential curve of AI development. I try to put out a Substack post every coupl"
+    },
+    {
+      "line": 29,
+      "offset": 4673,
+      "text": "There are plenty of flaws in these efforts that you can spot. But they are also examples of the AI exercising a kind of judgement and creativity, things that not long ago were considered uniquely human traits. And they were all done with just a fraction of the token budget of the ChatGPT account I p"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 392,
+  "title": "Hubspot featured my content system. Try it for $1.",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/hubspot-featured-my-content-system-unbound-2026.md",
+  "sha256": "9b46193c72512d1fd9604294d4e82cde4ceab17e28f605f5aee3423597fcf9ec",
+  "access": "public-page",
+  "kind": "article",
+  "words": 252,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 447,
+      "text": "HubSpot’s CMO, **Kipp Bodnar**, and SVP, **Kieran Flanagan**, just fea"
+    },
+    {
+      "line": 36,
+      "offset": 1098,
+      "text": "- **Multiply it with AI.** Use Claude, ChatGPT, or your favorite AI agent to turn it into posts for different platforms."
+    }
+  ]
+}

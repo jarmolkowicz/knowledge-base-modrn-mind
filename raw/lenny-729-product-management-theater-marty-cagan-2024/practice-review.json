@@ -1,0 +1,37 @@
+{
+  "id": 729,
+  "group_index": 2,
+  "decision": "merge",
+  "role": "support",
+  "locators": [
+    "00:49:44–00:52:07, L272–288"
+  ],
+  "basis": "Marty Cagan describes reversing his own AI-first product-management advice after observing people overtrust early outputs.",
+  "reported_outcomes": [
+    "Reports people optimizing an AI-suggested wrong direction; recommends a human starting point then challenge or improvement. No comparative intervention results."
+  ],
+  "proposed_outcomes": [
+    "Keep an initial product judgment available for comparison."
+  ],
+  "limits": [
+    "Informal observations, not a causal trial or a measured rate of overtrust. Product-strategy comments elsewhere in the interview are outside this draft."
+  ],
+  "related_entries": [
+    "think-first"
+  ],
+  "review_note": "Merge into the independent-starting-point card, adding a practitioner reversal account rather than treating it as experimental confirmation.",
+  "practitioner": "The first human answer can also be wrong; judge revisions using evidence rather than personal ownership alone.",
+  "coverage": "Read metadata/intro and complete relevant exchanges with surrounding discussion at the locators below; not the full episode.",
+  "practice_files": [
+    "raw/mollick-066-against-brain-damage-2025/drafts/practices/save-your-own-starting-point.md"
+  ],
+  "source_path": "raw/lenny-729-product-management-theater-marty-cagan-2024/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/save-your-own-starting-point.md"
+  ],
+  "historical_drafts_retained": true
+}

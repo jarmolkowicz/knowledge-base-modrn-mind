@@ -1,0 +1,37 @@
+{
+  "queue_position": 196,
+  "id": 552,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/anton-osika/transcript.md",
+  "sha256": "c3c426cbed2f42edee9c94349d2a7ca81c42c6f4f2061404fab9da9f08d750a3",
+  "title": "Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 60,
+      "text": "Lenny Rachitsky (00:01:15):"
+    },
+    {
+      "line": 61,
+      "text": "Today, my guest is Anton O-C-K. Anton is co-founder and CEO of Lovable, which is essentially an AI engineer that takes an English prompt and codes a product for you in minutes. You can then talk to it, iterate on the product, and then launch it to the world. It's one of the fastest growing products in history. The fastest growing startup in Europe ever, and as Anton describes, their goal for Lovable is for it to be the last piece of software that anybody has to write because it'll be able to create all future products for us. They launched just a few months ago in the first four weeks, hit 4 million ARR in the first two months across 10 million ARR, all with just 15 people. Absurd. In our conversation, we covered a lot of ground, including a live demo of Lovable, how their team operates, how they hire, what has most enabled their team to scale this quickly with so few people, pro tips for using Lovable, how it all started, how he recommends you build product teams going forward with tools like this existing, what skills will matter more and less going forward?"
+    },
+    {
+      "line": 399,
+      "text": "Anton Osika (00:44:39):"
+    },
+    {
+      "line": 400,
+      "text": "So 12 at least write code at least part-time."
+    },
+    {
+      "line": 597,
+      "text": "Anton Osika (01:07:24):"
+    },
+    {
+      "line": 598,
+      "text": "I mean, my recommendation here, if you're in product is to use Lovable to build software and learn that AI tool and then you should use ChatMode and ChatMode, I have to add, is something you activate in your user profile. It's not launched in the main product, so it's in labs, but if you add that flag, then you can use ChatMode. If you want to learn some other AI tool, then you should ask that tool or ask Cloud, ChatGPT about how that topic, that domain works."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 533,
+  "group_index": 17,
+  "decision": "draft_with_limits",
+  "coverage": "Read relevant complete transcript exchanges: L70–107; 00:03:45–00:11:39. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L70–107; 00:03:45–00:11:39"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Describes collecting podcast-topic feedback from around ten people."
+  ],
+  "proposed_outcomes": [
+    "Make advice contextual and surface surprises."
+  ],
+  "limits": [
+    "Responses are a convenience sample, not votes establishing the right answer. Her career-question example partly leads despite the stated non-leading principle. Estate-planning and executive-function claims excluded."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/lenny-533-feeling-stuck-here-s-how-to-2023/drafts/practices/ask-contextual-human-advisers.md"
+  ],
+  "role": "origin",
+  "review_note": "Curiosity loops: ask a specific, low-burden question, solicit reasons, choose both domain experts and people who know you, then report back.",
+  "author": "Ada Chen Rekhi",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/ask-contextual-human-advisers.md"
+  ],
+  "historical_drafts_retained": true
+}

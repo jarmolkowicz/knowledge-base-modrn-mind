@@ -1,0 +1,45 @@
+{
+  "slug": "lenny-802-why-great-ai-products-are-all-2024",
+  "original_filename": "transcript.md",
+  "format": "md",
+  "source_type": "transcript",
+  "word_count": 17835,
+  "hash": "e10d19fe32fe41883fbef49f91ecd8f89e1aebfff1a396cb0eeb498c5b240a6c",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:48Z",
+  "decisions": [
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/lenny-802-why-great-ai-products-are-all-2024.md",
+      "practices": [
+        "practices/seek-contrary-customer-evidence.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 521,
+  "screening_id": 802,
+  "collected_from": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/shaun-clowes/transcript.md",
+  "bibliographic_metadata": {
+    "title": "Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)",
+    "date": "2024-12-29",
+    "url": "https://www.youtube.com/watch?v=yVS1gTAQYSU",
+    "collection": "Lenny's Podcast"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "practice_review": "practice-review.json"
+}

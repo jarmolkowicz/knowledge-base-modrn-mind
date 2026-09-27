@@ -1,0 +1,41 @@
+{
+  "id": 515,
+  "author": "Alena Gorb, with Sam Illingworth",
+  "group_index": 10,
+  "decision": "merge",
+  "locators": [
+    "L40–58, inquiry prompt",
+    "L62–88, Sonnet demonstration",
+    "L104–110, broad claims"
+  ],
+  "basis": "First-person demonstration and proposed constraint exercise",
+  "reported_outcomes": [
+    "Gorb reports recognizing tension between a newsletter ambition and expectations of success."
+  ],
+  "proposed_outcomes": [
+    "Move from generating options to examining reasons for commitment."
+  ],
+  "limits": [
+    "Discomfort is not truth and may indicate an unsuitable question.",
+    "The model’s claim about needing external validation is an interpretation, not a diagnosis.",
+    "A fixed six-month refusal to pivot is not established good practice; the article’s universal cowardice and cognition claims are excluded."
+  ],
+  "review_note": "Merge as a commitment-question variant; retain the useful request to define success concretely and reject psychological certainty.",
+  "coverage": "Close-read all 142 lines of available extracted article text; image-only content and linked media not reviewed.",
+  "related_entries": [
+    "agency",
+    "guingrich-belief-offloading-2026",
+    "belief-offloading"
+  ],
+  "practice_files": [
+    "raw/illingworth-512-use-ai-to-examine-your-beliefs-2025/drafts/practices/answer-questions-about-your-belief.md"
+  ],
+  "role": "support",
+  "draft_only": true,
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/answer-questions-about-your-belief.md"
+  ],
+  "historical_drafts_retained": true
+}

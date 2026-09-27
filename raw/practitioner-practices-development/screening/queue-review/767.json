@@ -1,0 +1,45 @@
+{
+  "queue_position": 345,
+  "id": 767,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/noah-weiss/transcript.md",
+  "sha256": "fb81b5cd366fb2edc2709fe91864f7e0e4db254525d65efc0189516fc1809c5d",
+  "title": "The 10 traits of great PMs, AI, and Slack’s approach to product | Noah Weiss (Slack, Google)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 42,
+      "text": "Noah Weiss (00:00:19):"
+    },
+    {
+      "line": 43,
+      "text": "We did that with a lot of these native audiovisual products like huddles and clips really in the pandemic because our customers were demanding it from us. I think in the AI space, we're trying to hear from customers, what do you wish Slack could do if it had these new superpowers? Let's incubate a couple teams or prototype, give them space to run and pilot and then get something to launch that's amazing. Blows people away. That's the formula that we've seen."
+    },
+    {
+      "line": 261,
+      "text": "Noah Weiss (00:22:51):"
+    },
+    {
+      "line": 262,
+      "text": "I can safely say we have a lot of prototypes internally where we are playing with this. I think it is actually funny as a aside in one of the original Slack, I don't know, product vision decks back in 2014. There was our whole strategy, there's four parts. Then part number four, which was a joke at the time, was then do magic AI stuff on top."
+    },
+    {
+      "line": 429,
+      "text": "Noah Weiss (00:39:49):"
+    },
+    {
+      "line": 430,
+      "text": "They were like, \"We love living in Slack all day. But we feel disconnected from our teammates when we can't be in the same physical place. What can you do to help us?\" That's where that came from. I think in the AI space now, it's a similar thing, which is what we're trying to hear from customers. What do you wish Slack could do if it had these new superpowers? Let's incubate a couple teams, a prototype there and then figure out what can get to real product market fit."
+    },
+    {
+      "line": 846,
+      "text": "Noah Weiss (01:21:41):"
+    },
+    {
+      "line": 847,
+      "text": "Yeah. It turned out there was a whole world of baby tech, which I had no idea. I mean, it makes sense that existed, but you never know about until you're a parent. Now, I'm obsessed."
+    }
+  ]
+}

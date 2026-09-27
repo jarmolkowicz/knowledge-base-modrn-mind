@@ -1,0 +1,98 @@
+{
+  "queue_position": 83,
+  "id": 338,
+  "path": "raw/inbox/Practical/Ruben Hassid/the-7-deadly-sins-of-prompting.md",
+  "sha256": "0058607ecfdd34b300b8bb44f6d557e11020b13904b1fba7d86b90a7bd969d7d",
+  "title": "Sins.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L26 ## The 7 sins and their fixes",
+    "L28 ### 1. No context",
+    "L38 ### 2. Vague instructions",
+    "L48 ### 3. Treating it like Google",
+    "L58 ### 4. Asking for everything at once",
+    "L72 ### 5. Not iterating",
+    "L86 ### 6. No format or tone",
+    "L100 ### 7. No examples",
+    "L114 ## The R-E-X Prompt",
+    "L145 ## My Prompt Maker"
+  ],
+  "passages": [
+    {
+      "line": 38,
+      "text": "### 2. Vague instructions"
+    },
+    {
+      "line": 46,
+      "text": "**After**: “Write a 1,000-word brief on the three most important B2B AI marketing trends for Q3 2025. Include one data point per trend with a source and a one-line implication.”"
+    },
+    {
+      "line": 48,
+      "text": "### 3. Treating it like Google"
+    },
+    {
+      "line": 56,
+      "text": "**After**: “Draft a 5-step onboarding flow for a B2B SaaS. Include the email subjects, timing in days, and one KPI per step.”"
+    },
+    {
+      "line": 58,
+      "text": "### 4. Asking for everything at once"
+    },
+    {
+      "line": 68,
+      "text": "After, **step 2**: “Using the chosen JTBD 2 and 4, write homepage H1 options (5) within 8 words each.”"
+    },
+    {
+      "line": 72,
+      "text": "### 5. Not iterating"
+    },
+    {
+      "line": 80,
+      "text": "After, **step 1**: “List 5 potential angles for my article about [topic] to get eyeballs from [audience]. Focus on [niche].”"
+    },
+    {
+      "line": 82,
+      "text": "After, **step 2**: “Using the chosen angle, let’s write 10 SEO-ready titles with their one-liners summaries.”"
+    },
+    {
+      "line": 84,
+      "text": "After, **step 3**: “Using the chosen titles and one-liner, let’s create the outline of the article to…”"
+    },
+    {
+      "line": 86,
+      "text": "### 6. No format or tone"
+    },
+    {
+      "line": 94,
+      "text": "**After**: “Write a LinkedIn post. 220 words. Hook (2 lines), 3 bullets, one CTA. Tone: direct and practical, no buzzwords, plain English.”"
+    },
+    {
+      "line": 100,
+      "text": "### 7. No examples"
+    },
+    {
+      "line": 108,
+      "text": "**After**: “Model the tone and density on these two snippets [paste]. Avoid this anti-example [paste]. Keep sentence length under 16 words.”"
+    },
+    {
+      "line": 114,
+      "text": "## The R-E-X Prompt"
+    },
+    {
+      "line": 133,
+      "text": "> Example to imitate: “CTR 1.8% vs 1.2% (+0.6pp). CPC $2.45 vs $3.10 (−21%). So what: shift budget to exact-match.”"
+    },
+    {
+      "line": 135,
+      "text": "> Inputs I’ll paste: timeframe; channels; our metrics; benchmarks (or “none”). If anything’s missing, ask one precise question and stop."
+    },
+    {
+      "line": 145,
+      "text": "## My Prompt Maker"
+    },
+    {
+      "line": 171,
+      "text": "✦ For the full archive of my blogs: https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing"
+    }
+  ]
+}

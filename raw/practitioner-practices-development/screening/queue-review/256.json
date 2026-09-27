@@ -1,0 +1,118 @@
+{
+  "queue_position": 49,
+  "id": 256,
+  "path": "raw/inbox/Practical/Ruben Hassid/1000000.md",
+  "sha256": "27ee16d472d323cebc69afe409a3e4895bc6d73f611ed95b2b8c6a10f5859a45",
+  "title": "1,000,000.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L49 ## **No one cares about you.**",
+    "L75 #### Readers only care about themselves.",
+    "L115 ## **Abuse me. Break my patterns.**",
+    "L139 #### How to hook.",
+    "L202 ## **Your media sucks.**",
+    "L242 #### Here’s a step-by-step example:",
+    "L288 ## **You are shamefully inconsistent.**",
+    "L294 #### Action produces information.",
+    "L312 ## **You don’t want 1,000,000 followers.**",
+    "L330 #### **Now, how can you go from** ***planning*** **to** ***mastering*****?**"
+  ],
+  "passages": [
+    {
+      "line": 30,
+      "text": "I grew my own account from 8,000 followers (pre-ChatGPT) to 770,000 followers (with ChatGPT first, and now Claude, Grok, and Gemini) in 3 years."
+    },
+    {
+      "line": 49,
+      "text": "## **No one cares about you.**"
+    },
+    {
+      "line": 63,
+      "text": "I might have 700k+ followers, but I (still) never write a personal post. I know no one cares about *me*. Strangers can’t relate to *my* achievements."
+    },
+    {
+      "line": 75,
+      "text": "#### Readers only care about themselves."
+    },
+    {
+      "line": 81,
+      "text": "Imagine if I write here in this article that my Substack made me hundreds of thousands of dollars - **do you care?** No, you don’t. It does not concern you."
+    },
+    {
+      "line": 83,
+      "text": "You will ask yourself, *‘Why is he bragging? He wants to sell me something?’* You are not involved. You have other things to care about. Now, if I said, “*Here’s how YOU can generate $1,000 with Substack*,” you'd suddenly care."
+    },
+    {
+      "line": 98,
+      "text": "DO NOT start executing yet. Instead, ask me clarifying questions (use AskUserQuestion) so we can refine the approach together step by step. "
+    },
+    {
+      "line": 115,
+      "text": "## **Abuse me. Break my patterns.**"
+    },
+    {
+      "line": 129,
+      "text": "**Music** — Nirvana. Hair metal was king. Then Kurt Cobain showed up with a $20 guitar and killed it in one song."
+    },
+    {
+      "line": 131,
+      "text": "**Painting** — Picasso. Everyone was painting what they saw. He painted what they felt. People hated it. Then they couldn’t stop looking."
+    },
+    {
+      "line": 133,
+      "text": "**Device** — iPhone. Every phone had a keyboard. Steve Jobs removed it. The entire industry called him insane. Then they all copied him."
+    },
+    {
+      "line": 139,
+      "text": "#### How to hook."
+    },
+    {
+      "line": 143,
+      "text": "What’s considered a hook on Linkedin? It’s exactly 2 sentences of 55 characters before people have to click “… more” to read more."
+    },
+    {
+      "line": 155,
+      "text": "(No, Claude won’t write the perfect one-shot hook. But it will create 100 variations. Your taste will want to pick up and try one. Then you will post 100 times, and your experience will sharpen your taste.)"
+    },
+    {
+      "line": 159,
+      "text": "3. Use the prompt template (I shared above) to make a solid draft of your post. Then move on to the hook. Copy and paste this prompt (as a follow-up):"
+    },
+    {
+      "line": 162,
+      "text": "Now let's write the hook for this post — the first 2 lines readers see before they have to click \"… more\" on LinkedIn (roughly 2 short sentences of ~55 characters max each)."
+    },
+    {
+      "line": 168,
+      "text": "- It should create an open loop: an unanswered question, a contradiction, or a bold claim the reader can't ignore."
+    },
+    {
+      "line": 181,
+      "text": "Generate 10 hook options organized by technique. For each, write the exact 2 lines as they would appear on LinkedIn (keep it tight — every character counts)."
+    },
+    {
+      "line": 202,
+      "text": "## **Your media sucks.**"
+    },
+    {
+      "line": 216,
+      "text": "1. **“The text is what matters”** - no, only the hook and your media matter. A wall of text won’t help you."
+    },
+    {
+      "line": 242,
+      "text": "#### Here’s a step-by-step example:"
+    },
+    {
+      "line": 262,
+      "text": "4 - Then go to Pinterest to find a “handwritten style” infographic that feels organic. Your goal is to NOT look like an ad."
+    },
+    {
+      "line": 330,
+      "text": "#### **Now, how can you go from** ***planning*** **to** ***mastering*****?**"
+    },
+    {
+      "line": 346,
+      "text": "###### ***archive of my past blogs: https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing***"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 781,
+  "title": "Marketplace lessons from Uber, Airbnb, Bumble, and more | Ramesh Johari (Stanford professor)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ramesh-johari/transcript.md",
+  "sha256": "5ed2b618fd9b91ec54083dcd697d9d46b57e524f09ac29f59814cbcb8b79114b",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 16497,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 870,
+      "text": "Marketplaces are a little bit like a game o"
+    },
+    {
+      "line": 262,
+      "offset": 35362,
+      "text": "And one of the first things I was asked to think about is, well, okay, someone comes to oDesk, post a job, workers apply to that j"
+    }
+  ]
+}

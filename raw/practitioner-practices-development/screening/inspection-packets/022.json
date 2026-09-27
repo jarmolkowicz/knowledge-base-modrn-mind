@@ -1,0 +1,24 @@
+{
+  "id": 22,
+  "title": "Avoiding Digital Productivity Traps",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/avoiding-digital-productivity-traps.md",
+  "sha256": "cedec8c43a6ef05d60772bb87321d1b602257c0c6f1e026b1b9c2c48af0e30eb",
+  "access": "public-page",
+  "kind": "article",
+  "words": 557,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 396,
+      "text": "​Last week​ in this newsletter, I summarized some interesting results from ​a study​ that analyzed the behavior of 164,0"
+    },
+    {
+      "line": 35,
+      "offset": 2862,
+      "text": "Accordingly, any tool that could help him cultivate more such relationships and gather better data from the relationships he had already formed would directly improve his productivity. Compare this, for example, to using Claude Code to speed up the process of producing plots for his papers. This might, in limited windows of time, make his job more convenient"
+    }
+  ]
+}

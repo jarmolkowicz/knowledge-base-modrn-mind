@@ -1,0 +1,26 @@
+{
+  "id": 54,
+  "title": "What Do Social Media Companies Fear? Time Management.",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/what-do-social-media-companies-fear-time-management.md",
+  "sha256": "ea21813794149d07f441735fdfbab40d92e80a01e3926a0d576f75544b3e6462",
+  "access": "public-page",
+  "kind": "article",
+  "words": 376,
+  "headings": [
+    "**In Other News**:"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 448,
+      "text": "I recently came across an interesting academic article in the journal *Frontiers in Psychology.* It was titled, ​“The re"
+    },
+    {
+      "line": 39,
+      "offset": 2767,
+      "text": "(More generally, I’ve been considering starting a separate weekly podcast/newsletter dedicated to providing a reality check on recent AI news. It feels like it might be useful to separate this discussion from my existing podcast and newsletter, which are more focused on how individuals can seek depth in a distracted world. But also, maybe this is a bad idea?"
+    }
+  ]
+}

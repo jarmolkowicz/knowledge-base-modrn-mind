@@ -1,0 +1,30 @@
+{
+  "id": 427,
+  "title": "How to Test for Real Understanding When AI Makes Every Answer Sound Right",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-fluency-trap-test-real-understanding.md",
+  "sha256": "3a0c97379eab4a2af4559fd65ff1b435416c07dfe9f4167dcc383b015a8d3e35",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1987,
+  "headings": [
+    "**How to design assessment questions that AI cannot fake**",
+    "**A moment from** [Mahelet G Fikru](https://open.substack.com/users/399759399-mahelet-g-fikru?utm_source=mentions)",
+    "**What to Share**",
+    "**Why AI fluency is a threat to learning**",
+    "**From [Is your AI overwriting your memory?](http://Is your AI overwriting your memory?)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 309,
+      "text": "Fluency is the most deceptive output of AI. It mimics expertise withou"
+    },
+    {
+      "line": 108,
+      "offset": 8699,
+      "text": "Try the diagnostic prompt on a topic you teach or know well. Look at the question AI produces and ask yourself whether your students could answer it by copying the output back into the same tool. If they could,"
+    }
+  ]
+}

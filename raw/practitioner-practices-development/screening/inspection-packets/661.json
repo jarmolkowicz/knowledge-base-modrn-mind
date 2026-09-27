@@ -1,0 +1,26 @@
+{
+  "id": 661,
+  "title": "The future of AI in software development | Inbal Shani (CPO of GitHub)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/inbal-s/transcript.md",
+  "sha256": "11ff455624c4ef4de8b007725d661c9beae9c8a3634f344b2b8a83daff9a71ac",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 9640,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 789,
+      "text": "The user of the AI tools to develop software n"
+    },
+    {
+      "line": 207,
+      "offset": 24102,
+      "text": "So I think that the world of the metrics for AI is really a big one. We are working a lot with our customers as they're asking the same ques"
+    }
+  ]
+}

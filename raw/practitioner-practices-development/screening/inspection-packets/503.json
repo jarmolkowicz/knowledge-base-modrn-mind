@@ -1,0 +1,31 @@
+{
+  "id": 503,
+  "title": "Slow Takes Ep. 8: Between the Demo and the Desk",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-takes-ep-8-between-the-demo.md",
+  "sha256": "64dbd84439890fced96b9ffdb5a73c7176a5506a755e0c58ca3458eab531d735",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2083,
+  "headings": [
+    "1. Opus 4.7: is it really that much better?",
+    "2. Claude Design: end of Figma and Canva?",
+    "3. Proof of humanity: Tinder and Zoom want your eye",
+    "4. AI agents are about to live in your taskbar",
+    "5. Coventry Council signed anyway",
+    "The thread"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 430,
+      "text": "Anthropic released Opus 4.7 on Thursday. A day later it launched C"
+    },
+    {
+      "line": 45,
+      "offset": 5573,
+      "text": "Mike Krieger held his Figma board seat while Anthropic built the product that cut Figma’s share price. Three days between resignation and launch. No illegality alleged. The question is why boards tole"
+    }
+  ]
+}

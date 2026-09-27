@@ -1,0 +1,57 @@
+{
+  "queue_position": 117,
+  "id": 416,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-cognitive-costs-pattern-intuition.md",
+  "sha256": "48465b6fd0685d8d8d24788360cfea47516931005aeba575b80ecc115c225ea6",
+  "title": "What AI Takes When You Aren't Looking",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L28 #### **Step by step**",
+    "L44 #### Teach AI Something It Cannot Know",
+    "L56 #### **A moment from** [Ilia Karelin](https://open.substack.com/users/172048615-ilia-karelin?utm_source=mentions)",
+    "L76 #### **Stop AI from stealing your voice**",
+    "L82 #### **What to do with it**",
+    "L94 #### **Let’s Collaborate**",
+    "L100 #### Collaborating with Slow AI",
+    "L112 #### **Why this matters**",
+    "L130 #### **From [How to Minimise AI Hallucinations in Research and Writing](https://theslowai.substack.com/p/minimise-genai-hallucinations)**"
+  ],
+  "passages": [
+    {
+      "line": 20,
+      "text": "This week’s *Slow AI* prompt comes from Ilia Karelin, who writes*Prosper*, a publication for professionals trying to build thinking systems rather than prompt collections. This post aims to show how AI provides a diagnostic tool for personal blind spots."
+    },
+    {
+      "line": 28,
+      "text": "#### **Step by step**"
+    },
+    {
+      "line": 34,
+      "text": "Set boundaries before you begin. Ask for specifics, not sweeping statements. Request that the system avoids moral claims or certainty about cognitive decline. Make it clear you want one capability illustrated through a concrete example. Keep personal details out of the request. Interpretation and judgement remain your responsibility."
+    },
+    {
+      "line": 36,
+      "text": "Choose a real task. Something you recently asked the system to tidy, summarise, rewrite, or decide. Ask for a description of the cognitive step you skipped. Ask for a clear moment in which that step usually appears when you work unaided. Then read the reply slowly."
+    },
+    {
+      "line": 56,
+      "text": "#### **A moment from** Ilia Karelin"
+    },
+    {
+      "line": 66,
+      "text": "Claude gave me a specific example that hit hard: debugging. When I hit an error, my instinct now is to paste the stack trace and ask. Claude gives me the fix. I move on. Obviously, with things like debugging, Claude has no idea how long I’ve sat with a particular problem before I sent that 1st prompt to Claude. Nevertheless - pattern intuition is such an important skill to obtain in life!"
+    },
+    {
+      "line": 130,
+      "text": "#### **From How to Minimise AI Hallucinations in Research and Writing**"
+    },
+    {
+      "line": 138,
+      "text": "**Mack Collier** grounded the discussion in practice with his example of fabricated company case studies. What mattered was not that the tool invented details, but how plausibly and persistently it defended them. Verification only returned when Mack forced the system to show its sources. Until then, confidence carried the claim."
+    },
+    {
+      "line": 144,
+      "text": "If you try this week’s prompt, Ilia Karelin and I would love to hear how the exchange exposed your own reasoning gaps."
+    }
+  ]
+}

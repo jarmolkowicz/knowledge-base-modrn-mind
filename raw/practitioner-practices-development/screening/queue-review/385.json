@@ -1,0 +1,69 @@
+{
+  "queue_position": 102,
+  "id": 385,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/how-to-actually-achieve-your-goals.md",
+  "sha256": "540a823830831d90c00f49df64b93cb42eed234914bae8cf0888ebca29b7bf1c",
+  "title": "How To Actually Achieve Your Goals in 2026",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L52 ## Prompt 1 - Inventory",
+    "L68 ## Prompt 2 - Priority",
+    "L84 ## Prompt 3 - Clarity",
+    "L102 ## Next Steps",
+    "L118 ## **P.S. Need More Help? 👋**"
+  ],
+  "passages": [
+    {
+      "line": 20,
+      "text": "Most people are addicted to the **feeling of being busy**, but they’re actually standing still. Not making meaningful progress."
+    },
+    {
+      "line": 34,
+      "text": "Today, I’m giving you my **CLARITY** **Prompt Chain**. I used this exact prompt chain earlier in 2025 to realize I was spending 50% of my time on tasks that generated near 0% of my growth."
+    },
+    {
+      "line": 38,
+      "text": "For this to work best, AI needs to know who you are. If you haven’t yet, follow this tutorial tobuild your **AI Second Brain.**"
+    },
+    {
+      "line": 52,
+      "text": "## Prompt 1 - Inventory"
+    },
+    {
+      "line": 58,
+      "text": "This prompt forces AI to reflect your reality back to you, so you can see your time-leaks in black and white."
+    },
+    {
+      "line": 64,
+      "text": "Feel free to drop in monthly calendar screenshots to give AI even more context about where your time goes!"
+    },
+    {
+      "line": 68,
+      "text": "## Prompt 2 - Priority"
+    },
+    {
+      "line": 74,
+      "text": "By forcing AI to ask *you* clarifying questions and share its real-time Confidence Score, you ensure answers are based on your actual data, not hypotheticals."
+    },
+    {
+      "line": 79,
+      "text": "Ask me clarifying questions, one at a time, until you're 95% confident in your answer. Always state your confidence score."
+    },
+    {
+      "line": 102,
+      "text": "## Next Steps"
+    },
+    {
+      "line": 104,
+      "text": "The next hard part is having the courage to ignore the other 999+ things on your list. Even though you know they’re lower-leverage, maybe you enjoy doing them or you’re competent in them, so it feels good doing them."
+    },
+    {
+      "line": 106,
+      "text": "It’s really really hard, even for me, to stay focused. I’m far from perfect. But even small improvements, over a long time horizon, compound into big gains."
+    },
+    {
+      "line": 108,
+      "text": "So, I recommend running this Clarity Prompt Chain once a quarter to ensure you haven’t drifted back into the “busy work” trap."
+    }
+  ]
+}

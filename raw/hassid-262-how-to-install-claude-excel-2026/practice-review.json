@@ -1,0 +1,33 @@
+{
+  "id": 262,
+  "group_index": 4,
+  "decision": "defer",
+  "role": "deferred",
+  "locators": [
+    "L62–84, formula explanation",
+    "L182–196, review limits",
+    "L208–228, concluding advice"
+  ],
+  "basis": "Ruben Hassid gives a tool tutorial and example requests, with commercial promotion.",
+  "reported_outcomes": [
+    "Shows requests to explain and trace formulas; no learner outcome or independent formula-check results."
+  ],
+  "proposed_outcomes": [
+    "Understand a spreadsheet’s formulas and inputs."
+  ],
+  "limits": [
+    "Most content concerns output production and installation. Product comparisons, prices and capabilities are time-sensitive and not verified. Explanation alone cannot establish comprehension or correct calculations."
+  ],
+  "related_entries": [
+    "cognitive-offloading",
+    "fernandes-metacognition-2025"
+  ],
+  "review_note": "Defer standalone card. Formula tracing can be an example in teach-back, but stronger sources supply the human learning check.",
+  "practitioner": "Do not treat the model’s explanation as a workbook audit or financial validation.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [],
+  "source_path": "raw/hassid-262-how-to-install-claude-excel-2026/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "pending",
+  "draft_only": true
+}

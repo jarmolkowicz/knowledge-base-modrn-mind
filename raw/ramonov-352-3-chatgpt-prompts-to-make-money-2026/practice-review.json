@@ -1,0 +1,33 @@
+{
+  "id": 352,
+  "author": "Sabrina Ramonov",
+  "group_index": 10,
+  "decision": "counterexample",
+  "locators": [
+    "L55–105, three prompts",
+    "L117–125, warning"
+  ],
+  "basis": "Proposed commercial prompt chain",
+  "reported_outcomes": [
+    "No business results reported for this chain."
+  ],
+  "proposed_outcomes": [
+    "Select an idea to test using existing skills and recoverable downside."
+  ],
+  "limits": [
+    "AI memory may omit or invent personal capabilities.",
+    "Resemblance to a generated quitter profile is not evidence to reject a business.",
+    "An AI-selected winner and forced certainty can displace the person’s judgment."
+  ],
+  "review_note": "Changed from supportive variant: retain as a counterexample to inferring identity and choosing a consequential plan from model-generated personality claims.",
+  "coverage": "Close-read all 149 lines of available extracted article text; image-only content and linked media not reviewed.",
+  "related_entries": [
+    "agency",
+    "guingrich-belief-offloading-2026",
+    "belief-offloading"
+  ],
+  "practice_files": [],
+  "role": "counterexample",
+  "draft_only": true,
+  "integration_decision": "pending"
+}

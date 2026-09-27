@@ -1,0 +1,57 @@
+{
+  "queue_position": 212,
+  "id": 576,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/brian-balfour/transcript.md",
+  "sha256": "5d2d9f990e14de9780db13761a265d2ccbcc1f776d6889b959562a52730f3caa",
+  "title": "Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 35,
+      "text": "# Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour"
+    },
+    {
+      "line": 255,
+      "text": "(00:28:51):"
+    },
+    {
+      "line": 256,
+      "text": "We will talk a little bit more about how to play the game more, but it's better to be early as well as, then the key, the harder part about it is anticipating that last stage of the cycle and figuring out how to sequence away from something before that last cycle comes. I think that's the key part, but let me pause there and then I'll talk a little bit about ChatGPT and some of my reasoning behind that."
+    },
+    {
+      "line": 312,
+      "text": "(00:35:20):"
+    },
+    {
+      "line": 313,
+      "text": "Those are just some of the reasons that my prediction is on ChatGPT. In the blog post that I wrote about this, I actually then played my own devil's advocate and said, \"Okay, here are some reasons why it might not be ChatGPT,\" but I think we're in that part of the cycle. That's my prediction. I might be wrong in the prediction of ChatGPT, but I really think, I feel very confident we're going to see this cycle play out again."
+    },
+    {
+      "line": 372,
+      "text": "Brian Balfour (00:42:19):"
+    },
+    {
+      "line": 373,
+      "text": "Can I just ask a question about that?"
+    },
+    {
+      "line": 384,
+      "text": "Brian Balfour (00:43:15):"
+    },
+    {
+      "line": 385,
+      "text": "More the first, yeah. It's just competition erodes that away, essentially, right?"
+    },
+    {
+      "line": 582,
+      "text": "(01:06:22):"
+    },
+    {
+      "line": 583,
+      "text": "The first product we launched is called Reforge Insights, which acts like your AI product researcher, aggregates all the feedback from all the sources, uses AI to analyze it, helps you explore it, but also will start to identify what are the gaps, the things that you don't have in your feedback today and auto-generate the research to go gather all those new insights, so complete the full cycle. We're going to launch two other major products as part of this platform before the end of the year, but we'll save that for some future episode. "
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 531,
+  "title": "Your Favourite Commenter Might Not Be Writing Their Own Comments",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/your-favourite-commenter-might-not-be-writing-their-own-comments.md",
+  "sha256": "b828688a579785a21f0491c333011f86e5c11b25a578ef3430144d70be61f792",
+  "access": "public-page",
+  "kind": "article",
+  "words": 3072,
+  "headings": [
+    "**In this post I will:**",
+    "**The investigation**",
+    "**The 1:1 signal**",
+    "**The confirmation**",
+    "**The Turing test**",
+    "**The canary traps**",
+    "**What the traps caught**",
+    "**Parallel context: the growth cliff**",
+    "**The direct messages**",
+    "**What this means**",
+    "**The honest version of the dead internet**",
+    "**What I am not saying**",
+    "**What to do with this**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 499,
+      "text": "Someone is commenting on your favourite Substack posts, and they h"
+    },
+    {
+      "line": 61,
+      "offset": 4177,
+      "text": "At one end, a VA is a real person, often based overseas, paid $3 to $10 an hour on platforms like Fiverr or Upwork, reading posts on your behalf and writing comments in your voice. At the other end, i"
+    }
+  ]
+}

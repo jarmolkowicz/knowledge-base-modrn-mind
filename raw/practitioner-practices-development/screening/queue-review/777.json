@@ -1,0 +1,29 @@
+{
+  "queue_position": 354,
+  "id": 777,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/phyl-terry/transcript.md",
+  "sha256": "5ca33e04e6aa367d92467ccbda8658ff33cd9aba2de39a8c195b4b59624a674b",
+  "title": "Land your dream job in today’s market: negotiation tactics, job search councils, more | Phyl Terry",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 681,
+      "text": "(01:19:52):"
+    },
+    {
+      "line": 682,
+      "text": "Reviewing my email absolutely is a great form of asking for help. If you're sending a good email, an important email let's say, and let's say you have a history of maybe sending emails that don't get well received, you go ask for help. And by the way, I have a whole workshop where I teach people how to use ChatGPT with some communication models to help you with that email. So there's ways to do that with ChatGPT. But I still, if it's a really important email, want you to have eyes on, right?"
+    },
+    {
+      "line": 969,
+      "text": "Phyl Terry (01:48:54):"
+    },
+    {
+      "line": 970,
+      "text": "That's such a lovely question. So on the Lenny page at Phyl.org, I outline some ways. We're raising $100,000 right now to build a platform for job seekers. It will remain free for job seekers. Part of what I'm doing is I'm doing a speaking tour on AI, and I'm taking all my speaking fees and putting it to this, but people can also make a donation just to that. They can also volunteer. And we're looking for, if anyone's a Salesforce admin, I'd love to have you volunteer with us. If any of you have really good PHP experience, let me know. If any of you are really good at Typeform or Formsite, which is a tool I don't like much. By the way, if anyone from Formsite is listening, your tool sucks. You need to really improve the product there. There's a lot of different ways that you can help, but those are some of the things."
+    }
+  ]
+}

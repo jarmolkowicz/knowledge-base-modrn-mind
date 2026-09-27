@@ -1,0 +1,29 @@
+{
+  "id": 373,
+  "title": "ChatGPT Prompt for Privacy & Security Data Cleanup",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/chatgpt-prompt-for-privacy-and-security.md",
+  "sha256": "7630058a803009430f6a5a7cc1b4cc7d86350b9923b58c6faedec5e35be059b3",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1159,
+  "headings": [
+    "1. Lock Down Your iPhone",
+    "Lock Down Your Google Account",
+    "3. Lock Down Your Social Media Accounts",
+    "Not Sure Where To Start? 👇"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 17,
+      "offset": 474,
+      "text": "Twice a year: your privacy/security data cleanup 🔥"
+    },
+    {
+      "line": 27,
+      "offset": 875,
+      "text": "Here’s what ChatGPT gave me, and you can follow it step-by-step:"
+    }
+  ]
+}

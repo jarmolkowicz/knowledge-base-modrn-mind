@@ -1,0 +1,35 @@
+{
+  "queue_position": 36,
+  "id": 90,
+  "path": "raw/inbox/Practical/Ethan Mollick/speaking-things-into-existence.md",
+  "sha256": "2970c0ccd197181136163df64b46395f291b86bf0af40b6597807420864b1453",
+  "title": "Speaking things into existence",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 10,
+      "text": "Influential AI researcher Andrej Karpathy wrote two years ago that “the hottest new programming language is English,” a topic he expanded on last month with the idea of “vibecoding” a practice where you just ask an AI to create something for you, giving it feedback as it goes. I think the implications of this approach are much wider than coding, but I wanted to start by doing some vibecoding myself."
+    },
+    {
+      "line": 12,
+      "text": "I decided to give it a try using Anthropic’s new Claude Code agent, which gives the Claude Sonnet 3.7 LLM the ability to manipulate files on your computer and use the internet. Actually, I needed AI help before I could even use Claude Code. I can only code in a few very specific programming languages (mostly used in statistics) and have no experience at all with Linux machines. Yet Claude Code only runs in Linux. Fortunately, Claude told me how to handle my problems, so after some vibetroubleshooting (seriously, if you haven’t used AI for technical support, you should) I was able to set up Claude Code."
+    },
+    {
+      "line": 28,
+      "text": "# Vibeworking with expertise"
+    },
+    {
+      "line": 34,
+      "text": "For example, here is a small portion of what it did when I asked it to “*create an interactive course on elevator pitching using the best academic advice.*” You can see the system set up a checklist of tasks and then go through them, doing web research before building the pages (this is sped up, the actual process unfolds autonomously, but over tens of minutes or even hours)."
+    },
+    {
+      "line": 44,
+      "text": "# Deep Vibeworking"
+    },
+    {
+      "line": 58,
+      "text": "Then I gave all of the previous output to o1-pro and asked it to write a paper, offering a few suggestions along the way. It is far from a blockbuster, but it would make a solid contribution to the state of knowledge (after a bit more checking of the results, as AI still makes errors). More interestingly, it took less than an hour to create, as compared to weeks of thinking, planning, writing, coding and iteration. Even if I had to spend an hour checking the work, it would still result in massive time savings."
+    }
+  ]
+}

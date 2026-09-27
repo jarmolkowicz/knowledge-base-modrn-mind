@@ -1,0 +1,45 @@
+{
+  "queue_position": 197,
+  "id": 553,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/anuj-rathi/transcript.md",
+  "sha256": "61d7d3e27458f165447f4078091094e9d76a86d1049db432d89650ec277f92b2",
+  "title": "The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 317,
+      "text": "Anuj Rathi (00:56:31):"
+    },
+    {
+      "line": 318,
+      "text": "Yeah. I think a couple of things. I think working with AI, many, many teams and companies get too excited about AI, and the possibilities, and so on, and it's almost like a solution ready to find a problem within their companies, which also is fine because now you're thinking about possibilities on what this particular technology can do for my company. So it's a good way to start, but many people don't actually use it in the best way possible and force fit it. Instead of that, you can think about, \"How do I get AI to work with HI?\" Again, it's connecting back with... and this is something that Swiggy CEO, Sriharsha, invented this term called HI just to make sure that everybody understands."
+    },
+    {
+      "line": 350,
+      "text": "Anuj Rathi (01:02:32):"
+    },
+    {
+      "line": 351,
+      "text": "There's one thing that I think marketplaces need to realize is that, A, you need to be operating in a stable marketplace. So all sides need to be stable enough so that they're not going to go away. So I think that's a starting point, and that's an important point because once we have established that, then after a stable marketplace, then we say, \"Which are the kind of customer that we are in the service for? Which are the customer that we will really focus on?\" For example, Amazon is very, very clearly a customer-centric company. If they have to make a choice, they won't because they need to have a stable marketplace. So sellers also are very... as important, but slightly more important than the customer."
+    },
+    {
+      "line": 386,
+      "text": "Lenny (01:06:21):"
+    },
+    {
+      "line": 387,
+      "text": "Do you have a favorite interview question that you like to ask candidates when you're interviewing product-manager-specific?"
+    },
+    {
+      "line": 392,
+      "text": "Lenny (01:06:46):"
+    },
+    {
+      "line": 393,
+      "text": "Then, what do you look for In a good answer to that question?"
+    }
+  ]
+}

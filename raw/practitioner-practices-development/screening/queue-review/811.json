@@ -1,0 +1,29 @@
+{
+  "queue_position": 383,
+  "id": 811,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/tanguy-crusson/transcript.md",
+  "sha256": "49f6a4eadcefb015b601c370fa1beac308c2653f68e5cd66592ac425629fbff9",
+  "title": "Hard-won lessons building 0 to 1 inside Atlassian | Tanguy Crusson (Head of Jira Product Discovery)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 225,
+      "text": "(00:22:43):"
+    },
+    {
+      "line": 226,
+      "text": "We made the bet that we can apply this playbook to this market, which is basically we can, from people to use Jira, introduce HipChat, and then people will go into HipChat first in tech teams, and then it will expand into business teams, and it'll go world to world basically from that. The thing is we didn't, in my opinion, do enough to validate that assumption early enough. We did a lot of work, a lot of work even on other things, even when faced with signals that this might not work. I do remember talking with a lot of customers who were like, \"Well, we've got, the IT is on HipChat, but the business prefer Slack.\" And then we started to see those businesses choosing Slack, which is the, initially it was like the developers try things and they like it and then everyone starts to adopt. In that case, the Slack managed to create a very strong fund base in roles that were not tech and IT."
+    },
+    {
+      "line": 273,
+      "text": "Tanguy Crusson (00:30:26):"
+    },
+    {
+      "line": 274,
+      "text": "We always see in the Slack Channels team sharing, okay, they just did this with AI, they just did that. So it keeps coming up, and so we often have discussions to go back, to okay, let's watch again the user interviews that we did over the past three weeks. Let's watch them all together now and remember who we are building this for. So there's a lot of trying to anchor back on what we know and how, basically building our own journey on it. And I think it's much richer for everyone to be involved."
+    }
+  ]
+}

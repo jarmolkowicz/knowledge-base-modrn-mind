@@ -1,0 +1,35 @@
+{
+  "id": 517,
+  "group_index": 6,
+  "decision": "merge",
+  "coverage": "Full available extracted article, L1–182. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L98–104: lost practice, omissions, stakes and interests",
+    "L116–122: funding, language comparisons, detectors, citations"
+  ],
+  "basis": "Normative literacy essay and proposed exercises.",
+  "reported_outcomes": [],
+  "proposed_outcomes": [
+    "Ask questions about AI and notice differences across contexts."
+  ],
+  "limits": [
+    "One language comparison does not establish bias; competent readers in both languages are needed.",
+    "Detector results are not evidence of authorship.",
+    "Broad historical, medical, legal and research assertions not checked."
+  ],
+  "related_entries": [
+    "agency",
+    "reference-verification"
+  ],
+  "practice_files": [
+    "raw/mollick-075-giving-your-ai-a-job-interview-2025/drafts/practices/test-ai-on-the-work-it-will-do.md"
+  ],
+  "role": "support",
+  "review_note": "Merge language variant into task testing; do not adopt its broad literacy taxonomy.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/test-ai-on-the-work-it-will-do.md"
+  ],
+  "historical_drafts_retained": true
+}

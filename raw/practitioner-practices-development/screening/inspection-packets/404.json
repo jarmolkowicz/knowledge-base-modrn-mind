@@ -1,0 +1,36 @@
+{
+  "id": 404,
+  "title": "Why I Switched from Claude to ChatGPT Codex",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/why-i-switched-from-claude-to-chatgpt.md",
+  "sha256": "a72a7321d654ef1d32c0378fe33603091597942fd1388a3b1f2580371f70a4c4",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1606,
+  "headings": [
+    "1. Codex Has A Far Superior In-App Browser",
+    "2. Codex Computer Use Is Superior And Smoother",
+    "3. Unified Scheduling Is My #1 Reason",
+    "4. Codex Has Superior Built-In Image Generation",
+    "5. Codex Has Superior Git Integration For Non-Techies",
+    "6. Fast Mode Helps When Delay Costs Money",
+    "7. LinkedIn Recruiter Is My 1 Claude Exception",
+    "8. How To Migrate From Claude To Codex",
+    "RECAP: ChatGPT Desktop Is The Winner BUT…",
+    "Frequently Asked Questions",
+    "Not Sure Where To Start? 👇"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 423,
+      "text": "***TLDR: I switched from Claude to ChatGPT Codex because its superior "
+    },
+    {
+      "line": 243,
+      "offset": 12609,
+      "text": "Claude skills often live in `.claude/skills`."
+    }
+  ]
+}

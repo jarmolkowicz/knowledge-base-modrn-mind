@@ -1,0 +1,26 @@
+{
+  "id": 785,
+  "title": "Inside Google's AI turnaround: AI Mode, AI Overviews, and vision for AI-powered search | Robby Stein",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/robby-stein/transcript.md",
+  "sha256": "1a040ffef18c8203f813cff02009dd2e8060f3503f1b930496abf0edf8ca1acb",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 17546,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 867,
+      "text": "It feels like something has changed interna"
+    },
+    {
+      "line": 169,
+      "offset": 16378,
+      "text": "I think there's an opportunity for these to come closer together. I think that's what AI Mode represents, at least for the core AI"
+    }
+  ]
+}

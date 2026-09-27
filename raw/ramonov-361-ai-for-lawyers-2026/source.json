@@ -1,0 +1,51 @@
+{
+  "slug": "ramonov-361-ai-for-lawyers-2026",
+  "original_filename": "ai-for-lawyers-3-real-use-cases.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 4486,
+  "hash": "c9b71ba826fc5c74a8dbc50881e085dd51bc57fda8667d55ee9ed855c32a91f7",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:43Z",
+  "decisions": [
+    {
+      "stage": "practice_review",
+      "date": "2026-09-26",
+      "decision": "retain",
+      "scope": "draft_only",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/ramonov-361-ai-for-lawyers-2026.md",
+      "practices": [
+        "practices/settle-the-strategy-before-requesting-a-draft.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 474,
+  "screening_id": 361,
+  "collected_from": "raw/inbox/Practical/Sabrina Ramonov/ai-for-lawyers-3-real-use-cases.md",
+  "bibliographic_metadata": {
+    "title": "AI for Lawyers (3 Real Use Cases)",
+    "date": "2026-08-05",
+    "url": "https://www.sabrina.dev/p/ai-for-lawyers-3-real-use-cases",
+    "collection": "Sabrina Ramonov"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

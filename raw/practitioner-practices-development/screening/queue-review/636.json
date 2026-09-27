@@ -1,0 +1,37 @@
+{
+  "queue_position": 250,
+  "id": 636,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/farhan-thawar/transcript.md",
+  "sha256": "07f174413db550d1cd0c1521db51cf7beda2a92d4172904307b964daa473eeec",
+  "title": "How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 237,
+      "text": "(00:28:35):"
+    },
+    {
+      "line": 238,
+      "text": "I would say, that's amazing. I would still contend take that experience and add two humans together. So you've got an AI copilot and humans, because what's happening is generating code. And the two humans can look and say, \"Oh, I know what it's trying to do.\" And, either delete the code, because you have inspiration and write it yourself, or just take the suggestion and move it forward. But, I love today's world of AI copilots, because you never have to code loan on your own right? You never have to code alone. You can try a different language now, because the API and the syntax is much easier to pull forward. And so, all of those things are a win for engineering and a win for everybody who wants to build any software."
+    },
+    {
+      "line": 294,
+      "text": "Farhan Thawar (00:35:38):"
+    },
+    {
+      "line": 295,
+      "text": "I mean, it's a combination of trust but verify, right? Because don't forget, the goal of the check-in is not for you to be like, \"Ha, ha, I caught you not doing your work.\" It's not like the Dilbert boss, \"Hey, did you do your thing?\" Right? Even when I look at the Elon text, which is like, \"Hey, what did you get done this week?\" It wasn't to try to catch Parag in a, \"You didn't do anything or you did a bunch of useless stuff.\" It was hopefully to pair on the problem, meaning, when I ask somebody, \"Hey, did we move forward on this LLM project, because we now have this larger context window?\" And then, they came back and said, \"Oh, here's what we learned.\" So then, I can then look at the answer and say, \"Oh, so now, have you thought of this? Have you tried...\" It's a way to pair on the problem."
+    },
+    {
+      "line": 738,
+      "text": "(01:34:58):"
+    },
+    {
+      "line": 739,
+      "text": "Actually, one example, my wife hates this is I have a Tesla and I routinely will switch gears without fully stopping the car, which you cannot do in a regular car, but I'll be in drive and then I'll slow down to drive back up into my driveway and while it's moving I switch it into reverse."
+    }
+  ]
+}

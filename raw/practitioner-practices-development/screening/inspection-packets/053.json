@@ -1,0 +1,24 @@
+{
+  "id": 53,
+  "title": "Wendell Berry and the Promise of the Deep Life",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/wendell-berry-and-the-promise-of-the-deep-life.md",
+  "sha256": "c7d7b749bfcff7ef85d7bb5dfdc79e7d2a92aeab4f6d6bdc07ff2d125c4f9fb9",
+  "access": "public-page",
+  "kind": "article",
+  "words": 674,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 429,
+      "text": "Wendell Berry died last week at 92 at his home in Port Royal, Kentucky, where he farmed his land using traditional techn"
+    },
+    {
+      "line": 31,
+      "offset": 2997,
+      "text": "We live in a world increasingly defined by numbness and conveniences, largely mediated through digital technology. We use tools like AI to escape the slightest hint of cognitive strain and cue up algorithmically-masticated slop on our phones to quiet our anxious minds. Our office jobs have devolved into a Kabuki theater exercise of Slacks about emails about "
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "queue_position": 362,
+  "id": 787,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ronny-kohavi/transcript.md",
+  "sha256": "8acfd156d7c610d9386169d44f0e446d083aeb6f38c36b5a165fac26bd89f3a6",
+  "title": "The ultimate guide to A/B testing | Ronny Kohavi (Airbnb, Microsoft, Amazon)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 230,
+      "text": "Ronny Kohavi (00:23:14):"
+    },
+    {
+      "line": 231,
+      "text": "And it failed. You don't see it anymore. It existed for about a year and a half, and all the experiments were just negative to flat. And it was an attempt. It was fair to try it. I think it took us a little long to fail, to decide that this is a failure. But at least we had the data. We had hundreds of experiments that we tried. None of them were a breakthrough. And I remember mailing Qi Lu with some statistics showing that it's time to abort, it's time to fail on this. And he decided to continue more. And it's a million dollar question. Do you continue, and then maybe the breakthrough will come next month, or do you abort? And a few months later, we aborted."
+    },
+    {
+      "line": 263,
+      "text": "Ronny Kohavi (00:27:25):"
+    },
+    {
+      "line": 264,
+      "text": "So start experimenting when you're in the tens of thousands of users. You'll only be able to detect large effects. And then once you get to 200,000 users, then the magic starts happening. Then you can start testing a lot more. Then you have the ability to test everything and make sure that you're not degrading and getting value out of experimentation. So you ask for rule of thumb, 200,000 users, you're magical. Below that, start building the culture, start building the platform, start integrating. So that as you scale, you start to see the value."
+    },
+    {
+      "line": 443,
+      "text": "Ronny Kohavi (00:50:24):"
+    },
+    {
+      "line": 444,
+      "text": "I was pleasantly surprised that it sold more than what we thought, more than what Cambridge predicted. So when first we were approached by Cambridge after a tutorial that we did to write a book, I was like, \"I don't know, this is too small of a niche area.\""
+    }
+  ]
+}

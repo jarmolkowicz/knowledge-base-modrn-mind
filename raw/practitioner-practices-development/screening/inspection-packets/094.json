@@ -1,0 +1,24 @@
+{
+  "id": 94,
+  "title": "The Cybernetic Teammate",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/the-cybernetic-teammate.md",
+  "sha256": "ecc28ded874d4dfe9dfb8ad1172d0a6ea437f6e9cef638125755a20355e8ea12",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1328,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 189,
+      "text": "Over the past couple years, we have learned that AI can boost the productivity of individual knowled"
+    },
+    {
+      "line": 58,
+      "offset": 10901,
+      "text": "Organizations have primarily viewed AI as just another productivity tool, like a better calculator or spreadsheet. This made sense initially but has become increasingly limiting as models get better and as recent data finds users most often employ AI for critical thinking and complex problem solving"
+    }
+  ]
+}

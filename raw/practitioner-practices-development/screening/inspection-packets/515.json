@@ -1,0 +1,31 @@
+{
+  "id": 515,
+  "title": "The Velocity Trap: Why AI Makes You Start Everything and Finish Nothing",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/velocity-trap-ai-decision-paralysis.md",
+  "sha256": "947a4cc31130e55394c64d72b46de90b3411289c033957fc35288af911604cdf",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1529,
+  "headings": [
+    "**Why more options make us slower**",
+    "**How can AI help you stop generating and start committing?**",
+    "**A moment from** [Alena Gorb](https://open.substack.com/users/32717720-alena-gorb?utm_source=mentions)",
+    "**What to share**",
+    "**Why decision paralysis is the last human bottleneck**",
+    "**From [How to Test for Real Understanding When AI Makes Every Answer Sound Right](https://theslowai.substack.com/p/ai-fluency-trap-test-real-understanding)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 301,
+      "text": "When generating three to five viable business models takes seconds"
+    },
+    {
+      "line": 34,
+      "offset": 2476,
+      "text": "But not all research is negative. A study by Sun et al. (2025) found AI can boost workplace creativity, but only when employees show strong metacognition. The ability to plan, evaluate, monitor, and r"
+    }
+  ]
+}

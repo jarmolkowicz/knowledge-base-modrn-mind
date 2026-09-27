@@ -1,0 +1,32 @@
+{
+  "slug": "mollick-089-sign-of-the-future-gpt-5-2026",
+  "original_filename": "sign-of-the-future-gpt-55.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 2050,
+  "hash": "f1d4af1ce982919249a086e99155240a1eb8a469983fcabf791d30ae87ec85be",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "critiqued",
+  "ingested_at": "2026-09-26T20:59:42Z",
+  "decisions": [
+    {
+      "stage": "practice_review",
+      "date": "2026-09-26",
+      "decision": "counterexample",
+      "scope": "draft_only",
+      "integration": "pending"
+    }
+  ],
+  "lines": 66,
+  "screening_id": 89,
+  "collected_from": "raw/inbox/Practical/Ethan Mollick/sign-of-the-future-gpt-55.md",
+  "bibliographic_metadata": {
+    "title": "Sign of the future: GPT-5.5 ",
+    "date": "2026-04-23",
+    "url": "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "collection": "Ethan Mollick"
+  },
+  "draft_only": true,
+  "integration_decision": "pending"
+}

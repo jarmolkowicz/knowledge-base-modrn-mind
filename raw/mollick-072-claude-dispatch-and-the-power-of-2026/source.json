@@ -1,0 +1,32 @@
+{
+  "slug": "mollick-072-claude-dispatch-and-the-power-of-2026",
+  "original_filename": "claude-dispatch-and-the-power-of.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 1982,
+  "hash": "5c3adce7b64276e4d2ef6b5da2c5902952714f376c208ab68427eb857538fb2a",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "critiqued",
+  "ingested_at": "2026-09-26T20:59:41Z",
+  "decisions": [
+    {
+      "stage": "practice_review",
+      "date": "2026-09-26",
+      "decision": "merge",
+      "scope": "draft_only",
+      "integration": "pending"
+    }
+  ],
+  "lines": 64,
+  "screening_id": 72,
+  "collected_from": "raw/inbox/Practical/Ethan Mollick/claude-dispatch-and-the-power-of.md",
+  "bibliographic_metadata": {
+    "title": "Claude Dispatch and the Power of Interfaces",
+    "date": "2026-03-31",
+    "url": "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "collection": "Ethan Mollick"
+  },
+  "draft_only": true,
+  "integration_decision": "pending"
+}

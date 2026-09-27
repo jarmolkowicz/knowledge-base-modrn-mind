@@ -1,0 +1,62 @@
+{
+  "queue_position": 76,
+  "id": 325,
+  "path": "raw/inbox/Practical/Ruben Hassid/replaced.md",
+  "sha256": "ccdb6d5a0fdda5e8727ab987b810aa79a3be4d0ec8f5f17dd712303d648f45fe",
+  "title": "Replaced.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L45 ## **1. How I duplicated myself.**",
+    "L123 ## **2. You need more people.**",
+    "L149 #### **A. Master one AI win TODAY (exact example included).**",
+    "L168 #### **B. How to teach someone to use AI for you.**",
+    "L256 #### **C. Hire for psychology, not technical genius.**",
+    "L288 ## **3.** **AI will create jobs… but still kill these jobs.**"
+  ],
+  "passages": [
+    {
+      "line": 45,
+      "text": "## **1. How I duplicated myself.**"
+    },
+    {
+      "line": 95,
+      "text": "> Ask 6 targeted questions to tailor PHASE 2 (ideal audience, goal, offer/CTA, voice boundaries, proof assets, cadence). Then propose 2 A/B tests and ask the user to pick one to run next."
+    },
+    {
+      "line": 119,
+      "text": "###### **Archive:** ***https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing.***"
+    },
+    {
+      "line": 168,
+      "text": "#### **B. How to teach someone to use AI for you.**"
+    },
+    {
+      "line": 212,
+      "text": "1. I create a Loom/Screen Studio video of me actually doing it. They will go back to this video anytime they need to see me doing it in action. That’s why I think it must be top-down: C-levels first *(that’s how I consult businesses).*"
+    },
+    {
+      "line": 218,
+      "text": "> Your goal is to help me create a clear, practical SOP that teaches a new employee how to use AI safely and effectively in my business. You will do this by asking me the right questions first, then turning my answers into an SOP."
+    },
+    {
+      "line": 220,
+      "text": "> Task (phase 1): Ask me only questions (no SOP yet). Make the questions specific enough that, once answered, you can produce a complete SOP with minimal assumptions."
+    },
+    {
+      "line": 256,
+      "text": "#### **C. Hire for psychology, not technical genius.**"
+    },
+    {
+      "line": 264,
+      "text": "- High “**openness to experience**” (Big Five) + Jungian “individuation” mindset: they confront their shadow (ego, fear of obsolescence) and integrate AI as a tool for self-actualization."
+    },
+    {
+      "line": 266,
+      "text": "- MBTI preference: Intuitive-Perceiving types (NxPx – ENTP, INTP, ENFP, INFP) dominate my team. They **explore possibilities endlessly**, adapt prompts on the fly, hate rigid structure."
+    },
+    {
+      "line": 274,
+      "text": "2. Test task: Give bad prompt + mediocre output. Ask: “Make this 10x better in 3 iterations.” Watch humility/resilience."
+    }
+  ]
+}

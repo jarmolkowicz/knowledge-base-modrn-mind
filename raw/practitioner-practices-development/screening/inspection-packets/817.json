@@ -1,0 +1,26 @@
+{
+  "id": 817,
+  "title": "A framework for finding product-market fit | Todd Jackson (First Round Capital)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/todd-jackson/transcript.md",
+  "sha256": "adb755056914d0522c61f20a6684e660c9e85142b008979915e80d41feddf35a",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 17583,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 846,
+      "text": "Finding product-market fit is the single mo"
+    },
+    {
+      "line": 351,
+      "offset": 45109,
+      "text": "And they do pop-ups too, but their nudges are based on in-product behaviors like confusion or intent classification, which makes t"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 522,
+  "title": "When AI Sounds Certain, Ask for Doubt",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/when-ai-sounds-certain-ask-for-doubt.md",
+  "sha256": "3e16f5831d15bf2d392b1ec869d584dc2c3cc863eb42611abb66b4fde0508bfb",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 743,
+  "headings": [
+    "**Step-by-step**",
+    "**A moment from me**",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**[From Slow AI – Teach It What to Keep Private](https://theslowai.substack.com/p/slow-ai-11-teach-it-what-to-keep)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 257,
+      "text": "- Try a simple prompt that makes your AI tool question itself."
+    },
+    {
+      "line": 46,
+      "offset": 1494,
+      "text": "If you are new to *Slow AI*, our first invitation was: Teach It Something It Cannot Know."
+    }
+  ]
+}

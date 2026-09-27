@@ -1,0 +1,26 @@
+{
+  "id": 761,
+  "title": "How to measure AI developer productivity in 2025 | Nicole Forsgren",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/nicole-forsgren-20/transcript.md",
+  "sha256": "9d1cdfc702d37f5aa7ce45e9e4dc3d7a1ffe9ed2539060e9a95196c93e7184bb",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13133,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 37,
+      "offset": 797,
+      "text": "A lot of companies are trying to measure pr"
+    },
+    {
+      "line": 403,
+      "offset": 60789,
+      "text": "And I will say one thing that's challenging when you think about getting data, so interviews are data and that's important, survey"
+    }
+  ]
+}

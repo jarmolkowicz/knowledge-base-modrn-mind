@@ -1,0 +1,37 @@
+{
+  "queue_position": 360,
+  "id": 785,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/robby-stein/transcript.md",
+  "sha256": "1a040ffef18c8203f813cff02009dd2e8060f3503f1b930496abf0edf8ca1acb",
+  "title": "Inside Google's AI turnaround: AI Mode, AI Overviews, and vision for AI-powered search | Robby Stein",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 168,
+      "text": "Robby Stein (00:12:40):"
+    },
+    {
+      "line": 169,
+      "text": "I think there's an opportunity for these to come closer together. I think that's what AI Mode represents, at least for the core AI experiences, but I think of them is very complimentary to the core search product. You should be able to not have to think about where you're asking a question ultimately, you just go to Google. Today, if you put in whatever you want, we're actually starting to use much of the power behind AI Mode right in AI Overviews. So you can just ask really hard, you could put a five sentence question right into Google search. You can try it and then it should trigger AI at the top. It's a preview, and then you can go deeper into AI Mode and have this back and forth. So that's how these things connect."
+    },
+    {
+      "line": 480,
+      "text": "(00:55:20):"
+    },
+    {
+      "line": 481,
+      "text": "And there's lots of, I've seen all the time we've designed new icons when we could have used global icons like, \"Oh, wouldn't it be so cool if we used a camera that's kind of a camera but is mostly an AI looking thing and then is mostly, but then has this dots in it that connects it to this other product?\""
+    },
+    {
+      "line": 891,
+      "text": "Robby Stein (01:20:31):"
+    },
+    {
+      "line": 892,
+      "text": "Yeah, I think on X @rmstein is probably the best single place. And then to be helpful, send me feedback. DM me, just mention me, ping me, let me know problems with Google products, with AI in general, but also just anything. As I said before, you have to always listen to people understand their experiences, so ping the ideas and feedback. That's the best way to be helpful."
+    }
+  ]
+}

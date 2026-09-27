@@ -1,0 +1,49 @@
+{
+  "queue_position": 44,
+  "id": 104,
+  "path": "raw/inbox/Practical/Ethan Mollick/using-ai-right-now-a-quick-guide.md",
+  "sha256": "353ac889a9e660fc83ac8bfdf057247cee75e50a4b06b3c36d91fb4fad3d2718",
+  "title": "Using AI Right Now: A Quick Guide",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L26 ## Picking a Model",
+    "L42 ## Using Deep Research",
+    "L58 ## An Easy Approach to AI: Voice Mode",
+    "L64 ## Making Things for You: Images, Video, Code, and Documents",
+    "L86 ## Troubleshooting"
+  ],
+  "passages": [
+    {
+      "line": 42,
+      "text": "## Using Deep Research"
+    },
+    {
+      "line": 47,
+      "text": "- Travel Guides “I am going to Wisconsin on vacation and want to visit unique sites, especially focusing on cheese, produce a guide for me”"
+    },
+    {
+      "line": 74,
+      "text": "# Working with an AI"
+    },
+    {
+      "line": 81,
+      "text": "- **Be really clear about what you want.** Don’t say “Write me a marketing email,” instead go with “I'm launching a B2B SaaS product for small law firms. Write a cold outreach email that addresses their specific pain points around document management. Here's the details of the product: [paste]” Or ask the AI to ask you questions to help you clarify what you want."
+    },
+    {
+      "line": 83,
+      "text": "- **Ask for a lot of things.** The AI doesn’t get tired or resentful. Ask for 50 ideas instead of 10, or thirty options to improve a sentence. Then push the AI to expand on the things you like."
+    },
+    {
+      "line": 97,
+      "text": "# Your Next Hour"
+    },
+    {
+      "line": 99,
+      "text": "So now you know where to start. First, pick a system and resign yourself to paying the $20 (the free versions are demos, not tools). Then immediately test three things on real work: First, switch to the powerful model and give it a complex challenge from your actual job with full context and have an interactive back and forth discussion. Ask it for a specific output like a document or program or diagram and ask for changes until you get a result you are happy with. Second, try Deep Research on a question where you need comprehensive information, maybe competitive analysis, gift ideas for someone specific, or a technical deep dive. Third, experiment with voice mode while doing something else — cooking, walking, commuting — and see how it changes your ability to think through problems."
+    },
+    {
+      "line": 101,
+      "text": "Most people use AI like Google at first: quick questions, no context, default settings. You now know better. Give it documents to analyze, ask for exhaustive options, use branching to explore alternatives, experiment with different outcomes. The difference between casual users and power users isn't prompting skill (that comes with experience); it's knowing these features exist and using them on real work."
+    }
+  ]
+}

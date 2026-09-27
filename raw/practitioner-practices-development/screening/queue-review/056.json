@@ -1,0 +1,47 @@
+{
+  "queue_position": 16,
+  "id": 56,
+  "path": "raw/inbox/Practical/Cal Newport/when-it-comes-to-ai-think-inside-the-box.md",
+  "sha256": "164dbc221b4ff6b8de4a272fba9c727bb5259e4a5d16ae8b3ef14fb1c6b3584f",
+  "title": "When it Comes to AI: Think Inside the Box",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 11,
+      "text": "Somers then talks to experts who study how modern large language models operate, and notes that the mechanics of LLMs’ next-token prediction resemble this existing definition of thinking. Somers is careful to constrain his conclusions, but still finds cause for excitement:"
+    },
+    {
+      "line": 15,
+      "text": "Compare this thoughtful and illuminating discussion to another recent description of AI, delivered by biologist Bret Weinstein on an episode of Joe Rogan’s podcast."
+    },
+    {
+      "line": 17,
+      "text": "Weinstein starts by (correctly) noting that the way a language model learns the meaning of words through exposure to text is analogous to how a baby picks up parts of language by listening to conversations."
+    },
+    {
+      "line": 19,
+      "text": "But he then builds on this analogy to confidently present a dramatic description of how these models operate:"
+    },
+    {
+      "line": 21,
+      "text": "> “It is running little experiments and it is discovering what it should say if it wants certain things to happen, etc. That’s an LLM. At some point, we know that that baby becomes a conscious creature. We don’t know when that is. We don’t even know precisely what we mean. But that is our relationship to the AI. Is the AI conscious? I don’t know. If it’s not now, it will be, and we won’t know when that happens, right? We don’t have a good test.”"
+    },
+    {
+      "line": 35,
+      "text": "In Somers’s thoughtful article, we experience a fundamentally *modern* approach. He looks inside the proverbial black box to understand the actual mechanisms within LLMs that create the behavior he observed. He then uses this understanding to draw interesting conclusions about the technology."
+    },
+    {
+      "line": 37,
+      "text": "Weinstein’s approach, by contrast, is fundamentally *pre-modern* in the sense that he never attempts to open the box and ask how the model actually works. He instead observed its behavior (it’s fluent with language), crafted a story to explain this behavior (maybe language models operate like a child’s mind), and then extrapolated conclusions from his story (children eventually become autonomous and conscious beings, therefore language models will too)."
+    },
+    {
+      "line": 39,
+      "text": "This is not unlike how pre-modern man would tell stories to describe natural phenomena, and then react to the implication of their tales; e.g.,*lightning comes from the Gods, so we need to make regular sacrifices to keep the Gods from striking us with a bolt from the heavens.*"
+    },
+    {
+      "line": 41,
+      "text": "Language model-based AI is an impressive technology that is accompanied by implications and risks that will require cool-headed responses. All of this is too important forpre-modern thinking. When it comes to AI, it’s time to start our most serious conversations by thinking inside the box."
+    }
+  ]
+}

@@ -121,3 +121,15 @@ Parseable: `grep "^## \[" log.md | tail -20` shows recent activity.
 - Formal three-lens self-critique, zero-finding draft gate, 31 claim guards, nine residual-phrase guards, 25 targeted citation/link checks and all 23 current regression tests passed. Thirteen quote blocks corrected; 86 retained. Other 197 public entries unchanged. Whole-KB linter now zero findings; all 134 original/catalog hashes match with documented historical folder mappings.
 - Index refreshed; 229 entries unchanged. All 19 groups from the prior register now addressed across the two batches; this is not complete verification of every KB claim. Temporary reports Git-ignored; unrelated work preserved. No commit or push. [Correction record](raw/kb-remaining-corrections-2026-09-27/README.md).
 - Commit scope: user subsequently requested a correction-only commit. The Tamisier-Fayard catalog-date fix remains local with its wholly untracked intake workbench; committing only its catalog/log would omit required lifecycle artifacts. All 32 public corrections, 19 tracked source histories, citation checks, index and exclusion rule are included; no push.
+
+## [2026-09-27] practice integration | Approved unblocked practitioner collection
+
+- User “Move on” approved the reviewed package: 75 practices and 114 new scoped source notes integrated; one existing book source reused. Two cards remain held for the Mollick management source correction. Original drafts retained.
+- Added outcome-based practice guide and provisional vocabulary: eight human outcomes, two enabling outcomes. Intended benefits, reported experience and demonstrated effects remain separate. Sources retain exact reading coverage and origin/support/counterexample roles.
+- Stage 4.5 and prepared-copy checks passed before integration. Twenty-six regression tests passed. All 139 source snapshots and 139 retained originals verified; all 229 pre-existing canonical entries and 77 reviewed extraction drafts unchanged. Whole-KB structural checks and 862 local-link checks pass. Forty older citation-navigation findings remain separately documented; zero new citation regressions.
+- Index/counts refreshed to 418 entries (248 sources, 73 concepts, 22 methods, 75 practices). No commit or remote publication. [Integration record](raw/practitioner-practices-development/integration/README.md); [browse practices](practice-guide.md).
+
+
+## 2026-09-27 — Practices from existing KB sources
+
+Integrated eight new practices, nine focused practice updates and one modulation-method correction following source review and recorded Stage 5 decision. Taxonomy unchanged; original drafts and source material retained. Audit: [batch decision](raw/kb-practice-screening-2026-09-27/review/integration/decision.json).

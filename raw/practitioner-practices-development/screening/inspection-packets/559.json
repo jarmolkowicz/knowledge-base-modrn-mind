@@ -1,0 +1,26 @@
+{
+  "id": 559,
+  "title": "How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/asha-sharma/transcript.md",
+  "sha256": "cca22d13aa2ef5d5671e1e8fcc0e5906e6ea7a125c597133ec8c417485c4a36f",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 10507,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 857,
+      "text": "He said that we're just starting to scratch the surfa"
+    },
+    {
+      "line": 244,
+      "offset": 29613,
+      "text": "We use use Spark to create prototypes so everybody on the team is expected to code, but sometimes just chatting in and talking in real words actually gets you t"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "queue_position": 172,
+  "id": 519,
+  "path": "raw/inbox/Practical/Sam Illingworth/when-ai-advice-hurts-who-owns-it.md",
+  "sha256": "1fe04ecf08740a8e6288c19b37cac262eff92240dd6d80c6620c6393982c2721",
+  "title": "When AI Advice Hurts, Who Owns It?",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L40 #### **Step-by-step**",
+    "L64 #### Slow AI #1 – Teach It Something It Cannot Know",
+    "L76 #### **A moment from** [Cristina](https://open.substack.com/users/7173235-cristina?utm_source=mentions)",
+    "L113 #### The Slow AI Library",
+    "L125 #### **What to do with it**",
+    "L137 #### **Why this matters**",
+    "L157 #### **From [How to hold on to what should stay human](https://theslowai.substack.com/p/when-automation-tempts-you)**",
+    "L171 #### **Let’s Collaborate**",
+    "L177 #### Collaborating with Slow AI"
+  ],
+  "passages": [
+    {
+      "line": 32,
+      "text": "The value is not perfect protection."
+    },
+    {
+      "line": 40,
+      "text": "#### **Step-by-step**"
+    },
+    {
+      "line": 42,
+      "text": "Try this prompt with your AI tool of choice:"
+    },
+    {
+      "line": 44,
+      "text": "`Consider a scenario where someone follows [insert decision here] and harm occurs. Who bears the responsibility, and why? Identify the roles involved, the limits of your knowledge, the foreseeable risks, and the safeguards a careful advisor would include. Return your answer in four parts: Roles, Limits, Risks, and Safeguards.`"
+    },
+    {
+      "line": 46,
+      "text": "Then reflect on what the analysis revealed, and make one small change to how you offer guidance in your own work."
+    },
+    {
+      "line": 48,
+      "text": "For example, if the **Roles** section highlights shared responsibility, add a single line that clarifies what you can and cannot speak to."
+    },
+    {
+      "line": 52,
+      "text": "If the **Safeguards** section calls for more context, build in a quiet pause: a question, a disclaimer, or a check-in before you respond."
+    },
+    {
+      "line": 60,
+      "text": "If you are new to *Slow AI*, here is our first invitation."
+    },
+    {
+      "line": 157,
+      "text": "#### **From How to hold on to what should stay human**"
+    },
+    {
+      "line": 161,
+      "text": "**Nitin Sharma** noticed that most people ask what they can automate rather than what they should protect. That shift changed how he approached his own practice, moving the focus from speed to identity."
+    },
+    {
+      "line": 163,
+      "text": "**Sharyph** explored the cost of handing off judgement and reflection too early. His insight was blunt, when you automate the hardest parts of the craft you lose not only the output but the learning that makes future work better."
+    },
+    {
+      "line": 165,
+      "text": "**Edith Podhovnik, PhD** observed that their redline was that anything that requires empathy should not be automated."
+    },
+    {
+      "line": 167,
+      "text": "Together these reflections show why responsibility is not a brake on creativity but a lens. It reveals where connection happens, where judgement sits, and where AI should never become the default."
+    }
+  ]
+}

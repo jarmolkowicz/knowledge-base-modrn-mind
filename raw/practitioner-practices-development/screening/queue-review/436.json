@@ -1,0 +1,52 @@
+{
+  "queue_position": 130,
+  "id": 436,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-onboarding-tools-workplace-surveillance.md",
+  "sha256": "a99d8212cbb3d3a82e670ced51ada6edbcc601226646829f78e6f5a73bec5c0a",
+  "title": "Every AI Onboarding Tool Is Already Playing This Game",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L29 #### **What workplace AI tools actually collect**",
+    "L43 #### **What Good Employee does**",
+    "L77 #### **Five questions to ask when an AI tool asks you something at work**",
+    "L107 #### **Why this matters for you**"
+  ],
+  "passages": [
+    {
+      "line": 29,
+      "text": "#### **What workplace AI tools actually collect**"
+    },
+    {
+      "line": 39,
+      "text": "The word ‘helpfulness’ does a lot of work in enterprise AI. A tool that asks how you handle stress is populating a behavioural profile. A tool that tracks your email response times is modelling your patterns. The question is never just the question. The question is the data collection method."
+    },
+    {
+      "line": 77,
+      "text": "#### **Five questions to ask when an AI tool asks you something at work**"
+    },
+    {
+      "line": 87,
+      "text": "Your answers go somewhere. They are aggregated, analysed, and stored. The question is who can see the behavioural profile those responses construct, and whether that profile follows you through promotions, restructures, and redundancies."
+    },
+    {
+      "line": 91,
+      "text": "In *Good Employee*, the Continuity Programme preserves your behavioural model after you are gone. The model continues your role. That is fiction. But ‘knowledge management’ systems that retain your communication patterns, decision tendencies, and work habits after you leave are standard enterprise practice. Ask what ‘continuity’ means at your organisation."
+    },
+    {
+      "line": 95,
+      "text": "Performance measurement tells you how well you did a task. Behavioural modelling tells the system how you think, decide, and respond under pressure. The first is feedback. The second is a profile. Most workplace AI tools do both, and the distinction is rarely made visible to the person being modelled."
+    },
+    {
+      "line": 107,
+      "text": "#### **Why this matters for you**"
+    },
+    {
+      "line": 119,
+      "text": "Play the game and tell me which ending you got. Or tell me the question from the list you have never thought to ask at work. I read and respond to all your comments."
+    },
+    {
+      "line": 127,
+      "text": "***The curriculum is now CPD-accredited. The price goes from £75 to £100 on Sunday 8 March.** Subscribe before then and you lock in the current price. Tax-deductible as professional development. Recognised internationally.*"
+    }
+  ]
+}

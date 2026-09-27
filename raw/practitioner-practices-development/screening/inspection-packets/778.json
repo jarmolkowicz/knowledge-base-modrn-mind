@@ -1,0 +1,26 @@
+{
+  "id": 778,
+  "title": "Building Wiz: the fastest-growing startup in history | Raaz Herzberg (CMO and VP Product Strategy)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/raaz-herzberg/transcript.md",
+  "sha256": "cf0469a3fcbee21a083d3688e9af4f1807ddf026fa1bf693d88769c348ca3fa3",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 12449,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 872,
+      "text": "You're one of the first 10 employees, you'r"
+    },
+    {
+      "line": 412,
+      "offset": 32719,
+      "text": "Cloudinary is the API-first image and video management platform built for product leaders, who rely on visual storytelling to expr"
+    }
+  ]
+}

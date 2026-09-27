@@ -1,0 +1,50 @@
+{
+  "slug": "illingworth-464-the-actual-environmental-cost-of-ai-2026",
+  "original_filename": "is-ai-bad-for-the-environment.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 2874,
+  "hash": "16ba4ce40cfd0e4ac58afd8d7705839d8dcdcd743e627fe9d2964b5f57340591",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:44Z",
+  "decisions": [
+    {
+      "stage": "practice-close-reading",
+      "outcome": "merge",
+      "at": "2026-09-26",
+      "scope": "draft-only; integration pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/illingworth-464-the-actual-environmental-cost-of-ai-2026.md",
+      "practices": [
+        "practices/choose-the-result-before-the-tool.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 158,
+  "screening_id": 464,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/is-ai-bad-for-the-environment.md",
+  "bibliographic_metadata": {
+    "title": "The Actual Environmental Cost of AI",
+    "date": "2026-05-01",
+    "url": "https://theslowai.substack.com/p/is-ai-bad-for-the-environment",
+    "collection": "Sam Illingworth"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

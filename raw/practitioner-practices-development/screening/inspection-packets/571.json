@@ -1,0 +1,26 @@
+{
+  "id": 571,
+  "title": "The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/bob-moesta-20/transcript.md",
+  "sha256": "2949e2b2255f6a453fd6d26481b7faf6c9c9d975ec62e3e63d97b714b20db8b9",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 18999,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 37,
+      "offset": 800,
+      "text": "You just wrote a new book called Job Moves that I hav"
+    },
+    {
+      "line": 226,
+      "offset": 32730,
+      "text": "That's right. And so one of the things I'm trying to teach people now is to use AI to help them with the energy drains because most people, the one thing I've l"
+    }
+  ]
+}

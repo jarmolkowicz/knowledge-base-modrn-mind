@@ -1,0 +1,53 @@
+{
+  "queue_position": 119,
+  "id": 418,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-comments-and-real-writing.md",
+  "sha256": "cc9699fdb6b584461cf3d77afd27a71e980b43d06ae1cd94392bf0705a30025c",
+  "title": "Why AI Generated Comments Weaken Real Writing",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L26 #### **Why people react strongly to automated comments**",
+    "L48 #### Slow AI #1 – Teach It Something It Cannot Know",
+    "L60 #### **What writers value in comments**",
+    "L82 #### The Slow AI Library",
+    "L94 #### **What we are learning from this discussion**",
+    "L106 #### **Let’s Collaborate**",
+    "L112 #### Collaborating with Slow AI",
+    "L124 #### **Why this matters**",
+    "L132 #### **From [Teaching AI to Notice Neurodiverse Perception](https://theslowai.substack.com/p/ai-and-neurodiverse-perception)**"
+  ],
+  "passages": [
+    {
+      "line": 60,
+      "text": "#### **What writers value in comments**"
+    },
+    {
+      "line": 68,
+      "text": "**AI Meets Girlboss:** I remember my first week on Substack clearly. My inbox filled with comments that looked friendly at first glance but felt hollow the moment I read them. They were the kind of lines you could paste under any post. I even caught myself wanting to call it out, but I was too new to risk sounding dramatic, so I swallowed the disappointment and assumed this might be the culture here. Comments to me, mean that I’m actually seen on this platform, that my thoughts landed somewhere and were understood. Fortunately enough, I soon found writers whose comments sounded unmistakably human. They had original thought and felt more alive. Real comments make the Substack space feel warm, like we’re at an actual networking event and we’re cheering each other on. Automated ones make it feel empty. I learned the difference and it now shapes how I show up."
+    },
+    {
+      "line": 124,
+      "text": "#### **Why this matters**"
+    },
+    {
+      "line": 126,
+      "text": "*Slow AI* is about deliberate practice. Comments are one of the last unautomated corners of the internet. They work because they require presence. When that presence is simulated, the signal weakens."
+    },
+    {
+      "line": 132,
+      "text": "#### **From Teaching AI to Notice Neurodiverse Perception**"
+    },
+    {
+      "line": 138,
+      "text": "**Dancing Snail Chronicles** highlighted how these questions feel poetic as well as technical and welcomed an approach to AI that leans toward creativity rather than pure productivity."
+    },
+    {
+      "line": 142,
+      "text": "Taken together, these responses show why *Slow AI* depends on specific human experience and attention, not templated engagement."
+    },
+    {
+      "line": 146,
+      "text": "If you have experienced automated comments yourself or have any tips for how to respond to writers, then please let us know below the line."
+    }
+  ]
+}

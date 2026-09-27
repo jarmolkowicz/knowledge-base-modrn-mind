@@ -1,0 +1,37 @@
+{
+  "queue_position": 299,
+  "id": 702,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/katie-dill/transcript.md",
+  "sha256": "fed7068934d866b44d760bd7b6244f6abd26796ca3645927afe6ef96ccd2e0be",
+  "title": "Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 309,
+      "text": "Lenny (00:39:12):"
+    },
+    {
+      "line": 310,
+      "text": "Oh man, what an awesome process. I have a million questions I want to ask to better understand how you operationalize this. I'll try to ask just a few. But one thing that stood out about this process is I think people kind of don't trust their own judgment when they're looking at their own product. They kind of, especially product managers, almost have to feel like they have to rely on user research or data to know a thing versus like, \"I just see this and it feels bad to me.\" I think I've learned over time more and more that you should really trust that, because you're spending your energy trying to use this thing, you're not that different from a potential user. So, I love that this actually relies on your personal judgment trying to use a thing, which I think people undervalue."
+    },
+    {
+      "line": 354,
+      "text": "(00:45:11):"
+    },
+    {
+      "line": 355,
+      "text": "Then there is a summary score at the end, which is based on a rubric that we have that talks about the importance of quality from the point of view of usability, utility, desirability, and actually going to that next level of surprisingly great. Then we'll ask them to score on a whole what they felt of these things. Then that adds up to a summary score. Which we have also talked about the different ways of scoring. Is it a number-based system? Is it a letter-based system? Like A-minus and B?"
+    },
+    {
+      "line": 624,
+      "text": "Katie Dill (01:26:01):"
+    },
+    {
+      "line": 625,
+      "text": "Tell me what work you are most proud of. And the reason I ask that is because it helps me understand their taste and their judgment, what motivates them, what work they view as good and as a good outcome. It also helps me understand a little bit about what they like to do and where their gravity pulls them."
+    }
+  ]
+}

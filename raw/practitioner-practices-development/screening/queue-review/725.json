@@ -1,0 +1,29 @@
+{
+  "queue_position": 314,
+  "id": 725,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/maggie-crowley/transcript.md",
+  "sha256": "78ff7afcc2dda26408ddd931c687e5828f9442dfec0c7a6845477c858c656ebb",
+  "title": "Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 261,
+      "text": "Maggie Crowley (00:33:51):"
+    },
+    {
+      "line": 262,
+      "text": "Yeah. And I tell people, I do unsurprisingly talk to lots of people who either are in product or want to be in product. And that's one of the things I always tell them because if they're deciding between roles and they have an opportunity to do something, and my advice is always, if you can get someone to stamp you with the product manager role, take it. Because to your point, it's what we screen on. It's for better or for worse, it's just like you have to get that first job. And then once you get that first job, it all gets easier. You can get in and then you can talk about your experience because then the second question I have is, what have you shipped? So, it's like, have you been at PM before? What have you shipped? And it's fascinating how quickly people can't answer that question. And the people who can are always several steps ahead of the people."
+    },
+    {
+      "line": 564,
+      "text": "Maggie Crowley (01:13:15):"
+    },
+    {
+      "line": 565,
+      "text": "All of that is absolutely true. And I think one of the first pieces of content that I was really happy with was I was working with somebody and they were making a PowerPoint presenter slides or whatever, and I just wrote out in my notebook like, okay, here's how I do that. I start with an outline on paper and then I draw little boxes for the slides and I write out the headline of the slides. And then once I have a tight outline and I have the literal text that will go across the top of each of those things, then I sketch out how I want the slides to go. And then I go into Google Docs and I actually make the slide."
+    }
+  ]
+}

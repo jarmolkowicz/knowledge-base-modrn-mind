@@ -1,0 +1,37 @@
+{
+  "queue_position": 300,
+  "id": 704,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/keith-coleman-jay-baxter/transcript.md",
+  "sha256": "483440b10ffbf7012165c00b837745bc4d872f401faa40f7e30d87ab38311459",
+  "title": "An inside look at X’s Community Notes | Keith Coleman & Jay Baxter",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L34 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 117,
+      "text": "Keith Coleman (00:08:50):"
+    },
+    {
+      "line": 118,
+      "text": "A really classic example is an AI generated image or an out of context image like, \"Look what's happening here.\" But it's actually from five years ago in a different country and a different topic or something-"
+    },
+    {
+      "line": 810,
+      "text": "(01:38:47):"
+    },
+    {
+      "line": 811,
+      "text": "I think there are also new frontiers that show a lot of potential, AI and LLMs are one. It's easy to imagine a lot of ways that AI could assist the people in this task they're doing of trying to get information out there quickly. And maybe Jay should talk about the Supernotes work that we've done with some folks outside the company."
+    },
+    {
+      "line": 813,
+      "text": "Jay Baxter (01:39:13):"
+    },
+    {
+      "line": 814,
+      "text": "Yeah, so one cool thing about having public data and code is that external researchers can collaborate with you, and in this case Supernotes had this idea that we can basically take existing notes as input, existing proposed notes that maybe they have some problem, maybe they have part of the story, maybe they're worded in kind of a biased way. Basically take all these in, have an LLM generate a ton of different variants, and then basically make the simulated jury to basically get a representative group of contributors for community notes who would be rating the note and try to predict based on their past ratings how they would rate these LLM generated notes. And so this way you can actually, rather than just having an LLM write a note from scratch and hoping it's good, you can simulate the entire community notes rating process and explicitly create notes that are likely to be rated helpful by people."
+    }
+  ]
+}

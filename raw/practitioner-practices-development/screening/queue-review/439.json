@@ -1,0 +1,64 @@
+{
+  "queue_position": 131,
+  "id": 439,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-precision-research-framework.md",
+  "sha256": "80ac88aad094bc0ecf457064e45c0ce0db3896ac61669462db1b692edcdc298a",
+  "title": "Why Your AI Prompts Produce Noise Instead of Decisions",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L30 #### **Step-by-step**",
+    "L66 #### Teach AI Something It Cannot Know",
+    "L78 #### **A moment from** [Raghav Mehra](https://open.substack.com/users/325219597-raghav-mehra?utm_source=mentions)",
+    "L98 #### **Stop AI from stealing your voice**",
+    "L104 #### **What to do with it**",
+    "L116 #### **Why this matters**",
+    "L134 #### **From [AI Career Reflection: A Prompt to Evaluate Professional Adaptability](https://theslowai.substack.com/p/ai-career-reflection-prompt)**",
+    "L148 #### **How I Plan a Week of Notes Without Losing Hours**"
+  ],
+  "passages": [
+    {
+      "line": 10,
+      "text": "Most of us have now had the same experience. You ask your AI tool a question. The screen fills with a long, reasonable answer. It sounds informed. It covers many angles. When you reach the end, you are exactly where you started."
+    },
+    {
+      "line": 16,
+      "text": "- Open a discussion about how to use AI to sharpen your questions rather than outsource your judgement."
+    },
+    {
+      "line": 24,
+      "text": "*Focus* prompts require you to define your decision and narrow the scope before generation begins. You pause long enough to ask what would genuinely shift your view. This is the basis of the Precision Research Fram"
+    },
+    {
+      "line": 30,
+      "text": "#### **Step-by-step**"
+    },
+    {
+      "line": 34,
+      "text": "`I am researching [SPECIFIC TOPIC] because I need to [DECISION OR OUTCOME]. Refine the question with me, then research it using these three stages.`"
+    },
+    {
+      "line": 56,
+      "text": "Before you run this, you can add simple guardrails. For example, you might ask the system to avoid case studies from sectors you do not work in, or to ignore trends older than three years, or to skip basic definitions you already know."
+    },
+    {
+      "line": 58,
+      "text": "The goal is to insert a pause between your initial impulse and the AI output. You invite the system to ask you for focus before it offers you answers."
+    },
+    {
+      "line": 78,
+      "text": "#### **A moment from** Raghav Mehra"
+    },
+    {
+      "line": 90,
+      "text": "1. My first hundred subscribers would come from conversation, not distribution. One-to-one DMs mattered more than SEO. Write for real people I know rather than imaginary audiences."
+    },
+    {
+      "line": 116,
+      "text": "#### **Why this matters**"
+    },
+    {
+      "line": 118,
+      "text": "AI makes it easy to produce pages of plausible content, which encourages scatter thinking. You can generate ten ideas in minutes and skim a field in an hour. The volume feels productive, but it becomes harder to notice which question would actually change a decision. Scatter prompts feed this drift. They create movement without direction."
+    }
+  ]
+}

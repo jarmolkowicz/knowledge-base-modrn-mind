@@ -1,0 +1,26 @@
+{
+  "id": 738,
+  "title": "Building Anchor, selling to Spotify, and lessons learned | Maya Prohovnik (Head of Podcast Product)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/maya-prohovnik/transcript.md",
+  "sha256": "558e64e32337a4c20989785ca6b85774784058ec8e868bd3f2b3113c6c544ff3",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15204,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 883,
+      "text": "We were obsessed with reducing friction, th"
+    },
+    {
+      "line": 193,
+      "offset": 23317,
+      "text": "So I think when you're in the trap of just being like, well, this is the process we always have with insights and we're just going"
+    }
+  ]
+}

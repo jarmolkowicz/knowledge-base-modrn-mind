@@ -1,0 +1,45 @@
+{
+  "slug": "lenny-819-why-ai-is-disrupting-traditional-product-2025",
+  "original_filename": "transcript.md",
+  "format": "md",
+  "source_type": "transcript",
+  "word_count": 14570,
+  "hash": "4e4d862feffa6ee8dd4dc5feda23fdf3029ad5e35c7b154040bd33c2dbd1fcd8",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:48Z",
+  "decisions": [
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/lenny-819-why-ai-is-disrupting-traditional-product-2025.md",
+      "practices": [
+        "practices/explain-the-algorithm-you-own.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 576,
+  "screening_id": 819,
+  "collected_from": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/tomer-cohen/transcript.md",
+  "bibliographic_metadata": {
+    "title": "Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn CPO)",
+    "date": "2025-12-04",
+    "url": "https://www.youtube.com/watch?v=R-zCfLQD_84",
+    "collection": "Lenny's Podcast"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "practice_review": "practice-review.json"
+}

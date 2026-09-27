@@ -1,0 +1,66 @@
+{
+  "queue_position": 88,
+  "id": 350,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/10-year-old-vibe-codes-2-apps.md",
+  "sha256": "3829af8d40ff38c3068b78eacc0600e8242bdc095d7eae4deb94244334a76274",
+  "title": "10 Year Old Vibe Codes 2 Apps",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L42 ## What is Vibe Coding?",
+    "L60 ## How Do You Vibe Code?",
+    "L80 ## App 1 - Daily Diary",
+    "L130 ## App 2 - Learn Japanese",
+    "L162 ## Old Way vs New Way",
+    "L189 ## **P.S. Need More Help? 👋**"
+  ],
+  "passages": [
+    {
+      "line": 20,
+      "text": "To prove it, I sat my 10-year-old niece down in front of a laptop last night after my AI Livestream."
+    },
+    {
+      "line": 32,
+      "text": "Today, I’m going to show you the exact tool and prompts she used, why the old way of learning to code is dead, and exactly how to vibe code your first app in 10 minutes."
+    },
+    {
+      "line": 60,
+      "text": "## How Do You Vibe Code?"
+    },
+    {
+      "line": 68,
+      "text": "Make sure your first version with ONE feature works, test aggressively, then add ONE more sentence (i.e. feature), and test that works before adding anything else."
+    },
+    {
+      "line": 70,
+      "text": "While vibe coding is powerful, it’s still often wrong and brittle, so you need to build incrementally, slowly. Think training wheels."
+    },
+    {
+      "line": 80,
+      "text": "## App 1 - Daily Diary"
+    },
+    {
+      "line": 94,
+      "text": "> Build an online diary where on each page I write about my thoughts and can attach photos. It should look like a 2-page diary, with a flip animation to go the next page. And write the day on the top of each page."
+    },
+    {
+      "line": 106,
+      "text": "> based on the selected emoji mood for the day, change that day’s page background to a relevant background image that matches the mood. Download a bunch of free images from Unsplash as your samples."
+    },
+    {
+      "line": 108,
+      "text": "Then, AI implemented her feature request. But she wasn’t happy yet with that version. She wanted way more emojis and backgrounds! Here’s her next small incremental prompt:"
+    },
+    {
+      "line": 122,
+      "text": "HOWEVER she ran into a bug here. Music wasn’t playing, no matter how many different moods she selected. Instead of trying to build another feature, she asked AI to fix the issue first:"
+    },
+    {
+      "line": 124,
+      "text": "> we are currently unable to hear the music, please fix this minor error so we are able to hear the instrumental music"
+    },
+    {
+      "line": 126,
+      "text": "Emergent AI finally fixed it! The only remaining problem - she didn’t like the music options… so I showed her Suno AI to make her own music :)"
+    }
+  ]
+}

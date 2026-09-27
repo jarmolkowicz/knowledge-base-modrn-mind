@@ -1,0 +1,25 @@
+{
+  "queue_position": 218,
+  "id": 585,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/casey-winters/transcript.md",
+  "sha256": "83051341223e3f1e6e13c5d123f715e540614c6dcad8819a0f22b1a79abebd94",
+  "title": "Why most product managers are unprepared for the demands of a real startup | Casey Winters",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L40 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 40,
+      "text": "## Transcript"
+    },
+    {
+      "line": 73,
+      "text": "I ended up leading the growth product team there. We basically had to rebuild the growth model of the business to reignite growth, so I was there from 40 million MAU to 150 million MAU. And it was around that time that I started doing some more advising with Airbnb on the demand side, with Pocket. And then I went to a VC named Greylock Partners and worked with their companies on growth and scaling. And then I just independently started working as a full-time advisor with companies like Eventbrite, Tinder, Thumbtack, Canva. And after doing that for a couple years, Eventbrite opened this chief product officer role and they asked me to take it, so now I've been doing that for three years now."
+    },
+    {
+      "line": 112,
+      "text": "Well, I think the best way to coach is actually to do it before the meeting, so I think there's a tendency in product management and product design to want to do meetings where there's kind of this big reveal and an aha to the audience. And it's kind of the opposite of how you want to handle most of these situations. You want to de-risk that meeting not make it a big success or fail moment, so there's a few things that I do. One is if there is a big presentation coming up or something like that, I try to run through it with the team, pretending to be the other members of the audience that are going to be there, so I'll say, okay, well, what the CFO's going to ask about here is X. And you want to answer that question before it gets asked. What Julia, our CEO is going to ask about is why, so you want to weave that into the early story and not wait for her to ask."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "queue_position": 55,
+  "id": 275,
+  "path": "raw/inbox/Practical/Ruben Hassid/claude-code.md",
+  "sha256": "a55be76cb8ab5dae0d3121423bb7f7c467eb422d837816801d5ce10d9ff98dee",
+  "title": "Claude Code.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L45 ## **Forget coding. English is the new code.**",
+    "L68 #### **Step 1: Create a free GitHub account.**",
+    "L84 #### **Step 2: Go back to Claude Code, and link your GitHub.**",
+    "L98 #### **Step 3: Code, but without code. Just type words.**",
+    "L123 #### **Step 4: Accept everything. Check the live website. Edit infinitely.**",
+    "L155 ## **I can make you code 100x faster.**",
+    "L181 #### **Step 1: Download VS Code. It’s free.**",
+    "L193 #### **Step 2: Install the Claude extension.**",
+    "L207 #### **Step 3: Go to Claude’s settings inside VS Code.**",
+    "L227 #### **Step 4: Vibecode, faster than ever.**",
+    "L243 ## **The best way to prompt Claude Code.**",
+    "L249 #### **Start with a screenshot.**",
+    "L255 #### **Describe the end result. Never the steps.**",
+    "L263 #### **Point Claude to your files.**",
+    "L269 #### **One thing at a time.**",
+    "L275 #### **When something looks off, screenshot it.**",
+    "L287 ## **Your Claude Code needs a brain.**",
+    "L315 ## **Where Claude Code falls short.**",
+    "L335 ## **Your first 30 minutes with Claude Code.**",
+    "L339 #### **Minutes 0–5: Install and open Claude Code.**",
+    "L349 #### **Minutes 5–10: Build your context folder.**",
+    "L357 #### **Minutes 10–15: Start your first Code conversation.**",
+    "L367 #### **Minutes 15–20: Accept everything. Ask for edits.**",
+    "L381 #### **Minutes 20-30: Create a tough deliverable.**",
+    "L395 ## **I don’t care about Claude.**"
+  ],
+  "passages": [
+    {
+      "line": 263,
+      "text": "#### **Point Claude to your files.**"
+    },
+    {
+      "line": 265,
+      "text": "Already have an **about-me.md** or **brand guidelines** in your folder. Tell Claude: *“Read the files in my folder first. Use my tone and style for the website copy.”*"
+    },
+    {
+      "line": 269,
+      "text": "#### **One thing at a time.**"
+    },
+    {
+      "line": 271,
+      "text": "Don’t dump 12 features in one prompt. Start with the homepage. Get it right. Then add the contact page. Then the blog section. Each conversation is a sprint."
+    },
+    {
+      "line": 275,
+      "text": "#### **When something looks off, screenshot it.**"
+    },
+    {
+      "line": 281,
+      "text": "Claude sees the problem and patches the code. Takes 10 seconds instead of a paragraph of explanation."
+    },
+    {
+      "line": 287,
+      "text": "## **Your Claude Code needs a brain.**"
+    },
+    {
+      "line": 298,
+      "text": "Create a CLAUDE.md file in the root of this project. Inside it, write down everything you’ve learned about this project so far. Here are examples, but not limited to thisL the folder structure, what each file does, the design choices I made (fonts, colors, layout), my preferences, and what pages or sections exist."
+    },
+    {
+      "line": 305,
+      "text": "Claude reads CLAUDE.md first. It already knows what your website looks like, what fonts you picked, which pages exist, and what your last edits were."
+    },
+    {
+      "line": 315,
+      "text": "## **Where Claude Code falls short.**"
+    },
+    {
+      "line": 321,
+      "text": "**2. You can’t review the code.** When Claude writes code, you’re trusting it. You don’t read code. I don’t either. If Claude writes something messy, we won’t catch it. My workaround: test the actual website. Click every button. Check it on your phone. Your eyes are your code review."
+    },
+    {
+      "line": 327,
+      "text": "**4. The desktop Code tab is limited.** The Code tab inside the Claude app works fine for a first try. But VS Code gives you auto-accept, better file browsing, and a much faster workflow. I’d skip the desktop tab and go straight to VS Code once you’re comfortable."
+    },
+    {
+      "line": 349,
+      "text": "#### **Minutes 5–10: Build your context folder.**"
+    },
+    {
+      "line": 353,
+      "text": "→ In the **context** folder, create your first file: *about-me.md*. Write three things: (1) What you do for work. (2) How you like to communicate. (3) One example of writing you’re proud of. Paste it in."
+    },
+    {
+      "line": 357,
+      "text": "#### **Minutes 10–15: Start your first Code conversation.**"
+    },
+    {
+      "line": 363,
+      "text": "→ Type: *“I want [task] for [success criteria]. Go through my folder first, and use AskUserQuestion tool so you gather enough content before executing.”*"
+    },
+    {
+      "line": 381,
+      "text": "#### **Minutes 20-30: Create a tough deliverable.**"
+    },
+    {
+      "line": 385,
+      "text": "→ Type: *“Build me [specific thing] with [specific requirements]. Read the files in my folder first.”*"
+    }
+  ]
+}

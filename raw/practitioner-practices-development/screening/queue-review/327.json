@@ -1,0 +1,65 @@
+{
+  "queue_position": 78,
+  "id": 327,
+  "path": "raw/inbox/Practical/Ruben Hassid/same.md",
+  "sha256": "bc855c7a3587186decfbcf7db83036b5291fb0d1a11b2735fdfcd47ea63763f5",
+  "title": "Joking.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L16 ### **Table of contents**",
+    "L29 ## 1. You don’t understand LLMs.",
+    "L59 ## 2. How to get anything creative.",
+    "L133 ## 3. How to push ChatGPT to be edgy.",
+    "L197 ## 5. Best of GPT-5 prompts *(to copy & paste).*"
+  ],
+  "passages": [
+    {
+      "line": 29,
+      "text": "## 1. You don’t understand LLMs."
+    },
+    {
+      "line": 49,
+      "text": "You can prompt it 50 times, and it will always say “park”. Unless there is another way to prompt it? I’ll go through it in Part 2 of this newsletter."
+    },
+    {
+      "line": 51,
+      "text": "But first, if you want to understand LLMs fully, I found this 7-minute video that explains it even better:"
+    },
+    {
+      "line": 133,
+      "text": "## 3. How to push ChatGPT to be edgy."
+    },
+    {
+      "line": 149,
+      "text": "1. Hebrew is read from right to left (not left to right). Yes, books are the other way around. Also phone apps, menus, anything really."
+    },
+    {
+      "line": 150,
+      "text": "2. Modern written Hebrew do not add voyels… People read only with the consonant. And if it has the same letter, you need context. “ספר” can mean *book* (sefer), *count* (safar), or *story* (sipur) depending on context."
+    },
+    {
+      "line": 151,
+      "text": "3. Roots drive meaning. Most words come from 3-letter roots with many derived forms, so you must recognize patterns, not memorize words."
+    },
+    {
+      "line": 153,
+      "text": "ChatGPT’s answer was pretty good. But what if I want deeper insights in learning Hebrew faster? Let’s go deeper with this simple follow-up prompt:"
+    },
+    {
+      "line": 156,
+      "text": "I knew all of this. I want you to go much deeper. Focus on the 20% that you haven’t shared yet to reach 80% of my target (being fluent)."
+    },
+    {
+      "line": 176,
+      "text": "I am French. I speak English fluently. And I am learning Hebrew while living in Israel. Search the web for this specific case study. "
+    },
+    {
+      "line": 178,
+      "text": "I will ask again, now that you know my full situation, focus on the 20% that you haven’t shared yet to reach 80% of my target (being fluent)."
+    },
+    {
+      "line": 189,
+      "text": "But the right one taps into (1) the data you needed to make a better decision (2) the right text with your tone of voice or (3) the proof-reading you needed to validate a contract."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "queue_position": 40,
+  "id": 96,
+  "path": "raw/inbox/Practical/Ethan Mollick/the-lazy-tyranny-of-the-wait-calculation.md",
+  "sha256": "0c9f3f52308f575be4d48fd57bf47fe1efc05eefb125096a76a2f458a6fc56d2",
+  "title": "The Lazy Tyranny of the Wait Calculation",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 10,
+      "text": "Say you wanted to get to our stellar neighbor, Barnard’s Star as fast as possible. When should you leave?"
+    },
+    {
+      "line": 16,
+      "text": "When technology is improving quickly enough, there are types of problems that work just like the interstellar journey, where waiting for technology to get better beats acting immediately. This is called a Wait Calculation, and it was first used for the Barnard’s Star scenario, but the logic also turns out to apply to other problems as well. For example, there are certain classes of mathematical problems where the computations would take decades, so you are better off waiting for Moore’s Law to kick in, and computers to improve, before even starting to try to solve them."
+    },
+    {
+      "line": 60,
+      "text": "# Should you wait?"
+    },
+    {
+      "line": 69,
+      "text": "But Wait Calculations can also be dangerous and disincentivizing, so you may want to ignore them entirely, or at least ask yourself these questions:"
+    },
+    {
+      "line": 73,
+      "text": "- **What if you are wrong?** There are plenty of AI skeptics that believe that progress will come to an end soon, or that AI is much less impressive than it appears at first glance, and that much of its apparent success is a mirage. You should take these views into account, and not automatically buy into hype. We don’t know what the future really holds."
+    },
+    {
+      "line": 75,
+      "text": "Returning to the timeline for AI as an academic, one thought crosses my mind: the time it takes to go from a new idea for a project to publishing a completed paper is **often greater than the timeline for reaching AGI according to prediction markets.** I have had papers published in far less time (a year or two). But I also had a paper that I started working on in 2006. It was finally officially published on the 29th of December in 2016 - a decade of waiting. So, as an experiment to see what the future holds, I decided to create a GPT that would write academic papers. It isn’t up to the level of a good academic paper… but it also isn’t a terrible first try for a PhD student - you can try it yourself."
+    }
+  ]
+}

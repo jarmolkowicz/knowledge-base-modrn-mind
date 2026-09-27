@@ -1,0 +1,81 @@
+{
+  "queue_position": 140,
+  "id": 452,
+  "path": "raw/inbox/Practical/Sam Illingworth/do-you-really-understand-your-ai.md",
+  "sha256": "2190eb9587325e3cc6ea6eda9bcb47cc8a592f5afd947e4622cfe9f757e7abc3",
+  "title": "Do You Really Understand Your AI Tool?",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L32 #### **Step-by-step**",
+    "L46 #### Slow AI #1 – Teach It Something It Cannot Know",
+    "L58 #### **A moment from [Stephen D. Carver](https://open.substack.com/users/405178570-stephen-d-carver?utm_source=mentions)**",
+    "L114 #### The Slow AI Library",
+    "L126 #### **What to do with it**",
+    "L140 #### **Why this matters**",
+    "L158 #### **From [Why AI Generated Comments Weaken Real Writing](https://theslowai.substack.com/p/ai-comments-and-real-writing)**",
+    "L172 #### **Let’s Collaborate**",
+    "L178 #### Collaborating with Slow AI"
+  ],
+  "passages": [
+    {
+      "line": 14,
+      "text": "This week’s *Slow AI* prompt comes from Stephen D. Carver, AKA *The**Reinvention Journal*. It offers a small act of self study. When you ask the tool to explain a misunderstanding gently, you create the conditions to notice how your own stance shapes what comes back to you."
+    },
+    {
+      "line": 26,
+      "text": "Once these patterns become visible you can decide which ones to keep and which ones to shift. The point is not to control the tool. The point is to understand the currents shaping the exchange."
+    },
+    {
+      "line": 58,
+      "text": "#### **A moment from Stephen D. Carver**"
+    },
+    {
+      "line": 62,
+      "text": "The AI gently corrected a common assumption: that it searches through databases when you ask a question."
+    },
+    {
+      "line": 98,
+      "text": "> **The way you ask something—the tone, the specificity, what you emphasize—influences what I generate. We’re in a kind of dance together.**"
+    },
+    {
+      "line": 102,
+      "text": "Like anything in this world, it’s important to understand how AI actually works before relying on it so heavily."
+    },
+    {
+      "line": 104,
+      "text": "Most people skip that step. They jump straight to using the tool without grasping the fundamentals, i.e., how it generates responses, why it can sound authoritative while being wrong, how much your framing shapes what comes back."
+    },
+    {
+      "line": 126,
+      "text": "#### **What to do with it**"
+    },
+    {
+      "line": 132,
+      "text": "- If you adapted the prompt for a personal transition, note what changed when the context grew more vulnerable."
+    },
+    {
+      "line": 158,
+      "text": "#### **From Why AI Generated Comments Weaken Real Writing**"
+    },
+    {
+      "line": 166,
+      "text": "**The Faraday Room** pointed out that AI is rarely the core issue. The real question is sincerity and whether the interaction signals care rather than pure visibility."
+    },
+    {
+      "line": 172,
+      "text": "#### **Let’s Collaborate**"
+    },
+    {
+      "line": 174,
+      "text": "If you enjoy *Slow AI* and would like to create something together, I would love to collaborate. To find out how, click here."
+    },
+    {
+      "line": 178,
+      "text": "#### Collaborating with Slow AI"
+    },
+    {
+      "line": 190,
+      "text": "If you try this week’s prompt, Stephen D. Carver & I would love to hear what your AI tool ‘thinks’ humans most misunderstand about how it works."
+    }
+  ]
+}

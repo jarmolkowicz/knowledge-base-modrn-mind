@@ -1,0 +1,26 @@
+{
+  "id": 791,
+  "title": "Building Substack | Sachin Monga (Substack, Facebook)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/sachin-monga/transcript.md",
+  "sha256": "e91c1fa6d7233474ce197980f966bcc88c5d827b15d8b92053dcf105541dd780",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13187,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 779,
+      "text": "I really think that we're just starting int"
+    },
+    {
+      "line": 375,
+      "offset": 54969,
+      "text": "Something that I imagine somebody suggested that I'd suggest you all look into a little bit is open AI assisted writing. I was pla"
+    }
+  ]
+}

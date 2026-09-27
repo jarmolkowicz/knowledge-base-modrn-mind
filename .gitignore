@@ -46,6 +46,7 @@ raw/processing/
 # In every per-source dir raw/<slug>/, ignore the source binary and the full extracted text
 raw/*/original*
 raw/*/source.md
+raw/practitioner-practices-development/screening/pdf-screening-text.md
 
 # Python build artifacts
 __pycache__/

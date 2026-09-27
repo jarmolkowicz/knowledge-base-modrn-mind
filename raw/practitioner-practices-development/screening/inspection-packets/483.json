@@ -1,0 +1,24 @@
+{
+  "id": 483,
+  "title": "Teach Your AI Tool a Lie You Once Believed",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-2-teach-it-a-lie.md",
+  "sha256": "b95ae7f25f26bf3da6c6852649c3c643576e7d02532f69bb7169d259d7996a45",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 722,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 13,
+      "offset": 295,
+      "text": "Last week’s prompt (*Teach It Something It Cannot Know*) led to so"
+    },
+    {
+      "line": 36,
+      "offset": 1285,
+      "text": "4. After you have shared it, ask the AI tool:"
+    }
+  ]
+}

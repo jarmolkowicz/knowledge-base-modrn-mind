@@ -1,0 +1,24 @@
+{
+  "id": 93,
+  "title": "The Bitter Lesson versus The Garbage Can",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/the-bitter-lesson-versus-the-garbage.md",
+  "sha256": "06c63196fd5de33d3578b95fabc7f0e25a421ff938fbb1aabd3272975e24a5aa",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1907,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 236,
+      "text": "One of my favorite academic papers about organizations is by Ruthanne Huising, and it tells the stor"
+    },
+    {
+      "line": 50,
+      "offset": 9752,
+      "text": "It turns out there is now evidence that this may be possible with the recent release of ChatGPT agent (an uninspiring name, but at least it is clear, a big step forward for OpenAI!). ChatGPT agent represents a fundamental shift. It is not trained on the *process* of doing work; instead, OpenAI used "
+    }
+  ]
+}

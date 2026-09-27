@@ -1,0 +1,33 @@
+{
+  "id": 430,
+  "author": "Tom Evans, with Sam Illingworth",
+  "group_index": 11,
+  "decision": "defer",
+  "locators": [
+    "L28–42, three-part prompt",
+    "L62–76, reported meditation interaction",
+    "L86–104, reflection guidance"
+  ],
+  "basis": "First-person contemplative account and speculative interaction design",
+  "reported_outcomes": [
+    "Evans reports clearer description of sensations and a calmer conversational rhythm."
+  ],
+  "proposed_outcomes": [
+    "Use questions to notice bodily experience and attention."
+  ],
+  "limits": [
+    "Reported tone and sensation changes are not validated meditation benefits.",
+    "Claims that AI recognized meditative depth from sparse words are interpretations.",
+    "The simulated-meditation framing encourages anthropomorphic assumptions and adds little to the already retained question-and-reflection routines."
+  ],
+  "review_note": "Defer a standalone card. Preserve the useful boundary that the person reports sensations and judges distraction; revisit with a clearer non-speculative protocol.",
+  "coverage": "Close-read all 156 lines of available extracted article text; image-only content and linked media not reviewed.",
+  "related_entries": [
+    "agency",
+    "doshi-hauser-creativity-diversity-2024"
+  ],
+  "practice_files": [],
+  "role": "deferred",
+  "draft_only": true,
+  "integration_decision": "pending"
+}

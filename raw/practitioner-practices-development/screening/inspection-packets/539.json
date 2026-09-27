@@ -1,0 +1,26 @@
+{
+  "id": 539,
+  "title": "An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/alex-hardimen/transcript.md",
+  "sha256": "39d6c5b93991765100e524bef5f125f7bbca219b5ade61076b39eda22e0ad165",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13637,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 880,
+      "text": "One thing that's really interesting is that our impac"
+    },
+    {
+      "line": 79,
+      "offset": 7145,
+      "text": "For me, one of my first, the dream for me was to try to find a way to build things in the new space. That's how I first ended up at The New York Times. I've had"
+    }
+  ]
+}

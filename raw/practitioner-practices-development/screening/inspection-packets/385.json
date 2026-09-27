@@ -1,0 +1,30 @@
+{
+  "id": 385,
+  "title": "How To Actually Achieve Your Goals in 2026",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/how-to-actually-achieve-your-goals.md",
+  "sha256": "540a823830831d90c00f49df64b93cb42eed234914bae8cf0888ebca29b7bf1c",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 654,
+  "headings": [
+    "Prompt 1 - Inventory",
+    "Prompt 2 - Priority",
+    "Prompt 3 - Clarity",
+    "Next Steps",
+    "**P.S. Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 230,
+      "text": "Stop “Fake Work” and identify your Number One Thing."
+    },
+    {
+      "line": 58,
+      "offset": 1764,
+      "text": "This prompt forces AI to reflect your reality back to you, so you can see your time-leaks in black and white."
+    }
+  ]
+}

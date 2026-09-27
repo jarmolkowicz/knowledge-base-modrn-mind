@@ -1,0 +1,119 @@
+{
+  "queue_position": 152,
+  "id": 479,
+  "path": "raw/inbox/Practical/Sam Illingworth/run-ai-locally-old-laptop.md",
+  "sha256": "ad9edf49a7e5898b871ec5b559b928fbaff28b6791e1f90c460bd4022431e519",
+  "title": "Run Your Own AI on a Laptop You Already Own",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L17 #### **In this post I will:**",
+    "L25 #### **The machine**",
+    "L52 #### **What speed hides**",
+    "L62 #### **What the small model reveals**",
+    "L80 #### **Renting versus buying**",
+    "L92 #### **The FOMO trap**",
+    "L108 #### **It keeps prompting you to keep prompting**",
+    "L144 #### **Why this matters for you**",
+    "L162 #### **How to do this yourself**",
+    "L193 #### **The temperature experiment**",
+    "L217 #### **Other models to try**",
+    "L228 #### **What to notice**",
+    "L240 #### **Useful commands**",
+    "L256 #### **What local models cannot do yet**",
+    "L264 #### **The point**"
+  ],
+  "passages": [
+    {
+      "line": 25,
+      "text": "#### **The machine**"
+    },
+    {
+      "line": 35,
+      "text": "`Write me a poem about London in the style of Michael Rosen.`"
+    },
+    {
+      "line": 62,
+      "text": "#### **What the small model reveals**"
+    },
+    {
+      "line": 72,
+      "text": "I asked it to explain critical AI literacy. The answer was decent: bias, ethics, evaluating claims. Generic, but structurally sound. Then it offered me three links to learn more: the AI Now Institute, the Partnership on AI, and MIT Technology Review. I checked. The first two URLs worked. The third was subtly wrong: a plausible path to an MIT Technology Review page, but not a page that actually exists. The model generated these from pattern, not from knowledge. A larger model would do the same thing with more confidence and better formatting, and I would be less likely to check."
+    },
+    {
+      "line": 162,
+      "text": "#### **How to do this yourself**"
+    },
+    {
+      "line": 164,
+      "text": "You need a computer with at least 16GB of RAM and about 30 minutes. You do not need to know how to code."
+    },
+    {
+      "line": 166,
+      "text": "**1. Open your terminal.** On Mac: press Cmd + Space, type Terminal, press Enter. On Windows: search for PowerShell. This is a text-based app where you type commands. It feels unfamiliar. Within 30 minutes, it will feel normal."
+    },
+    {
+      "line": 168,
+      "text": "**2. Install Ollama.** Ollama is free software that manages and runs language models on your computer. On Mac, paste this into Terminal:"
+    },
+    {
+      "line": 173,
+      "text": "If you do not have Homebrew, go to ollama.com and download the app directly."
+    },
+    {
+      "line": 175,
+      "text": "On Windows: download from ollama.com and run the installer."
+    },
+    {
+      "line": 177,
+      "text": "**3. Download a model.** Paste this:"
+    },
+    {
+      "line": 181,
+      "text": "This downloads Google’s Gemma 3 (4 billion parameters, about 3.3GB). It happens once. After that, the model lives on your machine."
+    },
+    {
+      "line": 187,
+      "text": "You are now chatting with an AI on your own computer. No internet required. No data sent anywhere."
+    },
+    {
+      "line": 217,
+      "text": "#### **Other models to try**"
+    },
+    {
+      "line": 222,
+      "text": "`ollama pull qwen3:4b` # Alibaba, strong at structured tasks"
+    },
+    {
+      "line": 240,
+      "text": "#### **Useful commands**"
+    },
+    {
+      "line": 242,
+      "text": "`ollama list` # See installed models  "
+    },
+    {
+      "line": 243,
+      "text": "`ollama pull <model>` # Download a model  "
+    },
+    {
+      "line": 244,
+      "text": "`ollama rm <model>` # Delete a model  "
+    },
+    {
+      "line": 245,
+      "text": "`ollama run <model>` # Start chatting  "
+    },
+    {
+      "line": 246,
+      "text": "`ollama show <model>` # See model details"
+    },
+    {
+      "line": 250,
+      "text": "`/set parameter temperature X` # Change temperature to X (Number between 0 and 2)  "
+    },
+    {
+      "line": 251,
+      "text": "`/show info` # See current settings  "
+    }
+  ]
+}

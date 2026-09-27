@@ -1,0 +1,24 @@
+{
+  "id": 92,
+  "title": "Superhuman?",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/superhuman.md",
+  "sha256": "5dbc0ef936635b6b23b69ab5842405d75355432ac2c7990594b11fe23ea6d692",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2395,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 152,
+      "text": "The explicit goal of many of the most important AI labs on the planet is to achieve Artificial Gener"
+    },
+    {
+      "line": 33,
+      "offset": 5529,
+      "text": "Another issue with one-off tests is that they don’t help us understand if AI is broadly getting closer to AGI. For that, we need benchmarks over time. The field of AI has a lot of benchmarks, and they are mostly pretty idiosyncratic. Almost all of them focus on either coding skills (AI labs are full"
+    }
+  ]
+}

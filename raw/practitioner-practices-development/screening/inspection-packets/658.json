@@ -1,0 +1,26 @@
+{
+  "id": 658,
+  "title": "How to build a team that can “take a punch” | Hilary Gridley (Head of Core Product, Whoop)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/hilary-gridley/transcript.md",
+  "sha256": "ad366d6591d650a28194ab1f3c21cc29b24cad4de0039e058857dc5cd256cfb6",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 22977,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 842,
+      "text": "Product leadership is the type of role where i"
+    },
+    {
+      "line": 589,
+      "offset": 73516,
+      "text": "And part of why I like Custom GPTs as a tool for helping people learn to use LLMs, and I talk about this on the podcast I did with Claire, o"
+    }
+  ]
+}

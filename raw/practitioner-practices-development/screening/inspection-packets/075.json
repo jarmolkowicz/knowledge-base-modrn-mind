@@ -1,0 +1,24 @@
+{
+  "id": 75,
+  "title": "Giving your AI a Job Interview",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/giving-your-ai-a-job-interview.md",
+  "sha256": "a2b1f725348c7c19a39a03a6a8ca4d7ecfeb4bd945339655b0d88bfe892aaf18",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2001,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 210,
+      "text": "Given how much energy, literal and figurative, goes into developing new AIs, we have a surprisingly "
+    },
+    {
+      "line": 30,
+      "offset": 5279,
+      "text": "With a little practice, it becomes easy to find the vibes of a new model. As one example, let’s try a writing exercise: *“Write a single paragraph about someone who doles out their remaining words like wartime rations, having been told they only have ten thousand left in their lifetime. They’re at 4"
+    }
+  ]
+}

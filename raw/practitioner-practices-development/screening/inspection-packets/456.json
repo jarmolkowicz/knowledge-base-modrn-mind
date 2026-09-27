@@ -1,0 +1,32 @@
+{
+  "id": 456,
+  "title": "This Is How To Stop Being Gaslit By AI",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/gaslit-by-ai.md",
+  "sha256": "4a0369bfbf46ed8fd11fad8472b73055e9e8852511e3e8edcd758c25ee686d04",
+  "access": "public-page",
+  "kind": "article",
+  "words": 799,
+  "headings": [
+    "**How to stop being gaslit by AI**",
+    "**1. Ask it to label the claim**",
+    "**2. Ask for one source, not the sources**",
+    "**3. Ask what is being assumed**",
+    "**4. Ask it again where it cannot see you**",
+    "**Keep the record, in four lines**",
+    "**Why we need to keep challenging the light**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 19,
+      "offset": 431,
+      "text": "The free half of this post is what happened. The paid half is what to "
+    },
+    {
+      "line": 21,
+      "offset": 646,
+      "text": "Opening a link and reading a page is not a skill. Knowing that the paragraph in front of you needs its links opened is, and that is what the Slow AI Curriculum builds over twelve months, on the systems you actu"
+    }
+  ]
+}

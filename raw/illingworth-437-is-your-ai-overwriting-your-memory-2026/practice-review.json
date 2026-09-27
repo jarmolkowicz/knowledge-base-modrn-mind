@@ -1,0 +1,34 @@
+{
+  "id": 437,
+  "group_index": 5,
+  "decision": "counterexample",
+  "coverage": "Full available extracted article, L1–112. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L32: hallucination-versus-human-uncertainty prompt",
+    "L42–60: dream conversation, invented document and external file search"
+  ],
+  "basis": "Contributor first-person account.",
+  "reported_outcomes": [
+    "J Hong reports that Dream_Journal_Analysis.docx could not be found in Drive or on disk; existing journals were JSON files. The dream memory remained uncertain."
+  ],
+  "proposed_outcomes": [],
+  "limits": [
+    "A failed file search does not prove human memory generally more reliable.",
+    "Asking why an answer could be a hallucination did not establish its truth."
+  ],
+  "related_entries": [
+    "reference-verification",
+    "automation-bias"
+  ],
+  "practice_files": [
+    "raw/illingworth-456-this-is-how-to-stop-being-2026/drafts/practices/preserve-an-ai-claim-before-challenging-it.md"
+  ],
+  "role": "counterexample",
+  "review_note": "Retain failure evidence for external record checks, not the failed verification prompt.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/preserve-an-ai-claim-before-challenging-it.md"
+  ],
+  "historical_drafts_retained": true
+}

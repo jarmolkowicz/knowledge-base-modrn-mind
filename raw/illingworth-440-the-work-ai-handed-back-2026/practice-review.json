@@ -1,0 +1,33 @@
+{
+  "id": 440,
+  "group_index": 15,
+  "decision": "draft_with_limits",
+  "coverage": "Read the complete available local article body; linked images, videos and external claims not independently inspected.",
+  "locators": [
+    "L91–123"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Proposes a private one-line intervention log."
+  ],
+  "proposed_outcomes": [
+    "Make otherwise invisible human work inspectable."
+  ],
+  "limits": [
+    "No outcome evaluation. Avoid treating estimated avoided costs as measured savings. News examples and hiring-causation claims excluded. Keep confidential details within authorized systems."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/illingworth-440-the-work-ai-handed-back-2026/drafts/practices/record-human-interventions.md"
+  ],
+  "role": "origin",
+  "review_note": "Keep dated notes of human interventions: errors caught, escalations and contextual advice.",
+  "author": "Sam Illingworth",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/record-human-interventions.md"
+  ],
+  "historical_drafts_retained": true
+}

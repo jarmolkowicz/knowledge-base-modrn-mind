@@ -1,0 +1,24 @@
+{
+  "id": 64,
+  "title": "15 Times to use AI, and 5 Not to",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/15-times-to-use-ai-and-5-not-to.md",
+  "sha256": "3448cdf6a8d9a178e8143fd10e3e87123e00e90de2f52aef8737e8bd7950d8bb",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1564,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 215,
+      "text": "There are several types of work where AI can be particularly useful, given the current capabilities "
+    },
+    {
+      "line": 42,
+      "offset": 7484,
+      "text": "1. When you need to learn and synthesize new ideas or information. Asking for a summary is not the same as reading for yourself. Asking AI to solve a problem for you is not an effective way to learn, even if it feels like it should be. To learn something new, you are going to have to do the reading "
+    }
+  ]
+}

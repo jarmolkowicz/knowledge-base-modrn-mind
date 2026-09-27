@@ -1,0 +1,29 @@
+{
+  "queue_position": 316,
+  "id": 728,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/marily-nika/transcript.md",
+  "sha256": "e5e12847e22992890963dfe04c119690751b6f5b9d0793d88b3498689b2ae978",
+  "title": "AI and product management | Marily Nika (Meta, Google)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 36,
+      "text": "## Transcript"
+    },
+    {
+      "line": 78,
+      "text": "I want to follow up on what you just said there, but maybe we'll save it a little bit. Maybe going in a different direction first, what do you think is overhyped in the space of AI right now? What do you think is under hyped and undervalued?"
+    },
+    {
+      "line": 147,
+      "text": "So I guess it's all about changing the mindset of PMs. Taking a step back and just thinking about, okay, I have all this data that's just lying and sitting around what is it that I can do with it? I've been meeting PMs that said, \"Oh, we're not collecting any data, we're [inaudible 00:12:46] dashboard.\" So even that is a huge first step towards AI. And then just start thinking about it, where you could deal, get a data science intern and just see what they are going to do. There's just so much people can do."
+    },
+    {
+      "line": 222,
+      "text": "It depends on what type of learner you are. There are some people that learn offline, so just go to Coursera, there are so many courses. There is an amazing one actually introduction to AI by Stanford that they're going to encourage people to take a look at. But I know that a lot of people don't like, don't have the time, don't have the discipline to actually take time off or after work, after they put their kids to sleep to just do it. So if you enjoy learning with others, if you enjoying being part of a team, if you enjoy going through a journey together, then I recommend these resources. So there is something called Career Foundry, which is a fantastic on coding school, General Assembly and then Coding Dojo."
+    }
+  ]
+}

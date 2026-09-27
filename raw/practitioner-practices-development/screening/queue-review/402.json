@@ -1,0 +1,89 @@
+{
+  "queue_position": 108,
+  "id": 402,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/ultimate-ai-coding-guide-claude-code.md",
+  "sha256": "3dfe65c4c215c5bda8e9c7330767f502cda28c47dae608e528b81d40e5ac843f",
+  "title": "The ULTIMATE AI Coding Guide",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L24 ## AI Coding Rules - CLAUDE.md File",
+    "L31 ## Implementation Best Practices",
+    "L33 ### 0 — Purpose  ",
+    "L40 ### 1 — Before Coding",
+    "L48 ### 2 — While Coding",
+    "L66 ### 3 — Testing",
+    "L83 ### 4 — Database",
+    "L90 ### 5 — Code Organization",
+    "L96 ### 6 — Tooling Gates",
+    "L103 ### 7 - Git",
+    "L110 ## Writing Functions Best Practices",
+    "L128 ## Writing Tests Best Practices",
+    "L164 ## Code Organization",
+    "L173 ## Remember Shortcuts",
+    "L177 ### QNEW",
+    "L186 ### QPLAN",
+    "L195 ## QCODE",
+    "L206 ### QCHECK",
+    "L219 ### QCHECKF",
+    "L230 ### QCHECKT",
+    "L241 ### QUX",
+    "L250 ### QGIT",
+    "L275 ## AI Coding Process",
+    "L319 ## Caveats with AI Coding in 2025",
+    "L335 ## Need More Help? 👋"
+  ],
+  "passages": [
+    {
+      "line": 14,
+      "text": "I walk through my CLAUDE.md file containing AI coding rules, then implement a real feature from scratch, following a structured step-by-step process."
+    },
+    {
+      "line": 20,
+      "text": "You still need to be hands-on involved, push back on AI plans, stop it from going down the wrong rabbit hole, question the code, and test extensively."
+    },
+    {
+      "line": 24,
+      "text": "## AI Coding Rules - CLAUDE.md File"
+    },
+    {
+      "line": 26,
+      "text": "Here's my CLAUDE.md file, which you can ask AI to tailor to your codebase. You can also use this in Cursor Rules."
+    },
+    {
+      "line": 250,
+      "text": "### QGIT"
+    },
+    {
+      "line": 268,
+      "text": "types other than fix: and feat: are allowed, for example @commitlint/config-conventional (based on the Angular convention) recommends build:, chore:, ci:, docs:, style:, refactor:, perf:, test:, and others."
+    },
+    {
+      "line": 275,
+      "text": "## AI Coding Process"
+    },
+    {
+      "line": 280,
+      "text": "2. I typically start in “normal mode” (not Planning mode), then transition to “auto accept edits mode” when Claude starts coding"
+    },
+    {
+      "line": 283,
+      "text": "5. discuss my user story with Claude and make a plan, making sure to simplify it as much as possible, remove unnecessary features or optimizations, and question anything sketchy"
+    },
+    {
+      "line": 297,
+      "text": "8. I use the shortcuts `qcheck`, `qcheckf`, and `qcheckt` pretty frequently after Claude starts writing code. They instruct Claude to review its code changes, ensuring they adhere to my best practices checklists from the CLAUDE.md file. qcheckf focuses on functions that were added or changed, while qcheckt focuses on tests. Still far from perfect, but definitely 10x better than without it!"
+    },
+    {
+      "line": 313,
+      "text": "11. The very last step is to commit changes and push. I type `qgit` and Claude Code writes a nice commit message following Conventional Commits format."
+    },
+    {
+      "line": 319,
+      "text": "## Caveats with AI Coding in 2025"
+    },
+    {
+      "line": 321,
+      "text": "While AI tools can quickly generate functioning code, the initial output often leaves much room for improvement. I rarely, if ever, accept AI’s first draft code."
+    }
+  ]
+}

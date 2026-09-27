@@ -1,0 +1,35 @@
+{
+  "queue_position": 26,
+  "id": 74,
+  "path": "raw/inbox/Practical/Ethan Mollick/confronting-impossible-futures.md",
+  "sha256": "74a7fb38fe90946c9073942d648716a8d76dad6bdf918cbecaa497b2c5a2fabd",
+  "title": "Confronting Impossible Futures",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 28,
+      "text": "What you should take away from this is not a sense of certainty about what might happen in the future. In fact, you should have high levels of uncertainty. AGI (however you define it) may be possible or impossible, it may come quickly or in a couple decades. **You don’t need to know what happens next to realize that you should be planning for multiple contingencies.** You should have a sense that that some substantial portion of insiders think continued AI capability growth, up to AGI level, is possible and could be within the planning horizon of many firms, organizations and individuals. So why is it not actually being discussed? I think there are a few reasons."
+    },
+    {
+      "line": 44,
+      "text": "# **Opaque systems**"
+    },
+    {
+      "line": 52,
+      "text": "It doesn’t help that the two most impressive implementations of AI for real work - Claude’s artifacts and ChatGPT’s Code Interpreter - are often hidden and opaque. To turn on artifacts, you simply have to click the initial in the bottom left, select feature preview, then turn on artifacts. Intuitive! For Code Interpreter, you have to remember to ask the AI to “use code” or sometimes it forgets. And don’t get me started on even more powerful features, like OpenAI’s GPTs."
+    },
+    {
+      "line": 56,
+      "text": "How to turn on artifacts (this should be free to try). You really should do this, then ask the AI to make an interactive explainer for a topic of your choice, to see what it can do."
+    },
+    {
+      "line": 60,
+      "text": "# Failed by bright lines, fooled by jaggedness"
+    },
+    {
+      "line": 66,
+      "text": "As one example, I showed that Claude can get remarkably far as an entirely automated entrepreneur with the prompt: *think step-by-step. generate 20 ideas for an app aimed at HR professionals. then evaluate and pick the best one that would make a good visual app. build a playable prototype of that. interview me as a potential customer about the prototype one question at a time and make changes.* When I shared this on social media, some people focused, not inaccurately, on the fact that building a prototype was one thing, but AI could not build an entire product, so it was nowhere close to being an actual entrepreneur."
+    }
+  ]
+}

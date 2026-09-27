@@ -1,0 +1,24 @@
+{
+  "id": 76,
+  "title": "I, Cyborg: Using Co-Intelligence",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/i-cyborg-using-co-intelligence.md",
+  "sha256": "aaf9d8e6602d0ed1ff77db1fe4ac0b15cb3b0ff3552cf9498792db67cee7fed3",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2069,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 214,
+      "text": "I wrote a book about living and working with AI, *Co-Intelligence*, and it is coming out on April 2."
+    },
+    {
+      "line": 20,
+      "offset": 2218,
+      "text": "People often ask me if I have other people help writing these posts, or a ghost writer, or someone managing my social media feeds. The answer to all those questions is no, it is just me, writing and tweeting more than I probably should (which is why I hope people are forgiving of my spelling errors "
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 880,
+  "title": "The Borrowed Mind (book)",
+  "collection": "The Borrowed Mind (book)",
+  "path": "raw/nosta-borrowed-mind-2026/source.md",
+  "sha256": "8fbba8a5b058b70c224d3de30f632277a994d8515903fba03abc758dac291098",
+  "access": "local_full_book",
+  "kind": "book",
+  "words": 56017,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 3,
+      "offset": 32,
+      "text": "T HE B ORROWED M IND Reclaiming Human Thought in the Age of "
+    },
+    {
+      "line": 88,
+      "offset": 207853,
+      "text": "place. This is not a plea for technological retreat but an invitation to draw the line consciously, to refuse a future in which thinking becomes fully passive. And there are practi"
+    }
+  ]
+}

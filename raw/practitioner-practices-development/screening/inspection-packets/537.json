@@ -1,0 +1,26 @@
+{
+  "id": 537,
+  "title": "Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/aishwarya-naresh-reganti-kiriti-badam/transcript.md",
+  "sha256": "84c11f4e4cf815371b86a7451068ac7860266e031d3043eb859d237dac2859c1",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 16475,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 83,
+      "offset": 6020,
+      "text": "We worked on a guest post together. They had this rea"
+    },
+    {
+      "line": 362,
+      "offset": 60870,
+      "text": "And one example I think we give in the newsletter itself is the customer support. This is a nice image that kind of shows how you can think of agency and contro"
+    }
+  ]
+}

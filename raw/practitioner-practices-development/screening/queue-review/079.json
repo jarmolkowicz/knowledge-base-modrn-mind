@@ -1,0 +1,35 @@
+{
+  "queue_position": 30,
+  "id": 79,
+  "path": "raw/inbox/Practical/Ethan Mollick/making-ai-work-leadership-lab-and.md",
+  "sha256": "c253fd9ce1bee9a2e637fd4e0d46a4fdf0a3279eb8f6ecc5e03594bb7793ed14",
+  "title": "Making AI Work: Leadership, Lab, and Crowd",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 10,
+      "text": "Companies are approaching AI transformation with incomplete information. After extensive conversations with organizations across industries, I think four key facts explain what's really happening with AI adoption:"
+    },
+    {
+      "line": 55,
+      "text": "# The Lab"
+    },
+    {
+      "line": 66,
+      "text": "In just a couple of prompts, Manus developed a website, a PowerPoint pitch deck, an analysis of the business model, and a test of the financial assumptions based on market research. You can see it at work here. In my evaluations of the work, the 45 page business model analysis was very solid. It was not completely free from mistakes, but has far less mistakes, and is far more thorough, than what I would expect from talented students. I also got an initial draft website, the requested PowerPoint, and a Deep Dive in financial assumptions. Looking through these helped me find weak spots — image generation, a tendency to extrapolate answers without asking me — and strong ones. Now, every time a new agentic system comes out, I can compare it to Manus and see where things are heading."
+    },
+    {
+      "line": 70,
+      "text": "- **Go beyond benchmarks to build stuff that doesn’t work… yet.** What would it look like if you used AI agents to do all the work for key business processes? Build it and see where it fails. Then, when a new model comes out, plug it into what you built and see if it is any better. If the rate of advancement continues, this gives you the opportunity to get a first glance at where things are heading, and to actually have a deployable prototype at the first moment AI models improve past critical thresholds."
+    },
+    {
+      "line": 73,
+      "text": "# Re-examining the organization"
+    },
+    {
+      "line": 79,
+      "text": "The key is treating AI adoption as an organizational learning challenge, not merely a technical one. Successful companies are building feedback loops between Leadership, Lab, and Crowd that let them learn faster than their competitors. They are rethinking fundamental assumptions about how work gets done. And, critically, they're not outsourcing or ignoring this challenge."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 354,
+  "title": "3 things I've learned vibe coding Blotato",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/3-things-ive-learned-vibe-coding.md",
+  "sha256": "6bc8614685660d4bbd40a09a97144ad6b7bc935ea698098a32240301ab559ea0",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1176,
+  "headings": [
+    "1. My entire strategy can be summarized as “AI + Social”",
+    "2. I don’t stress over competitors and clones",
+    "3. I’m only 1% into building my big vision",
+    "**P.S. Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 221,
+      "text": "Reflecting on things to be grateful for, I feel so fortunate and lucky"
+    },
+    {
+      "line": 64,
+      "offset": 2888,
+      "text": "I use AI everywhere I possibly can in my AI-native solo startup, including coding (Claude Code), marketing (Blotato), support (n8n), recruiting (n8n), finance (Puzzle), brainstorming (Deepseek), etc."
+    }
+  ]
+}

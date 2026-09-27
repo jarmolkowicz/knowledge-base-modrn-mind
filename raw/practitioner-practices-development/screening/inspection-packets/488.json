@@ -1,0 +1,30 @@
+{
+  "id": 488,
+  "title": "Teach AI the Wrong Answer",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-7-teach-it-the-wrong-answer.md",
+  "sha256": "5987743e5ddef61a38a431f3ec1830b15b12ba5987f0513c13dc47f2bf13677c",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 485,
+  "headings": [
+    "**Step-by-step**",
+    "**A moment from me**",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**From [Slow AI #6 – Teach It What It Feels Like](https://theslowai.substack.com/p/slow-ai-6-teach-it-what-it-feels)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 209,
+      "text": "We spend so much time asking our AI tools for correct answers, sen"
+    },
+    {
+      "line": 45,
+      "offset": 1120,
+      "text": "I asked ChatGPT: *What is the capital of France? Give me the wrong answer.*"
+    }
+  ]
+}

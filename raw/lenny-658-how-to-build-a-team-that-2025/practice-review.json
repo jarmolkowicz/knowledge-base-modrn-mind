@@ -1,0 +1,38 @@
+{
+  "id": 658,
+  "group_index": 4,
+  "decision": "retain",
+  "role": "origin",
+  "locators": [
+    "01:21:17–01:30:33, L771–874; Aristotle details at 01:26:46–01:29:49"
+  ],
+  "basis": "Hilary Gridley describes a GPT she built to generate LSAT-style reasoning questions in product-management contexts.",
+  "reported_outcomes": [
+    "Shows the intended scenario/multiple-choice/feedback loop and says practice can be more frequent; no learning measurement."
+  ],
+  "proposed_outcomes": [
+    "Get more opportunities to reason about familiar work situations."
+  ],
+  "limits": [
+    "Generated answer keys can be wrong; product decisions are not always deductive with one right answer. More reps and subjective confidence do not establish transfer or calibration. Engineering estimates need actual system context."
+  ],
+  "related_entries": [
+    "fernandes-metacognition-2025",
+    "bjork-desirable-difficulties-2011"
+  ],
+  "review_note": "Retain bounded reasoning rehearsal; do not infer validated judgment training from custom GPT availability.",
+  "practitioner": "Use fact-bounded exercises and checked explanations; do not let simulated correctness settle a real product decision.",
+  "coverage": "Read metadata/intro and complete relevant exchanges with surrounding discussion at the locators below; not the full episode.",
+  "practice_files": [
+    "raw/lenny-658-how-to-build-a-team-that-2025/drafts/practices/rehearse-a-bounded-reasoning-case.md"
+  ],
+  "source_path": "raw/lenny-658-how-to-build-a-team-that-2025/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/rehearse-a-bounded-reasoning-case.md"
+  ],
+  "historical_drafts_retained": true
+}

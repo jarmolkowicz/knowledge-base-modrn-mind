@@ -1,0 +1,39 @@
+{
+  "id": 276,
+  "title": "Cowork.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/claude-cowork.md",
+  "sha256": "5048fbeaa5f9074dbc27f3ea6e7530b725406629748f39477f8132ac0770b186",
+  "access": "public-page",
+  "kind": "article",
+  "words": 3582,
+  "headings": [
+    "**You must forget about prompts.**",
+    "**Step 1: Build your folder.**",
+    "**Step 2: Create your core files.**",
+    "**Step 3: Set Global Instructions.**",
+    "BEFORE EVERY TASK",
+    "FOLDER PROTOCOL",
+    "Read-only — never create, edit, or delete anything here:",
+    "Write folder — the only place you deliver work:",
+    "NAMING CONVENTION",
+    "OPERATING RULES",
+    "**Don’t prompt Claude. Let it prompt you.**",
+    "**The one prompt I use for everything.**",
+    "**How to use Plugins inside Cowork.**",
+    "**How to install:**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 327,
+      "text": "You just switched from ChatGPT to Claude. But you’re still not using **Co"
+    },
+    {
+      "line": 109,
+      "offset": 6114,
+      "text": "**File 2: anti-ai-writing-style.md** — Because I hate the AI style. So I made a text file on how to NEVER write like an AI. I share how to download it below."
+    }
+  ]
+}

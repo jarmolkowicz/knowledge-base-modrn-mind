@@ -1,0 +1,37 @@
+{
+  "queue_position": 225,
+  "id": 598,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/claire-vo/transcript.md",
+  "sha256": "51712bcb49d1d97c6479f46384147b2dd24292234a3f1fd2024a039df3d85b0f",
+  "title": "Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 441,
+      "text": "(00:55:20):"
+    },
+    {
+      "line": 442,
+      "text": "And so while I say, \"She may just be a prompt, but she is prompt,\" this was lovingly crafted over several months. And so when the GPT Store came out, for my team I just said, \"Hey, you all know I've been writing PRDs with ChatGPT.\" I created a GPT and just gave it to my team. I was like, \"Here, you can use this if you want it.\" And they really liked it, and other people started asking about it and I eventually ran into the monetization and access wall that is the GPT Store right now. And so I've also been having a lot of fun coding again, and so I thought, this is easy. We're just going to stand up a standalone app and wrap, come on, it's a wrapper, it started as wrapper, wrap some of these capabilities and just publish it and put a fairly reasonable price tag on it and see what happens."
+    },
+    {
+      "line": 489,
+      "text": "(00:59:50):"
+    },
+    {
+      "line": 490,
+      "text": "And then I'm getting into a mode now where I may do some model experimentation and tuning behind the scenes, so it might not be OpenAI, it may be other things, but it matters. The instructions matter, the context matters for the quality of the output is something that I would say when building these kinds of products. I think the other thing is there is no solution right now for monetization. Knock on wood, open it and we'll figure it out. If I had more time, maybe I would create a platform out of what I've created for ChatGPT to let other people monetize their GPTs and add on capabilities. But it's not out of the box yet for folks. There's a lot of work that I had to do to get it from here to there."
+    },
+    {
+      "line": 546,
+      "text": "Claire Vo (01:08:17):"
+    },
+    {
+      "line": 547,
+      "text": "I think a lot of them AI can do. And so the question is, which of them do you want to hand the keys to an AI tool? And which of them are going to be much more valuable as a tool that an individual or a team's intellect can use to do a better, faster, higher impact job?"
+    }
+  ]
+}

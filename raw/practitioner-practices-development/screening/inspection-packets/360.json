@@ -1,0 +1,30 @@
+{
+  "id": 360,
+  "title": "AI for Healthcare & Insurance",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/ai-for-healthcare-insurance-planning.md",
+  "sha256": "00c94693445fba092866d8624a754a8481e9483337230edf153306c41574101a",
+  "access": "public-page",
+  "kind": "article",
+  "words": 719,
+  "headings": [
+    "**1.** **Create one AI chat that keeps you organized.**",
+    "**2.** **Make AI explain the fine print**",
+    "**3.** **Make AI find the questions you didn’t know to ask**",
+    "**AI shouldn’t make your healthcare decisions.**",
+    "Not Sure Where To Start? 👇"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 17,
+      "offset": 418,
+      "text": "> The Instagram DM Strategy That Made Me $120k+"
+    },
+    {
+      "line": 43,
+      "offset": 1116,
+      "text": "IMPORTANT: Use AI as a translator and organizer to understand what you’re reading, keep track of information, and also figure out what questions to ask."
+    }
+  ]
+}

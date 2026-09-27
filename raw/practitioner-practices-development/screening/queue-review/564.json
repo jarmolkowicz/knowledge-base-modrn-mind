@@ -1,0 +1,45 @@
+{
+  "queue_position": 204,
+  "id": 564,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ben-horowitz/transcript.md",
+  "sha256": "a3cd9425494f6b2b1b8e196341dcbf07dba537e3110f0e4501d767ec651b5093",
+  "title": "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 450,
+      "text": "(01:01:03):"
+    },
+    {
+      "line": 451,
+      "text": "And then to build a product like Evite, the greeting card company, had 300 engineers. That's how hard it was to build this stuff. And so the math didn't work, and the math didn't work on any of those ideas, but the investors kept pouring money in. And then eventually everybody went bankrupt because there was no revenue coming in. And when they figured that out, then nobody would invest in anything. And of course then everybody realized, well, the internet was actually real and Paul Krugman didn't know what he's talking about, and like it was going to be a big thing. And then Facebook and Google and all these things emerged."
+    },
+    {
+      "line": 486,
+      "text": "(01:09:12):"
+    },
+    {
+      "line": 487,
+      "text": "On the other hand, the reinforcement learning side has been linear, but it doesn't generalize. So if you build a great programming model, it may be an idiot at math. And so that I think is just very different than what people would've said three years ago. And I think that there's not something that's both scaling and generalizing yet, and maybe we'll get there, but that certainly opens the door to something that's more user-friendly, that's more effective in any number of domains than just the basic foundation model infrastructure. Now those models are incredibly important, and I think OpenAI is probably 80% of the revenue in AI are something like that now. It's massive, and so that foundation model is really, really important. And then the basic consumer app is really, really important."
+    },
+    {
+      "line": 585,
+      "text": "Lenny Rachitsky (01:24:29):"
+    },
+    {
+      "line": 586,
+      "text": "First question, what are two or three books that you find yourself recommending most to other people, not including your own books?"
+    },
+    {
+      "line": 711,
+      "text": "Ben Horowitz (01:37:31):"
+    },
+    {
+      "line": 712,
+      "text": "All right, awesome. Thank you, Lenny."
+    }
+  ]
+}

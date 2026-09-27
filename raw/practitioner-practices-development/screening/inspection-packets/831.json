@@ -1,0 +1,26 @@
+{
+  "id": 831,
+  "title": "The engineering mindset | Will Larson (Carta, Stripe, Uber, Calm, Digg)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/will-larson/transcript.md",
+  "sha256": "a8e2fe52d5ce163ccea601b9daec06ac44195a03a0e58aec387aa3830d1b0c85",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 14933,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 806,
+      "text": "I think that we often treat engineers a lit"
+    },
+    {
+      "line": 276,
+      "offset": 35494,
+      "text": "And that's easy to do a couple times, but then you end up creating this job for yourself that you don't want. You don't want to be"
+    }
+  ]
+}

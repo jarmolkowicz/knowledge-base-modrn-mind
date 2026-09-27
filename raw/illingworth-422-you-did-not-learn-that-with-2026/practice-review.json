@@ -1,0 +1,40 @@
+{
+  "id": 422,
+  "group_index": 4,
+  "decision": "retain",
+  "role": "origin",
+  "locators": [
+    "L31–107, study accounts",
+    "L111–145, four-move protocol"
+  ],
+  "basis": "Sam Illingworth proposes diagnosis-before-feedback and reconstruction, drawing on three studies not independently reviewed in this allocation.",
+  "reported_outcomes": [
+    "No evaluation of the complete four-move protocol. Reports trial and correlational findings from other sources."
+  ],
+  "proposed_outcomes": [
+    "Compare one’s own diagnosis with feedback, then reconstruct reasoning."
+  ],
+  "limits": [
+    "Model disagreement is not a cure for sycophancy. Broad conceptual questions are not always superior to procedural ones. Cited new studies need original-source review before their effect claims are reused."
+  ],
+  "related_entries": [
+    "think-first",
+    "bjork-desirable-difficulties-2011",
+    "fernandes-metacognition-2025"
+  ],
+  "review_note": "Retain diagnosis and reconstruction as proposed practice. Do not claim this exact protocol was tested in the cited trial.",
+  "practitioner": "Teacher support is needed where learners cannot diagnose their work; allow oral/drawn reconstruction and errors as information.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [
+    "raw/illingworth-422-you-did-not-learn-that-with-2026/drafts/practices/diagnose-your-draft-before-feedback.md"
+  ],
+  "source_path": "raw/illingworth-422-you-did-not-learn-that-with-2026/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/diagnose-your-draft-before-feedback.md"
+  ],
+  "historical_drafts_retained": true
+}

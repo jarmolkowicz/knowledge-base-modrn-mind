@@ -1,0 +1,28 @@
+{
+  "id": 295,
+  "title": "General Purpose Consulting.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/gpc.md",
+  "sha256": "0f0a14b36a392eff16f1e550db3a01aaf1661855773b230de46df24f91d5c7b8",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1443,
+  "headings": [
+    "**GPC was [born](https://www.linkedin.com/posts/ruben-hassid_i-am-launching-gpc-no-we-dont-care-what-activity-7508510654866321409-XcsZ).**",
+    "**You need a [map](http://roadmap.gpc.consulting/).**",
+    "**So what’s “GPT”?**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 23,
+      "offset": 1004,
+      "text": "**You won’t understand anything without watching the video.**"
+    },
+    {
+      "line": 160,
+      "offset": 7754,
+      "text": "- **Why your first cross-functional AI project should usually start with read access, not write access,** and how to find the handoff between two teams that is actually worth fixing."
+    }
+  ]
+}

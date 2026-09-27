@@ -1,0 +1,43 @@
+{
+  "queue_position": 34,
+  "id": 86,
+  "path": "raw/inbox/Practical/Ethan Mollick/post-apocalyptic-education.md",
+  "sha256": "b50e679f47637948accbcd7bfef2b73b62d2f1a4096781fd1e2b31ba29ea0bf5",
+  "title": "Post-apocalyptic education",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 14,
+      "text": "Yes, AI can basically do all of the homework. I had Claude create this chart using data from the Llama 3.1 launch paper"
+    },
+    {
+      "line": 24,
+      "text": "This is not a new problem. One of the first uses of any new technology has always been to get help with homework. A study of thousands of students at Rutgers found that when they did their homework in 2008, it improved test grades for 86% of them (see, homework really does help!), but homework only helped 45% of students in 2017. Why? The rise of the Internet. By 2017, a majority of students were copying internet answers, rather than doing the work themselves."
+    },
+    {
+      "line": 30,
+      "text": "# The Illusions"
+    },
+    {
+      "line": 34,
+      "text": "- No specialized AI detectors can detect AI writing with high accuracy and without the risk of false positives, especially after multiple rounds of prompting. Even watermarks won’t help much."
+    },
+    {
+      "line": 36,
+      "text": "- You can’t ask an AI to detect AI writing (even though people keep trying). When asked if something written by a human was written by an AI, GPT-4 gets it wrong 95% of the time."
+    },
+    {
+      "line": 46,
+      "text": "And, of course, students are not using AI just to do their homework. They are getting aid in understanding complex topics, brainstorming ideas, refreshing their knowledge, creating new forms of creative work, getting feedback, getting advice, and so much more. Focusing just on the question of homework, and the illusions it fosters, can discourage us from making progress."
+    },
+    {
+      "line": 48,
+      "text": "# Encouraging, not replacing, thinking"
+    },
+    {
+      "line": 60,
+      "text": "The integration of AI in education is not a future possibility—it's our present reality. This shift demands more than passive acceptance or futile resistance. It requires a fundamental reimagining of how we teach, learn, and assess knowledge. As AI becomes an integral part of the educational landscape, our focus must evolve. The goal isn't to outsmart AI or to pretend it doesn't exist, but to harness its potential to enhance education while mitigating the downside. The question now is not whether AI will change education, but how we will shape that change to create a more effective, equitable, and engaging learning environment for all."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 719,
+  "title": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/lauryn-isford/transcript.md",
+  "sha256": "46109554d2007e97568969855e51e842d4986aec0d85d9cbf72af979dff135e5",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 11743,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 810,
+      "text": "An activation rate that falls in a lower perce"
+    },
+    {
+      "line": 204,
+      "offset": 25225,
+      "text": "We had a really awesome research team that would do some surveys and conversations with customers away from our production experience and aw"
+    }
+  ]
+}

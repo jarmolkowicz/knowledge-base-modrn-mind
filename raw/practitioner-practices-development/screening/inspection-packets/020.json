@@ -1,0 +1,24 @@
+{
+  "id": 20,
+  "title": "Anthropic Just Threatened to Kill Billions of People. This Is Not Okay.",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/anthropic-just-threatened-to-kill-billions-of-people-this-is-not-okay.md",
+  "sha256": "9d4aafc169ee7fabe29467d12d37ab4cd5afc535b4a64c0ca4d852c51250888c",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1146,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 502,
+      "text": "Yesterday, Jacob Coxon, an Anthropic engineer, resigned. As he ​explained on X​: “[OpenAI and Anthropic] are racing stra"
+    },
+    {
+      "line": 50,
+      "offset": 4379,
+      "text": "4. The agents are run for very long time periods (sometimes multiple days) without any human supervision. They are programmed to be *persistent*, meaning that they should never give up but instead continually prompt the LLM for new next steps to try, pushing it to get more creative and brazen in its suggestions."
+    }
+  ]
+}

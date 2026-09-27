@@ -1,0 +1,37 @@
+{
+  "queue_position": 262,
+  "id": 651,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/gustav-söderström/transcript.md",
+  "sha256": "f8a55d491ae68457b9ff02c74f216a5f7786f0a2fa5524565f9a57365af7b5f9",
+  "title": "The science of product, big bets, and how AI is impacting the future of music | Gustav Söderström",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 132,
+      "text": "Gustav Söderström (00:17:23):"
+    },
+    {
+      "line": 133,
+      "text": "And Spotify never had that mode of, I don't know what I want, but I want to cycle through things until I find something that I like. And I think with the AI DJ, that's actually the use case we managed to solve. So X comes on and says, \"I'm going to suggest something to you that you can listen to.\" And if you like it, you can keep listening, but if you don't like it, you bring him back again and you change channel. And for one reason or another, we tried to solve that for many times for a long time, but just starting to play a random song without any context as to why you would hear this, it just never worked. So that was our first foray into a product that couldn't exist before. And I think to your question of principles around that, there are a few pretty distinct principles that we've learned."
+    },
+    {
+      "line": 225,
+      "text": "Gustav Söderström (00:34:54):"
+    },
+    {
+      "line": 226,
+      "text": "So it means that I would ask Maya to define a strategy for what we do in podcasting, how are we going to be different, why would a podcaster want to be here? Whereas another company, I will make that strategy or another company, Daniel would make that strategy. Same with ... The AI DJ, for example, came from our personalization team. And so that was a bet that they made. So they have autonomy to make those kinds of bets and define strategies. Same with the user interface, we have an experienced team, can talk about the org structure later, but I put a lot of autonomy on the VP of experience to define and suggest what it is that we want to do. And in other companies, I would define all of that myself, for example."
+    },
+    {
+      "line": 528,
+      "text": "Gustav Söderström (01:19:34):"
+    },
+    {
+      "line": 529,
+      "text": "I don't ask it, but my favorite question is Lex Fridman's small ending question that is usually something like, so what's the meaning of it all? I like that. It's a tough question to get."
+    }
+  ]
+}

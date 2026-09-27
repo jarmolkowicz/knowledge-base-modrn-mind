@@ -1,0 +1,29 @@
+{
+  "queue_position": 311,
+  "id": 719,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/lauryn-isford/transcript.md",
+  "sha256": "46109554d2007e97568969855e51e842d4986aec0d85d9cbf72af979dff135e5",
+  "title": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 203,
+      "text": "Lauryn Isford (00:22:57):"
+    },
+    {
+      "line": 204,
+      "text": "We had a really awesome research team that would do some surveys and conversations with customers away from our production experience and away from individual projects. So, we had a really robust read going in to the project of who these different personas were, different building types, different learning types. That said, we do also ask folks when they sign up some questions and depending on who you are or what we might think we know about you or want to know about you, we might ask you different questions and that's in service of helping you get started."
+    },
+    {
+      "line": 347,
+      "text": "Lauryn Isford (00:48:46):"
+    },
+    {
+      "line": 348,
+      "text": "Oh yes, there is one other suggestion which is if you're working on a SaaS product, especially a freemium product, there's probably some pricing and packaging scheme that explains which features are available for free, which features are not, how many you get, and sort of maps out usage of the product, both for free users if you offer a free plan, and then for premium users if you offer premium plans. I find sometimes teams working on onboarding will map onboarding to that pricing or packaging. So, for example, maybe automations, to use the same example of the same feature, is something that's generally premium, that if somebody uses automations they're more likely to be a paying customer. It can be tempting then for an onboarding team to try to push automations to people when they're getting started because of course, we'd prefer if customers use premium features because then they might be more likely to become premium customers, but that is not in the best interest of educating a user on how to get started."
+    }
+  ]
+}

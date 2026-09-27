@@ -1,0 +1,169 @@
+[
+  {
+    "id": 459,
+    "workbench": "raw/illingworth-459-how-can-writers-use-ai-ethically-2025",
+    "findings": []
+  },
+  {
+    "id": 460,
+    "workbench": "raw/illingworth-460-how-creatives-are-actually-using-ai-2026",
+    "findings": []
+  },
+  {
+    "id": 658,
+    "workbench": "raw/lenny-658-how-to-build-a-team-that-2025",
+    "findings": []
+  },
+  {
+    "id": 22,
+    "workbench": "raw/newport-022-avoiding-digital-productivity-traps-2026",
+    "findings": []
+  },
+  {
+    "id": 879,
+    "workbench": "raw/illingworth-slow-ai-2026",
+    "findings": []
+  },
+  {
+    "id": 263,
+    "workbench": "raw/hassid-263-workaholic-2026",
+    "findings": []
+  },
+  {
+    "id": 880,
+    "workbench": "raw/nosta-borrowed-mind-2026",
+    "findings": []
+  },
+  {
+    "id": 52,
+    "workbench": "raw/newport-052-the-satisfying-strain-of-learning-hard-2026",
+    "findings": [
+      {
+        "check": "slug_year_mismatch",
+        "entry": "newport-052-the-satisfying-strain-of-learning-hard-2026",
+        "issue": "slug ends in -2026 but source.md page 1 mentions years ['2010', '2011', '2012'] only — none of which match. Likely the slug year is wrong.",
+        "fix": "check the source's actual publication year. If correct, rename the workbench dir + update source.json: slug to use the right year."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "workbench": "raw/mollick-064-15-times-to-use-ai-and-2024",
+    "findings": []
+  },
+  {
+    "id": 66,
+    "workbench": "raw/mollick-066-against-brain-damage-2025",
+    "findings": []
+  },
+  {
+    "id": 77,
+    "workbench": "raw/mollick-077-innovation-through-prompting-2024",
+    "findings": []
+  },
+  {
+    "id": 262,
+    "workbench": "raw/hassid-262-how-to-install-claude-excel-2026",
+    "findings": []
+  },
+  {
+    "id": 408,
+    "workbench": "raw/illingworth-408-ai-agents-do-not-play-games-2026",
+    "findings": []
+  },
+  {
+    "id": 414,
+    "workbench": "raw/illingworth-414-ai-changes-the-learner-2026",
+    "findings": []
+  },
+  {
+    "id": 416,
+    "workbench": "raw/illingworth-416-what-ai-takes-when-you-aren-2025",
+    "findings": []
+  },
+  {
+    "id": 422,
+    "workbench": "raw/illingworth-422-you-did-not-learn-that-with-2026",
+    "findings": []
+  },
+  {
+    "id": 427,
+    "workbench": "raw/illingworth-427-how-to-test-for-real-understanding-2026",
+    "findings": []
+  },
+  {
+    "id": 449,
+    "workbench": "raw/illingworth-449-can-claude-write-slow-ai-the-2026",
+    "findings": []
+  },
+  {
+    "id": 464,
+    "workbench": "raw/illingworth-464-the-actual-environmental-cost-of-ai-2026",
+    "findings": []
+  },
+  {
+    "id": 480,
+    "workbench": "raw/illingworth-480-teach-ai-something-it-cannot-know-2025",
+    "findings": []
+  },
+  {
+    "id": 514,
+    "workbench": "raw/illingworth-514-there-are-three-ways-to-learn-2026",
+    "findings": []
+  },
+  {
+    "id": 516,
+    "workbench": "raw/illingworth-516-what-claude-cannot-read-in-a-2026",
+    "findings": []
+  },
+  {
+    "id": 521,
+    "workbench": "raw/illingworth-521-when-ai-never-stops-should-you-2025",
+    "findings": []
+  },
+  {
+    "id": 523,
+    "workbench": "raw/illingworth-523-how-to-hold-on-to-what-2025",
+    "findings": []
+  },
+  {
+    "id": 589,
+    "workbench": "raw/lenny-589-al-engineering-101-with-chip-huyen-2025",
+    "findings": []
+  },
+  {
+    "id": 616,
+    "workbench": "raw/lenny-616-the-1b-al-company-training-chatgpt-2025",
+    "findings": []
+  },
+  {
+    "id": 668,
+    "workbench": "raw/lenny-668-making-time-for-what-matters-jake-2024",
+    "findings": []
+  },
+  {
+    "id": 698,
+    "workbench": "raw/lenny-698-from-managing-people-to-managing-ai-2025",
+    "findings": []
+  },
+  {
+    "id": 729,
+    "workbench": "raw/lenny-729-product-management-theater-marty-cagan-2024",
+    "findings": []
+  },
+  {
+    "id": 735,
+    "workbench": "raw/lenny-735-are-your-fears-giving-you-terrible-2023",
+    "findings": []
+  },
+  {
+    "id": 739,
+    "workbench": "raw/lenny-739-unconventional-product-lessons-from-binance-n26-2025",
+    "findings": []
+  },
+  {
+    "id": 801,
+    "workbench": "raw/lenny-801-seth-godin-s-best-tactics-for-2024",
+    "findings": []
+  }
+]

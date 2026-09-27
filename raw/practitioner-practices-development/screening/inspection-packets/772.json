@@ -1,0 +1,26 @@
+{
+  "id": 772,
+  "title": "What AI means for your product strategy | Paul Adams (CPO of Intercom)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/paul-adams/transcript.md",
+  "sha256": "2d66106eee6a5243ac4710c28b0433fc8959386fe81a157e3d5441d91c739a7a",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15457,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 822,
+      "text": "This is a meteor coming towards you. This i"
+    },
+    {
+      "line": 192,
+      "offset": 24375,
+      "text": "So you're going to need to map what your product does against what AI can do. And AI can do a lot. It can write. I'll give you a l"
+    }
+  ]
+}

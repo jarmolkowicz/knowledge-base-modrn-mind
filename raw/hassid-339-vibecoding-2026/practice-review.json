@@ -1,0 +1,39 @@
+{
+  "id": 339,
+  "group_index": 8,
+  "decision": "retain",
+  "coverage": "Full available extracted article, L1–625. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L35–75: prototype communication and team use",
+    "L212–220: intent and increments",
+    "L277–289: human testing",
+    "L537–562: developer handoff and known gaps"
+  ],
+  "basis": "Practitioner account and proposed prototype handoff.",
+  "reported_outcomes": [
+    "Author reports communicating an idea with a prototype; production readiness and comprehension not evaluated."
+  ],
+  "proposed_outcomes": [
+    "Make an idea concrete for developer discussion."
+  ],
+  "limits": [
+    "Folder location is not established access control.",
+    "Bypass advice and delayed security review excluded.",
+    "Working screens do not prove maintainability or safe deployment."
+  ],
+  "related_entries": [
+    "agency",
+    "automation-bias"
+  ],
+  "practice_files": [
+    "raw/hassid-339-vibecoding-2026/drafts/practices/use-a-prototype-to-brief-a-developer.md"
+  ],
+  "role": "origin",
+  "review_note": "Retain communication and unknowns; merge source 350’s incremental demo.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/use-a-prototype-to-brief-a-developer.md"
+  ],
+  "historical_drafts_retained": true
+}

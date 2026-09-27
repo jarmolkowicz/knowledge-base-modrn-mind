@@ -1,0 +1,26 @@
+{
+  "id": 578,
+  "title": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/brian-tolkin/transcript.md",
+  "sha256": "0f7c8534c992609c2d351d5e49776e0aa4b6c299eb25c3ef4d201fad509ff82e",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13496,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 870,
+      "text": "You've worked at two businesses that have done incred"
+    },
+    {
+      "line": 388,
+      "offset": 47962,
+      "text": "All the time. And so I think there's definitely a humility to say if you can, if it's relatively easy to test your assumptions or test your hypotheses. That is "
+    }
+  ]
+}

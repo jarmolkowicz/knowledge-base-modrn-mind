@@ -1,0 +1,26 @@
+{
+  "id": 546,
+  "title": "When enough is enough | Andy Johns (ex-FB, Twitter, Quora)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/andy-johns/transcript.md",
+  "sha256": "86eb6103b6efd8c5b923ddb431b23ab4637afd7e0460daa7d80b982a54cce8eb",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13252,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 767,
+      "text": "There are day-to-day stresses that are normal and we "
+    },
+    {
+      "line": 159,
+      "offset": 20091,
+      "text": "I also write my newsletter and have created a new website that I'm toying with. In general, my writing and the content that I've put out is focused on the unhap"
+    }
+  ]
+}

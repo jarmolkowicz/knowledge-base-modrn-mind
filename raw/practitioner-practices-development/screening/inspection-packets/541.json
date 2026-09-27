@@ -1,0 +1,26 @@
+{
+  "id": 541,
+  "title": "How to drive word of mouth | Nilan Peiris (CPO of Wise)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/alexander-embiricos/transcript.md",
+  "sha256": "1d096678f9b7e64d7b17a287f56b89246409e3925aa09579d5bae224ac520856",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 17526,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 42,
+      "offset": 829,
+      "text": "Codex is OpenAI's coding agent. We think of Codex as "
+    },
+    {
+      "line": 222,
+      "offset": 31145,
+      "text": "So that's kind of the shape of what I think we're building. And I think that will be a very sticky winning product if we can do so. So the shape that in my head"
+    }
+  ]
+}

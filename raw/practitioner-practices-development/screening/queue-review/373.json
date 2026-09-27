@@ -1,0 +1,76 @@
+{
+  "queue_position": 97,
+  "id": 373,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/chatgpt-prompt-for-privacy-and-security.md",
+  "sha256": "7630058a803009430f6a5a7cc1b4cc7d86350b9923b58c6faedec5e35be059b3",
+  "title": "ChatGPT Prompt for Privacy & Security Data Cleanup",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L31 ## 1. Lock Down Your iPhone",
+    "L82 ## Lock Down Your Google Account",
+    "L140 ## 3. Lock Down Your Social Media Accounts",
+    "L256 ## Not Sure Where To Start? 👇"
+  ],
+  "passages": [
+    {
+      "line": 13,
+      "text": "# ChatGPT Prompt for Privacy & Security Data Cleanup"
+    },
+    {
+      "line": 25,
+      "text": "Focused on permissions, tracking, discoverability, and data that keeps leaking without your permission."
+    },
+    {
+      "line": 31,
+      "text": "## 1. Lock Down Your iPhone"
+    },
+    {
+      "line": 41,
+      "text": "That causes apps requesting tracking permission to be treated as though you chose “Ask App Not to Track.” (Apple Support)"
+    },
+    {
+      "line": 82,
+      "text": "## Lock Down Your Google Account"
+    },
+    {
+      "line": 90,
+      "text": "For a privacy-first setup, I would either **turn unnecessary history off** or use the shortest auto-delete period you’re comfortable with."
+    },
+    {
+      "line": 118,
+      "text": "Remove anything you no longer use. Revoking access stops future access, although it does **not necessarily delete data the third-party app previously copied**. (Google Help)"
+    },
+    {
+      "line": 124,
+      "text": "You can disable personalized advertising or restrict which account/activity signals are used. (Google Help)"
+    },
+    {
+      "line": 132,
+      "text": "Google can look for Search results containing your **phone number, home address or email**, alert you, and let you request removal of eligible results. (Google Help)"
+    },
+    {
+      "line": 140,
+      "text": "## 3. Lock Down Your Social Media Accounts"
+    },
+    {
+      "line": 176,
+      "text": "Turn off **Sync address book contacts**, and use **Remove all contacts** if you’ve previously uploaded them. Simply stopping sync does not remove previously uploaded contacts."
+    },
+    {
+      "line": 226,
+      "text": "For Facebook, Meta specifically recommends its **Privacy Checkup** to review what you’re publicly sharing. (facebook.com)"
+    },
+    {
+      "line": 246,
+      "text": "If a result exposes personal contact information, send it through **Results about you**. Google permits removal requests for things including home addresses, phone numbers, emails, certain government IDs and financial information. (Google Help)"
+    },
+    {
+      "line": 256,
+      "text": "## Not Sure Where To Start? 👇"
+    },
+    {
+      "line": 274,
+      "text": "***IMPORTANT:** I will NEVER ask you for money. I am NOT sending you friend requests. I am NOT on Whatsapp, Telegram, or messaging apps. I will NEVER sell a course. Always block & report scammers.*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 705,
+  "group_index": 17,
+  "decision": "draft_with_limits",
+  "coverage": "Read relevant complete transcript exchanges: L215–237; 00:27:23–00:31:08. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L215–237; 00:27:23–00:31:08"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Describes a profitability/growth trade-off at DoorDash."
+  ],
+  "proposed_outcomes": [
+    "Improve understanding and resolve disagreement."
+  ],
+  "limits": [
+    "Retrospective management account. Agreement or empathy does not prove a decision correct; power differences can suppress disagreement."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/lenny-705-leading-with-empathy-keith-yandell-2023/drafts/practices/argue-the-other-side-before-deciding.md"
+  ],
+  "role": "origin",
+  "review_note": "Ask each side to state strong reasons for the other position; set a decision maker and deadline.",
+  "author": "Keith Yandell",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/argue-the-other-side-before-deciding.md"
+  ],
+  "historical_drafts_retained": true
+}

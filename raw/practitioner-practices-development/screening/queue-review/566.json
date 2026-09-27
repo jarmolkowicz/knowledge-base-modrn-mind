@@ -1,0 +1,29 @@
+{
+  "queue_position": 205,
+  "id": 566,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/benjamin-lauzier/transcript.md",
+  "sha256": "182f54374fa5db848848905b33836c556daa7df6d16096553d7b49611428db73",
+  "title": "How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 189,
+      "text": "(00:22:50):"
+    },
+    {
+      "line": 190,
+      "text": "So, questions like this I think go to the heart of how valuable is your solution to users, and you can do this on the supply side and the demand side. I think here my advice is typically to consider that you have two product market fits essentially. You want to make sure that you have a compelling enough value proposition on both sides of the marketplace, and very often at the beginning you find product market fit on the demand side, but you realize it's not compelling enough for your suppliers because your margins are too high or something like that. So, realizing that you have both those things, but I think you can measure them in a way that's relatively traditional, and that's independent of marketplace dynamics."
+    },
+    {
+      "line": 228,
+      "text": "Benjamin Lauzier (00:30:21):"
+    },
+    {
+      "line": 229,
+      "text": "Ironically, it's almost the opposite advice that I usually give to companies who struggle with market health, it's if you have different verticals, try if possible to open up your supply walls. Your user is telling you like X, but try to give them something that is tangential to what you think they want, because odds are that they are actually fine with it. There's this amazing example from Thumbtack, it's the smoke machine example. So Thumbtack, now they specialize a little bit more in home services, but a few years ago they were also doing a lot of events. So, you had DJs, you had photographers, and a lot of people were hiring for wedding DJs on the platform. And one of the checkboxes was a smoke machine, and it turns out a lot of people are checking this. You're like, \"Yeah, hell yeah, I want a smoke machine at my wedding.\""
+    }
+  ]
+}

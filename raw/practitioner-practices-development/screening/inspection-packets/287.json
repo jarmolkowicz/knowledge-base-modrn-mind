@@ -1,0 +1,30 @@
+{
+  "id": 287,
+  "title": "You.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/emdash.md",
+  "sha256": "a8f1774e050615edcf6d1dfa9f6818d0a42478f45b0f8f75a2bdb1cabcb9cf1a",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 672,
+  "headings": [
+    "**Remove the em—dash.**",
+    "**Step 1**: Go to your Custom Instructions.",
+    "**Step 2**: Add this specific line.",
+    "**Stop ChatGPT from agreeing.**",
+    "**Copy this to instantly write with (your) taste.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 121,
+      "text": "No one told you how to train ChatGPT to write like you."
+    },
+    {
+      "line": 120,
+      "offset": 7125,
+      "text": "I just recorded a Facecam video of how I feel about writing your best work, with taste, using AI. It’s all about avoiding AI slop with this simple prompt framework."
+    }
+  ]
+}

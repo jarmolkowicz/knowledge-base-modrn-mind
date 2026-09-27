@@ -1,0 +1,25 @@
+{
+  "slug": "illingworth-441-the-kindness-trap-how-ai-uses-2025",
+  "original_filename": "ai-simulated-empathy.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 1172,
+  "hash": "4e7a776f3005d7ab89778f4e927d8c72d4a76cf695dd3e69d3ff6a5a14f0cb39",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "critiqued",
+  "ingested_at": "2026-09-26T20:59:44Z",
+  "decisions": [],
+  "lines": 155,
+  "screening_id": 441,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/ai-simulated-empathy.md",
+  "bibliographic_metadata": {
+    "title": "The Kindness Trap: How AI Uses Empathy to Keep You Engaged",
+    "date": "2025-10-28",
+    "url": "https://theslowai.substack.com/p/ai-simulated-empathy",
+    "collection": "Sam Illingworth"
+  },
+  "draft_only": true,
+  "integration_decision": "pending",
+  "practice_review": "practice-review.json"
+}

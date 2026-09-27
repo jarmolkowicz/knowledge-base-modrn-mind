@@ -1,0 +1,29 @@
+{
+  "queue_position": 284,
+  "id": 683,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jess-lachs/transcript.md",
+  "sha256": "97f181a5cf24c3914b1a0693f20dbf30031b18dd82e9a39674c5717c8047d658",
+  "title": "Building a world-class data org | Jessica Lachs (VP of Analytics and Data Science at DoorDash)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 210,
+      "text": "Jessica Lachs (00:25:43):"
+    },
+    {
+      "line": 211,
+      "text": "One way you can do it through the questions you ask is have something that is not quite right within the case that you're presenting and see if people notice first and foremost. And even if they don't, if you point it out like, \"Where do they go with that?\" I think that that's something that you can test for. I think you can also ask for examples that for these folks typically will highlight this, they'll talk about, \"I noticed this thing, and so we decided to investigate.\" So I think that there are ways that you can get that signal through the interview process, but it's really hard. I think testing for hard skills is a lot easier than testing for soft skills. And I think in some of the questions we ask, we'll ask a question with the idea that we're assessing something separate than what the question is necessarily asking. And I think that this is one example of where that really works."
+    },
+    {
+      "line": 390,
+      "text": "(01:03:52):"
+    },
+    {
+      "line": 391,
+      "text": "And I think one of the things I'm excited about is being able to really empower some of the folks that are still coming to Office Hours for one thing or another to be able to use AI to help edit queries on their own for example, to be able to say, \"Here's a query. I want to make this. Please adjust this to our grocery business so that I can see the GOV for grocery.\" And so working to build these tools that will help not just our team in terms of time saving, and also to be honest, folks are going to use it on our team, but really to be able to empower non-technical users to be able to do things on their own and not have to take up bandwidth for the analytics team."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 480,
+  "title": "Teach AI Something It Cannot Know",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-1-teach-not-ask.md",
+  "sha256": "c0777d515cd4e18b8af53c22a320e33fee68d5739748c21dc291aec81867c431",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 366,
+  "headings": [
+    "Step-by-step",
+    "What to do with it",
+    "A moment from me",
+    "Why this matters"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 242,
+      "text": "You are going to teach an AI tool something it cannot truly unders"
+    },
+    {
+      "line": 30,
+      "offset": 1032,
+      "text": "4. After sharing this moment, ask the AI tool:"
+    }
+  ]
+}

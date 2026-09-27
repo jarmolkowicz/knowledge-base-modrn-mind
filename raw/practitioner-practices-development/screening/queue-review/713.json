@@ -1,0 +1,37 @@
+{
+  "queue_position": 307,
+  "id": 713,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/krithika-shankarraman/transcript.md",
+  "sha256": "0b9d9fb0b691b653513d09a48d20062dbecd1556c73f8306fb6357a88ba78b81",
+  "title": "Growth tactics from OpenAI and Stripe’s first marketer | Krithika Shankarraman",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 338,
+      "text": "Krithika Shankarraman (00:40:01):"
+    },
+    {
+      "line": 339,
+      "text": "Many, many years. So OpenAI had been around for almost a decade as primarily a research organization. They had launched ChatGPT about a year before I joined. And so that was the first foray into saying, \"Hey, our work is not just announcing research breakthroughs, it is about putting products into the market.\""
+    },
+    {
+      "line": 440,
+      "text": "Lenny Rachitsky (00:55:00):"
+    },
+    {
+      "line": 441,
+      "text": "That's such a good point. A good segue to an AI question. Hey, we got to talk about AI. One of your former colleagues, Kevin Garcia, wanted me to ask you something. He suggested I ask you about taste and creativity in AI. So he said that you're one of the best writers that he's ever worked with. You combine technical backgrounds with creative taste. You do pottery, you should. And you're a voracious reader. And he wanted just to poke at what you think about just how taste and creativity and writing change in the era of AI."
+    },
+    {
+      "line": 515,
+      "text": "(01:04:29):"
+    },
+    {
+      "line": 516,
+      "text": "So I think the ability to mix AI tooling then accelerates work that you're already doing, and then AI-based tools that unlock superpowers that wouldn't otherwise be available to you unless you're going deep into Google Groups archives or talking to people across the organization to pull out things that are inside of their brain. That kind of institutional knowledge being made more accessible by AI is actually more powerful sometimes than the tools themselves. And in fact, even at OpenAI, it's one of the things that we advised most enterprises to invest in first is their own operational efficiency rather than just the AI magic dust they could sprinkle on top of their product experience for their customers."
+    }
+  ]
+}

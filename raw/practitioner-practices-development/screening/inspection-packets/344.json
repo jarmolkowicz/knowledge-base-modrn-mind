@@ -1,0 +1,28 @@
+{
+  "id": 344,
+  "title": "AI will fail.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/why-ai-will-fail.md",
+  "sha256": "9ba7659eea8dac79d95fb84602081bde68e440f5c304c8f042b08431e5cc3091",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2189,
+  "headings": [
+    "**Why AI Will Fail.**",
+    "**So yes.**",
+    "**PS: You don’t want your company to be left behind.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 342,
+      "text": "**2008** “*I’ve been frankly confused by this fascination that everybody "
+    },
+    {
+      "line": 293,
+      "offset": 10532,
+      "text": "The internet, the smartphone, social media — all led to today’s AI."
+    }
+  ]
+}

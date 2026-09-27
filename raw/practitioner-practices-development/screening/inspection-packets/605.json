@@ -1,0 +1,26 @@
+{
+  "id": 605,
+  "title": "Building a culture of excellence | David Singleton (CTO of Stripe)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/david-singleton/transcript.md",
+  "sha256": "75c58803103ab2555ae3793acade5e3017ff1f4f0ca0310b1ed8c2ebbdd823ec",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 18364,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 827,
+      "text": "The way we think about product development at Stripe,"
+    },
+    {
+      "line": 408,
+      "offset": 70421,
+      "text": "Yeah, we're very excited about AI. Now to just take one step back, Stripe has been using machine learning and advanced machine learning techniques at the heart "
+    }
+  ]
+}

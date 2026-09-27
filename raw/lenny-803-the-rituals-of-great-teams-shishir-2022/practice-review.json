@@ -1,0 +1,33 @@
+{
+  "id": 803,
+  "group_index": 17,
+  "decision": "draft_with_limits",
+  "coverage": "Read relevant complete transcript exchanges: L342–426; 00:50:43–01:03:42. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L342–426; 00:50:43–01:03:42"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Reports the method in YouTube/Coda discussions and an interview exercise."
+  ],
+  "proposed_outcomes": [
+    "Improve question selection and decision framing."
+  ],
+  "limits": [
+    "No controlled learning evidence. The two-question limit is a practice constraint, not permission to omit safety or feasibility work in real decisions. Mathematical analogy not treated as a formal result."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/lenny-803-the-rituals-of-great-teams-shishir-2022/drafts/practices/practice-choosing-decisive-questions.md"
+  ],
+  "role": "origin",
+  "review_note": "List questions, then identify the few whose answers change many downstream choices; practice on a fictional teleportation case.",
+  "author": "Shishir Mehrotra",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/practice-choosing-decisive-questions.md"
+  ],
+  "historical_drafts_retained": true
+}

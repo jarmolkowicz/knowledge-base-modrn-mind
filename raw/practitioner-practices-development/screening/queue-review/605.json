@@ -1,0 +1,37 @@
+{
+  "queue_position": 230,
+  "id": 605,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/david-singleton/transcript.md",
+  "sha256": "75c58803103ab2555ae3793acade5e3017ff1f4f0ca0310b1ed8c2ebbdd823ec",
+  "title": "Building a culture of excellence | David Singleton (CTO of Stripe)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 407,
+      "text": "David Singleton (01:01:06):"
+    },
+    {
+      "line": 408,
+      "text": "Yeah, we're very excited about AI. Now to just take one step back, Stripe has been using machine learning and advanced machine learning techniques at the heart of our products since the very early days. Radar is our solutions for payment fraud and it has used, I mean this is the very core of our products and has used machine learning since we introduced it. We also, if you think about the nature of Stripe, we operate in an environment where we have to do a lot of work to kind of catch bad actors in the system, fraudsters or fraudulent businesses. So we've been employing a lot of machine learning techniques there again for years and we couldn't operate the company without them. So the difference between ML and AI, I think when we think about AI today we're mostly talking about the applications of large language models, but those are really based on this new technology called Transformers."
+    },
+    {
+      "line": 590,
+      "text": "David Singleton (01:23:45):"
+    },
+    {
+      "line": 591,
+      "text": "I have fallen in love with YouTube for learning about the really fast moving AI space. It has been remarkably valuable, and Andre Carpassi has a bunch of really good seminars, but not just that. Across the whole spectrum, I think there's just so much gold on YouTube if you want to learn a new skill these days."
+    },
+    {
+      "line": 620,
+      "text": "David Singleton (01:25:33):"
+    },
+    {
+      "line": 621,
+      "text": "The products that I have recently discovered and definitely love is Mid-Journey, also building the business side of their business on Stripe. For folks who don't know, Mid-Journey is an AI tool for generating images using stable diffusion, but it's really pretty awesome. I've been using it a lot with my daughter. We'll come up with stories and we'll generate beautiful looking images with Mid-Journey, and then she'll drop them into books and she'll write the pros. The reason I think it's pretty cool is I was very surprised and skeptical at its UI to begin with, because its UI is Discord."
+    }
+  ]
+}

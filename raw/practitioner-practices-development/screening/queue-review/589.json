@@ -1,0 +1,37 @@
+{
+  "queue_position": 220,
+  "id": 589,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/chip-huyen/transcript.md",
+  "sha256": "4f49e4262c61283a0fbf36e70fac7622a3ef7f389f4a32274bf4b9962a20fce1",
+  "title": "Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L34 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 72,
+      "text": "Chip Huyen (00:05:30):"
+    },
+    {
+      "line": 73,
+      "text": "[inaudible 00:05:30] question that get asked a lot and a lot is that, \"How do we keep up to date with the latest AI news?\" I'm like, \"Why? Why do you need to keep up to date with the latest AI news?\" I know it sound very counter-intuitive, but there's just so much news out there. A lot of people also ask me questions like, \"How do I choose between two different technologies?\" Maybe like recently, MCP versus agent-to-agent protocol? And it was like, \"Which one is better or this or that?\" I think it's a [inaudible 00:05:59] question you should ask them is like, \"First, how much of the improvement could you get from optimal solutions versus non-optimal solutions?\" Right? And sometimes they were like, \"Actually, it's not much.\" Right?"
+    },
+    {
+      "line": 405,
+      "text": "(01:01:45):"
+    },
+    {
+      "line": 406,
+      "text": "And I think audios is not quite as solved. Well, I think because I do work with a couple of voice startups and when it comes to, think about voice, it's an entirely different beast. So let's say have chatbot. We go from a text chatbot to voice chatbot. It's like the consoles are completely different because now with voice chatbot, we need to think about latency because I think multiple steps, first have voice to text, text to text, text question into text answer and then text to voice answer. So you have multiple hops and latency become very important. And there's a question, what does it make you sound natural? So for example, people think of in AI and humans, when humans talk to each other, if I say, you try to interrupt me and say, Chip [inaudible 01:02:36]. I would pause and I try to hear you out."
+    },
+    {
+      "line": 585,
+      "text": "Chip Huyen (01:22:05):"
+    },
+    {
+      "line": 586,
+      "text": "Thank you so much, Lenny, for having me."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 189,
+  "title": "Klarna saved $60 million and broke its company",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/klarna-saved-60-million-and-broke.md",
+  "sha256": "6424d7e0cd45f52749d8c7c47039be7d956ffc770dc3d03c185131e22de455b7",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 567,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 242,
+      "text": "Klarna’s Q3 2025 earnings revealed its AI agent now does the work of 853 full-time emp"
+    },
+    {
+      "line": 12,
+      "offset": 542,
+      "text": "This is not another “AI was overhyped” story. It’s the opposite. The AI worked too well. And that distinction — between AI that fails and AI that succeeds at the wrong thing — is the most important unsolved problem in enterprise AI right now. It’s bigger than "
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 291,
+  "title": "Stop paying for AI courses.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/free.md",
+  "sha256": "bb421a8a87efe4aedd3b1afb6e748198afa563cca41f95a319c1a4a81db0ecfa",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1296,
+  "headings": [
+    "**1. How to find the best free AI guides.**",
+    "Master ChatGPT.",
+    "Master Claude.",
+    "Master Automations.",
+    "Master Gamma.",
+    "Master Gemini.",
+    "Master Midjourney.",
+    "Master Perplexity.",
+    "Master OpenAI-Sora.",
+    "Master NotebookLM.",
+    "Master Opus Clip.",
+    "Master ChatGPT-image.",
+    "Understand AI on a deeper level.",
+    "**You are new? Access my archive of guides:**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 14,
+      "offset": 213,
+      "text": "This is **not** about some quick YouTube videos."
+    },
+    {
+      "line": 88,
+      "offset": 2487,
+      "text": "I love Claude to write with more style than ChatGPT."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 66,
+  "title": "Against Brain Damage",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/against-brain-damage.md",
+  "sha256": "eb3152af3563e318a5c360b4b976349a0a6a1d7f63899f822278db6b6711cdce",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2603,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 180,
+      "text": "I increasingly find people asking me “does AI damage your brain?” It's a revealing question. Not bec"
+    },
+    {
+      "line": 34,
+      "offset": 7025,
+      "text": "Ultimately, it is how you use AI, rather than use of AI at all, that determines whether it helps or hurts your brain when learning. Moving away from asking the AI to help you with homework to helping you learn as a tutor is a useful step. Unfortunately, the default version of most AI models wants to"
+    }
+  ]
+}

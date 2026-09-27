@@ -1,0 +1,79 @@
+{
+  "queue_position": 71,
+  "id": 315,
+  "path": "raw/inbox/Practical/Ruben Hassid/magic.md",
+  "sha256": "12e61fee2d63c8f1ae5aa72d96ef30fc1c426e726645afa2a50e5e3b490dd115",
+  "title": "Magic.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L34 ## **1 - The Prompt Is Not The Problem.**",
+    "L64 ## **2 - I Don’t Write Prompts Anymore. But Files.**",
+    "L89 #### An example of a perfect chat.",
+    "L116 #### My favorite files.",
+    "L134 #### How to create your own md. files",
+    "L186 ## **3 - It’s Called** *Chat***GPT For A Reason.**",
+    "L204 ## **TLDR: There Is No Magic Prompt.**"
+  ],
+  "passages": [
+    {
+      "line": 16,
+      "text": "And then you sat in front of ChatGPT, pasted one in, tweaked it for 2 minutes, hit enter, and got... *meh*. Something that sounded like every AI text on the internet. Sounds good, does not work. That’s the *revolution* you were promised?"
+    },
+    {
+      "line": 34,
+      "text": "## **1 - The Prompt Is Not The Problem.**"
+    },
+    {
+      "line": 40,
+      "text": "Here’s what changed while you were collecting prompts: context windows went from 4,000 tokens to over 1,000,000. In plain terms, AI went from reading a sticky note to reading an entire book before answering you."
+    },
+    {
+      "line": 52,
+      "text": "I remember writing this article, **“Context > Prompt,”** back in November. I had this cute prompt to force myself to give AI enough context. Cute, but outdated."
+    },
+    {
+      "line": 64,
+      "text": "## **2 - I Don’t Write Prompts Anymore. But Files.**"
+    },
+    {
+      "line": 83,
+      "text": "> DO NOT start executing yet. Instead, ask me clarifying questions (use ‘AskUserQuestion’ tool) so we can refine the approach together step by step."
+    },
+    {
+      "line": 87,
+      "text": "That’s *really* it. Now you want two things: (1) an example and (2) what “files” you should upload to Claude. Let’s cover it."
+    },
+    {
+      "line": 89,
+      "text": "#### An example of a perfect chat."
+    },
+    {
+      "line": 112,
+      "text": "I told you step 2 is about how to best chat with AI (the follow-up conversation). I will continue this example in the 3rd part of this newsletter *(make sure to check it).*"
+    },
+    {
+      "line": 204,
+      "text": "## **TLDR: There Is No Magic Prompt.**"
+    },
+    {
+      "line": 210,
+      "text": "AI is average at best. It will always be. Your taste is what makes the output something worth reading."
+    },
+    {
+      "line": 218,
+      "text": "‘*You*’, but until when? If you *also* have a existential crisis because of the new Claude, leave a comment. My human self will provide emotional support."
+    },
+    {
+      "line": 222,
+      "text": "###### archive of my past blogs: https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing"
+    },
+    {
+      "line": 228,
+      "text": "1. You can **pay** for the newsletter to join my Slack (1,000+ people). It’s a bunch of people like you who want to win with AI, and find a tribe of people who do."
+    },
+    {
+      "line": 229,
+      "text": "2. Your company can be trained directly by me & my consulting firm. DM me on Linkedin the word “CONSULTING” and my assistant will get back to you."
+    }
+  ]
+}

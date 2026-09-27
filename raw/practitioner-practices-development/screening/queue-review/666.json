@@ -1,0 +1,29 @@
+{
+  "queue_position": 270,
+  "id": 666,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jackson-shuttleworth/transcript.md",
+  "sha256": "7bfe0ce1f2642bc1a2d4ddde4211ba2e44985b6ae797ee47de0ecc23086082e9",
+  "title": "Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 162,
+      "text": "Jackson Shuttleworth (00:15:03):"
+    },
+    {
+      "line": 163,
+      "text": "Duolingo has very much, has a strong test it philosophy, we're willing to test a lot of different... Honestly, we'd much rather test it than debate it for days and days. So, we actually followed up this experiment with, and this is a little bit later, with hey, what if we make it even easier to extend your streak? And so, we actually tested, hey, if you do one exercise, just one exercise in a lesson will extend your streak. A lot of the insight was good, you look at the funnel, hey, there's a lot of users who are starting but not finishing lessons, they're not extending your streak, the loss aversion doesn't kick in, they don't come back... So, this followed that train of thought. What we realized when we ran this experiment is DAUs moved not one bit. And what we were doing by... And if we go back to unit of measure, we had dumbed down the unit of... Nobody thinks about, oh, I just want to come do one question on Duolingo, nobody thinks about that."
+    },
+    {
+      "line": 576,
+      "text": "(01:11:37):"
+    },
+    {
+      "line": 577,
+      "text": "You're not designing for a whole system, you're designing for something much simpler. And so, getting everybody to think that way, allows us to end up shipping faster, shipping simpler, designing faster, getting faster approval, getting insight, and then doing what I talked about with streak goal, being able to run iteration after iteration after iteration, add these things iteratively. And then not only by doing this are you able to move faster, but you get confidence at each step of the way, that, hey, my series of hypotheses is actually born out. Or if it's not, cool, then we're going to drop that part of the feature, and then just ship what actually matters."
+    }
+  ]
+}

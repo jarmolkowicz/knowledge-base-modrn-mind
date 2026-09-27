@@ -1,0 +1,30 @@
+{
+  "id": 476,
+  "title": "How to Protect Your Family From Deepfakes",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/protect-family-deepfake-voice-scams.md",
+  "sha256": "f8d694c94f704b0aef9bacb0b5abfa25ac3bb205e72ccd99881c168b0eb1195f",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1237,
+  "headings": [
+    "**In this post I will:**",
+    "**Two stories from the last week**",
+    "**Why you will be targeted**",
+    "**What the research says**",
+    "**Five things to do tonight**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 424,
+      "text": "The Prime Minister of Australia spent the last year selling a cryp"
+    },
+    {
+      "line": 61,
+      "offset": 5181,
+      "text": "They were right. In March 2025, researchers reported in *Scientific Reports* that participants matched an AI-generated voice to its real owner about 80% of the time and correctly identified a voice as"
+    }
+  ]
+}

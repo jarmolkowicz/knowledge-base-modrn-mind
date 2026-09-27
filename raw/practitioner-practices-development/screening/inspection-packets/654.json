@@ -1,0 +1,26 @@
+{
+  "id": 654,
+  "title": "Business strategy with Hamilton Helmer (author of 7 Powers)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/hamilton-helmer/transcript.md",
+  "sha256": "85a578500429c6183bf477838e2d1d6f909bfe3bf9eca0de805a1b3902cbca8e",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 9995,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 890,
+      "text": "I look for economic castles protected by unbre"
+    },
+    {
+      "line": 274,
+      "offset": 36702,
+      "text": "And so I'm of the view, I'm very much uncertain at this point that generative AI, its biggest impact will be that tertiary class. It will be"
+    }
+  ]
+}

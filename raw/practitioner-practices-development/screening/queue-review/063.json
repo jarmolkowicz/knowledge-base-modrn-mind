@@ -1,0 +1,51 @@
+{
+  "queue_position": 18,
+  "id": 63,
+  "path": "raw/inbox/Practical/Cal Newport/why-reading-matters.md",
+  "sha256": "9f8471aedd46080dabfdb7205b045c8fd68cca9db497fb3965a90afb22c62075",
+  "title": "Why Reading Matters",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 13,
+      "text": "# Why Reading Matters"
+    },
+    {
+      "line": 25,
+      "text": "- Between 1984 and today, the proportion of 13-year-olds who said they “rarely or never” read for fun rose from 8% to 29%."
+    },
+    {
+      "line": 29,
+      "text": "The key question is whether these reductions matter, or if they just represent a normal evolution of communication technology, similar to how fewer people listen to the radio than they did a century ago."
+    },
+    {
+      "line": 31,
+      "text": "Horowitch argues for the former stance, noting that reading plays a critical and privileged role in the human experience:"
+    },
+    {
+      "line": 33,
+      "text": "> “The advent of reading and writing transformed society. It altered people’s consciousness and politics, along with the intellectual feats they were capable of. The decline of reading will bring about changes of the same magnitude. It will affect our innermost thoughts, our society’s politics and culture, and how we tell the history of our civilization.”"
+    },
+    {
+      "line": 35,
+      "text": "Those who read ​my recent *New York Times* op-ed​ on cognitive fitness know that I fervently agree with this conclusion. I recently finished reading (!) Walter Ong’s classic, ​*Orality and Literacy*​*,* which further convinced me that essentially every cultural attribute that we celebrate – from human rights, to logic, to progress, to the very notion of an independent self – are conceptual children born from the mind-shaping power of the written word."
+    },
+    {
+      "line": 37,
+      "text": "Literacy is not simply a technology, but is instead, in some sense, *the* technology that enabled the cognitive world we currently take for granted. When we spend less time grappling with words, we’re taking a step backward, which helps explain why James Marriott titled his upcoming book on this phenomenon, ​*The New Dark Ages*​."
+    },
+    {
+      "line": 39,
+      "text": "As a technology theorist, I’m often accused of being reactionary or overly conservative in my analysis of new tools. But when it comes to the digital assault on literacy, the concerns I share with Horowitch and Marriott seem self-evidently justified."
+    },
+    {
+      "line": 43,
+      "text": "As I argued in my op-ed, one obvious response is to tackle this mental decline today similarly to how we tackled the decline in our physical health in the second half of the last century: by embracing specific routines around information consumption designed to arrest this slide away from advanced literacy. We should treat highly distracting digital garbage like junk food – something we largely avoid – and purposefully schedule a non-trivial amount of time each day to read, write, and self-reflect, just as we now dedicate time to walking, jogging, and weight lifting."
+    },
+    {
+      "line": 45,
+      "text": "“An astonishing wealth of information and wisdom has been bequeathed to us,” writes Horowitch in the conclusion to her article. “What we’ll do with this inheritance is up to us.”"
+    }
+  ]
+}

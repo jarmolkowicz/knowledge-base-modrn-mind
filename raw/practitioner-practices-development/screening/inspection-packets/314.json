@@ -1,0 +1,39 @@
+{
+  "id": 314,
+  "title": "Too long.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/long.md",
+  "sha256": "de3dc74474b42a79dfc2968fc5ced004bdbb6cef14219a27da7b9fca553ee3bd",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2076,
+  "headings": [
+    "**How long should be a prompt (really).**",
+    "**What the data really says (July 2025)**",
+    "**The real enemy isn’t length. It’s bloat.**",
+    "**The layered prompt template (order > length)**",
+    "**Strategy: Zero-Shot first. Few-Shot when necessary.**",
+    "Rude.",
+    "**Bottom line**",
+    "**Cheat sheet: 10-minute prompt checklist**",
+    "**Copy-ready template (paste into ChatGPT)**",
+    "**A) Sweet-spot Zero-Shot prompt (≈200) — rewrite a section of your draft**",
+    "**B) Sweet-spot Zero-Shot-CoT (≈210 words) — turn a long source into a crisp reader explainer**",
+    "**Before vs after**",
+    "**You are new? Check my archive of guides:**",
+    "**How to write good prompts on the fly, fast.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 129,
+      "text": "No one told you how to write a ChatGPT prompt."
+    },
+    {
+      "line": 157,
+      "offset": 5512,
+      "text": "**Zero-Shot prompt** is to ask something to ChatGPT without showing an example of what you want. It’s how 99% of the people prompt ChatGPT."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "queue_position": 219,
+  "id": 587,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/chandra-janakiraman/transcript.md",
+  "sha256": "2224943e6caa74652ab2b93e3b7e3be78bf568334f21c2019cd7cf45f8f64c0f",
+  "title": "An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 834,
+      "text": "(01:27:52):"
+    },
+    {
+      "line": 835,
+      "text": "So right away, I think the basic idea is everybody should be using assistance in the strategy formulation process with the basic tools that we have. And there are two ways to get AI to assist you in the strategy formulation process. The first is to support the preparation phase in terms of research. And this could be competitive analysis and, for example, you could do trend analysis from a vast library of competitors' release notes. And you can sort of say, \"Okay, what are the themes of investment of a competitor's release notes?\" Or you could do a reviews analysis of a competitor product and sort of understand what's resonating for users, what's not. And you could also ask a tool like ChatGPT to do a head-to-head comparison between a few players on a certain dimension and really give you a heat map of how they all stack up. And you could also ask an open-ended question like, \"Hey, why is this new product so successful? Why is it getting so many users?\" And there's some good hypothesis that you usually get. So really leverage in sort of the preparation phase from a competitive analysis standpoint."
+    },
+    {
+      "line": 864,
+      "text": "Chandra Janakiraman (01:33:16):"
+    },
+    {
+      "line": 865,
+      "text": "Yeah, yeah. So then the question becomes, hey, what is our job? Our job becomes architecting bigger and bigger pieces of the product to take advantage of these agents. And there will be a sequential increase in the complexity of workloads that get automated over time. Onboarding is probably relatively on the easier side in terms of complexity of workload. And you get into deeper experiences, eventually AI will get there."
+    },
+    {
+      "line": 939,
+      "text": "Chandra Janakiraman (01:41:06):"
+    },
+    {
+      "line": 940,
+      "text": "Yeah, yeah, it feels a bit... Yeah."
+    }
+  ]
+}

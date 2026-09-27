@@ -1,0 +1,53 @@
+{
+  "queue_position": 150,
+  "id": 476,
+  "path": "raw/inbox/Practical/Sam Illingworth/protect-family-deepfake-voice-scams.md",
+  "sha256": "f8d694c94f704b0aef9bacb0b5abfa25ac3bb205e72ccd99881c168b0eb1195f",
+  "title": "How to Protect Your Family From Deepfakes",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L17 #### **In this post I will:**",
+    "L29 #### **Two stories from the last week**",
+    "L39 #### **Why you will be targeted**",
+    "L53 #### **What the research says**",
+    "L71 #### **Five things to do tonight**"
+  ],
+  "passages": [
+    {
+      "line": 13,
+      "text": "# How to Protect Your Family From Deepfakes"
+    },
+    {
+      "line": 53,
+      "text": "#### **What the research says**"
+    },
+    {
+      "line": 61,
+      "text": "They were right. In March 2025, researchers reported in *Scientific Reports* that participants matched an AI-generated voice to its real owner about 80% of the time and correctly identified a voice as AI-generated only about 60% of the time."
+    },
+    {
+      "line": 71,
+      "text": "#### **Five things to do tonight**"
+    },
+    {
+      "line": 75,
+      "text": "3. **No money moves on the first call.** Urgency is the tell. Every version of this scam, from the fake son to the fake CFO, manufactures a reason it must happen now: the train leaves, the deal closes, the bail hearing is in an hour. Real emergencies survive a twenty-minute delay. Decide now, while nobody is crying down the phone at you, that you do not send money inside an hour of being asked."
+    },
+    {
+      "line": 76,
+      "text": "4. **Brief the people most likely to get the call.** Your parents. Tell them the scam exists, because when Starling asked, 46% of UK adults had never heard of it, and tell them the specific shape: a child’s voice, distress, a new number, a request for money or codes. Then give them the sentence that ends it: “I love you. I am hanging up and calling you back.” Practise saying it, because saying it to a crying voice that sounds like a grandchild is hard."
+    },
+    {
+      "line": 77,
+      "text": "5. **Report it, even if you lost nothing.** If money moved, ring your bank straight away, because the odds of recalling a payment fall by the hour. In the UK, you can dial 159, which is a short code that reaches your bank’s fraud team and cannot be spoofed. Then report the crime. Screenshot the number and keep the voicemail. If it is your likeness being misused rather than your money, report it on the platform and keep the evidence before it is taken down. The people running these scams are counting on embarrassment keeping you quiet."
+    },
+    {
+      "line": 83,
+      "text": "*If this post helped, send it to the person who would answer that call.*"
+    },
+    {
+      "line": 89,
+      "text": "**Who is your safe word conversation with?** Tell me in the comments who you are setting one up with this week, without telling me the word."
+    }
+  ]
+}

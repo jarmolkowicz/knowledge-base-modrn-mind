@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "integrated_targets": 18,
+  "new_practices": 8,
+  "updated_practices": 9,
+  "updated_methods": 1,
+  "total_entries": 426,
+  "counts": {
+    "source": 248,
+    "concept": 73,
+    "method": 22,
+    "practice": 83
+  },
+  "protected_preexisting_entries": 408,
+  "reviewed_original_texts_unchanged": 19,
+  "original_drafts_unchanged": 18,
+  "practitioner_origins_preserved": 9,
+  "taxonomy_unchanged": true,
+  "selected_link_and_metadata_findings": 0
+}

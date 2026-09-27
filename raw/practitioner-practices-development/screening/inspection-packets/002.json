@@ -1,0 +1,24 @@
+{
+  "id": 2,
+  "title": "How to Pick a Job, Say No and Sorry, and Avoid AI Pitfalls",
+  "collection": "Adam Grant",
+  "path": "raw/inbox/Practical/Adam Grant/how-to-pick-a-job-say-no-and-sorry.md",
+  "sha256": "db5e2bb84c601f72f619743c72b7859f9bd87dd0eacaab59eb4b81c972c87b13",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 230,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 269,
+      "text": "It’s a mistake to outsource most writing to AI. Even if the output is accurate and engaging, something valuable is lost "
+    },
+    {
+      "line": 14,
+      "offset": 538,
+      "text": "Here’s a collection of some writing that helped my thinking, and below are my favorite pieces of writing that I’ve read in the past month."
+    }
+  ]
+}

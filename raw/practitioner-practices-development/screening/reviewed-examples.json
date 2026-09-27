@@ -1,0 +1,37 @@
+[
+  {
+    "path": "raw/inbox/Practical/Sam Illingworth/how-can-writers-use-ai-ethically.md",
+    "source_sha256": "1c3347a63552f996e9a88f6248dab0ce124520a7deb25bb97269e12faa865832",
+    "decision": "read_for_extraction",
+    "locator": "Step-by-step; A moment from Rebecca J Hogue",
+    "reason": "Named contributor, specific no-rewrite feedback exercise, actual use with rough and polished writing, and rejected suggestions. Suitable candidate; claims of learning remain self-reported. Credit Hogue separately from the host."
+  },
+  {
+    "path": "raw/inbox/Practical/Ethan Mollick/giving-your-ai-a-job-interview.md",
+    "source_sha256": "a2b1f725348c7c19a39a03a6a8ca4d7ecfeb4bd945339655b0d88bfe892aaf18",
+    "decision": "read_for_extraction",
+    "locator": "Benchmarking on the Real World; Interview your model",
+    "reason": "Concrete procedure for realistic tasks, repeated trials and expert evaluation, with examples. Check overlap with calibration and distinguish task suitability from improved human judgment."
+  },
+  {
+    "path": "raw/inbox/Practical/Sabrina Ramonov/how-to-get-ahead-of-99-of-people-with-ai-sparring-partner.md",
+    "source_sha256": "ad7f032896e9d15c96d72c59dd4f52d351f64a9d6c5aedd45089bd38e21ba54d",
+    "decision": "read_for_extraction_with_flags",
+    "locator": "The 4-Step System; Step 1; Step 2",
+    "reason": "A repeatable context interview followed by questions and counterarguments, with a textual example. Promotional claims about intelligence, savings and guaranteed blind-spot detection are unsupported in this account. Tool-plan requirements are dated and must not be copied as current facts. Assess the useful procedure separately from those claims and from existing Socratic partnership."
+  },
+  {
+    "path": "raw/inbox/Practical/Cal Newport/are-we-at-war-with-ai-agent-civilizations.md",
+    "source_sha256": "0eade3f4b56957b33d2c99878c77773aef6fbd0def56cbfea946fc817e083e5f",
+    "decision": "background",
+    "locator": "Question #1; Question #3; closing recommendations",
+    "reason": "The procedural passages primarily explain how agent software operates. Closing recommendations concern company conduct, regulation and commentary; no sufficiently specified human learning/thinking routine for this practice collection. Retain as possible background, not a priority for practice extraction. This does not assess its technical or legal claims."
+  },
+  {
+    "path": "raw/inbox/Practical/Adam Grant/the-12-new-books-to-spice-up-your.md",
+    "source_sha256": "af143f64e909d52cb97a7a59c24361e18697ca97f990441cf5eb1f2c76f05461",
+    "decision": "discovery_only",
+    "locator": "Numbered book list, especially Technology and Humanity",
+    "reason": "A reading list pointing to potentially relevant books, not an account containing enough detail to extract a practice. Retain as a source-discovery lead; do not import the book blurbs as evidence."
+  }
+]

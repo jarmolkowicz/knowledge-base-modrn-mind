@@ -1,0 +1,39 @@
+{
+  "id": 257,
+  "title": "16 chatgpt myths.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/16-chatgpt-myths.md",
+  "sha256": "b91eddbcd8ec3e7e45c57d636f96ec8f13c68c11dcac95770ba19cc7a8951fd7",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1382,
+  "headings": [
+    "#1 “ChatGPT knows the entire internet.”",
+    "#2 “ChatGPT remembers everything.”",
+    "#3 “ChatGPT never lies.”",
+    "#4 “ChatGPT is unbiased.”",
+    "How to make AI battle for you.",
+    "#5 “ChatGPT understands humor.”",
+    "#6 “ChatGPT is private.”",
+    "#7 “ChatGPT predicts the future.”",
+    "#8 “ChatGPT replaces experts.”",
+    "#9 “ChatGPT is free.”",
+    "#10 “ChatGPT is safe for my confidential files.”",
+    "#11 “ChatGPT images are yours.”",
+    "#12 “ChatGPT owns the image you upload.”",
+    "#13 “ChatGPT uses Google to search.”"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 157,
+      "text": "No, ChatGPT does not *read* the entire internet."
+    },
+    {
+      "line": 32,
+      "offset": 1845,
+      "text": "Also, you have to “call” its data with the right prompt (*hence why people love prompts*). For eg. if you say “Act like a data engineer”, ChatGPT will directly go to its “data engineer database”. The answer will be insta"
+    }
+  ]
+}

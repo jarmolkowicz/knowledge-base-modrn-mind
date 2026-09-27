@@ -1,0 +1,26 @@
+{
+  "id": 612,
+  "title": "Behind the founder | Drew Houston (Dropbox)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/drew-houston/transcript.md",
+  "sha256": "08178d9aee92ccf1ed829bc87aa1e9741c82bbb099768b00334e75deb02302ab",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 18707,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 37,
+      "offset": 1001,
+      "text": "People just don't realize the wild journey that you h"
+    },
+    {
+      "line": 451,
+      "offset": 70581,
+      "text": "We bought a little company called Command E that was doing universal search, and we created this new product called Dropbox Dash. Basically, Dash connects to al"
+    }
+  ]
+}

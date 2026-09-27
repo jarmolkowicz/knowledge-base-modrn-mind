@@ -1,0 +1,26 @@
+{
+  "id": 825,
+  "title": "Building a magical AI code editor used by over 1m developers in 4 months: Inside Windsurf",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/varun-mohan/transcript.md",
+  "sha256": "fe8a31d7006f2cfa26b08f00fe272104b6d7733f0bf6f9ee1da8e2c6ea4550b1",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 16093,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 38,
+      "offset": 804,
+      "text": "A lot of the bets we're making inside the c"
+    },
+    {
+      "line": 608,
+      "offset": 78425,
+      "text": "I think it really comes down to, do you get incremental value by adding more engineers internally? I'm going to take... First of a"
+    }
+  ]
+}

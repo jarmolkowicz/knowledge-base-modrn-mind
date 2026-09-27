@@ -1,0 +1,99 @@
+{
+  "queue_position": 63,
+  "id": 289,
+  "path": "raw/inbox/Practical/Ruben Hassid/fight.md",
+  "sha256": "6c2b12c5e5cbc47b060972af56751d188f62e233e6e0098395f895b634e97868",
+  "title": "How to make AI battle for you.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L46 ## Start with ChatGPT",
+    "L90 ## Question ChatGPT with Claude",
+    "L108 ## Head-to-Head battle",
+    "L136 ## The framework to copy",
+    "L160 ## Why LLMs lie?",
+    "L164 ### I was having coffee with a friend last week.",
+    "L176 ### In the past, we wired LLMs to…",
+    "L187 ### But now we’re teaching them to say, “Maybe.”",
+    "L195 ### One prompt to rule them all",
+    "L215 ### So wait, why do LLMs “lie”?",
+    "L232 ## **This is the annoying marketing part…**"
+  ],
+  "passages": [
+    {
+      "line": 90,
+      "text": "## Question ChatGPT with Claude"
+    },
+    {
+      "line": 96,
+      "text": "I copied the first & second answer from ChatGPT. And when you paste a text “this long”, it creates an attachment on Claude. It’s a nice touch."
+    },
+    {
+      "line": 108,
+      "text": "## Head-to-Head battle"
+    },
+    {
+      "line": 112,
+      "text": "It’s the perfect battleground for yet another fight. But this time, I simply continue my conversation on both sides, asking the same question:"
+    },
+    {
+      "line": 118,
+      "text": "> **Avoid LinkedIn-only dependency**; long-term brand equity lives in contact data you personally own."
+    },
+    {
+      "line": 136,
+      "text": "## The framework to copy"
+    },
+    {
+      "line": 152,
+      "text": "> I want to make sure I don't blindly follow its lead & I actually follow best practices for the goal I originally set up."
+    },
+    {
+      "line": 156,
+      "text": "**Bonus**: Share the same prompt on both conversations when you have a doubt. Compare the answers. Confront the one you dislike the most with the best answer from the one you prefer."
+    },
+    {
+      "line": 164,
+      "text": "### I was having coffee with a friend last week."
+    },
+    {
+      "line": 174,
+      "text": "The model didn’t *decide* to deceive her; it simply kept its contractual promise: **predict the next token that looks right.**"
+    },
+    {
+      "line": 195,
+      "text": "### One prompt to rule them all"
+    },
+    {
+      "line": 197,
+      "text": "If you don’t have the time to make LLMs battle like I previously showed you, I have another useful prompt to simply copy & paste:"
+    },
+    {
+      "line": 201,
+      "text": "> I will use a prompting technique called “Perspective Transitioning” to avoid falling into confirmation bias."
+    },
+    {
+      "line": 203,
+      "text": "> You will enact two completely different experts to fully read our conversation, and critic our discussion, learnings & conclusions. Their critics is based on science, truth, deep search & expertise on the matter."
+    },
+    {
+      "line": 215,
+      "text": "### So wait, why do LLMs “lie”?"
+    },
+    {
+      "line": 225,
+      "text": "- **Lower temperature.** Temperature = 0.2 for facts, 0.8+ for brainstorming. This is only available using the API inside the Playground (not ChatGPT browser)."
+    },
+    {
+      "line": 232,
+      "text": "## **This is the annoying marketing part…**"
+    },
+    {
+      "line": 240,
+      "text": "> So if 1% of you forward this email to a (single) colleague, that’s an extra 6,500 people mastering AI together. Also one of them will eventually become my wife."
+    },
+    {
+      "line": 242,
+      "text": "> Now if you are theperson who received it (welcome!), you can join us here for the next newsletter:"
+    }
+  ]
+}

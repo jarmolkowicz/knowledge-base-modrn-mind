@@ -1,0 +1,51 @@
+{
+  "queue_position": 95,
+  "id": 363,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/ai-reveals-the-most-brutal-truths-in-psychology.md",
+  "sha256": "37703ec6f197bea11a3946a2610383c8886aa31e28ab31a65b3c7d2531c74d0b",
+  "title": "AI reveals the most brutal truths in psychology",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L33 ## How to Run This Prompt Chain",
+    "L71 ## Big Picture",
+    "L83 ## Not Sure Where To Start? 👇"
+  ],
+  "passages": [
+    {
+      "line": 33,
+      "text": "## How to Run This Prompt Chain"
+    },
+    {
+      "line": 35,
+      "text": "This is a sequence of 5 simple prompts that should be run within the SAME chat. Simply go in order, 1 prompt a time."
+    },
+    {
+      "line": 39,
+      "text": "Open the AI chat app you **use most frequently**: whether it’s ChatGPT, Claude, Gemini, Grok, Deepseek, etc."
+    },
+    {
+      "line": 41,
+      "text": "You should open the app you ACTUALLY use because this exercise works best when AI has many past conversations to analyze."
+    },
+    {
+      "line": 55,
+      "text": "> ***1. Based on everything you know about me, tell me who you think I’m pretending to be versus who I actually am.***"
+    },
+    {
+      "line": 63,
+      "text": "> ***5. Taking all this into consideration, what is the highest leverage thing I should do in the next 30 days?***"
+    },
+    {
+      "line": 71,
+      "text": "## Big Picture"
+    },
+    {
+      "line": 77,
+      "text": "Think of it like asking your close friend their opinion of you. Your friend’s answer should be meaningful, valuable, and thought provoking… but **never 100% correct**."
+    },
+    {
+      "line": 79,
+      "text": "The more history you have using the AI tool, the more CONTEXT it will have to give you a better answer."
+    }
+  ]
+}

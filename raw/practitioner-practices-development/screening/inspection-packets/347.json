@@ -1,0 +1,33 @@
+{
+  "id": 347,
+  "title": "Your prompt sucks.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/your-prompt-sucks.md",
+  "sha256": "9ebe184a4728cdcbab84bfd9b677e80a5566f626b369b4ec48d8d14ebb6fd50b",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1628,
+  "headings": [
+    "1. Your Prompt Fail Before You Even Type.",
+    "You open ChatGPT.",
+    "**A. Find a reference — and download it as markdown.**",
+    "**B. Reverse-engineer your reference.**",
+    "**C. Fill out your success brief.**",
+    "2. Show, Don’t Tell.",
+    "3. It’s Called “Chat” For A Reason.",
+    "Cheat sheet."
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 180,
+      "text": "So you open ChatGPT, and you *think* ChatGPT knows better how to prompt i"
+    },
+    {
+      "line": 30,
+      "offset": 1033,
+      "text": "I made you believe that ChatGPT, when prompted correctly, writes better prompts than you. Because 2 years ago, I made my first GPT, the **Prompt Maker**:"
+    }
+  ]
+}

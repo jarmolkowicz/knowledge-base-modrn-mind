@@ -1,0 +1,36 @@
+{
+  "id": 408,
+  "title": "AI Agents Do Not Play Games. You Do.",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-agents-game-theory-no-skin-in-the-game.md",
+  "sha256": "6c7ab10a64b8d68be2b7e7dec197f49091f8a8a3344f701fcafa11d883e392e2",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1929,
+  "headings": [
+    "**What an agent is and what it is not**",
+    "What happens when the stakes disappear",
+    "**The $24 million fly book and the inbox that ate itself**",
+    "**The language is the problem**",
+    "**Why this matters for you**",
+    "**What to share**",
+    "**Why AI agents require more judgement, not less**",
+    "**Three questions before you trust an AI agent**",
+    "**1. Who pays when this goes wrong?**",
+    "**2. What can this agent do that I cannot undo?**",
+    "**3. Whose language am I using to describe this?**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 420,
+      "text": "An AI agent can book your flights, send your emails, and negotiate on "
+    },
+    {
+      "line": 31,
+      "offset": 1446,
+      "text": "An AI agent is a function executor with access to tools. It can browse the web, send emails, write code, and book flights. Some agents require human approval before acting. Some run unsupervised for hours or mo"
+    }
+  ]
+}

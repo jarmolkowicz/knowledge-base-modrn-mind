@@ -1,0 +1,31 @@
+{
+  "id": 290,
+  "title": "Flow.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/flow.md",
+  "sha256": "2cabd70232a8f0c07047f87cb22e4e1807f484f5d52a1f3021424bce9ab5a915",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 901,
+  "headings": [
+    "The most magical AI. Yes, more than ChatGPT.",
+    "How to set up Wispr Flow.",
+    "4 times faster than (any of) you.",
+    "How I write (without typing).",
+    "*blog archive: https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing*",
+    "— Written with Wispr Flow."
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 14,
+      "offset": 198,
+      "text": "You can train it as much as you want, but it’s just not it."
+    },
+    {
+      "line": 18,
+      "offset": 293,
+      "text": "And after writing literally thousands of posts online, reaching over 300 million impressions on my **Linkedin**, studying AI for hours, I have a secret to share."
+    }
+  ]
+}

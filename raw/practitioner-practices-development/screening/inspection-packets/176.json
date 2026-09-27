@@ -1,0 +1,24 @@
+{
+  "id": 176,
+  "title": "The 6 reasons your work is hard",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/gemini-31-pro-broke-every-benchmark.md",
+  "sha256": "af8802b5134aec360b8d5dcbcca827da207ddcf5c2fb5af6e0bc85a6bc761faf",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 431,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 214,
+      "text": "Most people are about to open four new browser tabs and sign up for two more AI subscr"
+    },
+    {
+      "line": 14,
+      "offset": 858,
+      "text": "This post breaks down why “which AI should I use” is the wrong question, introduces a six-axis framework for understanding what actually makes your work hard, and explains why the skill that compounds fastest right now isn’t model fluency. It’s knowing whether"
+    }
+  ]
+}

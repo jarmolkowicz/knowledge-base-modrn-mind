@@ -1,0 +1,37 @@
+{
+  "queue_position": 391,
+  "id": 823,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/uri-levine/transcript.md",
+  "sha256": "f0910e175e24f7b0335aa50206a43149636331ef612f30fb16bc88ddd4d46a94",
+  "title": "A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 165,
+      "text": "(00:23:58):"
+    },
+    {
+      "line": 166,
+      "text": "Iteration after iteration after iteration after iteration. More than a year of iterations until beginning of 2011 that we actually started to see that working, and then it's in multiple places. In the U.S., one metropolitan after the other, right? Los Angeles first and then San Francisco and then Washington D.C. and Chicago and New York and Atlanta and so forth. In Europe, one country after the other. Italy first and then France and Netherlands and Sweden and Spain and one country after the other. In Latin America, one country after the other. Colombia first and then Chile and then Brazil and then Mexico and then rest of Latin America. In Asia, multiple countries one after the other. Not all of them, by the way. Not all of them. Japan is a very good example where it didn't work and it will never work. Waze crowdsourced the information, right? Which basically says that as soon as we get to the level of good enough, then we are good enough."
+    },
+    {
+      "line": 420,
+      "text": "Uri Levine (01:02:41):"
+    },
+    {
+      "line": 421,
+      "text": "You know, there are tons of advices in the book and eventually I will tell, even in the hiring process, right, most of us are going to interview candidates and then decide that they like or dislike the candidate, but they don't know. Then speak with someone that does know. Speak with the reference."
+    },
+    {
+      "line": 531,
+      "text": "Uri Levine (01:17:11):"
+    },
+    {
+      "line": 532,
+      "text": "So I can bet that most of the people say the ChatGPT, but actually no. I recently downloaded the Chess App and I returned to play chess with the computer or something that I haven't done for so many years, and I really enjoy that."
+    }
+  ]
+}

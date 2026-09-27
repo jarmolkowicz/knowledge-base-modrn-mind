@@ -1,0 +1,45 @@
+{
+  "slug": "illingworth-440-the-work-ai-handed-back-2026",
+  "original_filename": "ai-rehiring-workers-replaced.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 1674,
+  "hash": "2db0fe6162d2fd22414a211828b6c23efcdef59d09937f2f092f6c501ba763c1",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:44Z",
+  "decisions": [
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/illingworth-440-the-work-ai-handed-back-2026.md",
+      "practices": [
+        "practices/record-human-interventions.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 142,
+  "screening_id": 440,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/ai-rehiring-workers-replaced.md",
+  "bibliographic_metadata": {
+    "title": "The Work AI Handed Back",
+    "date": "2026-08-12",
+    "url": "https://theslowai.substack.com/p/ai-rehiring-workers-replaced",
+    "collection": "Sam Illingworth"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "practice_review": "practice-review.json"
+}

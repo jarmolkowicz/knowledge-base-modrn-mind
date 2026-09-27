@@ -1,0 +1,35 @@
+{
+  "queue_position": 23,
+  "id": 71,
+  "path": "raw/inbox/Practical/Ethan Mollick/claude-code-and-what-comes-next.md",
+  "sha256": "b11e73d11256635090ebffabb687c4c594b76f5d410611f4941db2ddc340b1da",
+  "title": "Claude Code and What Comes Next",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 22,
+      "text": "Unfortunately for most of us who want to experiment with AI, these new tools are built for programmers. And I mean they are *really* built for programmers: they assume that you understand Python commands and programming best practices and they are wrapped in interfaces that look like something from a 1980s computer lab. They are also explicitly designed to help analyze, troubleshoot, and write code using approaches that fit into existing programmer workflows. In a lot of ways, this is a shame, because these systems are actually broadly useful to knowledge workers of all types, and, by seeing what they can do (and experimenting with them yourself), I think you can learn a lot about the future of AI. In this post, we are going to focus on one in particular, Claude Code powered by Opus 4.5, but it works similarly to its main competition OpenAI’s Codex with GPT-5.2 and Google’s Antigravity with Gemini 3."
+    },
+    {
+      "line": 24,
+      "text": "To return to the example of the startup company launched by Claude Code, as practically impressive as this was, it was only touching a small part of the capabilities of what the tool is capable of. In that case, I only used Claude Code for coding, but if I ask it to *do user testing of the live site from different personas and give me a report*, it deploys one of its many tools, its connection to the web browser on my computer. Claude takes control of the browser and goes to the site it created, scrolling through it like a human would. On the first pass, it gave me a pretty optimistic report, but, because I know that AIs tend to be sycophantic, I also asked it for a more critical one. This second report did a better job nailing potential issues (and spotting the sketchy fake reviews that were on the site). As a next step, I could easily ask it to implement its suggestions, continuing the process with minimal input from me."
+    },
+    {
+      "line": 28,
+      "text": "# The Magic Tricks"
+    },
+    {
+      "line": 44,
+      "text": "An example of the text of a skill, in this case the Design Skill released by Anthropic. Notice how it is written in plain language and trusts the AI to make decisions."
+    },
+    {
+      "line": 54,
+      "text": "# An Amateur’s Guide to Claude Code"
+    },
+    {
+      "line": 64,
+      "text": "What does all this mean? If you're a programmer, you should already be exploring these tools. If you're programming-adjacent (an academic who works with data, a designer who wants to experiment with code, anyone who wants to try building a thing they are imagining) this is your moment to experiment. But there's a deeper point here: with the right harness, today's AIs are capable of real, sustained work that actually matters, and that, in turn, is starting to change how we approach tasks."
+    }
+  ]
+}

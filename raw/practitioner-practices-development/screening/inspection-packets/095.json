@@ -1,0 +1,24 @@
+{
+  "id": 95,
+  "title": "The End of Search, The Beginning of Research",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/the-end-of-search-the-beginning-of.md",
+  "sha256": "f4ee5c84b1839f15ddb257f626ea1b7165ba9b2df8c912f761cc190462c5740c",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1708,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 242,
+      "text": "A hint to the future arrived quietly over the weekend. For a long time, I've been discussing two par"
+    },
+    {
+      "line": 14,
+      "offset": 866,
+      "text": "For the past couple years, whenever you used a chatbot, it worked in a simple way: you typed something in, and it immediately started responding word by word (or more technically, token by token). The AI could only \"think\" while producing these tokens, so researchers developed tricks to improve its "
+    }
+  ]
+}

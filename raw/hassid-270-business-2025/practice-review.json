@@ -1,0 +1,40 @@
+{
+  "id": 270,
+  "author": "Ruben Hassid",
+  "group_index": 10,
+  "decision": "merge",
+  "locators": [
+    "L38–82, answer and challenge assumptions",
+    "L92–118, Perspective Transition"
+  ],
+  "basis": "Worked business-plan example in incomplete available article",
+  "reported_outcomes": [
+    "Author reports questioning invented pricing and preferring a later angle."
+  ],
+  "proposed_outcomes": [
+    "Consider contrasting views and challenge unsupported assumptions."
+  ],
+  "limits": [
+    "Available text ends at the section 3 heading; missing conclusion remains an access limitation.",
+    "Simulated experts are not independent witnesses; supplied quotes and sources require checking.",
+    "Being satisfied with an answer is not verification."
+  ],
+  "review_note": "Merge the demonstrated challenge to invented assumptions; exclude the claim that both simulated expert views are valid.",
+  "coverage": "Close-read all 122 lines of available extracted article text; image-only content and linked media not reviewed. Available article stops at section 3 heading; not a full original article.",
+  "related_entries": [
+    "agency",
+    "guingrich-belief-offloading-2026",
+    "belief-offloading"
+  ],
+  "practice_files": [
+    "raw/illingworth-512-use-ai-to-examine-your-beliefs-2025/drafts/practices/answer-questions-about-your-belief.md"
+  ],
+  "role": "support",
+  "draft_only": true,
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/answer-questions-about-your-belief.md"
+  ],
+  "historical_drafts_retained": true
+}

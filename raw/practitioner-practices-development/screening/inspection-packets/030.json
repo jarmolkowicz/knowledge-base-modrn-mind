@@ -1,0 +1,26 @@
+{
+  "id": 30,
+  "title": "Is AI Making Us Lazy?",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/does-ai-make-us-lazy.md",
+  "sha256": "170ab490cb1b061d8c85c7ee1b5f3f47305ed797e87301a51e3ee217122653d5",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 805,
+  "headings": [
+    "To hear a more detailed discussion of this new paper, listen to today’s episode of my podcast, where I’m joined by [Brad Stulberg](https://thegrowtheq.com/) to help dissect its findings and implications [ **[listen](https://open.spotify.com/show/0e9lFr3AdJByoBpM6tAbxD?si=d691a8f23a5e4b9e)** | **[watch](https://www.youtube.com/@CalNewportMedia/videos)** ]."
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 9,
+      "offset": 140,
+      "text": "Last fall, I published a *New Yorker* essay titled, “What Kind of Writer is ChatGPT?”. My goal for the piece was to bett"
+    },
+    {
+      "line": 13,
+      "offset": 692,
+      "text": "The students weren’t using AI to write for them, but instead to hold conversations *about* their writing. If anything, the approach seemed less efficient and more drawn out than simply buckling down and filling the page. Based on my interviews, it became clear that the students’ goal was less about reducing overall effort than it was about reducing the *maxi"
+    }
+  ]
+}

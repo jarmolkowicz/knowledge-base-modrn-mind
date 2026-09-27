@@ -1,0 +1,84 @@
+{
+  "queue_position": 106,
+  "id": 399,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/the-6-claude-prompts-to-get-you-ahead.md",
+  "sha256": "7e1bcab7da1b314837465c0c04c863fcaf250ad9b3bb62c3c037a692639834d4",
+  "title": "The 6 Claude Prompts to Get You Ahead of 99% of People using AI",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## 1. “ELI10”",
+    "L59 ## 2. “Ask me 5 clarifying questions”",
+    "L81 ## 3. “Here’s an example of what great looks like”",
+    "L105 ## 4. “Update your memory and create a skill”",
+    "L143 ## 5. “Find my blind spots and weak assumptions”",
+    "L171 ## 6. “Don’t stop until \\_\\_\\_\\_”",
+    "L205 ## My Honest Pick",
+    "L223 ## Not Sure Where To Start? 👇"
+  ],
+  "passages": [
+    {
+      "line": 37,
+      "text": "## 1. “ELI10”"
+    },
+    {
+      "line": 49,
+      "text": "Here’s my challenge for you: for the next 2 weeks, EVERY SINGLE QUESTION you have, ask AI FIRST before you act on the impulse to ask a person or complain or feel flustered."
+    },
+    {
+      "line": 53,
+      "text": "**The principle:** ask AI first. When answers are free, fast, and judgment-free, curiosity should be your default instead of your last resort."
+    },
+    {
+      "line": 59,
+      "text": "## 2. “Ask me 5 clarifying questions”"
+    },
+    {
+      "line": 67,
+      "text": "Add this 1 sentence, and AI interviews you first: Who’s your dream client? What result have you delivered before? What’s your price? Why you?"
+    },
+    {
+      "line": 81,
+      "text": "## 3. “Here’s an example of what great looks like”"
+    },
+    {
+      "line": 85,
+      "text": "You found a freelancer sharing the exact proposal that won them a real client: short, specific, opens with the client’s problem, 1 proof point, clear next step."
+    },
+    {
+      "line": 105,
+      "text": "## 4. “Update your memory and create a skill”"
+    },
+    {
+      "line": 125,
+      "text": "Claude analyzes what you just did together, spots the repeatable process, and packages it up. The next pitch - and the 10 after that - is 1 command instead of 20 messages: paste the job posting, get YOUR pitch in YOUR winning format."
+    },
+    {
+      "line": 143,
+      "text": "## 5. “Find my blind spots and weak assumptions”"
+    },
+    {
+      "line": 165,
+      "text": "**The principle:** embrace AI as your sparring partner. The best use of AI isn’t confirming you’re right… it’s finding where you’re wrong BEFORE reality does."
+    },
+    {
+      "line": 171,
+      "text": "## 6. “Don’t stop until \\_\\_\\_\\_”"
+    },
+    {
+      "line": 183,
+      "text": "> Don’t stop until the pitch is under 150 words, opens with the client’s specific problem, includes exactly 1 proof point, and ends with a clear next step. Check every rule before showing me."
+    },
+    {
+      "line": 189,
+      "text": "In Claude Code, this is literally built in: the ``` /goal` `` command. My loop engineering guide even runs a 24/7 A/B test on outreach messages as project #5. It uses a DIFFERENT model to check the work is complete, in order to reduce AI lying to you."
+    },
+    {
+      "line": 211,
+      "text": "#6 makes AI work WITHOUT you."
+    },
+    {
+      "line": 213,
+      "text": "But notice the pitch only wrote itself because of everything before it: understanding (1), context (2), taste (3), memory (4), and a checklist of flaws to guard against (5)."
+    }
+  ]
+}

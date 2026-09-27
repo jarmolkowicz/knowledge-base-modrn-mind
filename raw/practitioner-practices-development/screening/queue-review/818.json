@@ -1,0 +1,37 @@
+{
+  "queue_position": 386,
+  "id": 818,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/tom-conrad/transcript.md",
+  "sha256": "426efe21541f6785a38a881aab674e76f2268bedaf98d2f43f905ed3e7bee8ec",
+  "title": "Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Zero)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 330,
+      "text": "(00:40:54):"
+    },
+    {
+      "line": 331,
+      "text": "But around 2004, things started to thaw a little bit and you started to hear the first signs of the companies that we came to call Web 2.0, Flickr would've been one of the early examples. And one of the enterprise software things I did was a personalization recommendation engine that used a vector space. It's like a lot of the things that we're talking about now in AI, albeit 20 years ago."
+    },
+    {
+      "line": 429,
+      "text": "(00:56:05):"
+    },
+    {
+      "line": 430,
+      "text": "So I leave Pandora after a decade. I take a year trying to figure out what I'm going to do next. But after about a year, I got introduced to Evan. And it's kind of a funny story. A mutual friend sent this introduction over. Evan immediately responded and said, \"Why don't you come down to Los Angeles and have a coffee with me?\" So I fly down. It's not clear if it's a job interview or what it is really. I mean, I was just lightly exploring things that were out there and was a big fan of what he was doing with Snapchat. So I spent 45 minutes with him, and then I spent 45 minutes with the head of engineering, and another 45 minutes with the head of legal, and then they tossed me into a conference room with a dozen product designers, all in their mid to late 20s, many of which had gone to school at Stanford with Evan."
+    },
+    {
+      "line": 633,
+      "text": "Tom Conrad (01:31:53):"
+    },
+    {
+      "line": 634,
+      "text": "I consume a lot of video content, both stuff that I'm very proud to talk about and stuff that I'm less proud to talk about, but I really liked the new Damon Lindelof show that's on Peacock called Mrs. Davis. So Lindelof, of course, from Lost and the new Watchmen on HBO, and Mrs. Davis is about an AI that you wear in your ear, like the HER AI and a nun that is hell-bent on the AI's destruction, and it reads like an early Coen brothers movie. It's super darkly funny and really, really thoughtful and unlike too much streaming, I think it's seven episodes, and it is a perfectly encapsulated story that has a beginning, middle, and an end and doesn't need to ever have another episode. It's amazing. Get yourself a Peacock subscription for at least a month to watch Mrs. Davis."
+    }
+  ]
+}

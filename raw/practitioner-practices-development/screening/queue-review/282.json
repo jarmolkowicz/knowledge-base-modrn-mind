@@ -1,0 +1,86 @@
+{
+  "queue_position": 61,
+  "id": 282,
+  "path": "raw/inbox/Practical/Ruben Hassid/context.md",
+  "sha256": "60b703c091143081c8db95848aae0e268437db755786c0701b2cc04f3ac18801",
+  "title": "How to prompt ChatGPT with context engineering.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L48 ## #1 - How to use the 4W prompt.",
+    "L190 ## #2 - Three examples of the right context.",
+    "L200 ### Example 1: From a long PDF to a one-pager.",
+    "L280 ### Example 2: Find gaps in my thinking.",
+    "L362 ### Example 3: What made me great.",
+    "L428 ## #3 - When not to share context (& what to do instead)."
+  ],
+  "passages": [
+    {
+      "line": 28,
+      "text": "Think of ChatGPT like a very good intern: it does exceptionally well… if it knows first the 4W to perform the tasks. And I’m not the only one obsessing over it:"
+    },
+    {
+      "line": 36,
+      "text": "Now that you know **WHY** you must master context engineering, let’s master the **HOW** together. Here’s my step-by-step guide on:"
+    },
+    {
+      "line": 48,
+      "text": "## #1 - How to use the 4W prompt."
+    },
+    {
+      "line": 100,
+      "text": "> Step 1. Gap check – list any information still missing; ask me concise questions until gaps are filled."
+    },
+    {
+      "line": 114,
+      "text": "> • If a pasted source exceeds ~200 words, first give me a one‑sentence summary and ask whether to keep the full text in context."
+    },
+    {
+      "line": 160,
+      "text": "> Step 1. Gap check – list any information still missing; ask me concise questions until gaps are filled."
+    },
+    {
+      "line": 174,
+      "text": "> • If a pasted source exceeds ~200 words, first give me a one‑sentence summary and ask whether to keep the full text in context."
+    },
+    {
+      "line": 200,
+      "text": "### Example 1: From a long PDF to a one-pager."
+    },
+    {
+      "line": 242,
+      "text": "> Step 1. Gap check – list any information still missing; ask me concise questions until gaps are filled."
+    },
+    {
+      "line": 256,
+      "text": "> If a pasted source exceeds \\~200 words, first give me a one-sentence summary and ask whether to keep the full text. If you need knowledge I have not supplied, list it in Gap check instead of searching externally."
+    },
+    {
+      "line": 280,
+      "text": "### Example 2: Find gaps in my thinking."
+    },
+    {
+      "line": 332,
+      "text": "> Step 1. Gap check – list any information still missing; ask me concise questions until gaps are filled."
+    },
+    {
+      "line": 358,
+      "text": "Here’s the result: <https://chatgpt.com/share/6867e5bd-13f0-800f-9f53-2121552e81e8>. And if you’re not sure it’s better, just A/B test the copies."
+    },
+    {
+      "line": 362,
+      "text": "### Example 3: What made me great."
+    },
+    {
+      "line": 398,
+      "text": "> Step 1. Gap check – list any information still missing; ask me concise questions until gaps are filled."
+    },
+    {
+      "line": 412,
+      "text": "> • If a pasted source exceeds \\~200 words, first give me a one-sentence summary and ask whether to keep the full text in context."
+    },
+    {
+      "line": 424,
+      "text": "Here’s the result: <https://chatgpt.com/share/6867ec17-14a4-800f-9cc5-343ae2d90398>. Don’t steal my viral posts please. Love you."
+    }
+  ]
+}

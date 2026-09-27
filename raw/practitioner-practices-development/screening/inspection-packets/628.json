@@ -1,0 +1,26 @@
+{
+  "id": 628,
+  "title": "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/eric-ries/transcript.md",
+  "sha256": "e667f9705e47a99aa0b6eb9befe766dfcb6bcd8ca45e005c50bfca1062bfab4f",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 28712,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 841,
+      "text": "People act like having a startup fail is the worst th"
+    },
+    {
+      "line": 375,
+      "offset": 77902,
+      "text": "But I think it's important also to understand how much that is true. And that's like, again, go back to why science is so important. Why do we write all the ele"
+    }
+  ]
+}

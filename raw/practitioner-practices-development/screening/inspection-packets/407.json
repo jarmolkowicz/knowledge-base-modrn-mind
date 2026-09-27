@@ -1,0 +1,32 @@
+{
+  "id": 407,
+  "title": "The Actual Mental Health Toll of AI Companions",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/actual-mental-health-toll-ai-companions.md",
+  "sha256": "69d09bb6d092f76d6dc6ce83bed1124f82dc3609611113baa508b3da25f18eca",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1629,
+  "headings": [
+    "In this post I will:",
+    "**Tens of millions of people are already talking to AI companions**",
+    "**The harm cases**",
+    "**What the empirical studies have started to find**",
+    "**The clinical-grade chatbots are a different product**",
+    "**The loneliness vacuum is what these products are filling**",
+    "**Companion-grade and clinical-grade are different products**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 438,
+      "text": "A chatbot is the worst place to take your mental health, and potential"
+    },
+    {
+      "line": 61,
+      "offset": 5032,
+      "text": "In March 2025, OpenAI and MIT Media Lab released a joint study of forty million ChatGPT conversations combined with a randomised controlled trial of about a thousand users over four weeks. Higher daily ChatGPT "
+    }
+  ]
+}

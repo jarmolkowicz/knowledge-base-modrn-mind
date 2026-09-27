@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-09-27",
+    "path": "raw/nosta-borrowed-mind-2026/drafts/practices/check-a-capability-without-the-assistant.md",
+    "reason": "Replace incomplete citation using the existing canonical book source.",
+    "before_sha256": "1f1db55c5a5ac7705f559ae1291a4b42a9f5090862a05382436b369340eb6058",
+    "after_sha256": "f279a8cc3048f4d2d3b9d9e5598c163d5b56fb57e4740e66ad2d269249f15ea4"
+  },
+  {
+    "date": "2026-09-27",
+    "path": "raw/illingworth-slow-ai-2026/drafts/source.md",
+    "reason": "Replace placeholder bibliography with title/copyright metadata already recorded in source.json; no publisher inferred.",
+    "before_sha256": "8c6c8a15a4b6b54f26213dd1ad13ac4417e6d31f22adb9816cac24bfaef09890",
+    "after_sha256": "7c4b336fdbbe4f6f1a0e8c3e36a8504cd91d5e306a7573098d3e024740d2d849"
+  },
+  {
+    "date": "2026-09-27",
+    "path": "raw/lenny-741-she-turned-100-rejections-into-a-2025/drafts/practices/speak-your-thoughts-before-summarizing.md",
+    "reason": "Remove generic doshi-hauser-creativity-diversity-2024 connection: its creative-ideation/output comparison does not support this routine.",
+    "before_sha256": "d8b2d83e8369102592800461dd98524fba6002c702aa14740f92b7b6c4ef425a",
+    "after_sha256": "aa2039cbe1b9ed4c982d5a1d9aa37b36d9339a68431fb4095f22dd3ada091e46"
+  },
+  {
+    "date": "2026-09-27",
+    "path": "raw/illingworth-425-fiction-as-a-mirror-for-students-2026/drafts/practices/use-fictional-questions-for-your-own-reflection.md",
+    "reason": "Remove generic doshi-hauser-creativity-diversity-2024 connection: its creative-ideation/output comparison does not support this routine.",
+    "before_sha256": "37be7f073b86f3a34e817b7fddd852b6f31ee1b080cb3537e4892c25ae3bd178",
+    "after_sha256": "de005ca08b129f6b0367ddc087c49c1c21999532903a9e9a300652d2eec67d8d"
+  },
+  {
+    "date": "2026-09-27",
+    "path": "raw/mollick-079-making-ai-work-leadership-lab-and-2025/drafts/practices/test-and-share-a-team-ai-workflow.md",
+    "reason": "Remove generic anderson-homogenization-2024 connection: its creative-ideation/output comparison does not support this routine.",
+    "before_sha256": "4a9cd5da1ddf376e2ee9acfbbb09ae4fff5193fccf58826249db106a514ee551",
+    "after_sha256": "c934866c0b119758e0e2c323a721b9685549fd1c680a971118d3197f38918e20"
+  },
+  {
+    "date": "2026-09-27",
+    "path": "raw/lenny-804-the-art-of-product-management-shreyas-2022/drafts/practices/turn-a-premortem-into-actions.md",
+    "reason": "Remove generic anderson-homogenization-2024 connection: its creative-ideation/output comparison does not support this routine.",
+    "before_sha256": "61d98b1aa261b6ce76816479966466284f255beb3a2d08490ef040f2ef6eeda4",
+    "after_sha256": "3c0155761a33b918eaf38a0f0127274bd7ef2636194255665bf69643b28f8748"
+  },
+  {
+    "date": "2026-09-27",
+    "path": "raw/lenny-542-scripts-for-navigating-difficult-conversations-alisa-2025/drafts/practices/check-what-each-person-thinks-was-decided.md",
+    "reason": "Remove generic anderson-homogenization-2024 connection: its creative-ideation/output comparison does not support this routine.",
+    "before_sha256": "20cae95246f1b4cf0d89965fa352b9d3009795be30d3c4b05a7074d2f1803373",
+    "after_sha256": "cbd60a6946e91083e16d5b4a115a34c5447a6e61e8129e46d51910fe93b3de55"
+  },
+  {
+    "date": "2026-09-27",
+    "path": "raw/lenny-811-hard-won-lessons-building-0-to-2024/drafts/practices/return-to-real-user-accounts.md",
+    "reason": "Remove generic anderson-homogenization-2024 connection: its creative-ideation/output comparison does not support this routine.",
+    "before_sha256": "d8d9cd0dc64de4bb033207de8aaf9c8fa73b476bebff7c7396ba7b1ca9ed12bf",
+    "after_sha256": "52b9dcb9ab9ebff037ef0bfa1e7fcd2f35fff2619925fbd09ca2a022366dd3cc"
+  },
+  {
+    "date": "2026-09-27",
+    "path": "raw/lenny-550-this-will-make-you-a-better-2024/drafts/practices/collect-independent-views-before-discussion.md",
+    "reason": "Remove generic anderson-homogenization-2024 connection: its creative-ideation/output comparison does not support this routine.",
+    "before_sha256": "5bda35683300e0440b60b36bdf55d021cc0b94cf5476ebdb18239da1cb7f5fad",
+    "after_sha256": "824313c2d386ed19f2fc6f5986eb1847fac40a8ccbe8a61cf7f3fee612b1385d"
+  },
+  {
+    "date": "2026-09-27",
+    "path": "raw/illingworth-523-how-to-hold-on-to-what-2025/drafts/practices/keep-one-thinking-step.md",
+    "reason": "Consolidate a matching human-retained-contribution routine, preserving Mollick attribution and the original draft.",
+    "before_sha256": "562e613c58a3936f46c94670fe5b0c10e2b220a8cd5b1189f178544b83dfecb8",
+    "after_sha256": "a1e4420ad5781680a4b56bd1b969b568afdb57e416afd487c437e35cea9d02b5"
+  },
+  {
+    "date": "2026-09-27",
+    "path": "raw/mollick-076-i-cyborg-using-co-intelligence-2024/drafts/practices/choose-the-human-part-of-the-work.md",
+    "reason": "Mark the proposed merge without deleting the source-specific extraction.",
+    "before_sha256": "4d3f8c1b525f53a3f3869f442dec73c99ba0267dc17cf1919108f3ce51f5d6ba",
+    "after_sha256": "ec786634f9d561f6c375169a2c5eb6881126904e237c08b2aa6b61bd824a35d4"
+  }
+]

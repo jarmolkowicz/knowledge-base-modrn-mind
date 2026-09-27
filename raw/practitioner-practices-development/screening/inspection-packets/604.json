@@ -1,0 +1,26 @@
+{
+  "id": 604,
+  "title": "Building a culture of excellence | David Singleton (CTO of Stripe)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/david-placek/transcript.md",
+  "sha256": "08a64b418b3fa0bde22e3e57d072f9c12e5bdb29703e37494de457fd9d959d72",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13547,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 798,
+      "text": "Your brand name, nothing's going to be used more ofte"
+    },
+    {
+      "line": 486,
+      "offset": 65162,
+      "text": "I am so glad you asked this question because at this point, it doesn't really matter at all. The .com or URL address has become an area code. And whether you're"
+    }
+  ]
+}

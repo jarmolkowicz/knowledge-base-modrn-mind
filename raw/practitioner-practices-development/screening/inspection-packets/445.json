@@ -1,0 +1,39 @@
+{
+  "id": 445,
+  "title": "The Anthropic Paper That Should Worry Anyone Buying AI Agents",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/anthropic-multi-agent-warning.md",
+  "sha256": "088de6579ca4deea9f1f4b368d756cc1490f2fd5dab33f96a87cfaa8cc106004",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2725,
+  "headings": [
+    "**In this post I will:**",
+    "**The finding**",
+    "**What the study actually did**",
+    "**Why aligned individuals build misaligned groups**",
+    "**You are already inside one**",
+    "**The gap that is now yours to close**",
+    "**A field guide to being processed by an agent team**",
+    "**1. The helpline that keeps handing you off**",
+    "**2. The insurance claim or fraud hold that will not move**",
+    "**3. The healthcare referral that keeps bouncing back**",
+    "**4. The benefits, welfare, or immigration decision**",
+    "**5. The school admission, the university application, the assessment**",
+    "**6. The subscription, the account hold, the platform decision**",
+    "**What this leaves you with**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 458,
+      "text": "Anthropic just published the first systematic evidence that aligned AI"
+    },
+    {
+      "line": 115,
+      "offset": 11737,
+      "text": "**The ask:** request your full medical record. In the US, this is your HIPAA right of access; providers must give you a copy within 30 days. In the UK and EU, a Subject Access Request under data protection law "
+    }
+  ]
+}

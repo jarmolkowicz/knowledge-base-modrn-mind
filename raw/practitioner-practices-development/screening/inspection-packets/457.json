@@ -1,0 +1,33 @@
+{
+  "id": 457,
+  "title": "I Spend My Life Criticising AI. These Five Stopped Me.",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/good-ai-examples-that-work.md",
+  "sha256": "a824405748d7c8f46cbdc5bc69195cfca0621cc50e3f0ff281c583ed21e2493a",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1640,
+  "headings": [
+    "**In this post I will:**",
+    "**1. An ECG that spots heart disease in under two seconds**",
+    "**2. Satellites that see a fire five metres across**",
+    "**3. A mammogram that may also be a heart scan**",
+    "**4. A model that predicts deforestation six months ahead**",
+    "**5. A model reading two centuries of pressed plants**",
+    "**The shape all five share**",
+    "**What I want more of**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 441,
+      "text": "I write about AI going wrong most weeks, and doing only that makes me "
+    },
+    {
+      "line": 83,
+      "offset": 5567,
+      "text": "**My book goes underneath all of this.** *Slow AI* is about the question this post is a corner of: knowing when to use these tools, and when to leave them alone. It was a #1 Amazon bestseller in Education."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 812,
+  "title": "Teaser_2021",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/teaser_2021/transcript.md",
+  "sha256": "f6dbf792c7f6b30f69f7ba0c2e178649efbb0cf32a12b60fffa6949b1d11ba94",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 1647,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 18,
+      "offset": 153,
+      "text": "I'm Greg Isenberg and I build community. I'"
+    },
+    {
+      "line": 48,
+      "offset": 5498,
+      "text": "No one talks about that middle time when you're just getting punched over and over and over again. What frustrates me most about t"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "queue_position": 388,
+  "id": 820,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/tomer-cohen-20/transcript.md",
+  "sha256": "ebf6fca3f8c9c7167db01978fe856cc3bef41687ebc55e7e8256167240684765",
+  "title": "Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn CPO)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L35 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 154,
+      "text": "Tomer Cohen (00:16:16):"
+    },
+    {
+      "line": 155,
+      "text": "Yes. Yeah. And I would put a lot of the focus on the latter. I think if you ask me at the end of the day, what's the kind of most important trait? I would say it's that judgment, test making ability."
+    },
+    {
+      "line": 163,
+      "text": "(00:17:17):"
+    },
+    {
+      "line": 164,
+      "text": "The platform one, this is the kind of level of investment you have to do before, before this actually starts, you start to see all the benefits accrue. But the platform for us as an example is rearchitecting all of our core platforms so AI can reason over it. So we're building kind of this composable UI components with server side that we actually build. We're basically building for AI to be ready to bring it in. So you can't just go and bring a third party tool and have it work on the LinkedIn stack. In fact, that's one of our biggest learnings. It never works. Never works. You have to bring it in and customize a lot of it, working almost in alpha mode with those companies to make it work internally."
+    },
+    {
+      "line": 268,
+      "text": "(00:29:57):"
+    },
+    {
+      "line": 269,
+      "text": "So it requires work. This is where I would say for many companies who are thinking about this phase, and I do a lot of sessions today with CPOs and COs on this process. You have to put this initial work to get the gains after. When I think about it, I think there's a takeaway there in generally with AI, even if you're learning it for the first time and so on, whether it's Cursor or whether it's design, if it's Figma or other tools or Lovable, you should be ready to invest those hours before you start seeing yourself pick up in velocity and quality, which will come up, but you have to invest that time."
+    },
+    {
+      "line": 493,
+      "text": "Tomer Cohen (01:01:18):"
+    },
+    {
+      "line": 494,
+      "text": "Yeah, ChatGPT, and then just have a conversation, and that's just friction. I would love to have on my steering wheel a button that invokes my AI friend that can sit next to me in the passenger seat, and I just think that would be such a... I actually think it would [inaudible 01:01:36] rides for people. Just that movement, that's just like elimination of friction will transform the experience for me."
+    }
+  ]
+}

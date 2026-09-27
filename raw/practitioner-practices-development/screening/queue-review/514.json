@@ -1,0 +1,61 @@
+{
+  "queue_position": 168,
+  "id": 514,
+  "path": "raw/inbox/Practical/Sam Illingworth/three-ways-to-learn-with-ai.md",
+  "sha256": "ed09bf8d385f557a5a1db650bc0fc0213018c35825a7110f63d1731a6a9dfe17",
+  "title": "There Are Three Ways to Learn With AI. Most People Use None of Them.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L27 #### **The study**",
+    "L37 #### **The three patterns that preserved learning**",
+    "L49 #### **The three patterns that destroyed it**",
+    "L61 #### **The productive struggle that AI removes**",
+    "L79 #### **What this means for anyone using AI to work**",
+    "L91 #### **Why this matters beyond coding**",
+    "L109 #### **How to use AI tools without losing the ability to think**",
+    "L143 #### **The audit question**",
+    "L157 #### **Why learning still requires friction**"
+  ],
+  "passages": [
+    {
+      "line": 109,
+      "text": "#### **How to use AI tools without losing the ability to think**"
+    },
+    {
+      "line": 117,
+      "text": "The exercise: take a task you would normally hand to an AI tool. Before you start, write down three things you do not understand about the task. Ask the AI those three questions. Read the responses. Then do the task yourself, without AI assistance."
+    },
+    {
+      "line": 119,
+      "text": "This works because it forces you to identify your own knowledge gaps before the tool fills them invisibly. The developers who used this pattern were fast *and* knowledgeable, because they knew what they were doing before they did it."
+    },
+    {
+      "line": 121,
+      "text": "Test it this week: the next time you are about to ask an AI tool to write something for you, ask it to explain the three hardest decisions involved in writing it instead. Then write it yourself."
+    },
+    {
+      "line": 123,
+      "text": "**Pattern 2: Hybrid Code-Explanation.**"
+    },
+    {
+      "line": 131,
+      "text": "If you manage others, build this into your review process. When someone presents AI-assisted work, ask them to explain the reasoning behind it. If they cannot, the work is not theirs. It is the tool’s. The distinction matters for accountability, and it matters for their development."
+    },
+    {
+      "line": 133,
+      "text": "**Pattern 3: Generation-Then-Comprehension.**"
+    },
+    {
+      "line": 135,
+      "text": "If you let AI generate first, interrogate second. Never ship what you have not understood."
+    },
+    {
+      "line": 137,
+      "text": "The exercise: take an AI-generated output and mark every claim, decision, or recommendation in it. For each one, ask the AI: ‘Why this and not an alternative?’ Keep asking until you could explain the reasoning to a colleague without referring to the AI output."
+    },
+    {
+      "line": 139,
+      "text": "The developers who used this pattern let Claude write code. Then they refused to move on until they understood it. The output was the starting point for learning, not the end point."
+    }
+  ]
+}

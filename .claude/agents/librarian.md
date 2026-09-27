@@ -222,9 +222,12 @@ raw/<slug>/drafts/
     └── <existing-stem>.md     # diff proposals when a source extends an existing entry
 ```
 
+Practitioner procedures belong in `drafts/practices/<stem>.md`, separate from method/framework drafts. Compare neighboring routines by trigger, human action, AI contribution and check; consolidate true duplicates while retaining attribution and meaningful variants. Historical methods remain in place unless a separate migration is requested.
+
 Use templates in `tooling/templates/`:
 - `concept.md` for atomic phenomena
-- `method.md` for structured guidance (descriptive models or prescriptive practices)
+- `method.md` for structured models and frameworks
+- `practice.md` for concrete source-grounded routines, with intended benefits, reported outcomes, limits and explicitly labeled adaptations
 - `source.md` for the per-source distillation
 
 **Set `status: emerging`** for all new entries unless the source is highly authoritative (peer-reviewed, replicated, multiple confirmations in literature). Default to caution.
@@ -443,11 +446,14 @@ Mechanical, but important to do all of it:
 1. **Move drafts to KB folders:**
    - `raw/<slug>/drafts/concepts/*.md` → `concepts/*.md`
    - `raw/<slug>/drafts/methods/*.md` → `methods/*.md`
+   - `raw/<slug>/drafts/practices/*.md` → `practices/*.md`
    - `raw/<slug>/drafts/source.md` → `sources/<slug>.md` (use the canonical slug, not the long auto-slug if a better one was decided at any earlier stage)
    - For UPDATE drafts in `raw/<slug>/drafts/updates/*.md`: read each one, apply the proposed additions to the existing KB entry by hand (preserve voice). Leave the update file in `drafts/updates/` as evidence.
+   Before moving any draft, rebase local Markdown links for the destination. A draft's `../../source.md` must become `../raw/<slug>/source.md` from a canonical practice. Set `source_entries` to exact canonical source stems for new practices; source-link sync uses these instead of guessing from author/year where several posts share both. Keep origin, support and counterexample roles explicit in the body. Preserve locators and source review coverage. Check all proposed slugs against existing entries of every type. Remove draft-only labels only for the specifically approved files; preserve an audit copy or hashes of the approved draft. An outcome label expresses intended benefit, not evidence of efficacy.
 2. **Run the auxiliary scripts:**
    ```bash
    uv run python tooling/scripts/sync-source-links.py
+   uv run python tooling/scripts/build-practice-guide.py
    uv run python tooling/scripts/build-index.py
    uv run python tooling/scripts/update_readme_counts.py
    ```
@@ -459,7 +465,7 @@ Mechanical, but important to do all of it:
    rmdir raw/<slug>/drafts/concepts 2>/dev/null
    rmdir raw/<slug>/drafts/methods 2>/dev/null
    ```
-   Keep `drafts/updates/` (evidence trail) if it has content. If `updates/` is empty too, remove `drafts/` itself. Empty subdirs that survive prior integrations clutter the audit trail; remove them when they become empty.
+   Keep `drafts/updates/` (evidence trail) and retained review copies if they have content. Do not delete nonempty review artifacts. Remove `drafts/` only when it is empty.
 
 After this, the source is integrated. `raw/<slug>/` retains: `original.<ext>`, `source.md`, `source.json`, `triage.md`, `distill.md`, `critique.md` (if Stage 4 ran), `log.md`, and possibly `drafts/updates/`.
 

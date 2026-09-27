@@ -1,0 +1,24 @@
+{
+  "id": 235,
+  "title": "Why play is producing better software than strategy",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/why-play-is-producing-better-software.md",
+  "sha256": "26eb0647f6adb7e87e990a618f8bb56a4d6a6baacf81222603edbbd909592b8c",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 521,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 256,
+      "text": "Something clicked in the last six weeks, and the word I keep reaching for is *playfuln"
+    },
+    {
+      "line": 34,
+      "offset": 2947,
+      "text": "- **The skill that actually matters.** Why experienced developers extract more value from AI coding tools than beginners — and what that tells you about what to practice."
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+[
+  {
+    "id": 255,
+    "cards": [
+      "raw/tamisier-fayard-255-design-ai-systems-that-actually-strengthen-2026/drafts/practices/develop-parallel-creative-routes.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 550,
+    "cards": [
+      "raw/lenny-550-this-will-make-you-a-better-2024/drafts/practices/collect-independent-views-before-discussion.md",
+      "raw/lenny-804-the-art-of-product-management-shreyas-2022/drafts/practices/turn-a-premortem-into-actions.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 512,
+    "cards": [
+      "raw/illingworth-512-use-ai-to-examine-your-beliefs-2025/drafts/practices/answer-questions-about-your-belief.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 387,
+    "cards": [
+      "raw/illingworth-512-use-ai-to-examine-your-beliefs-2025/drafts/practices/answer-questions-about-your-belief.md"
+    ],
+    "decision": "merge"
+  },
+  {
+    "id": 79,
+    "cards": [
+      "raw/mollick-079-making-ai-work-leadership-lab-and-2025/drafts/practices/test-and-share-a-team-ai-workflow.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 270,
+    "cards": [
+      "raw/illingworth-512-use-ai-to-examine-your-beliefs-2025/drafts/practices/answer-questions-about-your-belief.md"
+    ],
+    "decision": "merge"
+  },
+  {
+    "id": 277,
+    "cards": [
+      "raw/mollick-079-making-ai-work-leadership-lab-and-2025/drafts/practices/test-and-share-a-team-ai-workflow.md"
+    ],
+    "decision": "merge"
+  },
+  {
+    "id": 286,
+    "cards": [
+      "raw/hassid-286-fable-5-2026/drafts/practices/choose-an-argument-before-drafting.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 294,
+    "cards": [],
+    "decision": "counterexample"
+  },
+  {
+    "id": 306,
+    "cards": [
+      "raw/hassid-306-i-am-just-a-text-file-2026/drafts/practices/articulate-your-writing-preferences.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 352,
+    "cards": [],
+    "decision": "counterexample"
+  },
+  {
+    "id": 409,
+    "cards": [
+      "raw/illingworth-409-teaching-ai-to-notice-neurodiverse-perception-2025/drafts/practices/keep-your-sensory-association-in-the-work.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 412,
+    "cards": [
+      "raw/illingworth-412-my-six-year-old-told-me-2026/drafts/practices/ask-children-about-ai-before-setting-rules.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 413,
+    "cards": [
+      "raw/illingworth-413-how-to-use-ai-to-test-2026/drafts/practices/map-a-return-path.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 425,
+    "cards": [
+      "raw/illingworth-425-fiction-as-a-mirror-for-students-2026/drafts/practices/use-fictional-questions-for-your-own-reflection.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 430,
+    "cards": [],
+    "decision": "defer"
+  },
+  {
+    "id": 439,
+    "cards": [
+      "raw/illingworth-439-why-your-ai-prompts-produce-noise-2025/drafts/practices/define-the-decision-before-research.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 474,
+    "cards": [
+      "raw/lenny-750-anthropic-s-cpo-on-what-comes-2025/drafts/practices/ask-how-to-find-out-before-asking-ai.md"
+    ],
+    "decision": "merge"
+  },
+  {
+    "id": 488,
+    "cards": [
+      "raw/illingworth-488-teach-ai-the-wrong-answer-2025/drafts/practices/use-a-creative-constraint-and-respond.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 489,
+    "cards": [
+      "raw/illingworth-488-teach-ai-the-wrong-answer-2025/drafts/practices/use-a-creative-constraint-and-respond.md"
+    ],
+    "decision": "merge"
+  },
+  {
+    "id": 490,
+    "cards": [
+      "raw/illingworth-488-teach-ai-the-wrong-answer-2025/drafts/practices/use-a-creative-constraint-and-respond.md"
+    ],
+    "decision": "merge"
+  },
+  {
+    "id": 515,
+    "cards": [
+      "raw/illingworth-512-use-ai-to-examine-your-beliefs-2025/drafts/practices/answer-questions-about-your-belief.md"
+    ],
+    "decision": "merge"
+  },
+  {
+    "id": 524,
+    "cards": [
+      "raw/illingworth-524-when-your-writing-wobbles-listen-for-2025/drafts/practices/test-one-creative-change.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 530,
+    "cards": [
+      "raw/illingworth-524-when-your-writing-wobbles-listen-for-2025/drafts/practices/test-one-creative-change.md"
+    ],
+    "decision": "merge"
+  },
+  {
+    "id": 542,
+    "cards": [
+      "raw/lenny-542-scripts-for-navigating-difficult-conversations-alisa-2025/drafts/practices/check-what-each-person-thinks-was-decided.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 558,
+    "cards": [
+      "raw/lenny-558-the-art-of-building-legendary-brands-2022/drafts/practices/set-creative-criteria-before-generating.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 578,
+    "cards": [
+      "raw/lenny-663-becoming-evidence-guided-itamar-gilad-2023/drafts/practices/match-confidence-to-evidence.md"
+    ],
+    "decision": "merge"
+  },
+  {
+    "id": 605,
+    "cards": [
+      "raw/lenny-605-building-a-culture-of-excellence-david-2023/drafts/practices/let-the-child-write-the-story.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 663,
+    "cards": [
+      "raw/lenny-663-becoming-evidence-guided-itamar-gilad-2023/drafts/practices/match-confidence-to-evidence.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 684,
+    "cards": [
+      "raw/lenny-684-how-to-see-like-a-designer-2024/drafts/practices/name-your-own-visual-reactions.md",
+      "raw/lenny-684-how-to-see-like-a-designer-2024/drafts/practices/choose-from-an-ai-generated-creative-pool.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 710,
+    "cards": [
+      "raw/lenny-710-unorthodox-pm-tips-automating-user-insights-2024/drafts/practices/keep-a-decision-and-outcome-log.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 714,
+    "cards": [
+      "raw/lenny-750-anthropic-s-cpo-on-what-comes-2025/drafts/practices/ask-how-to-find-out-before-asking-ai.md"
+    ],
+    "decision": "merge"
+  },
+  {
+    "id": 741,
+    "cards": [
+      "raw/lenny-741-she-turned-100-rejections-into-a-2025/drafts/practices/speak-your-thoughts-before-summarizing.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 750,
+    "cards": [
+      "raw/lenny-750-anthropic-s-cpo-on-what-comes-2025/drafts/practices/ask-how-to-find-out-before-asking-ai.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 804,
+    "cards": [
+      "raw/lenny-804-the-art-of-product-management-shreyas-2022/drafts/practices/turn-a-premortem-into-actions.md"
+    ],
+    "decision": "retain"
+  },
+  {
+    "id": 811,
+    "cards": [
+      "raw/lenny-811-hard-won-lessons-building-0-to-2024/drafts/practices/return-to-real-user-accounts.md"
+    ],
+    "decision": "retain"
+  }
+]

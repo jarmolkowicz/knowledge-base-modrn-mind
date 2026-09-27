@@ -1,0 +1,32 @@
+{
+  "slug": "mollick-095-the-end-of-search-the-beginning-2025",
+  "original_filename": "the-end-of-search-the-beginning-of.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 2255,
+  "hash": "f4ee5c84b1839f15ddb257f626ea1b7165ba9b2df8c912f761cc190462c5740c",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "critiqued",
+  "ingested_at": "2026-09-26T20:59:42Z",
+  "decisions": [
+    {
+      "stage": "practice_review",
+      "date": "2026-09-26",
+      "decision": "counterexample",
+      "scope": "draft_only",
+      "integration": "pending"
+    }
+  ],
+  "lines": 69,
+  "screening_id": 95,
+  "collected_from": "raw/inbox/Practical/Ethan Mollick/the-end-of-search-the-beginning-of.md",
+  "bibliographic_metadata": {
+    "title": "The End of Search, The Beginning of Research",
+    "date": "2025-02-03",
+    "url": "https://www.oneusefulthing.org/p/the-end-of-search-the-beginning-of",
+    "collection": "Ethan Mollick"
+  },
+  "draft_only": true,
+  "integration_decision": "pending"
+}

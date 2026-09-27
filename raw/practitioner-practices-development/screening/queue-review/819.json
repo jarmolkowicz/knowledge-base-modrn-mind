@@ -1,0 +1,37 @@
+{
+  "queue_position": 387,
+  "id": 819,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/tomer-cohen/transcript.md",
+  "sha256": "4e4d862feffa6ee8dd4dc5feda23fdf3029ad5e35c7b154040bd33c2dbd1fcd8",
+  "title": "Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn CPO)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 183,
+      "text": "(00:20:55):"
+    },
+    {
+      "line": 184,
+      "text": "The first thing we did was really making AI first. So the AI team back then was completely centralized. It was not part of any product team and we brought it together with one unified AI first team. And the belief I had was ultimately the engine of the car was AI and that was almost like de-prioritized or delegated to a team that was not unified in objectives. So bring that in. And then I spent most of my time on objectives and algorithm features and data training, which led me into my passion about training product people to be a first product people. And that was a big transformation there, really shifting and we had incredible AI team, but they were completely, actually, it was a confused operation. They were building something for a whole different purpose and we were trying to aim to that mountain peak and they were putting in a different direction. No bad intent, that's what they were told to do."
+    },
+    {
+      "line": 288,
+      "text": "(00:38:01):"
+    },
+    {
+      "line": 289,
+      "text": "And obviously that's as far from the truth as possible, but there's so many ways to unpack it. When it came to the feed where I push for example, more specifically for the teams, he doesn't stay as an AI first, there's the objective. I would ask him, \"What is the objective of the algorithm?\" I would challenge you to ask folks more in the folks who are leading products specifically with algorithms inherited built into them, what is the objective of the algorithm and can you write it down for me on a board? They should be able to do so, ultimately it's a mathematical formula and then it's like what features have you added to the algorithm? And this is not user features, this is specifically what parameters to learn on and then what investment do you have in data collections and fine-tuning?"
+    },
+    {
+      "line": 546,
+      "text": "Tomer Cohen (01:07:25):"
+    },
+    {
+      "line": 547,
+      "text": "I think we all. I think we're in for AI-nophobia at that point, where you're going to get to a point where AI is going to feel so intimate, so personal that it would actually feel concerning to you to be away from it."
+    }
+  ]
+}

@@ -1,0 +1,3182 @@
+{
+  "date": "2026-09-27",
+  "status": "review_package_only",
+  "integration_approved": false,
+  "original_drafts": 78,
+  "standalone_candidates": 77,
+  "retained_variants": 1,
+  "cards": [
+    {
+      "slug": "request-criticism-without-rewriting",
+      "title": "Request criticism without rewriting",
+      "draft": "raw/illingworth-459-how-can-writers-use-ai-ethically-2025/drafts/practices/request-criticism-without-rewriting.md",
+      "proposed_destination": "practices/request-criticism-without-rewriting.md",
+      "sha256": "e5abdc2e3b3e74396d6193ac413546f1b72ff1089caef634435a97bd7d0b9a6f",
+      "source_ids": [
+        459,
+        460,
+        449,
+        480,
+        516,
+        801
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "work-quality"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-459-how-can-writers-use-ai-ethically-2025",
+        "illingworth-460-how-creatives-are-actually-using-ai-2026",
+        "illingworth-449-can-claude-write-slow-ai-the-2026",
+        "illingworth-480-teach-ai-something-it-cannot-know-2025",
+        "illingworth-516-what-claude-cannot-read-in-a-2026",
+        "lenny-801-seth-godin-s-best-tactics-for-2024"
+      ]
+    },
+    {
+      "slug": "turn-creative-disagreement-into-your-own-checklist",
+      "title": "Turn creative disagreement into your own checklist",
+      "draft": "raw/illingworth-460-how-creatives-are-actually-using-ai-2026/drafts/practices/turn-creative-disagreement-into-your-own-checklist.md",
+      "proposed_destination": "practices/turn-creative-disagreement-into-your-own-checklist.md",
+      "sha256": "5c9367fadc8bd5191eb6f1afe4414605365ef025df232a4780d9db6623b9d0ca",
+      "source_ids": [
+        459,
+        460
+      ],
+      "primary_outcome": "independent-capability",
+      "secondary_outcomes": [
+        "creative-development"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-459-how-can-writers-use-ai-ethically-2025",
+        "illingworth-460-how-creatives-are-actually-using-ai-2026"
+      ]
+    },
+    {
+      "slug": "test-ai-on-the-work-it-will-do",
+      "title": "Test AI on the work it will do",
+      "draft": "raw/mollick-075-giving-your-ai-a-job-interview-2025/drafts/practices/test-ai-on-the-work-it-will-do.md",
+      "proposed_destination": "practices/test-ai-on-the-work-it-will-do.md",
+      "sha256": "6a051a85d7b5d1258b536a39e7f68c5e3dfb7dfbb5f883e743ec2f13ea0c1241",
+      "source_ids": [
+        75,
+        289,
+        423,
+        479,
+        508,
+        517
+      ],
+      "primary_outcome": "calibration",
+      "secondary_outcomes": [
+        "work-quality"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "mollick-075-giving-your-ai-a-job-interview-2025",
+        "hassid-289-how-to-make-ai-battle-for-2025",
+        "illingworth-423-your-ai-has-171-emotion-patterns-2026",
+        "illingworth-479-run-your-own-ai-on-a-2026",
+        "illingworth-508-the-smarter-ai-gets-the-less-2026",
+        "illingworth-517-what-is-critical-ai-literacy-2026"
+      ]
+    },
+    {
+      "slug": "inspect-real-errors-before-automating-evaluation",
+      "title": "Inspect real errors before automating evaluation",
+      "draft": "raw/lenny-652-why-ai-evals-are-the-hottest-2025/drafts/practices/inspect-real-errors-before-automating-evaluation.md",
+      "proposed_destination": "practices/inspect-real-errors-before-automating-evaluation.md",
+      "sha256": "ca757717c2482cd6eb9b4676ac4d1cd5fbcdf6faa31374cf5efb95a8b75fd5da",
+      "source_ids": [
+        652
+      ],
+      "primary_outcome": "work-quality",
+      "secondary_outcomes": [
+        "calibration"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-652-why-ai-evals-are-the-hottest-2025"
+      ]
+    },
+    {
+      "slug": "rehearse-a-bounded-reasoning-case",
+      "title": "Rehearse a bounded reasoning case",
+      "draft": "raw/lenny-658-how-to-build-a-team-that-2025/drafts/practices/rehearse-a-bounded-reasoning-case.md",
+      "proposed_destination": "practices/rehearse-a-bounded-reasoning-case.md",
+      "sha256": "9f28cef5edf35a5845d57fc187659afe7f9303f8fe6b3f1e34971d2a64c9d3fc",
+      "source_ids": [
+        658
+      ],
+      "primary_outcome": "independent-capability",
+      "secondary_outcomes": [
+        "understanding"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-658-how-to-build-a-team-that-2025"
+      ]
+    },
+    {
+      "slug": "choose-the-result-before-the-tool",
+      "title": "Choose the result before the tool",
+      "draft": "raw/newport-022-avoiding-digital-productivity-traps-2026/drafts/practices/choose-the-result-before-the-tool.md",
+      "proposed_destination": "practices/choose-the-result-before-the-tool.md",
+      "sha256": "d01f8e08d0710187519159ed51ac9ac20dc046338d535ad21c5121122d39fff2",
+      "source_ids": [
+        22,
+        263,
+        64,
+        464,
+        739
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "attention"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "newport-022-avoiding-digital-productivity-traps-2026",
+        "hassid-263-workaholic-2026",
+        "mollick-064-15-times-to-use-ai-and-2024",
+        "illingworth-464-the-actual-environmental-cost-of-ai-2026",
+        "lenny-739-unconventional-product-lessons-from-binance-n26-2025"
+      ]
+    },
+    {
+      "slug": "develop-parallel-creative-routes",
+      "title": "Develop parallel creative routes before combining them",
+      "draft": "raw/tamisier-fayard-255-design-ai-systems-that-actually-strengthen-2026/drafts/practices/develop-parallel-creative-routes.md",
+      "proposed_destination": "practices/develop-parallel-creative-routes.md",
+      "sha256": "af66e804586a01723bfa085b9a4047e18470840bedcb7868bcad973579480132",
+      "source_ids": [
+        255
+      ],
+      "primary_outcome": "creative-development",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "tamisier-fayard-255-design-ai-systems-that-actually-strengthen-2026"
+      ]
+    },
+    {
+      "slug": "save-your-own-starting-point",
+      "title": "Save your own starting point",
+      "draft": "raw/mollick-066-against-brain-damage-2025/drafts/practices/save-your-own-starting-point.md",
+      "proposed_destination": "practices/save-your-own-starting-point.md",
+      "sha256": "a8fe68c594155524cc6b0b9a4bd679522d8c804454647e2efd899b6ea4fba371",
+      "source_ids": [
+        879,
+        880,
+        64,
+        66,
+        729
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-slow-ai-2026",
+        "nosta-borrowed-mind-2026",
+        "mollick-064-15-times-to-use-ai-and-2024",
+        "mollick-066-against-brain-damage-2025",
+        "lenny-729-product-management-theater-marty-cagan-2024"
+      ]
+    },
+    {
+      "slug": "collect-independent-views-before-discussion",
+      "title": "Collect independent views before discussion",
+      "draft": "raw/lenny-550-this-will-make-you-a-better-2024/drafts/practices/collect-independent-views-before-discussion.md",
+      "proposed_destination": "practices/collect-independent-views-before-discussion.md",
+      "sha256": "824313c2d386ed19f2fc6f5986eb1847fac40a8ccbe8a61cf7f3fee612b1385d",
+      "source_ids": [
+        550
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "shared-understanding"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-550-this-will-make-you-a-better-2024"
+      ]
+    },
+    {
+      "slug": "turn-a-premortem-into-actions",
+      "title": "Turn a premortem into actions and stopping criteria",
+      "draft": "raw/lenny-804-the-art-of-product-management-shreyas-2022/drafts/practices/turn-a-premortem-into-actions.md",
+      "proposed_destination": "practices/turn-a-premortem-into-actions.md",
+      "sha256": "3c0155761a33b918eaf38a0f0127274bd7ef2636194255665bf69643b28f8748",
+      "source_ids": [
+        550,
+        804
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "accountability"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-550-this-will-make-you-a-better-2024",
+        "lenny-804-the-art-of-product-management-shreyas-2022"
+      ]
+    },
+    {
+      "slug": "answer-questions-about-your-belief",
+      "title": "Answer questions about a belief you hold",
+      "draft": "raw/illingworth-512-use-ai-to-examine-your-beliefs-2025/drafts/practices/answer-questions-about-your-belief.md",
+      "proposed_destination": "practices/answer-questions-about-your-belief.md",
+      "sha256": "1d1ebd8e5a5262ecbc5e48df57b2726dd833175c40029f8c102fd95b03d75112",
+      "source_ids": [
+        512,
+        387,
+        270,
+        515
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-512-use-ai-to-examine-your-beliefs-2025",
+        "ramonov-387-how-to-get-ahead-of-99-2025",
+        "hassid-270-business-2025",
+        "illingworth-515-the-velocity-trap-why-ai-makes-2026"
+      ]
+    },
+    {
+      "slug": "preserve-an-ai-claim-before-challenging-it",
+      "title": "Preserve an AI claim before challenging it",
+      "draft": "raw/illingworth-456-this-is-how-to-stop-being-2026/drafts/practices/preserve-an-ai-claim-before-challenging-it.md",
+      "proposed_destination": "practices/preserve-an-ai-claim-before-challenging-it.md",
+      "sha256": "804dff5399077a6da3e9428834be14f83f1d4585d53d1cb8caa2719482783474",
+      "source_ids": [
+        437,
+        456,
+        580
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-437-is-your-ai-overwriting-your-memory-2026",
+        "illingworth-456-this-is-how-to-stop-being-2026",
+        "lenny-580-the-things-engineers-are-desperate-for-2024"
+      ]
+    },
+    {
+      "slug": "check-correctness-and-completeness",
+      "title": "Check correctness and completeness separately",
+      "draft": "raw/illingworth-453-stop-trusting-your-intuition-when-evaluating-2026/drafts/practices/check-correctness-and-completeness.md",
+      "proposed_destination": "practices/check-correctness-and-completeness.md",
+      "sha256": "7f9d9cf821d7fcc90f0dc92f0b3f5a0f413c2229ea1f3ac21cf28adc42d8d834",
+      "source_ids": [
+        453,
+        328
+      ],
+      "primary_outcome": "work-quality",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-453-stop-trusting-your-intuition-when-evaluating-2026",
+        "hassid-328-search-2025"
+      ]
+    },
+    {
+      "slug": "carry-one-question-offline",
+      "title": "Carry one question away from the chat",
+      "draft": "raw/illingworth-521-when-ai-never-stops-should-you-2025/drafts/practices/carry-one-question-offline.md",
+      "proposed_destination": "practices/carry-one-question-offline.md",
+      "sha256": "93ef5acec2a09e54ac48e2d671bc569e8e513d6cc2e994e1b5d7b34c04866c45",
+      "source_ids": [
+        263,
+        521,
+        616,
+        739
+      ],
+      "primary_outcome": "attention",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "hassid-263-workaholic-2026",
+        "illingworth-521-when-ai-never-stops-should-you-2025",
+        "lenny-616-the-1b-al-company-training-chatgpt-2025",
+        "lenny-739-unconventional-product-lessons-from-binance-n26-2025"
+      ]
+    },
+    {
+      "slug": "check-a-capability-without-the-assistant",
+      "title": "Check a capability without the assistant",
+      "draft": "raw/nosta-borrowed-mind-2026/drafts/practices/check-a-capability-without-the-assistant.md",
+      "proposed_destination": "practices/check-a-capability-without-the-assistant.md",
+      "sha256": "f279a8cc3048f4d2d3b9d9e5598c163d5b56fb57e4740e66ad2d269249f15ea4",
+      "source_ids": [
+        880
+      ],
+      "primary_outcome": "independent-capability",
+      "secondary_outcomes": [
+        "calibration"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "nosta-borrowed-mind-2026"
+      ]
+    },
+    {
+      "slug": "review-ai-code-against-independent-checks",
+      "title": "Review AI code against independent checks",
+      "draft": "raw/ramonov-402-the-ultimate-ai-coding-guide-2025/drafts/practices/review-ai-code-against-independent-checks.md",
+      "proposed_destination": "practices/review-ai-code-against-independent-checks.md",
+      "sha256": "bd82638ffd124b67d4e1952aef0fee9b63aff5805bb931eeb9eaf3cfc584181d",
+      "source_ids": [
+        38,
+        402,
+        636
+      ],
+      "primary_outcome": "work-quality",
+      "secondary_outcomes": [
+        "understanding"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "newport-038-on-ai-coding-and-its-discontents-2026",
+        "ramonov-402-the-ultimate-ai-coding-guide-2025",
+        "lenny-636-how-shopify-builds-a-high-intensity-2024"
+      ]
+    },
+    {
+      "slug": "keep-one-thinking-step",
+      "title": "Keep one thinking step for yourself",
+      "draft": "raw/illingworth-523-how-to-hold-on-to-what-2025/drafts/practices/keep-one-thinking-step.md",
+      "proposed_destination": "practices/keep-one-thinking-step.md",
+      "sha256": "a1e4420ad5781680a4b56bd1b969b568afdb57e416afd487c437e35cea9d02b5",
+      "source_ids": [
+        64,
+        76,
+        416,
+        523
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "independent-capability"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "mollick-064-15-times-to-use-ai-and-2024",
+        "mollick-076-i-cyborg-using-co-intelligence-2024",
+        "illingworth-416-what-ai-takes-when-you-aren-2025",
+        "illingworth-523-how-to-hold-on-to-what-2025"
+      ]
+    },
+    {
+      "slug": "define-the-delegation-before-the-agent-starts",
+      "title": "Define the delegation before the agent starts",
+      "draft": "raw/mollick-080-management-as-ai-superpower-2026/drafts/practices/define-the-delegation-before-the-agent-starts.md",
+      "proposed_destination": "practices/define-the-delegation-before-the-agent-starts.md",
+      "sha256": "d28c549359e040ab2229f8a100bc4b94d31704763f4529520b689f410d379d42",
+      "source_ids": [
+        72,
+        80,
+        89,
+        95,
+        356
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "status": "hold_for_source_correction",
+      "note": "Existing Mollick source entry has a pending correction; approve the focused update before relying on that canonical entry.",
+      "source_entries": [
+        "mollick-072-claude-dispatch-and-the-power-of-2026",
+        "mollick-management-ai-superpower-2026",
+        "mollick-089-sign-of-the-future-gpt-5-2026",
+        "mollick-095-the-end-of-search-the-beginning-2025",
+        "ramonov-356-goal-2026"
+      ]
+    },
+    {
+      "slug": "teach-a-simulated-learner",
+      "title": "Teach a simulated learner",
+      "draft": "raw/mollick-077-innovation-through-prompting-2024/drafts/practices/teach-a-simulated-learner.md",
+      "proposed_destination": "practices/teach-a-simulated-learner.md",
+      "sha256": "3946b675f7c1d18f4e479f6f3ecf3a24f77db878fb51666eb0e41afd5721e75d",
+      "source_ids": [
+        77
+      ],
+      "primary_outcome": "understanding",
+      "secondary_outcomes": [
+        "independent-capability"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "mollick-077-innovation-through-prompting-2024"
+      ]
+    },
+    {
+      "slug": "test-and-share-a-team-ai-workflow",
+      "title": "Test and share a team AI workflow",
+      "draft": "raw/mollick-079-making-ai-work-leadership-lab-and-2025/drafts/practices/test-and-share-a-team-ai-workflow.md",
+      "proposed_destination": "practices/test-and-share-a-team-ai-workflow.md",
+      "sha256": "c934866c0b119758e0e2c323a721b9685549fd1c680a971118d3197f38918e20",
+      "source_ids": [
+        79,
+        277
+      ],
+      "primary_outcome": "work-quality",
+      "secondary_outcomes": [
+        "shared-understanding"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "mollick-079-making-ai-work-leadership-lab-and-2025",
+        "hassid-277-claude-for-teams-2026"
+      ]
+    },
+    {
+      "slug": "count-the-cost-of-review-before-delegating",
+      "title": "Count the cost of review before delegating",
+      "draft": "raw/mollick-080-management-as-ai-superpower-2026/drafts/practices/count-the-cost-of-review-before-delegating.md",
+      "proposed_destination": "practices/count-the-cost-of-review-before-delegating.md",
+      "sha256": "932409c4e6cd86e491ead9651fe11b4b0a6829fd217d3f15609858181a23f184",
+      "source_ids": [
+        80,
+        84,
+        105
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "accountability"
+      ],
+      "status": "hold_for_source_correction",
+      "note": "Existing Mollick source entry has a pending correction; remove unsupported comparison and validation claims before reuse.",
+      "source_entries": [
+        "mollick-management-ai-superpower-2026",
+        "mollick-084-on-working-with-wizards-2025",
+        "mollick-105-what-can-be-done-in-59-2024"
+      ]
+    },
+    {
+      "slug": "use-a-prototype-to-brief-a-developer",
+      "title": "Use a prototype to brief a developer",
+      "draft": "raw/hassid-339-vibecoding-2026/drafts/practices/use-a-prototype-to-brief-a-developer.md",
+      "proposed_destination": "practices/use-a-prototype-to-brief-a-developer.md",
+      "sha256": "5383232054bf386fd824179f87aee7d6e9ba146184083a57512aecd80af1c5a7",
+      "source_ids": [
+        275,
+        339,
+        350
+      ],
+      "primary_outcome": "shared-understanding",
+      "secondary_outcomes": [
+        "work-quality"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "hassid-275-claude-code-2026",
+        "hassid-339-vibecoding-2026",
+        "ramonov-350-10-year-old-vibe-codes-2-2026"
+      ]
+    },
+    {
+      "slug": "curate-context-and-clarify-before-drafting",
+      "title": "Curate context and clarify before drafting",
+      "draft": "raw/hassid-276-cowork-2026/drafts/practices/curate-context-and-clarify-before-drafting.md",
+      "proposed_destination": "practices/curate-context-and-clarify-before-drafting.md",
+      "sha256": "ca38c5d24ff6b1854562109e9c5f538f040ff394035644f118cf968e5a7588fa",
+      "source_ids": [
+        276
+      ],
+      "primary_outcome": "work-quality",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "hassid-276-cowork-2026"
+      ]
+    },
+    {
+      "slug": "choose-an-argument-before-drafting",
+      "title": "Choose an argument before drafting from your archive",
+      "draft": "raw/hassid-286-fable-5-2026/drafts/practices/choose-an-argument-before-drafting.md",
+      "proposed_destination": "practices/choose-an-argument-before-drafting.md",
+      "sha256": "2a005f4c10fcd6a665af851d2084666d6eeff1ab70ffc9d801471d4b1e0d1457",
+      "source_ids": [
+        286
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "creative-development"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "hassid-286-fable-5-2026"
+      ]
+    },
+    {
+      "slug": "articulate-your-writing-preferences",
+      "title": "Articulate your writing preferences through examples",
+      "draft": "raw/hassid-306-i-am-just-a-text-file-2026/drafts/practices/articulate-your-writing-preferences.md",
+      "proposed_destination": "practices/articulate-your-writing-preferences.md",
+      "sha256": "61c0c24c9646f213e2c42f5503f5184fd18d6eab594345011c248c06d3e216e5",
+      "source_ids": [
+        306
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "creative-development"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "hassid-306-i-am-just-a-text-file-2026"
+      ]
+    },
+    {
+      "slug": "reset-a-drifting-conversation",
+      "title": "Reset a drifting conversation",
+      "draft": "raw/hassid-324-quit-chatgpt-2026/drafts/practices/reset-a-drifting-conversation.md",
+      "proposed_destination": "practices/reset-a-drifting-conversation.md",
+      "sha256": "644e3e850b872ef72de7c50393afb777128e2dc527c35294e937772362ba9f88",
+      "source_ids": [
+        324
+      ],
+      "primary_outcome": "work-quality",
+      "secondary_outcomes": [
+        "attention"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "hassid-324-quit-chatgpt-2026"
+      ]
+    },
+    {
+      "slug": "record-a-workflow-before-turning-it-into-instructions",
+      "title": "Record a workflow before turning it into instructions",
+      "draft": "raw/hassid-325-replaced-2026/drafts/practices/record-a-workflow-before-turning-it-into-instructions.md",
+      "proposed_destination": "practices/record-a-workflow-before-turning-it-into-instructions.md",
+      "sha256": "86e923316e10146bcf70f67eb5b7f63804fb80f8ca0ead2cf7fa0a99eafb34a2",
+      "source_ids": [
+        325
+      ],
+      "primary_outcome": "understanding",
+      "secondary_outcomes": [
+        "accountability"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "hassid-325-replaced-2026"
+      ]
+    },
+    {
+      "slug": "keep-a-document-and-question-tracker",
+      "title": "Keep a document and question tracker",
+      "draft": "raw/ramonov-360-ai-for-healthcare-insurance-2026/drafts/practices/keep-a-document-and-question-tracker.md",
+      "proposed_destination": "practices/keep-a-document-and-question-tracker.md",
+      "sha256": "9ec03a23dd3dc3736cbab91ab0de75fc9d84c2ff9c40891e1432e300c8ecfdea",
+      "source_ids": [
+        360
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "ramonov-360-ai-for-healthcare-insurance-2026"
+      ]
+    },
+    {
+      "slug": "settle-the-strategy-before-requesting-a-draft",
+      "title": "Settle the strategy before requesting a draft",
+      "draft": "raw/ramonov-361-ai-for-lawyers-2026/drafts/practices/settle-the-strategy-before-requesting-a-draft.md",
+      "proposed_destination": "practices/settle-the-strategy-before-requesting-a-draft.md",
+      "sha256": "e3bd31e491e4f7e0aad887fa62a159c65d8e552462a13f99ab8604f345a47a85",
+      "source_ids": [
+        361
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "ramonov-361-ai-for-lawyers-2026"
+      ]
+    },
+    {
+      "slug": "preview-and-approve-before-publishing",
+      "title": "Preview and approve before publishing",
+      "draft": "raw/ramonov-375-claude-just-changed-content-creation-forever-2026/drafts/practices/preview-and-approve-before-publishing.md",
+      "proposed_destination": "practices/preview-and-approve-before-publishing.md",
+      "sha256": "5a0e667189d728912929be1c0c0e5c3a0aaf5970c851d1f628d63780454c6cfe",
+      "source_ids": [
+        375
+      ],
+      "primary_outcome": "work-quality",
+      "secondary_outcomes": [
+        "accountability"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "ramonov-375-claude-just-changed-content-creation-forever-2026"
+      ]
+    },
+    {
+      "slug": "answer-ai-questions-with-real-evidence",
+      "title": "Answer AI questions with real evidence",
+      "draft": "raw/ramonov-394-ai-co-founder-mega-prompt-2026/drafts/practices/answer-ai-questions-with-real-evidence.md",
+      "proposed_destination": "practices/answer-ai-questions-with-real-evidence.md",
+      "sha256": "20584055b8a59eb50a43ead4a6bb8e4ae4986da8b30050142baac805c0a20332",
+      "source_ids": [
+        394
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "calibration"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "ramonov-394-ai-co-founder-mega-prompt-2026"
+      ]
+    },
+    {
+      "slug": "name-consequences-before-delegating",
+      "title": "Name consequences before delegating",
+      "draft": "raw/illingworth-408-ai-agents-do-not-play-games-2026/drafts/practices/name-consequences-before-delegating.md",
+      "proposed_destination": "practices/name-consequences-before-delegating.md",
+      "sha256": "03b4212776d023f843f57ff77e419ea87a25772f494cb02d69da505cc66b12d3",
+      "source_ids": [
+        408
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-408-ai-agents-do-not-play-games-2026"
+      ]
+    },
+    {
+      "slug": "keep-your-sensory-association-in-the-work",
+      "title": "Keep your sensory association in the work",
+      "draft": "raw/illingworth-409-teaching-ai-to-notice-neurodiverse-perception-2025/drafts/practices/keep-your-sensory-association-in-the-work.md",
+      "proposed_destination": "practices/keep-your-sensory-association-in-the-work.md",
+      "sha256": "b484a5d5cf7f9966012d7731f755d241b5cd8f964d1e34aa37ee32dd2c24850c",
+      "source_ids": [
+        409
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "creative-development"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-409-teaching-ai-to-notice-neurodiverse-perception-2025"
+      ]
+    },
+    {
+      "slug": "ask-children-about-ai-before-setting-rules",
+      "title": "Ask children about AI before setting rules",
+      "draft": "raw/illingworth-412-my-six-year-old-told-me-2026/drafts/practices/ask-children-about-ai-before-setting-rules.md",
+      "proposed_destination": "practices/ask-children-about-ai-before-setting-rules.md",
+      "sha256": "2fb219012c834aaa91841a554752cd123ffb05d08680879c3e7ae8d3d4b71634",
+      "source_ids": [
+        412
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [
+        "shared-understanding"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-412-my-six-year-old-told-me-2026"
+      ]
+    },
+    {
+      "slug": "map-a-return-path",
+      "title": "Map a return path before choosing",
+      "draft": "raw/illingworth-413-how-to-use-ai-to-test-2026/drafts/practices/map-a-return-path.md",
+      "proposed_destination": "practices/map-a-return-path.md",
+      "sha256": "ecca211e6dadc0e83a9707cba9106c96ffb4e4fb091b5cdd31fac0decb1f29a8",
+      "source_ids": [
+        413
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "calibration"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-413-how-to-use-ai-to-test-2026"
+      ]
+    },
+    {
+      "slug": "build-the-opposing-case-yourself",
+      "title": "Build the opposing case yourself",
+      "draft": "raw/illingworth-414-ai-changes-the-learner-2026/drafts/practices/build-the-opposing-case-yourself.md",
+      "proposed_destination": "practices/build-the-opposing-case-yourself.md",
+      "sha256": "5ef41801d62c3df4122a026d00905167fe61b7335a541a87e0faa756fba1f758",
+      "source_ids": [
+        414
+      ],
+      "primary_outcome": "independent-capability",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-414-ai-changes-the-learner-2026"
+      ]
+    },
+    {
+      "slug": "make-ai-disclosure-reciprocal",
+      "title": "Make AI disclosure specific and reciprocal",
+      "draft": "raw/illingworth-421-your-ai-policy-does-not-apply-2026/drafts/practices/make-ai-disclosure-reciprocal.md",
+      "proposed_destination": "practices/make-ai-disclosure-reciprocal.md",
+      "sha256": "be8bb0c9dbfa379c6357245c31183b7cab7364f9b803957ff875987c325181e5",
+      "source_ids": [
+        421
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-421-your-ai-policy-does-not-apply-2026"
+      ]
+    },
+    {
+      "slug": "diagnose-your-draft-before-feedback",
+      "title": "Diagnose your draft before feedback",
+      "draft": "raw/illingworth-422-you-did-not-learn-that-with-2026/drafts/practices/diagnose-your-draft-before-feedback.md",
+      "proposed_destination": "practices/diagnose-your-draft-before-feedback.md",
+      "sha256": "43c4b2d4f7fe98212099eba4dd10f76adc698007f470f903dd34bf25151e6f16",
+      "source_ids": [
+        422
+      ],
+      "primary_outcome": "calibration",
+      "secondary_outcomes": [
+        "understanding"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-422-you-did-not-learn-that-with-2026"
+      ]
+    },
+    {
+      "slug": "use-fictional-questions-for-your-own-reflection",
+      "title": "Use fictional questions for your own reflection",
+      "draft": "raw/illingworth-425-fiction-as-a-mirror-for-students-2026/drafts/practices/use-fictional-questions-for-your-own-reflection.md",
+      "proposed_destination": "practices/use-fictional-questions-for-your-own-reflection.md",
+      "sha256": "de005ca08b129f6b0367ddc087c49c1c21999532903a9e9a300652d2eec67d8d",
+      "source_ids": [
+        425
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "understanding"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-425-fiction-as-a-mirror-for-students-2026"
+      ]
+    },
+    {
+      "slug": "ask-for-an-explanation-in-a-specific-case",
+      "title": "Ask for an explanation in a specific case",
+      "draft": "raw/illingworth-427-how-to-test-for-real-understanding-2026/drafts/practices/ask-for-an-explanation-in-a-specific-case.md",
+      "proposed_destination": "practices/ask-for-an-explanation-in-a-specific-case.md",
+      "sha256": "343840974bc16f54bfd76828718aad63d5186af4a78d42b44a79f32736a3c415",
+      "source_ids": [
+        427
+      ],
+      "primary_outcome": "understanding",
+      "secondary_outcomes": [
+        "calibration"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-427-how-to-test-for-real-understanding-2026"
+      ]
+    },
+    {
+      "slug": "check-missing-perspectives",
+      "title": "Check missing perspectives against real evidence",
+      "draft": "raw/illingworth-435-when-ai-sounds-neutral-is-it-2025/drafts/practices/check-missing-perspectives.md",
+      "proposed_destination": "practices/check-missing-perspectives.md",
+      "sha256": "87a9aea41200b2ba549b2d134381ba6eb22982397ddcafc5ebfefcb6026afef2",
+      "source_ids": [
+        435,
+        491
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "shared-understanding"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-435-when-ai-sounds-neutral-is-it-2025",
+        "illingworth-491-archival-silence-a-proof-of-concept-2026"
+      ]
+    },
+    {
+      "slug": "ask-before-workplace-data-disclosure",
+      "title": "Ask how workplace disclosures will be used",
+      "draft": "raw/illingworth-436-every-ai-onboarding-tool-is-already-2026/drafts/practices/ask-before-workplace-data-disclosure.md",
+      "proposed_destination": "practices/ask-before-workplace-data-disclosure.md",
+      "sha256": "78e4cd62805c68ea1d506b8c0e8c92b7316f64fc43855fe820755a82d01e8a99",
+      "source_ids": [
+        436,
+        482
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-436-every-ai-onboarding-tool-is-already-2026",
+        "illingworth-482-how-to-teach-ai-what-to-2025"
+      ]
+    },
+    {
+      "slug": "define-the-decision-before-research",
+      "title": "Define the decision before asking AI to research",
+      "draft": "raw/illingworth-439-why-your-ai-prompts-produce-noise-2025/drafts/practices/define-the-decision-before-research.md",
+      "proposed_destination": "practices/define-the-decision-before-research.md",
+      "sha256": "ffbb03c0fcb0ac3c391f5993ebf40c7b32695f1ecb18a2e426ebef147d8c88a4",
+      "source_ids": [
+        439
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "attention"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-439-why-your-ai-prompts-produce-noise-2025"
+      ]
+    },
+    {
+      "slug": "record-human-interventions",
+      "title": "Record the human work needed around AI",
+      "draft": "raw/illingworth-440-the-work-ai-handed-back-2026/drafts/practices/record-human-interventions.md",
+      "proposed_destination": "practices/record-human-interventions.md",
+      "sha256": "8dd82d436ad1eff9636601e85a22099e58434acf3ff3f3382b150252c81730fc",
+      "source_ids": [
+        440
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-440-the-work-ai-handed-back-2026"
+      ]
+    },
+    {
+      "slug": "ask-how-to-find-out-before-asking-ai",
+      "title": "Ask how to find out before asking AI",
+      "draft": "raw/lenny-750-anthropic-s-cpo-on-what-comes-2025/drafts/practices/ask-how-to-find-out-before-asking-ai.md",
+      "proposed_destination": "practices/ask-how-to-find-out-before-asking-ai.md",
+      "sha256": "271b0191eb0a62dd6f234e3595317bf43052cc991a5229f9a4882e0f680a94dc",
+      "source_ids": [
+        474,
+        714,
+        750
+      ],
+      "primary_outcome": "independent-capability",
+      "secondary_outcomes": [
+        "understanding"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-474-there-is-no-one-right-way-2026",
+        "lenny-714-kunal-shah-on-winning-in-india-2024",
+        "lenny-750-anthropic-s-cpo-on-what-comes-2025"
+      ]
+    },
+    {
+      "slug": "use-a-creative-constraint-and-respond",
+      "title": "Use a creative constraint, then make something yourself",
+      "draft": "raw/illingworth-488-teach-ai-the-wrong-answer-2025/drafts/practices/use-a-creative-constraint-and-respond.md",
+      "proposed_destination": "practices/use-a-creative-constraint-and-respond.md",
+      "sha256": "10925fded816b4111e51f57d003a84e7d90332f679003d3f65486fd4158cb334",
+      "source_ids": [
+        488,
+        489,
+        490
+      ],
+      "primary_outcome": "creative-development",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-488-teach-ai-the-wrong-answer-2025",
+        "illingworth-489-teach-ai-to-use-less-2025",
+        "illingworth-490-teach-ai-to-say-i-don-2025"
+      ]
+    },
+    {
+      "slug": "ask-about-the-gap-then-do-the-task",
+      "title": "Ask about the gap, then do the task",
+      "draft": "raw/illingworth-514-there-are-three-ways-to-learn-2026/drafts/practices/ask-about-the-gap-then-do-the-task.md",
+      "proposed_destination": "practices/ask-about-the-gap-then-do-the-task.md",
+      "sha256": "10f4203b5b0453e850ea19b5f2b758bf860f5b2739c243f44f0cda24de8e31a3",
+      "source_ids": [
+        514
+      ],
+      "primary_outcome": "independent-capability",
+      "secondary_outcomes": [
+        "understanding"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-514-there-are-three-ways-to-learn-2026"
+      ]
+    },
+    {
+      "slug": "explain-it-back-before-the-correction",
+      "title": "Explain it back before the correction",
+      "draft": "raw/lenny-698-from-managing-people-to-managing-ai-2025/drafts/practices/explain-it-back-before-the-correction.md",
+      "proposed_destination": "practices/explain-it-back-before-the-correction.md",
+      "sha256": "ded8dc36ecac20e5d2d94b4c7961c3f82793abd7a045640a4f73e4d4104d132e",
+      "source_ids": [
+        514,
+        698
+      ],
+      "primary_outcome": "understanding",
+      "secondary_outcomes": [
+        "calibration"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-514-there-are-three-ways-to-learn-2026",
+        "lenny-698-from-managing-people-to-managing-ai-2025"
+      ]
+    },
+    {
+      "slug": "test-one-creative-change",
+      "title": "Test one creative change suggested by AI",
+      "draft": "raw/illingworth-524-when-your-writing-wobbles-listen-for-2025/drafts/practices/test-one-creative-change.md",
+      "proposed_destination": "practices/test-one-creative-change.md",
+      "sha256": "96036bf926754aa2d15f947599d54588b1d4494fdd0a6121f3160bd1fa62aa19",
+      "source_ids": [
+        524,
+        530
+      ],
+      "primary_outcome": "creative-development",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-524-when-your-writing-wobbles-listen-for-2025",
+        "illingworth-530-make-your-ai-argue-from-the-2025"
+      ]
+    },
+    {
+      "slug": "keep-a-writing-process-record",
+      "title": "Keep a record of how the writing developed",
+      "draft": "raw/illingworth-529-you-will-be-accused-of-using-2026/drafts/practices/keep-a-writing-process-record.md",
+      "proposed_destination": "practices/keep-a-writing-process-record.md",
+      "sha256": "17a831acb711490fba99d92468a47ae424d17483b7df1671a0f002e2d8de7143",
+      "source_ids": [
+        529
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "illingworth-529-you-will-be-accused-of-using-2026"
+      ]
+    },
+    {
+      "slug": "ask-contextual-human-advisers",
+      "title": "Ask advisers who know the subject and you",
+      "draft": "raw/lenny-533-feeling-stuck-here-s-how-to-2023/drafts/practices/ask-contextual-human-advisers.md",
+      "proposed_destination": "practices/ask-contextual-human-advisers.md",
+      "sha256": "b49a43a8e758e6f387c15c0e1e7454a0a9247e26ff2de294d748a1500f87d2ee",
+      "source_ids": [
+        533
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "shared-understanding"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-533-feeling-stuck-here-s-how-to-2023"
+      ]
+    },
+    {
+      "slug": "expand-agent-authority-one-tested-step-at-a-time",
+      "title": "Expand agent authority one tested step at a time",
+      "draft": "raw/lenny-537-why-most-ai-products-fail-lessons-2026/drafts/practices/expand-agent-authority-one-tested-step-at-a-time.md",
+      "proposed_destination": "practices/expand-agent-authority-one-tested-step-at-a-time.md",
+      "sha256": "af773ba37cc0cb6c217857e1561455eeb01150dc8b35ee4e8a787ca066825a29",
+      "source_ids": [
+        537
+      ],
+      "primary_outcome": "accountability",
+      "secondary_outcomes": [
+        "calibration"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-537-why-most-ai-products-fail-lessons-2026"
+      ]
+    },
+    {
+      "slug": "check-what-each-person-thinks-was-decided",
+      "title": "Check what each person thinks was decided",
+      "draft": "raw/lenny-542-scripts-for-navigating-difficult-conversations-alisa-2025/drafts/practices/check-what-each-person-thinks-was-decided.md",
+      "proposed_destination": "practices/check-what-each-person-thinks-was-decided.md",
+      "sha256": "cbd60a6946e91083e16d5b4a115a34c5447a6e61e8129e46d51910fe93b3de55",
+      "source_ids": [
+        542
+      ],
+      "primary_outcome": "shared-understanding",
+      "secondary_outcomes": [
+        "accountability"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-542-scripts-for-navigating-difficult-conversations-alisa-2025"
+      ]
+    },
+    {
+      "slug": "set-creative-criteria-before-generating",
+      "title": "Set creative criteria before generating options",
+      "draft": "raw/lenny-558-the-art-of-building-legendary-brands-2022/drafts/practices/set-creative-criteria-before-generating.md",
+      "proposed_destination": "practices/set-creative-criteria-before-generating.md",
+      "sha256": "8463c3950b2183932b0ef743d1b5a63a22709a16bb4099c816426630c0c777ab",
+      "source_ids": [
+        558
+      ],
+      "primary_outcome": "creative-development",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-558-the-art-of-building-legendary-brands-2022"
+      ]
+    },
+    {
+      "slug": "write-a-proposal-to-test-the-idea",
+      "title": "Write a proposal to test the idea",
+      "draft": "raw/lenny-568-unpacking-amazon-s-unique-ways-of-2023/drafts/practices/write-a-proposal-to-test-the-idea.md",
+      "proposed_destination": "practices/write-a-proposal-to-test-the-idea.md",
+      "sha256": "6afa4b225f63da7739ddc98dec0c8a3e412371209c62c574d5b5e5084c49a5f5",
+      "source_ids": [
+        568,
+        677
+      ],
+      "primary_outcome": "understanding",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-568-unpacking-amazon-s-unique-ways-of-2023",
+        "lenny-677-building-product-at-stripe-craft-metrics-2024"
+      ]
+    },
+    {
+      "slug": "match-confidence-to-evidence",
+      "title": "Match confidence to the evidence you have",
+      "draft": "raw/lenny-663-becoming-evidence-guided-itamar-gilad-2023/drafts/practices/match-confidence-to-evidence.md",
+      "proposed_destination": "practices/match-confidence-to-evidence.md",
+      "sha256": "5ffa771fa5e5c4624ba4dcac1ee3d084a0a6470b01f3f07c3154cb2151bcd6e9",
+      "source_ids": [
+        578,
+        663
+      ],
+      "primary_outcome": "calibration",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-578-lessons-from-scaling-uber-and-opendoor-2024",
+        "lenny-663-becoming-evidence-guided-itamar-gilad-2023"
+      ]
+    },
+    {
+      "slug": "rehearse-with-audience-experience",
+      "title": "Rehearse with someone who knows the audience",
+      "draft": "raw/lenny-585-why-most-product-managers-are-unprepared-2023/drafts/practices/rehearse-with-audience-experience.md",
+      "proposed_destination": "practices/rehearse-with-audience-experience.md",
+      "sha256": "7fa8c49f27e0b3cbc8aebfd7e5f63bb04755380e15f0ec2321bb0fd53fa32db1",
+      "source_ids": [
+        585,
+        660,
+        673
+      ],
+      "primary_outcome": "shared-understanding",
+      "secondary_outcomes": [
+        "independent-capability"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-585-why-most-product-managers-are-unprepared-2023",
+        "lenny-660-what-it-takes-to-become-a-2022",
+        "lenny-673-jason-fried-challenges-your-thinking-on-2023"
+      ]
+    },
+    {
+      "slug": "ask-what-an-update-would-change",
+      "title": "Ask what an update would change",
+      "draft": "raw/lenny-589-al-engineering-101-with-chip-huyen-2025/drafts/practices/ask-what-an-update-would-change.md",
+      "proposed_destination": "practices/ask-what-an-update-would-change.md",
+      "sha256": "26645e07a52e50ce3ef34318503ef6b30122097699129bc38c74180b62dacce2",
+      "source_ids": [
+        589
+      ],
+      "primary_outcome": "attention",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-589-al-engineering-101-with-chip-huyen-2025"
+      ]
+    },
+    {
+      "slug": "seek-contrary-customer-evidence",
+      "title": "Seek contrary evidence in customer material",
+      "draft": "raw/lenny-802-why-great-ai-products-are-all-2024/drafts/practices/seek-contrary-customer-evidence.md",
+      "proposed_destination": "practices/seek-contrary-customer-evidence.md",
+      "sha256": "3496c2d21914544e8d1bf1f83fc9274ea39842566539cedf0d619581781e8573",
+      "source_ids": [
+        591,
+        802
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "calibration"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-591-the-essence-of-product-management-christian-2023",
+        "lenny-802-why-great-ai-products-are-all-2024"
+      ]
+    },
+    {
+      "slug": "build-the-model-to-understand-it",
+      "title": "Build the explanatory model yourself",
+      "draft": "raw/lenny-601-developing-a-growth-model-marketplace-growth-2022/drafts/practices/build-the-model-to-understand-it.md",
+      "proposed_destination": "practices/build-the-model-to-understand-it.md",
+      "sha256": "9b5d01d2469ccf945fa463b76c3b00a85595ab0b58c17b62ce7edc08301cb868",
+      "source_ids": [
+        601
+      ],
+      "primary_outcome": "understanding",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-601-developing-a-growth-model-marketplace-growth-2022"
+      ]
+    },
+    {
+      "slug": "let-the-child-write-the-story",
+      "title": "Let the child write the story around supporting images",
+      "draft": "raw/lenny-605-building-a-culture-of-excellence-david-2023/drafts/practices/let-the-child-write-the-story.md",
+      "proposed_destination": "practices/let-the-child-write-the-story.md",
+      "sha256": "78bc2c03b896b68d8b94397e6e6d87ba1d1b7f447189c8cc32199b728f2fe9cf",
+      "source_ids": [
+        605
+      ],
+      "primary_outcome": "independent-capability",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-605-building-a-culture-of-excellence-david-2023"
+      ]
+    },
+    {
+      "slug": "protect-a-daily-highlight",
+      "title": "Protect a daily highlight",
+      "draft": "raw/lenny-668-making-time-for-what-matters-jake-2024/drafts/practices/protect-a-daily-highlight.md",
+      "proposed_destination": "practices/protect-a-daily-highlight.md",
+      "sha256": "6db76001343c033bbaa07628d78c26acfa07534018d7603427d172be7f50e84f",
+      "source_ids": [
+        668
+      ],
+      "primary_outcome": "attention",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-668-making-time-for-what-matters-jake-2024"
+      ]
+    },
+    {
+      "slug": "name-your-own-visual-reactions",
+      "title": "Name your own visual reactions",
+      "draft": "raw/lenny-684-how-to-see-like-a-designer-2024/drafts/practices/name-your-own-visual-reactions.md",
+      "proposed_destination": "practices/name-your-own-visual-reactions.md",
+      "sha256": "b710ffe6b39e921467809d489a2dfa219a0a3dca37ee3520ffe66bdf73bd71b5",
+      "source_ids": [
+        684
+      ],
+      "primary_outcome": "creative-development",
+      "secondary_outcomes": [
+        "understanding"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-684-how-to-see-like-a-designer-2024"
+      ]
+    },
+    {
+      "slug": "choose-from-an-ai-generated-creative-pool",
+      "title": "Choose from an AI-generated creative pool",
+      "draft": "raw/lenny-684-how-to-see-like-a-designer-2024/drafts/practices/choose-from-an-ai-generated-creative-pool.md",
+      "proposed_destination": "practices/choose-from-an-ai-generated-creative-pool.md",
+      "sha256": "d8574b313e55192c9fabfa6fd580923ec5d717f78fe1ebd4b58efdca1afbdb6f",
+      "source_ids": [
+        684
+      ],
+      "primary_outcome": "creative-development",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-684-how-to-see-like-a-designer-2024"
+      ]
+    },
+    {
+      "slug": "review-quality-through-a-real-journey",
+      "title": "Review quality through a real user journey",
+      "draft": "raw/lenny-702-building-beautiful-products-with-stripe-s-2023/drafts/practices/review-quality-through-a-real-journey.md",
+      "proposed_destination": "practices/review-quality-through-a-real-journey.md",
+      "sha256": "1d54a5126fc9f6895c1037be5e771e2fdf7ddafd890b9dfe38a78d9425c42108",
+      "source_ids": [
+        702
+      ],
+      "primary_outcome": "work-quality",
+      "secondary_outcomes": [
+        "shared-understanding"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-702-building-beautiful-products-with-stripe-s-2023"
+      ]
+    },
+    {
+      "slug": "argue-the-other-side-before-deciding",
+      "title": "Explain the other side before deciding",
+      "draft": "raw/lenny-705-leading-with-empathy-keith-yandell-2023/drafts/practices/argue-the-other-side-before-deciding.md",
+      "proposed_destination": "practices/argue-the-other-side-before-deciding.md",
+      "sha256": "f0da8dd66acd5c86f33b4b7216b78b383d9e111847eaa5706847bdbb92fb12e8",
+      "source_ids": [
+        705
+      ],
+      "primary_outcome": "shared-understanding",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-705-leading-with-empathy-keith-yandell-2023"
+      ]
+    },
+    {
+      "slug": "keep-a-decision-and-outcome-log",
+      "title": "Keep a decision and outcome log",
+      "draft": "raw/lenny-710-unorthodox-pm-tips-automating-user-insights-2024/drafts/practices/keep-a-decision-and-outcome-log.md",
+      "proposed_destination": "practices/keep-a-decision-and-outcome-log.md",
+      "sha256": "2f153f4f0a7f5eca9a176e3f4ada891d48e4463ff989fd00fc32b1989238b358",
+      "source_ids": [
+        710
+      ],
+      "primary_outcome": "calibration",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-710-unorthodox-pm-tips-automating-user-insights-2024"
+      ]
+    },
+    {
+      "slug": "outline-the-argument-before-slides",
+      "title": "Outline the argument before making slides",
+      "draft": "raw/lenny-725-mastering-product-strategy-and-growing-as-2023/drafts/practices/outline-the-argument-before-slides.md",
+      "proposed_destination": "practices/outline-the-argument-before-slides.md",
+      "sha256": "083f82ae78e5ecf7b4a450b87dad23acc60d76e10eb2936b5cf0aa0eb76c8171",
+      "source_ids": [
+        725
+      ],
+      "primary_outcome": "shared-understanding",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-725-mastering-product-strategy-and-growing-as-2023"
+      ]
+    },
+    {
+      "slug": "answer-example-relevance",
+      "title": "Answer, example, relevance",
+      "draft": "raw/lenny-731-how-to-speak-more-confidently-and-2024/drafts/practices/answer-example-relevance.md",
+      "proposed_destination": "practices/answer-example-relevance.md",
+      "sha256": "06bcd57c0d4d71a3374b424fa6323fa46e9d423415dc77e2ecb2fdce1a103e8e",
+      "source_ids": [
+        731
+      ],
+      "primary_outcome": "shared-understanding",
+      "secondary_outcomes": [
+        "independent-capability"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-731-how-to-speak-more-confidently-and-2024"
+      ]
+    },
+    {
+      "slug": "record-lived-moments",
+      "title": "Record a lived moment each day",
+      "draft": "raw/lenny-737-how-to-tell-better-stories-matthew-2023/drafts/practices/record-lived-moments.md",
+      "proposed_destination": "practices/record-lived-moments.md",
+      "sha256": "cf7a70b52249118ecb0424db0043c0a84cc3c5897f19bfe6ad4eb7f324bafa51",
+      "source_ids": [
+        737
+      ],
+      "primary_outcome": "creative-development",
+      "secondary_outcomes": [
+        "authorship-agency"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-737-how-to-tell-better-stories-matthew-2023"
+      ]
+    },
+    {
+      "slug": "speak-your-thoughts-before-summarizing",
+      "title": "Speak your thoughts before summarizing them with AI",
+      "draft": "raw/lenny-741-she-turned-100-rejections-into-a-2025/drafts/practices/speak-your-thoughts-before-summarizing.md",
+      "proposed_destination": "practices/speak-your-thoughts-before-summarizing.md",
+      "sha256": "aa2039cbe1b9ed4c982d5a1d9aa37b36d9339a68431fb4095f22dd3ada091e46",
+      "source_ids": [
+        741
+      ],
+      "primary_outcome": "authorship-agency",
+      "secondary_outcomes": [
+        "attention"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-741-she-turned-100-rejections-into-a-2025"
+      ]
+    },
+    {
+      "slug": "listen-before-shaping-the-message",
+      "title": "Listen before shaping the message",
+      "draft": "raw/lenny-755-storytelling-with-nancy-duarte-how-to-2023/drafts/practices/listen-before-shaping-the-message.md",
+      "proposed_destination": "practices/listen-before-shaping-the-message.md",
+      "sha256": "ce26170a47ae84624384c100819388a74a4c0f878f6ca50f829868c3f57f4a2f",
+      "source_ids": [
+        755
+      ],
+      "primary_outcome": "shared-understanding",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-755-storytelling-with-nancy-duarte-how-to-2023"
+      ]
+    },
+    {
+      "slug": "review-survey-questions-for-decisions",
+      "title": "Review survey questions against the decision",
+      "draft": "raw/lenny-760-how-to-measure-ai-developer-productivity-2025/drafts/practices/review-survey-questions-for-decisions.md",
+      "proposed_destination": "practices/review-survey-questions-for-decisions.md",
+      "sha256": "1c7db266132a172c6fd25e83e56b949af02a5cc82fa6f6412131c831234a29e9",
+      "source_ids": [
+        760
+      ],
+      "primary_outcome": "work-quality",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-760-how-to-measure-ai-developer-productivity-2025"
+      ]
+    },
+    {
+      "slug": "practice-choosing-decisive-questions",
+      "title": "Practice choosing the questions that change the plan",
+      "draft": "raw/lenny-803-the-rituals-of-great-teams-shishir-2022/drafts/practices/practice-choosing-decisive-questions.md",
+      "proposed_destination": "practices/practice-choosing-decisive-questions.md",
+      "sha256": "9e3ba18afea48f918740c6b1f6a3944b31626ad1bfbd4b0457ea0f32f7e9f2b5",
+      "source_ids": [
+        803
+      ],
+      "primary_outcome": "independent-capability",
+      "secondary_outcomes": [
+        "judgment"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-803-the-rituals-of-great-teams-shishir-2022"
+      ]
+    },
+    {
+      "slug": "return-to-real-user-accounts",
+      "title": "Return to real user accounts when AI ideas distract",
+      "draft": "raw/lenny-811-hard-won-lessons-building-0-to-2024/drafts/practices/return-to-real-user-accounts.md",
+      "proposed_destination": "practices/return-to-real-user-accounts.md",
+      "sha256": "52b9dcb9ab9ebff037ef0bfa1e7fcd2f35fff2619925fbd09ca2a022366dd3cc",
+      "source_ids": [
+        811
+      ],
+      "primary_outcome": "judgment",
+      "secondary_outcomes": [
+        "attention"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-811-hard-won-lessons-building-0-to-2024"
+      ]
+    },
+    {
+      "slug": "explain-the-algorithm-you-own",
+      "title": "Explain the algorithm you are responsible for",
+      "draft": "raw/lenny-819-why-ai-is-disrupting-traditional-product-2025/drafts/practices/explain-the-algorithm-you-own.md",
+      "proposed_destination": "practices/explain-the-algorithm-you-own.md",
+      "sha256": "9990f1039e81e6df53a5e64e6037eee95c1e6baea02b1e420de942af701357e6",
+      "source_ids": [
+        819
+      ],
+      "primary_outcome": "understanding",
+      "secondary_outcomes": [
+        "accountability"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-819-why-ai-is-disrupting-traditional-product-2025"
+      ]
+    },
+    {
+      "slug": "accordion-speaking-rehearsal",
+      "title": "Rehearse a talk by compressing and expanding it",
+      "draft": "raw/lenny-821-why-most-public-speaking-advice-is-2024/drafts/practices/accordion-speaking-rehearsal.md",
+      "proposed_destination": "practices/accordion-speaking-rehearsal.md",
+      "sha256": "e55c2723509eae6104fcad23522146b902dca8f1ef17a76a54b41986366b4826",
+      "source_ids": [
+        821
+      ],
+      "primary_outcome": "shared-understanding",
+      "secondary_outcomes": [
+        "independent-capability"
+      ],
+      "status": "awaiting_editorial_decision",
+      "note": "",
+      "source_entries": [
+        "lenny-821-why-most-public-speaking-advice-is-2024"
+      ]
+    }
+  ],
+  "source_dependencies": [
+    {
+      "id": 22,
+      "title": "Avoiding Digital Productivity Traps",
+      "url": "https://calnewport.com/avoiding-digital-productivity-traps/",
+      "source_entry": "newport-022-avoiding-digital-productivity-traps-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/newport-022-avoiding-digital-productivity-traps-2026",
+      "proposed_destination": "sources/newport-022-avoiding-digital-productivity-traps-2026.md",
+      "source_draft": "raw/newport-022-avoiding-digital-productivity-traps-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "99bd1ef95d4b334af8404e8978cf8ea7d25400714fe7a7a50998174f8395cf76"
+    },
+    {
+      "id": 38,
+      "title": "On AI Coding and Its Discontents",
+      "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+      "source_entry": "newport-038-on-ai-coding-and-its-discontents-2026",
+      "role": "counterexample",
+      "action": "new_source",
+      "workbench": "raw/newport-038-on-ai-coding-and-its-discontents-2026",
+      "proposed_destination": "sources/newport-038-on-ai-coding-and-its-discontents-2026.md",
+      "source_draft": "raw/newport-038-on-ai-coding-and-its-discontents-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "ccbec655c71b3f3d3d096ba63eececd6817bae9fcbefa68a4caeb77aa6126713"
+    },
+    {
+      "id": 64,
+      "title": "15 Times to use AI, and 5 Not to",
+      "url": "https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to",
+      "source_entry": "mollick-064-15-times-to-use-ai-and-2024",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/mollick-064-15-times-to-use-ai-and-2024",
+      "proposed_destination": "sources/mollick-064-15-times-to-use-ai-and-2024.md",
+      "source_draft": "raw/mollick-064-15-times-to-use-ai-and-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "2917d5cdcadf7734bbe700258c2ae7d6bfed0a6de47875df1f1286c1d5b2afe6"
+    },
+    {
+      "id": 66,
+      "title": "Against Brain Damage",
+      "url": "https://www.oneusefulthing.org/p/against-brain-damage",
+      "source_entry": "mollick-066-against-brain-damage-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/mollick-066-against-brain-damage-2025",
+      "proposed_destination": "sources/mollick-066-against-brain-damage-2025.md",
+      "source_draft": "raw/mollick-066-against-brain-damage-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "2bdc0c7b9b6f022f156cb637cc8d23826dc575761659454f8a4af6807e2e8138"
+    },
+    {
+      "id": 72,
+      "title": "Claude Dispatch and the Power of Interfaces",
+      "url": "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+      "source_entry": "mollick-072-claude-dispatch-and-the-power-of-2026",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/mollick-072-claude-dispatch-and-the-power-of-2026",
+      "proposed_destination": "sources/mollick-072-claude-dispatch-and-the-power-of-2026.md",
+      "source_draft": "raw/mollick-072-claude-dispatch-and-the-power-of-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "5066d746a02c0616e7947b96838f2b894273fd3e72f646035a7c735a11d09924"
+    },
+    {
+      "id": 75,
+      "title": "Giving your AI a Job Interview",
+      "url": "https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview",
+      "source_entry": "mollick-075-giving-your-ai-a-job-interview-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/mollick-075-giving-your-ai-a-job-interview-2025",
+      "proposed_destination": "sources/mollick-075-giving-your-ai-a-job-interview-2025.md",
+      "source_draft": "raw/mollick-075-giving-your-ai-a-job-interview-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "1a6952c75a65a83d16378d0c9a23ec453d1f9396e52e5e1f4b011ecec221d797"
+    },
+    {
+      "id": 76,
+      "title": "I, Cyborg: Using Co-Intelligence",
+      "url": "https://www.oneusefulthing.org/p/i-cyborg-using-co-intelligence",
+      "source_entry": "mollick-076-i-cyborg-using-co-intelligence-2024",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/mollick-076-i-cyborg-using-co-intelligence-2024",
+      "proposed_destination": "sources/mollick-076-i-cyborg-using-co-intelligence-2024.md",
+      "source_draft": "raw/mollick-076-i-cyborg-using-co-intelligence-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "88db2d4b0c65ab1c9c6a086c171fcff80215e73cb4694685382e8358d4416a51"
+    },
+    {
+      "id": 77,
+      "title": "Innovation through prompting",
+      "url": "https://www.oneusefulthing.org/p/innovation-through-prompting",
+      "source_entry": "mollick-077-innovation-through-prompting-2024",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/mollick-077-innovation-through-prompting-2024",
+      "proposed_destination": "sources/mollick-077-innovation-through-prompting-2024.md",
+      "source_draft": "raw/mollick-077-innovation-through-prompting-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "746c80aff8fc02a4efb600234fd11f93aae8253ac53de4667cc24cd021f51b23"
+    },
+    {
+      "id": 79,
+      "title": "Making AI Work: Leadership, Lab, and Crowd",
+      "url": "https://www.oneusefulthing.org/p/making-ai-work-leadership-lab-and",
+      "source_entry": "mollick-079-making-ai-work-leadership-lab-and-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/mollick-079-making-ai-work-leadership-lab-and-2025",
+      "proposed_destination": "sources/mollick-079-making-ai-work-leadership-lab-and-2025.md",
+      "source_draft": "raw/mollick-079-making-ai-work-leadership-lab-and-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "38604f05c7324541e4ce3371be94271a51e94225283b71743314d44f38aae28a"
+    },
+    {
+      "id": 80,
+      "title": "Management as AI superpower",
+      "url": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+      "source_entry": "mollick-management-ai-superpower-2026",
+      "role": "origin",
+      "action": "correct_existing_before_reuse",
+      "workbench": "raw/mollick-080-management-as-ai-superpower-2026",
+      "proposed_destination": "sources/mollick-management-ai-superpower-2026.md",
+      "source_draft": "raw/mollick-080-management-as-ai-superpower-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "8f698012d44c635eef4f37b6bfb40a729b016216f719ba54b1ab0e1f32994d49",
+      "existing_sha256": "5426af82e6f9fb94d54fe24c22aeb9490e600fdd7b64b14c3f013b308f529ac8"
+    },
+    {
+      "id": 84,
+      "title": "On Working with Wizards",
+      "url": "https://www.oneusefulthing.org/p/on-working-with-wizards",
+      "source_entry": "mollick-084-on-working-with-wizards-2025",
+      "role": "counterexample",
+      "action": "new_source",
+      "workbench": "raw/mollick-084-on-working-with-wizards-2025",
+      "proposed_destination": "sources/mollick-084-on-working-with-wizards-2025.md",
+      "source_draft": "raw/mollick-084-on-working-with-wizards-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "e9f44f64aefe1a67dc99c962445073009c1f4cf9aeadfe589b8d8817fd4dfe06"
+    },
+    {
+      "id": 89,
+      "title": "Sign of the future: GPT-5.5 ",
+      "url": "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+      "source_entry": "mollick-089-sign-of-the-future-gpt-5-2026",
+      "role": "counterexample",
+      "action": "new_source",
+      "workbench": "raw/mollick-089-sign-of-the-future-gpt-5-2026",
+      "proposed_destination": "sources/mollick-089-sign-of-the-future-gpt-5-2026.md",
+      "source_draft": "raw/mollick-089-sign-of-the-future-gpt-5-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "5dca7a616056a587286ef04d0c88e4e08152a9c0c04a65f2c3385a6710ec6409"
+    },
+    {
+      "id": 95,
+      "title": "The End of Search, The Beginning of Research",
+      "url": "https://www.oneusefulthing.org/p/the-end-of-search-the-beginning-of",
+      "source_entry": "mollick-095-the-end-of-search-the-beginning-2025",
+      "role": "counterexample",
+      "action": "new_source",
+      "workbench": "raw/mollick-095-the-end-of-search-the-beginning-2025",
+      "proposed_destination": "sources/mollick-095-the-end-of-search-the-beginning-2025.md",
+      "source_draft": "raw/mollick-095-the-end-of-search-the-beginning-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "c5b70c55ada5f68b012b723af48ccb5515f2d27d9a5a98ede489dba9688cefd4"
+    },
+    {
+      "id": 105,
+      "title": "What Can be Done in 59 Seconds",
+      "url": "https://www.oneusefulthing.org/p/what-can-be-done-in-59-seconds-an",
+      "source_entry": "mollick-105-what-can-be-done-in-59-2024",
+      "role": "counterexample",
+      "action": "new_source",
+      "workbench": "raw/mollick-105-what-can-be-done-in-59-2024",
+      "proposed_destination": "sources/mollick-105-what-can-be-done-in-59-2024.md",
+      "source_draft": "raw/mollick-105-what-can-be-done-in-59-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "72f1bb89c0eb9c447f68777f82e24c109b91b77cee82234a07adfba332751769"
+    },
+    {
+      "id": 255,
+      "title": "Design AI Systems That Actually Strengthen Human Reasoning",
+      "url": null,
+      "source_entry": "tamisier-fayard-255-design-ai-systems-that-actually-strengthen-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/tamisier-fayard-255-design-ai-systems-that-actually-strengthen-2026",
+      "proposed_destination": "sources/tamisier-fayard-255-design-ai-systems-that-actually-strengthen-2026.md",
+      "source_draft": "raw/tamisier-fayard-255-design-ai-systems-that-actually-strengthen-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "64c1ce0711c60fe71c4955819f35c7a6db8c1854d5233dd8209feea7137bf7c1"
+    },
+    {
+      "id": 263,
+      "title": "Workaholic.",
+      "url": "https://ruben.substack.com/p/ai-holic",
+      "source_entry": "hassid-263-workaholic-2026",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/hassid-263-workaholic-2026",
+      "proposed_destination": "sources/hassid-263-workaholic-2026.md",
+      "source_draft": "raw/hassid-263-workaholic-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "7a91f0925ba0670d550e2c2b54501c296a3149b837b589af12ca58265f215864"
+    },
+    {
+      "id": 270,
+      "title": "Business.",
+      "url": "https://ruben.substack.com/p/business-plan",
+      "source_entry": "hassid-270-business-2025",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/hassid-270-business-2025",
+      "proposed_destination": "sources/hassid-270-business-2025.md",
+      "source_draft": "raw/hassid-270-business-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "6e9a24c8b33cc3452b27d6a367c92d9da2009bab5ec7e6a30489b3ff12cdea55"
+    },
+    {
+      "id": 275,
+      "title": "Claude Code.",
+      "url": "https://ruben.substack.com/p/claude-code",
+      "source_entry": "hassid-275-claude-code-2026",
+      "role": "counterexample",
+      "action": "new_source",
+      "workbench": "raw/hassid-275-claude-code-2026",
+      "proposed_destination": "sources/hassid-275-claude-code-2026.md",
+      "source_draft": "raw/hassid-275-claude-code-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "c236fa8ca47b6cc894403e1caf9e9cc2fbe14b1d264c1c54b5555818abf3184f"
+    },
+    {
+      "id": 276,
+      "title": "Cowork.",
+      "url": "https://ruben.substack.com/p/claude-cowork",
+      "source_entry": "hassid-276-cowork-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/hassid-276-cowork-2026",
+      "proposed_destination": "sources/hassid-276-cowork-2026.md",
+      "source_draft": "raw/hassid-276-cowork-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "64eace48e4dd5f925ca9419d02f6e87ac7de573541f00a9d56311b4725ee4c20"
+    },
+    {
+      "id": 277,
+      "title": "Claude for teams.",
+      "url": "https://ruben.substack.com/p/claude-for-teams",
+      "source_entry": "hassid-277-claude-for-teams-2026",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/hassid-277-claude-for-teams-2026",
+      "proposed_destination": "sources/hassid-277-claude-for-teams-2026.md",
+      "source_draft": "raw/hassid-277-claude-for-teams-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "da667fc0a09f5a27dbb8c1860b82e87ffd3b1f351e8ca64cf66d44db624ee059"
+    },
+    {
+      "id": 286,
+      "title": "Fable 5.",
+      "url": "https://ruben.substack.com/p/dont-use-claude-fable-5",
+      "source_entry": "hassid-286-fable-5-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/hassid-286-fable-5-2026",
+      "proposed_destination": "sources/hassid-286-fable-5-2026.md",
+      "source_draft": "raw/hassid-286-fable-5-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "8ca01cf9ab693ea4c334e4110d3a82874a72254050abcb8f9c7004c6884bd743"
+    },
+    {
+      "id": 289,
+      "title": "How to make AI battle for you.",
+      "url": "https://ruben.substack.com/p/fight",
+      "source_entry": "hassid-289-how-to-make-ai-battle-for-2025",
+      "role": "counterexample",
+      "action": "new_source",
+      "workbench": "raw/hassid-289-how-to-make-ai-battle-for-2025",
+      "proposed_destination": "sources/hassid-289-how-to-make-ai-battle-for-2025.md",
+      "source_draft": "raw/hassid-289-how-to-make-ai-battle-for-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "94c7685eaa05c740e91c7c332053bc4bc9300bf597b0d6253816316ad79a835d"
+    },
+    {
+      "id": 306,
+      "title": "I am just a text file.",
+      "url": "https://ruben.substack.com/p/i-am-just-a-text-file",
+      "source_entry": "hassid-306-i-am-just-a-text-file-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/hassid-306-i-am-just-a-text-file-2026",
+      "proposed_destination": "sources/hassid-306-i-am-just-a-text-file-2026.md",
+      "source_draft": "raw/hassid-306-i-am-just-a-text-file-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "d1258b18126015c3cfdfb4c320a980ca44e37bff54194807227ee447678245b6"
+    },
+    {
+      "id": 324,
+      "title": "Quit ChatGPT.",
+      "url": "https://ruben.substack.com/p/quit-chatgpt",
+      "source_entry": "hassid-324-quit-chatgpt-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/hassid-324-quit-chatgpt-2026",
+      "proposed_destination": "sources/hassid-324-quit-chatgpt-2026.md",
+      "source_draft": "raw/hassid-324-quit-chatgpt-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "7f3392f5ffddee167b3657bd77be23ef0dacdf064052fd403702d258155a4377"
+    },
+    {
+      "id": 325,
+      "title": "Replaced.",
+      "url": "https://ruben.substack.com/p/replaced",
+      "source_entry": "hassid-325-replaced-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/hassid-325-replaced-2026",
+      "proposed_destination": "sources/hassid-325-replaced-2026.md",
+      "source_draft": "raw/hassid-325-replaced-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "91542769aa8001317e3f272935ffb1aae1e8e7a595a2934117af20a1ec568efb"
+    },
+    {
+      "id": 328,
+      "title": "Search.",
+      "url": "https://ruben.substack.com/p/search",
+      "source_entry": "hassid-328-search-2025",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/hassid-328-search-2025",
+      "proposed_destination": "sources/hassid-328-search-2025.md",
+      "source_draft": "raw/hassid-328-search-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "4c9fe4602c01b8372429df7569056f16b7b3f1a4e21a6b9268ce62a8a0123a94"
+    },
+    {
+      "id": 339,
+      "title": "Vibecoding.",
+      "url": "https://ruben.substack.com/p/the-claude-code-bible",
+      "source_entry": "hassid-339-vibecoding-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/hassid-339-vibecoding-2026",
+      "proposed_destination": "sources/hassid-339-vibecoding-2026.md",
+      "source_draft": "raw/hassid-339-vibecoding-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "14eccc46a879636c966bacfce591a6cf121eec706c48f2449775bc36a34dc40a"
+    },
+    {
+      "id": 350,
+      "title": "10 Year Old Vibe Codes 2 Apps",
+      "url": "https://www.sabrina.dev/p/10-year-old-vibe-codes-2-apps",
+      "source_entry": "ramonov-350-10-year-old-vibe-codes-2-2026",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/ramonov-350-10-year-old-vibe-codes-2-2026",
+      "proposed_destination": "sources/ramonov-350-10-year-old-vibe-codes-2-2026.md",
+      "source_draft": "raw/ramonov-350-10-year-old-vibe-codes-2-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "9d7e4041b9c7259b5467ddc378a6d455eb207434889a076b5cf9c5e4a0e6544d"
+    },
+    {
+      "id": 356,
+      "title": "6 INSANE Projects to Learn Claude Fable and /goal",
+      "url": "https://www.sabrina.dev/p/6-insane-projects-to-learn-claude-fable-loop-engineering",
+      "source_entry": "ramonov-356-goal-2026",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/ramonov-356-goal-2026",
+      "proposed_destination": "sources/ramonov-356-goal-2026.md",
+      "source_draft": "raw/ramonov-356-goal-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "824f1b87a52919266e5c0cdb6f45f467a07ff7112363e5b88d98365f3d061bf1"
+    },
+    {
+      "id": 360,
+      "title": "AI for Healthcare & Insurance",
+      "url": "https://www.sabrina.dev/p/ai-for-healthcare-insurance-planning",
+      "source_entry": "ramonov-360-ai-for-healthcare-insurance-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/ramonov-360-ai-for-healthcare-insurance-2026",
+      "proposed_destination": "sources/ramonov-360-ai-for-healthcare-insurance-2026.md",
+      "source_draft": "raw/ramonov-360-ai-for-healthcare-insurance-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "3fd4696d9bcaf89fb7257b2d819a585556596ec72ea7a904598dccc3f758985d"
+    },
+    {
+      "id": 361,
+      "title": "AI for Lawyers (3 Real Use Cases)",
+      "url": "https://www.sabrina.dev/p/ai-for-lawyers-3-real-use-cases",
+      "source_entry": "ramonov-361-ai-for-lawyers-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/ramonov-361-ai-for-lawyers-2026",
+      "proposed_destination": "sources/ramonov-361-ai-for-lawyers-2026.md",
+      "source_draft": "raw/ramonov-361-ai-for-lawyers-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "16c7ceb23e79bf4c08cb7bf6a096a2d1c8267fdc18c1ab2d28dafa0db8db7732"
+    },
+    {
+      "id": 375,
+      "title": "Claude Just Changed Content Creation Forever",
+      "url": "https://www.sabrina.dev/p/claude-just-changed-content-creation-remotion-video",
+      "source_entry": "ramonov-375-claude-just-changed-content-creation-forever-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/ramonov-375-claude-just-changed-content-creation-forever-2026",
+      "proposed_destination": "sources/ramonov-375-claude-just-changed-content-creation-forever-2026.md",
+      "source_draft": "raw/ramonov-375-claude-just-changed-content-creation-forever-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "5cfcd3b85603b792dccd995dc3ea0463f6c35731a4d91d8e61d5d6789d6f450e"
+    },
+    {
+      "id": 387,
+      "title": "How to Get Ahead of 99% of People",
+      "url": "https://www.sabrina.dev/p/how-to-get-ahead-of-99-of-people-with-ai-sparring-partner",
+      "source_entry": "ramonov-387-how-to-get-ahead-of-99-2025",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/ramonov-387-how-to-get-ahead-of-99-2025",
+      "proposed_destination": "sources/ramonov-387-how-to-get-ahead-of-99-2025.md",
+      "source_draft": "raw/ramonov-387-how-to-get-ahead-of-99-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "277279bf91264715a5c5ca48b841974600adb265940e2f55ab1961ed03966dde"
+    },
+    {
+      "id": 394,
+      "title": "AI Co-Founder MEGA Prompt",
+      "url": "https://www.sabrina.dev/p/if-you-want-2026-to-be-the-best-year",
+      "source_entry": "ramonov-394-ai-co-founder-mega-prompt-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/ramonov-394-ai-co-founder-mega-prompt-2026",
+      "proposed_destination": "sources/ramonov-394-ai-co-founder-mega-prompt-2026.md",
+      "source_draft": "raw/ramonov-394-ai-co-founder-mega-prompt-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "3f4f69bbc599e68b056b5c6dfa4003ad53cfced0c1cdedc64ade74cf5be043d0"
+    },
+    {
+      "id": 402,
+      "title": "The ULTIMATE AI Coding Guide",
+      "url": "https://www.sabrina.dev/p/ultimate-ai-coding-guide-claude-code",
+      "source_entry": "ramonov-402-the-ultimate-ai-coding-guide-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/ramonov-402-the-ultimate-ai-coding-guide-2025",
+      "proposed_destination": "sources/ramonov-402-the-ultimate-ai-coding-guide-2025.md",
+      "source_draft": "raw/ramonov-402-the-ultimate-ai-coding-guide-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "c2138b8c261e606e022adee320ee23093e3400db05251b6af70fbd83acbd5d7c"
+    },
+    {
+      "id": 408,
+      "title": "AI Agents Do Not Play Games. You Do.",
+      "url": "https://theslowai.substack.com/p/ai-agents-game-theory-no-skin-in-the-game",
+      "source_entry": "illingworth-408-ai-agents-do-not-play-games-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-408-ai-agents-do-not-play-games-2026",
+      "proposed_destination": "sources/illingworth-408-ai-agents-do-not-play-games-2026.md",
+      "source_draft": "raw/illingworth-408-ai-agents-do-not-play-games-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "c3914db9d295386b609605f75c665ed665f6a95901bb44e42eafac8ba3187fcb"
+    },
+    {
+      "id": 409,
+      "title": "Teaching AI to Notice Neurodiverse Perception",
+      "url": "https://theslowai.substack.com/p/ai-and-neurodiverse-perception",
+      "source_entry": "illingworth-409-teaching-ai-to-notice-neurodiverse-perception-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-409-teaching-ai-to-notice-neurodiverse-perception-2025",
+      "proposed_destination": "sources/illingworth-409-teaching-ai-to-notice-neurodiverse-perception-2025.md",
+      "source_draft": "raw/illingworth-409-teaching-ai-to-notice-neurodiverse-perception-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "954419cd02667201c9a0fbb913f8523c43a9e90846ed0736816c037e8367d121"
+    },
+    {
+      "id": 412,
+      "title": "My Six-Year-Old Told Me to Say No to AI",
+      "url": "https://theslowai.substack.com/p/ai-bans-schools-prohibition-evidence",
+      "source_entry": "illingworth-412-my-six-year-old-told-me-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-412-my-six-year-old-told-me-2026",
+      "proposed_destination": "sources/illingworth-412-my-six-year-old-told-me-2026.md",
+      "source_draft": "raw/illingworth-412-my-six-year-old-told-me-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "e8cbabf2cecbe130e8ec8af3ef352f8bdfbc63a5e05a70e1e9bac7a50fff520d"
+    },
+    {
+      "id": 413,
+      "title": "How to Use AI to Test Whether a Career Decision Is Reversible",
+      "url": "https://theslowai.substack.com/p/ai-career-decision-reversible-return-path",
+      "source_entry": "illingworth-413-how-to-use-ai-to-test-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-413-how-to-use-ai-to-test-2026",
+      "proposed_destination": "sources/illingworth-413-how-to-use-ai-to-test-2026.md",
+      "source_draft": "raw/illingworth-413-how-to-use-ai-to-test-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "f5889198292fef344b2a0551d21eec4e8d5cc7389676fdd4c6d1df3222b597f5"
+    },
+    {
+      "id": 414,
+      "title": "AI Changes the Learner. But Do We Know How?",
+      "url": "https://theslowai.substack.com/p/ai-change-student-thinking",
+      "source_entry": "illingworth-414-ai-changes-the-learner-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-414-ai-changes-the-learner-2026",
+      "proposed_destination": "sources/illingworth-414-ai-changes-the-learner-2026.md",
+      "source_draft": "raw/illingworth-414-ai-changes-the-learner-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "e2467dde7aef9db30409fe7999897cebb93b1062cd081c21e46b4c9605e75a38"
+    },
+    {
+      "id": 416,
+      "title": "What AI Takes When You Aren't Looking",
+      "url": "https://theslowai.substack.com/p/ai-cognitive-costs-pattern-intuition",
+      "source_entry": "illingworth-416-what-ai-takes-when-you-aren-2025",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/illingworth-416-what-ai-takes-when-you-aren-2025",
+      "proposed_destination": "sources/illingworth-416-what-ai-takes-when-you-aren-2025.md",
+      "source_draft": "raw/illingworth-416-what-ai-takes-when-you-aren-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "52b891587e84a8961f84a0aaa92a97a5adea89afb77d408594bf7c22a6cb3962"
+    },
+    {
+      "id": 421,
+      "title": "Your AI Policy Does Not Apply to the Person Who Wrote It",
+      "url": "https://theslowai.substack.com/p/ai-disclosure-statement-template",
+      "source_entry": "illingworth-421-your-ai-policy-does-not-apply-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-421-your-ai-policy-does-not-apply-2026",
+      "proposed_destination": "sources/illingworth-421-your-ai-policy-does-not-apply-2026.md",
+      "source_draft": "raw/illingworth-421-your-ai-policy-does-not-apply-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "6765a7fe6d819e0560309922b08f069f70806e188d1781bc7af47bd0b2d4b751"
+    },
+    {
+      "id": 422,
+      "title": "You Did Not Learn That With AI",
+      "url": "https://theslowai.substack.com/p/ai-dunning-kruger-illusion-mastery",
+      "source_entry": "illingworth-422-you-did-not-learn-that-with-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-422-you-did-not-learn-that-with-2026",
+      "proposed_destination": "sources/illingworth-422-you-did-not-learn-that-with-2026.md",
+      "source_draft": "raw/illingworth-422-you-did-not-learn-that-with-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "74043888d5a9504c2b36db0643c8d5614d8c41158e6751982c74a9885394bafc"
+    },
+    {
+      "id": 423,
+      "title": "Your AI Has 171 Emotion Patterns. Every One of Them Is a Lever.",
+      "url": "https://theslowai.substack.com/p/ai-emotion-vectors-sycophancy-deception",
+      "source_entry": "illingworth-423-your-ai-has-171-emotion-patterns-2026",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/illingworth-423-your-ai-has-171-emotion-patterns-2026",
+      "proposed_destination": "sources/illingworth-423-your-ai-has-171-emotion-patterns-2026.md",
+      "source_draft": "raw/illingworth-423-your-ai-has-171-emotion-patterns-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "aa7953c03a6fca0b6433856307aa941efd0a9af6c629550f1ddf39556fb4b792"
+    },
+    {
+      "id": 425,
+      "title": "Fiction as a Mirror for Students Using AI",
+      "url": "https://theslowai.substack.com/p/ai-fiction-student-reflection",
+      "source_entry": "illingworth-425-fiction-as-a-mirror-for-students-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-425-fiction-as-a-mirror-for-students-2026",
+      "proposed_destination": "sources/illingworth-425-fiction-as-a-mirror-for-students-2026.md",
+      "source_draft": "raw/illingworth-425-fiction-as-a-mirror-for-students-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "93119410b3facf6609d7022020d4223096dc6cef1eb98b4e186dbf03d5cd6d4a"
+    },
+    {
+      "id": 427,
+      "title": "How to Test for Real Understanding When AI Makes Every Answer Sound Right",
+      "url": "https://theslowai.substack.com/p/ai-fluency-trap-test-real-understanding",
+      "source_entry": "illingworth-427-how-to-test-for-real-understanding-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-427-how-to-test-for-real-understanding-2026",
+      "proposed_destination": "sources/illingworth-427-how-to-test-for-real-understanding-2026.md",
+      "source_draft": "raw/illingworth-427-how-to-test-for-real-understanding-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "3035457a6890b9bdfb527bf2b34a16d7417d8e5a1a086989d7a837398ba763e6"
+    },
+    {
+      "id": 435,
+      "title": "When AI Sounds Neutral, Is It?",
+      "url": "https://theslowai.substack.com/p/ai-neutrality-bias-missing-voices",
+      "source_entry": "illingworth-435-when-ai-sounds-neutral-is-it-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-435-when-ai-sounds-neutral-is-it-2025",
+      "proposed_destination": "sources/illingworth-435-when-ai-sounds-neutral-is-it-2025.md",
+      "source_draft": "raw/illingworth-435-when-ai-sounds-neutral-is-it-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "09cb5e5d6cfc86491d0593501a770c7183930875c08b9b49191cb6f86aa0a840"
+    },
+    {
+      "id": 436,
+      "title": "Every AI Onboarding Tool Is Already Playing This Game",
+      "url": "https://theslowai.substack.com/p/ai-onboarding-tools-workplace-surveillance",
+      "source_entry": "illingworth-436-every-ai-onboarding-tool-is-already-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-436-every-ai-onboarding-tool-is-already-2026",
+      "proposed_destination": "sources/illingworth-436-every-ai-onboarding-tool-is-already-2026.md",
+      "source_draft": "raw/illingworth-436-every-ai-onboarding-tool-is-already-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "ca3568e02af4159930a85fd1b8a500bfe4196a6045fd7baa6dcd7616315f30a6"
+    },
+    {
+      "id": 437,
+      "title": "Is your AI overwriting your memory?",
+      "url": "https://theslowai.substack.com/p/ai-overwriting-your-memory",
+      "source_entry": "illingworth-437-is-your-ai-overwriting-your-memory-2026",
+      "role": "counterexample",
+      "action": "new_source",
+      "workbench": "raw/illingworth-437-is-your-ai-overwriting-your-memory-2026",
+      "proposed_destination": "sources/illingworth-437-is-your-ai-overwriting-your-memory-2026.md",
+      "source_draft": "raw/illingworth-437-is-your-ai-overwriting-your-memory-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "dddc2b93d36fa98bec3c232582db23c435389cae19eb27ddb158c32da9240e65"
+    },
+    {
+      "id": 439,
+      "title": "Why Your AI Prompts Produce Noise Instead of Decisions",
+      "url": "https://theslowai.substack.com/p/ai-precision-research-framework",
+      "source_entry": "illingworth-439-why-your-ai-prompts-produce-noise-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-439-why-your-ai-prompts-produce-noise-2025",
+      "proposed_destination": "sources/illingworth-439-why-your-ai-prompts-produce-noise-2025.md",
+      "source_draft": "raw/illingworth-439-why-your-ai-prompts-produce-noise-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "b039a44d7878379edd56624943a6b6f3567f419c1ceb33000ba4072a713ea04d"
+    },
+    {
+      "id": 440,
+      "title": "The Work AI Handed Back",
+      "url": "https://theslowai.substack.com/p/ai-rehiring-workers-replaced",
+      "source_entry": "illingworth-440-the-work-ai-handed-back-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-440-the-work-ai-handed-back-2026",
+      "proposed_destination": "sources/illingworth-440-the-work-ai-handed-back-2026.md",
+      "source_draft": "raw/illingworth-440-the-work-ai-handed-back-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "3f9985edc0a9ec195ac144f4251fcf7411f3141be66570b6aa1f1dc774753761"
+    },
+    {
+      "id": 449,
+      "title": "Can Claude Write Slow AI? The Results",
+      "url": "https://theslowai.substack.com/p/can-claude-write-slow-ai-results",
+      "source_entry": "illingworth-449-can-claude-write-slow-ai-the-2026",
+      "role": "counterexample",
+      "action": "new_source",
+      "workbench": "raw/illingworth-449-can-claude-write-slow-ai-the-2026",
+      "proposed_destination": "sources/illingworth-449-can-claude-write-slow-ai-the-2026.md",
+      "source_draft": "raw/illingworth-449-can-claude-write-slow-ai-the-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "e151eadd7b06531032800f32cb059ba13570f9f36a5281ebdfc51c8173f4db9b"
+    },
+    {
+      "id": 453,
+      "title": "Stop Trusting Your Intuition When Evaluating AI",
+      "url": "https://theslowai.substack.com/p/evaluate-ai-correctness-completeness",
+      "source_entry": "illingworth-453-stop-trusting-your-intuition-when-evaluating-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-453-stop-trusting-your-intuition-when-evaluating-2026",
+      "proposed_destination": "sources/illingworth-453-stop-trusting-your-intuition-when-evaluating-2026.md",
+      "source_draft": "raw/illingworth-453-stop-trusting-your-intuition-when-evaluating-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "d9f1e6e5f4db81144da4630fea1912fb55bd7ed81aeb0183d42375469cac2adf"
+    },
+    {
+      "id": 456,
+      "title": "This Is How To Stop Being Gaslit By AI",
+      "url": "https://theslowai.substack.com/p/gaslit-by-ai",
+      "source_entry": "illingworth-456-this-is-how-to-stop-being-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-456-this-is-how-to-stop-being-2026",
+      "proposed_destination": "sources/illingworth-456-this-is-how-to-stop-being-2026.md",
+      "source_draft": "raw/illingworth-456-this-is-how-to-stop-being-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "5f05f7ba0d656e9ff90b0cbd8a99a2cef9387a946373b164c5ba9d7b6d8b5e65"
+    },
+    {
+      "id": 459,
+      "title": "How Can Writers Use AI Ethically?",
+      "url": "https://theslowai.substack.com/p/how-can-writers-use-ai-ethically",
+      "source_entry": "illingworth-459-how-can-writers-use-ai-ethically-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-459-how-can-writers-use-ai-ethically-2025",
+      "proposed_destination": "sources/illingworth-459-how-can-writers-use-ai-ethically-2025.md",
+      "source_draft": "raw/illingworth-459-how-can-writers-use-ai-ethically-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "a8f6e94bc6c56966b9071b12c5c7513ed3230ee80d5fec4d2eb8df3216d6eb26"
+    },
+    {
+      "id": 460,
+      "title": "How Creatives Are Actually Using AI (And What They Refuse to Let It Do)",
+      "url": "https://theslowai.substack.com/p/how-creatives-actually-use-ai",
+      "source_entry": "illingworth-460-how-creatives-are-actually-using-ai-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-460-how-creatives-are-actually-using-ai-2026",
+      "proposed_destination": "sources/illingworth-460-how-creatives-are-actually-using-ai-2026.md",
+      "source_draft": "raw/illingworth-460-how-creatives-are-actually-using-ai-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "cade2c81efe8b2236465701f6f43cdbb7a6b6c06cf1e94c15b619dc0caafdb27"
+    },
+    {
+      "id": 464,
+      "title": "The Actual Environmental Cost of AI",
+      "url": "https://theslowai.substack.com/p/is-ai-bad-for-the-environment",
+      "source_entry": "illingworth-464-the-actual-environmental-cost-of-ai-2026",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/illingworth-464-the-actual-environmental-cost-of-ai-2026",
+      "proposed_destination": "sources/illingworth-464-the-actual-environmental-cost-of-ai-2026.md",
+      "source_draft": "raw/illingworth-464-the-actual-environmental-cost-of-ai-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "6393251754868dc8a95a44749ab37e1d265bde4af6ff004c960fe331f179871d"
+    },
+    {
+      "id": 474,
+      "title": "There Is No One Right Way to Parent With AI. There Are Some Wrong Ones.",
+      "url": "https://theslowai.substack.com/p/parenting-with-ai-no-right-way",
+      "source_entry": "illingworth-474-there-is-no-one-right-way-2026",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/illingworth-474-there-is-no-one-right-way-2026",
+      "proposed_destination": "sources/illingworth-474-there-is-no-one-right-way-2026.md",
+      "source_draft": "raw/illingworth-474-there-is-no-one-right-way-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "824fd9b540c5a4323d4b097a955167792bb706c077155c2852c663e55bbed1b7"
+    },
+    {
+      "id": 479,
+      "title": "Run Your Own AI on a Laptop You Already Own",
+      "url": "https://theslowai.substack.com/p/run-ai-locally-old-laptop",
+      "source_entry": "illingworth-479-run-your-own-ai-on-a-2026",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/illingworth-479-run-your-own-ai-on-a-2026",
+      "proposed_destination": "sources/illingworth-479-run-your-own-ai-on-a-2026.md",
+      "source_draft": "raw/illingworth-479-run-your-own-ai-on-a-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "368128e89bf82ac6dca8ddb2918de585fb25e609a14b1d75bdb6b1715e453c1b"
+    },
+    {
+      "id": 480,
+      "title": "Teach AI Something It Cannot Know",
+      "url": "https://theslowai.substack.com/p/slow-ai-1-teach-not-ask",
+      "source_entry": "illingworth-480-teach-ai-something-it-cannot-know-2025",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/illingworth-480-teach-ai-something-it-cannot-know-2025",
+      "proposed_destination": "sources/illingworth-480-teach-ai-something-it-cannot-know-2025.md",
+      "source_draft": "raw/illingworth-480-teach-ai-something-it-cannot-know-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "369d8b049461d80794ddd38657075ad3d8f8100ae20fd0704f88da02f26848f7"
+    },
+    {
+      "id": 482,
+      "title": "How to Teach AI What to Keep Private",
+      "url": "https://theslowai.substack.com/p/slow-ai-11-teach-it-what-to-keep",
+      "source_entry": "illingworth-482-how-to-teach-ai-what-to-2025",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/illingworth-482-how-to-teach-ai-what-to-2025",
+      "proposed_destination": "sources/illingworth-482-how-to-teach-ai-what-to-2025.md",
+      "source_draft": "raw/illingworth-482-how-to-teach-ai-what-to-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "022e1e75662e1fd6bcc60276326f924e931a66a18187b9a521636d36b1b612bb"
+    },
+    {
+      "id": 488,
+      "title": "Teach AI the Wrong Answer",
+      "url": "https://theslowai.substack.com/p/slow-ai-7-teach-it-the-wrong-answer",
+      "source_entry": "illingworth-488-teach-ai-the-wrong-answer-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-488-teach-ai-the-wrong-answer-2025",
+      "proposed_destination": "sources/illingworth-488-teach-ai-the-wrong-answer-2025.md",
+      "source_draft": "raw/illingworth-488-teach-ai-the-wrong-answer-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "47b2baf38204137b1912ac8de51398b75c3206d5cee4b63ffb4d94daa71365e5"
+    },
+    {
+      "id": 489,
+      "title": "Teach AI to Use Less",
+      "url": "https://theslowai.substack.com/p/slow-ai-8-teach-it-to-use-less",
+      "source_entry": "illingworth-489-teach-ai-to-use-less-2025",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/illingworth-489-teach-ai-to-use-less-2025",
+      "proposed_destination": "sources/illingworth-489-teach-ai-to-use-less-2025.md",
+      "source_draft": "raw/illingworth-489-teach-ai-to-use-less-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "d3c3c816018ae45bc0084ae533191ff08ae3a5800e8ba101059badf1600c3f7e"
+    },
+    {
+      "id": 490,
+      "title": "Teach AI to Say I Don't Know",
+      "url": "https://theslowai.substack.com/p/slow-ai-9-teach-it-to-say-i-dont",
+      "source_entry": "illingworth-490-teach-ai-to-say-i-don-2025",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/illingworth-490-teach-ai-to-say-i-don-2025",
+      "proposed_destination": "sources/illingworth-490-teach-ai-to-say-i-don-2025.md",
+      "source_draft": "raw/illingworth-490-teach-ai-to-say-i-don-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "103c3b3be1d16543279cc02039ac1ae8ca8de3f0585b28d47fbb9bbc04638ecf"
+    },
+    {
+      "id": 491,
+      "title": "Archival Silence: A Proof of Concept for the Slow AI Curriculum",
+      "url": "https://theslowai.substack.com/p/slow-ai-curriculum-archival-silence",
+      "source_entry": "illingworth-491-archival-silence-a-proof-of-concept-2026",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/illingworth-491-archival-silence-a-proof-of-concept-2026",
+      "proposed_destination": "sources/illingworth-491-archival-silence-a-proof-of-concept-2026.md",
+      "source_draft": "raw/illingworth-491-archival-silence-a-proof-of-concept-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "1c9493b1b77cc71104d4c76b4d26dc5c7928083b952f58f5cd936b14d1653b3f"
+    },
+    {
+      "id": 508,
+      "title": "The Smarter AI Gets, the Less You Can Trust It on the Hard Stuff ",
+      "url": "https://theslowai.substack.com/p/smarter-ai-less-reliable-hot-mess",
+      "source_entry": "illingworth-508-the-smarter-ai-gets-the-less-2026",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/illingworth-508-the-smarter-ai-gets-the-less-2026",
+      "proposed_destination": "sources/illingworth-508-the-smarter-ai-gets-the-less-2026.md",
+      "source_draft": "raw/illingworth-508-the-smarter-ai-gets-the-less-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "534a03e0efbfb0a13bf532ca81532f4cff07f874650dabc75cebf617f8db0f8b"
+    },
+    {
+      "id": 512,
+      "title": "Use AI to Examine Your Beliefs and Reveal Hidden Assumptions",
+      "url": "https://theslowai.substack.com/p/the-one-ai-prompt-to-examine-your-beliefs",
+      "source_entry": "illingworth-512-use-ai-to-examine-your-beliefs-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-512-use-ai-to-examine-your-beliefs-2025",
+      "proposed_destination": "sources/illingworth-512-use-ai-to-examine-your-beliefs-2025.md",
+      "source_draft": "raw/illingworth-512-use-ai-to-examine-your-beliefs-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "a3568e27481e4dcb54b7a3b0006ba7b3faeb7b442cb90529e44b9f97cc2a4155"
+    },
+    {
+      "id": 514,
+      "title": "There Are Three Ways to Learn With AI. Most People Use None of Them.",
+      "url": "https://theslowai.substack.com/p/three-ways-to-learn-with-ai",
+      "source_entry": "illingworth-514-there-are-three-ways-to-learn-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-514-there-are-three-ways-to-learn-2026",
+      "proposed_destination": "sources/illingworth-514-there-are-three-ways-to-learn-2026.md",
+      "source_draft": "raw/illingworth-514-there-are-three-ways-to-learn-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "e7edffcd12cfc3eb412d746dd8dcf634d47e8eb01469eb41bd9e226eca5b94a0"
+    },
+    {
+      "id": 515,
+      "title": "The Velocity Trap: Why AI Makes You Start Everything and Finish Nothing",
+      "url": "https://theslowai.substack.com/p/velocity-trap-ai-decision-paralysis",
+      "source_entry": "illingworth-515-the-velocity-trap-why-ai-makes-2026",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/illingworth-515-the-velocity-trap-why-ai-makes-2026",
+      "proposed_destination": "sources/illingworth-515-the-velocity-trap-why-ai-makes-2026.md",
+      "source_draft": "raw/illingworth-515-the-velocity-trap-why-ai-makes-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "7c674f7ab8510ac297bd793ada4eef0b8d3e7d062656f84e89ae3f419b9c75ee"
+    },
+    {
+      "id": 516,
+      "title": "What Claude Cannot Read in a Poem",
+      "url": "https://theslowai.substack.com/p/what-claude-cannot-read-in-a-poem",
+      "source_entry": "illingworth-516-what-claude-cannot-read-in-a-2026",
+      "role": "counterexample",
+      "action": "new_source",
+      "workbench": "raw/illingworth-516-what-claude-cannot-read-in-a-2026",
+      "proposed_destination": "sources/illingworth-516-what-claude-cannot-read-in-a-2026.md",
+      "source_draft": "raw/illingworth-516-what-claude-cannot-read-in-a-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "9f0e0ded570a7f4172b55ca268fd499d6a2bfe6cf6b14aa7e3e5717f98e47180"
+    },
+    {
+      "id": 517,
+      "title": "What Is Critical AI Literacy?",
+      "url": "https://theslowai.substack.com/p/what-is-critical-ai-literacy",
+      "source_entry": "illingworth-517-what-is-critical-ai-literacy-2026",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/illingworth-517-what-is-critical-ai-literacy-2026",
+      "proposed_destination": "sources/illingworth-517-what-is-critical-ai-literacy-2026.md",
+      "source_draft": "raw/illingworth-517-what-is-critical-ai-literacy-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "e084bc707a507946a2e58eea62470d116630dff7860a16624c0414cf8db1c49a"
+    },
+    {
+      "id": 521,
+      "title": "When AI Never Stops, Should You?",
+      "url": "https://theslowai.substack.com/p/when-ai-never-stops-should-you",
+      "source_entry": "illingworth-521-when-ai-never-stops-should-you-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-521-when-ai-never-stops-should-you-2025",
+      "proposed_destination": "sources/illingworth-521-when-ai-never-stops-should-you-2025.md",
+      "source_draft": "raw/illingworth-521-when-ai-never-stops-should-you-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "66336b7713e5f163cfcb20b5cbe4761f6e3b427025a9554ff2fba7b20f9020d6"
+    },
+    {
+      "id": 523,
+      "title": "How to Hold on to What Should Stay Human",
+      "url": "https://theslowai.substack.com/p/when-automation-tempts-you",
+      "source_entry": "illingworth-523-how-to-hold-on-to-what-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-523-how-to-hold-on-to-what-2025",
+      "proposed_destination": "sources/illingworth-523-how-to-hold-on-to-what-2025.md",
+      "source_draft": "raw/illingworth-523-how-to-hold-on-to-what-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "2032828ab12911561ec5c3f6678e3fac458e16c2126348e8ca562f3b112b2f31"
+    },
+    {
+      "id": 524,
+      "title": "When your writing wobbles, listen for what AI echoes",
+      "url": "https://theslowai.substack.com/p/when-your-writing-wobbles-listen-for-what-ai-echoes",
+      "source_entry": "illingworth-524-when-your-writing-wobbles-listen-for-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-524-when-your-writing-wobbles-listen-for-2025",
+      "proposed_destination": "sources/illingworth-524-when-your-writing-wobbles-listen-for-2025.md",
+      "source_draft": "raw/illingworth-524-when-your-writing-wobbles-listen-for-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "fc8732a2a96f86c4e299964d070b7a4d1ff9a5d1a44ca46aead366fd52221244"
+    },
+    {
+      "id": 529,
+      "title": "You Will Be Accused of Using AI. Here Is How to Prove You Wrote It.",
+      "url": "https://theslowai.substack.com/p/you-will-be-accused-of-using-ai-here",
+      "source_entry": "illingworth-529-you-will-be-accused-of-using-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/illingworth-529-you-will-be-accused-of-using-2026",
+      "proposed_destination": "sources/illingworth-529-you-will-be-accused-of-using-2026.md",
+      "source_draft": "raw/illingworth-529-you-will-be-accused-of-using-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "c7c61695d332336502e20a48ed348b8272043284dd16ecad03c12a0a38a15ea5"
+    },
+    {
+      "id": 530,
+      "title": "Make Your AI Argue from the Past",
+      "url": "https://theslowai.substack.com/p/your-ai-knows-too-much-take-it-back-in-time",
+      "source_entry": "illingworth-530-make-your-ai-argue-from-the-2025",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/illingworth-530-make-your-ai-argue-from-the-2025",
+      "proposed_destination": "sources/illingworth-530-make-your-ai-argue-from-the-2025.md",
+      "source_draft": "raw/illingworth-530-make-your-ai-argue-from-the-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "34afee3e6f6538227a48c87995d8fc2a2dc52ff73f1daaa9f7020dc6c300e1ca"
+    },
+    {
+      "id": 533,
+      "title": "Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi",
+      "url": "https://www.youtube.com/watch?v=l-T8sNRcWQk",
+      "source_entry": "lenny-533-feeling-stuck-here-s-how-to-2023",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-533-feeling-stuck-here-s-how-to-2023",
+      "proposed_destination": "sources/lenny-533-feeling-stuck-here-s-how-to-2023.md",
+      "source_draft": "raw/lenny-533-feeling-stuck-here-s-how-to-2023/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "269699e4655c1dc8fa6702f82c226f4ad92978d4654d19439976a7f6cc0efa64"
+    },
+    {
+      "id": 537,
+      "title": "Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon",
+      "url": "https://www.youtube.com/watch?v=z7T1pCxgvlA",
+      "source_entry": "lenny-537-why-most-ai-products-fail-lessons-2026",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-537-why-most-ai-products-fail-lessons-2026",
+      "proposed_destination": "sources/lenny-537-why-most-ai-products-fail-lessons-2026.md",
+      "source_draft": "raw/lenny-537-why-most-ai-products-fail-lessons-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "8f6d06a6cff3dcba3893169c8de902ffff72ad39a0565d2cbdbdf622331f4ae7"
+    },
+    {
+      "id": 542,
+      "title": "Scripts for navigating difficult conversations | Alisa Cohn (executive coach)",
+      "url": "https://www.youtube.com/watch?v=bvF0ZM8DjuI",
+      "source_entry": "lenny-542-scripts-for-navigating-difficult-conversations-alisa-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-542-scripts-for-navigating-difficult-conversations-alisa-2025",
+      "proposed_destination": "sources/lenny-542-scripts-for-navigating-difficult-conversations-alisa-2025.md",
+      "source_draft": "raw/lenny-542-scripts-for-navigating-difficult-conversations-alisa-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "e05e5d4facf2aa9e5de5acc0f3d89961546f0efad9193ce823deb5c3a1657e08"
+    },
+    {
+      "id": 550,
+      "title": "This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)",
+      "url": "https://www.youtube.com/watch?v=svQMODvIGAE",
+      "source_entry": "lenny-550-this-will-make-you-a-better-2024",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-550-this-will-make-you-a-better-2024",
+      "proposed_destination": "sources/lenny-550-this-will-make-you-a-better-2024.md",
+      "source_draft": "raw/lenny-550-this-will-make-you-a-better-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "2968d962d27a6f923c61b49164104354b365249d91fd478a27b0b51d08c22d70"
+    },
+    {
+      "id": 558,
+      "title": "The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)",
+      "url": "https://www.youtube.com/watch?v=mJEWns2hyDs",
+      "source_entry": "lenny-558-the-art-of-building-legendary-brands-2022",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-558-the-art-of-building-legendary-brands-2022",
+      "proposed_destination": "sources/lenny-558-the-art-of-building-legendary-brands-2022.md",
+      "source_draft": "raw/lenny-558-the-art-of-building-legendary-brands-2022/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "1e134a68c395d1a683066008d3b65b43b3c1a3c0047d226262d31656f7112ac1"
+    },
+    {
+      "id": 568,
+      "title": "Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)",
+      "url": "https://www.youtube.com/watch?v=S9WHQa_AJQo",
+      "source_entry": "lenny-568-unpacking-amazon-s-unique-ways-of-2023",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-568-unpacking-amazon-s-unique-ways-of-2023",
+      "proposed_destination": "sources/lenny-568-unpacking-amazon-s-unique-ways-of-2023.md",
+      "source_draft": "raw/lenny-568-unpacking-amazon-s-unique-ways-of-2023/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "b6ecc7c7748bff83b4d3cd5f27d6d9a849803e7f43638c40528b2856e3f7fd23"
+    },
+    {
+      "id": 578,
+      "title": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)",
+      "url": "https://www.youtube.com/watch?v=sRukk520Fds",
+      "source_entry": "lenny-578-lessons-from-scaling-uber-and-opendoor-2024",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/lenny-578-lessons-from-scaling-uber-and-opendoor-2024",
+      "proposed_destination": "sources/lenny-578-lessons-from-scaling-uber-and-opendoor-2024.md",
+      "source_draft": "raw/lenny-578-lessons-from-scaling-uber-and-opendoor-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "56fd93d363d565623f18f46e0bdadab73a48214020e94eaed10b0cad2dc98709"
+    },
+    {
+      "id": 580,
+      "title": "The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)",
+      "url": "https://www.youtube.com/watch?v=hZSh0rs20uI",
+      "source_entry": "lenny-580-the-things-engineers-are-desperate-for-2024",
+      "role": "counterexample",
+      "action": "new_source",
+      "workbench": "raw/lenny-580-the-things-engineers-are-desperate-for-2024",
+      "proposed_destination": "sources/lenny-580-the-things-engineers-are-desperate-for-2024.md",
+      "source_draft": "raw/lenny-580-the-things-engineers-are-desperate-for-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "4b946afda7cbe4c0cdba9189146fc87858dd64d570b6135179481d0f8b47df94"
+    },
+    {
+      "id": 585,
+      "title": "Why most product managers are unprepared for the demands of a real startup | Casey Winters",
+      "url": "https://www.youtube.com/watch?v=WlRfyEpAKxw",
+      "source_entry": "lenny-585-why-most-product-managers-are-unprepared-2023",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-585-why-most-product-managers-are-unprepared-2023",
+      "proposed_destination": "sources/lenny-585-why-most-product-managers-are-unprepared-2023.md",
+      "source_draft": "raw/lenny-585-why-most-product-managers-are-unprepared-2023/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "ba71c8b97e63c6d3d8d641ac725df922b68e8d12adeba0d7ff7cd2ff51694196"
+    },
+    {
+      "id": 589,
+      "title": "Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)",
+      "url": "https://www.youtube.com/watch?v=qbvY0dQgSJ4",
+      "source_entry": "lenny-589-al-engineering-101-with-chip-huyen-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-589-al-engineering-101-with-chip-huyen-2025",
+      "proposed_destination": "sources/lenny-589-al-engineering-101-with-chip-huyen-2025.md",
+      "source_draft": "raw/lenny-589-al-engineering-101-with-chip-huyen-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "754d7308c59e18945bf988bb6a155b36708525971d99a9d6d477a075708d6441"
+    },
+    {
+      "id": 591,
+      "title": "The essence of product management | Christian Idiodi (SVPG)",
+      "url": "https://www.youtube.com/watch?v=SXYc5RoU3Lg",
+      "source_entry": "lenny-591-the-essence-of-product-management-christian-2023",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/lenny-591-the-essence-of-product-management-christian-2023",
+      "proposed_destination": "sources/lenny-591-the-essence-of-product-management-christian-2023.md",
+      "source_draft": "raw/lenny-591-the-essence-of-product-management-christian-2023/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "43adbee3dd52c778170a56f7834e912c088bb35a81676f9b48aa0355fcf31094"
+    },
+    {
+      "id": 601,
+      "title": "Developing a growth model + marketplace growth strategy | Dan Hockenmaier",
+      "url": "https://www.youtube.com/watch?v=AlTQ6O2qooI",
+      "source_entry": "lenny-601-developing-a-growth-model-marketplace-growth-2022",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-601-developing-a-growth-model-marketplace-growth-2022",
+      "proposed_destination": "sources/lenny-601-developing-a-growth-model-marketplace-growth-2022.md",
+      "source_draft": "raw/lenny-601-developing-a-growth-model-marketplace-growth-2022/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "0b82b9d38ee6835c6456b868fcf8cb6ed7089e6a126a1090ddaa099e3b0b5317"
+    },
+    {
+      "id": 605,
+      "title": "Building a culture of excellence | David Singleton (CTO of Stripe)",
+      "url": "https://www.youtube.com/watch?v=F0_IKKY3HCk",
+      "source_entry": "lenny-605-building-a-culture-of-excellence-david-2023",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-605-building-a-culture-of-excellence-david-2023",
+      "proposed_destination": "sources/lenny-605-building-a-culture-of-excellence-david-2023.md",
+      "source_draft": "raw/lenny-605-building-a-culture-of-excellence-david-2023/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "fa12bf6a6980646a368ab52d007503cab7ee051db124a4a576e76f4ae65b1f51"
+    },
+    {
+      "id": 616,
+      "title": "The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen",
+      "url": "https://www.youtube.com/watch?v=dduQeaqmpnI",
+      "source_entry": "lenny-616-the-1b-al-company-training-chatgpt-2025",
+      "role": "counterexample",
+      "action": "new_source",
+      "workbench": "raw/lenny-616-the-1b-al-company-training-chatgpt-2025",
+      "proposed_destination": "sources/lenny-616-the-1b-al-company-training-chatgpt-2025.md",
+      "source_draft": "raw/lenny-616-the-1b-al-company-training-chatgpt-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "00745dfe69f3c12a901582e2ccd897599a014ecc2e9cd61e96be9e3d04b258bb"
+    },
+    {
+      "id": 636,
+      "title": "How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng)",
+      "url": "https://www.youtube.com/watch?v=C_lhMOjG7PE",
+      "source_entry": "lenny-636-how-shopify-builds-a-high-intensity-2024",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/lenny-636-how-shopify-builds-a-high-intensity-2024",
+      "proposed_destination": "sources/lenny-636-how-shopify-builds-a-high-intensity-2024.md",
+      "source_draft": "raw/lenny-636-how-shopify-builds-a-high-intensity-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "cc05aab41aa9194ae6b91031449f2cf64410ccd20ba376e58de4753aa11696a9"
+    },
+    {
+      "id": 652,
+      "title": "Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar",
+      "url": "https://www.youtube.com/watch?v=BsWxPI9UM4c",
+      "source_entry": "lenny-652-why-ai-evals-are-the-hottest-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-652-why-ai-evals-are-the-hottest-2025",
+      "proposed_destination": "sources/lenny-652-why-ai-evals-are-the-hottest-2025.md",
+      "source_draft": "raw/lenny-652-why-ai-evals-are-the-hottest-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "e247b2f9cb253334e0388333b6eda8905036541e122d79417eea3dae0547fcdb"
+    },
+    {
+      "id": 658,
+      "title": "How to build a team that can “take a punch” | Hilary Gridley (Head of Core Product, Whoop)",
+      "url": "https://www.youtube.com/watch?v=xm5QAzAlqEY",
+      "source_entry": "lenny-658-how-to-build-a-team-that-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-658-how-to-build-a-team-that-2025",
+      "proposed_destination": "sources/lenny-658-how-to-build-a-team-that-2025.md",
+      "source_draft": "raw/lenny-658-how-to-build-a-team-that-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "7e016938fbd1c3171316f0cc2f331168822d79398e6e950c830d606675e59e3c"
+    },
+    {
+      "id": 660,
+      "title": "What it takes to become a top 1% PM | Ian McAllister (Uber, Amazon, Airbnb)",
+      "url": "https://www.youtube.com/watch?v=7gaPPrAd7nc",
+      "source_entry": "lenny-660-what-it-takes-to-become-a-2022",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/lenny-660-what-it-takes-to-become-a-2022",
+      "proposed_destination": "sources/lenny-660-what-it-takes-to-become-a-2022.md",
+      "source_draft": "raw/lenny-660-what-it-takes-to-become-a-2022/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "e44b7218b0d5c56a23b04f4973b2454c915c276f4efd793e227725ea17d88ea2"
+    },
+    {
+      "id": 663,
+      "title": "Becoming evidence-guided | Itamar Gilad (Gmail, YouTube, Microsoft)",
+      "url": "https://www.youtube.com/watch?v=aJWSn-tz3jQ",
+      "source_entry": "lenny-663-becoming-evidence-guided-itamar-gilad-2023",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-663-becoming-evidence-guided-itamar-gilad-2023",
+      "proposed_destination": "sources/lenny-663-becoming-evidence-guided-itamar-gilad-2023.md",
+      "source_draft": "raw/lenny-663-becoming-evidence-guided-itamar-gilad-2023/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "b0dd2aeb81ecd2d4d633a2b8248fd9d59e6a635a566e50cf1ea5772c610f7b03"
+    },
+    {
+      "id": 668,
+      "title": "Making time for what matters | Jake Knapp and John Zeratsky (Authors of Make Time, Character VC)",
+      "url": "https://www.youtube.com/watch?v=cuce7zvOFHY",
+      "source_entry": "lenny-668-making-time-for-what-matters-jake-2024",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-668-making-time-for-what-matters-jake-2024",
+      "proposed_destination": "sources/lenny-668-making-time-for-what-matters-jake-2024.md",
+      "source_draft": "raw/lenny-668-making-time-for-what-matters-jake-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "c09903b06524471e5981ac1dea7ec4352f4323687a7de3ea3cf8936335ae5362"
+    },
+    {
+      "id": 673,
+      "title": "Jason Fried challenges your thinking on fundraising, goals, growth, and more",
+      "url": "https://www.youtube.com/watch?v=dAnF0tk0di8",
+      "source_entry": "lenny-673-jason-fried-challenges-your-thinking-on-2023",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/lenny-673-jason-fried-challenges-your-thinking-on-2023",
+      "proposed_destination": "sources/lenny-673-jason-fried-challenges-your-thinking-on-2023.md",
+      "source_draft": "raw/lenny-673-jason-fried-challenges-your-thinking-on-2023/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "6e7a5acfb8fd0fc9165a1b0aa95f43cd13d66381d09b6c38925879baec73c38f"
+    },
+    {
+      "id": 677,
+      "title": "Building product at Stripe: craft, metrics, and customer obsession | Jeff Weinstein (Product lead)",
+      "url": "https://www.youtube.com/watch?v=qbZQjprTnrU",
+      "source_entry": "lenny-677-building-product-at-stripe-craft-metrics-2024",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/lenny-677-building-product-at-stripe-craft-metrics-2024",
+      "proposed_destination": "sources/lenny-677-building-product-at-stripe-craft-metrics-2024.md",
+      "source_draft": "raw/lenny-677-building-product-at-stripe-craft-metrics-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "6a639f73a967ed9e9f3925d7836e9020d510e3acfecb6fd7c276261f7a847247"
+    },
+    {
+      "id": 684,
+      "title": "How to see like a designer: The hidden power of typography and logos | Jessica Hische",
+      "url": "https://www.youtube.com/watch?v=tLLqE6Ia8-U",
+      "source_entry": "lenny-684-how-to-see-like-a-designer-2024",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-684-how-to-see-like-a-designer-2024",
+      "proposed_destination": "sources/lenny-684-how-to-see-like-a-designer-2024.md",
+      "source_draft": "raw/lenny-684-how-to-see-like-a-designer-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "7ed372d595a4824fb3520d13360440346b711bbecd813e463b993f2c30ee8cb9"
+    },
+    {
+      "id": 698,
+      "title": "From managing people to managing AI: The leadership skills everyone needs now | Julie Zhuo",
+      "url": "https://www.youtube.com/watch?v=c_w0LaFahxk",
+      "source_entry": "lenny-698-from-managing-people-to-managing-ai-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-698-from-managing-people-to-managing-ai-2025",
+      "proposed_destination": "sources/lenny-698-from-managing-people-to-managing-ai-2025.md",
+      "source_draft": "raw/lenny-698-from-managing-people-to-managing-ai-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "eebfa495f63e1b7e9ae8b3e0be1612df31334ef4c271bb45404ed4bba980d2fb"
+    },
+    {
+      "id": 702,
+      "title": "Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)",
+      "url": "https://www.youtube.com/watch?v=gfEEcssu304",
+      "source_entry": "lenny-702-building-beautiful-products-with-stripe-s-2023",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-702-building-beautiful-products-with-stripe-s-2023",
+      "proposed_destination": "sources/lenny-702-building-beautiful-products-with-stripe-s-2023.md",
+      "source_draft": "raw/lenny-702-building-beautiful-products-with-stripe-s-2023/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "f5dd3c21c9218b1b4b7ea074066ac0ed83bea1edeb1c93968ceb47458e75704b"
+    },
+    {
+      "id": 705,
+      "title": "Leading with empathy | Keith Yandell (DoorDash, Uber)",
+      "url": "https://www.youtube.com/watch?v=tlCK9TuALtk",
+      "source_entry": "lenny-705-leading-with-empathy-keith-yandell-2023",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-705-leading-with-empathy-keith-yandell-2023",
+      "proposed_destination": "sources/lenny-705-leading-with-empathy-keith-yandell-2023.md",
+      "source_draft": "raw/lenny-705-leading-with-empathy-keith-yandell-2023/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "17730c4040c9c07360a391f8bfc4f932602ec11d8659fe42a342e561b7c773dd"
+    },
+    {
+      "id": 710,
+      "title": "Unorthodox PM tips: Automating user insights, unselling candidates, decision logs, more | Kevin Yien",
+      "url": "https://www.youtube.com/watch?v=xOTO98MXG9o",
+      "source_entry": "lenny-710-unorthodox-pm-tips-automating-user-insights-2024",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-710-unorthodox-pm-tips-automating-user-insights-2024",
+      "proposed_destination": "sources/lenny-710-unorthodox-pm-tips-automating-user-insights-2024.md",
+      "source_draft": "raw/lenny-710-unorthodox-pm-tips-automating-user-insights-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "87c4098534c5d759b1fa61eb69e7bf411436a83c38e7c1cdb233fa96fce750f6"
+    },
+    {
+      "id": 714,
+      "title": "Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more",
+      "url": "https://www.youtube.com/watch?v=EgBOVDzUUAA",
+      "source_entry": "lenny-714-kunal-shah-on-winning-in-india-2024",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/lenny-714-kunal-shah-on-winning-in-india-2024",
+      "proposed_destination": "sources/lenny-714-kunal-shah-on-winning-in-india-2024.md",
+      "source_draft": "raw/lenny-714-kunal-shah-on-winning-in-india-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "0651a1452d21379e6829d96721c0b5e96d71990fc6b1b70ccec18a095b30f936"
+    },
+    {
+      "id": 725,
+      "title": "Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)",
+      "url": "https://www.youtube.com/watch?v=4LjddcccYIo",
+      "source_entry": "lenny-725-mastering-product-strategy-and-growing-as-2023",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-725-mastering-product-strategy-and-growing-as-2023",
+      "proposed_destination": "sources/lenny-725-mastering-product-strategy-and-growing-as-2023.md",
+      "source_draft": "raw/lenny-725-mastering-product-strategy-and-growing-as-2023/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "3fe32f1fa236d1af8a9ede137f59cc541939d65954609465b427f750a70c850b"
+    },
+    {
+      "id": 729,
+      "title": "Product management theater | Marty Cagan (Silicon Valley Product Group)",
+      "url": "https://www.youtube.com/watch?v=9N4ZgNaWvI0",
+      "source_entry": "lenny-729-product-management-theater-marty-cagan-2024",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/lenny-729-product-management-theater-marty-cagan-2024",
+      "proposed_destination": "sources/lenny-729-product-management-theater-marty-cagan-2024.md",
+      "source_draft": "raw/lenny-729-product-management-theater-marty-cagan-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "293c19043d095219ba1eae54cef87babef807209361a854e12b30e4b4956e3fa"
+    },
+    {
+      "id": 731,
+      "title": "How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)",
+      "url": "https://www.youtube.com/watch?v=LpbBzmXrzEY",
+      "source_entry": "lenny-731-how-to-speak-more-confidently-and-2024",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-731-how-to-speak-more-confidently-and-2024",
+      "proposed_destination": "sources/lenny-731-how-to-speak-more-confidently-and-2024.md",
+      "source_draft": "raw/lenny-731-how-to-speak-more-confidently-and-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "4c80aab54dae7c72268211c0e9531aac441e6841d98668bf059284abb1f1edaa"
+    },
+    {
+      "id": 737,
+      "title": "How to tell better stories | Matthew Dicks (Storyworthy)",
+      "url": "https://www.youtube.com/watch?v=J4wguyJZI6A",
+      "source_entry": "lenny-737-how-to-tell-better-stories-matthew-2023",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-737-how-to-tell-better-stories-matthew-2023",
+      "proposed_destination": "sources/lenny-737-how-to-tell-better-stories-matthew-2023.md",
+      "source_draft": "raw/lenny-737-how-to-tell-better-stories-matthew-2023/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "2df8dcf08a51c1db36b2ab9bd03beaeff7b9fa546614265a5a7fddff2be3e52f"
+    },
+    {
+      "id": 739,
+      "title": "Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat (CPO at N26)",
+      "url": "https://www.youtube.com/watch?v=UVyfuSBwbNA",
+      "source_entry": "lenny-739-unconventional-product-lessons-from-binance-n26-2025",
+      "role": "counterexample",
+      "action": "new_source",
+      "workbench": "raw/lenny-739-unconventional-product-lessons-from-binance-n26-2025",
+      "proposed_destination": "sources/lenny-739-unconventional-product-lessons-from-binance-n26-2025.md",
+      "source_draft": "raw/lenny-739-unconventional-product-lessons-from-binance-n26-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "a135082b1b1407fd52ebb29d8994c010896726c4f19a2dcc490942049f939ab2"
+    },
+    {
+      "id": 741,
+      "title": "She turned 100+ rejections into a $42B company | Melanie Perkins",
+      "url": "https://www.youtube.com/watch?v=-LywX3T5Scc",
+      "source_entry": "lenny-741-she-turned-100-rejections-into-a-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-741-she-turned-100-rejections-into-a-2025",
+      "proposed_destination": "sources/lenny-741-she-turned-100-rejections-into-a-2025.md",
+      "source_draft": "raw/lenny-741-she-turned-100-rejections-into-a-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "13a9e575fa37dfbf1e576d73af441488d6a5302330af0c76a2cd6fb3bee92c1e"
+    },
+    {
+      "id": 750,
+      "title": "Anthropic's CPO on what comes next | Mike Krieger (co-founder of Instagram)",
+      "url": "https://www.youtube.com/watch?v=DKrBGOFs0GY",
+      "source_entry": "lenny-750-anthropic-s-cpo-on-what-comes-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-750-anthropic-s-cpo-on-what-comes-2025",
+      "proposed_destination": "sources/lenny-750-anthropic-s-cpo-on-what-comes-2025.md",
+      "source_draft": "raw/lenny-750-anthropic-s-cpo-on-what-comes-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "42e010e9d359a3efcdacbfaedcef7d2a28314ccbb7339f10fcb422ffac0892b7"
+    },
+    {
+      "id": 755,
+      "title": "Storytelling with Nancy Duarte: How to craft compelling presentations and tell a story that sticks",
+      "url": "https://www.youtube.com/watch?v=-kHkWgjGD7U",
+      "source_entry": "lenny-755-storytelling-with-nancy-duarte-how-to-2023",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-755-storytelling-with-nancy-duarte-how-to-2023",
+      "proposed_destination": "sources/lenny-755-storytelling-with-nancy-duarte-how-to-2023.md",
+      "source_draft": "raw/lenny-755-storytelling-with-nancy-duarte-how-to-2023/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "8d4d9d5876e5ac3702c64a5e25507e76afeabaffea75ebe9f4bf49fa9c306205"
+    },
+    {
+      "id": 760,
+      "title": "How to measure AI developer productivity in 2025 | Nicole Forsgren",
+      "url": "https://www.youtube.com/watch?v=SWcDfPVTizQ",
+      "source_entry": "lenny-760-how-to-measure-ai-developer-productivity-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-760-how-to-measure-ai-developer-productivity-2025",
+      "proposed_destination": "sources/lenny-760-how-to-measure-ai-developer-productivity-2025.md",
+      "source_draft": "raw/lenny-760-how-to-measure-ai-developer-productivity-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "2339d0ffe5e9e6fd029bf3efc8fd99a20fc5a6fe9d2ac2c601a837f5100a6f10"
+    },
+    {
+      "id": 801,
+      "title": "Seth Godin's best tactics for building remarkable products, strategies, brands and more",
+      "url": "https://www.youtube.com/watch?v=UyWTDmDjNy4",
+      "source_entry": "lenny-801-seth-godin-s-best-tactics-for-2024",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/lenny-801-seth-godin-s-best-tactics-for-2024",
+      "proposed_destination": "sources/lenny-801-seth-godin-s-best-tactics-for-2024.md",
+      "source_draft": "raw/lenny-801-seth-godin-s-best-tactics-for-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "6d1184a0c7ff1c4a1455499b5448ce9e595eaf7505d04ad88503bac0580880bc"
+    },
+    {
+      "id": 802,
+      "title": "Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)",
+      "url": "https://www.youtube.com/watch?v=yVS1gTAQYSU",
+      "source_entry": "lenny-802-why-great-ai-products-are-all-2024",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-802-why-great-ai-products-are-all-2024",
+      "proposed_destination": "sources/lenny-802-why-great-ai-products-are-all-2024.md",
+      "source_draft": "raw/lenny-802-why-great-ai-products-are-all-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "6f8e46b881cd457389fb2db2f639f957b8d9f16a19edcb3a60dd188d4c1c567f"
+    },
+    {
+      "id": 803,
+      "title": "The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft",
+      "url": "https://www.youtube.com/watch?v=7uSuMIJhONA",
+      "source_entry": "lenny-803-the-rituals-of-great-teams-shishir-2022",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-803-the-rituals-of-great-teams-shishir-2022",
+      "proposed_destination": "sources/lenny-803-the-rituals-of-great-teams-shishir-2022.md",
+      "source_draft": "raw/lenny-803-the-rituals-of-great-teams-shishir-2022/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "c5a00c80cc65e2b5624439980d6037220c49c56ed38c50e6130577dfaedaab81"
+    },
+    {
+      "id": 804,
+      "title": "The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)",
+      "url": "https://www.youtube.com/watch?v=YP_QghPLG-8",
+      "source_entry": "lenny-804-the-art-of-product-management-shreyas-2022",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-804-the-art-of-product-management-shreyas-2022",
+      "proposed_destination": "sources/lenny-804-the-art-of-product-management-shreyas-2022.md",
+      "source_draft": "raw/lenny-804-the-art-of-product-management-shreyas-2022/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "0914d0875b421d06dd6c35758863971970459dbbcb811f2498a7c14cda918817"
+    },
+    {
+      "id": 811,
+      "title": "Hard-won lessons building 0 to 1 inside Atlassian | Tanguy Crusson (Head of Jira Product Discovery)",
+      "url": "https://www.youtube.com/watch?v=cZqpqb5qR5A",
+      "source_entry": "lenny-811-hard-won-lessons-building-0-to-2024",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-811-hard-won-lessons-building-0-to-2024",
+      "proposed_destination": "sources/lenny-811-hard-won-lessons-building-0-to-2024.md",
+      "source_draft": "raw/lenny-811-hard-won-lessons-building-0-to-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "20f1110dc4b921e11ad8b35878a7fa7e035091b6905203d2784250e8086909fb"
+    },
+    {
+      "id": 819,
+      "title": "Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn CPO)",
+      "url": "https://www.youtube.com/watch?v=R-zCfLQD_84",
+      "source_entry": "lenny-819-why-ai-is-disrupting-traditional-product-2025",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-819-why-ai-is-disrupting-traditional-product-2025",
+      "proposed_destination": "sources/lenny-819-why-ai-is-disrupting-traditional-product-2025.md",
+      "source_draft": "raw/lenny-819-why-ai-is-disrupting-traditional-product-2025/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "73366ce438d789353523d38b6bb3909e368f793a03070f71d46033871bcb96c9"
+    },
+    {
+      "id": 821,
+      "title": "Why most public speaking advice is wrong—and how to finally overcome anxiety | Tristan de Montebello",
+      "url": "https://www.youtube.com/watch?v=BQM3Yq93nVc",
+      "source_entry": "lenny-821-why-most-public-speaking-advice-is-2024",
+      "role": "origin",
+      "action": "new_source",
+      "workbench": "raw/lenny-821-why-most-public-speaking-advice-is-2024",
+      "proposed_destination": "sources/lenny-821-why-most-public-speaking-advice-is-2024.md",
+      "source_draft": "raw/lenny-821-why-most-public-speaking-advice-is-2024/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "b9b5416b7ac2d4711ae6ce58254984a3acaf225219e490939e5df35f25408f27"
+    },
+    {
+      "id": 879,
+      "title": "Slow AI (book)",
+      "url": "",
+      "source_entry": "illingworth-slow-ai-2026",
+      "role": "support",
+      "action": "new_source",
+      "workbench": "raw/illingworth-slow-ai-2026",
+      "proposed_destination": "sources/illingworth-slow-ai-2026.md",
+      "source_draft": "raw/illingworth-slow-ai-2026/drafts/source.md",
+      "integration_decision": "pending",
+      "draft_sha256": "7c4b336fdbbe4f6f1a0e8c3e36a8504cd91d5e306a7573098d3e024740d2d849"
+    },
+    {
+      "id": 880,
+      "title": "The Borrowed Mind (book)",
+      "url": "",
+      "source_entry": "nosta-borrowed-mind-2026",
+      "role": "origin",
+      "action": "reuse_existing",
+      "workbench": "raw/nosta-borrowed-mind-2026",
+      "proposed_destination": "sources/nosta-borrowed-mind-2026.md",
+      "source_draft": null,
+      "integration_decision": "pending",
+      "existing_sha256": "7ef1ec65a835c8fd85234fe112e3f71b158e97bcb107a71e144090b7c8947853"
+    }
+  ],
+  "excluded_from_this_batch": "All sources without a dependency listed here remain archived, not rejected. The 92 screened variants are outside this close-review batch.",
+  "stage5_requirements": [
+    "Record per-source and per-practice Decision before writing canonical entries.",
+    "Apply the reviewed Mollick source correction before the two held cards are eligible.",
+    "Recheck file hashes against this manifest if any draft changes.",
+    "Write exact source_entries from this manifest; do not guess among same-author/year articles.",
+    "Resolve local Markdown links against the draft location and rebase to each canonical destination.",
+    "Remove draft-only labels from approved copies; retain drafts and revision history.",
+    "Run link validation, source-link sync, index/count generation and bundle checks after integration."
+  ]
+}

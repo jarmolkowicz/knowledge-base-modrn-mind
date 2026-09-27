@@ -1,0 +1,29 @@
+{
+  "queue_position": 254,
+  "id": 642,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/gergely/transcript.md",
+  "sha256": "eac725d22419748ec20b0f15f8f5027adc34451e15bf78f0a2939a3d83be6b6b",
+  "title": "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 180,
+      "text": "Gergely Orosz (00:28:58):"
+    },
+    {
+      "line": 181,
+      "text": "I write every post over multiple weeks, most of them. Some of them I might be able to write faster, but what I now have is, nowadays I actually write two articles. So I have the Thursday that is the scoop, which actually is a lot easier for me to write, interestingly enough. And my cadence is, on Monday I finish up the last of the post that goes out on Tuesday. It's just small edits, but it's already done pretty much, so it's just a few small tweaks, and maybe I have some feedback coming in. On Tuesday, I publish this post, and I do some free writing. I write about some other ideas that I have that's going to be future posts. On Wednesday, it's my free day in between, where I... It's interesting, because what I feel is, when I don't have pressure, I tend to not do much stuff, which might just... My mind's saying, \"You just need to chill.\" Maybe that's it."
+    },
+    {
+      "line": 219,
+      "text": "Gergely Orosz (00:35:49):"
+    },
+    {
+      "line": 220,
+      "text": "So a problem that I have, and this might be unique to newsletters, I'm not sure. I use Twitter for a lot of research. And unfortunately what that means is when I start to write something, it can really pull my attention, because I have Twitter open and then I get a message from someone. It's a little bit like Slack, but I'd argue it can be worse, because also Twitter for me is also something that is very useful in generating people [inaudible 00:36:16] raising awareness. So whenever I tweet, it helps my business. So that's a good thing. But it also justifies for me spending more time on, for example, Twitter than I would want to. So I find that I come up with a method, and it works for a few months, and then I need to change it because my brain just learns to work around it. So I'll tell you a few things that I did, and I'll tell you where I'm at right now, but I use for example apps. I use this app Centered, but I know you're also there."
+    }
+  ]
+}

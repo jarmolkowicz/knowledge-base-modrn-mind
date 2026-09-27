@@ -1,0 +1,29 @@
+{
+  "id": 388,
+  "title": "“$3970 in one day” | “$28.5k in the past week”",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/how-to-join-women-build-ai-communnity.md",
+  "sha256": "4b44f59c923bf26e04cc01f0a2c2317b268301f7b62b581d69f4313e55ed60b4",
+  "access": "public-page",
+  "kind": "article",
+  "words": 425,
+  "headings": [
+    "Real Wins, Real Women Building & Earning with AI:",
+    "21+ Trainings Every Month (100% Free)",
+    "How to Join “Women Build AI”",
+    "Not Sure Where To Start? 👇"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 17,
+      "offset": 459,
+      "text": "I run the BEST free AI community in the world."
+    },
+    {
+      "line": 19,
+      "offset": 507,
+      "text": "Thousands of women, building & earning in AI."
+    }
+  ]
+}

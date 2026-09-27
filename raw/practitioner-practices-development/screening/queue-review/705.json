@@ -1,0 +1,25 @@
+{
+  "queue_position": 301,
+  "id": 705,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/keith-yandell/transcript.md",
+  "sha256": "f486a5cf8d5a97e9aaefb3186535ad3f843697efb809630913c4747055cbb52d",
+  "title": "Leading with empathy | Keith Yandell (DoorDash, Uber)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 36,
+      "text": "## Transcript"
+    },
+    {
+      "line": 222,
+      "text": "And so it's hard when you get the GMs for all these businesses together, and they have very strong perspectives and good reasons on both sides about why path A is better profitability, path B is better for growth. And they're arguing very strenuously, in part because they want to hit their numbers, in part because they believe it. One thing I found super effective in those contexts is I try to ask the other side. So, let's take the profitability side. I ask them to make the growth case. I say, \"Tell me the three best reasons why we should actually focus on growth here.\" That generates instant empathy for the other side. And sometimes, they'll even persuade themselves as they're talking and say, \"I think you're right that we should focus on growth here. We can achieve this profitability measure later\" or vice versa. And so generating empathy and having empathy for the other side, understanding how they're goaled and what they're bringing to the conversation, I think is the first step to having those really tough conversations."
+    },
+    {
+      "line": 234,
+      "text": "This is great, so I just took a few notes. One is there's essentially the steel man component. Have them steel man the other side, argue why that's the better decision. Clarify a decision maker. Make it clear like, \"There's the tiebreaker. If we can't get there, this person's going to make the decision.\" And then create a time horizon of like, \"We need to make a decision by this time.\" Is there anything else, before we move on to a different question?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 289,
+  "title": "How to make AI battle for you.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/fight.md",
+  "sha256": "6c2b12c5e5cbc47b060972af56751d188f62e233e6e0098395f895b634e97868",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1300,
+  "headings": [
+    "Start with ChatGPT",
+    "Question ChatGPT with Claude",
+    "Head-to-Head battle",
+    "The framework to copy",
+    "Why LLMs lie?",
+    "I was having coffee with a friend last week.",
+    "In the past, we wired LLMs to…",
+    "But now we’re teaching them to say, “Maybe.”",
+    "One prompt to rule them all",
+    "So wait, why do LLMs “lie”?",
+    "**This is the annoying marketing part…**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 172,
+      "text": "You and I don’t know what’s best between ChatGPT & Claude."
+    },
+    {
+      "line": 140,
+      "offset": 6940,
+      "text": "**Step 1**: Ask ChatGPT o3(-pro) + Activate search toggle."
+    }
+  ]
+}

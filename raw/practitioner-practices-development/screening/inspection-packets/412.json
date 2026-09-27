@@ -1,0 +1,33 @@
+{
+  "id": 412,
+  "title": "My Six-Year-Old Told Me to Say No to AI",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-bans-schools-prohibition-evidence.md",
+  "sha256": "8e5691fd49b37bc216d84299a346a4948eefd5605132c8fb9f11f8adaf837ae7",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1755,
+  "headings": [
+    "**In this post I will:**",
+    "**What New York and Los Angeles decided**",
+    "**Why a school system would do this**",
+    "**The last two times we tried this**",
+    "**Who a ban lands on**",
+    "**The one restriction I support**",
+    "**Five things to do instead of AI prohibition**",
+    "**What I have not worked out**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 421,
+      "text": "My daughter is six. At dinner one evening I mentioned that I had spent"
+    },
+    {
+      "line": 119,
+      "offset": 10158,
+      "text": "**1. Ask the children, and write down what they say.** You do not need a working group. A parent can ask at dinner what their child thinks AI is for, and a teacher can spend ten minutes of one lesson asking a c"
+    }
+  ]
+}

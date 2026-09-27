@@ -1,0 +1,26 @@
+{
+  "id": 704,
+  "title": "An inside look at X’s Community Notes | Keith Coleman & Jay Baxter",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/keith-coleman-jay-baxter/transcript.md",
+  "sha256": "483440b10ffbf7012165c00b837745bc4d872f401faa40f7e30d87ab38311459",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 19615,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 37,
+      "offset": 807,
+      "text": "The work that you guys do has had such a treme"
+    },
+    {
+      "line": 814,
+      "offset": 102745,
+      "text": "Yeah, so one cool thing about having public data and code is that external researchers can collaborate with you, and in this case Supernotes"
+    }
+  ]
+}

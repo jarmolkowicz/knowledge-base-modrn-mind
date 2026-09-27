@@ -1,0 +1,33 @@
+{
+  "id": 435,
+  "group_index": 14,
+  "decision": "draft_with_limits",
+  "coverage": "Read the complete available local article body; linked images, videos and external claims not independently inspected.",
+  "locators": [
+    "L30–44, L54–66, L82–86"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Worked student-description example; author identifies omitted mature and part-time students."
+  ],
+  "proposed_outcomes": [
+    "Broaden represented perspectives."
+  ],
+  "limits": [
+    "An omission can follow the prompt or length constraint; no measured fairness improvement. Demographic numbers not independently verified."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/illingworth-435-when-ai-sounds-neutral-is-it-2025/drafts/practices/check-missing-perspectives.md"
+  ],
+  "role": "origin",
+  "review_note": "Ask whose situation a neutral-sounding answer omits; check a real source or person before revising it.",
+  "author": "Sam Illingworth",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/check-missing-perspectives.md"
+  ],
+  "historical_drafts_retained": true
+}

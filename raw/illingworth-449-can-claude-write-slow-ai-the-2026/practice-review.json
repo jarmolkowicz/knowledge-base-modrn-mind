@@ -1,0 +1,39 @@
+{
+  "id": 449,
+  "group_index": 3,
+  "decision": "counterexample",
+  "role": "counterexample",
+  "locators": [
+    "L23–39, poll and correction",
+    "L95–111, attrition interpretation",
+    "L115–164, four literary tests"
+  ],
+  "basis": "Sam Illingworth’s informal reader poll and a framework drawn from comments by Pawel Jozefiak, leroy heszler, Stephen Hall and Mia Kiraki.",
+  "reported_outcomes": [
+    "Reports roughly 57% voting accuracy and a factual copying error; poll participation declines across excerpts."
+  ],
+  "proposed_outcomes": [
+    "Promotes evaluation of text rather than AI-authorship detection."
+  ],
+  "limits": [
+    "No linked participant-level evidence shows attrition caused by attention decay. Omissions, felt necessity and moral risk cannot detect absence of thought. Clear comprehensive text can reflect substantial thinking."
+  ],
+  "related_entries": [
+    "think-first"
+  ],
+  "review_note": "Downgrade from a candidate reading practice to critique support. Do not publish the four tests as a diagnostic of thought or human authorship.",
+  "practitioner": "The author’s useful shift toward evaluation does not validate his particular criteria. Ground criticism in purpose, claims and evidence instead.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [
+    "raw/illingworth-459-how-can-writers-use-ai-ethically-2025/drafts/practices/request-criticism-without-rewriting.md"
+  ],
+  "source_path": "raw/illingworth-449-can-claude-write-slow-ai-the-2026/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/request-criticism-without-rewriting.md"
+  ],
+  "historical_drafts_retained": true
+}

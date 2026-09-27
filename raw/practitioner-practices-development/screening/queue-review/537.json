@@ -1,0 +1,45 @@
+{
+  "queue_position": 186,
+  "id": 537,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/aishwarya-naresh-reganti-kiriti-badam/transcript.md",
+  "sha256": "84c11f4e4cf815371b86a7451068ac7860266e031d3043eb859d237dac2859c1",
+  "title": "Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L80 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 175,
+      "text": "(00:15:19):"
+    },
+    {
+      "line": 176,
+      "text": "So we recommend building step by step and then increasing it."
+    },
+    {
+      "line": 178,
+      "text": "Lenny Rachitsky (00:15:23):"
+    },
+    {
+      "line": 179,
+      "text": "Awesome. And you have a visual actually that we'll share of what this looks like. But just to kind of mirror back what you're describing, this idea of start with high control, low agency, the example you gave is the support agents just kind of giving suggestions, is not able to do anything, the user is in charge. And then as that becomes useful and you are confident it's doing the right sort of work, you give it a little more agency and you kind of pull back on the control the user has. And then if that's starting to go well, then you give it more agency and the user needs less control to control it. Awesome."
+    },
+    {
+      "line": 361,
+      "text": "(00:50:59):"
+    },
+    {
+      "line": 362,
+      "text": "And one example I think we give in the newsletter itself is the customer support. This is a nice image that kind of shows how you can think of agency and control as two dimensions. And each of your versions keep on increasing the agency or the ability of your AI system to make decisions and lower the control as you go. And one example that we give is that of the customer support agent, where you can break it down into three versions. The first version is just routing, which is your agent able to classify and route a particular ticket to the right department? And sometimes when you read this, you probably think, is it so hard to just do routing? Why can't an agent easily do that? And when you go to enterprises, routing itself can be a super complex problem. Any retail company, any popular retail company that you can think of has hierarchical taxonomies."
+    },
+    {
+      "line": 628,
+      "text": "Aishwarya Naresh Reganti (01:25:53):"
+    },
+    {
+      "line": 629,
+      "text": "Thank you, Lenny. This was so much fun."
+    }
+  ]
+}

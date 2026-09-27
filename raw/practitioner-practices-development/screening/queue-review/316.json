@@ -1,0 +1,71 @@
+{
+  "queue_position": 72,
+  "id": 316,
+  "path": "raw/inbox/Practical/Ruben Hassid/master.md",
+  "sha256": "34ac4965bc1413450f8ff609133619b5512dd018d8d9cfe56bdefe690ba701c2",
+  "title": "Anything.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L40 ### **Table of contents**",
+    "L52 ## 1. How to find the gem through the noise.",
+    "L58 ### The wrong way…",
+    "L66 ### The right way…",
+    "L86 ## 2. How I feed it to AI.",
+    "L150 ## 3. The exact steps to make one.",
+    "L182 ## 4. Say “Hi!” to your mentor."
+  ],
+  "passages": [
+    {
+      "line": 34,
+      "text": "**☑ 2** - ~~Consume~~ **~~80%~~** ~~of his/her knowledge.~~ Feed it to another **AI** behaving as your advisor."
+    },
+    {
+      "line": 66,
+      "text": "### The right way…"
+    },
+    {
+      "line": 72,
+      "text": "Your algorithm - would it be Linkedin, YouTube, X - is as good as your scrolling sessions. The first step of joining my team is to 1) create a fresh social account 2) type “AI” 3) like and save as many **good** (= useful) posts as possible."
+    },
+    {
+      "line": 86,
+      "text": "## 2. How I feed it to AI."
+    },
+    {
+      "line": 88,
+      "text": "*This part is filled with best practices on how to search with AI. I made a Google doc explaining how I best search with AI, here it is again as a reminder: https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing*"
+    },
+    {
+      "line": 112,
+      "text": "Robert Greene is my favorite author on the matter. I bought all of his books, and simply found the PDF version of them to give it to the AI (on the left)."
+    },
+    {
+      "line": 124,
+      "text": "I asked: “**I am a content creator on Linkedin sharing how-to guides on AI. Give me the best strategy to approach and get a partnership with Google DeepMind.**”"
+    },
+    {
+      "line": 128,
+      "text": "Like it’s ok, but it will never go as deep as this blurp from my Power NotebookLM: “**Focus on unfulfilled needs**”."
+    },
+    {
+      "line": 140,
+      "text": "This process is infinite. I can pick up on any part of it, and ask (1) how to do it (2) what’s next once it’s done."
+    },
+    {
+      "line": 150,
+      "text": "## 3. The exact steps to make one."
+    },
+    {
+      "line": 167,
+      "text": "Andrew David Huberman is an American neuroscientist and podcaster. He is an associate professor of neurobiology and ophthalmology at the Stanford University School of Medicine. He has been the host of the popular health and science-focused podcast Huberman Lab since 2021."
+    },
+    {
+      "line": 170,
+      "text": "So I will copy the links of all the YouTube videos from his channel that has the tag “sleep”. By the way, these videos are often over 3 hours."
+    },
+    {
+      "line": 176,
+      "text": "I have now added 8 perfect sources around sleep, by Andrew Huberman and his guests. Time to ask anything!"
+    }
+  ]
+}

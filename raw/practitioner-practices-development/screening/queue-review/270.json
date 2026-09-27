@@ -1,0 +1,71 @@
+{
+  "queue_position": 52,
+  "id": 270,
+  "path": "raw/inbox/Practical/Ruben Hassid/business-plan.md",
+  "sha256": "5c7ac0ad5921ad8d3de1b9a498b7ea169dd738cdb11261caee3d6ce739a9eb64",
+  "title": "Business.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L10 ### **Table of contents**",
+    "L20 ## **1.** How to use the “Business Plan Maker” GPT.",
+    "L26 ### Click “Start”.",
+    "L38 ### Answer the questions.",
+    "L54 ### The first answer isn’t the truth.",
+    "L92 ## 2. How to challenge ChatGPT (to avoid bias).",
+    "L122 ## 3. My 2 cents on using ChatGPT to make decisions."
+  ],
+  "passages": [
+    {
+      "line": 20,
+      "text": "## **1.** How to use the “Business Plan Maker” GPT."
+    },
+    {
+      "line": 22,
+      "text": "Start by accessing the free GPT: <https://chatgpt.com/g/g-689c3e0de1708191a07e5ea1e8f5f511-business-plan-maker>."
+    },
+    {
+      "line": 54,
+      "text": "### The first answer isn’t the truth."
+    },
+    {
+      "line": 66,
+      "text": "But we haven’t talked about any of this before! It’s up to me to say “**Hey, can we review this?**” or “**Hey, can you search online for such services as such pricing?**”."
+    },
+    {
+      "line": 68,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!ODwO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a8064d6-97b6-424f-9447-48380a40703e_1808x1840.png)"
+    },
+    {
+      "line": 72,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!fo3J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff50dab82-b85e-4fa0-92fe-d5c16f660b13_1852x1846.png)"
+    },
+    {
+      "line": 76,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!5a7i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7832db1a-42a1-4b1e-8bca-a98207614a0b_1910x886.png)"
+    },
+    {
+      "line": 78,
+      "text": "I am now happy with this angle, I can move forward. So I underline with my mouse the sentence I like, and I prompt it further:"
+    },
+    {
+      "line": 80,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!ngUs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2d4c176-ae87-4464-97f3-22a2923746f3_1536x1446.png)"
+    },
+    {
+      "line": 84,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!WKuX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d6dbddb-270f-40c3-845e-dea186313ea6_1574x572.png)"
+    },
+    {
+      "line": 92,
+      "text": "## 2. How to challenge ChatGPT (to avoid bias)."
+    },
+    {
+      "line": 110,
+      "text": "> *You will now enact two separate experts (you must choose) that will have a drastically different view on the matter we just discussed.*"
+    },
+    {
+      "line": 116,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!1RYI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F190bb6fb-39ba-48ff-b3aa-74a75c6d7eb3_966x1930.png)"
+    }
+  ]
+}

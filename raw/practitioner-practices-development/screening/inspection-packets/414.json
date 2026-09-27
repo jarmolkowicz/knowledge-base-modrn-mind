@@ -1,0 +1,31 @@
+{
+  "id": 414,
+  "title": "AI Changes the Learner. But Do We Know How?",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-change-student-thinking.md",
+  "sha256": "96158ac32ddc1d2a43e30554132b8e0baea17964c66598e3e3efe037e261d19c",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2351,
+  "headings": [
+    "Sam: The debate has been aimed at the wrong target",
+    "Tina: the study cannot show what he says it shows",
+    "**Sam: I broke my own rule**",
+    "**Where the two frameworks meet**",
+    "**One thing to try in your classroom**",
+    "**What we still cannot answer**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 419,
+      "text": "Tina Austin is a UCLA researcher studying AI, metacognition, and how h"
+    },
+    {
+      "line": 66,
+      "offset": 4844,
+      "text": "“No AI first” is useful (and also foundational to my UnBlooms framework). Learners should question, encounter evidence, activate prior knowledge, and generate an initial position before AI enters the process. O"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "queue_position": 347,
+  "id": 769,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/oji-udezue/transcript.md",
+  "sha256": "366b26dc0ac91c8c24f1852710b6169440aa12134a269c43d8cd86a7c04e791d",
+  "title": "Picking sharp problems, increasing virality, and unique product frameworks | Oji Udezue (Typeform)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 300,
+      "text": "Oji Udezue (00:44:03):"
+    },
+    {
+      "line": 301,
+      "text": "I think this goes back to people, the Pendos and the Amplitudes of this world. You have to think through your aha journey. Like at Calendly and also at Typeform we have three thresholds of increasing activation. And we just try to make sure that people go through each one as many people as possible. And frankly, we try to figure the drop-off between the increasing definitions of activation. So at Calendly we want to make sure you've created your first meeting. But then if you've created five within a week, that's really much more powerful. At Typeform, it's really about have you published the form and have you gotten responses? And have you gone to look at what the responses mean in the insights page, for example."
+    },
+    {
+      "line": 366,
+      "text": "(00:52:30):"
+    },
+    {
+      "line": 367,
+      "text": "Well look, fundamentally build a great product that solves a sharp problem and build it really well. If you do this, this is the bedrock of virality. If you don't do this, there's no viral tactic that will work in a sustained way. It will fizzle. But if you do this, you can lay on synthetic virality strategies for referral, strategies for coming back into the app and creating an account. Remember before Calendly, there was Acuity scheduling, there was other things. The difference was Calendly was so well-made, so simple for schedulers, so respectful of schedulers' time, not just the creator's time that the virality worked. It did not work for others who sucked. Xted AI and other places, they weren't that good. You have to be good to be viral."
+    }
+  ]
+}

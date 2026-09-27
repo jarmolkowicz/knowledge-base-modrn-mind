@@ -1,0 +1,32 @@
+{
+  "slug": "illingworth-430-using-ai-for-meditation-2026",
+  "original_filename": "ai-meditation-reflective-prompt.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 1765,
+  "hash": "ba4685a2322d07a03b8201eab3e91c38d7f77c7a72b7904cbd0b4b57f027cf7e",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "critiqued",
+  "ingested_at": "2026-09-26T20:59:44Z",
+  "decisions": [
+    {
+      "stage": "practice-review",
+      "outcome": "defer",
+      "date": "2026-09-26",
+      "reason": "Defer a standalone card. Preserve the useful boundary that the person reports sensations and judges distraction; revisit with a clearer non-speculative protocol.",
+      "integration": "pending"
+    }
+  ],
+  "lines": 157,
+  "screening_id": 430,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/ai-meditation-reflective-prompt.md",
+  "bibliographic_metadata": {
+    "title": "Using AI for Meditation",
+    "date": "2026-01-06",
+    "url": "https://theslowai.substack.com/p/ai-meditation-reflective-prompt",
+    "collection": "Sam Illingworth"
+  },
+  "draft_only": true,
+  "integration_decision": "pending"
+}

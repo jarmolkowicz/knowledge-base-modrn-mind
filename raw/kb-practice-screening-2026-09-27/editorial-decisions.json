@@ -1,0 +1,188 @@
+{
+  "date": "2026-09-27",
+  "status": "Screening only; no extraction or integration decision",
+  "families": [
+    {
+      "id": "N01", "route": "candidate", "title": "Return later and retrieve before reopening the answer",
+      "entries": ["bjork-desirable-difficulties-2011", "desirable-difficulty"],
+      "locator": "Bjork: Key Insight and learning conditions; original-page pointers retained in the KB entry.",
+      "kernel": "[Inference] Revisit material after a delay, attempt recall or a problem without the assistant or notes, check against a reliable answer, and revisit errors later.",
+      "basis": "Research synthesis on retrieval and spacing, predating generative AI. The learning principles have research support; this combined AI-use routine is an adaptation.",
+      "overlap": ["check-a-capability-without-the-assistant", "ask-about-the-gap-then-do-the-task"],
+      "difference": "Adds a repeated, delayed learning schedule to existing immediate attempts and capability checks.",
+      "boundary": "Do not invent a universal interval, prescribe difficulty without prerequisites, or promise workplace transfer.",
+      "next": "Inspect original passages on spacing and retrieval; keep the source's conditions separate from the proposed AI-use sequence."
+    },
+    {
+      "id": "N02", "route": "candidate", "title": "Mix problem types and choose the approach yourself",
+      "entries": ["bjork-desirable-difficulties-2011", "desirable-difficulty"],
+      "locator": "Bjork: interleaving versus blocked practice.",
+      "kernel": "[Inference] Mix checked examples from related problem types; identify the required approach before solving; compare errors and receive feedback.",
+      "basis": "Research synthesis on interleaving. Application to AI-generated exercises needs adaptation and reliable checking.",
+      "overlap": ["rehearse-a-bounded-reasoning-case"],
+      "difference": "Trains discrimination between approaches across cases, rather than reasoning through one case.",
+      "boundary": "Interleaving is not random variety. Beginners may need instruction first. Neither generated cases nor answer keys are automatically reliable.",
+      "next": "Check the original examples and task boundaries; decide whether a distinct card or a named learning variant is clearer."
+    },
+    {
+      "id": "N03", "route": "candidate", "title": "Build tutoring around checked hints and learner attempts",
+      "entries": ["bastani-guardrails-math-rct-2025", "zone-of-proximal-development"],
+      "locator": "Bastani: GPT Tutor configuration, teacher-supplied material, practice and unaided exam results.",
+      "kernel": "Use an educator-configured tutor with checked solutions and common mistakes, constrain help toward hints, and assess later work without assistance. Exact configuration must be recovered from the original before drafting.",
+      "basis": "A directly studied package in high-school mathematics; the package combined several features. Its components were not isolated.",
+      "overlap": ["ask-about-the-gap-then-do-the-task", "explain-it-back-before-the-correction"],
+      "difference": "An educator's preparation and supervision procedure, not just a learner's request for an explanation.",
+      "boundary": "The Tutor condition had no detectable same-session exam difference from control. This is not proof of equivalence, durable learning gains, or that a 'hints only' prompt alone prevents harm.",
+      "next": "Recover the intervention materials and assessment timing; draft within that scope and mark any workplace adaptation."
+    },
+    {
+      "id": "N04", "route": "candidate", "title": "Verify a reference, then verify what it supports",
+      "entries": ["reference-verification", "topaz-fabricated-citations-2026"],
+      "locator": "Reference verification: numbered procedure; Topaz: citation-audit design and limits.",
+      "kernel": "Resolve identifiers; compare title, authors and publication metadata; search alternative records when unresolved; then open the source and check whether it supports the claim.",
+      "basis": "The method adapts a bibliographic audit. Reading for claim support is an explicitly editorial extension, not the audit's evaluated outcome.",
+      "overlap": ["check-correctness-and-completeness"],
+      "difference": "Checks source identity before checking an answer against it. The existing practice assumes usable reference material.",
+      "boundary": "An unresolved identifier does not establish fabrication. A real citation does not establish that the surrounding claim is true.",
+      "next": "Retain the audit's verification rules and uncertainty labels; separate metadata matching from substantive reading. Keep the method as the explanatory parent."
+    },
+    {
+      "id": "N05", "route": "candidate", "title": "Check the relationships and limits in an analogy",
+      "entries": ["gentner-markman-analogy-1997", "analogical-reasoning"],
+      "locator": "Gentner and Markman: structural consistency, relational focus and systematicity.",
+      "kernel": "[Inference] Map which roles and relationships correspond; distinguish surface resemblance from structure; list where the mapping fails; verify any new factual inference independently.",
+      "basis": "A theoretical synthesis of analogy and similarity. This AI-assisted checking sequence is an editorial adaptation.",
+      "overlap": ["build-the-opposing-case-yourself"],
+      "difference": "Examines the structure of one analogy, rather than asking for an opposing argument.",
+      "boundary": "A coherent analogy can still be false or irrelevant. The source does not test this checklist with language models.",
+      "next": "Check the original operations and examples; label the sequence as proposed and include an example with a broken mapping."
+    },
+    {
+      "id": "N06", "route": "candidate", "title": "Rehearse taking over when automation fails",
+      "entries": ["bainbridge-ironies-automation-1983", "partial-automation-principle", "passalacqua-less-ai-2024", "parasuraman-riley-automation-1997"],
+      "locator": "Bainbridge: manual skill, knowledge, process context, monitoring and training recommendations.",
+      "kernel": "[Inference] Choose a credible failure; rehearse detecting it and taking over in a suitable simulation; check whether the person has the information, skill, time and authority needed; change the design where takeover is unrealistic.",
+      "basis": "Historical human-factors synthesis with training recommendations. Later partial-automation research offers task-specific context, not validation of this combined routine.",
+      "overlap": ["check-a-capability-without-the-assistant", "turn-a-premortem-into-actions"],
+      "difference": "Checks actual recovery and operational readiness, rather than only unaided performance or anticipated risks.",
+      "boundary": "Simulator fidelity must fit the skill. Unknown failures cannot all be rehearsed. Neither less automation nor periodic manual work is universally better.",
+      "next": "Recover the original recommendations; distinguish rehearsal from system-design requirements and specify a safe setting."
+    },
+    {
+      "id": "N07", "route": "candidate", "title": "Review the human job left after automation",
+      "entries": ["ai-meaningful-work-design", "job-characteristics-model", "bankins-formosa-ai-meaningful-work-2023", "hackman-oldham-work-design-1976", "smids-robots-meaningful-work-2020", "meaningful-work", "basic-psychological-needs", "hermann-genai-psychology-work-2025"],
+      "locator": "AI meaningful work design: proposed review; job characteristics: skill variety, task identity, significance, autonomy and feedback.",
+      "kernel": "[Inference] Map the proposed human role after automation; discuss opportunities to use and develop skills, own a meaningful contribution, make decisions, receive feedback and work with others; redesign specific losses with affected workers.",
+      "basis": "Work-design theory, conceptual AI/robotics analysis and reviews. This combined participatory review is not a tested intervention.",
+      "overlap": ["keep-one-thinking-step", "name-consequences-before-delegating"],
+      "difference": "Reviews a whole job and its decision rights, beyond one person's choice about a task.",
+      "boundary": "Felt meaning, retained capability and formal authority are different outcomes. More manual work is not automatically more meaningful.",
+      "next": "Keep worker participation explicit; inspect source prescriptions; define the intellectual-agency scope before expanding into general employee wellbeing."
+    },
+    {
+      "id": "N08", "route": "candidate", "title": "Tailor support around a recent AI-assisted task",
+      "entries": ["ai-work-practice-ideal-types", "callari-meaningful-work-2025"],
+      "locator": "AI work practice ideal types: proposed conversation around concrete work; Callari: qualitative accounts.",
+      "kernel": "[Inference] Use a voluntary account of a recent task: what the person delegated, checked and retained; what changed in their contribution; agree one relevant support or work-design change and revisit it.",
+      "basis": "Qualitative research and a KB discussion adaptation, not an evaluated coaching protocol.",
+      "overlap": ["test-and-share-a-team-ai-workflow", "record-human-interventions"],
+      "difference": "Starts from one person's support needs and experience, rather than standardizing a workflow or logging interventions.",
+      "boundary": "Do not turn ideal types into a maturity score, diagnose employees, or treat greater AI adoption as the desired outcome.",
+      "next": "Inspect interview basis and author recommendations; keep the discussion voluntary and the agreed change observable."
+    },
+    {
+      "id": "N09", "route": "candidate", "title": "Show the uncertainty behind an AI-generated projection",
+      "entries": ["modulation-practice", "leonardi-artificial-certainty-2026", "artificial-certainty"],
+      "locator": "Leonardi: comparative ethnography and three representational practices; modulation method: proposed steps.",
+      "kernel": "[Inference] Present a projection with its assumptions and unresolved uncertainties; use it to compare possibilities; discuss how changes in assumptions affect the representation.",
+      "basis": "Observed practices in two urban-planning organizations, followed by a KB adaptation. Not a causal evaluation of this checklist.",
+      "overlap": ["match-confidence-to-evidence", "map-a-return-path"],
+      "difference": "Focuses on how a model or simulation is presented to stakeholders and interpreted collectively.",
+      "boundary": "The method's stronger claims about preventing bias or improving decisions need checking. Preserving expert authority is not itself proof of better judgment; less detail is not always better.",
+      "next": "Check original field episodes and narrow the existing method's causal language before deriving a card."
+    },
+    {
+      "id": "N10", "route": "candidate", "title": "Name questions your AI-supported method cannot answer",
+      "entries": ["messeri-crockett-illusions-understanding-2024", "ai-vision-taxonomy", "scientific-monoculture", "illusion-of-exploratory-breadth", "illusion-of-objectivity"],
+      "locator": "Messeri and Crockett: Argument Structure, Prescriptions and Open Questions; the KB itself labels the operational proposal as speculation.",
+      "kernel": "[Inference] Name the role of AI in the inquiry; list important questions, evidence and standpoints that the chosen method leaves out; retain a suitable independent method or collaborator where needed.",
+      "basis": "A conceptual Perspective. This operational sequence needs development; it is not a source-tested routine.",
+      "overlap": ["check-missing-perspectives", "develop-parallel-creative-routes"],
+      "difference": "Checks the boundaries of the research method and question space, not just diversity in generated answers.",
+      "boundary": "More prompts or models do not necessarily provide independent methods or people. Some nearby KB claims generalize mechanisms more strongly than the paper warrants.",
+      "next": "Separate the authors' prescriptions from the KB's proposed operationalization; test whether a distinct card adds enough beyond missing-perspective checks."
+    },
+    {
+      "id": "E01", "route": "enrich", "title": "Make rehearsal specific, repeated and checked",
+      "entries": ["ericsson-deliberate-practice-1993", "macnamara-maitra-deliberate-practice-replication-2019", "hatano-inagaki-adaptive-expertise-1986"],
+      "overlap": ["rehearse-a-bounded-reasoning-case"],
+      "action": "Consider targeted weaknesses, feedback and repeated correction as an explicitly adapted variant. Check the original first: the Ericsson note has categorical claims that exceed an observational basis. No universal practice dose, guarantee of expertise, or claim that ordinary work cannot teach."
+    },
+    {
+      "id": "E02", "route": "enrich", "title": "Compare self-assessment with checked outcomes",
+      "entries": ["he-illusion-competence-2023", "fernandes-metacognition-2025", "gilbert-intention-offloading-2023", "hu-metamemory-offloading-2019", "confidence-competence-gap", "metacognition", "calibration", "kahneman-klein-intuitive-expertise-2009", "nisbett-wilson-introspection-1977"],
+      "overlap": ["diagnose-your-draft-before-feedback", "keep-a-decision-and-outcome-log", "match-confidence-to-evidence"],
+      "action": "Add research context for recording an initial judgment and confidence, then comparing with independently checked feedback. He found different effects for overestimators and underestimators; lower confidence is not the universal goal. Do not convert a confidence meter into a calibrated probability."
+    },
+    {
+      "id": "E03", "route": "enrich", "title": "Test the workflow against the right baselines and failure cases",
+      "entries": ["vaccaro-human-ai-meta-analysis-2024", "augmentation-synergy-gap", "human-ai-complementarity", "complementarity-framework", "dellacqua-jagged-frontier-2023", "yu-radiologists-ai-2024", "ibrahim-warmth-sycophancy-2026", "marcoccia-willingness-dont-know-2026", "automation-bias", "goddard-automation-bias-2012"],
+      "overlap": ["test-ai-on-the-work-it-will-do", "inspect-real-errors-before-automating-evaluation", "check-correctness-and-completeness"],
+      "action": "Add a proposed human-alone, AI-alone and combined-workflow comparison where appropriate. Include wrong suggestions, unsupported agreement and abstention in relevant test cases. The meta-analysis motivates the comparison, not a proven recipe. Marcoccia already allowed abstention: adding an 'I don't know' option alone is not a tested remedy."
+    },
+    {
+      "id": "E04", "route": "enrich", "title": "Review where effort went across the whole task",
+      "entries": ["effort-investment-review", "memmert-effort-management-2025", "inzlicht-effort-paradox-2018", "effort-paradox", "effort-heuristic", "metacognitive-demand", "tankelevitch-metacognitive-demands-2023", "cognitive-offloading", "risko-gilbert-cognitive-offloading-2016"],
+      "overlap": ["record-human-interventions", "choose-the-result-before-the-tool"],
+      "action": "Extend the intervention log with a post-task review of framing, learning the tool, checking, rework and effort passed to colleagues; distinguish task savings from workload across the day. This is a qualitative-framework adaptation, not proof that equal effort preserves skills. Prefer a variant before another overlapping card."
+    },
+    {
+      "id": "E05", "route": "enrich", "title": "Check the recipient's rework after a handoff",
+      "entries": ["workslop-prevention", "workslop", "niederhoffer-workslop-2026"],
+      "overlap": ["test-and-share-a-team-ai-workflow", "record-human-interventions", "preview-and-approve-before-publishing"],
+      "action": "Add recipient requirements, unresolved claims and observed rework to workflow review. Survey associations do not show that trust training, an ownership mindset or increased AI use prevents workslop."
+    },
+    {
+      "id": "E06", "route": "enrich", "title": "Separate assisted work, learning and later unaided capability",
+      "entries": ["shen-skill-formation-2026", "fan-metacognitive-laziness-2025", "bauer-discontinuing-ml-2022", "bartos-ai-learning-meta-meta-2026", "stromberg-ai-learning-penalty-2026", "stadler-cognitive-ease-cost-2024", "kosmyna-cognitive-debt-2025", "capacity-erosion", "cognitive-debt", "cognitive-friction", "cognitive-grit", "metacognitive-laziness", "performance-paradox", "upskilling-deskilling-paradox", "novice-vulnerability", "think-first", "socratic-partnership", "green-yellow-red-monitoring", "six-pattern-diagnostic", "scan", "tsim-gutoreva-scan-2025"],
+      "overlap": ["keep-one-thinking-step", "ask-about-the-gap-then-do-the-task", "check-a-capability-without-the-assistant", "explain-it-back-before-the-correction", "save-your-own-starting-point"],
+      "action": "Add source-specific outcome limits and positive, null and negative findings to existing learning routines. Do not turn every harm finding into another 'think first' card. Self-reported engagement and attractive output are not tests of independent learning; short-term results are not lasting skill change. Framework labels and warning signs are not diagnoses."
+    },
+    {
+      "id": "E07", "route": "enrich", "title": "Check meaningful control, not just final approval",
+      "entries": ["autonomy-preserving-ai-design", "buijsman-autonomy-design-2025", "agency", "moral-crumple-zone", "hohenstein-crumple-zone-2020", "situational-disempowerment", "sharma-disempowerment-patterns-2026", "belief-offloading", "guingrich-belief-offloading-2026", "conversational-steering", "werner-conversational-ai-steering-2024", "luettgau-ai-advice-wellbeing-2026", "jowsey-reflexive-qualitative-research-2025"],
+      "overlap": ["name-consequences-before-delegating", "expand-agent-authority-one-tested-step-at-a-time", "save-your-own-starting-point", "preserve-an-ai-claim-before-challenging-it"],
+      "action": "Use the research to sharpen limits: a final click, disclosure or subjective sense of control does not establish informed agency. Specify information, competence, decision rights and method commitments. Do not claim the existing routines were tested by these sources."
+    },
+    {
+      "id": "E08", "route": "enrich", "title": "Distinguish creative generation, selection and implementation",
+      "entries": ["creativity-diversity-paradox", "anderson-homogenization-2024", "doshi-hauser-creativity-diversity-2024", "mascanero-proximal-collaboration-2026", "runco-jaeger-creativity-2012", "strategic-alternation", "anchoring-bias"],
+      "overlap": ["develop-parallel-creative-routes", "set-creative-criteria-before-generating", "choose-from-an-ai-generated-creative-pool", "save-your-own-starting-point"],
+      "action": "Add outcome distinctions and cautions on diversity and downstream selection. Check the Mascareño original before carrying forward the KB's claim of a demonstrated cross-stage reversal: its described experiment concerns selection and implementation. Do not infer that a think-first routine causally solves anchoring from a risk description."
+    },
+    {
+      "id": "H01", "route": "hold", "title": "Resolve unsupported source claims before reusing delegation advice",
+      "entries": ["mollick-management-ai-superpower-2026", "execution-commoditization", "jagged-frontier"],
+      "overlap": [],
+      "action": "Carry forward the existing source-correction hold. Do not resurrect the two held delegation drafts or reuse claimed experimental comparisons and derived formulas until the original supports them. The concepts can still supply unrelated background."
+    },
+    {
+      "id": "H02", "route": "hold", "title": "Preserve evidence through an agent handoff",
+      "entries": ["liu-agentic-ai-organizational-behavior-2026", "contextual-transaction-cost"],
+      "overlap": ["curate-context-and-clarify-before-drafting", "keep-a-document-and-question-tracker"],
+      "action": "Potential design hypothesis: preserve sources, assumptions, unresolved questions and acceptance criteria between agents. Not yet a source-derived practice. The main model uses synthetic tasks; its small real-agent demonstration does not establish broad coordination gains. Check whether existing context routines already cover it before development."
+    },
+    {
+      "id": "H03", "route": "hold", "title": "Decide whether general wellbeing and meaning practices belong here",
+      "entries": ["acts-of-kindness-practice", "cregg-healing-helping-2023", "identity-threat-coping", "professional-identity-threat", "bailey-madden-meaningful-meaningless-2016", "bailey-madden-time-reclaimed-2017", "martikainen-meaningfulness-moments-2022", "meaning-facets"],
+      "overlap": [],
+      "action": "The kindness study contains an actual non-AI intervention; identity and meaning entries offer other possible routines. Their fit with thinking, judgment, creativity and intellectual agency is less direct. Retain as peripheral leads, not rejected evidence. Do not force them into current outcome labels or silently broaden the KB's practical mission."
+    },
+    {
+      "id": "H04", "route": "hold", "title": "Keep broad educational and thinking frameworks as frameworks",
+      "entries": ["rajaram-tsim-flipped-classroom-2026", "reflective-inquiry-design", "singh-protecting-cognition-2025", "mira-model", "system-0-thinking", "chiriatti-system-0-thinking-2024", "tri-system-theory", "judgment", "judgment-development-paradox", "minimum-cognitive-integrity"],
+      "overlap": ["keep-one-thinking-step", "explain-it-back-before-the-correction"],
+      "action": "Do not mechanically convert every framework into steps. Recover an identifiable author procedure first, or label a new sequence as editorial development. Rajaram and Tsim explicitly report no empirical test; logs are not direct access to understanding. Some judgment attributions remain unverified in the KB."
+    }
+  ]
+}

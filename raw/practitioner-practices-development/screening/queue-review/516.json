@@ -1,0 +1,60 @@
+{
+  "queue_position": 170,
+  "id": 516,
+  "path": "raw/inbox/Practical/Sam Illingworth/what-claude-cannot-read-in-a-poem.md",
+  "sha256": "696dbe56f9d3b9bae4b1602f0aec3f65ebf0fb508e3db279a1ebf3f894ec8a6d",
+  "title": "What Claude Cannot Read in a Poem",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L21 ### **In this post I will:**",
+    "L33 ### **How I tested whether AI can read poetry**",
+    "L49 ### **Why there is no correct interpretation of a poem**",
+    "L61 ### **The 10 poems I gave to Claude**",
+    "L69 ### **What AI gets right about poetry**",
+    "L79 ### **What AI misses when it reads a poem**",
+    "L83 #### **1. AI does not read poems. It reproduces how poems have been read**",
+    "L93 #### **2. AI analyses what a poem says, not what it assumes**",
+    "L99 #### **3. AI describes empathy without recognising what empathy is for**",
+    "L107 #### **4. AI treats poets of colour differently, and the pattern is worth examining**",
+    "L115 #### **5. AI reads poems as a professor. It cannot read them as a person**",
+    "L127 ### **When AI poetry analysis actually helped**",
+    "L137 #### **The gap between experience and language is where AI lives**",
+    "L145 #### **How I used AI to study AI (and why that matters)**",
+    "L167 #### **Limitations of this study**",
+    "L181 #### **Why AI poetry comprehension matters for everyone**"
+  ],
+  "passages": [
+    {
+      "line": 13,
+      "text": "# What Claude Cannot Read in a Poem"
+    },
+    {
+      "line": 17,
+      "text": "I write poetry. I use Claude every day. I wanted to know whether the tool I use to build things can read the things I build."
+    },
+    {
+      "line": 49,
+      "text": "### **Why there is no correct interpretation of a poem**"
+    },
+    {
+      "line": 57,
+      "text": "**Competing interests.** I have no financial or professional relationship with Anthropic. I use Claude Code as a subscriber. *Slow AI* is a paid Substack publication that covers AI tools, including Claude. I chose to test Claude because it is the model I use daily, not because of any arrangement with its maker."
+    },
+    {
+      "line": 61,
+      "text": "### **The 10 poems I gave to Claude**"
+    },
+    {
+      "line": 65,
+      "text": "I included one of my own poems because it is the only text in the study that does not exist in Claude’s training data. Every other poem has been published, anthologised, and written about extensively. Claude’s readings of those poems draw on existing criticism whether it acknowledges this or not. My poem tests what happens when that scaffolding is removed entirely: no prior readings to reproduce, no critical consensus to echo. It is also the only poem in the study where I know exactly what it was written about, having written it. That gives me a ground truth against which to measure Claude’s interpretation. And it introduces a recursive element: Claude is reading a poem about AI, written by the person evaluating its reading. That recursion is not a gimmick. It is a test of whether the model can navigate the interpretive discomfort of being both subject and reader."
+    },
+    {
+      "line": 181,
+      "text": "#### **Why AI poetry comprehension matters for everyone**"
+    },
+    {
+      "line": 203,
+      "text": "The question this study asks is not ‘can AI read a poem?’ The real question is: when AI produces something that looks like understanding, how do you know whether understanding is actually there? Poetry gives you the answer. Most other contexts do not."
+    }
+  ]
+}

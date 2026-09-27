@@ -1,0 +1,29 @@
+{
+  "id": 84,
+  "group_index": 7,
+  "decision": "counterexample",
+  "coverage": "Full available extracted article, L1–76. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L24–30: table error checked; other experiments not verified",
+    "L42: spreadsheet-formula preferences",
+    "L58–70: review difficulty and provisional trust"
+  ],
+  "basis": "First-person demonstrations and commentary.",
+  "reported_outcomes": [
+    "One table issue was checked; other analysis exceeded what author could readily verify."
+  ],
+  "proposed_outcomes": [],
+  "limits": [
+    "Impressive output can exceed an expert’s practical review ability.",
+    "Skill-loss discussion is a concern, not an observed result."
+  ],
+  "related_entries": [
+    "metacognitive-demand",
+    "automation-bias"
+  ],
+  "practice_files": [
+    "raw/mollick-080-management-as-ai-superpower-2026/drafts/practices/count-the-cost-of-review-before-delegating.md"
+  ],
+  "role": "counterexample",
+  "review_note": "Limit on delegation: impressive output does not establish reviewability."
+}

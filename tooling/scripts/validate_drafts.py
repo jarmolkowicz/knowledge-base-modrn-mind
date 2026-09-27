@@ -79,6 +79,7 @@ def load_draft_entries(workbench_dir: Path) -> dict[str, Entry]:
       drafts/source.md          -> stem = workbench dir name (the source slug)
       drafts/concepts/*.md      -> stem = file stem (the concept slug)
       drafts/methods/*.md       -> stem = file stem (the method slug)
+      drafts/practices/*.md     -> stem = file stem (a proposed practice slug)
       drafts/updates/*.md       -> stem = file stem (the existing entry being updated)
     """
     drafts_dir = workbench_dir / "drafts"
@@ -106,6 +107,12 @@ def load_draft_entries(workbench_dir: Path) -> dict[str, Entry]:
     # New method drafts
     for p in sorted((drafts_dir / "methods").glob("*.md")):
         e = _parse_file(p, "method")
+        if e is not None:
+            out[p.stem] = e
+
+    # Practices are distinct from methods and must not silently escape checks.
+    for p in sorted((drafts_dir / "practices").glob("*.md")):
+        e = _parse_file(p, "practice")
         if e is not None:
             out[p.stem] = e
 
@@ -315,8 +322,8 @@ def validate(workbench_dir: Path) -> list[Finding]:
                     self_stem=self_stem,
                 )
             )
-        # Frontmatter — only for entries that will land in concepts/, methods/,
-        # sources/. Update proposals don't need full frontmatter validation.
+        # Frontmatter for new entries, including proposed practices.
+        # Update proposals don't need full frontmatter validation.
         if not is_update:
             entry_type = entry.type
             findings.extend(
@@ -359,7 +366,7 @@ def render_markdown(workbench: Path, findings: list[Finding]) -> str:
     lines.append("")
 
     if not findings:
-        lines.append("**Status: READY** — no findings; safe to proceed to Stage 5 integrate.")
+        lines.append("**Status: READY** — mechanical checks passed. Stage 5 still requires a recorded integration decision and tooling support for each entry type.")
         lines.append("")
         return "\n".join(lines)
 

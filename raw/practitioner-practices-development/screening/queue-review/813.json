@@ -1,0 +1,33 @@
+{
+  "queue_position": 384,
+  "id": 813,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/teresa-torres/transcript.md",
+  "sha256": "1e9b18f5d05183857ca754e1d193bc2436703325a4ea6156a2c99cbb252af2fa",
+  "title": "Build better products with continuous product discovery | Teresa Torres",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 36,
+      "text": "## Transcript"
+    },
+    {
+      "line": 138,
+      "text": "Then there's the evaluation process of is this movie good or not? Does it look like something I want to watch? Then I want to get into, okay, I'm ready to watch. Is it a good viewing experience? Then for a lot of these platforms, there's also this post-viewing experience of like am I going to encourage you to keep watching, things like that?"
+    },
+    {
+      "line": 264,
+      "text": "Awesome. That's such a simple, clear way of thinking about this because, yeah, broadly it's like a new term people have to get used to. I think you saw I made a call on Twitter for people to ask me to ask you questions about continuous discovery. And so, I'm going to try to get as many of those in there in this chat as I can. One actually was around what do you do when your leaders tell you there's no time for discovery?"
+    },
+    {
+      "line": 273,
+      "text": "Assumption testing. People always ask me, \"How much time should I be spending on an assumption testing?\" I don't know how to answer that question because for me, assumption testing and delivery are the same work. Assumption testing is the start of your delivery. I don't know where one starts and one ends, which is a little bit hard to conceptually work through, but maybe we can talk through an example."
+    },
+    {
+      "line": 381,
+      "text": "Yeah. The first one is the questions they're asking. So many people write these who why, how, 50-question long interview protocols. It leads to a cadence of the interview that is not a natural conversation. So I think the first thing to remember is that you're just talking to a human."
+    }
+  ]
+}

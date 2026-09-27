@@ -1,0 +1,24 @@
+{
+  "id": 426,
+  "title": "AI, Financial Inclusion, and the Global Majority",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-financial-inclusion-kelly-uphoff-tala.md",
+  "sha256": "f86608517ed4cc8ec0572389d1eeb95f0662c5d8781ed9dea8ae42e8a6ea979c",
+  "access": "public-page",
+  "kind": "article",
+  "words": 199,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 440,
+      "text": "**AI doesn’t create solutions. It scales them.**"
+    },
+    {
+      "line": 21,
+      "offset": 1040,
+      "text": "We talked about what *actually* makes a mission-driven company different from one that just says it is. About how heavily regulated industries can make better AI decisions faster than ones operating without gua"
+    }
+  ]
+}

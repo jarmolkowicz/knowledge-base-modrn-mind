@@ -1,0 +1,41 @@
+{
+  "id": 439,
+  "author": "Raghav Mehra, reframed by Sam Illingworth",
+  "group_index": 10,
+  "decision": "retain",
+  "locators": [
+    "L20–24, attribution and rationale",
+    "L30–58, three-stage prompt",
+    "L78–94, newsletter example"
+  ],
+  "basis": "Proposed framework with first-person before/after demonstration",
+  "reported_outcomes": [
+    "Mehra describes a more actionable newsletter answer after narrowing the question; no outcome comparison."
+  ],
+  "proposed_outcomes": [
+    "Tie research to a decision and signals that could change it."
+  ],
+  "limits": [
+    "Narrowing too early can exclude disconfirming evidence.",
+    "Weighted insights are generated priorities, not measured weights.",
+    "A specific answer can still be false."
+  ],
+  "review_note": "Retain decision and change-signals framing. Credit the named guest despite an embedded publication card naming a different author.",
+  "coverage": "Close-read all 164 lines of available extracted article text; image-only content and linked media not reviewed.",
+  "related_entries": [
+    "agency",
+    "guingrich-belief-offloading-2026",
+    "belief-offloading"
+  ],
+  "practice_files": [
+    "raw/illingworth-439-why-your-ai-prompts-produce-noise-2025/drafts/practices/define-the-decision-before-research.md"
+  ],
+  "role": "origin",
+  "draft_only": true,
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/define-the-decision-before-research.md"
+  ],
+  "historical_drafts_retained": true
+}

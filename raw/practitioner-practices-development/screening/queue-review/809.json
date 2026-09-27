@@ -1,0 +1,37 @@
+{
+  "queue_position": 381,
+  "id": 809,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/stewart-butterfield/transcript.md",
+  "sha256": "7bd042f32c2e6de2b490a56e627f0d5be70a4fcfe7e159582a61b9ffafa4715b",
+  "title": "Mental models for building products people love ft. Stewart Butterfield",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 332,
+      "text": "(00:55:09):"
+    },
+    {
+      "line": 333,
+      "text": "And so Parkinson actually starts out with his example of writing and posting a letter. And I don't remember who he used with the first example, but someone who's incredibly busy and has all these things they have to respond to. And then another case like a retired robot who has all the time in the world. It takes her a long time to write the letter. It takes her a long time to put it in the envelope, and then you go to the post office and post it."
+    },
+    {
+      "line": 434,
+      "text": "Stewart Butterfield (01:10:28):"
+    },
+    {
+      "line": 435,
+      "text": "Yeah. And again, comparing it to beer or cars, beer goes back to pre-civilization. Cars were obviously [inaudible 01:10:38], but at some point you had to convince people why they would want a car instead of a horse. For your new AI-based recruiting tool or your calendar app or whatever, there's some reason why you think that people should use yours instead of the thing that they're using now, which might be a wholesale one-for- one replacement, or more often is a change in the way that you're working that has a bunch of other adjacencies and you want to expand into these other categories. You're not just responsible for creating the product, but also, to a certain degree, creating the market."
+    },
+    {
+      "line": 605,
+      "text": "Stewart Butterfield (01:29:41):"
+    },
+    {
+      "line": 606,
+      "text": "But if you don't name it and recognize it and discuss it and train yourself to think that way, take a breath, pretend you're a regular person, and then look at this again and see if it makes sense, then you're screwed."
+    }
+  ]
+}

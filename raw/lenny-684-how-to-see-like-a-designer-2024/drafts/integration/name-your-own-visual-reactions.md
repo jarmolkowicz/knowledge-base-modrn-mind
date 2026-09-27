@@ -1,0 +1,76 @@
+---
+status: emerging
+area:
+- preservation
+sources:
+- 'Jessica Hische, interviewed by Lenny Rachitsky. (2024-10-20). How to see like a designer: The hidden power of typography and logos
+  | Jessica Hische. https://www.youtube.com/watch?v=tLLqE6Ia8-U'
+source_entries:
+- lenny-684-how-to-see-like-a-designer-2024
+intended_outcomes:
+- creative-development
+- understanding
+---
+
+# Name your own visual reactions
+
+## Use When
+
+You can sense that a design feels right or wrong but struggle to explain why.
+
+Author’s intended benefit: Articulate visual preferences; use a generated pool without surrendering selection or making.
+
+## Try It
+
+1. Look through examples such as fonts or logos and write your immediate reaction in plain words.
+2. Collect examples with similar reactions.
+3. Compare visible features such as spacing, weight, width or rounded edges and ask what might explain the grouping.
+4. Use those observations to explain a creative choice. [Inference] If AI supplies vocabulary later, check it against what you actually saw.
+
+## Origin
+
+Jessica Hische, interviewed by Lenny Rachitsky. (2024-10-20). How to see like a designer: The hidden power of typography and logos | Jessica Hische. https://www.youtube.com/watch?v=tLLqE6Ia8-U
+
+Locators: 00:24:25–00:30:55; L162–190; 01:01:49–01:05:50; L360–375. Practice title is an editorial label.
+
+## Evidence and Rationale
+
+**Basis:** Professional creative account and a proposed noticing exercise.
+
+**Observed or reported:** Reports selecting emotions from AI-generated lists for a children’s book and retaining production work she finds fulfilling; rejected one AI image experiment.
+
+**Related research:** Doshi and Hauser’s short-story experiment separates ratings of individual outputs from diversity across outputs. It does not evaluate this practice or establish lasting creative skill. See [[doshi-hauser-creativity-diversity-2024]]. This is context, not direct validation.
+
+**Untested:** Whether this specific procedure improves judgment, independent capability, creative quality or calibration beyond the reported experience. A completed artifact, more options and felt clarity are different outcomes.
+
+## Limits
+
+- Personal associations are not universal audience responses.
+- The noticing exercise and AI word-list workflow are separate practices, not a tested combined sequence.
+- No measured improvement in taste or originality.
+
+## What to Notice
+
+[Inference] Notice whether you can explain a preference more specifically. Your association may be personal or cultural; it does not establish what every audience feels.
+
+## Related
+
+- [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
+- [[doshi-hauser-creativity-diversity-2024]] — bounded research context described above.
+
+
+## Intended outcomes
+
+[Inference] Primary: creative-development. Secondary: understanding. These are intended benefits, not demonstrated effects.
+
+## Source roles
+
+- [[lenny-684-how-to-see-like-a-designer-2024]] — origin.
+
+## Sources
+
+- [[lenny-684-how-to-see-like-a-designer-2024]]
+
+Recorded citations:
+
+- Jessica Hische, interviewed by Lenny Rachitsky. (2024-10-20). How to see like a designer: The hidden power of typography and logos | Jessica Hische. https://www.youtube.com/watch?v=tLLqE6Ia8-U

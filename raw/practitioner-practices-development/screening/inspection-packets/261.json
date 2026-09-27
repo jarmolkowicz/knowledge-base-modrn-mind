@@ -1,0 +1,39 @@
+{
+  "id": 261,
+  "title": "Claude.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/AGENTS.md",
+  "sha256": "937001698888dd0b6a731cb71dbda64b304de0df7cf71da6b0ffc99fa312a33c",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2759,
+  "headings": [
+    "**Claude is not one tool. It’s six.**",
+    "**1. Claude Cowork**",
+    "What it is (in 10 words):",
+    "Why does it matter:",
+    "How to install Cowork:",
+    "Your first prompt:",
+    "The mindset shift (if you’re coming from ChatGPT):",
+    "**2. Use the** *right* **Claude**",
+    "Opus + Extended.",
+    "How to set it up:",
+    "About internet access.",
+    "**3. Claude in Excel**",
+    "What it is (in 10 words):",
+    "Why it matters:"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 127,
+      "text": "The people I talk to every day quietly switched."
+    },
+    {
+      "line": 16,
+      "offset": 339,
+      "text": "See, I’ve been writing about AI for three years. Thousands of posts and hundreds of millions of views. So people often ask me, *“Ruben, I’ve seen your newsletter about **[tool]**, but do you really use it?”* If I *write*"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 312,
+  "title": "How to set up Claude Cowork.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/learn-80-of-claude-cowork-in-20-minutes.md",
+  "sha256": "67923d90633f348eb8c199d7f8b4c395e6c1d03d4b045b32be6a52614a9556af",
+  "access": "public-page",
+  "kind": "article",
+  "words": 5049,
+  "headings": [
+    "**Skip this if you** *already* **use Cowork.**",
+    "**I. Cowork is** *many* **Claude.**",
+    "**II. Forget about** *files*and*folders***.**",
+    "**III. Skills + Projects.** *Nothing else.*",
+    "**A. What you need to know about Skills.**",
+    "**B. What you need to know about Projects.**",
+    "**C. A skill or a project?**",
+    "**D. Combining the two.**",
+    "**E. Not everything is perfect.**",
+    "**IV. No settings is the** *best* **setting.**",
+    "**V. This is** *still* **my #1 trick.**",
+    "**VI. You** *really* **don’t need folders.**",
+    "Purpose:",
+    "Sheets needed:"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 17,
+      "offset": 409,
+      "text": "I wrote “**Cowork**” and “**Cowork 2.0**.” My most-shared work ever, acro"
+    },
+    {
+      "line": 231,
+      "offset": 16557,
+      "text": "You can go very broad with skills, giving them tons of **data** that goes with the prompt. Some of my favorite skills have hundreds of pages of posts, hooks, SOPs, that Claude processes every time for this specific skill"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 710,
+  "author": "Kevin Yien, interviewed by Lenny Rachitsky",
+  "group_index": 10,
+  "decision": "retain",
+  "locators": [
+    "00:35:13–00:42:42; L366–412",
+    "00:44:07–00:45:02; L423–430"
+  ],
+  "basis": "First-person repeated practice with one retrospective example",
+  "reported_outcomes": [
+    "Reports learning from decision records; his Shopify example matched direction but missed some underlying reasons."
+  ],
+  "proposed_outcomes": [
+    "Create repeated opportunities to compare prior reasoning with later outcomes."
+  ],
+  "limits": [
+    "A market prediction log is not a replacement for doing the work; Yien states this explicitly.",
+    "Outcomes depend on luck and unavailable facts, not only reasoning quality.",
+    "AI-generated predictions would exercise a different skill from making one yourself."
+  ],
+  "review_note": "Retain the dated record and scheduled revisit; AI adaptation is curator inference.",
+  "coverage": "Close-read complete relevant transcript exchanges at listed timestamps and surrounding context; not full 800-line transcript; audio/video not reviewed.",
+  "related_entries": [
+    "agency",
+    "guingrich-belief-offloading-2026",
+    "belief-offloading"
+  ],
+  "practice_files": [
+    "raw/lenny-710-unorthodox-pm-tips-automating-user-insights-2024/drafts/practices/keep-a-decision-and-outcome-log.md"
+  ],
+  "role": "origin",
+  "draft_only": true,
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/keep-a-decision-and-outcome-log.md"
+  ],
+  "historical_drafts_retained": true
+}

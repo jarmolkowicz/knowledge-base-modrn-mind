@@ -1,0 +1,25 @@
+{
+  "slug": "ramonov-363-ai-reveals-the-most-brutal-truths-2026",
+  "original_filename": "ai-reveals-the-most-brutal-truths-in-psychology.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 792,
+  "hash": "37703ec6f197bea11a3946a2610383c8886aa31e28ab31a65b3c7d2531c74d0b",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "critiqued",
+  "ingested_at": "2026-09-26T20:59:43Z",
+  "decisions": [],
+  "lines": 100,
+  "screening_id": 363,
+  "collected_from": "raw/inbox/Practical/Sabrina Ramonov/ai-reveals-the-most-brutal-truths-in-psychology.md",
+  "bibliographic_metadata": {
+    "title": "AI reveals the most brutal truths in psychology",
+    "date": "2026-07-22",
+    "url": "https://www.sabrina.dev/p/ai-reveals-the-most-brutal-truths-in-psychology",
+    "collection": "Sabrina Ramonov"
+  },
+  "draft_only": true,
+  "integration_decision": "pending",
+  "practice_review": "practice-review.json"
+}

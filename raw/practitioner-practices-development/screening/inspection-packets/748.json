@@ -1,0 +1,26 @@
+{
+  "id": 748,
+  "title": "The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/michael-truell/transcript.md",
+  "sha256": "74f49b665fb7516ce1cf53278342e9cfd209ccb4d4717ea47c70d19153a79bca",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13387,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 848,
+      "text": "... our goal with Cursor is to invent a new"
+    },
+    {
+      "line": 127,
+      "offset": 12632,
+      "text": "I think it's related. I think that vibe coding right now describes exactly this state of creation that is pretty controversial, wh"
+    }
+  ]
+}

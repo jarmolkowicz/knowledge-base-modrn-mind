@@ -1,0 +1,33 @@
+{
+  "id": 819,
+  "group_index": 15,
+  "decision": "draft_with_limits",
+  "coverage": "Read relevant complete transcript exchanges: L279–310; 00:35:38–00:42:35. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L279–310; 00:35:38–00:42:35"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Describes LinkedIn product reviews and internal AI training."
+  ],
+  "proposed_outcomes": [
+    "Keep product responsibility with people who understand the system."
+  ],
+  "limits": [
+    "Corporate first-person account; no measured sovereignty or learning effect. Ranking-system objectives do not transfer unchanged to every generative assistant. Verify actual implementation with engineering."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/lenny-819-why-ai-is-disrupting-traditional-product-2025/drafts/practices/explain-the-algorithm-you-own.md"
+  ],
+  "role": "origin",
+  "review_note": "Have product owners explain an algorithm’s objective, inputs and data strategy with the people building it.",
+  "author": "Tomer Cohen",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/explain-the-algorithm-you-own.md"
+  ],
+  "historical_drafts_retained": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 63,
+  "title": "Why Reading Matters",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/why-reading-matters.md",
+  "sha256": "9f8471aedd46080dabfdb7205b045c8fd68cca9db497fb3965a90afb22c62075",
+  "access": "public-page",
+  "kind": "article",
+  "words": 659,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 348,
+      "text": "Last week, Rose Horowitch published a splashy *Atlantic* article titled ​“The End of Reading is Here.”​ (Ironically, giv"
+    },
+    {
+      "line": 43,
+      "offset": 3891,
+      "text": "As I argued in my op-ed, one obvious response is to tackle this mental decline today similarly to how we tackled the decline in our physical health in the second half of the last century: by embracing specific routines around information consumption designed to arrest this slide away from advanced literacy. We should treat highly distracting digital garbage "
+    }
+  ]
+}

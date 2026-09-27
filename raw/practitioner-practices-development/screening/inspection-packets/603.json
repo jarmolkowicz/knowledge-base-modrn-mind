@@ -1,0 +1,26 @@
+{
+  "id": 603,
+  "title": "Daniel Lereya",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/daniel-lereya/transcript.md",
+  "sha256": "2d8fd3dd6042d064719ac06a81c777095552788666e319228c686ca4217cf779",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15790,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 34,
+      "offset": 391,
+      "text": "... 8:00 PM basically for me is someone that is relen"
+    },
+    {
+      "line": 565,
+      "offset": 74911,
+      "text": "Maybe I start with a personal one. It's not about work, but I think it really shows that for me, it was a moment of really saying this has so much potential in "
+    }
+  ]
+}

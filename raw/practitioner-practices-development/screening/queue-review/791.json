@@ -1,0 +1,37 @@
+{
+  "queue_position": 366,
+  "id": 791,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/sachin-monga/transcript.md",
+  "sha256": "e91c1fa6d7233474ce197980f966bcc88c5d827b15d8b92053dcf105541dd780",
+  "title": "Building Substack | Sachin Monga (Substack, Facebook)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 287,
+      "text": "Sachin Monga (00:34:19):"
+    },
+    {
+      "line": 288,
+      "text": "This is just an invite only little group of a hundred or so writers that we know are interested in being on the bleeding edge of what Substack is becoming. We're investing a lot in just tools to help writers grow. Now we've got this little lab where we can take a feature recommendations to writers and get quick feedback and ensure that we're never just rolling something out to everyone without going through this step first. It's just been super helpful to have a bit of this infrastructure in place. Often the thing that we end up shipping on day one tends to be pretty different from what we had in mind before we went through this process."
+    },
+    {
+      "line": 515,
+      "text": "Sachin Monga (00:57:55):"
+    },
+    {
+      "line": 516,
+      "text": "I feel like in this season, every episode was like its own standalone movie or something. It started slow the whole show. I think the first season was a bit slow. When I recommend it to people, I'm like, \"Just power through it,\" but they really found their groove. I don't know. I'm stoked for the next season."
+    },
+    {
+      "line": 530,
+      "text": "Sachin Monga (00:59:31):"
+    },
+    {
+      "line": 531,
+      "text": "First of all, thank you, Lenny, for being such an amazing Substack example setter. We talk about you all the time, as you can imagine internally, and you've been so helpful to the company and to our product team. It's been a real honor to get to come onto the pod and keep doing what you're doing. You can find me on all the various social media platforms. I'm not super active on them, I must admit, but maybe Twitter would be the one where I spend the most time, which is just Sachin Monga, my first name and last name, is my handle."
+    }
+  ]
+}

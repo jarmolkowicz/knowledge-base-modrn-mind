@@ -1,0 +1,28 @@
+{
+  "id": 105,
+  "group_index": 7,
+  "decision": "counterexample",
+  "coverage": "Full available extracted article, L1–72. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L28: prior preparation before the timed demonstration",
+    "L38: drafts not ready for use",
+    "L54: generated text does not mean underlying work done"
+  ],
+  "basis": "Timed personal output demonstration with prior setup.",
+  "reported_outcomes": [
+    "Several drafts generated quickly; not finished work."
+  ],
+  "proposed_outcomes": [],
+  "limits": [
+    "Headline duration omits preparation and review.",
+    "Output volume is not validated productivity."
+  ],
+  "related_entries": [
+    "metacognitive-demand"
+  ],
+  "practice_files": [
+    "raw/mollick-080-management-as-ai-superpower-2026/drafts/practices/count-the-cost-of-review-before-delegating.md"
+  ],
+  "role": "counterexample",
+  "review_note": "Support full cost accounting; omit headline speed as a benefit."
+}

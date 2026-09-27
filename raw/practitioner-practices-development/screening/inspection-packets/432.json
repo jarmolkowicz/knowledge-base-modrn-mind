@@ -1,0 +1,30 @@
+{
+  "id": 432,
+  "title": "Your AI is shaping your voice more than you think",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-mirroring-linguistic-agency.md",
+  "sha256": "72bf41570885c944f122b756a93c049e161c13793f160c43a1770ba38aa88fcf",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1032,
+  "headings": [
+    "**Step-by-step**",
+    "**A moment from [The Strategic Linguist](https://open.substack.com/users/357242821-the-strategic-linguist?utm_source=mentions)**",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**From [The Illusion of the Artificial Mind](https://theslowai.substack.com/p/attribution-of-mind-ai)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 252,
+      "text": "Large language models are designed to predict and mirror user input. T"
+    },
+    {
+      "line": 54,
+      "offset": 3394,
+      "text": "Being ‘of the world and not in it’ - a concept from religious and philosophical traditions - speaks to maintaining critical distance amid overstimulation. In our AI use, this means cultivating meta-awareness: s"
+    }
+  ]
+}

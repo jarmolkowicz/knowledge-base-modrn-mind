@@ -1,0 +1,31 @@
+{
+  "id": 495,
+  "title": "Slow Takes Ep. 12: AI Got Bigger. Who Got Smaller?",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-takes-ep-12-ai-got-bigger-who.md",
+  "sha256": "9aee68e64263763c5d541292ffc33090a29f3ca2e986fe6f7f46bbe6f9afa3a3",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2620,
+  "headings": [
+    "1. OpenAI disproved an 80-year-old Erdos conjecture",
+    "2. Anthropic signed a $52 billion compute deal with SpaceX",
+    "3. Samsung chip workers will get $340,000 each from the AI boom",
+    "4. Sadiq Khan blocked a £50 million Met-Palantir AI deal",
+    "5. AI chatbots got Britain’s May elections wrong a third of the time",
+    "The thread"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 438,
+      "text": "OpenAI published an original mathematical proof that disproved an "
+    },
+    {
+      "line": 67,
+      "offset": 9498,
+      "text": "The Samsung settlement is a real win for chip-division labour, and it is the exception that proves the rule. Across the broader AI supply chain, the people doing the most extractive work have the leas"
+    }
+  ]
+}

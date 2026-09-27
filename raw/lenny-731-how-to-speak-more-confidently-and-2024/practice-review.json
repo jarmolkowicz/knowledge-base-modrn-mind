@@ -1,0 +1,33 @@
+{
+  "id": 731,
+  "group_index": 17,
+  "decision": "draft_with_limits",
+  "coverage": "Read relevant complete transcript exchanges: L648–694; 01:02:57–01:07:16. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L648–694; 01:02:57–01:07:16"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Demonstrates an interview answer with the host."
+  ],
+  "proposed_outcomes": [
+    "Give clearer, complete answers."
+  ],
+  "limits": [
+    "Worked demonstration, not an evaluation. For a simple numeric question a number may suffice; do not force an example or change the question to evade it."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/lenny-731-how-to-speak-more-confidently-and-2024/drafts/practices/answer-example-relevance.md"
+  ],
+  "role": "origin",
+  "review_note": "ADD: answer directly, give a detailed example, describe its relevance; rehearse with a partner.",
+  "author": "Matt Abrahams",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/answer-example-relevance.md"
+  ],
+  "historical_drafts_retained": true
+}

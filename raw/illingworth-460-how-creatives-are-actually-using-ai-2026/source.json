@@ -1,0 +1,51 @@
+{
+  "slug": "illingworth-460-how-creatives-are-actually-using-ai-2026",
+  "original_filename": "how-creatives-actually-use-ai.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 4339,
+  "hash": "7a91b35c5d79b29629a82224dbfffecd6dd4a9d486ef51125d1b78b50085cf08",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:40Z",
+  "decisions": [
+    {
+      "stage": "practice-close-reading",
+      "outcome": "retain",
+      "at": "2026-09-26",
+      "scope": "draft-only; integration pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/illingworth-460-how-creatives-are-actually-using-ai-2026.md",
+      "practices": [
+        "practices/request-criticism-without-rewriting.md",
+        "practices/turn-creative-disagreement-into-your-own-checklist.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 235,
+  "screening_id": 460,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/how-creatives-actually-use-ai.md",
+  "bibliographic_metadata": {
+    "title": "How Creatives Are Actually Using AI (And What They Refuse to Let It Do)",
+    "date": "2026-03-17",
+    "url": "https://theslowai.substack.com/p/how-creatives-actually-use-ai",
+    "collection": "Sam Illingworth"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

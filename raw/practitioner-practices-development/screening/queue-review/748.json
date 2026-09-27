@@ -1,0 +1,37 @@
+{
+  "queue_position": 330,
+  "id": 748,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/michael-truell/transcript.md",
+  "sha256": "74f49b665fb7516ce1cf53278342e9cfd209ccb4d4717ea47c70d19153a79bca",
+  "title": "The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 138,
+      "text": "Michael Truell (00:13:05):"
+    },
+    {
+      "line": 139,
+      "text": "Cursor kind of started as a solution search of a problem, and a little bit where it very much came from reflecting on how AI was going to get better over the course of the next 10 years. There were kind of two defining moments, one was being really excited by using the first beta version of Code Pilot, actually. This was the first time we had used an AI product that was really, really, really useful, and was actually just useful at all, and wasn't just a vaporware kind of demo thing."
+    },
+    {
+      "line": 327,
+      "text": "(00:45:31):"
+    },
+    {
+      "line": 328,
+      "text": "Another market that might be particularly helpful for incumbents is one where there's... From the get-go, you have your stuff in one place, and it's really, really excruciatingly hard to switch, and for better or for worse. I think in our case, you can try out different tools, and you can decide which product you think is better. And so that's not super friendly to incumbents, and that's more friendly to whoever you think is going to have the most innovative product. And then the specific historical reasons, as I understand them are the group of people that worked on the first version of Copilot have, by and large, gone on to do other things at other places. I think it's been a little hard to coordinate among all the different departments and parties that might be involved in making something like this."
+    },
+    {
+      "line": 489,
+      "text": "Michael Truell (01:10:28):"
+    },
+    {
+      "line": 490,
+      "text": "Yeah. If folks are interested in working on this stuff, would love to speak, they can find... If they go to cursor.com, they can kind of both find the product and find out how to reach us."
+    }
+  ]
+}

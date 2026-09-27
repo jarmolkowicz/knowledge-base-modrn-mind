@@ -1,0 +1,26 @@
+{
+  "id": 316,
+  "group_index": 16,
+  "decision": "retain_counterexample_only",
+  "coverage": "Read the complete available local article body; linked images, videos and external claims not independently inspected. Available text ends at a paid-video invitation; that demonstration was not accessed.",
+  "locators": [
+    "L52–190; available body ends at paid-video invitation"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Reports preference for source-conditioned advice on a business pitch."
+  ],
+  "proposed_outcomes": [
+    "Master topics through personalized advice."
+  ],
+  "limits": [
+    "Favorite-author selection is not source-quality review. Felt depth does not establish mastery or accurate advice. Screenshots and linked paid demonstration not inspected; no independent learning check."
+  ],
+  "related_entries": [],
+  "practice_files": [],
+  "role": "counterexample",
+  "review_note": "Curates favorite-author material into a notebook and frames generated advice as a mentor.",
+  "author": "Ruben Hassid",
+  "integration_decision": "pending",
+  "draft_only": true
+}

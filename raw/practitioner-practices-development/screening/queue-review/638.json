@@ -1,0 +1,29 @@
+{
+  "queue_position": 251,
+  "id": 638,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/garrett-lord/transcript.md",
+  "sha256": "8536ff0d2fbc9afe55010f1a4508db8e759c90e166a37045dace768bbd72ac3a",
+  "title": "Inside the expert network training every frontier AI model | Garrett Lord",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 80,
+      "text": "Lenny Rachitsky (00:05:09):"
+    },
+    {
+      "line": 81,
+      "text": "I appreciate that. Okay, so before we get into the insane trajectory that your data labeling business is on, which is just an amazing story that I think a lot of founders and product teams that are trying to navigate this AI disruption that's happening will have a lot to learn from. I want to first help people understand what the hell data labeling actually is. Just like, what are people actually doing? Why is this so valuable? Some of the most, I don't know, fastest-growing companies in the world today, including you guys are just, this is what you do. Clearly there's something really important here. I sort of understand it, probably not really. I think a lot of listeners feel the same way. So let me just ask you this, what is data labeling actually? What are people actually doing? And then, just why is this so valuable to frontier AI labs?"
+    },
+    {
+      "line": 173,
+      "text": "Garrett Lord (00:19:52):"
+    },
+    {
+      "line": 174,
+      "text": "I didn't get a PhD in AI, or math, or physics, and I haven't trained myself, we have frontier models, but there is a lot to each unit of data whether it's improving. There's a ton of science and research out right now around how do you make sure that the data that you're producing is improving the model? And it's very hard for model builders to understand. They really care about, to zoom out, they care about three things. They care about quality first and foremost. You have to have high quality data. And if you imagine you're training a model, like teaching a student and you're giving it the wrong data, it's extremely challenging to overcome that. So, quality is first and foremost. And then, the other huge problems you have is volume. How do you generate thousands of pieces of data in the most advanced domains of chemistry, and mathematics, and physics, and how do you ensure that it's high quality?"
+    }
+  ]
+}

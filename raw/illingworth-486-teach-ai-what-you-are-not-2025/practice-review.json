@@ -1,0 +1,28 @@
+{
+  "id": 486,
+  "group_index": 16,
+  "decision": "retain_counterexample_only",
+  "coverage": "Read the complete available local article body; linked images, videos and external claims not independently inspected.",
+  "locators": [
+    "L28–47, L53–85, L97–102"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Author reports an emotionally meaningful conversation."
+  ],
+  "proposed_outcomes": [
+    "Reflection and creative expression."
+  ],
+  "limits": [
+    "A meaningful experience does not establish access to hidden motives. Creative reader-response hypotheses would require reframing and external checks, not adoption of the original mind-reading premise."
+  ],
+  "related_entries": [
+    "nisbett-wilson-introspection-1977"
+  ],
+  "practice_files": [],
+  "role": "counterexample",
+  "review_note": "Asks a model to infer what the user is not saying; interprets a responsive exchange as shared understanding.",
+  "author": "Sam Illingworth",
+  "integration_decision": "pending",
+  "draft_only": true
+}

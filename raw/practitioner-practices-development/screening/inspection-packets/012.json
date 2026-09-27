@@ -1,0 +1,24 @@
+{
+  "id": 12,
+  "title": "The New Books to Refresh Your Thinking in 2026",
+  "collection": "Adam Grant",
+  "path": "raw/inbox/Practical/Adam Grant/the-new-books-to-refresh-your-thinking.md",
+  "sha256": "9e8272dcb84c314b8d6b72cc0dcba4cb7513c272654dfc365c3e656fbbfc9694",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 311,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 249,
+      "text": "Most information goes in one ear and out the other. Great books have a lasting impact on how we think and who we become."
+    },
+    {
+      "line": 44,
+      "offset": 2250,
+      "text": "The science and practice of healthy vulnerability."
+    }
+  ]
+}

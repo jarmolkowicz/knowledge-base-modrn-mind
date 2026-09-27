@@ -1,0 +1,31 @@
+{
+  "queue_position": 29,
+  "id": 78,
+  "path": "raw/inbox/Practical/Ethan Mollick/latent-expertise-everyone-is-in-r.md",
+  "sha256": "a8d73cc6156bacaf690c49226fef11956c0eea6a91d316111b65e7d6946874dc",
+  "title": "Latent Expertise: Everyone is in R&D",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 24,
+      "text": "# Latent Expertise"
+    },
+    {
+      "line": 28,
+      "text": "Unlocking the expertise latent in AI is, for now, a job for experts. There are multiple reasons for this. The first is that experts can easily judge whether work in their field is good or bad, and in what ways. Take, for example, two topics we are familiar with: teaching people to apply frameworks and interactive tutoring. We can give the AI two simple prompts, one to get the AI to act as a tutor and the other to get it provide frameworks for solving problems (if you want to try the more advanced versions of these prompts that actually work well, you can try the Tutor GPT and Frameworks GPT:"
+    },
+    {
+      "line": 42,
+      "text": "# Expert Co-Intelligence"
+    },
+    {
+      "line": 56,
+      "text": "So, we built something new, a system of AI agents that worked together to deliver an educational game experience, with each agent playing a role based on our decade of experience in this field. One of our first AI-based games teaches people how to pitch a startup company to investors."
+    },
+    {
+      "line": 62,
+      "text": "As opposed to our old way of doing this, which took huge amounts of time, most of the work is done by well-prompted AI agents. After watching a video about how to pitch, students talk to a *mentor agent* that helps tutor them (customizing the tutoring experience to their interests and experience level), then an *investor agent* that acts like a venture capitalist, while an *evaluator agen*t looks on to grade the work and keep things on track through prompt injection. Then a *progress agent* gives feedback, and an *insights agent* helps the teacher understand how the class is doing. We are also working on new agents to transform the creation of games. We are building one that will interview subject matter experts and create customized games for them, and also spin up playtest agents to evaluate and modify the game. What used to be a years-long process can now be done in weeks and soon, in days. The full architecture, and all the prompts, are in our paper."
+    }
+  ]
+}

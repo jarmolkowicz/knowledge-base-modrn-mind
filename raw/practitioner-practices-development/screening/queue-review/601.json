@@ -1,0 +1,45 @@
+{
+  "queue_position": 227,
+  "id": 601,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/dan-hockenmaier/transcript.md",
+  "sha256": "69eac1b45f07fa1a4ced40f1dd41d83721af2c916f7c8f19e88642added22890",
+  "title": "Developing a growth model + marketplace growth strategy | Dan Hockenmaier",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 197,
+      "text": "Dan Hockenmaier (00:15:11):"
+    },
+    {
+      "line": 198,
+      "text": "One thing I'll say is going back to 50% of the value being figuring it out, that actually negates the value of templates in some way. You kind of want to build it up for yourself from first principles to understand how the business works. So the more painful the process of building it is, probably the more you're learning. But I do think there's been a lot written on this that you can find online and I think the building blocks I talked about are a useful starting place for how to put these together. I also think Reforge, which is a product in growth school, which we both know has done I think probably the most work to build this into a discipline. And so if you want to go really deep on this, my top recommendation would be to start with Reforge."
+    },
+    {
+      "line": 356,
+      "text": "Dan Hockenmaier (00:38:06):"
+    },
+    {
+      "line": 357,
+      "text": "So there's a lot of nuance by business, but the basic formulation is CAC for the side you're focused on. So let's take Uber again, as an example. CAC to acquire a rider and then an additional amount of CAC loaded on for the supply, the drivers that you're acquiring, times the ratio of drivers to supply you're acquiring at that time. So basically, do I need one driver for every 10 passengers? We then take the CAC of that passenger times 10% of a driver. That gives you CAC and then you compare that to the LTV of the customer, and that allows you to calculate payback period."
+    },
+    {
+      "line": 440,
+      "text": "Dan Hockenmaier (00:49:12):"
+    },
+    {
+      "line": 441,
+      "text": "I mean I think the first thing is looking at those core metrics we talked about, do they have a really liquid high performance marketplace first. That has to be the optimization function. And before you're there, I don't think you should be thinking about some of these expansion levers."
+    },
+    {
+      "line": 536,
+      "text": "Dan Hockenmaier (01:03:11):"
+    },
+    {
+      "line": 537,
+      "text": "Yeah, so I'm on Twitter at Dan Hockenmaier and then LinkedIn. People should feel free to reach out. I think the most useful thing is we're always growing our team at Faire. And so for folks who are interested in this space, I would love to connect with them."
+    }
+  ]
+}

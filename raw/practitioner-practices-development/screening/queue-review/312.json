@@ -1,0 +1,118 @@
+{
+  "queue_position": 69,
+  "id": 312,
+  "path": "raw/inbox/Practical/Ruben Hassid/learn-80-of-claude-cowork-in-20-minutes.md",
+  "sha256": "67923d90633f348eb8c199d7f8b4c395e6c1d03d4b045b32be6a52614a9556af",
+  "title": "How to set up Claude Cowork.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L60 ## **Skip this if you** *already* **use Cowork.**",
+    "L73 ## **I. Cowork is** *many* **Claude.**",
+    "L105 ## **II. Forget about** *files*and*folders***.**",
+    "L138 ## **III. Skills + Projects.** *Nothing else.*",
+    "L148 #### **A. What you need to know about Skills.**",
+    "L249 #### **B. What you need to know about Projects.**",
+    "L279 #### **C. A skill or a project?**",
+    "L291 #### **D. Combining the two.**",
+    "L353 #### **E. Not everything is perfect.**",
+    "L368 ## **IV. No settings is the** *best* **setting.**",
+    "L439 ## **V. This is** *still* **my #1 trick.**",
+    "L471 ## **VI. You** *really* **don’t need folders.**",
+    "L493 ### Purpose:",
+    "L496 ### Sheets needed:",
+    "L500 ### Formatting:",
+    "L569 ## **VII. Onboard** *with* **Claude.**",
+    "L596 ## **VIII. When Cowork is the** *wrong* **tool.**",
+    "L614 ## **IX. You are** *slowing* **us down.**",
+    "L646 #### **How to set up Wispr flow.**",
+    "L688 #### **How to download Wispr Flow for free.**",
+    "L713 ## **X - How to** *save* **money in Cowork.**",
+    "L723 #### **1 - Restart your conversation. Don’t send a follow-up.**",
+    "L753 #### **2 - Start a fresh session every 20 messages.**",
+    "L767 #### **3 - Batch your tasks into one message.**",
+    "L777 #### **4 - Use Sonnet** *(not Opus)* **for quick tasks.**",
+    "L799 #### **5 - Delete your ABOUT ME file.**",
+    "L813 #### **6 - Spread your work across the day.**",
+    "L837 ## **XI. Your** *first* **20 minutes.**",
+    "L885 ## **I’m** *not* **paid by Anthropic.**",
+    "L913 #### **PS: You don’t want your company to be left behind.**"
+  ],
+  "passages": [
+    {
+      "line": 105,
+      "text": "## **II. Forget about** *files*and*folders***.**"
+    },
+    {
+      "line": 132,
+      "text": "2. **Files are impossible to maintain**. You have a full-time job. Me too. I can’t spend hours every week updating my “about-me” file. It was nice at first, and then a painful bottleneck."
+    },
+    {
+      "line": 148,
+      "text": "#### **A. What you need to know about Skills.**"
+    },
+    {
+      "line": 231,
+      "text": "You can go very broad with skills, giving them tons of **data** that goes with the prompt. Some of my favorite skills have hundreds of pages of posts, hooks, SOPs, that Claude processes every time for this specific skill."
+    },
+    {
+      "line": 439,
+      "text": "## **V. This is** *still* **my #1 trick.**"
+    },
+    {
+      "line": 445,
+      "text": "It takes time, practice, experience, understanding of how the technology works. It’s not meant to say the truth, for example, but answering *(which leads to hallucination, but it can be solved).*"
+    },
+    {
+      "line": 500,
+      "text": "### Formatting:"
+    },
+    {
+      "line": 550,
+      "text": "1. Go back to Cowork and ask what you want. And if you don’t know what to ask, ask Claude to ask you. Using the **AskUserQuestion** tool I told you about."
+    },
+    {
+      "line": 569,
+      "text": "## **VII. Onboard** *with* **Claude.**"
+    },
+    {
+      "line": 577,
+      "text": "5. Now as soon as a new recrue needs an answer, they start by going to the Claude Project, and do **/answer-onboarding** + ask the question."
+    },
+    {
+      "line": 646,
+      "text": "#### **How to set up Wispr flow.**"
+    },
+    {
+      "line": 660,
+      "text": "Instead of typing *“I need a Linkedin post,”* you start talking *“I recently found out about… and I want to share more about… but first I need to make sure that… so maybe we should start covering… and end up with… as a conclusion”.*"
+    },
+    {
+      "line": 682,
+      "text": "When Cowork produces something that’s off, I used to type feedback like: *“Tone is wrong. Make it less formal.”*"
+    },
+    {
+      "line": 723,
+      "text": "#### **1 - Restart your conversation. Don’t send a follow-up.**"
+    },
+    {
+      "line": 725,
+      "text": "First, Claude doesn’t count messages. It counts tokens. Every time you send a message, Claude re-reads the entire conversation history."
+    },
+    {
+      "line": 753,
+      "text": "#### **2 - Start a fresh session every 20 messages.**"
+    },
+    {
+      "line": 759,
+      "text": "When a Cowork session gets long: ask Claude to summarize everything, copy it, start a new session, paste the summary as your first message."
+    },
+    {
+      "line": 767,
+      "text": "#### **3 - Batch your tasks into one message.**"
+    },
+    {
+      "line": 773,
+      "text": "Instead of: *“Summarize this article”* then *“List the main points”* then *“Suggest a headline”* write: *“Summarize this article, list the main points, and suggest a headline.”*"
+    }
+  ]
+}

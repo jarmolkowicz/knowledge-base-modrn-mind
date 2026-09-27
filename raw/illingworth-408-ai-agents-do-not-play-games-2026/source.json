@@ -1,0 +1,50 @@
+{
+  "slug": "illingworth-408-ai-agents-do-not-play-games-2026",
+  "original_filename": "ai-agents-game-theory-no-skin-in-the-game.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 2135,
+  "hash": "6c7ab10a64b8d68be2b7e7dec197f49091f8a8a3344f701fcafa11d883e392e2",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:43Z",
+  "decisions": [
+    {
+      "stage": "practice-close-reading",
+      "outcome": "retain",
+      "at": "2026-09-26",
+      "scope": "draft-only; integration pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/illingworth-408-ai-agents-do-not-play-games-2026.md",
+      "practices": [
+        "practices/name-consequences-before-delegating.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 148,
+  "screening_id": 408,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/ai-agents-game-theory-no-skin-in-the-game.md",
+  "bibliographic_metadata": {
+    "title": "AI Agents Do Not Play Games. You Do.",
+    "date": "2026-03-04",
+    "url": "https://theslowai.substack.com/p/ai-agents-game-theory-no-skin-in-the-game",
+    "collection": "Sam Illingworth"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

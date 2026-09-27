@@ -1,0 +1,38 @@
+{
+  "id": 309,
+  "title": "Diagram.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/infographic.md",
+  "sha256": "97c7eefbad07f2d8e30915e69f4de915c732c09788a1bb6eeab86f108fbef580",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 940,
+  "headings": [
+    "**1- How to access the best AI to make (proper) infographics.**",
+    "**You are new? Access my archive of guides:** *https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing.*",
+    "**2 - The list of the best prompts to create infographics with AI.**",
+    "**1 - Create an infographic from [source].**",
+    "**2 - From YouTube to Infographic.**",
+    "**3 - Complex infographics.**",
+    "**4 - Complex prompting works too.**",
+    "**5 - Your Linkedin profile, as the Lord of the Rings.**",
+    "**6 - From transcript to infographic.**",
+    "**7 - Landmark on a map.**",
+    "**8 - Infographic for biology.**",
+    "**9 - The mega prompt.**",
+    "**3 - A video of me making an infographic + a Linkedin post.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 18,
+      "offset": 674,
+      "text": "At the end of this newsletter, you will master:"
+    },
+    {
+      "line": 54,
+      "offset": 1867,
+      "text": "But today marks the first step to useful infographics entirely made by AI."
+    }
+  ]
+}

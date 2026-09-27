@@ -1,0 +1,31 @@
+{
+  "id": 504,
+  "title": "Slow Takes Ep. 9: What You Actually Find When You Look",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-takes-ep-9-what-you-actually.md",
+  "sha256": "92b23bc5b7350fc963621e7272600b1891afd4718d85dd7681aeced5b3190be4",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2328,
+  "headings": [
+    "1. Anthropic Mythos: a Discord group guessed the URL",
+    "2. AI medicine: 80% wrong, from the lab that ran the study",
+    "3. Grok 4.1 teaches the ritual",
+    "4. GPT-5.5 shipped. Almost nobody noticed.",
+    "5. UK Biobank on sale in China",
+    "The thread"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 445,
+      "text": "A Discord group guessed the URL of Anthropic’s most security-sensi"
+    },
+    {
+      "line": 57,
+      "offset": 7787,
+      "text": "This is the model-behaviour version of the Hot Mess argument. AI gets less coherent on hard tasks. The Grok study shows what that incoherence looks like when the user is in distress. The model is patt"
+    }
+  ]
+}

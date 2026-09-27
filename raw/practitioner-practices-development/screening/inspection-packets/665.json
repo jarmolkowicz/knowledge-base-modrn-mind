@@ -1,0 +1,26 @@
+{
+  "id": 665,
+  "title": "Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jackie-bavaro/transcript.md",
+  "sha256": "8b2f5a2cdf45508357181bc4fc6f51942d82352b9a6fac864fc68117a3f1bd98",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 11262,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 840,
+      "text": "If you're PM, you've almost surely read and be"
+    },
+    {
+      "line": 295,
+      "offset": 38580,
+      "text": "I think seeing things through to a certain amount of time really does help. And I think sticking with the team for long enough to be able to"
+    }
+  ]
+}

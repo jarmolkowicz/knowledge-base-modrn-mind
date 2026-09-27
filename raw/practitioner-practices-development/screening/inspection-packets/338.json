@@ -1,0 +1,35 @@
+{
+  "id": 338,
+  "title": "Sins.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/the-7-deadly-sins-of-prompting.md",
+  "sha256": "0058607ecfdd34b300b8bb44f6d557e11020b13904b1fba7d86b90a7bd969d7d",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 881,
+  "headings": [
+    "The 7 sins and their fixes",
+    "1. No context",
+    "2. Vague instructions",
+    "3. Treating it like Google",
+    "4. Asking for everything at once",
+    "5. Not iterating",
+    "6. No format or tone",
+    "7. No examples",
+    "The R-E-X Prompt",
+    "My Prompt Maker"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 147,
+      "text": "Most (ChatGPT) prompts fail because they’re wishes, not briefs."
+    },
+    {
+      "line": 162,
+      "offset": 5239,
+      "text": "2. Ask ChatGPT to ask you clarification questions."
+    }
+  ]
+}

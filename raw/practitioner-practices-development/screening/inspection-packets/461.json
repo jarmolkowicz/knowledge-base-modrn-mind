@@ -1,0 +1,35 @@
+{
+  "id": 461,
+  "title": "How to Get Better Decisions from AI",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/how-to-get-better-decisions-from-ai.md",
+  "sha256": "cec132882d2e035ed684dbdba5efc73b71417df5d0ae174931677c3265a164f0",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1284,
+  "headings": [
+    "**Step-by-step**",
+    "Slow AI #1 – Teach It Something It Cannot Know",
+    "**A moment from** [Ruben Hassid](https://open.substack.com/users/339636559-ruben-hassid?utm_source=mentions)",
+    "The Slow AI Library",
+    "**What to do with it**",
+    "**Let’s Collaborate**",
+    "Collaborating with Slow AI",
+    "**Why this matters**",
+    "**From [Do You Really Understand Your AI Tool?](https://theslowai.substack.com/p/do-you-really-understand-your-ai)**",
+    "**How I Plan a Week of Notes Without Losing Hours**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 229,
+      "text": "We keep having the wrong conversation about artificial intelligence."
+    },
+    {
+      "line": 20,
+      "offset": 1079,
+      "text": "This week’s post comes from Ruben Hassid , who writes *How to AI*, a newsletter about how to use AI effectively with words rather than code. Together, we invite you to try a prompt that asks your AI tool to dis"
+    }
+  ]
+}

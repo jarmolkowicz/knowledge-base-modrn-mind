@@ -1,0 +1,39 @@
+{
+  "id": 334,
+  "title": "How much should you spend on AI?",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/spend.md",
+  "sha256": "e01b026134e23a9957133f236230449f15cb065bf44c02fca0594fa5cd695ddc",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1251,
+  "headings": [
+    "If I had $20 to spend on AI…",
+    "$20/mo: ChatGPT.",
+    "$0/mo: the best free plan tools.",
+    "**Perplexity:** Best AI to search.",
+    "**Gamma:** Best AI for slides.",
+    "**Opus Clip**: Best AI to edit videos.",
+    "**Ideogram**: Good AI for images.",
+    "**Grammarly**: Best to fix your grammar.",
+    "**Google Veo-3**: Best AI for videos.",
+    "**Google Nano-Banana**: Best AI to edit images.",
+    "If I had $200 to spend on AI…",
+    "$20/mo: ChatGPT.",
+    "$20/mo: Perplexity.",
+    "$20/mo: Claude."
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 176,
+      "text": "How much should you spend on AI? August 2025 benchmark."
+    },
+    {
+      "line": 219,
+      "offset": 8095,
+      "text": "Note: I love Claude-4-Opus to write. You can teach it your style."
+    }
+  ]
+}

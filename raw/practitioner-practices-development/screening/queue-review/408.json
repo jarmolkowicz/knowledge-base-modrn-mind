@@ -1,0 +1,68 @@
+{
+  "queue_position": 111,
+  "id": 408,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-agents-game-theory-no-skin-in-the-game.md",
+  "sha256": "6c7ab10a64b8d68be2b7e7dec197f49091f8a8a3344f701fcafa11d883e392e2",
+  "title": "AI Agents Do Not Play Games. You Do.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L25 #### **What an agent is and what it is not**",
+    "L39 ## What happens when the stakes disappear",
+    "L53 #### **The $24 million fly book and the inbox that ate itself**",
+    "L65 #### **The language is the problem**",
+    "L79 #### **Why this matters for you**",
+    "L89 #### **What to share**",
+    "L99 ### **Why AI agents require more judgement, not less**",
+    "L111 #### **Three questions before you trust an AI agent**"
+  ],
+  "passages": [
+    {
+      "line": 25,
+      "text": "#### **What an agent is and what it is not**"
+    },
+    {
+      "line": 31,
+      "text": "An AI agent is a function executor with access to tools. It can browse the web, send emails, write code, and book flights. Some agents require human approval before acting. Some run unsupervised for hours or months. The architectures vary. What does not vary is this: the agent cannot care whether any of those actions are wise. It has no preferences. It has no reputation. It has no fear of getting it wrong. It bears no consequences for failure."
+    },
+    {
+      "line": 89,
+      "text": "#### **What to share**"
+    },
+    {
+      "line": 91,
+      "text": "If someone in your team is evaluating AI agent products, share this. Not to stop them. To make sure they ask the right questions before signing."
+    },
+    {
+      "line": 111,
+      "text": "#### **Three questions before you trust an AI agent**"
+    },
+    {
+      "line": 115,
+      "text": "Every AI agent product will give you a capabilities list. None of them will give you a stakes list. These three questions take less than two minutes. They work at every scale: before your organisation signs off on an agent deployment, before you let a plugin act on your behalf, before you trust a tool with something you care about."
+    },
+    {
+      "line": 117,
+      "text": "##### **1. Who pays when this goes wrong?**"
+    },
+    {
+      "line": 125,
+      "text": "Before you deploy an agent, sign off on one, or delegate a task to one, write down the name of the person who bears the cost of the worst plausible mistake. If you cannot name them, you do not understand the tool well enough to trust it."
+    },
+    {
+      "line": 127,
+      "text": "##### **2. What can this agent do that I cannot undo?**"
+    },
+    {
+      "line": 131,
+      "text": "Reversibility is the single most important constraint for any agent interaction. Before you give an agent access to anything, ask: if it does the wrong thing for five minutes, can I undo it? If the answer is no, the agent should not have unsupervised access. Full stop."
+    },
+    {
+      "line": 137,
+      "text": "##### **3. Whose language am I using to describe this?**"
+    },
+    {
+      "line": 145,
+      "text": "This is the test. The agent does not play games. It executes functions. The game is yours: your judgement, your stakes, your consequences. These three questions keep that visible."
+    }
+  ]
+}

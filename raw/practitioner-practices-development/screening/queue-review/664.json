@@ -1,0 +1,45 @@
+{
+  "queue_position": 269,
+  "id": 664,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ivan-zhao/transcript.md",
+  "sha256": "f1bd2d547638ecbaa93388aa204f59cb8dc95dcb30c42dd405046098335ee239",
+  "title": "Notion's lost years, near collapse during COVID, staying small to move fast, building horizontal",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L34 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 477,
+      "text": "Ivan Zhao (00:58:17):"
+    },
+    {
+      "line": 478,
+      "text": "We definitely did not expect language model. It's such a gift for everybody building tools, right? Complete change the material you can work with. One realization, it's you have a surface area that people spend daily work with, especially during writing and managing your tasks and project. It's really easy to slice the language model writing AI capability into it. So that's the first part we built. That realization is AI is so good at reasoning and understanding and searching things, and we can do a much better job of finding and searching things if all the information are together. That's what we realized. AI is really good with bundled offerings. AI is really good with horizontal tools. So that's the second phase, we call it. The first product was our AI writer product. Second product is AI Q&A or connectors. Please look at all the information in Notion and give your answer."
+    },
+    {
+      "line": 495,
+      "text": "Ivan Zhao (01:03:08):"
+    },
+    {
+      "line": 496,
+      "text": "The tools are extensions of us. That's why our office room named as timeless tools. They extend us a little bit. And once they extend us, once we shape them, once we bring them to world, they can come back to shape us."
+    },
+    {
+      "line": 498,
+      "text": "(01:03:29):"
+    },
+    {
+      "line": 499,
+      "text": "One of my favorite quotes like the Marshall MacLean quotes, \"We shape our tools. Then after, our tools shape us.\" I think that's probably too philosophical for building product or business, but there is a sense thinking what are you bringing to the world that will come back to bite you or shape you? And are you extending the part, the so-called good part of human nature, or are you extending the part that might be more zero-sum, might be more negative, right?"
+    },
+    {
+      "line": 591,
+      "text": "Ivan Zhao (01:11:29):"
+    },
+    {
+      "line": 592,
+      "text": "We're trying to hire misfits. So if you think you're a misfit, if you're exceptional at many things especially, you want to build Lego for software, you want to take interesting spin on AI with Lego for software, then DM me."
+    }
+  ]
+}

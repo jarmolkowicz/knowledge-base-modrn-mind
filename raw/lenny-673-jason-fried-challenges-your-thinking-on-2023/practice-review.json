@@ -1,0 +1,33 @@
+{
+  "id": 673,
+  "group_index": 17,
+  "decision": "merge_as_support_with_limits",
+  "coverage": "Read relevant complete transcript exchanges: L299–315; 00:38:09–00:41:08. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L299–315; 00:38:09–00:41:08"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Advice based on introducing Shape Up."
+  ],
+  "proposed_outcomes": [
+    "Create room to learn without making a first attempt decisive."
+  ],
+  "limits": [
+    "Pre-AI transfer idea, not tested AI adoption guidance. Low stakes alone does not provide useful feedback; define observable failure and a review point."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/lenny-585-why-most-product-managers-are-unprepared-2023/drafts/practices/rehearse-with-audience-experience.md"
+  ],
+  "role": "support",
+  "review_note": "Try a new way of working on a low-criticality project before applying it to important work.",
+  "author": "Jason Fried",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/rehearse-with-audience-experience.md"
+  ],
+  "historical_drafts_retained": true
+}

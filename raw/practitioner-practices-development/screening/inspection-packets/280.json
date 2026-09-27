@@ -1,0 +1,34 @@
+{
+  "id": 280,
+  "title": "Consultants.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/consulting.md",
+  "sha256": "ac5f584b2a020c7d296fa719febb77758051678d78017cb890debdc4168780a5",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1006,
+  "headings": [
+    "**Table of contents**",
+    "1. Being a consultant in 2025.",
+    "2. How AI is eating up search.",
+    "Perplexity to search.",
+    "How much should you spend on AI?",
+    "ChatGPT to search.",
+    "Other things to search.",
+    "3. How AI is eating up designing slides.",
+    "4. A video of me being a consultant"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 174,
+      "text": "If you sell thinking for a living, read this blog twice."
+    },
+    {
+      "line": 122,
+      "offset": 6342,
+      "text": "It’s the most powerful (it also takes the longest) search available. You can use the same prompt as I used on Perplexity. Then you simply have to answer ChatGPT’s questions."
+    }
+  ]
+}

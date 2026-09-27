@@ -1,0 +1,29 @@
+{
+  "queue_position": 229,
+  "id": 603,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/daniel-lereya/transcript.md",
+  "sha256": "2d8fd3dd6042d064719ac06a81c777095552788666e319228c686ca4217cf779",
+  "title": "Daniel Lereya",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L31 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 564,
+      "text": "Daniel Lereya (01:17:50):"
+    },
+    {
+      "line": 565,
+      "text": "Maybe I start with a personal one. It's not about work, but I think it really shows that for me, it was a moment of really saying this has so much potential in it. I actually prepared myself for a marathon and unfortunately I got injured in my knee. Yeah/ I went to do an MRI scan and I finished the scan and they gave me this disc with the results and then they said, \"Listen, you need to schedule a doctor appointment five days from now.\" Okay. I said, I took it, put it in ChatGPT and ask for the results, an explanation of line by line, what does it mean. And then I of course went to the doctor and said, these are the results. But I think for me, this is something that I was really happy about using it and it also opens my mind a lot because I think that if you think about it from the product perspective, and this is how we think about AI in Monday, the technology is amazing, you can do so much with it, but there's still the part of productizing it because every person that I talked with him about this example, with enthusiasm he said, \"How did you think about putting your MRI there?\""
+    },
+    {
+      "line": 567,
+      "text": "(01:19:15):"
+    },
+    {
+      "line": 568,
+      "text": "And I said, \"I don't know, I just did.\" But this is all creating products that actually allow people to leverage this technology. And more on the work side, I use it a lot. I think for me, one recent example I would say is we really worked hard towards determining the pricing for AI offering that I was mentioning earlier. And just in two hours I managed to get the full perspective on what everyone else are doing. And we have analysts and we have product managers, but the fact that I was independent and managed to get the initial thoughts and all the information in just a bit, it was mind-blowing. I use it a lot in order to understand things that are very extensive, what the competitors are doing, what is the history of this and that. And I think it helped me a lot in that sense."
+    }
+  ]
+}

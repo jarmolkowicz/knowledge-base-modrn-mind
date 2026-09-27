@@ -1,0 +1,45 @@
+{
+  "slug": "lenny-705-leading-with-empathy-keith-yandell-2023",
+  "original_filename": "transcript.md",
+  "format": "md",
+  "source_type": "transcript",
+  "word_count": 12170,
+  "hash": "f486a5cf8d5a97e9aaefb3186535ad3f843697efb809630913c4747055cbb52d",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:47Z",
+  "decisions": [
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/lenny-705-leading-with-empathy-keith-yandell-2023.md",
+      "practices": [
+        "practices/argue-the-other-side-before-deciding.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 401,
+  "screening_id": 705,
+  "collected_from": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/keith-yandell/transcript.md",
+  "bibliographic_metadata": {
+    "title": "Leading with empathy | Keith Yandell (DoorDash, Uber)",
+    "date": "2023-02-09",
+    "url": "https://www.youtube.com/watch?v=tlCK9TuALtk",
+    "collection": "Lenny's Podcast"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "practice_review": "practice-review.json"
+}

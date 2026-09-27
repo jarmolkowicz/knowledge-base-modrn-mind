@@ -1,0 +1,39 @@
+{
+  "id": 479,
+  "title": "Run Your Own AI on a Laptop You Already Own",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/run-ai-locally-old-laptop.md",
+  "sha256": "ad9edf49a7e5898b871ec5b559b928fbaff28b6791e1f90c460bd4022431e519",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2873,
+  "headings": [
+    "**In this post I will:**",
+    "**The machine**",
+    "**What speed hides**",
+    "**What the small model reveals**",
+    "**Renting versus buying**",
+    "**The FOMO trap**",
+    "**It keeps prompting you to keep prompting**",
+    "**Why this matters for you**",
+    "**How to do this yourself**",
+    "**The temperature experiment**",
+    "**Other models to try**",
+    "**What to notice**",
+    "**Useful commands**",
+    "**What local models cannot do yet**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 418,
+      "text": "I downloaded a free AI model onto a laptop Apple refused to repair"
+    },
+    {
+      "line": 72,
+      "offset": 4222,
+      "text": "I asked it to explain critical AI literacy. The answer was decent: bias, ethics, evaluating claims. Generic, but structurally sound. Then it offered me three links to learn more: the AI Now Institute,"
+    }
+  ]
+}

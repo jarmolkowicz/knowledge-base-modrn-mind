@@ -1,0 +1,30 @@
+{
+  "id": 735,
+  "group_index": 1,
+  "decision": "defer",
+  "role": "deferred",
+  "locators": [
+    "01:01:48–01:09:45, L449–507; audit at 01:04:10"
+  ],
+  "basis": "Matt Mochary describes a coaching energy audit and reports use with Brex founders; credits Diana Chapman for four zones.",
+  "reported_outcomes": [
+    "Reports that founders redistributed internal/external meetings; host describes a simpler personal energy review."
+  ],
+  "proposed_outcomes": [
+    "Notice draining work and redesign, stop or redistribute it."
+  ],
+  "limits": [
+    "Clip title/date and full-interview body do not align; description links another full episode. Subjective recalled energy is not skill, importance or objective productivity. 80% green and nine-in-ten claims are not validated targets."
+  ],
+  "related_entries": [
+    "effort-investment-review"
+  ],
+  "review_note": "Defer separate AI transfer card: useful general audit but provenance and added contribution require resolution.",
+  "practitioner": "Workload cannot always be delegated; do not transfer unwanted work without considering another person’s workload and consent.",
+  "coverage": "Read metadata/intro and complete relevant exchanges with surrounding discussion at the locators below; not the full episode.",
+  "practice_files": [],
+  "source_path": "raw/lenny-735-are-your-fears-giving-you-terrible-2023/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "pending",
+  "draft_only": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 167,
+  "title": "Executive Briefing: The Two-Class System",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/executive-briefing-the-two-class.md",
+  "sha256": "2e6ed2e6ad7b4a39611939c3a6dd7d00947cd75b350caa3909fd75e9f8a19a0b",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 537,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 229,
+      "text": "In July 2025, Jason Lemkin — one of the most respected operators in SaaS — watched a R"
+    },
+    {
+      "line": 26,
+      "offset": 3019,
+      "text": "Every framework people reach for to understand this moment asks the wrong question. They ask whether AI replaces workers. But when the cost of production collapses, the interesting question is never “do we still need producers?” It’s always “what becomes the n"
+    }
+  ]
+}

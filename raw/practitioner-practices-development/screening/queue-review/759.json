@@ -1,0 +1,37 @@
+{
+  "queue_position": 340,
+  "id": 759,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/nickey-skarstad/transcript.md",
+  "sha256": "365bc08b988652613fd7af8084599eacd85d9f17cd3a402f85d28db7f364563e",
+  "title": "Nickey Skarstad (Airbnb, Etsy, Shopify, Duolingo) on translating vision into goals, operationalizing product quality, second-order decisions, brainstorming, influence, and much more",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L52 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 426,
+      "text": "(00:50:12):"
+    },
+    {
+      "line": 427,
+      "text": "Where I've seen them fail is when they happen at the function level, and they're not done or shared as a team. Typically it's normal to have a design review or to have some sort of technical review. And the more you can try to bring those different review processes into one central moment to check in, the better it tends to go. Because what happens is you'll have feedback in a vacuum. The design leader will give the designer feedback, and then you don't hear about it. Or there'll be some technical flaw that happens in a very specific technical review that doesn't get back to the larger team."
+    },
+    {
+      "line": 438,
+      "text": "(00:51:49):"
+    },
+    {
+      "line": 439,
+      "text": "But when there are moments where you think it is basically a feedback gate, where it's a gate you need to walk through and a specific moment in time where you've gotten feedback, I think having a cross-functional meeting where there's a clear pre-read or something that's sent before. It's like, here's what we're talking about today. And then aligning on, do we think this meets our goals and does this meet our quality bar? And doing that in a really thoughtful way just so the team gets feedback. So the leadership is plugged in, but also so you're not standing the way of people shipping their products."
+    },
+    {
+      "line": 450,
+      "text": "Lenny (00:53:27):"
+    },
+    {
+      "line": 451,
+      "text": "I love that. Such a simple framework. And then one last question along those lines, do you leave it up to the team to schedule these meetings, or are you pulling it out of them and making sure they schedule it?"
+    }
+  ]
+}

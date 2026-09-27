@@ -1,0 +1,39 @@
+{
+  "id": 526,
+  "title": "The Humanities Are the Moat",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/why-humanities-are-the-moat-against-ai.md",
+  "sha256": "c07bee670343c355af4a2e58a5aaaaaa6df823a2b7e6e10cba2b64c879cbfe35",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1999,
+  "headings": [
+    "**In this post I will:**",
+    "**Why naming a robot Plato tells you everything**",
+    "**Why the humanities have been defunded for twenty years**",
+    "**The most important skills AI cannot replicate are humanities skills**",
+    "**What happens when you automate the thinking tasks**",
+    "**Why the humanities are the moat against AI**",
+    "**The hardest question in critical AI literacy**",
+    "**Five texts that build the skills AI cannot replicate**",
+    "**Rhetoric, Aristotle (4th century BCE)**",
+    "**Frankenstein, Mary Shelley (1818)**",
+    "**Do Androids Dream of Electric Sheep?, Philip K. Dick (1968)**",
+    "**Watchmen, Alan Moore and Dave Gibbons (1986)**",
+    "**The Colonel, Carolyn Forché (1978)**",
+    "**What these five texts share**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 399,
+      "text": "The ability to evaluate what AI produces was never a technical ski"
+    },
+    {
+      "line": 97,
+      "offset": 7729,
+      "text": "It sounds simple. It is the hardest question in critical AI literacy. Because the AI always sounds complete. The output is fluent, structured, and confident. It reads like it has considered everything"
+    }
+  ]
+}

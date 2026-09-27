@@ -1,0 +1,31 @@
+{
+  "queue_position": 31,
+  "id": 80,
+  "path": "raw/inbox/Practical/Ethan Mollick/management-as-ai-superpower.md",
+  "sha256": "f455e6cbbca7f60a625d578e01016ed8679e7853f96c52054c5944b20d1faa7a",
+  "title": "Management as AI superpower",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 20,
+      "text": "# The Equation of Agentic Work"
+    },
+    {
+      "line": 36,
+      "text": "An example of a many hour Human Baseline Time prompt, with an initial AI Process Time of 30 minutes (when you can be doing something else) plus the time to check and write the prompt. If you have to make a lot of corrections, though, it isn’t worth it."
+    },
+    {
+      "line": 38,
+      "text": "We know this equation works because this past summer, OpenAI released one of the more important papers on AI and real work, GDPval. I have discussed it before, but the key was that it pitted experienced human experts in diverse fields from finance to medicine to government against the latest AIs, with another set of experts working as judges. It took experts seven hours on average to do the work, so, in this case, that is the **Human Baseline Time**. The **AI Process Time** was interesting: the AI took only minutes for tasks, but it required an hour for experts to actually check the work, and, of course, prompts take time to write as well. As for **Probability of Success**, when GDPval first came out, judges gave human work the win the majority of the time, but, with the release of GPT-5.2, the balance shifted. GPT-5.2 Thinking and Pro models tied or beat human experts an average of 72% of the time."
+    },
+    {
+      "line": 64,
+      "text": "# Managing Agents"
+    },
+    {
+      "line": 70,
+      "text": "As a business school professor, I think many people have the skills they need, or can learn them, in order to work with AI agents - they are management 101 skills. If you can explain what you need, give effective feedback, and design ways of evaluating work, you are going to be able to work with agents. In many ways, at least in your area of expertise, it is much easier than trying to design clever prompts to help you get work done, as it is more like working with people. At the same time, management has always assumed scarcity: you delegate because you can’t do everything yourself, and because talent is limited and expensive. AI changes the equation. Now the “talent” is abundant and cheap. What’s scarce is knowing what to ask for."
+    }
+  ]
+}

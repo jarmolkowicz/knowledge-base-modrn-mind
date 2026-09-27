@@ -1,0 +1,29 @@
+{
+  "queue_position": 320,
+  "id": 733,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/matt-lemay/transcript.md",
+  "sha256": "f3c3d34a4d06e407b4597f721db5d0bf9f887af12059c8cd138eac2b191337b8",
+  "title": "The one question that saves product careers | Matt LeMay",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 533,
+      "text": "Matt LeMay (00:45:24):"
+    },
+    {
+      "line": 534,
+      "text": "But in that book, she has this visual where she says that most companies approach cascading OKR as kind of this multi-level, like at the top is company goals, then department goals, then big team goals, then small team goals, and smaller team goals. Which leads to the very situation I described where you can't add those small team goals back up to the company goals. She has a visual that she compares that to, which is the company goal as a center of gravity, and then every other team goal orbiting one level around it. And this blew my mind when I saw it for the first time, because whether you're doing OKRs or KPIs or north star metrics, whatever framework you're ostensibly using, if you use it well, it looks like that."
+    },
+    {
+      "line": 665,
+      "text": "(01:02:26):"
+    },
+    {
+      "line": 666,
+      "text": "So impact estimation is something that is written about quite well, quite extensively in product management stuff, but it's something that it's easy to not do. I work with a lot of teams that want to know, again, the right best practice for doing prioritization, whether that's should we use ICE or RICE or MoSCoW or whatever it is, what's the right way to do prioritization? And again, it depends, but if you don't have a clear and specific sense of what impact means, you can't really prioritize effectively. So this is where, again, everything comes back to that first step of the way you set goals."
+    }
+  ]
+}

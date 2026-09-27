@@ -1,0 +1,24 @@
+{
+  "id": 9,
+  "title": "The Case for Reading Fiction",
+  "collection": "Adam Grant",
+  "path": "raw/inbox/Practical/Adam Grant/the-case-for-reading-fiction.md",
+  "sha256": "612aecca306b0cca0d5f125140898cc7ee9babcf845b6cbacd0a2a892e8f3d6c",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 444,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 203,
+      "text": "“That’s what trauma does—it bookends the chapters of your life. It perforates your story with pauses. It demarcates the "
+    },
+    {
+      "line": 12,
+      "offset": 370,
+      "text": "This is from my wife Allison Sweet Grant’s debut novel, **I Am the Cage**, which is out today. It’s inspired by her experience with childhood medical trauma, but it’s not a memoir—it’s a work of fiction. Watching her write it got me thinking about the benefits of reading novels."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 489,
+  "title": "Teach AI to Use Less",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-8-teach-it-to-use-less.md",
+  "sha256": "1a53409b83439b95651bd75426841713a45365d0213a57241fa7c2f323a1b63c",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 509,
+  "headings": [
+    "**Step-by-step**",
+    "**A moment from me**",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**From [Slow AI #7 – Teach It the Wrong Answer](https://theslowai.substack.com/p/slow-ai-7-teach-it-the-wrong-answer)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 194,
+      "text": "Last week, we played with deliberate errors to see what they revea"
+    },
+    {
+      "line": 44,
+      "offset": 1158,
+      "text": "If you’re new to Slow AI, our first invitation is still a favourite:"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 602,
+  "title": "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/dan-shipper/transcript.md",
+  "sha256": "c6a9cb31e88dc173e860eae0c94d1becadfb78381f5413ef158fc1d0680c0990",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 18945,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 866,
+      "text": "The business you're building, the team you're buildin"
+    },
+    {
+      "line": 457,
+      "offset": 41120,
+      "text": "So I think when I ask it to write something for me, it's actually better than yours. Or maybe not yours, but your average ChatGPT user. And I also find I use it"
+    }
+  ]
+}

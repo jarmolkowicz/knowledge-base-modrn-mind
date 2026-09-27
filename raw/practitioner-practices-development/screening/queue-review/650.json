@@ -1,0 +1,37 @@
+{
+  "queue_position": 261,
+  "id": 650,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/gustaf-alstromer/transcript.md",
+  "sha256": "467e8deea28cfe7a70a3fac00ef9b3897bad61227b0329c36c1c1367ba75d789",
+  "title": "Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator, Airbnb)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 108,
+      "text": "Gustaf Alströmer (00:11:20):"
+    },
+    {
+      "line": 109,
+      "text": "Yeah, actually I haven't heard it before, but you know me, I'm an optimistic person. I think it probably reflects on my view of this question, but I would say desperation sounds like a negative place that you're starting at. I actually think that most people to start companies start from a positive place. But the motivations, I agree with what he said, can be very diverse for successful founders, right?"
+    },
+    {
+      "line": 126,
+      "text": "Gustaf Alströmer (00:14:23):"
+    },
+    {
+      "line": 127,
+      "text": "It's a good question. I would say sometimes if someone doesn't have a motivation or don't know why they're doing this, they're doing this because they read that it would be a natural career step. So a good reason to not start a company is if you think of starting a company as a career step. Well, it is not. Because if it's successful, it'll be your entire career. It'll be 10 years most likely. And if it's not successful, then it's not something that people generally aspire to start. So non-successful startups. So I think people will start companies because this is sort of something they want to put on their resume. They have not understood what startups are or why you should do them."
+    },
+    {
+      "line": 558,
+      "text": "Gustaf Alströmer (01:20:09):"
+    },
+    {
+      "line": 559,
+      "text": "Pro tip. Number one thing is go to YouTube and type in like... I think there's a video that we've recorded which is about how you succeed with your application [inaudible 01:20:18]. It's an hour long video that gives you all the pro tips on how to do it. We told people in advance, \"Once you've watched that video, then see if you know anybody who've done YC and then reach out to them and maybe ask them if YC is right for you, but also ask them what's important for you to, as you kind of approaching applying to YC, writing the application, during the interview, what were the things that matter?\" Those are probably the two things I would do."
+    }
+  ]
+}

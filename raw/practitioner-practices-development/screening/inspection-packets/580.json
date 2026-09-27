@@ -1,0 +1,26 @@
+{
+  "id": 580,
+  "title": "The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/camille-fournier/transcript.md",
+  "sha256": "0bfec63f274d60f7b1fbc08bddade93a6686d8c4cde188c13ea2b795a78053ec",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15477,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 854,
+      "text": "I'm curious what it is that PMs do that annoy enginee"
+    },
+    {
+      "line": 532,
+      "offset": 76527,
+      "text": "I find it helpful, for example, if I've written a sentence and I'm like, I like this sentence, but I feel like, I don't like the phrasing or the format that I'v"
+    }
+  ]
+}

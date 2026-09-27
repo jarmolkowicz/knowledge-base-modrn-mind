@@ -1,0 +1,26 @@
+{
+  "id": 609,
+  "title": "How Revolut trains world-class PMs: The “Local CEO” model, raw intellect & building wow products",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/dmitry-zlokazov/transcript.md",
+  "sha256": "2749bcff326505bbc2981c01ebd426eabe208cbc17c2c7fbdd15b64a1370ac55",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 10779,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 82,
+      "offset": 6013,
+      "text": "Everyone is striving for talented, skillful, smart pe"
+    },
+    {
+      "line": 382,
+      "offset": 53965,
+      "text": "I would say it's actually being able to unblock your team and that sometimes require product owners to steam roll changes because it also means that you could e"
+    }
+  ]
+}

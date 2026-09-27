@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "title": "Getting Laptops Out of Classrooms and Talking People Out of Hate",
+  "collection": "Adam Grant",
+  "path": "raw/inbox/Practical/Adam Grant/getting-laptops-out-of-classrooms.md",
+  "sha256": "bf9fa2ccf1659f8e10a85402fdaf26951cf46fda93eadefee48259d3e7c92b0e",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 258,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 280,
+      "text": "A mark of emotional maturity is hearing disagreement without taking offense."
+    },
+    {
+      "line": 22,
+      "offset": 1358,
+      "text": "2. The Case That AI Is Thinking (James Somers, New Yorker)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "queue_position": 233,
+  "id": 608,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/dharmesh-shah/transcript.md",
+  "sha256": "beb46b5ff5ddcac1daca83f931164f61fed9568067ee10af9f7c81e057961c29",
+  "title": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 752,
+      "text": "(01:32:27):"
+    },
+    {
+      "line": 753,
+      "text": "I've been here for mobile, I've been here for social, I've seen lots of things that people got really excited about, but nothing to me has hit the Richter scale to the degree that AI does, and the reason is, okay, so if you think about early computers, PCs, that kind of gave us compute at scale, which was awesome. The internet effectively gave us distribution at scale. It allowed us to take information, products, whatever, and get them out at scale because everything was now connected, where before it was not. What AI gives us now is cognition at scale, the ability to literally amplify the human brain, right? That's never been done before. Look, not that we haven't been trying, but now we have demonstrable evidence and products that actually work. We've used ChatGPT and products like it. And so it's life-changing, right? And so for the product people out there, which is a lot of you, AI..."
+    },
+    {
+      "line": 785,
+      "text": "(01:38:13):"
+    },
+    {
+      "line": 786,
+      "text": "So whatever it is, whatever line of business you're in, whatever you do as a professional, I guarantee you there are ways AI can help you, even with the tools that we have out there right now. So either use the tools, build tools on top of the APIs that exist, very easily accessible right now, very cheap to start. Yeah, just do it and iterate. And I'm a big believer also in learning in public as well. That's why the Culture Code is out there. It's like, okay, well, if you accept the fact that culture is a product, we're going to learn about things much better, like instead of just getting feedback from the employees at HubSpot, why don't we put it out to the world? Because the internet is exceptionally good at telling you why you're an idiot, right? It's like it's one of its core strengths. So I would recommend, have a goal in mind, write about it. I'm a big believer in writing generally, but yeah, do it in public."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "queue_position": 92,
+  "id": 357,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/8-ai-skills-learn-2026.md",
+  "sha256": "a31ba920e92c3c395f767bb737e8bd3accf18cd3cc6e09e9dd87208e15c601cc",
+  "title": "The 8 AI Skills That Will Separate Winners From Losers",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L32 ## Phase 1: Mindset",
+    "L59 ## Phase 2: AI Foundations",
+    "L80 ## Phase 3: AI Tech Stack",
+    "L106 ## The Formula",
+    "L130 ## **P.S. Need More Help? 👋**"
+  ],
+  "passages": [
+    {
+      "line": 32,
+      "text": "## Phase 1: Mindset"
+    },
+    {
+      "line": 44,
+      "text": "- **Trap:** Believing what you hear. This often fuels “Shiny Object Syndrome” where you try every new tool or business model you just heard on Instagram. Jumping ship from vibe coding to automations to whatever Reel you just saw."
+    },
+    {
+      "line": 59,
+      "text": "## Phase 2: AI Foundations"
+    },
+    {
+      "line": 71,
+      "text": "  - Ask me clarifying questions, one at a time, until you are 95% confident you can complete the task successfully"
+    },
+    {
+      "line": 76,
+      "text": "- **Action:** Tell AI to act as a critic or skeptic. For example, instead of ChatGPT glazing you, ask it, “Tear my idea apart and find my blind spots.” Use multiple LLM models to compare and contrast answers; look for convergence and divergence of answers."
+    },
+    {
+      "line": 80,
+      "text": "## Phase 3: AI Tech Stack"
+    },
+    {
+      "line": 82,
+      "text": "*Here are the technical skills you should learn in 2026 to increase your leverage and actually use AI to scale yourself. However, if you’re still struggling with the previous 5 skills, I recommend spending your time on developing those FIRST.*"
+    },
+    {
+      "line": 94,
+      "text": "  - *Old Way:* Copy/paste a customer support ticket email into ChatGPT, write reply, paste back into Gmail."
+    },
+    {
+      "line": 101,
+      "text": "- I chose Documentation as a separate skill because the mileage you get out of AI systems squarely depends on the quality of your documentation. It is the “brain” powering your AI System. Write clear, step-by-step instructions. Continually update your documentation, as it becomes your competitive advantage."
+    },
+    {
+      "line": 102,
+      "text": "- Think about it this way: “How would you explain this task to a brand new employee?” Write *that* down. That’s your documentation."
+    },
+    {
+      "line": 106,
+      "text": "## The Formula"
+    },
+    {
+      "line": 124,
+      "text": "The more skills you have, the more clarity you will have, and the more leverage you will get out of AI."
+    }
+  ]
+}

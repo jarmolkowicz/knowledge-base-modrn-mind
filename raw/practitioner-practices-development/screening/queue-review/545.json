@@ -1,0 +1,29 @@
+{
+  "queue_position": 192,
+  "id": 545,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/andrew-wilkinson/transcript.md",
+  "sha256": "e1256e0699988c229280a2cb93ed5df68c26afe3b0d0836f1494a2981eb994a5",
+  "title": "I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 96,
+      "text": "Andrew Wilkinson (00:07:30):"
+    },
+    {
+      "line": 97,
+      "text": "I don't necessarily think it has to be something that is small forever, but it has to be something that like I think about if you're a first time entrepreneur or a student or something, you don't want to walk into the gym on day one and try and deadlift 300 pounds. So when someone comes to me and they're a first time entrepreneur and they say, \"I'm going to make the next great AI company,\" or \"I'm going to launch a new bank,\" or something like that, something that is very, very rigorous and complicated and highly competitive and regulated, I think that is the equivalent. I think you really want to take the baby weights and start slowly building your muscle. And I think about my own experience starting a business, I was so lucky because the first business I ever started my web design agency, which became Metalab, that was so easy and it worked immediately because all I had to do was know how to build websites and be able to talk to potential customers."
+    },
+    {
+      "line": 465,
+      "text": "Andrew Wilkinson (01:04:37):"
+    },
+    {
+      "line": 466,
+      "text": "Well, the best part about ChatGPT is I used to just get stuck and I have ADHD. So when I got stuck, let's say, what's an example? I was redoing my home IT security. And what will happen is I'll be in the terminal and I'll enter something and then something goes wrong and it just keeps erroring. And then I'm like, \"Well, I'm out.\" I have ADHD, I can't tolerate this. I just lose the thread completely. And ChatGPT allows me to stay on track and go so much further and faster than I ever could before. I love not being artificially stopped in your tracks and being able to continue the flow state as a result."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 325,
+  "title": "Replaced.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/replaced.md",
+  "sha256": "ccdb6d5a0fdda5e8727ab987b810aa79a3be4d0ec8f5f17dd712303d648f45fe",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1794,
+  "headings": [
+    "**1. How I duplicated myself.**",
+    "**Archive:** ***https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing.***",
+    "**2. You need more people.**",
+    "**A. Master one AI win TODAY (exact example included).**",
+    "**B. How to teach someone to use AI for you.**",
+    "**C. Hire for psychology, not technical genius.**",
+    "**3.** **AI will create jobs… but still kill these jobs.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 150,
+      "text": "> **AI will create more jobs than it replaces.**"
+    },
+    {
+      "line": 111,
+      "offset": 4392,
+      "text": "✦ **Gemini** for images, **Opus Clip** to edit videos, **Claude** to write."
+    }
+  ]
+}

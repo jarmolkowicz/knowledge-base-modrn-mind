@@ -1,0 +1,32 @@
+{
+  "id": 450,
+  "title": "Can Claude Write Slow AI?",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/can-claude-write-slow-ai.md",
+  "sha256": "df275b3d00ec1748e7a30fea3cc4da67b9c050643b539a500d87bc4183a1f1a2",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1474,
+  "headings": [
+    "The Excerpts",
+    "**Excerpt 1**",
+    "**Excerpt 2**",
+    "**Excerpt 3**",
+    "**Excerpt 4**",
+    "**Excerpt 5**",
+    "**Excerpt 6**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 381,
+      "text": "*Slow AI* started as a weekly newsletter with a single prompt. I would"
+    },
+    {
+      "line": 23,
+      "offset": 1419,
+      "text": "I gave Claude a detailed voice profile of my writing: my sentence rhythm, my rhetorical moves, the way I open with a blunt claim and close with a short sentence that pins it down, my tendency to blend academic "
+    }
+  ]
+}

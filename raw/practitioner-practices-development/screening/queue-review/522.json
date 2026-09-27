@@ -1,0 +1,93 @@
+{
+  "queue_position": 175,
+  "id": 522,
+  "path": "raw/inbox/Practical/Sam Illingworth/when-ai-sounds-certain-ask-for-doubt.md",
+  "sha256": "3e16f5831d15bf2d392b1ec869d584dc2c3cc863eb42611abb66b4fde0508bfb",
+  "title": "When AI Sounds Certain, Ask for Doubt",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L26 #### **Step-by-step**",
+    "L50 #### **A moment from me**",
+    "L68 #### **What to do with it**",
+    "L80 #### **Why this matters**",
+    "L88 #### **[From Slow AI – Teach It What to Keep Private](https://theslowai.substack.com/p/slow-ai-11-teach-it-what-to-keep)**"
+  ],
+  "passages": [
+    {
+      "line": 12,
+      "text": "- Try a simple prompt that makes your AI tool question itself."
+    },
+    {
+      "line": 26,
+      "text": "#### **Step-by-step**"
+    },
+    {
+      "line": 30,
+      "text": "> When you give me an answer, I want you to doubt it. Show me what might be wrong."
+    },
+    {
+      "line": 34,
+      "text": "> Ask it to express hesitation before offering certainty."
+    },
+    {
+      "line": 36,
+      "text": "> Ask it to give you three reasons why its answer could be flawed."
+    },
+    {
+      "line": 38,
+      "text": "> Or ask it to turn its doubt into a question back for you."
+    },
+    {
+      "line": 40,
+      "text": "This prompt is not about undermining your tool."
+    },
+    {
+      "line": 42,
+      "text": "It is about loosening the grip of certainty and noticing what opens up."
+    },
+    {
+      "line": 46,
+      "text": "If you are new to *Slow AI*, our first invitation was: Teach It Something It Cannot Know."
+    },
+    {
+      "line": 50,
+      "text": "#### **A moment from me**"
+    },
+    {
+      "line": 56,
+      "text": "> The best way to learn a new skill is consistent daily practice… though I might be oversimplifying. Not everyone learns at the same pace. Some need rest or variety. Others need community."
+    },
+    {
+      "line": 68,
+      "text": "#### **What to do with it**"
+    },
+    {
+      "line": 73,
+      "text": "- Try the same prompt across different tools and compare how they hesitate."
+    },
+    {
+      "line": 80,
+      "text": "#### **Why this matters**"
+    },
+    {
+      "line": 82,
+      "text": "We are surrounded by confident answers: headlines, emails, AI outputs. Certainty is easy to consume but harder to question."
+    },
+    {
+      "line": 88,
+      "text": "#### **From Slow AI – Teach It What to Keep Private**"
+    },
+    {
+      "line": 92,
+      "text": "Kim turned *“I ate a cheese omelette for lunch”* into the first chapter of a thriller, complete with a shadowy antagonist called *the Archivist*."
+    },
+    {
+      "line": 97,
+      "text": "BD began with toast for breakfast, which soon became about credibility, cultural symbolism, and even security profiling. When they swapped toast for the neighbour’s cat (Soggy) things escalated quickly. ChatGPT turned the detail into a Cold War thriller, complete with sleeper agents and encrypted warnings. Asked to minimise, it then reduced the whole affair to a neighbour shrugging while Soggy napped in the sun."
+    },
+    {
+      "line": 105,
+      "text": "If you try this week’s prompt, I would love to see the most surprising doubt your tool expressed."
+    }
+  ]
+}

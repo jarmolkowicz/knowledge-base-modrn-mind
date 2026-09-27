@@ -1,0 +1,30 @@
+{
+  "id": 505,
+  "title": "Slow Takes Ep.24: Ordering the Answer You Want",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-takes-ep24-ordering-the-answer.md",
+  "sha256": "16ab9641b54e512ef9f4ffec3a5ac1cdb3fc19a7f95e3eee9f51f6a8fe1b4279",
+  "access": "public-page",
+  "kind": "article",
+  "words": 810,
+  "headings": [
+    "**The expert who bought his conclusion**",
+    "**Robin Williams’ children take the account back**",
+    "**EMMA cannot hear Yorkshire**",
+    "**A red circle round his face**",
+    "**The cameras that see the fire first**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 431,
+      "text": "Every Monday, Leor from Exploring ChatGPT and I go through the wee"
+    },
+    {
+      "line": 39,
+      "offset": 2786,
+      "text": "Healthwatch Rotherham has been collecting complaints about EMMA, an AI phone receptionist that GP surgeries in the town have put on the front desk. Healthwatch Rotherham’s manager, Kym Gleeson, says t"
+    }
+  ]
+}

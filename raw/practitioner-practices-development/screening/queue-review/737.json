@@ -1,0 +1,29 @@
+{
+  "queue_position": 322,
+  "id": 737,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/matthew-dicks/transcript.md",
+  "sha256": "6fdd1cfd7c2b609d07e21c5d44060edabc2cdc436c164aa561526188b8f05b16",
+  "title": "How to tell better stories | Matthew Dicks (Storyworthy)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 446,
+      "text": "(01:07:25):"
+    },
+    {
+      "line": 447,
+      "text": "So in a fit of panic, I decided to assign myself homework being an elementary school teacher, it's natural for me to have that inclination. So I just decided every day before I go to bed, I'm going to look back on the day and find one moment that would've been worth telling as a story. Even if it wasn't really worth telling, I was going to write it down. Now I don't write the whole thing down. That's crazy. It's not doable. What I do is I took an Excel spreadsheet, two columns, the date, and then I stretched the B column across. And in that B column, essentially the length of the computer screen, that's where I write my story."
+    },
+    {
+      "line": 641,
+      "text": "Matthew Dicks (01:33:44):"
+    },
+    {
+      "line": 642,
+      "text": "I guess I'll say it's the question I like to ask people most often maybe when I'm playing golf and things. I don't like to ask people what they do. I like to ask, how did you get into the job you currently have? It's a dangerous question because occasionally I ask people it and they realize they're in their job for weird happenstances that don't relate to what they dreamed of doing. So I've had two people in my life cry while they answered the question because they suddenly understand, I'm doing this because my sister got me into the company 16 years ago. And I go, \"Oh, well that's great. Is that what you always wanted to do?\" And they say, \"No, it's actually still not what I want to do.\" But I do think that most of the time, how you get a job is more interesting than the actual job you're doing. The answer to that question is more interesting."
+    }
+  ]
+}

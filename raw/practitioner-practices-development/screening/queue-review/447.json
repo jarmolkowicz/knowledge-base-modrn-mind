@@ -1,0 +1,37 @@
+{
+  "queue_position": 136,
+  "id": 447,
+  "path": "raw/inbox/Practical/Sam Illingworth/attribution-of-mind-ai.md",
+  "sha256": "1707e9d3174f6a7fd4a27957b7b91612684047a43412554513eaef126f9382f8",
+  "title": "The Illusion of the Artificial Mind",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 #### **Step-by-step**",
+    "L52 #### Teach AI Something It Cannot Know",
+    "L64 #### **A moment from** [Ellen Burns, PhD](https://open.substack.com/users/155266854-ellen-burns-phd?utm_source=mentions)",
+    "L102 #### The Slow AI Library",
+    "L114 #### **What to do with it**",
+    "L126 #### **Why this matters**",
+    "L148 #### **From [Fiction as a mirror for students using AI](https://theslowai.substack.com/p/ai-fiction-student-reflection)**",
+    "L162 #### **Let’s Collaborate**",
+    "L168 #### Collaborating with Slow AI"
+  ],
+  "passages": [
+    {
+      "line": 10,
+      "text": "Users often experience cognitive dissonance when interacting with AI. You ask a question. You read an answer. This tendency to attribute intention persists despite the knowledge that these systems lack consciousness."
+    },
+    {
+      "line": 64,
+      "text": "#### **A moment from** Ellen Burns, PhD"
+    },
+    {
+      "line": 68,
+      "text": "An example of how this model would be used in human-human interaction is when a schema of your own consciousness informs how you understand other people’s consciousness. The authors don’t elaborate on the example further, but let us suppose your schema of consciousness contains the characteristic of your consciousness being *unified* — then, according to this model, you will also assume in your interactions with other conscious creatures that they experience a unified consciousness. The authors posit that as AI’ become more and more human-like, these schemas get activated not only in human-human interaction but in human-AI interaction, too."
+    },
+    {
+      "line": 78,
+      "text": "While I don’t think the AI understands the difference between a ‘feeling’ and an ‘effect’, I do think it matters that AI is programmed to draw this distinction. What this output highlights is the difference between *us bringing something minded to our conversations* with AI and AI bringing something minded. In our interactions with AI, we are the ones bringing the emotion, judgement, and reasoning to the interaction. We are the ones with minds. I called the AI supportive, and it rightly pointed out that *support* in this scenario was an effect of my own psychology. The AI was not supportive. I perceived it as supportive. It brings the outputs. I bring the meaning."
+    }
+  ]
+}

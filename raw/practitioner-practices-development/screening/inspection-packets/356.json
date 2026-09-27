@@ -1,0 +1,35 @@
+{
+  "id": 356,
+  "title": "6 INSANE Projects to Learn Claude Fable and /goal",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/6-insane-projects-to-learn-claude-fable-loop-engineering.md",
+  "sha256": "155a0f647610ac92f3a209258b2824badb5040d08aec879a63f446e8c61b9473",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2218,
+  "headings": [
+    "Simple Prompt Engineering Template",
+    "1. 3D Simulation",
+    "2. Gaming",
+    "3. Visualization",
+    "4. Marketing",
+    "5. A/B Testing",
+    "6. Trip Planning",
+    "RECAP",
+    "FAQ",
+    "P.S. Need More Help? 👋"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 17,
+      "offset": 892,
+      "text": "> *TLDR; here are 6 copy-paste* `/goal` *prompts to build real things "
+    },
+    {
+      "line": 206,
+      "offset": 9975,
+      "text": "> Instead, the VERIFICATION step sends all posts through the skill `/post-grader` which scores them on a viral rubric. Then, Claude must loop and improve each post until they all score above 8/10."
+    }
+  ]
+}

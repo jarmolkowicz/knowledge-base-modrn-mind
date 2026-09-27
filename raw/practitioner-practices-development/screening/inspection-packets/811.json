@@ -1,0 +1,26 @@
+{
+  "id": 811,
+  "title": "Hard-won lessons building 0 to 1 inside Atlassian | Tanguy Crusson (Head of Jira Product Discovery)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/tanguy-crusson/transcript.md",
+  "sha256": "49f6a4eadcefb015b601c370fa1beac308c2653f68e5cd66592ac425629fbff9",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 21650,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 872,
+      "text": "Been in the product management team at Atla"
+    },
+    {
+      "line": 268,
+      "offset": 31714,
+      "text": "And now whenever I work, I tend to try and ignore competition other than watching every three months or so, seeing what came out, "
+    }
+  ]
+}

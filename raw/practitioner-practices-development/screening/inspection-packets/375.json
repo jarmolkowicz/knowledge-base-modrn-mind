@@ -1,0 +1,33 @@
+{
+  "id": 375,
+  "title": "Claude Just Changed Content Creation Forever",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/claude-just-changed-content-creation-remotion-video.md",
+  "sha256": "09b0208cce057e57272b0b26977bbed4f45dff8bb57b66ad26ff635b920967ea",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1163,
+  "headings": [
+    "1. Install the Remotion Skill",
+    "2. Create a Motion Graphics Video (Prompt 1)",
+    "3. Fact-Check and Add Screenshots (Prompt 2)",
+    "4. Personal Touches (Prompt 3)",
+    "5. Edit EXISTING Videos",
+    "6. Schedule to Social Media (The Final Step)",
+    "My Honest Take",
+    "**P.S. Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 246,
+      "text": "> Spring is here!! If you’re procrastinating posting on socials, don’t"
+    },
+    {
+      "line": 20,
+      "offset": 609,
+      "text": "In this comprehensive step-by-step tutorial, I’ll show you how to use Claude Code alongside the Remotion skill to build your local video creation/editing pipeline."
+    }
+  ]
+}

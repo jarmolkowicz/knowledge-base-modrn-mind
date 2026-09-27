@@ -1,0 +1,78 @@
+{
+  "queue_position": 89,
+  "id": 352,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/3-chatgpt-prompts-to-make-money-fast.md",
+  "sha256": "514f72eff46ffa9a63a53c0bae851061a9cd2a763493e13fa97150f0d7b0a282",
+  "title": "3 ChatGPT Prompts to Make Money Fast",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L31 ## How to Run This Prompt Chain",
+    "L55 ## Prompt 1: The Inventory",
+    "L77 ## Prompt 2: The Stress Test",
+    "L99 ## Prompt 3: The Verdict",
+    "L115 ## Big Picture",
+    "L133 ## Not Sure Where To Start? 👇"
+  ],
+  "passages": [
+    {
+      "line": 31,
+      "text": "## How to Run This Prompt Chain"
+    },
+    {
+      "line": 39,
+      "text": "Use the one with the most history on you… because prompt #1 digs through everything your AI remembers about you."
+    },
+    {
+      "line": 51,
+      "text": "Here’s each prompt and the specific job it does… because knowing the job is what turns a fun chat into a real decision."
+    },
+    {
+      "line": 55,
+      "text": "## Prompt 1: The Inventory"
+    },
+    {
+      "line": 57,
+      "text": "> ***List every skill I’ve built, problem I’ve solved, and audience I can reach without paying for ads based on everything you know about me.***"
+    },
+    {
+      "line": 77,
+      "text": "## Prompt 2: The Stress Test"
+    },
+    {
+      "line": 79,
+      "text": "> ***For each idea I’m considering, tell me the assumption most likely to be wrong, what the first 90 days actually look like, and what kind of person quits this and why: [your ideas from prompt 1].***"
+    },
+    {
+      "line": 85,
+      "text": "For each idea, you get 3 things: the assumption most likely to sink it, what the boring first 90 days really look like, and… the part that stings… exactly who quits this and why."
+    },
+    {
+      "line": 89,
+      "text": "If the person who quits sounds just like you, cross that idea off now. Better to find that out in minute 5 vs month 5."
+    },
+    {
+      "line": 99,
+      "text": "## Prompt 3: The Verdict"
+    },
+    {
+      "line": 101,
+      "text": "> ***Score each idea on whether I can get a paying customer in 30 days, I’d still want to do it in year 3, it uses what I already have, and the failure is recoverable… then tell me which wins.***"
+    },
+    {
+      "line": 107,
+      "text": "You opened this email asking how to make money with AI. You’re ending it with one idea and one next step: get your first paying customer in 30 days."
+    },
+    {
+      "line": 115,
+      "text": "## Big Picture"
+    },
+    {
+      "line": 123,
+      "text": "Treat the answer like a smart friend who’s watched you work all year: worth hearing, never the final word."
+    },
+    {
+      "line": 125,
+      "text": "Because the real win isn’t AI’s answer. It’s that you stop collecting “make money with AI” videos… and start testing ONE idea with your name on it."
+    }
+  ]
+}

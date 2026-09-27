@@ -1,0 +1,24 @@
+{
+  "id": 56,
+  "title": "When it Comes to AI: Think Inside the Box",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/when-it-comes-to-ai-think-inside-the-box.md",
+  "sha256": "164dbc221b4ff6b8de4a272fba9c727bb5259e4a5d16ae8b3ef14fb1c6b3584f",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 744,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 9,
+      "offset": 200,
+      "text": "James Somers recently published an interesting essay in *The New Yorker* titled “The Case That A.I. Is Thinking.” He sta"
+    },
+    {
+      "line": 41,
+      "offset": 4665,
+      "text": "Language model-based AI is an impressive technology that is accompanied by implications and risks that will require cool-headed responses. All of this is too important forpre-modern thinking. When it comes to AI, it’s time to start our most serious conversations by thinking inside the box."
+    }
+  ]
+}

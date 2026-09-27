@@ -1,0 +1,29 @@
+{
+  "queue_position": 335,
+  "id": 753,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/nabeel-s-qureshi/transcript.md",
+  "sha256": "73c55d1e1ea62a28c4a910920dd979dbc4c7af8dbba8a7e4e40b3f2a767a0d6c",
+  "title": "How Palantir built the ultimate founder factory | Nabeel S. Qureshi (founder, writer, ex-Palantir)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 528,
+      "text": "(01:11:41):"
+    },
+    {
+      "line": 529,
+      "text": "So the famous example here is Google kind of disengaging with a Pentagon AI project just because some people felt that working with the Pentagon was itself morally bad. I think that's a way to sort of the left of what the median American would say, I think the median American would say it's fine to work on defense stuff within reason and assuming you're doing largely good things, and so there was just this kind of almost arbitrage there at some point of just hang on, it's not like working on defense is inherently evil, it's actually a pretty interesting thing. And then there's this question of, well, would you rather be in the room and making this better or not? And so I'm struggling with how much I can share here, but as a simple example, if you're doing even a workflow, which I think many people would not be super comfortable with, let's say you're targeting somebody for some kind of strike. If you compare the way it's done now to maybe the way it was done in 2010, it's going to be a lot more targeted, it's going to be a lot more accurate, and so you've actually improved that process and reduced the chance of error. Maybe you should feel good about that, right? Now, that is a bullet many people are not willing to bite."
+    },
+    {
+      "line": 636,
+      "text": "(01:28:06):"
+    },
+    {
+      "line": 637,
+      "text": "And so I think just becoming a cyborg to the extent that you can. And then I think there's this barbell thing of, it's also important to just leave everything at go touch grass just for your own mental sanity."
+    }
+  ]
+}

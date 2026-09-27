@@ -1,0 +1,40 @@
+{
+  "id": 263,
+  "group_index": 0,
+  "decision": "merge",
+  "role": "support",
+  "locators": [
+    "L97–141, five rules",
+    "L147–174, goal and weekly-audit prompts"
+  ],
+  "basis": "Ruben Hassid describes a company gameplan and supplies prompts; promotional newsletter with informal observations.",
+  "reported_outcomes": [
+    "Reports conversations with people who feel busier and more exhausted; no assessed outcomes of the proposed gameplan."
+  ],
+  "proposed_outcomes": [
+    "Choose work with a clear purpose and set stopping boundaries."
+  ],
+  "limits": [
+    "The three-for-one task deletion ratio and 8pm cutoff are arbitrary examples. Disagreeing with an AI audit is not evidence that it works. AI should not force one goal or decide what matters. Claims of addiction and Harvard confirmation are not established by this article."
+  ],
+  "related_entries": [
+    "effort-investment-review"
+  ],
+  "review_note": "Merge problem-before-prompt and output-necessity ideas into Newport; last-prompt boundary supports stopping card. Exclude coercive goal-selection prompt.",
+  "practitioner": "Retain human goal choice and context-sensitive stopping time; allow several legitimate obligations.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [
+    "raw/newport-022-avoiding-digital-productivity-traps-2026/drafts/practices/choose-the-result-before-the-tool.md",
+    "raw/illingworth-521-when-ai-never-stops-should-you-2025/drafts/practices/carry-one-question-offline.md"
+  ],
+  "source_path": "raw/hassid-263-workaholic-2026/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/choose-the-result-before-the-tool.md",
+    "practices/carry-one-question-offline.md"
+  ],
+  "historical_drafts_retained": true
+}

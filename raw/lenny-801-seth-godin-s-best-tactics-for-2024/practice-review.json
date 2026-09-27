@@ -1,0 +1,37 @@
+{
+  "id": 801,
+  "group_index": 3,
+  "decision": "merge",
+  "role": "support",
+  "locators": [
+    "18:15–20:42, L154–167; process at 19:20"
+  ],
+  "basis": "Seth Godin explains how he used Claude while writing his book; direct first-person interview account.",
+  "reported_outcomes": [
+    "Reports finding missing list items, unsupported claims and voice mismatches while writing the words himself."
+  ],
+  "proposed_outcomes": [
+    "Use an additional reader to find omissions and unsupported argument."
+  ],
+  "limits": [
+    "No independently assessed improvement. Perceived kindness or humility is not reliability. Suggested missing items need factual checks."
+  ],
+  "related_entries": [
+    "think-first"
+  ],
+  "review_note": "Merge into Hogue critique card as a substantive variant, with distinct attribution.",
+  "practitioner": "Ask for locations and explanations; the author decides whether something is missing and checks evidence.",
+  "coverage": "Read metadata/intro and complete relevant exchanges with surrounding discussion at the locators below; not the full episode.",
+  "practice_files": [
+    "raw/illingworth-459-how-can-writers-use-ai-ethically-2025/drafts/practices/request-criticism-without-rewriting.md"
+  ],
+  "source_path": "raw/lenny-801-seth-godin-s-best-tactics-for-2024/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/request-criticism-without-rewriting.md"
+  ],
+  "historical_drafts_retained": true
+}

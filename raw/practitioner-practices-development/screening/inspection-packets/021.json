@@ -1,0 +1,28 @@
+{
+  "id": 21,
+  "title": "Are We at War with AI Agent “Civilizations”?",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/are-we-at-war-with-ai-agent-civilizations.md",
+  "sha256": "0eade3f4b56957b33d2c99878c77773aef6fbd0def56cbfea946fc817e083e5f",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1785,
+  "headings": [
+    "Question #1: What’s the Deal with “Agent Swarms”?",
+    "Question #2: Should We Be Worried that the Agents are Plotting?",
+    "Question #3: How Should We Be Thinking About All of This?"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 420,
+      "text": "I thought I was done talking about the OpenAI hacking attack from July, but I was wrong. Last week, OpenAI ​released mor"
+    },
+    {
+      "line": 37,
+      "offset": 2829,
+      "text": "To implement this loop, the program – often called an *agent* – essentially grows an ever-longer prompt to send to the LLM in step 1. The prompt captures the original challenge and the results of relevant steps it’s taken so far. (The program doesn’t literally just keep adding new results to one long prompt. It stores the results locally and then attempts to"
+    }
+  ]
+}

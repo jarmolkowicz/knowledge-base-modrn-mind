@@ -1,0 +1,24 @@
+{
+  "id": 11,
+  "title": "The New Books to Fight Brain Rot",
+  "collection": "Adam Grant",
+  "path": "raw/inbox/Practical/Adam Grant/the-new-books-to-fight-brain-rot.md",
+  "sha256": "ff8a50cad85e79097efbfa8e76c2c22703728d2a1a00253d851c7589c9289e96",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 305,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 215,
+      "text": "Shortform content usually goes in one ear and out the other. Great books take up residence in our brains and keep our ne"
+    },
+    {
+      "line": 12,
+      "offset": 360,
+      "text": "One of the perks of my job is getting an early look at each season’s new releases. My favorites from summer and fall explore how to avoid arrogance and find authenticity, build cognitive and social skills, and create a more respectful, more delightful world."
+    }
+  ]
+}

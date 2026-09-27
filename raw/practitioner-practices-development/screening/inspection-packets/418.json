@@ -1,0 +1,34 @@
+{
+  "id": 418,
+  "title": "Why AI Generated Comments Weaken Real Writing",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-comments-and-real-writing.md",
+  "sha256": "cc9699fdb6b584461cf3d77afd27a71e980b43d06ae1cd94392bf0705a30025c",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1980,
+  "headings": [
+    "**Why people react strongly to automated comments**",
+    "Slow AI #1 – Teach It Something It Cannot Know",
+    "**What writers value in comments**",
+    "The Slow AI Library",
+    "**What we are learning from this discussion**",
+    "**Let’s Collaborate**",
+    "Collaborating with Slow AI",
+    "**Why this matters**",
+    "**From [Teaching AI to Notice Neurodiverse Perception](https://theslowai.substack.com/p/ai-and-neurodiverse-perception)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 242,
+      "text": "This post began in a Note and a long conversation that followed. The i"
+    },
+    {
+      "line": 68,
+      "offset": 6335,
+      "text": "**AI Meets Girlboss:** I remember my first week on Substack clearly. My inbox filled with comments that looked friendly at first glance but felt hollow the moment I read them. They were the kind of lines you co"
+    }
+  ]
+}

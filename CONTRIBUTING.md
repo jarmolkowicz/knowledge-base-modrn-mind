@@ -14,7 +14,9 @@ The quickest way to contribute — no git knowledge needed. [Open an issue](http
 
 Collaborators with write access push a branch directly. External contributors fork the repo and PR upstream.
 
-For entry structure, see `tooling/templates/`. The templates define the schema, the section layout, and what each entry type (concept, method, source) is for.
+For entry structure, see `tooling/templates/`. The templates define the schema, the section layout, and what each entry type (concept, method, practice, source) is for.
+
+Practices belong in a separate `practices/` collection. Draft them in the originating source’s `raw/<slug>/drafts/practices/`; use `tooling/templates/practice.md`. Give a recognizable situation, concrete steps, attribution and locators, reported outcomes, limits and a useful observation to make. A practitioner proposal or first-person account can justify a carefully bounded candidate; label it honestly rather than presenting it as evaluated effectiveness. Explicitly label adaptations and distinguish assisted output, unaided capability and confidence. Canonical entries require a recorded integration decision through the librarian pipeline.
 
 ## What's a good fit
 

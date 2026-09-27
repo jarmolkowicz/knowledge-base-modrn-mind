@@ -1,0 +1,28 @@
+{
+  "id": 288,
+  "title": "How Formula 1 uses AI.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/f1.md",
+  "sha256": "1b29e948a62a114dc459ca6f06640c0e23e6b02cdee507babe18cd2e686082cd",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1456,
+  "headings": [
+    "How Formula 1 does AI?",
+    "Why it matters to you.",
+    "Your next lap."
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 153,
+      "text": "**Formula 1** & **AWS** invited to me the **Imola Grand Prix** in Italy."
+    },
+    {
+      "line": 31,
+      "offset": 903,
+      "text": "AI makes split-second decisions that determine F1 race winners."
+    }
+  ]
+}

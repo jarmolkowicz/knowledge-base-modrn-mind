@@ -1,0 +1,30 @@
+{
+  "id": 369,
+  "title": "Build Your AI Personal Assistant",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/build-your-ai-personal-assistant-social-media-marketing.md",
+  "sha256": "93686803edf2b14cd5adde2f750ce086586c9649de18ce11a88bf8a11cfe3610",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 444,
+  "headings": [
+    "Prompt 1 - AI Agent Social Media Manager",
+    "Prompt 2 - Your Brand Voice",
+    "Prompt 3 - Your Quality Gates",
+    "Next Steps…. Win $6k at My Vibe Code Hackathon!",
+    "**P.S. Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 231,
+      "text": "Learn how to use Claude Code to build your own AI social media manager"
+    },
+    {
+      "line": 46,
+      "offset": 1620,
+      "text": "Use this prompt to improve your AI Social Media Manager, so that it writes in your unique brand voice. Paste lots of real examples for the best results!"
+    }
+  ]
+}

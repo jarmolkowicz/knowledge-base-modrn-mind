@@ -1,0 +1,26 @@
+{
+  "id": 724,
+  "title": "The art and science of pricing | Madhavan Ramanujam (Monetizing Innovation, Simon-Kucher)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/madhavan-ramanujam-20/transcript.md",
+  "sha256": "32d8f10476bbf32db91ed6957a0e90e381157c0cce3112adebefb9e7e5f2d95e",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13789,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 38,
+      "offset": 856,
+      "text": "The good founders need to be able to dominate "
+    },
+    {
+      "line": 356,
+      "offset": 40584,
+      "text": "So how you navigate your early wins, who you choose is very critical when you're building companies at scale and fast in AI because that act"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 804,
+  "title": "The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/shreyas-doshi/transcript.md",
+  "sha256": "bdd414f5abb33fa5d5e6090b905737fae41fcb922f55f2265e35ed18b3bea48d",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 14609,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 830,
+      "text": "There's no one out there today who shares m"
+    },
+    {
+      "line": 99,
+      "offset": 11150,
+      "text": "I think it might be a common occurrence because engineering is a really great job, particularly on empowered teams, as an engineer"
+    }
+  ]
+}

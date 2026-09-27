@@ -1,0 +1,45 @@
+{
+  "queue_position": 207,
+  "id": 569,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/bob-baxley/transcript.md",
+  "sha256": "0bbfec31a5b083704df0c2c48352f5a6d3b05dc55282b11cd393995df259ed28",
+  "title": "35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 306,
+      "text": "(00:43:23):"
+    },
+    {
+      "line": 307,
+      "text": "And then is there something we can do where we just have that debate once and for all, we decide as an organization, we're going left instead of right, and you're absolutely correct. You have to be opinionated, but that's how you're going to win. There's no unopinionated software that's been successful. You have to have a point of view. The question is, what's it going to be? So I'd say practically just try to look for places where it seems the team's having the same debate over and over and have it once, get it done, and put it behind you."
+    },
+    {
+      "line": 414,
+      "text": "Bob Baxley (01:01:53):"
+    },
+    {
+      "line": 415,
+      "text": "Well, I think if you can give... Maybe one way to think about it is like a big giant AI prompt. The more context you can give it, the more specificity you can give it, the more this is what I'm about and what we're trying to get to, the more the designer's going to be able to figure out which swim lane they're supposed to be in to produce something."
+    },
+    {
+      "line": 492,
+      "text": "(01:11:36):"
+    },
+    {
+      "line": 493,
+      "text": "So I've often... I try to encourage the product managers to what's the problem with the thing? And then let us solve it. Don't jump to it and tell us... Don't tell us this is just exactly what we're supposed to do. And again, I do the same thing on the roadmap. You decide the roadmap, tell us what we're supposed to do, I will ask you about it, and I may push back and we may have some back and forth, but that's your responsibility. I'm going to trust that you are trained and you know what you're doing and you're going to make the right call. And I just want you to give me the same level of respect."
+    },
+    {
+      "line": 837,
+      "text": "Lenny Rachitsky (01:41:22):"
+    },
+    {
+      "line": 838,
+      "text": "I think we've made a dent in that. Bob, thank you so much for being here."
+    }
+  ]
+}

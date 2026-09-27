@@ -1,0 +1,24 @@
+{
+  "id": 32,
+  "title": "Has AI Gone Rogue?",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/has-ai-gone-rogue.md",
+  "sha256": "7ff396c882b62e6c2fe8a5c98fd12f9dbba27a4e0dfa2a4a845d83cb79c220ec",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1485,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 344,
+      "text": "The AI story of the summer should probably be the ​uncertain financial position​ of the AI labs hoping to launch record-"
+    },
+    {
+      "line": 52,
+      "offset": 5829,
+      "text": "If you ask a junior engineer to hack into a test server, they would never ignore the target and try to steal the answers instead, as they understand, normatively speaking, the goal of the exercise is to assess the security of the test server. But if you ask an LLM to output a plan for hacking the test server, an output about stealing the answers might seem p"
+    }
+  ]
+}

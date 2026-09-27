@@ -1,0 +1,91 @@
+{
+  "queue_position": 70,
+  "id": 314,
+  "path": "raw/inbox/Practical/Ruben Hassid/long.md",
+  "sha256": "de3dc74474b42a79dfc2968fc5ced004bdbb6cef14219a27da7b9fca553ee3bd",
+  "title": "Too long.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L32 ## **How long should be a prompt (really).**",
+    "L46 #### **What the data really says (July 2025)**",
+    "L98 #### **The real enemy isn’t length. It’s bloat.**",
+    "L126 #### **The layered prompt template (order > length)**",
+    "L155 #### **Strategy: Zero-Shot first. Few-Shot when necessary.**",
+    "L165 #### Rude.",
+    "L214 #### **Bottom line**",
+    "L226 #### **Cheat sheet: 10-minute prompt checklist**",
+    "L244 #### **Copy-ready template (paste into ChatGPT)**",
+    "L273 #### **A) Sweet-spot Zero-Shot prompt (≈200) — rewrite a section of your draft**",
+    "L303 #### **B) Sweet-spot Zero-Shot-CoT (≈210 words) — turn a long source into a crisp reader explainer**",
+    "L332 #### **Before vs after**",
+    "L373 #### **You are new? Check my archive of guides:**",
+    "L379 ## **How to write good prompts on the fly, fast.**",
+    "L389 ## **My (secret) prompt behind my 1M+ user GPT.**"
+  ],
+  "passages": [
+    {
+      "line": 46,
+      "text": "#### **What the data really says (July 2025)**"
+    },
+    {
+      "line": 92,
+      "text": "Your problem is to think ChatGPT is human: our understanding of instructions is selective. It’s both good and bad. It’s bad when I want you to follow my instructions very strictly. It’s good when I want you to be creative, even after a lot of instructions."
+    },
+    {
+      "line": 155,
+      "text": "#### **Strategy: Zero-Shot first. Few-Shot when necessary.**"
+    },
+    {
+      "line": 157,
+      "text": "**Zero-Shot prompt** is to ask something to ChatGPT without showing an example of what you want. It’s how 99% of the people prompt ChatGPT."
+    },
+    {
+      "line": 165,
+      "text": "#### Rude."
+    },
+    {
+      "line": 189,
+      "text": "**The CoT Performance Gain:** Chain-of-Thought prompting, which instructs the model to articulate its thought process before giving the final answer (*”Think step-by-step, then provide the answer”*), significantly improves reasoning capability."
+    },
+    {
+      "line": 205,
+      "text": "Instead of asking “Create a memo for my team about X”, you instead prompt “Create a memo for my team about X, following this example: /// example ///”."
+    },
+    {
+      "line": 273,
+      "text": "#### **A) Sweet-spot Zero-Shot prompt (≈200) — rewrite a section of your draft**"
+    },
+    {
+      "line": 278,
+      "text": "Task: Rewrite the section to be crisp, structured, and persuasive while preserving any text I put in triple backticks as verbatim quotes."
+    },
+    {
+      "line": 303,
+      "text": "#### **B) Sweet-spot Zero-Shot-CoT (≈210 words) — turn a long source into a crisp reader explainer**"
+    },
+    {
+      "line": 306,
+      "text": "Act like a plain-English science explainer for “How to AI.” Your goal is to draft an accessible 2-paragraph summary my readers can grasp in 60 seconds."
+    },
+    {
+      "line": 308,
+      "text": "Task: From the text below, extract only the ideas needed to explain (1) why overly long prompts degrade results and (2) how to structure prompts for better outcomes."
+    },
+    {
+      "line": 332,
+      "text": "#### **Before vs after**"
+    },
+    {
+      "line": 343,
+      "text": "Act like my Substack section editor. Improve the passage below about prompt length and structure for everyday ChatGPT users."
+    },
+    {
+      "line": 345,
+      "text": "Task: Produce a clear, actionable mini-guide that (1) explains why overly long prompts can hurt results and (2) shows readers how to structure prompts for better outcomes."
+    },
+    {
+      "line": 349,
+      "text": "2) Then a bullet list of the 3 main failure modes (distractibility, lost-in-the-middle, bloat) with one line each."
+    }
+  ]
+}

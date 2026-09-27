@@ -1,0 +1,29 @@
+{
+  "queue_position": 394,
+  "id": 826,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/varun-parmar/transcript.md",
+  "sha256": "e3e84c84f232167c62f248c0494809ed15d60918ae56f65d9abf7628ad516b34",
+  "title": "An inside look at how Miro builds product | Varun Parmar (CPO of Miro)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 86,
+      "text": "(00:08:31):"
+    },
+    {
+      "line": 87,
+      "text": "Was it informed through the series of insights they have, either through inbound feedback that's coming through our different channels where customers are giving feedback or some outbound interactions that they've had? I think just trying to double click and getting to the details in terms of what insight led them to recommend certain things or make a left turn or a right turn is where I think is the most powerful way to make sure that those things are informed through practicing empathy internally and externally."
+    },
+    {
+      "line": 527,
+      "text": "Varun Parmar (01:18:19):"
+    },
+    {
+      "line": 528,
+      "text": "We recently, about a month ago, announced Miro AI, the backdrop of all the amazing work that's happening around generative AI and large language models and stuff. I think it was really, really exciting to see all of the community enthusiasm around the use cases that we launch. So we're going to be taking it across the finish line and doing a general availability in the coming weeks and months. I think that's one big thing and we'll be adding more capabilities there. Just today we actually announced a bunch of really deep enhancements and updates around how Miro can be used for team rituals and agile practices. Now you can actually do retrospectives in Miro where you can have a private mode where while Lenny's typing his feedback during retrospective, nobody else can see it and then one click you can reveal it. I just saw some of the results of the feedback and it was rated as the number one feature people saw."
+    }
+  ]
+}

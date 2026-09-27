@@ -1,0 +1,31 @@
+{
+  "id": 380,
+  "title": "Gamma AI AUTOMATES your Social Media",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/gamma-ai-automation-carousels-social-media.md",
+  "sha256": "bab9053e36693369a066d919176c649eb9aefc99f75e997c45889e6d18dea161",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 511,
+  "headings": [
+    "Use Cases",
+    "IMPORTANT",
+    "How Templates Works",
+    "Setup Accounts",
+    "Setup Workflow",
+    "**P.S. Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 226,
+      "text": "> Happy Holidays!!! me learning palm muting & practicing Of Wolf and M"
+    },
+    {
+      "line": 28,
+      "offset": 1111,
+      "text": "- Repurpose AI meeting notes into education carousels"
+    }
+  ]
+}

@@ -38,6 +38,14 @@
       "by": "Codex librarian; user-approved six high-priority fixes",
       "batch": "kb-audit-corrections-2026-09-26",
       "reason": "A22: separated structural-alignment theory from untested modern-LLM comparisons and skill-loss claims; declared two rewritten excerpts paraphrases. Drafted, three-lens self-critiqued and validated. Original files and historical decisions preserved."
+    },
+    {
+      "stage": "supplementary_practices_stage_5",
+      "outcome": "integrated",
+      "date": "2026-09-27",
+      "by": "Codex librarian; user-authorized Continue",
+      "reason": "Reviewed supplementary practices or research-context updates integrated. Original source status and earlier history retained.",
+      "batch": "raw/kb-practice-screening-2026-09-27/review/integration/decision.json"
     }
   ],
   "pages": 12

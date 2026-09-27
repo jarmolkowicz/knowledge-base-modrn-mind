@@ -1,0 +1,36 @@
+{
+  "id": 325,
+  "group_index": 9,
+  "decision": "retain",
+  "coverage": "All 294 available lines read; ends at unfinished new heading. Complete available workflow section, not complete publication.",
+  "locators": [
+    "L212–213: record actual work",
+    "L218–254: clarify scope, exceptions, data, quality, approvals before SOP",
+    "L264–268: personality-based hiring excluded"
+  ],
+  "basis": "Proposed workflow-documentation routine.",
+  "reported_outcomes": [],
+  "proposed_outcomes": [
+    "Make actual process explicit before writing instructions."
+  ],
+  "limits": [
+    "One walkthrough can omit exceptions and tacit judgment.",
+    "Recordings can expose others’ private information.",
+    "Personality-based hiring and popularity-based paper choice excluded."
+  ],
+  "related_entries": [
+    "agency",
+    "partial-automation-principle"
+  ],
+  "practice_files": [
+    "raw/hassid-325-replaced-2026/drafts/practices/record-a-workflow-before-turning-it-into-instructions.md"
+  ],
+  "role": "origin",
+  "review_note": "Retain recording and clarification; walkthrough check is a marked adaptation.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/record-a-workflow-before-turning-it-into-instructions.md"
+  ],
+  "historical_drafts_retained": true
+}

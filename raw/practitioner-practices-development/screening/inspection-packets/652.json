@@ -1,0 +1,26 @@
+{
+  "id": 652,
+  "title": "Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/hamel-husain-shreya-shankar/transcript.md",
+  "sha256": "dcfa48f79e4513d1c2ac939f31d2f886ed3a3215ed6a47261520bc50692de24a",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 19296,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 38,
+      "offset": 855,
+      "text": "To build great AI products, you need to be rea"
+    },
+    {
+      "line": 194,
+      "offset": 19251,
+      "text": "Yes, not ideal, and I'm glad you said that. A lot of people would say, \"Oh, it's great. The AI did the right thing. It looked, it said, 'We "
+    }
+  ]
+}

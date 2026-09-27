@@ -1,9 +1,10 @@
 """Patch the entry counts in README.md to match current state of concepts/,
-methods/, sources/. Idempotent — re-running with no changes is a no-op.
+methods/, practices/, sources/. Idempotent — re-running with no changes is a no-op.
 
-The README has four count strings that need to stay in sync as the KB grows:
+The README has five count strings that need to stay in sync as the KB grows:
 - "<N> atomic named phenomena" (concepts)
 - "<N> structured guides" (methods)
+- "<N> source-grounded routines" (practices)
 - "<N> curated sources" (sources)
 - "all <N> entries" (total in the index.md callout)
 
@@ -41,6 +42,7 @@ def count_entries() -> dict[str, int]:
     return {
         "concepts": len(list((KB_ROOT / "concepts").glob("*.md"))),
         "methods": len(list((KB_ROOT / "methods").glob("*.md"))),
+        "practices": len(list((KB_ROOT / "practices").glob("*.md"))),
         "sources": len(list((KB_ROOT / "sources").glob("*.md"))),
     }
 
@@ -50,6 +52,10 @@ def count_entries() -> dict[str, int]:
 # backreference to capture surrounding text, so the line stays identical
 # except for the number.
 PATCHES = [
+    (
+        re.compile(r"(`practices/` — )(\d+)( source-grounded routines)"),
+        "practices",
+    ),
     (
         re.compile(r"(`concepts/` — )(\d+)( atomic named phenomena)"),
         "concepts",
@@ -105,7 +111,7 @@ def main(argv: list[str] | None = None) -> int:
     new_text, changes = patch_text(text, counts)
 
     print(f"Counts: {counts['concepts']} concepts, {counts['methods']} methods, "
-          f"{counts['sources']} sources, {sum(counts.values())} total")
+          f"{counts['practices']} practices, {counts['sources']} sources, {sum(counts.values())} total")
     for c in changes:
         print(c)
 

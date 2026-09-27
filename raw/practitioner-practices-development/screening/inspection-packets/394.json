@@ -1,0 +1,30 @@
+{
+  "id": 394,
+  "title": "AI Co-Founder MEGA Prompt",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/if-you-want-2026-to-be-the-best-year.md",
+  "sha256": "d039901052a14993e0be55cad4e61a49c8a2ebd9035d22f0cc0d19d219982782",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1490,
+  "headings": [
+    "Prompt - Step by Step Breakdown",
+    "Prompt - Full Example",
+    "Prompt - Empty Template",
+    "Next Level - Mixture of Experts",
+    "**P.S. Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 14,
+      "offset": 220,
+      "text": "- I’m ramping up to 5 youtube tutorials per week, so make sure you’re "
+    },
+    {
+      "line": 251,
+      "offset": 7897,
+      "text": "It’s basically “mixture of experts” where you run the same prompt across multiple AI tools and triangulate their feedback."
+    }
+  ]
+}

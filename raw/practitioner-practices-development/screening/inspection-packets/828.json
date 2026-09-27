@@ -1,0 +1,26 @@
+{
+  "id": 828,
+  "title": "A framework for PM skill development | Vikrama Dhiman (Gojek)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/vikrama-dhiman/transcript.md",
+  "sha256": "3cc27628e12a594c9d82e58d73e95c40764f76ddd01ea667f88255968d50176a",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 12272,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 796,
+      "text": "Your name has come up more times than almos"
+    },
+    {
+      "line": 123,
+      "offset": 14399,
+      "text": "Some of the things that I think are useful. So first, what's output? Output is something which is very tangibly defined, which doe"
+    }
+  ]
+}

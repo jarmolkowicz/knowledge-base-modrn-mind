@@ -1,0 +1,39 @@
+{
+  "id": 663,
+  "author": "Itamar Gilad, interviewed by Lenny Rachitsky",
+  "group_index": 10,
+  "decision": "retain",
+  "locators": [
+    "00:37:04–00:45:50; L296–345"
+  ],
+  "basis": "Practitioner tool explanation and reported field use",
+  "reported_outcomes": [
+    "Gilad reports teams use the confidence meter to challenge poorly supported investment; no controlled comparison."
+  ],
+  "proposed_outcomes": [
+    "Distinguish enthusiasm, opinion, data and tests when judging a proposal."
+  ],
+  "limits": [
+    "Confidence-meter numbers are a heuristic, not calibrated probabilities.",
+    "Large datasets and tests can still be biased or poorly designed.",
+    "Some low-consequence changes do not justify additional testing."
+  ],
+  "review_note": "Retain evidence categories and proportionate next steps; omit pseudo-precise numeric thresholds.",
+  "coverage": "Close-read complete relevant transcript exchanges at listed timestamps and surrounding context; not full 583-line transcript; audio/video not reviewed.",
+  "related_entries": [
+    "agency",
+    "guingrich-belief-offloading-2026",
+    "belief-offloading"
+  ],
+  "practice_files": [
+    "raw/lenny-663-becoming-evidence-guided-itamar-gilad-2023/drafts/practices/match-confidence-to-evidence.md"
+  ],
+  "role": "origin",
+  "draft_only": true,
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/match-confidence-to-evidence.md"
+  ],
+  "historical_drafts_retained": true
+}

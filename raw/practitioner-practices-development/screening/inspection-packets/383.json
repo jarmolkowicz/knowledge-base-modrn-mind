@@ -1,0 +1,31 @@
+{
+  "id": 383,
+  "title": "How I Made Twitter Threads Write Themselves",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/how-i-made-twitter-threads-write-themselves.md",
+  "sha256": "3bc0dc49d4cd41cd03c4526c4a2888591ed723eb21355d93d95487d643d7fd5a",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1439,
+  "headings": [
+    "Prerequisites",
+    "Send Yourself an Email",
+    "Workflow Automation",
+    "Long-Form Thread ChatGPT Prompt",
+    "Additional Tips",
+    "**Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 236,
+      "text": "In this tutorial, I’ll show you how to turn emails into long-form thre"
+    },
+    {
+      "line": 12,
+      "offset": 405,
+      "text": "> Even if you don’t need automation, you should DEFINITELY STEAL my awesome ChatGPT thread writing prompt…"
+    }
+  ]
+}

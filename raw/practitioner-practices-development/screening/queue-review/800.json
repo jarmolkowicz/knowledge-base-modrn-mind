@@ -1,0 +1,37 @@
+{
+  "queue_position": 373,
+  "id": 800,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/sean-ellis/transcript.md",
+  "sha256": "9c592d46a57986496f8a850d602ca012fc1ff9dde7b910f267ecfc22f32ebe47",
+  "title": "The original growth hacker reveals his secrets | Sean Ellis (author of “Hacking Growth”)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 675,
+      "text": "Sean Ellis (01:29:45):"
+    },
+    {
+      "line": 676,
+      "text": "Yeah. And what I thinks going to be really interesting is that over time, I think AI is going to actually change our ability to model out potential outcomes on experiments and start to, whether it's a more informed way of doing ICE or replaces ICE, that ultimately probability of outcomes is something that AI will be pretty good at."
+    },
+    {
+      "line": 681,
+      "text": "Sean Ellis (01:30:26):"
+    },
+    {
+      "line": 682,
+      "text": "No, I'll touch on a couple. One is that probably the funnest way that I'm using it today. Obviously I've done it for coming up with experiment ideas, but the funnest way I personally use it is I get a lot of people asking me for advice, and I don't have very much time to answer with thoughtful answers to people. And so almost every question that I get, I go to ChatGPT say, how would Sean Ellis answer this? And it gives me an initial draft to make a couple of tweaks and definitely allows me to answer a lot more. So it helps to have a book that's indexed in there and lots of writing."
+    },
+    {
+      "line": 702,
+      "text": "(01:32:22):"
+    },
+    {
+      "line": 703,
+      "text": "And so I actually think, I think the ability to come up with great experiments is going to keep growing with AI and identifying opportunities. And then obviously the analytical AI side of things is going to be really exciting in terms of being, I do find with most companies, once we get a real high velocity of experiments going, the bottleneck ends up happening more on the analysis side. And I think AI will help a lot with that as well."
+    }
+  ]
+}

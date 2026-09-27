@@ -1,0 +1,26 @@
+{
+  "id": 577,
+  "title": "Brian Chesky’s new playbook",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/brian-chesky/transcript.md",
+  "sha256": "94204e752b04cc070a113eae62015c75ea2c8f158bb4d9c652f665cbb711d90c",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 14475,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 736,
+      "text": "Way too many founders apologize for how they want to "
+    },
+    {
+      "line": 297,
+      "offset": 69429,
+      "text": "I had no idea he was going to do that. And I just want to say I think Sam is obviously a once in a generation founder. I think what he's done with OpenAI is ext"
+    }
+  ]
+}

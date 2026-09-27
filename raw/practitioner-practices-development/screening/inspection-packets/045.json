@@ -1,0 +1,24 @@
+{
+  "id": 45,
+  "title": "The Craftsman in the Cubicle",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/the-craftsman-in-the-cubicle.md",
+  "sha256": "dbae43ad64863f9b5cbdf02629fd0db4c8384f2d2aa1f576d50e81f687105639",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 463,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 13,
+      "offset": 342,
+      "text": "Earlier this evening, I explored the cobbled lanes of Zurich’s old town center. Switzerland is infamous for shutting dow"
+    },
+    {
+      "line": 15,
+      "offset": 749,
+      "text": "The scene, naturally, infused me with a sense of timeliness. I imagined the craftsman and apprentices who honed their skills in this late-medieval industrial center, *and this got me thinking…*"
+    }
+  ]
+}

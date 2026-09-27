@@ -1,0 +1,93 @@
+{
+  "queue_position": 174,
+  "id": 521,
+  "path": "raw/inbox/Practical/Sam Illingworth/when-ai-never-stops-should-you.md",
+  "sha256": "9f6646a39743d494f330f758e2403a2f7728fd83b82e9ebf6498566fd98a2e4d",
+  "title": "When AI Never Stops, Should You?",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L26 #### **Step-by-step**",
+    "L52 #### **A moment from me**",
+    "L72 #### **What to do with it**",
+    "L88 #### **Why this matters**",
+    "L102 #### **From last week: [When AI Fakes, Can You Tell?](https://theslowai.substack.com/p/ai-fakes-and-truths)**"
+  ],
+  "passages": [
+    {
+      "line": 13,
+      "text": "- Try one simple question that asks the tool to hand you a single thought."
+    },
+    {
+      "line": 26,
+      "text": "#### **Step-by-step**"
+    },
+    {
+      "line": 28,
+      "text": "The invitation to your AI tool (at the end of a session, or when feeling too much noise):"
+    },
+    {
+      "line": 30,
+      "text": "> What one thought from this chat should I carry with me offline?"
+    },
+    {
+      "line": 32,
+      "text": "Then, when the tool gives you a line, do this:"
+    },
+    {
+      "line": 36,
+      "text": "> Breathe in, notice how the thought sits in your body, and take one slow step away from the screen."
+    },
+    {
+      "line": 38,
+      "text": "> Let the answer percolate in your own mind, without asking the tool to add more."
+    },
+    {
+      "line": 40,
+      "text": "If you cannot go outside, place a hand on something natural, a plant, a window ledge warmed by the sun, a cup of tea. The point is to move attention out of the continual loop of asking, and into a single, held moment."
+    },
+    {
+      "line": 42,
+      "text": "This is not a ritual for performance."
+    },
+    {
+      "line": 44,
+      "text": "It is a small practice that trains you to finish with care."
+    },
+    {
+      "line": 48,
+      "text": "If you are new to Slow AI, our first invitation was, Teach It Something It Cannot Know."
+    },
+    {
+      "line": 52,
+      "text": "#### **A moment from me**"
+    },
+    {
+      "line": 62,
+      "text": "At first the question felt abstract. But as I stayed with it, I noticed how silence and gaps gave the thought weight. Poetry, I realised, works because of what it leaves open, the pauses between lines, the unsaid that waits to be felt rather than explained."
+    },
+    {
+      "line": 72,
+      "text": "#### **What to do with it**"
+    },
+    {
+      "line": 78,
+      "text": "- Try the same question at the start and end of a session, and note the difference."
+    },
+    {
+      "line": 88,
+      "text": "#### **Why this matters**"
+    },
+    {
+      "line": 98,
+      "text": "If you would like to keep practising beyond this week’s prompt, you might like *A Gentle Guide to Reflection with AI* (pay what-you-wish). Think of it as a companion you can return to whenever you feel pulled too quickly back into the screen."
+    },
+    {
+      "line": 102,
+      "text": "#### **From last week: When AI Fakes, Can You Tell?**"
+    },
+    {
+      "line": 118,
+      "text": "If you try this week’s prompt, I would love to see the single thought your tool offered, and to know whether you went outside and touched grass."
+    }
+  ]
+}

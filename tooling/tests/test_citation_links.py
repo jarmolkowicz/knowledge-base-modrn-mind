@@ -2,12 +2,22 @@
 import sys
 import unittest
 from pathlib import Path
+from types import SimpleNamespace
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
-from check_citation_links import resolve
+from check_citation_links import resolve, check_explicit_sources
 
 
 class CitationLinkTests(unittest.TestCase):
+    def test_explicit_article_identity(self):
+        entry = SimpleNamespace(stem='practice', source_entries=['author-one-2026'], wikilinks={'author-one-2026'})
+        self.assertEqual(check_explicit_sources(entry, {'author-one-2026', 'author-two-2026'}), [])
+
+    def test_explicit_missing_source_and_link_reported(self):
+        entry = SimpleNamespace(stem='practice', source_entries=['author-missing-2026', 'author-one-2026'], wikilinks=set())
+        issues = check_explicit_sources(entry, {'author-one-2026'})
+        self.assertEqual({f['issue'] for f in issues}, {'explicit source entry missing', 'identity resolved but canonical link missing'})
+
     def test_single_match(self):
         self.assertEqual(resolve('Bartoš et al. (2026)', {'bartos-learning-2026'}, {}),
                          'bartos-learning-2026')

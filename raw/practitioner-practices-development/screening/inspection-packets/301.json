@@ -1,0 +1,35 @@
+{
+  "id": 301,
+  "title": "How to better use AI (before prompting).",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/how-to-better-use-ai-before-prompting.md",
+  "sha256": "aabd21f3c8fca7a0fe05664d117477b06bfe90e1071737ebeda2d08cd461cd1d",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1344,
+  "headings": [
+    "**Stop introducing yourself.**",
+    "**Projects fix this permanently** (& how to create one).",
+    "ChatGPT.",
+    "Claude.",
+    "Grok.",
+    "**Thinking mode is not “smarter mode”.**",
+    "**Search to avoid lies.**",
+    "Search breaks this loop.",
+    "Subscribe",
+    "**Too long, didn’t read.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 256,
+      "text": "They open a blank chat → They type a question → They get a mediocre answe"
+    },
+    {
+      "line": 152,
+      "offset": 6464,
+      "text": "You can prompt questions that require *reasoning*. Questions where the answer isn’t obvious. Questions where you actually need the AI to figure something out rather than recall something it’s seen before."
+    }
+  ]
+}

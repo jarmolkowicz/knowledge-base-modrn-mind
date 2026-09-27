@@ -1,0 +1,39 @@
+{
+  "id": 521,
+  "group_index": 1,
+  "decision": "retain",
+  "role": "origin",
+  "locators": [
+    "L26–44, Step-by-step",
+    "L52–64, personal example",
+    "L72–80, reflection"
+  ],
+  "basis": "Sam Illingworth offers a stopping exercise and a first-person poetry/climate example.",
+  "reported_outcomes": [
+    "Reports a changed understanding while considering one question outdoors after closing the chat."
+  ],
+  "proposed_outcomes": [
+    "End the generation loop and leave time for independent reflection."
+  ],
+  "limits": [
+    "Anecdote does not establish an incubation benefit. Walking, touch and body attention are optional; no clinical claim. AI’s selected thought may frame reflection too narrowly."
+  ],
+  "related_entries": [
+    "effort-investment-review"
+  ],
+  "review_note": "Retain deliberate ending and one held question; make human selection explicit.",
+  "practitioner": "Allow a seated or screen-based accessible pause and continuation of assistive technology.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [
+    "raw/illingworth-521-when-ai-never-stops-should-you-2025/drafts/practices/carry-one-question-offline.md"
+  ],
+  "source_path": "raw/illingworth-521-when-ai-never-stops-should-you-2025/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/carry-one-question-offline.md"
+  ],
+  "historical_drafts_retained": true
+}

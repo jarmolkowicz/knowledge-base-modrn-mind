@@ -1,0 +1,28 @@
+{
+  "id": 95,
+  "group_index": 7,
+  "decision": "counterexample",
+  "coverage": "Full available extracted article, L1–68. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L30: repeated image-download failure",
+    "L36–58: research demos and expert impressions"
+  ],
+  "basis": "First-person tool demonstrations.",
+  "reported_outcomes": [
+    "Image task gets stuck; some research output seems useful on inspection."
+  ],
+  "proposed_outcomes": [],
+  "limits": [
+    "Access restrictions and confusion both feature in the failure.",
+    "Expert impressions do not verify every research claim."
+  ],
+  "related_entries": [
+    "metacognitive-demand",
+    "reference-verification"
+  ],
+  "practice_files": [
+    "raw/mollick-080-management-as-ai-superpower-2026/drafts/practices/define-the-delegation-before-the-agent-starts.md"
+  ],
+  "role": "counterexample",
+  "review_note": "Support bounded retry/recovery; a pre-agreed stop rule is editorial inference."
+}

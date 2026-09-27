@@ -1,0 +1,29 @@
+{
+  "queue_position": 287,
+  "id": 686,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jiaona-zhang/transcript.md",
+  "sha256": "a6c0c3b468a2222a4925c60cb7b7b2e71e8c35f77a3c1646e1d35f8f8385f3f7",
+  "title": "Building minimum lovable products, stories from WeWork & Airbnb, and thriving as a PM | Jiaona Zhang",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 369,
+      "text": "(00:47:14):"
+    },
+    {
+      "line": 370,
+      "text": "For example, engineering hiring was really, really important. And I was communicating, \"Hey, we are just not staffed in a way where we can deliver some of the ambitious things that we want to do.\" And so explicitly calling those things out and creating awareness around them and then asking other executives to step in and be accountable, those were big pieces of what I wanted to achieve in my first 90 days."
+    },
+    {
+      "line": 507,
+      "text": "Jiaona Zhang (01:04:49):"
+    },
+    {
+      "line": 508,
+      "text": "My number one pro-tip is there's a lot of stuff coming out that I'm very excited about. I do think Webflow has traditionally had a high learning curve, and it's because we're a pro tool, we're a professional tool. We do really amazing stuff, so much power that we deliver you, but with that power has come with it's hard to learn. And so one of the things that I'm really excited about pro-tip for using Webflow in the future is we're really going to bring the magic of Webflow University, the magic of AI, all together so that you can just use and learn Webflow so much faster, learn webflow in the context of what you're doing as opposed to going into a different tab and looking for the Webflow University stuff. It's going to be in context to the product, being able to actually take action directly, prompting Webflow to be able to do things for you. It's just going to be so much easier in the future to use the product. That's what I'm excited about. We're working on it and it will be out in the future."
+    }
+  ]
+}

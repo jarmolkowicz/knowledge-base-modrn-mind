@@ -1,0 +1,26 @@
+{
+  "id": 803,
+  "title": "The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/shishir-mehrotra/transcript.md",
+  "sha256": "52ca8f234bf53eafa4d84605d8ae892026bcffc76d7bdc42c1d4670ba8181bb7",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 19089,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 830,
+      "text": "I generally value the reference check over "
+    },
+    {
+      "line": 216,
+      "offset": 31409,
+      "text": "Everybody writes down what they think and we hide everybody else's until you're done writing. So you force yourself to be eloquent"
+    }
+  ]
+}

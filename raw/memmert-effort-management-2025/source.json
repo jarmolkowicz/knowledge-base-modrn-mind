@@ -33,6 +33,14 @@
       "outcome": "INTEGRATED",
       "date": "2026-09-26",
       "reason": "Completed explicit user-approved integration; batch preflight passed. New entries moved, approved updates merged, navigation rebuilt. Zhang excluded."
+    },
+    {
+      "stage": "supplementary_practices_stage_5",
+      "outcome": "integrated",
+      "date": "2026-09-27",
+      "by": "Codex librarian; user-authorized Continue",
+      "reason": "Reviewed supplementary practices or research-context updates integrated. Original source status and earlier history retained.",
+      "batch": "raw/kb-practice-screening-2026-09-27/review/integration/decision.json"
     }
   ],
   "pages": 21,

@@ -1,0 +1,29 @@
+{
+  "queue_position": 341,
+  "id": 760,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/nicole-forsgren/transcript.md",
+  "sha256": "c4ec757aadb5768b90de18ac47dfa6d62a9279d8e8c52418a0547c1e89f8242e",
+  "title": "How to measure AI developer productivity in 2025 | Nicole Forsgren",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 404,
+      "text": "Nicole Forsgren (00:55:17):"
+    },
+    {
+      "line": 405,
+      "text": "And I will say one thing that's challenging when you think about getting data, so interviews are data and that's important, surveys are a little more quantified because we can turn it into counts, but that's where we also want to be careful. A lot of folks go to write a survey question and they'll say something like, \"Were the build and test system slow or complicated in the last week?\" You're asking four different questions there. If someone answers yes, was it the build? Was it the test? Was it slow or was it flaky or complicated or something? So it can be really difficult to untangle what the signal is you're actually getting there, and so it is worth the time chatting with someone who's familiar with survey design, having a conversation with Claude or Gemini or ChatGPT around, \"Here are the survey questions. Or can you propose some?\" And then make sure you take a couple of rounds. Is this a good survey question? What questions can I answer from the data that I get? What problems could I solve? If you can't answer a question with data, don't get it."
+    },
+    {
+      "line": 581,
+      "text": "Nicole Forsgren (01:06:47):"
+    },
+    {
+      "line": 582,
+      "text": "Online, you can find the book at developerexperiencebook.com, I'm at nicolefv.com, and LinkedIn occasionally. Sometimes it's a mess. I try to wade through all of the noise. I get there to be useful, sign up for the book and the workbooks. The workbooks are free. I'd love to get any kind of feedback on what works, what doesn't. I always love hearing those kind of stories."
+    }
+  ]
+}

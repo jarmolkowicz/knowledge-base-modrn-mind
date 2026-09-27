@@ -1,0 +1,26 @@
+{
+  "id": 627,
+  "title": "Countdown of the top 10 episodes of the year",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/eoy-review/transcript.md",
+  "sha256": "d0c298aaddf7c95d3a8de3724f77b41eddc26d3087637bdf236d5dbe3236bb02",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 11335,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 30,
+      "offset": 732,
+      "text": "Welcome to Lenny's Podcast. I'm Lenny and my goal her"
+    },
+    {
+      "line": 144,
+      "offset": 23436,
+      "text": "The question's totally made up, no teleportation device exists, at least not yet. I find that people's ability to learn the method is significantly higher if it"
+    }
+  ]
+}

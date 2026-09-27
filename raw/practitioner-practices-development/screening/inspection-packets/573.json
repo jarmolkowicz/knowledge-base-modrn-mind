@@ -1,0 +1,26 @@
+{
+  "id": 573,
+  "title": "AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/brandon-chu/transcript.md",
+  "sha256": "25357664bf12daaadc4343ad444437312a71a14c74ad656785f2e6454471ca7f",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 9951,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 37,
+      "offset": 834,
+      "text": "If you're a product manager, you've almost certainly "
+    },
+    {
+      "line": 238,
+      "offset": 33927,
+      "text": "So I have a endless list of things I want to write about. And partly, these ideas come from founders and PMs that are constantly sending me questions that they "
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "queue_position": 390,
+  "id": 822,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/upasna-gautam/transcript.md",
+  "sha256": "a36cd150affc2583aed566f6c9ce80db38b03fbe93a9b9c2f932ebc1b97fd8c7",
+  "title": "An inside look at how CNN builds product | Upasna Gautam",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 36,
+      "text": "## Transcript"
+    },
+    {
+      "line": 45,
+      "text": "You keep adding features to your spreadsheet importer, the customers keep running into issues, six months later you're fixing yet another date conversion etch case bug. Most tools aren't built for handling messy data, but OneSchema is. Companies like Scale AI and Pave are using OneSchema to make it fast and easy to launch delightful spreadsheet import experiences, from embeddable CSV import to importing CSVs from an SFTP folder on a recurring basis. Spreadsheet import is such an awful experience in so many products. Customers get frustrated by useless messages like, \"Error online 53,\" and never end up getting started with your product. OneSchema intelligently corrects messy data so that your customers don't have to spend hours in Excel just to get started with your product. For listeners of this podcast, OneSchema's offering a $1,000 discount. Learn more at OneSchema.co/lenny. Upasna, welcome to the podcast."
+    },
+    {
+      "line": 79,
+      "text": "It depends on the scope of the work we're doing at that time. So one of my main responsibilities is to rebuild our content management system, which also involves onboarding our editors and journalists to it off of our legacy platform and onto our new one. So when we're thinking about onboarding especially the teams, our onboarding cycle's very long. It involves training, testing, lots of dialogue and feedback. And then only do we actually test, and then we onboard. And so it is a long cycle, and it's longer than it maybe seems like it needs to be because we have to build in those buffers. Sometimes that buffer is a day or two, and sometimes it's a week or a month. And sometimes when we think we need a buffer, we get it done in a day and we quickly move onto the next phase."
+    },
+    {
+      "line": 95,
+      "text": "And you can imagine this is exactly what it sounds like. We create a script and do a simulation of a breaking news scenario to stress test our platform, because all breaking news scenarios are definitely not the same either. So this gives us a lot of great feedback in that short amount of time at the speed of breaking news. And then last but not least, we have office hours which I just started last year, and that's also probably what you can imagine, open blocks of time where me and my product design partner and my tech lead are just there to answer questions, help people troubleshoot any friction they might be experiencing in their workflow, get their feedback. We just wanted to open up another line of communications, so we do those right now once a week. Sometimes they go up to two times a week if we're in a really vigorous onboarding phase."
+    },
+    {
+      "line": 261,
+      "text": "TV show is a toss up between The Mandalorian and Ted Lasso. I know it's not very new, but I don't watch tons and tons of TV, and I usually find like the few that I latch onto, and then I get obsessed with, and then I've got to take a break for a while. So, those are my last two obsessions. Movie is Everything Everywhere All At Once, the last amazing one that really, really struck a chord with me."
+    }
+  ]
+}

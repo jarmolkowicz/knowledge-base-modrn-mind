@@ -1,0 +1,29 @@
+{
+  "queue_position": 338,
+  "id": 756,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/naomi-gleit/transcript.md",
+  "sha256": "f2de76b7e52d21dc39631710f309285dff2f0848dd0f892b95f3ae0302e30b89",
+  "title": "Meta’s head of product on working with Mark Zuckerberg, early growth tactics, and more | Naomi Gleit",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 330,
+      "text": "(00:35:38):"
+    },
+    {
+      "line": 331,
+      "text": "It was more when we launched the ability for teens to register and then work networks, and then in 2006 open registration where we started getting all kinds of people with any email address, before it was .edu or a microsoft.com email address that was required in order to sign up for Facebook and then anyone with any email just could register including people like my dad and my grandma that we realized, wow, in order to get people to this magic moment, how are we going to do that? What's the most effective way that insight resulted in building a new user experience? I remember it was just like step one, upload your profile picture. That was really important so people could find you and know who you were. Step two, find your friends. That's where a lot of the contact importing and people you may know and, \"Here are other people at your school and here are mutual friends.\" That step in the news or experience ultimately became one of the most important drivers of that activation metric that we talked about."
+    },
+    {
+      "line": 762,
+      "text": "Naomi Gleit (01:29:01):"
+    },
+    {
+      "line": 763,
+      "text": "Yeah. I was. I had to cover my eyes for some of it. And then we also, the movie that we just watched was Dune Two. Chris Cox, who's our chief product officer, actually recommended that as one of the best films that he's seen recently, and I really trust his opinion on that. So we caught up by watching Dune One and then watched Dune Two, and it was really good."
+    }
+  ]
+}

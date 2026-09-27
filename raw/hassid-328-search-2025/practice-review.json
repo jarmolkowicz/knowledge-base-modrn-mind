@@ -1,0 +1,35 @@
+{
+  "id": 328,
+  "group_index": 5,
+  "decision": "merge",
+  "coverage": "All 212 available lines read; ending points onward and may omit original final material. Linked media not inspected.",
+  "locators": [
+    "L95: timestamps and contradictions",
+    "L136: excerpts with original links",
+    "L144–152: legal and market-research prompts"
+  ],
+  "basis": "Proposed search prompts and uncontrolled tool preferences.",
+  "reported_outcomes": [],
+  "proposed_outcomes": [
+    "Collect traceable evidence and conflicting accounts."
+  ],
+  "limits": [
+    "Links requested in a prompt can be invented or irrelevant.",
+    "Tool rankings and legal recipes not independently checked.",
+    "Nine versus fifteen searches is inconsistent; no validated search protocol."
+  ],
+  "related_entries": [
+    "reference-verification"
+  ],
+  "practice_files": [
+    "raw/illingworth-453-stop-trusting-your-intuition-when-evaluating-2026/drafts/practices/check-correctness-and-completeness.md"
+  ],
+  "role": "support",
+  "review_note": "Merge traceability into correctness/completeness; no separate prompt catalogue.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/check-correctness-and-completeness.md"
+  ],
+  "historical_drafts_retained": true
+}

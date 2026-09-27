@@ -1,0 +1,24 @@
+{
+  "id": 46,
+  "title": "The Dangers of Vibe Reporting About AI",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/the-dangers-of-vibe-reporting-about-ai.md",
+  "sha256": "6ffa8c48fd66cdcfb6fdb184e293dc6c1932c534df84561fc410c0b42a5dab60",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 634,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 9,
+      "offset": 192,
+      "text": "Last week, news broke that Amazon would be laying off 16,000 workers. Here was the headline ​from an article​ about this"
+    },
+    {
+      "line": 29,
+      "offset": 2021,
+      "text": "> “In a blog post, the company wrote that the layoffs were part of an ongoing effort to ‘strengthen our organization by reducing layers, increasing ownership, and removing bureaucracy.’ That **coincides** with a push to invest heavily in artificial intelligence.” [emphasis mine]"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "queue_position": 180,
+  "id": 529,
+  "path": "raw/inbox/Practical/Sam Illingworth/you-will-be-accused-of-using-ai-here.md",
+  "sha256": "8dacd231d6c3d6e51f85dd7df3cbc98b536e8ac982954565aff8567dfb2d4134",
+  "title": "You Will Be Accused of Using AI. Here Is How to Prove You Wrote It.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L39 #### **Accusation is now one tap away**",
+    "L49 #### **The evidence was a book review**",
+    "L69 #### **Who is being asked to prove themselves**",
+    "L83 #### **How to build an audit trail, starting today**",
+    "L116 #### **This is not a guide to evading detection**",
+    "L134 #### **My own trail, since I am asking for yours**",
+    "L152 #### **Then there is my thesis**",
+    "L164 #### **Why this matters**"
+  ],
+  "passages": [
+    {
+      "line": 13,
+      "text": "# You Will Be Accused of Using AI. Here Is How to Prove You Wrote It."
+    },
+    {
+      "line": 21,
+      "text": "- Say plainly how I use AI to write this newsletter, including the bit where a detector calls me a machine."
+    },
+    {
+      "line": 33,
+      "text": "he told the reporter Jeff Sneider. Adding:"
+    },
+    {
+      "line": 69,
+      "text": "#### **Who is being asked to prove themselves**"
+    },
+    {
+      "line": 75,
+      "text": "As I have written about numerous times now, researchers at Stanford, writing in 2023, ran seven widely used detectors over 91 essays written by non-native English speakers. Across the seven, the average false-positive rate on that human writing was 61.3%, and 97.8% of the essays were flagged as AI by at least one detector. The same detectors read US eighth-grade essays with near-perfect accuracy. Careful, standard, unadorned prose looks machine-made to many of these AI detectors, and that describes most people writing in a second language and most people taught to write formally."
+    },
+    {
+      "line": 83,
+      "text": "#### **How to build an audit trail, starting today**"
+    },
+    {
+      "line": 89,
+      "text": "1. **Write somewhere that keeps its own history.** Google Docs keeps full version history for free, and so does Word with AutoSave on. Substack’s own editor keeps drafts and revision timestamps, so if you draft in the app you already have more than you think. Version history is the single strongest artefact you can hold, because the timestamps are set as you go. You can’t manufacture three weeks of edits after an accusation arrives."
+    },
+    {
+      "line": 102,
+      "text": "**7. Write your AI use statement before anyone asks for it.** Three or four sentences on how you work, published somewhere durable: an about page, a pinned post, the back matter of a book. Here is a template to adapt:"
+    },
+    {
+      "line": 104,
+      "text": "> *I use [tool] for [specific tasks: research scanning, structural feedback, proofreading, and image generation]. I do not use it to [generate first drafts / write in my voice / produce the arguments].*"
+    }
+  ]
+}

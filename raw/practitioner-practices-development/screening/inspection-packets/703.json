@@ -1,0 +1,26 @@
+{
+  "id": 703,
+  "title": "Twitter’s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/kayvon-beykpour/transcript.md",
+  "sha256": "826b98452ac50b7a2c32c60d6ad586fc1f33885a8ce08097ef6fc46e3cdda0a0",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 17551,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 847,
+      "text": "The first time I ever met Elon was over FaceTi"
+    },
+    {
+      "line": 73,
+      "offset": 4193,
+      "text": "What makes Enterpret special is its ability to build customer-specific, adaptive AI models that provide the most granular and accurate categ"
+    }
+  ]
+}

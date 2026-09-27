@@ -1,0 +1,38 @@
+{
+  "id": 480,
+  "group_index": 3,
+  "decision": "merge",
+  "role": "support",
+  "locators": [
+    "L20–45, sharing and reflecting",
+    "L51–58, rosemary-and-bleach example"
+  ],
+  "basis": "Sam Illingworth’s personal memory-response example and proposed reflective exercise.",
+  "reported_outcomes": [
+    "Describes finding the model’s generic interpretation unfaithful to his memory’s significance."
+  ],
+  "proposed_outcomes": [
+    "Notice where a model’s reading diverges from the author’s intended meaning."
+  ],
+  "limits": [
+    "Neither human recall nor model response establishes factual memory accuracy. No therapeutic, general comprehension or capability measure. Sharing intimate memories is unnecessary."
+  ],
+  "related_entries": [
+    "cognitive-offloading"
+  ],
+  "review_note": "Merge as an optional intended-meaning check in author-led critique; no separate memory prompt card.",
+  "practitioner": "Use a non-sensitive or fictional passage and evaluate textual fit, not private emotional truth.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [
+    "raw/illingworth-459-how-can-writers-use-ai-ethically-2025/drafts/practices/request-criticism-without-rewriting.md"
+  ],
+  "source_path": "raw/illingworth-480-teach-ai-something-it-cannot-know-2025/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/request-criticism-without-rewriting.md"
+  ],
+  "historical_drafts_retained": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 89,
+  "title": "Sign of the future: GPT-5.5 ",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/sign-of-the-future-gpt-55.md",
+  "sha256": "f1d4af1ce982919249a086e99155240a1eb8a469983fcabf791d30ae87ec85be",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1540,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 386,
+      "text": "I had early access to GPT-5.51, and I think it is a big deal. It is a big deal because it indicates "
+    },
+    {
+      "line": 43,
+      "offset": 6341,
+      "text": "I am an academic, and a lot of my non-AI work, especially in the early 2010s, focused on crowdfunding. I have hundreds of anonymized data files on the topic that I have collected from surveys and analysis and research work, a mix of STATA, CSV, XLS and Word files that I never got around to writing a"
+    }
+  ]
+}

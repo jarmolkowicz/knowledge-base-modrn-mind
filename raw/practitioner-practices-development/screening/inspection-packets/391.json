@@ -1,0 +1,29 @@
+{
+  "id": 391,
+  "title": "I Showed Hubspot CMO... How I Use AI to Make Money from Social Media",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/hubspot-cmo-how-i-use-ai-and-dm-automations-monetize-social-media.md",
+  "sha256": "7740cca30d63bc046e1aa968d9b4d44997159b3afba83208a0f2750d106d6e43",
+  "access": "public-page",
+  "kind": "article",
+  "words": 927,
+  "headings": [
+    "1. Make content that earns attention",
+    "2. Turn comments into customers",
+    "3. Build the entire system with Claude",
+    "Not Sure Where To Start? 👇"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 501,
+      "text": "I just shared my #1 Claude money-making workflow with Hubspot’s Chief "
+    },
+    {
+      "line": 17,
+      "offset": 670,
+      "text": "In short, I use AI + DM Automations to convert social media views into revenue."
+    }
+  ]
+}

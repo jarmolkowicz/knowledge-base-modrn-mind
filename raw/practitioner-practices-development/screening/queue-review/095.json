@@ -1,0 +1,31 @@
+{
+  "queue_position": 39,
+  "id": 95,
+  "path": "raw/inbox/Practical/Ethan Mollick/the-end-of-search-the-beginning-of.md",
+  "sha256": "f4ee5c84b1839f15ddb257f626ea1b7165ba9b2df8c912f761cc190462c5740c",
+  "title": "The End of Search, The Beginning of Research",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 12,
+      "text": "# Reasoners"
+    },
+    {
+      "line": 14,
+      "text": "For the past couple years, whenever you used a chatbot, it worked in a simple way: you typed something in, and it immediately started responding word by word (or more technically, token by token). The AI could only \"think\" while producing these tokens, so researchers developed tricks to improve its reasoning - like telling it to \"think step by step before answering.\" This approach, called chain-of-thought prompting, markedly improved AI performance."
+    },
+    {
+      "line": 22,
+      "text": "The Graduate-Level Google-Proof Q&A test (GPQA) is a series of multiple-choice problems that internet access doesn't help PhDs with access to the internet get 34% right on this test outside their specialty, 81% inside their specialty. It illustrates how reasoning models have sped up the capability gain of AI. Data source."
+    },
+    {
+      "line": 26,
+      "text": "# Agents"
+    },
+    {
+      "line": 30,
+      "text": "The video below, sped up 16x, captures both the promise and pitfalls of general-purpose agents. I give Operator a task: *read my latest substack post at OneUsefulThing and then go onto Google ImageFX and make an appropriate image, download it, and give it to me to post.* What unfolds is enlightening. At first, Operator moves with impressive precision - finding my website, reading the post, navigating to ImageFX (pausing briefly for me to enter my login), and creating the image. Then the troubles begin, and they're twofold: not only is Operator blocked by OpenAI's security restrictions on file downloads, but it also starts to struggle with the task itself. The agent methodically tries every conceivable workaround: copying to clipboard, generating direct links, even diving into the site's source code. Each attempt fails - some due to OpenAI's browser restrictions, others due to the agent's own confusion about how to actually accomplish the task. Watching this determined but ultimately failed problem-solving loop reveals both the current limitations of these systems and raises questions about how agents will eventually behave when they encounter barriers in the real world."
+    }
+  ]
+}

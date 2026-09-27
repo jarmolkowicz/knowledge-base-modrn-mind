@@ -1,0 +1,29 @@
+{
+  "queue_position": 337,
+  "id": 755,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/nancy-duarte/transcript.md",
+  "sha256": "407c78fbf2f42af846cd23d99bf3839709669df854ad3e1ef84665375b40db90",
+  "title": "Storytelling with Nancy Duarte: How to craft compelling presentations and tell a story that sticks",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L35 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 169,
+      "text": "Nancy Duarte (00:20:38):"
+    },
+    {
+      "line": 170,
+      "text": "Oh, that we know about. So, I could talk about our own internal ones. Most of what we do is under MSAs because they're fantastical brands. So, in my own company, before I do a presentation that's going to require goals or them reaching goals or we do an annual vision talk, we do a listening tour first. So, some of it's based in survey, some of it's based in interviews. And we feed that information up and then we compare it to what we're going to ask them to do. And we do some gap analysis. We literally, there's some actual questions you can ask yourself, which are somewhat classic design thinking kind of questions about where they're at. And then what we do is I create a real rough cut or the exec team creates a real rough cut and then we invite the next level of leaders in and we do a fake, I mean the slides are ugly, we don't spend time on the slides."
+    },
+    {
+      "line": 544,
+      "text": "Nancy Duarte (01:13:14):"
+    },
+    {
+      "line": 545,
+      "text": "Oh, favorite interview question. We ask a lot about who they are. So, we use psychometrics a lot here, and we really understand who they are, and we actually ask people to tell a story. And if that's uncomfortable or those psychometrics are uncomfortable, they're not really a fit, because we are a systemic story culture, and we define empathy at the company as know yourself, accept yourself, kind of work on yourself, and then adapt to others. So, if people aren't open to really understanding how they show up then and then adapt and change under our care, then we don't hire them."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "queue_position": 46,
+  "id": 106,
+  "path": "raw/inbox/Practical/Ethan Mollick/what-it-feels-like-to-work-with-mythos.md",
+  "sha256": "b852b4f362e18b72d44acd81320685ce19c690760d1e2458849d7df19d7663d6",
+  "title": "What it feels like to work with Mythos",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 13,
+      "text": "# What it feels like to work with Mythos"
+    },
+    {
+      "line": 19,
+      "text": "So, as a more accessible and entertaining example, I also had it create a bunch of games you can try. All of these are one initial prompt in Claude Code where Fable had to take my vague prompts and generate something workable, followed by a couple of additional prompts with minor encouragement (“make it better”) or feedback. What makes these especially impressive is that Claude cannot generate images, so every piece of art or 3D object was made with math alone, not using any external assets. You can try any of them: a game about flipping coins (prompt: “Balatro, but for the game of coin flips”) that is quite fun; a snake game where the snake is self-aware and crazy things happen; or a game about descending into the depths to see what is there."
+    },
+    {
+      "line": 23,
+      "text": "# Maps and Methods"
+    },
+    {
+      "line": 31,
+      "text": "No previous model did an even halfway useful job with trying to create a map like this because it involves researching thousands of potential trip distances and a lot of small judgement calls and decisions. I decided to try it on Fable using Claude Code with this prompt: *i want you to build a fully researched and beautiful isochronic map that lets me pick various cities and see real isochronic lines based on real data. I want the design to be unique. You should take into account airports (and travel time to and from airports) trains, walking, driving. The data does not need to be live but should be real based on your research and data. You can start with a few cities but more general is better, this should be an entirely new project.* It then suggested that it do this in the style of the original map. I agreed, and it got to work."
+    },
+    {
+      "line": 51,
+      "text": "# Working with a Mythos-class model"
+    },
+    {
+      "line": 57,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!oDKl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F313cee40-acdc-423b-85e1-222f2caeca08_1664x1179.png)"
+    }
+  ]
+}

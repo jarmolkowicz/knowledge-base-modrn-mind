@@ -1,0 +1,40 @@
+{
+  "id": 516,
+  "group_index": 3,
+  "decision": "counterexample",
+  "role": "counterexample",
+  "locators": [
+    "L33–65, method and interpretive caveat",
+    "L69–133, findings and positive case",
+    "L145–177, AI role and limitations",
+    "L181–203, extrapolation"
+  ],
+  "basis": "Sam Illingworth reports an open exploratory exercise: one model, ten poems, thirty outputs and one human coder.",
+  "reported_outcomes": [
+    "Reports competent formal analysis, a reading that changed his view of one poem, and differences from his personal associations."
+  ],
+  "proposed_outcomes": [
+    "Examines limits of AI as a critical reader."
+  ],
+  "limits": [
+    "Published/unpublished status does not establish training-data membership. Authorial intention is not the sole valid interpretation. One coder, unpiloted prompts and text variants limit the study. Poetry disagreements do not establish clinical or universal comprehension failures. Repository not independently audited."
+  ],
+  "related_entries": [
+    "think-first"
+  ],
+  "review_note": "Use as a bounded counterexample to treating AI critique as final authority. No separate diagnostic practice.",
+  "practitioner": "Allow useful disagreement with the author; prefer specific textual reasons over claims that only one reader knows the meaning.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [
+    "raw/illingworth-459-how-can-writers-use-ai-ethically-2025/drafts/practices/request-criticism-without-rewriting.md"
+  ],
+  "source_path": "raw/illingworth-516-what-claude-cannot-read-in-a-2026/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/request-criticism-without-rewriting.md"
+  ],
+  "historical_drafts_retained": true
+}

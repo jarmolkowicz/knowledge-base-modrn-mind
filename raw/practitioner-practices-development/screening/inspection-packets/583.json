@@ -1,0 +1,26 @@
+{
+  "id": 583,
+  "title": "How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/carilu-dietrich/transcript.md",
+  "sha256": "5e1df4d99b6415f766068b46fb242e9d8c88222c2f5fe5abb4f3ae947dff5e41",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 12252,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 820,
+      "text": "In order to get hypergrowth, you have to have organic"
+    },
+    {
+      "line": 318,
+      "offset": 33830,
+      "text": "And we did, right? And look, one of my clients now is Weights & Biases, the ML ops company helping lots of different AI companies with their ML models. And they"
+    }
+  ]
+}

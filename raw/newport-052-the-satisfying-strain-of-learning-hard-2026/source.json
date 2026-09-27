@@ -1,0 +1,31 @@
+{
+  "slug": "newport-052-the-satisfying-strain-of-learning-hard-2026",
+  "original_filename": "the-satisfying-strain-of-learning-hard-material-a-deliberate-practice-case-study.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 693,
+  "hash": "bf3756e1450da17ac57d5c48ee7e7d1501758cb37c0a2344cec92ed7cade12f1",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "critiqued",
+  "ingested_at": "2026-09-26T20:59:41Z",
+  "decisions": [
+    {
+      "stage": "practice-close-reading",
+      "outcome": "defer",
+      "at": "2026-09-26",
+      "scope": "draft-only; integration pending"
+    }
+  ],
+  "lines": 37,
+  "screening_id": 52,
+  "collected_from": "raw/inbox/Practical/Cal Newport/the-satisfying-strain-of-learning-hard-material-a-deliberate-practice-case-study.md",
+  "bibliographic_metadata": {
+    "title": "The Satisfying Strain of Learning Hard Material",
+    "date": "",
+    "url": "https://calnewport.com/the-satisfying-strain-of-learning-hard-material-a-deliberate-practice-case-study/",
+    "collection": "Cal Newport"
+  },
+  "draft_only": true,
+  "integration_decision": "pending"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 81,
+  "title": "Mass Intelligence",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/mass-intelligence.md",
+  "sha256": "0e1cfe434c5c022d24f242d92a5890c6978d601d55b7ca510be80d476a2d4bee",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1930,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 171,
+      "text": "More than a billion people use AI chatbots regularly. ChatGPT has over 700 million weekly users. Gem"
+    },
+    {
+      "line": 12,
+      "offset": 779,
+      "text": "Until recently, free users of these systems (the overwhelming majority) had access only to older, smaller AI models that frequently made mistakes and had limited use for complex work. The best models, like Reasoners that can solve very hard problems and hallucinate much less often, required paying s"
+    }
+  ]
+}

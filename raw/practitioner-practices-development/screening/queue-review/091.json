@@ -1,0 +1,35 @@
+{
+  "queue_position": 37,
+  "id": 91,
+  "path": "raw/inbox/Practical/Ethan Mollick/strategies-for-an-accelerating-future.md",
+  "sha256": "79aef3029a31b0f838d8345d4685b319adc1619d080d6c71a37fb81228be1342",
+  "title": "Strategies for an Accelerating Future",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 10,
+      "text": "I didn’t expect to have to update my views on the state-of-the-art in AI so soon after writing about Google’s Gemini Advanced, the first real competitor to GPT-4, but there have been two big leaps in Large Language Models this week with real practical implications."
+    },
+    {
+      "line": 12,
+      "text": "The first has to do with memory: there is a new version of Google’s Gemini (right after the release of the previous one!), which has a context window of over a million tokens. The context window is the information that the AI can have in memory at one time, and most chatbots have been frustratingly limited, holding a couple dozen pages, at most. This is why it is very hard to use ChatGPT to write long programs or documents; it starts to forget the start of the project as its context window fills up."
+    },
+    {
+      "line": 20,
+      "text": "The second big advance is speed. You may have been frustrated by the relatively slow speed of ChatGPT, but one AI company, Groq (no relation to Elon Musk’s Grok), has developed hardware that gives almost instantaneous responses from GPT-3.5 class models, bridging the gap between question and answer in the blink of an eye. You can try it yourself. This shows that AI need not always involve waiting for replies."
+    },
+    {
+      "line": 36,
+      "text": "# Four Questions to Ask About Your Organization."
+    },
+    {
+      "line": 38,
+      "text": "So how can leaders start to think about the rapidly advancing nature of AI? The first thing they should do is use it. No amount of reading and research can substitute for spending 10 hours or so with a frontier model, learning what it can do. After getting familiar, companies should think about the following four questions:"
+    },
+    {
+      "line": 41,
+      "text": "2. **What impossible thing can you do now?** The flip side of the first question is that you now can do things that were impossible before. What does having an infinite number of interns for every employee get you? How does giving everyone a data analyst, marketer, and advisor change what is possible? You can look at some of the GPTs my students created as inspiration."
+    }
+  ]
+}

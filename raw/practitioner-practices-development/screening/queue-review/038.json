@@ -1,0 +1,119 @@
+{
+  "queue_position": 7,
+  "id": 38,
+  "path": "raw/inbox/Practical/Cal Newport/on-ai-coding-and-its-discontents.md",
+  "sha256": "b5ac6b95ad53f0226d8f58b52ed9419d9dda737776fe45eec9226ea6c379263d",
+  "title": "On AI Coding and Its Discontents",
+  "coverage": "all available text, excluding linked images/media",
+  "headings": [],
+  "passages": [
+    {
+      "line": 9,
+      "text": "text_scope: \"visible_article_body; linked audio/video not transcribed\""
+    },
+    {
+      "line": 10,
+      "text": "curation_status: \"unreviewed\""
+    },
+    {
+      "line": 11,
+      "text": "---"
+    },
+    {
+      "line": 13,
+      "text": "# On AI Coding and Its Discontents"
+    },
+    {
+      "line": 15,
+      "text": "Back in January, I received a note from a senior software engineer in Silicon Valley. He described himself as an AI skeptic who became converted after trying Claude Code for the first time. “Overnight, it changed the way I do my job,” he wrote. “It’s really, really good.”"
+    },
+    {
+      "line": 17,
+      "text": "As he explained, he no longer used a standard development environment. Instead, he “exclusively uses Claude Code” to get the job done, interacting with the tool in a terminal window and allowing it to program on his behalf."
+    },
+    {
+      "line": 19,
+      "text": "“If I had to guess,” he concluded, “I’d say a task that would have taken me a week now takes me 2 days.”"
+    },
+    {
+      "line": 21,
+      "text": "This past winter, when I surveyed more than 300 software developers to learn how AI was transforming their jobs, the majority told a similar tale of shifting from writing their own code to instructing AI agents. The speed with which this new tool became ubiquitous in this industry was stunning."
+    },
+    {
+      "line": 23,
+      "text": "This story matters for the rest of us because AI coding tools have emerged as the prime example of the power of AI—the first step of many more soon to come on this technology’s disruptive march through our work and our lives."
+    },
+    {
+      "line": 25,
+      "text": "But what if the reality here is more complicated?"
+    },
+    {
+      "line": 27,
+      "text": "**Last week, I received a new message from that same senior engineer who wanted to share an alarming addendum to his tale…**"
+    },
+    {
+      "line": 31,
+      "text": "“I’m writing to give you an update on my current thinking about the state of AI in software engineering,” he began, “because my attitude has shifted quite a bit.”"
+    },
+    {
+      "line": 33,
+      "text": "He told me that features he generated using Claude Code ended up crashing their product on two different occasions. His boss told him that if it happened one more time, he’d be fired. “I’ve never had quality issues like this before in my career.”"
+    },
+    {
+      "line": 35,
+      "text": "The problem is that code produced by an AI agent *looks* reasonable, but can contain ‘hard-to-spot bugs’ that end up causing major problems. As a result, you should carefully review your agent’s output, but this is difficult. As the engineer told me, it’s “famously hard” to understand code you didn’t write yourself, so this extra step becomes “easy to just blow it off (especially when we are all trying to ‘10x’ our velocity).” Soon, systems start to break."
+    },
+    {
+      "line": 37,
+      "text": "“The coding harnesses are useful and make life as a developer easier,” he summarized, “but they also encourage laziness.”"
+    },
+    {
+      "line": 39,
+      "text": "In response to these issues, this disillusioned engineer has returned to largely programming by hand. Here’s how he explained his current philosophy:"
+    },
+    {
+      "line": 41,
+      "text": "“Writing your own code, slowly but surely, and using LLMs for narrow or particularly annoying tasks (say like writing tests or throw-away scripts), is the best way to produce the highest quality code, since it’s the only way to properly understand it.”"
+    },
+    {
+      "line": 43,
+      "text": "Here’s the thing: he’s not alone."
+    },
+    {
+      "line": 45,
+      "text": "I increasingly hear similar rumbles from many other people in the software industry (see, for example, ​this podcast episode​ from May). Tools like Claude Code can feel like magic, but the strategy of outsourcing all code production to AI isn’t currently sustainable."
+    },
+    {
+      "line": 47,
+      "text": "In addition to reliability issues, it often engenders a mind-numbing workflow and an environment where junior developers will never acquire the expertise to become senior developers capable of designing complex systems."
+    },
+    {
+      "line": 49,
+      "text": "Meanwhile, as the frontier labs reduce their subsidies on underlying computing costs, the old habit of burning through as many tokens as possible in search of workable results is proving prohibitively expensive."
+    },
+    {
+      "line": 51,
+      "text": "*From the outside, software development seemed like the poster child for AI’s potential. On the inside, it’s a mess.*"
+    },
+    {
+      "line": 53,
+      "text": "This doesn’t mean that coders will abandon AI; its facility with programming languages is too valuable to ignore. But I think there’s a lot more work to be done trying to figure out *how* to integrate AI into this industry in a way that actually works."
+    },
+    {
+      "line": 55,
+      "text": "This is a key point."
+    },
+    {
+      "line": 57,
+      "text": "This last year has been exhausting. The PR departments of the frontier labs have done an excellent job convincing us that AI developments are occurring at an astounding, world-changing rate. But if you zoom out, it becomes clear that almost every “breakthrough” since last summer has concerned the narrow domains of computer code and math, which are defined by highly structured languages and come accompanied by massive amounts of specialized training data."
+    },
+    {
+      "line": 59,
+      "text": "And yet, even in this best-case-scenario setting for AI, we’re still struggling to figure out how to actually use these tools in a way that makes sense in the long run."
+    },
+    {
+      "line": 61,
+      "text": "This doesn’t mean that AI doesn’t work or is useless. But it does emphasize an important truth: AI is not a magic “infinity machine” that can solve all our problems, and ultimately deliver us a sense of meaning in a cold, confusing world. It’s a *normal* technology, and perhaps it’s time we start talking about it that way."
+    }
+  ]
+}

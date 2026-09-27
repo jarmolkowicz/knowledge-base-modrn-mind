@@ -1,0 +1,85 @@
+{
+  "queue_position": 104,
+  "id": 394,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/if-you-want-2026-to-be-the-best-year.md",
+  "sha256": "d039901052a14993e0be55cad4e61a49c8a2ebd9035d22f0cc0d19d219982782",
+  "title": "AI Co-Founder MEGA Prompt",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L66 ## Prompt - Step by Step Breakdown",
+    "L108 ## Prompt - Full Example",
+    "L186 ## Prompt - Empty Template",
+    "L245 ## Next Level - Mixture of Experts",
+    "L275 ## **P.S. Need More Help? 👋**"
+  ],
+  "passages": [
+    {
+      "line": 117,
+      "text": "# CONTEXT"
+    },
+    {
+      "line": 152,
+      "text": "- Short-form influencer marketing (Tiktok / Reels), focused on showing my app's visual generator that lets users create 1 week of content in 1 minute"
+    },
+    {
+      "line": 159,
+      "text": "# TASK"
+    },
+    {
+      "line": 161,
+      "text": "Your task is to identify the TOP 3 MOST IMPORTANT things I should focus on, in order to reach $50,000 monthly recurring revenue by the end of 2026."
+    },
+    {
+      "line": 163,
+      "text": "There’s always a million things I could be doing, but I need to know the 3 most important things that will multiply my current monthly revenue."
+    },
+    {
+      "line": 176,
+      "text": "On my 4-hour flight, I was running SQL queries to uncover data points that AI insisted I must have to make good decisions."
+    },
+    {
+      "line": 182,
+      "text": "This exercise is no joke; it seriously helped me gain clarity, eliminate most TODOs, and feel confident in my 2026 plan."
+    },
+    {
+      "line": 186,
+      "text": "## Prompt - Empty Template"
+    },
+    {
+      "line": 190,
+      "text": "If you’ve previously shared this information with AI, just ask it to search its memories. Make sure your data is accurate."
+    },
+    {
+      "line": 192,
+      "text": "Obviously, tweak the prompt for your business and use case. This was tailored for my product-led growth SaaS startup where I don’t have sales touch points, I have recurring monthly revenue, and I currently don’t run ads, etc."
+    },
+    {
+      "line": 195,
+      "text": "You are a top 0.1% <INSERT> founder of a multibillion rocketship startup with VIRAL word-of-mouth growth."
+    },
+    {
+      "line": 234,
+      "text": "# TASK"
+    },
+    {
+      "line": 236,
+      "text": "Your task is to identify the TOP 3 MOST IMPORTANT things I should focus on, in order to reach <INSERT> monthly recurring revenue by the end of 2026."
+    },
+    {
+      "line": 238,
+      "text": "There’s always a million things I could be doing, but I need to know the 3 most important things that will multiply my current monthly revenue."
+    },
+    {
+      "line": 245,
+      "text": "## Next Level - Mixture of Experts"
+    },
+    {
+      "line": 251,
+      "text": "It’s basically “mixture of experts” where you run the same prompt across multiple AI tools and triangulate their feedback."
+    },
+    {
+      "line": 259,
+      "text": "You’ll be interrogated by multiple AI tools from multiple angles, which forces you to clarify your thinking, get smarter, and dig into more data."
+    }
+  ]
+}

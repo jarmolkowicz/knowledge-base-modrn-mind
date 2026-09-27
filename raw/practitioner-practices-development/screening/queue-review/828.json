@@ -1,0 +1,29 @@
+{
+  "queue_position": 395,
+  "id": 828,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/vikrama-dhiman/transcript.md",
+  "sha256": "3cc27628e12a594c9d82e58d73e95c40764f76ddd01ea667f88255968d50176a",
+  "title": "A framework for PM skill development | Vikrama Dhiman (Gojek)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 227,
+      "text": "Vikrama Dhiman (00:37:54):"
+    },
+    {
+      "line": 228,
+      "text": "I think as product managers it becomes difficult because a lot of your growth is being determined because of feedback of others. And because product management is so ambiguous and still not defined, the stakeholders can also give feedback on variety of dimensions. Some of them may not even be important enough to give feedback on, but they are important enough for them and so therefore, they give you feedback. And therefore, you have to shape that feedback in. But you also have to consider that there are these eight access that we spoke about, the data access, the design and research access, the technology access, the strategy access, communication access, collaboration access, organizational skills access, and the community access. You need to channelize feedback into okay, is this an area that you are targeting for growth or not?"
+    },
+    {
+      "line": 374,
+      "text": "Vikrama Dhiman (01:05:21):"
+    },
+    {
+      "line": 375,
+      "text": "There are some obvious check marks that are they able to first abstract out and figure out what the overall goals for the product are, who the users for that product are, what would they be focusing on right now, whether this will align with that or not. And then a reason backwards that okay, maybe this may not work, but something on these lines. Are you obsessed about this feature or are you obsessed about okay, what this enables you to do? So if this is what it enables you to do, then are you okay with considering some other options and so on? So I think that's the direction which usually goes in the right way."
+    }
+  ]
+}

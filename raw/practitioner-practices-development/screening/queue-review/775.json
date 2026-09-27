@@ -1,0 +1,69 @@
+{
+  "queue_position": 352,
+  "id": 775,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/peter-deng/transcript.md",
+  "sha256": "3fd87528041c01b1cf7160f528bf649551b080aef9aa259707efbbba02437508",
+  "title": "Peter Deng",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L31 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 78,
+      "text": "Brandon Foo (00:03:35):"
+    },
+    {
+      "line": 79,
+      "text": "Integrations are mission-critical for AI for two reasons: First, AI products need contacts from their customer's business data such as Google Drive files, Slack messages or CRM records. Second, for AI products to automate work on behalf of users, AI agents need to be able to take action across these different third-party tools."
+    },
+    {
+      "line": 162,
+      "text": "Peter Deng (00:11:52):"
+    },
+    {
+      "line": 163,
+      "text": "I think education is going to change in a big way. And I think a lot about this because I'm involved in my kid's school quite a bit, and that's something I've done after I left OpenAI. And what's fascinating to me is that watching my son who got to dog food, a bunch of the OpenAI stuff before it was public, I think I can safely say that, that seems okay. And when he was playing with ChatGPT and some of the latest models and he was nine at the time, I can already see his brain rewiring. He was starting to ask questions and he never heard the word prompt before, but he's like, just this is how awesome the human mind is, because he was exposed to this technology at an early age, some things just are unlocked. And I think that you're able to think differently. And I'll give you a specific example of what I mean here."
+    },
+    {
+      "line": 171,
+      "text": "(00:14:08):"
+    },
+    {
+      "line": 172,
+      "text": "At age nine he could think about that, whereas being at age nine, I was playing with Legos and maybe QBasic. And so this idea of how young human's brains will evolve because of this new tool we have is going to change the way I think we're going to do education. And I'll be very honest, I'm not an expert in education, but I just thought a lot about it. And one thing I think is going to be really important in the future is being able to figure out how to ask the right questions. We humans are inherently inquisitive. But being inquisitive and turning that into the right questions to prompt or ask AI, which is going to be again, something that everyone's going to have access to is going to be a differentiator for what kind of work can be done."
+    },
+    {
+      "line": 609,
+      "text": "(00:53:58):"
+    },
+    {
+      "line": 610,
+      "text": "The last one, I would say, I used to call it an algorithms PM, but now in the world of AI, I'm going to rename this to research PM. These are half researcher, half engineer, half product person. These minds are amazing."
+    },
+    {
+      "line": 912,
+      "text": "Peter Deng (01:23:12):"
+    },
+    {
+      "line": 913,
+      "text": "The role was model designer, and it was just a really interesting way that she framed it. And I know this role probably exists in some incarnation in other foundational model companies, but the way that she described it, and the things that she found to be the spikes required, led us to hire our first two model designers after running a search. And they were just perfect fits for the team. And that, I think, is largely a big secret as to why, at least, I'm biased. I love ChatGPT so much, and the way the model comes off, and the vibe of the model, is largely because of this technical plus taste role that she has created and she's leading."
+    },
+    {
+      "line": 972,
+      "text": "Peter Deng (01:34:48):"
+    },
+    {
+      "line": 973,
+      "text": "Yeah, and I really do hope product people still do this to this day because I think there's so many shortcuts that if people take, you're going to miss the point, right? I still remember distinctly flying down to LA with Kevin Systrom to go do a user research study, and it was a one-way glass thing where we listened to people talk about Instagram and how they use Instagram, and there's no substitute for that. I think that to anyone out there who's doing user interviews and then saying, hey ChatGPT, summarize the takeaways, you're missing the point. You can't empathize with the summary. You have to be in the room fully immersed, no phones, just actually hearing the words and the intonation. That's how you're going to get the full color."
+    },
+    {
+      "line": 1101,
+      "text": "Peter Deng (01:53:28):"
+    },
+    {
+      "line": 1102,
+      "text": "Thank you for the question. I am an introvert, so I'm really kind of silent on a lot of social media. I have accounts on X and Threads, but really I think LinkedIn is the network of choice for me. I want to be able to passively consume and learn about what's happening. How listeners can be helpful, I just want to learn. What are you all thinking about? What are some of the insights you're seeing? One of the analogies I have about AI in this day and age is that it's this really interesting new element that humanity has discovered. And what's awesome is that humanity is also very creative. And so what humanity does with this new element, I'm fascinated by, and you can tell the founders who've actually played with this element because they have this innate sense of what this thing can do and can't do, and I'm just looking to be inspired by the creativity of all you all out there."
+    }
+  ]
+}

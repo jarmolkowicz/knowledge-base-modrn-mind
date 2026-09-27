@@ -1,0 +1,35 @@
+{
+  "id": 409,
+  "title": "Teaching AI to Notice Neurodiverse Perception",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-and-neurodiverse-perception.md",
+  "sha256": "6972e31cb9521e2506c0ea7b785bff182d0891e4a57d57afcb29096dfec3b944",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1206,
+  "headings": [
+    "**Step by step**",
+    "Slow AI #1 – Teach It Something It Cannot Know",
+    "**A moment from Susan**",
+    "The Slow AI Library",
+    "**What to do with it**",
+    "**Let’s Collaborate**",
+    "Collaborating with Slow AI",
+    "**Why this matters**",
+    "**From [Using AI to Overcome Imposter Syndrome](https://theslowai.substack.com/p/reframing-imposter-feelings-with-ai)**",
+    "**How I Plan a Week of Notes Without Losing Hours**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 244,
+      "text": "For a tool or product, there is safety in well-established patterns, t"
+    },
+    {
+      "line": 74,
+      "offset": 3566,
+      "text": "This prompt sprung directly from a previous *Slow AI* prompt to write the ‘missing chapter’. If we are to treat AI as a creative ally, even sceptically, then we must explore its current limits - and be prepared"
+    }
+  ]
+}

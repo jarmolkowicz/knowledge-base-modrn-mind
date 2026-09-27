@@ -1,0 +1,26 @@
+{
+  "id": 789,
+  "title": "The role of AI in new product development | Ryan J. Salva (VP of Product at GitHub)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ryan-j-salva/transcript.md",
+  "sha256": "b378a3a3870b262a718722a41bc6504f3e9f5b8da80b007c966020ffd7210480",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 10317,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 839,
+      "text": "We had actually created a snapshot of GitHu"
+    },
+    {
+      "line": 115,
+      "offset": 13932,
+      "text": "Awesome. What I'm most curious about, and we're going to spend time on this, is just how a product like this comes to be at a larg"
+    }
+  ]
+}

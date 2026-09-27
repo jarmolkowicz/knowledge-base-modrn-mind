@@ -1,0 +1,27 @@
+{
+  "id": 329,
+  "title": "How to (actually) set up your ChatGPT.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/settings.md",
+  "sha256": "77cecbc4807e56ce367c73f46a95e18910f34270a15711166a8638d642b3b7fc",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 353,
+  "headings": [
+    "Test your own ChatGPT",
+    "Build your digital twin inside ChatGPT"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 191,
+      "text": "No one gave you the correct settings before using ChatGPT."
+    },
+    {
+      "line": 32,
+      "offset": 753,
+      "text": "First, take a look at how much ChatGPT knows about you."
+    }
+  ]
+}

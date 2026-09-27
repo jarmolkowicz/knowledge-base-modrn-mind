@@ -1,0 +1,39 @@
+{
+  "queue_position": 20,
+  "id": 66,
+  "path": "raw/inbox/Practical/Ethan Mollick/against-brain-damage.md",
+  "sha256": "eb3152af3563e318a5c360b4b976349a0a6a1d7f63899f822278db6b6711cdce",
+  "title": "Against Brain Damage",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 10,
+      "text": "I increasingly find people asking me “does AI damage your brain?” It's a revealing question. Not because AI causes literal brain damage (it doesn't) but because the question itself shows how deeply we fear what AI might do to our ability to think. So, in this post, I want to discuss ways of using AI to help, rather than hurt, your mind. But why the obsession over AI damaging our brains?"
+    },
+    {
+      "line": 18,
+      "text": "# The Learning Brain"
+    },
+    {
+      "line": 34,
+      "text": "Ultimately, it is how you use AI, rather than use of AI at all, that determines whether it helps or hurts your brain when learning. Moving away from asking the AI to help you with homework to helping you learn as a tutor is a useful step. Unfortunately, the default version of most AI models wants to give you the answer, rather than tutor you on a topic, so you might want to use a specialized prompt. While no one has developed the perfect tutor prompt, we have one that has been used in some education studies, and which may be useful to you and you can find more in the Wharton Generative AI Lab prompt library. Feel free to modify it (it is licensed under Creative Commons). If you are a parent, you can also act as the tutor yourself, prompting the AI “explain the answer to this question in a way I can teach my child, who is in X grade.” None of these approaches are perfect, and the challenges in education from AI are very real, but there is reason to hope that education will be able to adjust to AI in ways that help, and not hurt, our ability to think. That will involve instructor guidance, well-built prompts, and careful choices about when to use AI and when it should be avoided."
+    },
+    {
+      "line": 36,
+      "text": "# The Creative Brain"
+    },
+    {
+      "line": 57,
+      "text": "So how do you get AI's benefits without the brain drain? The key is sequencing. Always generate your own ideas before turning to AI. Write them down, no matter how rough. Just as group brainstorming works best when people think individually first, you need to capture your unique perspective before AI's suggestions can anchor you. Then use AI to push ideas further: “Combine ideas #3 and #7 in an extreme way,” “Even more extreme,” “Give me 10 more ideas like #42,” “User superheroes as inspiration to make the idea even more interesting.”"
+    },
+    {
+      "line": 79,
+      "text": "# Against “Brain Damage”"
+    },
+    {
+      "line": 81,
+      "text": "AI doesn't damage our brains, but unthinking use can damage our thinking. What's at stake isn't our neurons but our habits of mind. There is plenty of work worth automating or replacing with AI (we rarely mourn the math we do with calculators), but also a lot of work where our thinking is important. For these problems, the research gives us a clear answer. If you want to keep the human part of your work: think first, write first, meet first."
+    }
+  ]
+}

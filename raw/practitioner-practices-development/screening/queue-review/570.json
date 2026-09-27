@@ -1,0 +1,33 @@
+{
+  "queue_position": 208,
+  "id": 570,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/bob-moesta/transcript.md",
+  "sha256": "0195cdc7e6655b8910d6e26aa080a0afe857a889654c4204a768755b3884aefd",
+  "title": "How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of \"Job Moves”)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 35,
+      "text": "# How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of \"Job Moves”)"
+    },
+    {
+      "line": 105,
+      "text": "(00:09:06):"
+    },
+    {
+      "line": 106,
+      "text": "And so that's what we mean when we're customer-centric is that we're studying the struggling moments they have and people like Intercom and Basecamp, they look at struggling moments and that becomes their roadmap. Because again, think about a roadmap. I'm literally trying to tell you what I'm going to build in the next 24 months, for example, but none of us saw ChatGPT coming. And so all of a sudden I have to go undo the roadmap. But if I talk about the struggling moments that I'm trying to go after, all of a sudden I realize that the roadmap is now when I get to that struggling moment, there's multiple ways I can solve it. So instead of just talking about features, it's typically talking about features for the first 90 to 120 days, but after that we just talk about struggling moments because that's the seed for real innovation and basically where new products come from."
+    },
+    {
+      "line": 207,
+      "text": "Bob Moesta (00:23:19):"
+    },
+    {
+      "line": 208,
+      "text": "It's really simple, I have a company called Scribe Media, and what we do is first thing we do is we look for what struggling moments do people have? We then look at what are the competitive books wrapped around it? I then basically outline what progress looks like. We then take each chapter and define it as a system and what we have to do in each chapter to help them make the progress along the way. And then we just talk and we talk, we have ten two hour sessions, they get recorded, and then somebody basically takes... So if you listen or read any of my books, it sounds like me talking because it is."
+    }
+  ]
+}

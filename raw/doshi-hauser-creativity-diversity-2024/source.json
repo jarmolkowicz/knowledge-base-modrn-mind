@@ -15,7 +15,7 @@
       "outcome": "workbench_backfilled",
       "by": "human (Pass 1 gap-fill)",
       "at": "2026-04-29T13:29:28Z",
-      "reason": "KB entry pre-existed without per-source workbench. Inbox binary identified and backfilled. Audit trail (triage/distill/critique) not available \u2014 entry was distilled before the new pipeline."
+      "reason": "KB entry pre-existed without per-source workbench. Inbox binary identified and backfilled. Audit trail (triage/distill/critique) not available — entry was distilled before the new pipeline."
     },
     {
       "stage": "redistill",
@@ -23,6 +23,14 @@
       "by": "human (Pass 2 batch 7)",
       "at": "2026-04-29T15:47:18Z",
       "reason": "Re-distilled inline. Added Key Passages with locators, expanded Key Insight, supports wikilinks."
+    },
+    {
+      "stage": "supplementary_practices_stage_5",
+      "outcome": "integrated",
+      "date": "2026-09-27",
+      "by": "Codex librarian; user-authorized Continue",
+      "reason": "Reviewed supplementary practices or research-context updates integrated. Original source status and earlier history retained.",
+      "batch": "raw/kb-practice-screening-2026-09-27/review/integration/decision.json"
     }
   ],
   "pages": 9

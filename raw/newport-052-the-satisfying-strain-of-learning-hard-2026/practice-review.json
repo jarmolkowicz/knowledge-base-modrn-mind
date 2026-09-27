@@ -1,0 +1,30 @@
+{
+  "id": 52,
+  "group_index": 1,
+  "decision": "defer",
+  "role": "deferred",
+  "locators": [
+    "L11–26, A Deliberate Morning"
+  ],
+  "basis": "Cal Newport’s personal account of preparing 21 graduate computation lectures over a semester.",
+  "reported_outcomes": [
+    "Reports better tolerance of concentration and perceived transfer to research."
+  ],
+  "proposed_outcomes": [
+    "Practise difficult material without distraction."
+  ],
+  "limits": [
+    "No independent measurement or comparison. Three hours of strain is not a general learning prescription. Snapshot has no publication date and links to spring 2012; 2026 in workbench name is a catalog fallback."
+  ],
+  "related_entries": [
+    "bjork-desirable-difficulties-2011"
+  ],
+  "review_note": "Defer a separate practice: general concentration account adds limited AI-specific procedure beyond protected attention and assessed practice.",
+  "practitioner": "Do not prescribe long uninterrupted sessions to every learner; difficulty requires prerequisites and can become unproductive.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [],
+  "source_path": "raw/newport-052-the-satisfying-strain-of-learning-hard-2026/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "pending",
+  "draft_only": true
+}

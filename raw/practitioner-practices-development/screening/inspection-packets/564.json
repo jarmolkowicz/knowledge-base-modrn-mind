@@ -1,0 +1,26 @@
+{
+  "id": 564,
+  "title": "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ben-horowitz/transcript.md",
+  "sha256": "a3cd9425494f6b2b1b8e196341dcbf07dba537e3110f0e4501d767ec651b5093",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 16239,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 841,
+      "text": "The worst thing that you do as a leader is you hesita"
+    },
+    {
+      "line": 487,
+      "offset": 64711,
+      "text": "On the other hand, the reinforcement learning side has been linear, but it doesn't generalize. So if you build a great programming model, it may be an idiot at "
+    }
+  ]
+}

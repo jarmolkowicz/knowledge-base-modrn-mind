@@ -1,0 +1,40 @@
+{
+  "id": 416,
+  "group_index": 0,
+  "decision": "merge",
+  "role": "support",
+  "locators": [
+    "L28–36, Step by step",
+    "L56–72, Ilia Karelin account",
+    "L82–88, reflection"
+  ],
+  "basis": "Ilia Karelin contributes a prompt and personal coding/SQL reflection, hosted by Sam Illingworth.",
+  "reported_outcomes": [
+    "Karelin reports recognizing reduced opportunities to form and test hypotheses; explicitly notes Claude cannot know time spent before prompting."
+  ],
+  "proposed_outcomes": [
+    "Identify a thinking step to retain in a real task."
+  ],
+  "limits": [
+    "AI cannot diagnose lost skill from chats. The account does not measure skill decline or causal effects. The prompt presupposes a loss."
+  ],
+  "related_entries": [
+    "cognitive-offloading",
+    "six-pattern-diagnostic"
+  ],
+  "review_note": "Merge with protected-task choice; base review on the person’s own task trace before consulting AI.",
+  "practitioner": "Name an observable skipped step, not a personal deficit. Keep accommodation tools and irrelevant friction separate.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [
+    "raw/illingworth-523-how-to-hold-on-to-what-2025/drafts/practices/keep-one-thinking-step.md"
+  ],
+  "source_path": "raw/illingworth-416-what-ai-takes-when-you-aren-2025/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/keep-one-thinking-step.md"
+  ],
+  "historical_drafts_retained": true
+}

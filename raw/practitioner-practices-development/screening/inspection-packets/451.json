@@ -1,0 +1,30 @@
+{
+  "id": 451,
+  "title": "Slow Takes Ep. 25: Four Numbers That Shrank When Somebody Checked",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/datacentres-oura-grok-cocomelon-mammograms.md",
+  "sha256": "eaca52feed4a63bd424de0dbbd1995ac44ad625163f0fbffe376ad572a148863",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1047,
+  "headings": [
+    "**1. Two UK datacentres are bringing their own gas power stations**",
+    "**2. Oura marketed 95%, the lawsuit cites 53%**",
+    "**3. Grok hands over your chat history, and nobody wrote it down**",
+    "**4. Cocomelon’s studio hands its animators an AI Bible**",
+    "**5. A mammogram may also be a heart scan**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 476,
+      "text": "Every Monday, Leor from Exploring ChatGPT and I go through the week’s "
+    },
+    {
+      "line": 49,
+      "offset": 4517,
+      "text": "Moonbug Entertainment, which makes Cocomelon, Blippi and Little Baby Bum, issued animators an AI policy and a document it calls the ‘Studio AI Bible’ telling them to experiment. The guidance reads well. Keep a "
+    }
+  ]
+}

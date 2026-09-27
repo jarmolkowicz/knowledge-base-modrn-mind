@@ -1,0 +1,43 @@
+{
+  "queue_position": 22,
+  "id": 70,
+  "path": "raw/inbox/Practical/Ethan Mollick/choosing-to-stay-human.md",
+  "sha256": "9707b21ce802538151b684485fc2eaa2a2fabcd5e3b0eebb5751b0c872a12b51",
+  "title": "Choosing to Stay Human",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 27,
+      "text": "# Subtle changes, big outcome differences"
+    },
+    {
+      "line": 29,
+      "text": "The clearest place to see this is in education, where two papers with an overlapping research team (including peers at Wharton) do a good job illustrating the difference between using AI to shortcut thinking and to help thinking. The first paper was an experiment at a high school in Turkey with about a thousand students learning math. One group used plain ChatGPT, the other had no AI access. The students with ChatGPT did their homework better and thought they were learning more, but at test time, they underperformed their classmates without ChatGPT. That is because the AI, designed to be a helpful assistant, was really just giving them answers, and actual learning requires mental effort. By short-circuiting effort, you short-circuit learning. That is why the initial results of AI on learning in classrooms can be so worrying."
+    },
+    {
+      "line": 39,
+      "text": "# Too frictionless"
+    },
+    {
+      "line": 47,
+      "text": "When AI systems required elaborate back-and-forth conversations and made errors frequently, humans had to be engaged at every step. Agentic systems are designed to make your life easier, because they just do stuff. Which is great for getting stuff done, bad for learning anything, or staying authentic, or avoiding cognitive surrender. If you put in a hard request and get an answer, it is tempting to just go with the AI’s response."
+    },
+    {
+      "line": 53,
+      "text": "Some of the solution might be in the tools themselves, but that is limited. A version of ChatGPT that asked, before every answer, “would you rather I push you to think through this, or just give it to you?” or told you “I think this would be more authentic if you wrote this” would be insufferable most of the time. But there are places where we absolutely need these reminders. The Taipei result hints at one direction, namely system-level constraints rather than user-level willpower, but we don’t see much of that in the consumer products, and the commercial pressure mostly pushes in the opposite direction."
+    },
+    {
+      "line": 55,
+      "text": "# Choosing what to keep human"
+    },
+    {
+      "line": 65,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!a8R9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb63d669d-64f1-4f8b-81ae-9476d20a720d_1182x635.png)"
+    },
+    {
+      "line": 69,
+      "text": "This is especially true of fiction writing, where AI is notoriously weak while seeming strong. ChatGPT in particular is fond of meaningless similes and metaphors (“the street was like a gap-toothed smile,” “he sat in a way that would make the trees jealous”) that can feel profound at first sight, but only because we assume difficult writing is purposeful and work hard to assign it meaning. Humans are very good at assigning meaning to meaningless material if we try hard enough."
+    }
+  ]
+}

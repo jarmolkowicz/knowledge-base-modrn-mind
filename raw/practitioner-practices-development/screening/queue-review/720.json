@@ -1,0 +1,61 @@
+{
+  "queue_position": 312,
+  "id": 720,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/logan-kilpatrick/transcript.md",
+  "sha256": "6c5ffa39bd184f02109a087e78ff40fb6897eccf75977c3f8415d4de36332173",
+  "title": "Inside OpenAI | Logan Kilpatrick (head of developer relations)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 107,
+      "text": "Logan Kilpatrick (00:10:36):"
+    },
+    {
+      "line": 108,
+      "text": "That's a great question. I think we're deeply focused on these very, very general use cases like the general reasoning capabilities, the general coding, the general writing abilities. I think where you start to get into some of these very vertical applications... And I think a great example of this is actually Harvey. I don't know if you've seen Harvey, but it's this legal AI use case where they're building custom models and tools to help lawyers and people at legal firms and stuff like that. And that's a great example of our models are probably never going to be as capable as some of the things that Harvey's doing because our goal and our mission is really to solve this very general use case and then people can do things like fine-tuning and build all their own custom UI and product features on top of that."
+    },
+    {
+      "line": 116,
+      "text": "Logan Kilpatrick (00:12:30):"
+    },
+    {
+      "line": 117,
+      "text": "And I think if you're going to try and solve this very general, if you're going to try to build the next general assistant to compete with something like ChatGPT, it has to be so radically different. People have to really be like, \"Wow, this is solving these 10 problems that I have with ChatGPT, and therefore I'm going to go and try your new thing.\" Otherwise we're just putting a ton of engineering efforts and research effort into making that an incredible product, and it's just going to be the normal challenges of building companies. It's just hard to compete against something like that."
+    },
+    {
+      "line": 170,
+      "text": "(00:21:35):"
+    },
+    {
+      "line": 171,
+      "text": "You can imagine a world where you go into ChatGPT and you say, \"Write me a blog post about AI.\" It automatically will go and be like, \"Let me generate a much higher fidelity description of what this person really wants, which is generate me a blog post about AI that talks about the trade-offs between these different techniques and some example use cases and references some of the latest papers,\" and it does all that for you, and then you at the user will hopefully be able to be like, \"Yep, this is kind of what I wanted. Let me edit this. Let me edit this here.\""
+    },
+    {
+      "line": 173,
+      "text": "(00:22:02):"
+    },
+    {
+      "line": 174,
+      "text": "And again, the inherent problem is we're lazy as humans. We don't want to type all... We don't really want to type what we mean, and I think AI systems are actually going to help solve some of that problem."
+    },
+    {
+      "line": 212,
+      "text": "Logan Kilpatrick (00:26:42):"
+    },
+    {
+      "line": 213,
+      "text": "Yeah, it's going great, and again, historically the thing that you would have to do, let's say for example, you have a really cool ChatGPT use case, what you would have to do to share it with somebody else is actually go in and start the conversation with the model, prompt it to do the things that you wanted to, and then you would share that link with somebody else before the action has actually happened and be like, here now you can essentially finish this conversation with ChatGPT that I started."
+    },
+    {
+      "line": 272,
+      "text": "Logan Kilpatrick (00:36:14):"
+    },
+    {
+      "line": 273,
+      "text": "I think this is one of the more challenging pieces at OpenAI. There's so many. Everyone wants everything from us, and today, especially, in the world of ChatGPT and how large and well-used our API is, people will just come to us and say, \"Hey, we want all of these things.\" I think there's a bunch of core guiding principles that we look at. One, going back to the mission, is this actually going to help us get to AGI? So there's a huge focus on there's this potential shiny reward right in front of us, which is optimize user engagement, or whatever it is. And is that really the thing? Maybe the answer is yes. Maybe that is what is going to help us get to AGI sooner, but looking at it through that lens I think is always the first step of deciding any of these problems."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 516,
+  "title": "What Claude Cannot Read in a Poem",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/what-claude-cannot-read-in-a-poem.md",
+  "sha256": "696dbe56f9d3b9bae4b1602f0aec3f65ebf0fb508e3db279a1ebf3f894ec8a6d",
+  "access": "public-page",
+  "kind": "article",
+  "words": 3772,
+  "headings": [
+    "**In this post I will:**",
+    "**How I tested whether AI can read poetry**",
+    "**Why there is no correct interpretation of a poem**",
+    "**The 10 poems I gave to Claude**",
+    "**What AI gets right about poetry**",
+    "**What AI misses when it reads a poem**",
+    "**1. AI does not read poems. It reproduces how poems have been read**",
+    "**2. AI analyses what a poem says, not what it assumes**",
+    "**3. AI describes empathy without recognising what empathy is for**",
+    "**4. AI treats poets of colour differently, and the pattern is worth examining**",
+    "**5. AI reads poems as a professor. It cannot read them as a person**",
+    "**When AI poetry analysis actually helped**",
+    "**The gap between experience and language is where AI lives**",
+    "**How I used AI to study AI (and why that matters)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 406,
+      "text": "Today is World Poetry Day. I am marking it by asking whether the A"
+    },
+    {
+      "line": 65,
+      "offset": 5975,
+      "text": "I included one of my own poems because it is the only text in the study that does not exist in Claude’s training data. Every other poem has been published, anthologised, and written about extensively."
+    }
+  ]
+}

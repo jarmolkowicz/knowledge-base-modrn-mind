@@ -1,0 +1,37 @@
+{
+  "queue_position": 252,
+  "id": 640,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/geoff-charles/transcript.md",
+  "sha256": "89fe9a2ee002bec1ad7825f4fe7413e1776552392897bfd145aac0c2600f5222",
+  "title": "Velocity over everything: How Ramp became the fastest-growing SaaS startup ever | Geoff Charles",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 219,
+      "text": "(00:33:41):"
+    },
+    {
+      "line": 220,
+      "text": "I think there's certain things that we plan for. And so the question really is because accuracy has cost, make sure that you're only increasing the accuracy of planning for the things that have high value of that accuracy."
+    },
+    {
+      "line": 285,
+      "text": "Lenny (00:44:41):"
+    },
+    {
+      "line": 286,
+      "text": "Something that comes across pretty clearly in the way you think and the way Ramp operates is this idea of thinking from first principles. And it's a cliche term, feels like everyone's always trying to talk about how they're thinking from first principles and it's important to their culture to think from first principles, but it feels like you guys actually do it. And so I am curious just where that emerged for you or for Ramp. And is there an example of something that emerged within Ramp, a new product or an idea, that was very clearly from first principles?"
+    },
+    {
+      "line": 357,
+      "text": "(00:55:40):"
+    },
+    {
+      "line": 358,
+      "text": "I group also what other people owe me and I Slack them what they owe me and I put a reminder on Slack for when they owe it to me by. And that way, it's just out of sight, out of mind. I think that the high-level theme is I try to create or free up headspace for processing, not memory. And so I just basically spend very little time memorizing anything and I write everything down. That is hard when you're trying to remember a specific date or remember something that someone said, but you have a system by which you can pull these things up very, very quickly. In the Google Space, you can pull up any document and search a bunch of documents very, very quickly. So that's what I would do is just spend a lot more time on the processing, be extremely good at just task management, and then grouping things, and then the next day, creating your calendar aligned to the goals that you've set for yourself the day before in terms of the tactical, where you group those tactical tasks together and then the more strategic deep thinking, walking out that additional space."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 73,
+  "title": "Co-Existence and the End of Co-Intelligence",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/co-existence-and-the-end-of-co-intelligence.md",
+  "sha256": "51300cd26fdc4e3f0c7a82fa05a288905eae2f43bbcc6a2d8cb5603e88318b3e",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1445,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 434,
+      "text": "It has been two years since *Co-Intelligence*, my book about AI, was published, and it was successfu"
+    },
+    {
+      "line": 31,
+      "offset": 3808,
+      "text": "So let me get this out of the way first: yes, I wrote the book. I assume you wanted to read it because you wanted to know what I, a human author doing research on the subject, thinks about AI. Similarly, I only wanted to write this book so that I could share my authentic views about AI in my voice. "
+    }
+  ]
+}

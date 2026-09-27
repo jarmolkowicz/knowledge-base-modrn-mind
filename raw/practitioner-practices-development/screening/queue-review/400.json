@@ -1,0 +1,86 @@
+{
+  "queue_position": 107,
+  "id": 400,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/the-emerging-field-of-llm-ops.md",
+  "sha256": "a2c108ac79998705deceae382936df095aa2178269324403642b85a80eac8abb",
+  "title": "The Emerging Field of LLM Ops",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L51 ## What is LLM Ops?",
+    "L83 ## Why LLM Ops?",
+    "L96 ### User Experience",
+    "L114 ### Compliance and Safety",
+    "L126 ### Development and Debugging",
+    "L159 ### Quality Assurance",
+    "L180 ### Cost Management",
+    "L196 ### Latency and Performance",
+    "L210 ## Conclusion",
+    "L226 ## Need More Help? 👋"
+  ],
+  "passages": [
+    {
+      "line": 96,
+      "text": "### User Experience"
+    },
+    {
+      "line": 108,
+      "text": "LLM tasks are often open-ended. This makes human feedback important in evaluating LLM performance. Dedicated LLM Ops tools can also provide a unified way to gather labeled data from human feedback."
+    },
+    {
+      "line": 110,
+      "text": "Integrating human feedback loop in your LLM Ops stack simplifies evaluation, helps detect errors and edge cases, and provides data for finetuning."
+    },
+    {
+      "line": 126,
+      "text": "### Development and Debugging"
+    },
+    {
+      "line": 141,
+      "text": "Before implementing changes in production, LLM Ops tools allow you to run evaluations and test sets to predict how changes will impact performance."
+    },
+    {
+      "line": 157,
+      "text": "Just like code versioning with git, versioning prompts and regression test sets is important in iterative development. This allows you to rapidly iterate and experiment with prompt variants, knowing you can always fall back to a reliable version if needed."
+    },
+    {
+      "line": 159,
+      "text": "### Quality Assurance"
+    },
+    {
+      "line": 165,
+      "text": "For example, when OpenAI releases a new version or you deploy an internal update, you’ll want to be notified immediately if output quality declines."
+    },
+    {
+      "line": 167,
+      "text": "LangKit is an example LLM Ops tool that can identify when outputs deviate from expected behaviors or rules, such as producing toxic or off-topic content."
+    },
+    {
+      "line": 178,
+      "text": "Then, you can evaluate these quality metrics in regression tests, comparing prompt versions, and across different LLMs."
+    },
+    {
+      "line": 180,
+      "text": "### Cost Management"
+    },
+    {
+      "line": 190,
+      "text": "By tracking token usage, you can observe spikes in costs and monitor which services are consuming the most resources, then optimize further."
+    },
+    {
+      "line": 210,
+      "text": "## Conclusion"
+    },
+    {
+      "line": 222,
+      "text": "As AI usage grows, embracing LLM Ops is key for companies to build great user experiences, maintain a competitive edge, and innovate efficiently."
+    },
+    {
+      "line": 226,
+      "text": "## Need More Help? 👋"
+    },
+    {
+      "line": 228,
+      "text": "1/ **If you want to grow on social media** and scale your business in coaching, consulting, speaking, selling apps, or digital products… **check out** ***Blotato***"
+    }
+  ]
+}

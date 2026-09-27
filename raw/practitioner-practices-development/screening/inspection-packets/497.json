@@ -1,0 +1,33 @@
+{
+  "id": 497,
+  "title": "Slow Takes Ep. 2: Replaced, Monitored, or Deregulated",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-takes-ep-2-replaced-monitored-or-deregulated.md",
+  "sha256": "2b398bd56c5d927ad17cfe0d761a6a8ecd5c8365b94277ca024a7e61be1709b8",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1667,
+  "headings": [
+    "What we covered",
+    "1. Anthropic versus the Pentagon",
+    "2. Jack Dorsey cuts 40% of Block",
+    "3. Surveillance with a smile: Burger King’s AI headsets",
+    "4. Grok, Aurora, and three million deepfakes",
+    "5. Trump’s AI Litigation Task Force: suing states that regulate",
+    "This week’s Substacker recommendations",
+    "Slow Takes is every Monday"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 459,
+      "text": "Thank you Karo (Product with Attitude), Jessica Drapluk, Jen Benfo"
+    },
+    {
+      "line": 105,
+      "offset": 11924,
+      "text": "**Sam recommends:** Chief Absurdist Officer and their series *Not Rising*, which platforms writers outside the Substack algorithm’s favourites. This week’s feature is Jennifer Houle at *Uncompliant*. "
+    }
+  ]
+}

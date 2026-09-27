@@ -1,0 +1,28 @@
+{
+  "id": 363,
+  "title": "AI reveals the most brutal truths in psychology",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/ai-reveals-the-most-brutal-truths-in-psychology.md",
+  "sha256": "37703ec6f197bea11a3946a2610383c8886aa31e28ab31a65b3c7d2531c74d0b",
+  "access": "public-page",
+  "kind": "article",
+  "words": 413,
+  "headings": [
+    "How to Run This Prompt Chain",
+    "Big Picture",
+    "Not Sure Where To Start? 👇"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 441,
+      "text": "Here are 5 AI prompts that will make you cry…"
+    },
+    {
+      "line": 41,
+      "offset": 3019,
+      "text": "You should open the app you ACTUALLY use because this exercise works best when AI has many past conversations to analyze."
+    }
+  ]
+}

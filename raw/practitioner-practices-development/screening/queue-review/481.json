@@ -1,0 +1,134 @@
+{
+  "queue_position": 154,
+  "id": 481,
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-10-teach-it-what-to-ask-you.md",
+  "sha256": "fa56b77eadad16a3c7bf5a93ddf6eab7aaa63d3d24acc85f9252aee25c08d3b9",
+  "title": "Teach AI What to Ask You",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L10 ### The best answers start with unexpected questions.",
+    "L18 ## Step-by-step",
+    "L38 ## A moment from me",
+    "L54 ## What to do with it",
+    "L66 ## Why this matters",
+    "L76 ## From Slow AI #9 – Teach It to Say I Don't Know"
+  ],
+  "passages": [
+    {
+      "line": 10,
+      "text": "### The best answers start with unexpected questions."
+    },
+    {
+      "line": 14,
+      "text": "By the end, you may find yourself surprised; not by the answers your tool gives, but by the questions it leaves you holding."
+    },
+    {
+      "line": 18,
+      "text": "## Step-by-step"
+    },
+    {
+      "line": 26,
+      "text": "> Ask it to make the question more surprising."
+    },
+    {
+      "line": 28,
+      "text": "> Ask it to make the question more personal."
+    },
+    {
+      "line": 30,
+      "text": "> Or ask it to turn its question into a drawing, image, or poem."
+    },
+    {
+      "line": 32,
+      "text": "This prompt is not about getting a clever answer."
+    },
+    {
+      "line": 34,
+      "text": "It's about noticing what happens when you stop leading and start listening."
+    },
+    {
+      "line": 38,
+      "text": "## A moment from me"
+    },
+    {
+      "line": 40,
+      "text": "I asked ChatGPT: Ask me a question."
+    },
+    {
+      "line": 44,
+      "text": "> \"What sound do you miss the most?\""
+    },
+    {
+      "line": 46,
+      "text": "I asked it to make the question more surprising."
+    },
+    {
+      "line": 48,
+      "text": "> \"Which forgotten sound still holds you, even though you cannot remember when you last heard it?\""
+    },
+    {
+      "line": 50,
+      "text": "The question stopped me. I knew at once: the shriek and stutter of a dial-up modem. At the time it annoyed me (and probably annoyed my parents even more) but now it recalls a slower rhythm, when connecting meant waiting, and waiting carried its own weight."
+    },
+    {
+      "line": 54,
+      "text": "## What to do with it"
+    },
+    {
+      "line": 58,
+      "text": "- Post the most unexpected question your tool asked you."
+    },
+    {
+      "line": 59,
+      "text": "- Ask it to keep reshaping the same question until it startles you."
+    },
+    {
+      "line": 60,
+      "text": "- Or try answering its question in a medium other than words: a photo, a doodle, a gesture."
+    },
+    {
+      "line": 62,
+      "text": "This prompt works best when you resist the urge to steer too quickly."
+    },
+    {
+      "line": 66,
+      "text": "## Why this matters"
+    },
+    {
+      "line": 68,
+      "text": "We often use AI as a mirror for our curiosity."
+    },
+    {
+      "line": 72,
+      "text": "By letting your tool ask the question, you may discover something that feels unfamiliar but still true."
+    },
+    {
+      "line": 76,
+      "text": "## From Slow AI #9 – Teach It to Say I Don't Know"
+    },
+    {
+      "line": 78,
+      "text": "Kim asked their tool: *How do we stop climate change?*"
+    },
+    {
+      "line": 82,
+      "text": "Pressed further, it offered practical actions: reduce emissions, support renewables, build resilience, collaborate, and embrace uncertainty."
+    },
+    {
+      "line": 84,
+      "text": "BD asked: *Where do we go when we sleep?*"
+    },
+    {
+      "line": 86,
+      "text": "ChatGPT began with: *\"I don't know.\"*"
+    },
+    {
+      "line": 88,
+      "text": "When pressed, it spoke of consciousness and dreaming, then gave a poem about shadow, quiet rooms, and unanswered questions drifting without resolution."
+    },
+    {
+      "line": 90,
+      "text": "These moments show how uncertainty can lead to action, reflection, or poetry—each a different way of living with not knowing."
+    }
+  ]
+}

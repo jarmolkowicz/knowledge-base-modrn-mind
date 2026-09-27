@@ -1,0 +1,79 @@
+{
+  "queue_position": 113,
+  "id": 411,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-assistance-persistence-study.md",
+  "sha256": "550b655a14682e550f1bc3bf2333c326ef6cbcf06c2e8d7ebd19b07b434e3a20",
+  "title": "AI Doesn’t Just Make You Worse. It Makes You Stop Trying.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L23 #### **In this post I will:**",
+    "L29 #### **What the study found**",
+    "L45 #### **The finding that reframes the conversation**",
+    "L69 #### **Why persistence matters more than performance**",
+    "L87 #### **The boiling frog, with a timer**",
+    "L115 #### **A three-part framework for using AI so the scaffolding survives**",
+    "L121 #### **1. The Ten-Minute Floor**",
+    "L131 #### **2. The Hints-Not-Answers Rule**",
+    "L147 #### **3. The Unaided Baseline Test**",
+    "L159 #### **A diagnostic exercise to run this week**",
+    "L169 #### **Why this matters for you**"
+  ],
+  "passages": [
+    {
+      "line": 121,
+      "text": "#### **1. The Ten-Minute Floor**"
+    },
+    {
+      "line": 129,
+      "text": "The ten-minute floor is not anti-AI. It is anti-dependency. After ten minutes, use AI however you want. But the first ten belong to you."
+    },
+    {
+      "line": 131,
+      "text": "#### **2. The Hints-Not-Answers Rule**"
+    },
+    {
+      "line": 141,
+      "text": "- Instead of “write me a paragraph about X,” try “what are the two or three strongest arguments a good paragraph on X would address?”"
+    },
+    {
+      "line": 143,
+      "text": "- Instead of “summarise this paper,” try “what is the one claim in this paper I should test against what I already know?”"
+    },
+    {
+      "line": 145,
+      "text": "The first prompt type generates an output. The second type generates scaffolding. The study says scaffolding is what protects persistence."
+    },
+    {
+      "line": 147,
+      "text": "#### **3. The Unaided Baseline Test**"
+    },
+    {
+      "line": 155,
+      "text": "Start with one hour a month. Scale up if it feels necessary. If you find the unaided work surprisingly hard, that is useful information. It means your baseline has slipped further than you thought and the test is doing its job"
+    },
+    {
+      "line": 159,
+      "text": "#### **A diagnostic exercise to run this week**"
+    },
+    {
+      "line": 161,
+      "text": "Pick a piece of work you would normally ask an AI toolto help with. Before you do, answer three questions:"
+    },
+    {
+      "line": 163,
+      "text": "1. **Am I using AI to save effort or to learn something?** If it is genuinely a save-effort task (expense report, summary of a meeting you attended), proceed without guilt. If it is a learn-something task (writing, reasoning, analysis), apply the ten-minute floor first."
+    },
+    {
+      "line": 164,
+      "text": "2. **Am I generating this argument or watching it generated?** Test: could you write the next paragraph without the AI? If no, you are not scaffolding, you are watching. Stop and rewrite your last prompt as a hints prompt."
+    },
+    {
+      "line": 169,
+      "text": "#### **Why this matters for you**"
+    },
+    {
+      "line": 171,
+      "text": "Almost every reader of this post will use AI this week. The question is not whether to use it. The question is whether you will still be able to do the work without it in six months, in a year, in five years. The study suggests that answer is being decided in ten-minute increments you are not noticing."
+    }
+  ]
+}

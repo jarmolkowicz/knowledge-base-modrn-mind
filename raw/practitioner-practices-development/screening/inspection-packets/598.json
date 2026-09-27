@@ -1,0 +1,26 @@
+{
+  "id": 598,
+  "title": "Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/claire-vo/transcript.md",
+  "sha256": "51712bcb49d1d97c6479f46384147b2dd24292234a3f1fd2024a039df3d85b0f",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 16035,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 855,
+      "text": "People often think that I get hired into later stage "
+    },
+    {
+      "line": 442,
+      "offset": 57066,
+      "text": "And so while I say, \"She may just be a prompt, but she is prompt,\" this was lovingly crafted over several months. And so when the GPT Store came out, for my tea"
+    }
+  ]
+}

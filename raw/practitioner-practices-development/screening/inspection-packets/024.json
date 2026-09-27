@@ -1,0 +1,24 @@
+{
+  "id": 24,
+  "title": "Beware of Productivity Paradoxes",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/beware-of-productivity-paradoxes.md",
+  "sha256": "c7b121e957c5357e99a99eff561f2986a911f4933f90d64c2b6df758941a77e4",
+  "access": "public-page",
+  "kind": "article",
+  "words": 400,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 387,
+      "text": "Few recent technological innovations were better poised to become a productivity slam dunk than the personal computer. S"
+    },
+    {
+      "line": 23,
+      "offset": 1531,
+      "text": "I thought about this article recently as I continue grappling with our current AI moment. It’s natural to assume that this technology, which clearly makes certain common professional activities easier, will make our working lives more productive overall."
+    }
+  ]
+}

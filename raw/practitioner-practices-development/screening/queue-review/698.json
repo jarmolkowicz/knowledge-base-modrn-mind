@@ -1,0 +1,53 @@
+{
+  "queue_position": 296,
+  "id": 698,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/julie-zhuo/transcript.md",
+  "sha256": "7b59ef0021cbfb5a34efe993115becc215e74d8f22186214be7fa6e3313e4926",
+  "title": "From managing people to managing AI: The leadership skills everyone needs now | Julie Zhuo",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 192,
+      "text": "(00:25:55):"
+    },
+    {
+      "line": 193,
+      "text": "And a secondary thing we've been learning too is this idea of, almost like as a... Using ChatGPT it's for to test your learning. So explains a bunch of things. And so what I often like to do is like, \"Okay, I read this, so this...\" I try to explain back what I heard. \"So does this mean... Is that right way to think about it, that this is kind of like this analogy?\" And ChatGPT will critique me. \"Yes, that is right,\" or \"No, you didn't quite get that right. In fact...\" And it always tries to say it nicely. This is a funny part. It'll be like, \"That's close, and then eventually it's like, \"You were completely wrong.\" Just in the style. But it helps so much because it's interactive and so we can really test whether we really understand the concept by trying to retell it back in our own way."
+    },
+    {
+      "line": 198,
+      "text": "Julie Zhuo (00:27:38):"
+    },
+    {
+      "line": 199,
+      "text": "So your first question was how are a bunch of AI companies using data? So the funny thing, my funny answer to this is, I don't actually think a lot of the fast-growing companies are using data well at this point. And the main reason why is because traditionally things just didn't grow that fast. And so if you got to a hundred million users, your company has probably been around for a while, and if your company has been around for a while, you've had time to set up things like logging and you've hired a growth team at that point and you've hired a data team and they've done a bunch of work to log an instrument and then transform the data. And we've talked about what is the observability for our business. And you just usually had years to build and develop that, because of the rate of growth."
+    },
+    {
+      "line": 210,
+      "text": "(00:30:55):"
+    },
+    {
+      "line": 211,
+      "text": "If I worked on any of these LLM, I would say one of probably the biggest questions is, hey, what use cases are growing or what use cases are shrinking? And that's much harder to tell today because it's not just clicks on tabs or pages. It's like we have to probably use an LLM or a machine learning model to bucket user intent. We probably have to ask questions like, is the flow going really well in conversations? Like, if I just ask one question and I don't go back and forth, did the user get value? It's always trying to get back to, we're trying to figure out if this was a good experience, but now it's like we need to actually invent new methodologies to help us analyze that."
+    },
+    {
+      "line": 297,
+      "text": "Julie Zhuo (00:43:58):"
+    },
+    {
+      "line": 298,
+      "text": "How good is Lenny at doing a zero to one type of project in the AI space? Right? So again, just can think about these as infinite dimensions. And the reality is each of our profiles is very unique, it's like a fingerprint. So for you it's like these are all these areas that you're really great at, much better, like in the top 1%. And then there's some areas where in the top 10%, then there's some areas where you're kind of average, and then there's some dimensions in which you're worse than average compared to other people. And that's just true for all of us. And what I like about that is therefore if you take that as the model, you realize that none of these dimensions are you entirely. So I can make a comment like \"Lenny, your ax throwing really could use some improvement.\""
+    },
+    {
+      "line": 591,
+      "text": "(01:17:35):"
+    },
+    {
+      "line": 592,
+      "text": "He's like, \"Well, you can talk to my parrot. It's a talking parrot,\" and then I spoke to the parrot and the parrot spoke back to me. What had happened is that he had hooked up a microphone, he surgically went into the parrot and added a microphone, a speaker, and connected it to voice mode on ChatGPT so that... It spoken I think like a pirate voice."
+    }
+  ]
+}

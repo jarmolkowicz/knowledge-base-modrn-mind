@@ -1,0 +1,51 @@
+{
+  "slug": "illingworth-489-teach-ai-to-use-less-2025",
+  "original_filename": "slow-ai-8-teach-it-to-use-less.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 564,
+  "hash": "1a53409b83439b95651bd75426841713a45365d0213a57241fa7c2f323a1b63c",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:44Z",
+  "decisions": [
+    {
+      "stage": "practice-review",
+      "outcome": "merge",
+      "date": "2026-09-26",
+      "reason": "Merge as a compression variant of creative constraints, keeping it separate from factual summarization.",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/illingworth-489-teach-ai-to-use-less-2025.md",
+      "practices": [
+        "practices/use-a-creative-constraint-and-respond.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 115,
+  "screening_id": 489,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/slow-ai-8-teach-it-to-use-less.md",
+  "bibliographic_metadata": {
+    "title": "Teach AI to Use Less",
+    "date": "2025-08-19",
+    "url": "https://theslowai.substack.com/p/slow-ai-8-teach-it-to-use-less",
+    "collection": "Sam Illingworth"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

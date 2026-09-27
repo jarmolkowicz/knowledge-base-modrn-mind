@@ -1,0 +1,41 @@
+{
+  "queue_position": 213,
+  "id": 577,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/brian-chesky/transcript.md",
+  "sha256": "94204e752b04cc070a113eae62015c75ea2c8f158bb4d9c652f665cbb711d90c",
+  "title": "Brian Chesky’s new playbook",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 9,
+      "text": "  than 1.5 billion guests across..."
+    },
+    {
+      "line": 161,
+      "text": "(00:28:46):"
+    },
+    {
+      "line": 162,
+      "text": "And then I had a head program manager that would score all the projects. Either they're green, yellow, or red. Meaning they're on track or not on track to ship. Whether we thought they were work, we don't know until after we ship it. But I use the reviews of the work every single week. And the reason there's not a lot of bureaucracy and the reason you don't need any influence at Airbnb is I'd review the work and if something wasn't happening, then I would stop the meeting and say, \"Why isn't this happening?\" And we would all get together. And so you couldn't have a situation where a team wouldn't collaborate. It would be like I could then feel the work of an individual engineer."
+    },
+    {
+      "line": 296,
+      "text": "Brian Chesky (01:03:23):"
+    },
+    {
+      "line": 297,
+      "text": "I had no idea he was going to do that. And I just want to say I think Sam is obviously a once in a generation founder. I think what he's done with OpenAI is extraordinary. And when he launched ChatGPT I had known him for a real long period of time, and I knew a sense of the journey he was about to go on. And I think that he was very deep into the technical part and then research part of OpenAI. But it turned out there was a product, a design, a marketing, a leadership, a sales. So there were all these other functional responsibilities. And so being able to just play a small part in giving some advice when necessary ... And he would take what he wanted and discard others. But I think, Lenny, maybe this goes to another thing, which is all I tried to do with Sam was what other people did for me."
+    },
+    {
+      "line": 338,
+      "text": "Brian Chesky (01:12:58):"
+    },
+    {
+      "line": 339,
+      "text": "Thank you, Lenny, and congratulations on everything you're doing."
+    }
+  ]
+}

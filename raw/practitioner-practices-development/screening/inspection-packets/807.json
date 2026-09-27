@@ -1,0 +1,26 @@
+{
+  "id": 807,
+  "title": "Lessons from scaling Ramp | Sri Batchu (Ramp, Instacart, Opendoor)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/sri-batchu/transcript.md",
+  "sha256": "1a659c92f40a444bf797ec952afc0bc68ba811b193b590de9d978c1fbe10d1f1",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 14196,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 806,
+      "text": "I do think there's actually a general path "
+    },
+    {
+      "line": 429,
+      "offset": 55491,
+      "text": "Yeah, I talk a lot about that with my teams both here and other places, which is we celebrate failure. Growth experiments in my hi"
+    }
+  ]
+}

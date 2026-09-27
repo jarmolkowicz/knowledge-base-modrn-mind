@@ -1,0 +1,79 @@
+{
+  "queue_position": 11,
+  "id": 46,
+  "path": "raw/inbox/Practical/Cal Newport/the-dangers-of-vibe-reporting-about-ai.md",
+  "sha256": "6ffa8c48fd66cdcfb6fdb184e293dc6c1932c534df84561fc410c0b42a5dab60",
+  "title": "The Dangers of Vibe Reporting About AI",
+  "coverage": "all available text, excluding linked images/media",
+  "headings": [],
+  "passages": [
+    {
+      "line": 9,
+      "text": "Last week, news broke that Amazon would be laying off 16,000 workers. Here was the headline ​from an article​ about this news published in Quartz:"
+    },
+    {
+      "line": 13,
+      "text": "The implication of this framing is clear: AI is taking jobs."
+    },
+    {
+      "line": 15,
+      "text": "Nothing in the body of this article contradicts this idea. It describes the number of people laid off and the benefits they’ll receive. It quotes executives who won’t deny the possibility of future job losses. It mentions how Amazon is known for its “cutthroat” corporate culture."
+    },
+    {
+      "line": 17,
+      "text": "You walk away feeling that the impact of AI on our economy is already getting out of hand."
+    },
+    {
+      "line": 19,
+      "text": "The only problem is that this reporting omits almost all relevant details."
+    },
+    {
+      "line": 21,
+      "text": "For a more realistic take, let’s turn toward the financial press. CNBC published ​an article​ about these same layoffs featuring a more informative headline:"
+    },
+    {
+      "line": 25,
+      "text": "The article goes on to correctly attribute the layoffs to Amazon’s desire to trim layers of management bureaucracy that built up during the pandemic-era tech hiring boom: “CEO Andy Jassy has looked to slim down Amazon’s workforce after the company went on a hiring spree during the Covid-19 pandemic.”"
+    },
+    {
+      "line": 27,
+      "text": "What role does AI play in all of this? Like many leading companies in the technology sector, Amazon is investing heavily in building its own AI products. Presumably, money is being saved by firing managers, which frees up more revenue to invest in this area. But that’s really it. As the CNBC article elaborates:"
+    },
+    {
+      "line": 29,
+      "text": "> “In a blog post, the company wrote that the layoffs were part of an ongoing effort to ‘strengthen our organization by reducing layers, increasing ownership, and removing bureaucracy.’ That **coincides** with a push to invest heavily in artificial intelligence.” [emphasis mine]"
+    },
+    {
+      "line": 31,
+      "text": "The CNBC article then reports that these massive layoffs actually began for Amazon in 2022 and 2023, following the pandemic, but before ChatGPT was released and the subsequent generative AI revolution began."
+    },
+    {
+      "line": 33,
+      "text": "**Both of these articles cover the same announcement, but they produce two very different impressions.** The Quartz article strongly implies that Amazon is firing people because it can now offload their work to AI. (I mean: look at the Andy Jassey quote they included in the sub-head, they *clearly* wanted readers to believe AI caused these job losses.)"
+    },
+    {
+      "line": 35,
+      "text": "The CNBC article, by contrast, makes it clear that the connection between AI and these layoffs is more coincident than causal."
+    },
+    {
+      "line": 37,
+      "text": "In recent years, I’ve seen more articles follow the general approach demonstrated by the Quartz example. They identify an alarming,attention-catching fear about AI that seems prevalent in the cultural zeitgeist, and then shape a story to feed the narrative. The key to this **vibe reporting** strategy is that the articles never make explicit claims. They instead combine cunning omissions and loosely related quotes to make strong implications."
+    },
+    {
+      "line": 39,
+      "text": "The Quartz article, for example, never concretely states that the 16,000 workers are being replaced with AI; rather, it conveniently avoids mentioning any of the publicly available details about the layoffs that would contradict that idea, and then interleaves quotes about AI’s disruptive potential into the reporting in a highly suggestive manner."
+    },
+    {
+      "line": 41,
+      "text": "The goal of this type of article is to create a pre-ordained vibe, not to get to the bottom of what’s really happening."
+    },
+    {
+      "line": 43,
+      "text": "I’m not pointing out this phenomenon to dismiss concerns about AI, but instead because I think this strategy is an obstacle to real action. This type of disingenuous reporting is not going to help us identify the actual problems that require actual solutions. It instead creates a nihilistic sense of inevitable disruption that might drive social media shares, but also numbs people and prevents meaningful responses."
+    },
+    {
+      "line": 45,
+      "text": "Remember: Nothing about these tools is inevitable, and their impact is far from preordained. We don’t need vibes right now. Reality is too important."
+    }
+  ]
+}

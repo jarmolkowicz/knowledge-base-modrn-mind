@@ -1,0 +1,30 @@
+{
+  "id": 18,
+  "title": "AI and Work (Some Predictions)",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/ai-and-work-some-predictions.md",
+  "sha256": "fed30fce9612e8c72585c0fdb1e7d0fc5795b1748a9041a5a5b09d991d509351",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2679,
+  "headings": [
+    "**Where AI Is Already Making a Splash**",
+    "**The Next Big AI Application**",
+    "**What About Agents?**",
+    "**Are AGI and Superintelligence Imminent?**",
+    "For more of my thoughts on AI, check out my [*New Yorker* archive](https://www.newyorker.com/contributors/cal-newport) and [my podcast](https://www.thedeeplife.com/listen/) (in recent months, I often discuss AI in the third act of the show)."
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 11,
+      "offset": 239,
+      "text": "One of the main topics of this newsletter is the quest to cultivate sustainable and meaningful work in a digital age. Gi"
+    },
+    {
+      "line": 27,
+      "offset": 1741,
+      "text": "It’s becoming increasingly clear, however, that for most people the act of writing in their daily lives isn’t a major problem that needs to be solved, which is capping the predicted ubiquity of this use case. (A survey of internet users found that only around 5.4% had used ChatGPT to help write emails and letters. And this includes the many who maybe experim"
+    }
+  ]
+}

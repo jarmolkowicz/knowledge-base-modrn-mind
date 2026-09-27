@@ -1,0 +1,54 @@
+{
+  "queue_position": 144,
+  "id": 461,
+  "path": "raw/inbox/Practical/Sam Illingworth/how-to-get-better-decisions-from-ai.md",
+  "sha256": "cec132882d2e035ed684dbdba5efc73b71417df5d0ae174931677c3265a164f0",
+  "title": "How to Get Better Decisions from AI",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L34 #### **Step-by-step**",
+    "L55 #### Slow AI #1 – Teach It Something It Cannot Know",
+    "L67 #### **A moment from** [Ruben Hassid](https://open.substack.com/users/339636559-ruben-hassid?utm_source=mentions)",
+    "L91 #### The Slow AI Library",
+    "L103 #### **What to do with it**",
+    "L115 #### **Let’s Collaborate**",
+    "L121 #### Collaborating with Slow AI",
+    "L133 #### **Why this matters**",
+    "L151 #### **From [Do You Really Understand Your AI Tool?](https://theslowai.substack.com/p/do-you-really-understand-your-ai)**",
+    "L165 #### **How I Plan a Week of Notes Without Losing Hours**"
+  ],
+  "passages": [
+    {
+      "line": 20,
+      "text": "This week’s post comes from Ruben Hassid , who writes *How to AI*, a newsletter about how to use AI effectively with words rather than code. Together, we invite you to try a prompt that asks your AI tool to disagree with itself. In doing so, you can see your choices with more precision and start to understand how different assumptions shape the paths you consider."
+    },
+    {
+      "line": 67,
+      "text": "#### **A moment from** Ruben Hassid"
+    },
+    {
+      "line": 69,
+      "text": "When I first tried this prompt, I asked a real question from my own work: “Should I hire more people?” The model did what models always do. It gave me three answers that sounded reasonable, but they were generic enough to apply to almost any business. The trade offs were obvious, and it ignored everything it already knew about my situation."
+    },
+    {
+      "line": 71,
+      "text": "So I changed one line in the prompt and asked it to use its memory. I told it to read our whole chat history and everything it had stored about my context before answering. Only then did the disagreement become useful. The three options were still in conflict, but now each one was anchored in my actual constraints and the way I like to work."
+    },
+    {
+      "line": 151,
+      "text": "#### **From Do You Really Understand Your AI Tool?**"
+    },
+    {
+      "line": 155,
+      "text": "**Paul T Shattuck, MSW, PhD** showed how a small shift in a prompt can surface deeper misunderstandings about how AI works. His adapted question produced a list that clarified why instructions drift and how easily users misread what is happening inside the system. It’s a clear example of how reflective prompting can reshape expectations."
+    },
+    {
+      "line": 165,
+      "text": "#### **How I Plan a Week of Notes Without Losing Hours**"
+    },
+    {
+      "line": 177,
+      "text": "If you try this week’s prompt, Ruben Hassid and I would love to know how you are using it to reach clearer decisions with AI."
+    }
+  ]
+}

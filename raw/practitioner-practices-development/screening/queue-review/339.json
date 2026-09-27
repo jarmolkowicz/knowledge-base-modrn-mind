@@ -1,0 +1,95 @@
+{
+  "queue_position": 84,
+  "id": 339,
+  "path": "raw/inbox/Practical/Ruben Hassid/the-claude-code-bible.md",
+  "sha256": "3fdacacfe805551b87564108773cf5655044b0bdd6d990a87fc8c5f935eb79d0",
+  "title": "Vibecoding.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L57 ## **1. How does** *vibecoding* **look?**",
+    "L61 #### **A mockup to brief my dev team.**",
+    "L77 #### **A tool to fix a boring job.**",
+    "L103 ## **2. How to** *exactly* **set up Claude Code.**",
+    "L201 ## **3. Copy my** *mega* **prompt.**",
+    "L249 ## **4. Be a** *better* **vibecoder.**",
+    "L257 #### **Start from a screenshot.**",
+    "L267 #### **Describe the end result.**",
+    "L277 #### **Go one piece at a time.**",
+    "L285 #### **Run the loop.**",
+    "L297 ## **5. Your website looks like** *every* **AI site.**",
+    "L309 #### **Steal a real brand’s taste with a design.md file.**",
+    "L351 #### **Ask for a real component library.**",
+    "L359 #### **Bring references and get specific.**",
+    "L371 ## **6. When** *not* **to use Claude Code.**",
+    "L401 #### My rule of thumb to not be an idiot.",
+    "L417 ## **7. What it** *really* **costs.**",
+    "L449 ## **8. Best-of Claude Code** *prompts***.**",
+    "L455 #### Build a landing page for [...].",
+    "L461 #### Build a mockup to show my [developer or designer].",
+    "L467 #### Build a tool that does [a boring job] for me.",
+    "L473 #### Build an app where [my people] log in.",
+    "L479 #### Build a dashboard for [...].",
+    "L485 #### Build a tool to replace [the app you overpay for].",
+    "L493 #### Build a tool that reads a pile of [files] for me.",
+    "L501 #### Build a tool that spins up [marketing variations].",
+    "L509 #### Build a tool that sorts [your inbound].",
+    "L517 #### Build the small paid product you keep thinking about.",
+    "L537 ## **9. Give it to a** *real* **coder now.**",
+    "L571 ## **10. How to go** *faster* with Claude**?**",
+    "L599 ## **11. I am** *not* **paid by Claude.**"
+  ],
+  "passages": [
+    {
+      "line": 201,
+      "text": "## **3. Copy my** *mega* **prompt.**"
+    },
+    {
+      "line": 206,
+      "text": "You're my CTO. I'm the CEO, and I don't write code, and I don't want to read it. Bypass permissions is on, so don't stop to ask me to approve technical steps. Just build it."
+    },
+    {
+      "line": 212,
+      "text": "Before you build anything, interview me. Ask me everything you need to get this right, one question at a time, using the AskUserQuestion tool so I can click my answers. Keep the questions about what it does and how it looks. Decide the technical parts yourself. When you have enough, tell me the plan in a few plain sentences, then build it."
+    },
+    {
+      "line": 220,
+      "text": "Build one piece at a time. After each piece, open it yourself, check it works (on a phone too) and looks like the screenshot, and fix what's off before you show me. Then tell me what to look at."
+    },
+    {
+      "line": 227,
+      "text": "Here’s an example after uploading a Calendly screenshot, and asking for a “**book a call with me**\" website:"
+    },
+    {
+      "line": 485,
+      "text": "#### Build a tool to replace [the app you overpay for]."
+    },
+    {
+      "line": 488,
+      "text": "An internal tool that replaces [the $200/month app we use for [team scheduling]]. It only needs to do the [3] things we actually use: [list them]. Just for my team, and make it feel faster than the tool we're dropping."
+    },
+    {
+      "line": 509,
+      "text": "#### Build a tool that sorts [your inbound]."
+    },
+    {
+      "line": 512,
+      "text": "A tool that takes [all my [grant / job / speaker] applications] and scores each one against [my 3 criteria], then sorts them best to worst with a one-line reason for each."
+    },
+    {
+      "line": 537,
+      "text": "## **9. Give it to a** *real* **coder now.**"
+    },
+    {
+      "line": 559,
+      "text": "- What a developer needs before touching it: how logins work, where the data lives, any secrets or gotchas."
+    },
+    {
+      "line": 571,
+      "text": "## **10. How to go** *faster* with Claude**?**"
+    },
+    {
+      "line": 585,
+      "text": "But I’ll tell you what, a little secret between me & you: you should not learn AI by yourself. It’s too much for one person."
+    }
+  ]
+}

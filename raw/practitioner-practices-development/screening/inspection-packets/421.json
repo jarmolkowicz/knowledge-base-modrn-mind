@@ -1,0 +1,33 @@
+{
+  "id": 421,
+  "title": "Your AI Policy Does Not Apply to the Person Who Wrote It",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-disclosure-statement-template.md",
+  "sha256": "ccc9adc95ad861171af293e0db7c8816854465caf60b6d4efe55c5ec8d501a0c",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1670,
+  "headings": [
+    "**What MIT said about AI detectors**",
+    "**The half of the report nobody covered**",
+    "**Two in five UK institutions have nothing to declare**",
+    "**The disclosure statement I use**",
+    "**How to write your own in ten minutes**",
+    "**If you teach, write it with your students**",
+    "**If you do not teach, this is still your problem**",
+    "**What this actually changes**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 451,
+      "text": "The person who asked you to declare your AI use has almost certainly n"
+    },
+    {
+      "line": 83,
+      "offset": 4485,
+      "text": "> **How AI was used in this piece.** I used Claude (Opus 5) to pressure-test the argument and to check quotations against the original reports. It provided edits and suggestions for improvements, but it did not"
+    }
+  ]
+}

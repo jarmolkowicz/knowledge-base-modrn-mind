@@ -1,0 +1,26 @@
+{
+  "id": 536,
+  "title": "Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/adriel-frederick/transcript.md",
+  "sha256": "9eef781a556bfe1c0388a9dfe9d3391bd66446f73215f280e89313862ae13013",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13699,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 825,
+      "text": "There are probably, I call them techno utopians who w"
+    },
+    {
+      "line": 300,
+      "offset": 44105,
+      "text": "I am not yet as worried about these visions of them taking over. Thus far and maybe I haven't fathomed what they can do, they still seem like tools that need ou"
+    }
+  ]
+}

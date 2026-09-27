@@ -1,0 +1,36 @@
+{
+  "id": 513,
+  "title": "The People Deciding AI Can Do Your Job Have Never Done Your Job",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/the-people-deciding-ai-can-do-your.md",
+  "sha256": "9498e048ca0bc9501e2ee733091bb728d53e9e97d8cee1410be39d3aa12c418e",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1432,
+  "headings": [
+    "**In this post I will:**",
+    "**The anticipation economy**",
+    "**The view from the boardroom versus the view from the desk**",
+    "**What a job actually contains**",
+    "**Why this matters for you**",
+    "**The replacement audit: mapping what AI can and cannot do in your role**",
+    "**Step 1: List your visible tasks**",
+    "**Step 2: List your invisible work**",
+    "**Step 3: Test each visible task**",
+    "**Step 4: Name the connective tissue**",
+    "**What to do with this**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 467,
+      "text": "Jack Dorsey cut Block’s workforce from 10,000 to under 6,000 and c"
+    },
+    {
+      "line": 59,
+      "offset": 2816,
+      "text": "Geoffrey Hinton predicted in 2016 that AI would outperform radiologists within five years. A decade later, no radiologist has lost their job to AI. The reason is simple: reading an image is one task w"
+    }
+  ]
+}

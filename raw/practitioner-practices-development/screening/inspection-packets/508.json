@@ -1,0 +1,38 @@
+{
+  "id": 508,
+  "title": "The Smarter AI Gets, the Less You Can Trust It on the Hard Stuff ",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/smarter-ai-less-reliable-hot-mess.md",
+  "sha256": "f315df6b17c0ea7fb77c29b5c8a1525bb904e55bf59ef303aeb81cf1f23089d8",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1818,
+  "headings": [
+    "**In this post I will:**",
+    "**The question they asked**",
+    "**Three findings that matter**",
+    "**What this means in plain language**",
+    "**Why current safeguards fail**",
+    "**Five practices for unreliable systems**",
+    "**1. Run it twice**",
+    "**2. Shorten the chain**",
+    "**3. Match the model to the task difficulty**",
+    "**4. Separate generation from evaluation**",
+    "**5. Name the confidence you cannot verify**",
+    "**A team-level audit you can run this week**",
+    "**Why this matters for you**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 470,
+      "text": "The smarter the model, the more unpredictable its failures on the "
+    },
+    {
+      "line": 101,
+      "offset": 8487,
+      "text": "The paper’s clearest finding is that longer reasoning produces more incoherent errors. If you are using a reasoning model (Claude with extended thinking, GPT with reasoning, Gemini with chain-of-thoug"
+    }
+  ]
+}

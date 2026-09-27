@@ -1,0 +1,29 @@
+{
+  "queue_position": 271,
+  "id": 667,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jag-duggal/transcript.md",
+  "sha256": "8e52e1ae69aec608a1faa44cee77f2b681342dfe49f04ce3f1087bc44b3e984f",
+  "title": "Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L35 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 271,
+      "text": "(00:36:34):"
+    },
+    {
+      "line": 272,
+      "text": "The third one is, I've got a hypothesis, I've got it really crisp and now the pitfall is I've fallen in love with my hypothesis. I'm a lawyer for my hypothesis. I'm not a judge of whether the hypothesis is right or not right. So I think that's another common pitfall. I've fallen into that one too many times to count. And then the last thing I would highlight is even when you have a strong hypothesis and you're actually in the mode of doing the research, observe more than ask questions if you can, ask indirect questions more than direct questions. Would you love this product? Right. Excited product manager has been working for two months on a design. You're searching for the problem more than the solution. You're looking indirectly and asking from multiple directions the same question rather than trying to find a yes, they love the thing you've been thinking about and swaying on for a long time. And if you can, observing is better than asking, although that's a tricky skill. Those are the things that I look for."
+    },
+    {
+      "line": 433,
+      "text": "(01:06:34):"
+    },
+    {
+      "line": 434,
+      "text": "The third is that social mechanics around your financial life, not in general, not another WhatsApp, not another Twitter, and self-driving automation. Why do I have to remember to pay this bill every month? Why do I have to remember to save for my child's university education every month? Why can't I keep my life goals really well-organized? Which is almost impossible to do. My wife and I open up different bank accounts at different banks just to try to do that job, which is, talk about customer workarounds. How do we make the life life cycle of managing your financial life exponentially easier, leveraging these technologies and then using AI, which is an overhyped term right now, but AI to turbo-boost these tasks?"
+    }
+  ]
+}

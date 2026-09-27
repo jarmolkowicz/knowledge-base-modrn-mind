@@ -1,0 +1,26 @@
+{
+  "id": 795,
+  "title": "AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/sander-schulhoff/transcript.md",
+  "sha256": "d087bab893e827a716f15d7f421f8c263d5539f5f1a43dfe79c985efe0e4b2cc",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 17183,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 844,
+      "text": "Is prompt engineering a thing you need to s"
+    },
+    {
+      "line": 138,
+      "offset": 14431,
+      "text": "So my best advice on how to improve your prompting skills is actually just trial and error. You will learn the most from just tryi"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 636,
+  "title": "How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/farhan-thawar/transcript.md",
+  "sha256": "07f174413db550d1cd0c1521db51cf7beda2a92d4172904307b964daa473eeec",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 22377,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 824,
+      "text": "If you do the hard path and it doesn't work, a"
+    },
+    {
+      "line": 238,
+      "offset": 34942,
+      "text": "I would say, that's amazing. I would still contend take that experience and add two humans together. So you've got an AI copilot and humans,"
+    }
+  ]
+}

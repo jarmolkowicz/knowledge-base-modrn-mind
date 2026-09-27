@@ -1,0 +1,32 @@
+{
+  "id": 473,
+  "title": "You Gave Them Your Health Data. Now They Want Your Financial Data Too.",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/palantir-uk-government-data.md",
+  "sha256": "b026e317600ddef15c3207d795dfaf2bd085b1608d7b5d58fa527f7eb8f588d7",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1299,
+  "headings": [
+    "In this post I will:",
+    "The temperature keeps rising",
+    "Why MoD engineers are calling it a national security threat",
+    "The man with a philosophy PhD who says humanities jobs are doomed",
+    "My hands are not clean",
+    "What a boiling frog looks like",
+    "Why this matters whether or not you care about AI"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 474,
+      "text": "It started with a one-pound contract during a pandemic. It is now "
+    },
+    {
+      "line": 93,
+      "offset": 6915,
+      "text": "I should be transparent about one thing. The tool I am using to write this post is Claude, made by Anthropic. Anthropic has a formal partnership with Palantir. Palantir was the first company to bring "
+    }
+  ]
+}

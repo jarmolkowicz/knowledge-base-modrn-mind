@@ -1,0 +1,24 @@
+{
+  "id": 410,
+  "title": "AI and Neurodiversity: Whose Brain Was This Built For?",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-and-neurodiversity-whose-brain.md",
+  "sha256": "390c39bf944297e287273492b68d89379b2ad0fb39b200a5f1fc252719a3093a",
+  "access": "public-page",
+  "kind": "article",
+  "words": 462,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 445,
+      "text": "AI tools are built for one way of thinking. The people they leave out "
+    },
+    {
+      "line": 29,
+      "offset": 2592,
+      "text": "The sharpest moment was about the line between accommodation and dependency. If a neurodivergent person uses AI to do tasks their brain finds difficult, is that support or reliance? The answer depends on agency"
+    }
+  ]
+}

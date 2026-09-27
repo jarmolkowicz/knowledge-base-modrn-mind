@@ -1,0 +1,29 @@
+{
+  "queue_position": 253,
+  "id": 641,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/geoffrey-moore/transcript.md",
+  "sha256": "d78a9109b2733b8b06d4dd4bf97aebcd1f0fb5c81b823cfec4e773def2ee6dd7",
+  "title": "Geoffrey Moore on finding your beachhead, crossing the chasm, and dominating a market",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L35 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 376,
+      "text": "(01:02:09):"
+    },
+    {
+      "line": 377,
+      "text": "Now that's a teacher co-pilot, but that's a really specialized idea. So you go, \"Well, that's amazing.\" And then if you wanted to go to the other side, \"You say all these ad agencies say they do this really cool advertising, but I think I can do it myself with Gen AI and I'm going to sell it to other people.\" I mean, you can imagine a whole businesses that say we write legal opinions and we always start with Gen AI. We don't ship Gen AI, there's a human in the loop. We're going to do amazing or more images, maybe. We're going to design visual images with all the really cool stuff you could do. We're going to invent a new agency or a new kind of agency we're going to charge to...\" I don't know what it would be, but the point is Gen AI I think can be absorbed by the marketplace at multiple places."
+    },
+    {
+      "line": 454,
+      "text": "(01:15:17):"
+    },
+    {
+      "line": 455,
+      "text": "The challenge with software is... Well, there's a lot of challenges with it, but software that people use, the application software, we all have different minds. We all have different contexts. To make a product that would work, that would solve what I want and solve what you want and solve what the listener wants. I mean, the margin, no. We're going to have different expectations. So there's always... And then of course there's competition, and then there's funding, and then there's technological shifts, and just about the time it really works well, they say, \"No, we got to put it... No, no, no. You put it in the data center. We got to put it in the cloud.\" \"Oh, no, no, you got in the cloud, you got to put it in Kubernetes.\" \"Oh, no, no, no. You don't understand. It's edge AI, it's not cloud.\" It just goes on and on and on. So I think if you're going to play this game, you got to be up for... Yeah, there's going to be a new headache every week."
+    }
+  ]
+}

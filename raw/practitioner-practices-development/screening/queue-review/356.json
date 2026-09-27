@@ -1,0 +1,78 @@
+{
+  "queue_position": 91,
+  "id": 356,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/6-insane-projects-to-learn-claude-fable-loop-engineering.md",
+  "sha256": "155a0f647610ac92f3a209258b2824badb5040d08aec879a63f446e8c61b9473",
+  "title": "6 INSANE Projects to Learn Claude Fable and /goal",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L52 ## Simple Prompt Engineering Template",
+    "L97 ## 1. 3D Simulation",
+    "L131 ## 2. Gaming",
+    "L157 ## 3. Visualization",
+    "L194 ## 4. Marketing",
+    "L236 ## 5. A/B Testing",
+    "L291 ## 6. Trip Planning",
+    "L323 ## RECAP",
+    "L347 ## FAQ",
+    "L375 ## P.S. Need More Help? 👋"
+  ],
+  "passages": [
+    {
+      "line": 13,
+      "text": "# 6 INSANE Projects to Learn Claude Fable and /goal"
+    },
+    {
+      "line": 33,
+      "text": "A spider that learns to climb stairs. Flying a dragon. Visualizing human interest at scale. An A/B test optimizing while I sleep."
+    },
+    {
+      "line": 39,
+      "text": "Who this is NOT for: if you haven’t run your first /goal in Claude Code, start with this loop engineering intro."
+    },
+    {
+      "line": 194,
+      "text": "## 4. Marketing"
+    },
+    {
+      "line": 206,
+      "text": "> Instead, the VERIFICATION step sends all posts through the skill `/post-grader` which scores them on a viral rubric. Then, Claude must loop and improve each post until they all score above 8/10."
+    },
+    {
+      "line": 236,
+      "text": "## 5. A/B Testing"
+    },
+    {
+      "line": 260,
+      "text": "> And TRIPLED my conversion rates, which has huge downstream effects, for example, on my daily email newsletter signups :D"
+    },
+    {
+      "line": 262,
+      "text": "The VERIFICATION step doesn’t just ask for a winner. It asks for each test’s numbers, whether the difference is real or just noise (e.g. do we have enough samples, how confident are we), and driving towards a clear copywriting winner."
+    },
+    {
+      "line": 274,
+      "text": "> CONSTRAINTS: Track clicks with tags, log every round, and test curiosity, exclusivity, urgency, and social proof."
+    },
+    {
+      "line": 287,
+      "text": "All running OVERNIGHT 24/7 while you sleep, launching a new A/B test, waiting to review results, and iterating."
+    },
+    {
+      "line": 347,
+      "text": "## FAQ"
+    },
+    {
+      "line": 355,
+      "text": "Claude Fable is Anthropic’s newest Claude model, built for longer agentic runs like the 6 projects above. You don’t strictly need it to try /goal, but it’s the model I’d point these at for the best results on multi-step builds."
+    },
+    {
+      "line": 363,
+      "text": "Add a turn cap in CONSTRAINTS, like “stop after 30 turns.” Type `/goal` by itself to check status, or `/goal clear` to stop it early."
+    },
+    {
+      "line": 367,
+      "text": "Yes. #5 and #6 above prove it. The same 5-part template works whether Claude is writing code or planning a weekend, the TASK and VERIFICATION lines just change."
+    }
+  ]
+}

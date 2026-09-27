@@ -1,0 +1,33 @@
+{
+  "id": 601,
+  "group_index": 18,
+  "decision": "draft_with_limits",
+  "coverage": "Read relevant complete transcript exchanges: L164–210; 00:11:19–00:17:04. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L164–210; 00:11:19–00:17:04"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Reports building models at companies and learning how retention affects the system."
+  ],
+  "proposed_outcomes": [
+    "Develop understanding of drivers and trade-offs."
+  ],
+  "limits": [
+    "Pre-AI field account. Pain is not proof of learning; assumption stacking can produce misleading precision. No independent capability comparison."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/lenny-601-developing-a-growth-model-marketplace-growth-2022/drafts/practices/build-the-model-to-understand-it.md"
+  ],
+  "role": "origin",
+  "review_note": "Build a simple business model yourself with a knowledgeable analyst; expose assumptions and revise against results.",
+  "author": "Dan Hockenmaier",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/build-the-model-to-understand-it.md"
+  ],
+  "historical_drafts_retained": true
+}

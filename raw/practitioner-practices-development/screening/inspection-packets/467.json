@@ -1,0 +1,32 @@
+{
+  "id": 467,
+  "title": "How to Minimise AI Hallucinations in Research and Writing",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/minimise-genai-hallucinations.md",
+  "sha256": "db1d591aebb4c87506326f228e75ae5a5f1c76bef0e4fd04db4b10db78f340b4",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1354,
+  "headings": [
+    "**Step by step**",
+    "**Stop AI from stealing your voice**",
+    "**A moment from** [Grace Shao](https://open.substack.com/users/878147-grace-shao?utm_source=mentions)",
+    "Slow AI Supporters Programme",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**From [Is Your Chatbot a Pipeline to Extremism?](https://theslowai.substack.com/p/ai-companion-radicalisation-risk)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 267,
+      "text": "Most debates about AI hallucination fall into two simple stories. Some"
+    },
+    {
+      "line": 38,
+      "offset": 2173,
+      "text": "`You are a researcher learning learning how to minimise hallucinations when using AI for research or writing on [insert topic]. Explain the difference between gaps caused by missing context and errors caused by"
+    }
+  ]
+}

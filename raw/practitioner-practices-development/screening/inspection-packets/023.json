@@ -1,0 +1,24 @@
+{
+  "id": 23,
+  "title": "Be Wary of Digital Deskilling",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/be-wary-of-digital-deskilling.md",
+  "sha256": "ae802f1df0dd3932d8e8295650c608c6a5da23bf7763bc9c5da0f5e19f993641",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 492,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 9,
+      "offset": 165,
+      "text": "Last week, Boris Cherny, the creator and head of Anthropic’s popular Claude Code programming agent, posted ​a thread on "
+    },
+    {
+      "line": 19,
+      "offset": 2024,
+      "text": "It’s hard not to hear echoes of Braverman’s deskilling argument in something like Cherny’s AI programming demo. A world in which software development is reduced to the ersatz management of energetic but messy digital agents is a world in which a once important economic sector is stripped down to fewer, more poorly paid jobs, as wrangling agents requires much"
+    }
+  ]
+}

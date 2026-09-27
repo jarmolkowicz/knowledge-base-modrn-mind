@@ -1,0 +1,53 @@
+{
+  "queue_position": 339,
+  "id": 758,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/nick-turley/transcript.md",
+  "sha256": "33910180512bda4fcb11b7aa3a2241c078870061d03f3838dbe33f12ae5a3cd2",
+  "title": "Inside ChatGPT: The fastest growing product in history | Nick Turley (OpenAI)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L34 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 300,
+      "text": "Nick Turley (00:29:18):"
+    },
+    {
+      "line": 301,
+      "text": "One thing we've learned, I'll answer that question in a minute, but one thing we've learned with ChatGPT is that there really is no distinction between the model and the product. The model is the product and therefore you need to iterate on it like a product. And by that I mean obviously you typically start by shipping something very open-ended, at least if you're OpenAI [inaudible 00:29:38] that's kind of a playbook. But then you really have to look at what are people trying to do? Okay, they're trying to write, they're trying to code, they're trying to get advice, they're trying to get recommendations and you need to systematically improve on those use cases. And that is pretty similar to product development work. Obviously the methodology is a bit different, but discovery is the same. You got to talk to people, you got to do data science and you got to try stuff and get feedback."
+    },
+    {
+      "line": 315,
+      "text": "(00:32:50):"
+    },
+    {
+      "line": 316,
+      "text": "I remember we didn't have history, which of course was the first user feedback we got. The model had a bunch of shortcomings and it was so cool to be able to iterate on the model. The thing I just talked about, treating the model as a product was not a thing before ChatGPT because we would ship in more hardware where there'd be a release GPT-3 and then we would start working on GPT-4 and these weird giant big spend R&D projects that would take a really long time and the spec was whatever the spec was and then you'd have to wait another year. And ChatGPT really broke that down because we were able to make iterative improvements to it just like software. And really, my dream is that it would be amazing if we could just ship daily or even hourly like in software land because you could just fix stuff, et cetera. But there's of course all kinds of challenges in how you do that while keeping the personality intact while not regressing other capabilities. So, it's an open field to get there."
+    },
+    {
+      "line": 369,
+      "text": "Nick Turley (00:40:42):"
+    },
+    {
+      "line": 370,
+      "text": "It was the top Google result. This was before ChatGPT has real-time information. Otherwise, it could have maybe price itself, but it was Discord plus Google Form plus a blog post on that methodology that got us there."
+    },
+    {
+      "line": 408,
+      "text": "Nick Turley (00:44:30):"
+    },
+    {
+      "line": 409,
+      "text": "That's a good question. And first off, I don't run the developer stuff anymore. We found someone way more competent to do that and he's amazing. So, I still look after the various forms of chat, but luckily you don't have to make that trade-off OpenAI does. And I can get into that too, but it keeps me a little bit more sane. I will say that you kind of have to practice in two different ways when you're building on this AI stuff. One is sort of working backwards from the model capabilities and that is much more art than science, where I think you really need to look at what tech do we have available and what is the most awesome way to productize it? And if you applied to some sort of PM framework to that, I think you would do something horrible wrong. Because if you have tech that's, for example, GPT-5 is really, really good at front-end coding now, I think that means you've got to reprioritize it."
+    },
+    {
+      "line": 633,
+      "text": "(01:13:09):"
+    },
+    {
+      "line": 634,
+      "text": "So it's situational. Again, you kind of have to be first principles about it. But I do think using velocity, especially early on, as a tool... Actually this has been said about consumer social for example. It is not the first space where people have said, \"Hey, you just got to try 10 things because you're probably going to be wrong.\" So I don't think this has never existed before as a dynamic either, but I do think with AI, it's important to internalize."
+    }
+  ]
+}

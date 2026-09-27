@@ -49,6 +49,7 @@ KB_ROOT = _SELF.parents[2]
 ENTRY_DIRS: dict[str, Path] = {
     "concept": KB_ROOT / "concepts",
     "method": KB_ROOT / "methods",
+    "practice": KB_ROOT / "practices",
     "source": KB_ROOT / "sources",
 }
 
@@ -68,6 +69,7 @@ class Entry:
     title: str
     body: str
     wikilinks: set[str] = field(default_factory=set)
+    source_entries: list[str] = field(default_factory=list)
 
     def to_public_dict(self, include_body: bool = False) -> dict:
         d = asdict(self)
@@ -123,6 +125,7 @@ def _parse_file(path: Path, entry_type: str) -> Entry | None:
         title=title,
         body=body,
         wikilinks=wikilinks,
+        source_entries=_coerce_list(fm.get("source_entries")),
     )
 
 

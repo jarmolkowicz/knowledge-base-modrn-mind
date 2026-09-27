@@ -1,0 +1,37 @@
+{
+  "queue_position": 377,
+  "id": 804,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/shreyas-doshi/transcript.md",
+  "sha256": "bdd414f5abb33fa5d5e6090b905737fae41fcb922f55f2265e35ed18b3bea48d",
+  "title": "The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 161,
+      "text": "(00:20:40):"
+    },
+    {
+      "line": 162,
+      "text": "So I still remember that. I still remember him asking a simple question. Frankly at the time I did not have a good answer to that question. So that was a lesson for me to get more rigorous about my own thinking."
+    },
+    {
+      "line": 194,
+      "text": "(00:28:28):"
+    },
+    {
+      "line": 195,
+      "text": "And then what I noticed as I ran pre-mortems is that in future meetings that the team had where I wasn't even present, people started talking about, \"Oh, I have this tiger. Can I bring up this tiger?\" And all of a sudden it became okay for people to bring those things up, which I think is perhaps the best part about a pre-mortem is that shared vocabulary."
+    },
+    {
+      "line": 209,
+      "text": "(00:31:11):"
+    },
+    {
+      "line": 210,
+      "text": "And the one other innovation I added as I did this often was also, after people shared, I ask people to pick the tiger that they find more scary, but that somebody else mentioned, so not their own tiger, but some other tiger that somebody else mentioned that they found more scary. So, that ends up being people basically are voting. And then as the pre-mortem leader, it's my responsibility to take all of that output that the team has generated in this document and then prioritize. Because again, the point is not to solve every problem, the point is to identify threats that we are not talking about openly or that we might just be missing, or we might be assuming that somebody else is going to deal with it only to find nobody was thinking about it. So then I like to create a pre-mortem action plan and then share that with the team and keep myself as the leader accountable for actually making progress on it."
+    }
+  ]
+}

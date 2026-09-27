@@ -1,0 +1,51 @@
+{
+  "slug": "illingworth-474-there-is-no-one-right-way-2026",
+  "original_filename": "parenting-with-ai-no-right-way.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 4690,
+  "hash": "e572591d13941f505d13da28305d28401978e9d768b5e77721ead653a99be704",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:44Z",
+  "decisions": [
+    {
+      "stage": "practice-review",
+      "outcome": "merge",
+      "date": "2026-09-26",
+      "reason": "Merge the encyclopedia variant into inquiry-first. Keep Ouyang’s child-does-the-work example in the source distillation as an adjacent example, without endorsing her agent setup.",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/illingworth-474-there-is-no-one-right-way-2026.md",
+      "practices": [
+        "practices/ask-how-to-find-out-before-asking-ai.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 242,
+  "screening_id": 474,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/parenting-with-ai-no-right-way.md",
+  "bibliographic_metadata": {
+    "title": "There Is No One Right Way to Parent With AI. There Are Some Wrong Ones.",
+    "date": "2026-04-24",
+    "url": "https://theslowai.substack.com/p/parenting-with-ai-no-right-way",
+    "collection": "Sam Illingworth"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

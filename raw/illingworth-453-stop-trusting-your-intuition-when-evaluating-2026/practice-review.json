@@ -1,0 +1,37 @@
+{
+  "id": 453,
+  "group_index": 5,
+  "decision": "retain",
+  "coverage": "Full available extracted article, L1–138. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L28–36: correctness and completeness checks against a supplied reference",
+    "L58–78: compiler-timeline demonstration and model-flag counts"
+  ],
+  "basis": "Proposed checklist plus a displayed model-assisted comparison.",
+  "reported_outcomes": [
+    "The author reports seven correctness issues and eight completeness gaps; the flags were not independently validated here."
+  ],
+  "proposed_outcomes": [
+    "Make unsupported claims and missing relevant material easier to inspect."
+  ],
+  "limits": [
+    "The reference can be wrong or incomplete.",
+    "Completeness depends on task scope; a timeline need not contain every compiler type.",
+    "Model flags and reported time savings are not independent evaluation."
+  ],
+  "related_entries": [
+    "reference-verification",
+    "automation-bias"
+  ],
+  "practice_files": [
+    "raw/illingworth-453-stop-trusting-your-intuition-when-evaluating-2026/drafts/practices/check-correctness-and-completeness.md"
+  ],
+  "role": "origin",
+  "review_note": "Retain two checking questions; human adjudication is an explicit editorial adaptation.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/check-correctness-and-completeness.md"
+  ],
+  "historical_drafts_retained": true
+}

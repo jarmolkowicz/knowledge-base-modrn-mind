@@ -1,0 +1,31 @@
+{
+  "slug": "lenny-735-are-your-fears-giving-you-terrible-2023",
+  "original_filename": "transcript.md",
+  "format": "md",
+  "source_type": "transcript",
+  "word_count": 14862,
+  "hash": "b3ec342c77c0a4dd52d952de73855e72d532f03504af5a1f7690869a95e7a52e",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "critiqued",
+  "ingested_at": "2026-09-26T20:59:47Z",
+  "decisions": [
+    {
+      "stage": "practice-close-reading",
+      "outcome": "defer",
+      "at": "2026-09-26",
+      "scope": "draft-only; integration pending"
+    }
+  ],
+  "lines": 527,
+  "screening_id": 735,
+  "collected_from": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/matt-mochary/transcript.md",
+  "bibliographic_metadata": {
+    "title": "Are your fears giving you terrible advice? | Matt Mochary",
+    "date": "2023-01-17",
+    "url": "https://www.youtube.com/watch?v=qOrwVtZvdaE",
+    "collection": "Lenny's Podcast"
+  },
+  "draft_only": true,
+  "integration_decision": "pending"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 25,
+  "title": "Brandon Sanderson vs. AI Art",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/brandon-sanderson-vs-ai-art.md",
+  "sha256": "86728d73e43e515ec522ffb19cd63574af87aa798ff20bf29121977dfacfcf48",
+  "access": "public-page",
+  "kind": "article",
+  "words": 967,
+  "headings": [
+    "Correction:"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 374,
+      "text": "Late last year, the fantasy novelist Brandon Sanderson gave a talk at Dragonsteel Nexus, an annual conference organized "
+    },
+    {
+      "line": 17,
+      "offset": 615,
+      "text": "As Sanderson explains, early in his address: “The surge of large language models and generative AI raises questions that are fascinating, and even if I dislike how the movement is going in relation to writing and art, I want to learn from the experience of what’s happening.”"
+    }
+  ]
+}

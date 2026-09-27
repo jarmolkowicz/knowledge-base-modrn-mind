@@ -1,0 +1,26 @@
+{
+  "id": 797,
+  "title": "The hierarchy of engagement | Sarah Tavel (Benchmark, Greylock, Pinterest)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/sarah-tavel/transcript.md",
+  "sha256": "228461ba1d0778cda23682e696bf3ffa647fddd25bc4beb28960f5795d69c7c9",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 18718,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 804,
+      "text": "I think a lot of people think about markets"
+    },
+    {
+      "line": 864,
+      "offset": 100008,
+      "text": "It's kind of fun to ask the question whether LLMs change the game or open up new surface area. So in my post, I write about three "
+    }
+  ]
+}

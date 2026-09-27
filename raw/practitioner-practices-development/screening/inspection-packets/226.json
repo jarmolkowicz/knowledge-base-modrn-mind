@@ -1,0 +1,24 @@
+{
+  "id": 226,
+  "title": "Why I'll get to AI eventually is the most expensive career decision",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/the-two-career-collapses-happening.md",
+  "sha256": "fbd84eb567d4aa4cdb22b489dd1d45f23bccba65397faa28bb0ddcfca9c3ec00",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 272,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 285,
+      "text": "Not collapsing as in destroying. Collapsing as in compressing—across two dimensions si"
+    },
+    {
+      "line": 12,
+      "offset": 386,
+      "text": "The first collapse is horizontal. Engineer, product manager, marketer, analyst, designer, ops lead—these used to be distinct career paths with distinct skill sets. They’re converging—fast—into a single meta-competency: orchestrating AI agents to get work done."
+    }
+  ]
+}

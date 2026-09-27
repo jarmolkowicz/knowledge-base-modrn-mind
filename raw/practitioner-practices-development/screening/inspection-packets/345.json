@@ -1,0 +1,34 @@
+{
+  "id": 345,
+  "title": "You forgot 70% of yesterday's meeting.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/you-forgot-70-of-yesterdays-meeting.md",
+  "sha256": "bfd30f7c6fd6c59643e37ef6bc1447d59f41a32a631e577f14292d5576cab768",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1480,
+  "headings": [
+    "**It gets worse in groups.**",
+    "**There is no other notetaker.**",
+    "Why Granola is just cooler.",
+    "**Prompt 1: TLDR so-short-you-have-to-read it.**",
+    "**Quick How-To for Granola Recipe.**",
+    "**Prompt 2: Action items, nothing more.**",
+    "**Prompt 3: From Pain Point → to Linkedin post.**",
+    "**The “*****I never forget meeting*****” worklow.**",
+    "archive of my past articles: https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 251,
+      "text": "You know what’s decided. You know who owns what. You know the next steps."
+    },
+    {
+      "line": 98,
+      "offset": 4489,
+      "text": "Link for direct access → https://recipes.granola.ai/r/540bee25-5a9b-426a-9543-bdcb03589760. But if you want to recreate it, here’s the exact prompt I use:"
+    }
+  ]
+}

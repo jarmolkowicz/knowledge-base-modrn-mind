@@ -1,0 +1,61 @@
+{
+  "queue_position": 128,
+  "id": 432,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-mirroring-linguistic-agency.md",
+  "sha256": "72bf41570885c944f122b756a93c049e161c13793f160c43a1770ba38aa88fcf",
+  "title": "Your AI is shaping your voice more than you think",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L30 #### **Step-by-step**",
+    "L46 #### **A moment from [The Strategic Linguist](https://open.substack.com/users/357242821-the-strategic-linguist?utm_source=mentions)**",
+    "L58 #### **What to do with it**",
+    "L70 #### **Why this matters**",
+    "L86 #### **From [The Illusion of the Artificial Mind](https://theslowai.substack.com/p/attribution-of-mind-ai)**"
+  ],
+  "passages": [
+    {
+      "line": 30,
+      "text": "#### **Step-by-step**"
+    },
+    {
+      "line": 34,
+      "text": "`You are a reflective guide helping me understand how I interact with AI. Ask me a short sequence of simple questions that help me notice where the AI is reflecting my own language and habits, where I am shaping the tool, and where the tool is shaping me. Keep the tone calm and observational.`"
+    },
+    {
+      "line": 46,
+      "text": "#### **A moment from The Strategic Linguist**"
+    },
+    {
+      "line": 54,
+      "text": "Being ‘of the world and not in it’ - a concept from religious and philosophical traditions - speaks to maintaining critical distance amid overstimulation. In our AI use, this means cultivating meta-awareness: seeing the pond, not just admiring our reflections. It means knowing yourself well enough - your voice, your reasoning, your values - that you can recognise when an LLM’s response is truly serving your thinking versus when you’re simply admiring a flattering mirror image."
+    },
+    {
+      "line": 70,
+      "text": "#### **Why this matters**"
+    },
+    {
+      "line": 76,
+      "text": "*Slow AI* invites writers, builders, and leaders to treat language as a strategic force in daily practice."
+    },
+    {
+      "line": 86,
+      "text": "#### **From The Illusion of the Artificial Mind**"
+    },
+    {
+      "line": 100,
+      "text": "If you try this week’s prompt, The Strategic Linguist and I would love to hear what you noticed about your own language in the exchange."
+    },
+    {
+      "line": 108,
+      "text": "A paid subscription to *Slow AI* provides access to the *The Slow AI Curriculum for Critical Literacy*. This twelve-month programme is for individuals who want to understand how to engage critically with AI rather than just use it to generate outputs."
+    },
+    {
+      "line": 110,
+      "text": "The 2026 Handbook for Critical AI Literacy provides the necessary detail for those who wish to make an informed decision before subscribing."
+    },
+    {
+      "line": 112,
+      "text": "If you join now, you join the founding cohort. That group will shape the tone and direction of the curriculum going forward."
+    }
+  ]
+}

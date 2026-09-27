@@ -1,0 +1,37 @@
+{
+  "queue_position": 277,
+  "id": 675,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jason-shah/transcript.md",
+  "sha256": "251545360b2556eaf607415c9c57e0fa7f14d52b4cc8d85410f3a264e3c4894b",
+  "title": "Building a meaningful career | Jason Shah (Airbnb, Amazon, Microsoft, Alchemy)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 158,
+      "text": "Jason Shah (00:19:24):"
+    },
+    {
+      "line": 159,
+      "text": "It's very similar actually to how I feel at Alchemy now where I remember my first month there I was like, people ask me how's it going, I'm like, \"I feel like an athlete. I feel alive again.\" I can do M&A one day, I can be doing product another minute. I could be figuring out, oh, we need to hire our first lawyer to write onboarding plans for employees the next minute, and it wasn't as siloed as sometimes a product role can be. So, I think Amazon, I went there to learn and understand. That was my biggest goal was this is an incredible company that's gone into... The Whole Foods acquisition happened when I was there, and I was wondering how does the same company kind of within retail win with the AWS, go create studios, and I think the Amazon culture ultimately more than anything else around ownership, being vocally self-critical is right a lot as one of the leadership principles. All these things combined I think created a really unique culture."
+    },
+    {
+      "line": 212,
+      "text": "Jason Shah (00:28:07):"
+    },
+    {
+      "line": 213,
+      "text": "For sure. So the structure of the PRFAQ docs was generally an introduction where you're announced the product, problem, solution, customer quote, leadership quote, and a call to action."
+    },
+    {
+      "line": 230,
+      "text": "Jason Shah (00:30:51):"
+    },
+    {
+      "line": 231,
+      "text": "And then the other two things would be, I think they're in the details. So, it's less about being above something, but this is kind of Amazon's famous for auditing the details for example, and leaders are... For example, when we were going to launch Prime, order a bunch of Prime things and see what happens and really test things out, and write up a long feedback email on Saturday or something like that, and make sure that things are moving forward."
+    }
+  ]
+}

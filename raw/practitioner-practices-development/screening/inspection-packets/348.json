@@ -1,0 +1,39 @@
+{
+  "id": 348,
+  "title": "Mirror.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/youre-using-ai-backwards.md",
+  "sha256": "27dbfc336702159f2c7ddf5a0dc18864f094b7fc5a2037d5c5a27691ded93c9f",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2206,
+  "headings": [
+    "**#1. AI is average** *(the 70th percentile)*.",
+    "**#2. The confidence trap.**",
+    "**#3. What expertise** *(actually)* **is.**",
+    "**1. You feel wrongness before you can name it.**",
+    "**2. You have scars.**",
+    "**3. You know where the danger is.**",
+    "**4. You know what your audience won’t say.**",
+    "**#4. How to be the expert** *(and use AI)***.**",
+    "**Step 1: Upload what you love.**",
+    "**Step 2: Extract the patterns.**",
+    "**Step 3: Add your scars.**",
+    "**Step 4: Add your audience.**",
+    "**Step 5: Export.**",
+    "**#5. The steering wheel.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 176,
+      "text": "*“I don’t know how to write sales copy. I’ll ask AI.”*"
+    },
+    {
+      "line": 34,
+      "offset": 893,
+      "text": "When you ask AI a question, it doesn’t think. It calculates: *What word would most likely come next, based on all the text that’s ever been written about this topic?*"
+    }
+  ]
+}

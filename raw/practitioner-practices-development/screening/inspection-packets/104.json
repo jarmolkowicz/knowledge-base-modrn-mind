@@ -1,0 +1,30 @@
+{
+  "id": 104,
+  "title": "Using AI Right Now: A Quick Guide",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/using-ai-right-now-a-quick-guide.md",
+  "sha256": "353ac889a9e660fc83ac8bfdf057247cee75e50a4b06b3c36d91fb4fad3d2718",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2625,
+  "headings": [
+    "Picking a Model",
+    "Using Deep Research",
+    "An Easy Approach to AI: Voice Mode",
+    "Making Things for You: Images, Video, Code, and Documents",
+    "Troubleshooting"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 218,
+      "text": "Every few months I put together a guide on which AI system to use. Since I last wrote my guide, howe"
+    },
+    {
+      "line": 81,
+      "offset": 13829,
+      "text": "- **Be really clear about what you want.** Don’t say “Write me a marketing email,” instead go with “I'm launching a B2B SaaS product for small law firms. Write a cold outreach email that addresses their specific pain points around document management. Here's the details of the product: [paste]” Or a"
+    }
+  ]
+}

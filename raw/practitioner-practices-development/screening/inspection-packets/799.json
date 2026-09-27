@@ -1,0 +1,26 @@
+{
+  "id": 799,
+  "title": "Inside Devin: The AI engineer that's set to write 50% of its company’s code this year | Scott Wu",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/scott-wu/transcript.md",
+  "sha256": "6d4cdd44a59eeba50abebcf00697f2c695347ad825ac24c0b9d2c1e1cfe626cc",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 19485,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 861,
+      "text": "Our whole team is only like 15 engineers a "
+    },
+    {
+      "line": 154,
+      "offset": 15074,
+      "text": "And so we had one person who was running teams at Neuro, we had one person who was at Waymo, someone who had their own YC tools st"
+    }
+  ]
+}

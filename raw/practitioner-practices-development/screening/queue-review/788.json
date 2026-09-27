@@ -1,0 +1,25 @@
+{
+  "queue_position": 363,
+  "id": 788,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ryan-hoover/transcript.md",
+  "sha256": "5fe8b8af81145be4fc31aa2ca88c83028921b884c57a3216ef28512a123843cd",
+  "title": "A better way to plan, build, and ship products | Ryan Singer (creator of “Shape Up\")",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 37,
+      "text": "## Transcript"
+    },
+    {
+      "line": 114,
+      "text": "And maybe it's not a decade that you actually work on it. It probably won’t, it either, it'll probably fail before then as most startups do, but I think it's a good litmus test for yourself to be like, “Do I actually care about this enough? Am I, am I really stoked to work on this for many, many years?” But then, you know, the other thing is, I think a lot of people also think “I need to start a company. I need to start a startup.” "
+    },
+    {
+      "line": 240,
+      "text": "It's like a very different like browsing kind of experience. So, that's just one example. Consumer behavior shifts is one thing to observe. The other is technology shifts. So, what- what new thing can you build today that couldn't be built yesterday? And so, there's- there's a bunch of categories around there, like Web3, AI, you know. The biggest shift that we've seen is- is mobile in like early 2010s, um, 'ish, that unlocked a whole- whole bunch of things. So, so, yeah, I think it's observing those shifts and those changes. Last thing I'll say on that is like I think startups, since there are more and more people building companies and technology, there's essentially more efficiency. It's certainly not a- an efficient, super efficient market, but there is more efficiency in problem discovery and- and- and solution exploration. And so, for that reason, you need even more reasons for things to- sort of answers to the, \"Why now?\""
+    }
+  ]
+}

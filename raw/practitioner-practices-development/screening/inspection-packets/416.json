@@ -1,0 +1,34 @@
+{
+  "id": 416,
+  "title": "What AI Takes When You Aren't Looking",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-cognitive-costs-pattern-intuition.md",
+  "sha256": "48465b6fd0685d8d8d24788360cfea47516931005aeba575b80ecc115c225ea6",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1275,
+  "headings": [
+    "**Step by step**",
+    "Teach AI Something It Cannot Know",
+    "**A moment from** [Ilia Karelin](https://open.substack.com/users/172048615-ilia-karelin?utm_source=mentions)",
+    "**Stop AI from stealing your voice**",
+    "**What to do with it**",
+    "**Let’s Collaborate**",
+    "Collaborating with Slow AI",
+    "**Why this matters**",
+    "**From [How to Minimise AI Hallucinations in Research and Writing](https://theslowai.substack.com/p/minimise-genai-hallucinations)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 234,
+      "text": "Few people examine the cognitive trades made when using AI. Every time"
+    },
+    {
+      "line": 20,
+      "offset": 1033,
+      "text": "This week’s *Slow AI* prompt comes from Ilia Karelin, who writes*Prosper*, a publication for professionals trying to build thinking systems rather than prompt collections. This post aims to show how AI provides"
+    }
+  ]
+}

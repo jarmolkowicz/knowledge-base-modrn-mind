@@ -1,0 +1,24 @@
+{
+  "id": 115,
+  "title": "The economist who formalized the AI doom scenario",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/a-fictional-recession-just-crashed.md",
+  "sha256": "3a37e650f6aed68a6fb9caea0d5f5d233d9cb3868c9ea60b92db52f22b79b1b8",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 452,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 249,
+      "text": "A fictional memo from 2028 just wiped over $200 billion in real market cap. IBM had it"
+    },
+    {
+      "line": 14,
+      "offset": 1080,
+      "text": "The companion prompt kit operationalizes everything in this post. Use it to audit where you personally sit on the capability-dissipation curve, stress-test the AI narratives crashing your sector, build a Lütke-style eval framework for your domain, and generate"
+    }
+  ]
+}

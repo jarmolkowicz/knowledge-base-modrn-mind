@@ -1,0 +1,33 @@
+{
+  "id": 677,
+  "group_index": 18,
+  "decision": "merge_as_support_with_limits",
+  "coverage": "Read relevant complete transcript exchanges: L790–803; 02:30:29–02:33:22. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L790–803; 02:30:29–02:33:22"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Reports rewriting after feedback that the draft did not sound like him."
+  ],
+  "proposed_outcomes": [
+    "Learn through constructing an accountable explanation."
+  ],
+  "limits": [
+    "One retrospective story with an unusually demanding role; no evidence this pressure or timetable fits everyone. Supports writing-to-learn, not required imitation of Stripe onboarding."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/lenny-568-unpacking-amazon-s-unique-ways-of-2023/drafts/practices/write-a-proposal-to-test-the-idea.md"
+  ],
+  "role": "support",
+  "review_note": "Writing his first business review forced a newcomer to investigate the domain and express his own perspective.",
+  "author": "Jeff Weinstein",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/write-a-proposal-to-test-the-idea.md"
+  ],
+  "historical_drafts_retained": true
+}

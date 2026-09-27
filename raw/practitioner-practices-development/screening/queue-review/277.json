@@ -1,0 +1,94 @@
+{
+  "queue_position": 57,
+  "id": 277,
+  "path": "raw/inbox/Practical/Ruben Hassid/claude-for-teams.md",
+  "sha256": "4c990479600f07566cb39921e3a55711a98f462e7ed12cfdf823dcf633f2c489",
+  "title": "Claude for teams.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 #### Table of contents",
+    "L49 ## **How to set up Claude’s team plan**",
+    "L74 ## **Monday: How to set up ‘Projects’.**",
+    "L92 #### Step 1 → Let Claude figure out which Projects you need.",
+    "L236 ## **Tuesday: How to create ‘Prompt Templates’.**",
+    "L270 ## **Wednesday: Test your Project for a ‘wow’.**",
+    "L304 ## **Thursday: Don’t train 10 people. Convert 1.**",
+    "L358 ## **Friday: How to quickly roll it out for the team.**",
+    "L433 ## What happens next.",
+    "L465 ## **A message from the author, Ruben.**"
+  ],
+  "passages": [
+    {
+      "line": 92,
+      "text": "#### Step 1 → Let Claude figure out which Projects you need."
+    },
+    {
+      "line": 160,
+      "text": "→ Any relevant background doc (the client list for client updates, the pricing sheet for proposals, etc.)"
+    },
+    {
+      "line": 228,
+      "text": "Here’s again my fake legal firm. And the result of the test is… impressive to say the least. It’s 8 pages by the way."
+    },
+    {
+      "line": 236,
+      "text": "## **Tuesday: How to create ‘Prompt Templates’.**"
+    },
+    {
+      "line": 247,
+      "text": "Based on the instructions in this Project, write me the shortest possible prompt template my teammates can copy-paste to produce this deliverable."
+    },
+    {
+      "line": 270,
+      "text": "## **Wednesday: Test your Project for a ‘wow’.**"
+    },
+    {
+      "line": 272,
+      "text": "**The goal**: use the system on one real task. Create a before/after comparison that becomes your adoption ‘wow’ moment."
+    },
+    {
+      "line": 280,
+      "text": "Something you did manually this week. Something that took 30+ minutes. Something with a visible “before” — the version you actually made yourself."
+    },
+    {
+      "line": 304,
+      "text": "## **Thursday: Don’t train 10 people. Convert 1.**"
+    },
+    {
+      "line": 340,
+      "text": "Claude produces something good. Using their work. In the company’s voice. On the first try. They didn’t learn a single thing. They didn’t take a course. The context layer you built Monday through Wednesday did the work."
+    },
+    {
+      "line": 346,
+      "text": "→ Add them to the shared Project. → Show them where the templates live. → Ask them: “*What other tasks should we template?*”"
+    },
+    {
+      "line": 358,
+      "text": "## **Friday: How to quickly roll it out for the team.**"
+    },
+    {
+      "line": 360,
+      "text": "**The goal**: roll out to the full team, with a workspace that’s already configured so their first interaction feels like magic."
+    },
+    {
+      "line": 362,
+      "text": "The first interaction someone has with an AI tool determines whether they use it again. You just spent 4 days making sure that first interaction isn’t “stare at a blank chat and wonder what to type.”"
+    },
+    {
+      "line": 364,
+      "text": "It’s: “open a Project where Claude already knows you, your work, and your standards,” and then “copy and paste this prompt so it always works”."
+    },
+    {
+      "line": 408,
+      "text": "Then — and this matters — separately DM 2-3 people: “Hey, try the [specific template] on your [specific task] today. Takes 2 min.” Your Thursday co-champion does the same, not just you pushing. That changes a lot."
+    },
+    {
+      "line": 417,
+      "text": "Here’s the feedback and questions I’ve gotten so far: [PASTE any Slack messages, questions, or reactions from the team]"
+    },
+    {
+      "line": 424,
+      "text": "Write a short follow-up Slack message for Monday that addresses the top concern and shares one quick win from the team."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 106,
+  "title": "What it feels like to work with Mythos",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/what-it-feels-like-to-work-with-mythos.md",
+  "sha256": "b852b4f362e18b72d44acd81320685ce19c690760d1e2458849d7df19d7663d6",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1885,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 419,
+      "text": "I had early access to the first Mythos-class AI model being released to the public, Claude 5 Fable. "
+    },
+    {
+      "line": 31,
+      "offset": 3901,
+      "text": "No previous model did an even halfway useful job with trying to create a map like this because it involves researching thousands of potential trip distances and a lot of small judgement calls and decisions. I decided to try it on Fable using Claude Code with this prompt: *i want you to build a fully"
+    }
+  ]
+}

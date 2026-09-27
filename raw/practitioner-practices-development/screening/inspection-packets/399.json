@@ -1,0 +1,33 @@
+{
+  "id": 399,
+  "title": "The 6 Claude Prompts to Get You Ahead of 99% of People using AI",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/the-6-claude-prompts-to-get-you-ahead.md",
+  "sha256": "7e1bcab7da1b314837465c0c04c863fcaf250ad9b3bb62c3c037a692639834d4",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1610,
+  "headings": [
+    "1. “ELI10”",
+    "2. “Ask me 5 clarifying questions”",
+    "3. “Here’s an example of what great looks like”",
+    "4. “Update your memory and create a skill”",
+    "5. “Find my blind spots and weak assumptions”",
+    "6. “Don’t stop until \\_\\_\\_\\_”",
+    "My Honest Pick",
+    "Not Sure Where To Start? 👇"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 17,
+      "offset": 1190,
+      "text": "The responsibility ladder: 6 one-sentence prompts, from ELI10 to Don’t"
+    },
+    {
+      "line": 49,
+      "offset": 2445,
+      "text": "Here’s my challenge for you: for the next 2 weeks, EVERY SINGLE QUESTION you have, ask AI FIRST before you act on the impulse to ask a person or complain or feel flustered."
+    }
+  ]
+}

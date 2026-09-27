@@ -1,0 +1,26 @@
+{
+  "id": 736,
+  "title": "The one question that saves product careers | Matt LeMay",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/matt-mullenweg/transcript.md",
+  "sha256": "f988e3732302d310de2b6e8e02ca2d23a49abdec3d6289d27f96bbf45651ead7",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 18117,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 778,
+      "text": "If you're really open and open source, some"
+    },
+    {
+      "line": 240,
+      "offset": 28029,
+      "text": "Actually, Meta has been a huge open source contributor. React. They've had incredible improvements to the PHP engine, which we ben"
+    }
+  ]
+}

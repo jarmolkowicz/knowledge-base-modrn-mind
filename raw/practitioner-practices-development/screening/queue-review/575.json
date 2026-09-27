@@ -1,0 +1,41 @@
+{
+  "queue_position": 211,
+  "id": 575,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/bret-taylor/transcript.md",
+  "sha256": "b0d21a4938ed94de1ed45f22c2b3154d93861033b54782dfc2ac8a5c72491e1d",
+  "title": "He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L35 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 33,
+      "text": "# Inside the expert network training every frontier AI model | Garrett Lord"
+    },
+    {
+      "line": 298,
+      "text": "(00:47:46):"
+    },
+    {
+      "line": 299,
+      "text": "I don't know if you're a visual learner or reading learner. I like to read. I didn't love going to lectures. I don't learn that well from them. I like to read the book and if you have a teacher who doesn't teach in your style, you can now go home and ask ChatGPT to teach you in another mechanism. My kids use ChatGPT to quiz them before a test. You can use audio mode or chat mode. It's better than cue cards. My daughter took home a Shakespeare book, she took a picture of a page she didn't understand and ChatGPT explained it to her way better than I would've as well. I think every child in this world has a personalized tutor that can teach them in the way that they best learn, visually, over audio, reading. We have a platform that can test you, that can quiz you. I think it's really an amplifier of agency."
+    },
+    {
+      "line": 337,
+      "text": "Bret Taylor (00:53:51):"
+    },
+    {
+      "line": 338,
+      "text": "Yeah. Oh, yeah. He's different. And he has the capacity to raise billions in capital and my guess is most of your other listeners don't, and then he is the greatest of all time for reason and he's different. You don't compare yourself to him. The other part of the market is the tooling, and I think there's a lot of folks selling pickaxes in the Gold Rush. This is data labeling, services. This is data platforms, it's eval tools. More specialized models like 11 Labs has a great set of voice models that a lot of companies use that are really high quality and it's like if you're trying to be successful in AI, what are the different tools and services that you need?"
+    },
+    {
+      "line": 493,
+      "text": "Bret Taylor (01:23:17):"
+    },
+    {
+      "line": 494,
+      "text": "I don't know. The internet. Who knows?"
+    }
+  ]
+}

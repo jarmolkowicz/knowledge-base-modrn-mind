@@ -1,0 +1,37 @@
+{
+  "id": 259,
+  "title": "Custom ChatGPT.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/51.md",
+  "sha256": "8ace237d379074dcf3094c859a5dca2c93e674e8c8d9e879d6a0e22b9c3d152d",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1121,
+  "headings": [
+    "**Table of contents**",
+    "**1. GPT-5.1. So what’s new?**",
+    "**You are new? Access my archive of guides:**",
+    "**2. My first 24-hour vibe check.**",
+    "**3. The 7 different personalities.**",
+    "**4. It’s all about custom instructions.**",
+    "The base",
+    "The style",
+    "The stance",
+    "The working style",
+    "Here’s the full custom instructions to copy & paste:",
+    "**5. Best of prompts of ChatGPT-5.1**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 139,
+      "text": "The new ChatGPT-5.1 is out. Is it *(really)* better?"
+    },
+    {
+      "line": 60,
+      "offset": 2086,
+      "text": "✦ How to train ChatGPT to write like **you** with custom instructions."
+    }
+  ]
+}

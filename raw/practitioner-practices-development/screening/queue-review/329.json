@@ -1,0 +1,30 @@
+{
+  "queue_position": 80,
+  "id": 329,
+  "path": "raw/inbox/Practical/Ruben Hassid/settings.md",
+  "sha256": "77cecbc4807e56ce367c73f46a95e18910f34270a15711166a8638d642b3b7fc",
+  "title": "How to (actually) set up your ChatGPT.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L30 ## Test your own ChatGPT",
+    "L48 ## Build your digital twin inside ChatGPT"
+  ],
+  "passages": [
+    {
+      "line": 48,
+      "text": "## Build your digital twin inside ChatGPT"
+    },
+    {
+      "line": 62,
+      "text": "But today, I’m giving you access to it + all of my future guides over the next 12 months for $200. That’s $**3.84 per week**, per course."
+    },
+    {
+      "line": 66,
+      "text": "1. Receive my **weekly video deep dive** for us to master AI, together. *How to ChatGPT. How to Veo-3. How to build an AI consulting business.*"
+    },
+    {
+      "line": 67,
+      "text": "2. Discuss with me on a **paid-only chat** for us. *What do you want me to create? What do you want me to research & teach you how to accomplish?*"
+    }
+  ]
+}

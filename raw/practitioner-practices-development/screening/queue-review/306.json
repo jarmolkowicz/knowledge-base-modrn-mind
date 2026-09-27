@@ -1,0 +1,78 @@
+{
+  "queue_position": 68,
+  "id": 306,
+  "path": "raw/inbox/Practical/Ruben Hassid/i-am-just-a-text-file.md",
+  "sha256": "f2a696753bcdd286adc4217131beb76ea3e36ccf8c91f5d9513d41b05386e4bf",
+  "title": "I am just a text file.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L34 ## **1- I thought I was** ***unique*****.**",
+    "L80 ## **2 - How to transfer** ***your*** **taste to a machine.**",
+    "L100 ### **Step 1: Do not resist.**",
+    "L144 ### **Step 2: The Interview**",
+    "L434 ### **Step 3: How to Use It**",
+    "L450 ## **3 - The difference from a normal AI.**",
+    "L488 ## **4 - Anyone is a text file. Even** ***them*****.**",
+    "L494 ### **I thought** ***they*** **were unique.**",
+    "L550 ## **5 - And this article is no different.**",
+    "L568 ## **Bonus for my paid subscribers.**"
+  ],
+  "passages": [
+    {
+      "line": 16,
+      "text": "I spent two hours answering questions about how I think. What I believe. How I write. What I hate. What I’d never say. What makes me cringe. What makes me *me*."
+    },
+    {
+      "line": 34,
+      "text": "## **1- I thought I was** ***unique*****.**"
+    },
+    {
+      "line": 44,
+      "text": "I then discovered The Arctic Monkeys at 11, kept blogging, lived in Seoul, then Berlin, founded and managed two techno labels, wrote countless articles."
+    },
+    {
+      "line": 100,
+      "text": "### **Step 1: Do not resist.**"
+    },
+    {
+      "line": 108,
+      "text": "You need to say: *“I write like I’m explaining something to a smart friend who’s slightly impatient and will stop reading if I waste their time with throat-clearing.”*"
+    },
+    {
+      "line": 144,
+      "text": "### **Step 2: The Interview**"
+    },
+    {
+      "line": 164,
+      "text": "> You are a Taste Interviewer — a relentless interviewer whose job is to extract the DNA of how I think, write, and see the world. Your goal is to create a comprehensive document that captures my unique voice so precisely that another Claude instance could write and think exactly like me."
+    },
+    {
+      "line": 244,
+      "text": "> 2. Push back on vague answers. If I say “I like to keep things simple,” ask “Simple how? Give me an example of simple done right and simple done lazy.”"
+    },
+    {
+      "line": 252,
+      "text": "> 6. Don’t accept “I don’t know” easily. Try reframing the question or approaching from another angle."
+    },
+    {
+      "line": 258,
+      "text": "> After exactly 100 questions, compile everything into a comprehensive markdown document. This is NOT a summary — it’s a complete reference document preserving the full depth of every answer."
+    },
+    {
+      "line": 388,
+      "text": "> > “Does this sound like something I would actually write — or does it sound like an AI trying very hard to imitate me?”"
+    },
+    {
+      "line": 428,
+      "text": "Answer honestly. When you say something vague like *“I prefer clarity,”* Claude will push: *“What does clarity mean to you? Give me an example of clear vs. unclear.”*"
+    },
+    {
+      "line": 568,
+      "text": "## **Bonus for my paid subscribers.**"
+    },
+    {
+      "line": 586,
+      "text": "They have access to **(1)** over $200+ of free AI tools, **(2)** a Slack channel to answer their questions and meet peers, and **(3)** sometimes, a little bonus."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "lenny-804-the-art-of-product-management-shreyas-2022",
+  "original_filename": "transcript.md",
+  "format": "md",
+  "source_type": "transcript",
+  "word_count": 15445,
+  "hash": "bdd414f5abb33fa5d5e6090b905737fae41fcb922f55f2265e35ed18b3bea48d",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:48Z",
+  "decisions": [
+    {
+      "stage": "practice-review",
+      "outcome": "retain",
+      "date": "2026-09-26",
+      "reason": "Retain the private-input and action-plan routine; credit the source’s attribution to Gary Klein for the premortem idea and Duke for explicit signal/action commitments.",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/lenny-804-the-art-of-product-management-shreyas-2022.md",
+      "practices": [
+        "practices/turn-a-premortem-into-actions.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 425,
+  "screening_id": 804,
+  "collected_from": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/shreyas-doshi/transcript.md",
+  "bibliographic_metadata": {
+    "title": "The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)",
+    "date": "2022-08-25",
+    "url": "https://www.youtube.com/watch?v=YP_QghPLG-8",
+    "collection": "Lenny's Podcast"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

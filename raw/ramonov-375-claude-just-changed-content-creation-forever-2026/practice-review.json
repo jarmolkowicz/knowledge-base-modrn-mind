@@ -1,0 +1,38 @@
+{
+  "id": 375,
+  "group_index": 7,
+  "decision": "retain",
+  "coverage": "Full available extracted article, L1–202. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L76: preview before rendering",
+    "L84–104: wrong repository detail and evidence capture",
+    "L136–178: rough edits and human final review"
+  ],
+  "basis": "Personal content-production demonstration involving author’s product.",
+  "reported_outcomes": [
+    "Author describes correcting an inaccurate detail and inspecting imperfect edits."
+  ],
+  "proposed_outcomes": [
+    "Catch claim and presentation errors before release."
+  ],
+  "limits": [
+    "Agent-captured screenshots also need human checking.",
+    "Author promotes her own product.",
+    "Local rendering does not establish all data remains local."
+  ],
+  "related_entries": [
+    "reference-verification",
+    "agency"
+  ],
+  "practice_files": [
+    "raw/ramonov-375-claude-just-changed-content-creation-forever-2026/drafts/practices/preview-and-approve-before-publishing.md"
+  ],
+  "role": "origin",
+  "review_note": "Retain preview/approval, not product or security claims.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/preview-and-approve-before-publishing.md"
+  ],
+  "historical_drafts_retained": true
+}

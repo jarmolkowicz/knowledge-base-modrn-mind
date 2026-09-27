@@ -1,0 +1,73 @@
+{
+  "queue_position": 132,
+  "id": 440,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-rehiring-workers-replaced.md",
+  "sha256": "2db0fe6162d2fd22414a211828b6c23efcdef59d09937f2f092f6c501ba763c1",
+  "title": "The Work AI Handed Back",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L21 #### **In this post I will:**",
+    "L29 #### **What Ford found when the machine did the inspecting**",
+    "L43 #### **What IBM found in the other 6%**",
+    "L59 #### **The third case**",
+    "L73 #### **What the three reversals have in common**",
+    "L89 #### **The 6% in seven professions**",
+    "L103 #### **The three-question test**",
+    "L117 #### **What to do when your manager cannot see it**",
+    "L127 #### **Why this matters**"
+  ],
+  "passages": [
+    {
+      "line": 59,
+      "text": "#### **The third case**"
+    },
+    {
+      "line": 61,
+      "text": "Commonwealth Bank of Australia cut 45 customer service roles in 2025, saying an AI voice bot had reduced call volumes by two thousand a week. In reality, the bank was offering staff overtime and putting team leaders on the phones. It reversed the redundancies and admitted its own assessment had been flawed."
+    },
+    {
+      "line": 73,
+      "text": "#### **What the three reversals have in common**"
+    },
+    {
+      "line": 87,
+      "text": "Below the line: what the 6% consists of in seven named professions, the three-question test for finding your own, what to do when a manager cannot see it, and why the people most exposed are not the ones everybody is worrying about."
+    },
+    {
+      "line": 89,
+      "text": "#### **The 6% in seven professions**"
+    },
+    {
+      "line": 96,
+      "text": "- **Engineering.** The 94% is spec compliance and test coverage. The 6% is Poon’s gap: noticing the thing that meets every requirement and is still wrong."
+    },
+    {
+      "line": 103,
+      "text": "#### **The three-question test**"
+    },
+    {
+      "line": 108,
+      "text": "2. **When this goes wrong, who finds out, and when?** Fast, visible failure makes automation tractable, because the feedback loop has something to learn from. Slow, invisible failure gives it nothing. The recall arrives eighteen months later, long after anyone could have traced it back."
+    },
+    {
+      "line": 117,
+      "text": "#### **What to do when your manager cannot see it**"
+    },
+    {
+      "line": 119,
+      "text": "Track the absences. Keep a private, dated log of the times your intervention prevented something: the error caught before it shipped, the escalation avoided, the client told the honest thing. One line each. The record has to exist before anyone asks for it."
+    },
+    {
+      "line": 121,
+      "text": "Then convert it into their units. Ford did not win this argument with a philosophy of craft. It won with warranty costs. Your log becomes a business case at the point where you can say what the near-misses would have cost."
+    },
+    {
+      "line": 127,
+      "text": "#### **Why this matters**"
+    },
+    {
+      "line": 141,
+      "text": "*If you know somebody whose most valuable work does not appear on any dashboard, they will recognise themselves in this. Send it to them.*"
+    }
+  ]
+}

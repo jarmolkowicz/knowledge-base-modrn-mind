@@ -1,0 +1,26 @@
+{
+  "id": 570,
+  "title": "How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of \"Job Moves”)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/bob-moesta/transcript.md",
+  "sha256": "0195cdc7e6655b8910d6e26aa080a0afe857a889654c4204a768755b3884aefd",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 14400,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 855,
+      "text": "I think one of the biggest misconceptions around Jobs"
+    },
+    {
+      "line": 106,
+      "offset": 11326,
+      "text": "And so that's what we mean when we're customer-centric is that we're studying the struggling moments they have and people like Intercom and Basecamp, they look "
+    }
+  ]
+}

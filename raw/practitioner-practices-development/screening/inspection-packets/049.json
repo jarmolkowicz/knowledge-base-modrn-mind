@@ -1,0 +1,26 @@
+{
+  "id": 49,
+  "title": "The Original Attention Crisis",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/the-original-attention-crisis.md",
+  "sha256": "0db44d75dda2520484b125f47b8ad1a6317fad987ae01bbfc7a18d3bb30b3065",
+  "access": "public-page",
+  "kind": "article",
+  "words": 722,
+  "headings": [
+    "**AI Reality Check**:"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 378,
+      "text": "I recently heard from a historian of science at All Souls College, Oxford. He forwarded me ​an essay​ he wrote about Nic"
+    },
+    {
+      "line": 51,
+      "offset": 5664,
+      "text": "(If you’re looking for additional soothing of your AI anxiety, then you should also check ​the first episode​ of my new *AI Reality Check* podcast series, which I published last Thursday. I have a new episode of the series coming out this upcoming Thursday as well.)"
+    }
+  ]
+}

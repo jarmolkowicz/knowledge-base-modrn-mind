@@ -1,0 +1,31 @@
+{
+  "id": 493,
+  "title": "Slow Takes Ep. 10: The Bill for the AI Promise Came Due",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-takes-ep-10-the-bill-for-the.md",
+  "sha256": "d435d52bda001d42c39cbfaf40f762b4c66d9fe299ba9685b6912989f04564a5",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2694,
+  "headings": [
+    "1. Palisade Research: AI self-replication is no longer hypothetical",
+    "2. The AI agent that wiped a startup in nine seconds",
+    "3. Apple paid $250 million to settle the Siri AI lawsuit",
+    "4. Coinbase fired 14% citing AI",
+    "5. OpenAI insiders testify the safety teams were disbanded",
+    "The thread"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 447,
+      "text": "Palisade Research published a paper showing frontier and open-weig"
+    },
+    {
+      "line": 47,
+      "offset": 6789,
+      "text": "Vibe coding is where this gets worse, not better. Dario Amodei’s claim that 100% of code will be AI-generated ‘within a year’ is the marketing version. The operational version is that a lot of people "
+    }
+  ]
+}

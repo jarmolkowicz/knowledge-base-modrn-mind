@@ -1,0 +1,24 @@
+{
+  "id": 7,
+  "title": "The 12 New Books to Spice Up Your Fall",
+  "collection": "Adam Grant",
+  "path": "raw/inbox/Practical/Adam Grant/the-12-new-books-to-spice-up-your.md",
+  "sha256": "af143f64e909d52cb97a7a59c24361e18697ca97f990441cf5eb1f2c76f05461",
+  "access": "public-page",
+  "kind": "article",
+  "words": 358,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 411,
+      "text": "I can’t remember the last time I was this excited about so many fall book releases. If Dolly Parton ran an imagination l"
+    },
+    {
+      "line": 65,
+      "offset": 3247,
+      "text": "A timely guide to using AI without losing human judgment in the process."
+    }
+  ]
+}

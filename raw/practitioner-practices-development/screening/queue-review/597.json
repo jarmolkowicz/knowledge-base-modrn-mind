@@ -1,0 +1,45 @@
+{
+  "queue_position": 224,
+  "id": 597,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/claire-hughes-johnson/transcript.md",
+  "sha256": "6a0951f9bc9eed98f69588147e8ad735892b5a3df1d40d9237b845e51071544f",
+  "title": "Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L34 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 124,
+      "text": "(00:24:56):"
+    },
+    {
+      "line": 125,
+      "text": "The first thing you're probably putting in place is a little bit of hiring process, and I think that's going to matter sooner than you think. Don't just be tempted to hire people in your friends. Think about what you need, what capabilities you need to build even pre PMF, right? And so as I said, there's a chapter about that, but I think some of the simplest versions of it is how do we evaluate talent? What kind of talent are we looking for? Where do we go look for talent, figure that out, and sort of train people a bit internally on interviewing. I think interviewing is not a skill that comes naturally. People think it does. It does not. And there's really basic easy tips and tricks you can find even on the interwebs about interviewing. And I really recommend... And my book has examples of rubrics, questions you can use. How do you really get at... Because it's hard to really evaluate someone in 30 minutes or 45 minutes."
+    },
+    {
+      "line": 276,
+      "text": "Claire Hughes Johnson (01:04:12):"
+    },
+    {
+      "line": 277,
+      "text": "Yes. We called it the spin the wheel, the spin wheel on who gets to present. But that has a logic in it, which is then you're not working. So just prepare it."
+    },
+    {
+      "line": 386,
+      "text": "Claire Hughes Johnson (01:20:09):"
+    },
+    {
+      "line": 387,
+      "text": "But thank you, Lenny. I appreciate it."
+    },
+    {
+      "line": 390,
+      "text": "Claire Hughes Johnson (01:20:20):"
+    },
+    {
+      "line": 391,
+      "text": "Well, definitely pre-ordering the book and giving me feedback on that. I guess Twitter is probably the best place to find me. I'm @chughesjohnson on Twitter. But honestly, I do hope you'll consume the book in some form and interact with it because the goal is to make it useful. We talked about this, Lenny, your podcast for my book is just trying to be of use, and I hope it is a positive force for positive momentum. And I really appreciate the opportunity."
+    }
+  ]
+}

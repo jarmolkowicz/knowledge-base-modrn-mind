@@ -1,0 +1,45 @@
+{
+  "queue_position": 187,
+  "id": 539,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/alex-hardimen/transcript.md",
+  "sha256": "39d6c5b93991765100e524bef5f125f7bbca219b5ade61076b39eda22e0ad165",
+  "title": "An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 78,
+      "text": "Alex Hardiman (00:06:01):"
+    },
+    {
+      "line": 79,
+      "text": "For me, one of my first, the dream for me was to try to find a way to build things in the new space. That's how I first ended up at The New York Times. I've had two stints at The New York Times. My first stint was for a decade, from 2000 to 2016, and it was during a really interesting time of pretty big transformation. There's so much to talk about within that decade, but I would say there are two really big things that happened in that moment. The first was really trying to work with the company to shift from being a print first product into a mobile first product. If you go back to 2006 and you think about it, the Times had no mobile presence whatsoever."
+    },
+    {
+      "line": 216,
+      "text": "Lenny (00:22:06):"
+    },
+    {
+      "line": 217,
+      "text": "Awesome. I actually wanted to chat about goals and how you think about success as a product team. I imagine the north star metric is what you just said, which is subscribers. If that's true, what other goals do you have across teams? Maybe even further, I'm packing a lot of questions into one question, but I'm curious just how your product team looks. How many PMs do you have? Roughly, how do you structure the teams? Then, roughly, what kind of goals do they all have to try and imagine the product team at New York Times?"
+    },
+    {
+      "line": 444,
+      "text": "Alex Hardiman (00:52:25):"
+    },
+    {
+      "line": 445,
+      "text": "Then, you decide that you want to take a small break to play Spelling Bee, and then you want to plan a Korean dinner party with Eric Kim, who I don't know if you know has some of the best Korean recipes. He's amazing. Then, you're like, \"Wow, I need a rice cooker to be able to make that recipe, so I need to go get the best recommendation from Wirecutter.\""
+    },
+    {
+      "line": 600,
+      "text": "Lenny (01:01:10):"
+    },
+    {
+      "line": 601,
+      "text": "Awesome. I will try to get her on this podcast."
+    }
+  ]
+}

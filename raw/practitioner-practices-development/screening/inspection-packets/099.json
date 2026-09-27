@@ -1,0 +1,24 @@
+{
+  "id": 99,
+  "title": "The Shape of AI: Jaggedness, Bottlenecks and Salients",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/the-shape-of-ai-jaggedness-bottlenecks.md",
+  "sha256": "b2c2c27c839a7095979636bc7875d94f6c412e9c9e4dde8c65b11ab767839c12",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1912,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 264,
+      "text": "Back in the ancient AI days of 2023, my co-authors and I invented a term to describe the weird abili"
+    },
+    {
+      "line": 16,
+      "offset": 2563,
+      "text": "While the future is always uncertain, I think this conception misses out on a few critical aspects about the nature of work and technology. First, the frontier is very jagged indeed, and it might be that, because of this jaggedness, we get supersmart AIs which never quite fully overlap with human ta"
+    }
+  ]
+}

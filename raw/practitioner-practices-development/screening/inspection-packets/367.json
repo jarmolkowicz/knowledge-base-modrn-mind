@@ -1,0 +1,30 @@
+{
+  "id": 367,
+  "title": "Blotato Launches Analytics, Messaging, and DM Automations!",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/blotato-launches-analytics-messaging-dm-automations.md",
+  "sha256": "49c8316d8c49e9bf6fc93ac1aec81391b7cec071c8cd4713efc30d0551b1ad81",
+  "access": "public-page",
+  "kind": "article",
+  "words": 570,
+  "headings": [
+    "Comments & Messaging Inbox",
+    "Manychat-style DM Automations",
+    "ChatGPT Setup",
+    "Claude Setup",
+    "Not Sure Where To Start? 👇"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 467,
+      "text": "I’m excited to announce these new features - all available in the Blot"
+    },
+    {
+      "line": 25,
+      "offset": 1221,
+      "text": "> Build the best affordable tool for business owners who want to **automate social media inside ChatGPT, Claude, or Hermes**"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 714,
+  "author": "Kunal Shah, interviewed by Lenny Rachitsky",
+  "group_index": 12,
+  "decision": "merge",
+  "locators": [
+    "00:59:49–01:02:17; L1742–1812"
+  ],
+  "basis": "Proposed family inquiry exercise",
+  "reported_outcomes": [
+    "No child outcomes reported for the Whyfi school exercise."
+  ],
+  "proposed_outcomes": [
+    "Encourage investigating a why question and returning with an answer."
+  ],
+  "limits": [
+    "Claim that second-order thinking develops automatically is unsupported in this account.",
+    "Historical origins may have multiple causes or uncertain evidence.",
+    "No AI component is described by the speaker."
+  ],
+  "review_note": "Merge as a non-AI inquiry variant, clearly a proposal rather than family-use evidence.",
+  "coverage": "Close-read complete relevant transcript exchanges at listed timestamps and surrounding context; not full 2409-line transcript; audio/video not reviewed.",
+  "related_entries": [
+    "agency",
+    "bastani-guardrails-math-rct-2025"
+  ],
+  "practice_files": [
+    "raw/lenny-750-anthropic-s-cpo-on-what-comes-2025/drafts/practices/ask-how-to-find-out-before-asking-ai.md"
+  ],
+  "role": "support",
+  "draft_only": true,
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/ask-how-to-find-out-before-asking-ai.md"
+  ],
+  "historical_drafts_retained": true
+}

@@ -1,0 +1,31 @@
+{
+  "id": 437,
+  "title": "Is your AI overwriting your memory?",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-overwriting-your-memory.md",
+  "sha256": "bc0528fd699ebf2690802662f02e973ac11f2037be63bb56f3b48a6d1b2c24a6",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1277,
+  "headings": [
+    "How to test your AI’s memory against your own",
+    "**A moment from** [JHong](https://open.substack.com/users/68897416-jhong?utm_source=mentions)",
+    "**When AI confidence overrides your own recall**",
+    "**What to share**",
+    "**Why AI confidence is not the same as accuracy**",
+    "**From [Stop AI From Agreeing With Everything You Say](https://theslowai.substack.com/p/stop-ai-agreeing-debate-prompt)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 220,
+      "text": "You should trust your own blank spots more than the confident document"
+    },
+    {
+      "line": 48,
+      "offset": 3450,
+      "text": "When I asked Claude about it using the prompt above, it told me I’d uploaded “Dream\\_Journal\\_Analysis.docx” early in our work together containing this dream. It referenced this document multiple times as evide"
+    }
+  ]
+}

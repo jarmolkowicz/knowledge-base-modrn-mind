@@ -1,0 +1,31 @@
+{
+  "id": 350,
+  "title": "10 Year Old Vibe Codes 2 Apps",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/10-year-old-vibe-codes-2-apps.md",
+  "sha256": "3829af8d40ff38c3068b78eacc0600e8242bdc095d7eae4deb94244334a76274",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1146,
+  "headings": [
+    "What is Vibe Coding?",
+    "How Do You Vibe Code?",
+    "App 1 - Daily Diary",
+    "App 2 - Learn Japanese",
+    "Old Way vs New Way",
+    "**P.S. Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 199,
+      "text": "Most people think if they want to build an app, they need a 4-year com"
+    },
+    {
+      "line": 98,
+      "offset": 4110,
+      "text": "Emergent AI will ask follow-up questions to clarify your intent."
+    }
+  ]
+}

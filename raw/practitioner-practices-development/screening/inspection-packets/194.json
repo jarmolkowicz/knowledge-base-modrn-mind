@@ -1,0 +1,24 @@
+{
+  "id": 194,
+  "title": "My Kids Do Long Division by Hand",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/my-kids-do-long-division-by-hand.md",
+  "sha256": "500005b612287c1ab1da8ad145a516b97b8bf429960ea616688d8095af132335",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 463,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 213,
+      "text": "Someone used Claude Code to build an entire medical school curriculum in two weeks. Fo"
+    },
+    {
+      "line": 16,
+      "offset": 1639,
+      "text": "I have three kids. I work in AI every day. I’ve spent weeks writing about autonomous agents that negotiate car purchases, dark factories where code writes itself, and enterprise adoption curves that look like hockey sticks drawn by a shaking hand. And every ev"
+    }
+  ]
+}

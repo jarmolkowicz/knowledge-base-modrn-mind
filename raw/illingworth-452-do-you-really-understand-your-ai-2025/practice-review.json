@@ -1,0 +1,26 @@
+{
+  "id": 452,
+  "group_index": 16,
+  "decision": "retain_counterexample_only",
+  "coverage": "Read the complete available local article body; linked images, videos and external claims not independently inspected.",
+  "locators": [
+    "L14, L36–44, L58–106"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Worked generated explanation and the guest’s interpretation."
+  ],
+  "proposed_outcomes": [
+    "Improve AI literacy."
+  ],
+  "limits": [
+    "Self-description is not implementation documentation. Statements about retrieval and memory vary by tool configuration. Guest authorship must not be credited to the publication host."
+  ],
+  "related_entries": [],
+  "practice_files": [],
+  "role": "counterexample",
+  "review_note": "Uses an AI self-description to explain what users misunderstand about AI.",
+  "author": "Stephen D. Carver, guest contributor hosted by Sam Illingworth",
+  "integration_decision": "pending",
+  "draft_only": true
+}

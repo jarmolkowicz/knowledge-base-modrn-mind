@@ -1,0 +1,29 @@
+{
+  "queue_position": 331,
+  "id": 749,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/mihika-kapoor/transcript.md",
+  "sha256": "1c1f9aec8665256534f30ad44a29b5cb1d67fcb7666c5f054b0eaa576db14095",
+  "title": "Vision, conviction, and hype: How to build 0 to 1 inside a company | Mihika Kapoor (Product, Figma)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L35 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 205,
+      "text": "Mihika Kapoor (00:30:57):"
+    },
+    {
+      "line": 206,
+      "text": "And the way that I try and create this culture of constant direct communication, constant feedback is if you have feedback to give someone else, I think you can start by asking, \"Hey, do you have feedback from me?\" And kind of taking the feedback first so then that person feels like, \"Okay, maybe I have my way of seeing this situation. Let me communicate that and get off my chest.\" And then when you give your feedback, it's sort of even. And then feedback in my opinion is something that you should always act on. So then to the extent that you can as soon as possible put that into effect and be like, \"Okay, I'm hearing this. I'm going to do XYZ in order to combat that.\" I think then that incentivizes the other person to do the same."
+    },
+    {
+      "line": 595,
+      "text": "Mihika Kapoor (01:38:33):"
+    },
+    {
+      "line": 596,
+      "text": "Yeah, you can find me on Twitter. I'm @mihikapoor. It's kind of my first name and last name smushed together. And in terms of how users can be useful to me, so one is come to Config, we will be announcing both this new product, but also so many cool things that the company is working on. A lot of very exciting AI launches and more. And I think that having the community come together is a very special moment. So hope to see you there. Cough, cough, try the new product when it comes out. And I don't know, I'm always on the lookout for cool new products. I like to be someone who tries things out early, so to the extent that you see things, send them my way."
+    }
+  ]
+}

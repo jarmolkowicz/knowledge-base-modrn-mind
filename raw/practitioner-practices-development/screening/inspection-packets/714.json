@@ -1,0 +1,26 @@
+{
+  "id": 714,
+  "title": "Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/kunal-shah/transcript.md",
+  "sha256": "f859940296292f5bca2c081b3ec5fda6b7b43242ace70730e28526007ef325f9",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15994,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 33,
+      "offset": 1032,
+      "text": "Microsoft, Adobe, Alphabet, IBM, Palo Alto Net"
+    },
+    {
+      "line": 1824,
+      "offset": 75479,
+      "text": "I feel like with these questions, I think the rule has to be you can't just ask ChatGPT for the answer if the block it-"
+    }
+  ]
+}

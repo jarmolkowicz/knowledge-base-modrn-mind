@@ -1,0 +1,32 @@
+{
+  "id": 333,
+  "title": "Rude.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/sorry.md",
+  "sha256": "4075aeaac9c6fd78f0517e34e7082cc6ccb2d71862285b4cd76a33b6390f9d0b",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1953,
+  "headings": [
+    "**Be rude, not polite.**",
+    "**The 26 Prompt Principles.**",
+    "Instruction",
+    "Example",
+    "Question",
+    "**Stop it with zero-shot prompts.**",
+    "**3 examples of my own ChatGPT (with links).**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 122,
+      "text": "No one told you how to talk to an AI before using ChatGPT."
+    },
+    {
+      "line": 276,
+      "offset": 6884,
+      "text": "Summarize this article about AI ethics. Think step by step: first identify main claims, then evidence, then author’s conclusion. Return the summary only after reasoning through each part."
+    }
+  ]
+}

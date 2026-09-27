@@ -1,0 +1,51 @@
+{
+  "slug": "lenny-578-lessons-from-scaling-uber-and-opendoor-2024",
+  "original_filename": "transcript.md",
+  "format": "md",
+  "source_type": "transcript",
+  "word_count": 14530,
+  "hash": "0f7c8534c992609c2d351d5e49776e0aa4b6c299eb25c3ef4d201fad509ff82e",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:45Z",
+  "decisions": [
+    {
+      "stage": "practice-review",
+      "outcome": "merge",
+      "date": "2026-09-26",
+      "reason": "Merge into evidence-strength review; the post-release feedback loop is a useful addition.",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/lenny-578-lessons-from-scaling-uber-and-opendoor-2024.md",
+      "practices": [
+        "practices/match-confidence-to-evidence.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 630,
+  "screening_id": 578,
+  "collected_from": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/brian-tolkin/transcript.md",
+  "bibliographic_metadata": {
+    "title": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)",
+    "date": "2024-08-04",
+    "url": "https://www.youtube.com/watch?v=sRukk520Fds",
+    "collection": "Lenny's Podcast"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

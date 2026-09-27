@@ -1,0 +1,26 @@
+{
+  "id": 572,
+  "title": "Making Meta | Andrew ‘Boz’ Bosworth (CTO)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/boz/transcript.md",
+  "sha256": "15cdc6c9cb6277e103bd5abc20cb3c7aa8ba7fecbdf2ac1aaf39f4ba24f5a7cf",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 21669,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 731,
+      "text": "You were basically the 10th engineer at Facebook. I i"
+    },
+    {
+      "line": 375,
+      "offset": 39854,
+      "text": "Okay, so you talked about the News Feed, which was one of your very earliest projects at Facebook. Here's a couple fun facts I know about the News Feed. One is "
+    }
+  ]
+}

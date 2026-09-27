@@ -1,0 +1,29 @@
+{
+  "queue_position": 350,
+  "id": 772,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/paul-adams/transcript.md",
+  "sha256": "2d66106eee6a5243ac4710c28b0433fc8959386fe81a157e3d5441d91c739a7a",
+  "title": "What AI means for your product strategy | Paul Adams (CPO of Intercom)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 188,
+      "text": "Paul Adams (00:21:25):"
+    },
+    {
+      "line": 189,
+      "text": "You can get sidetracked by the technology, for sure. And I do. I just mentioned, hey, going out for dinner and taking a photo of my food. You can get sidetracked by the tech and some of it's really cool. I wouldn't start there. I'd start with the thing your product does. What's the core premise behind it? Why do people use it? What problem does it solve for them? That kind of thing. And then, ask the question. So go back to basics. \"Okay, what is my product for? And why do people love it?' And then ask, \"Can AI do that?\" And for a lot the answer's going to be, \"Yes, it can.\" For some, it might be, \"It can partially do it.\" And then, maybe for others, \"It can't do that, at least not yet.\""
+    },
+    {
+      "line": 227,
+      "text": "Paul Adams (00:29:02):"
+    },
+    {
+      "line": 228,
+      "text": "I go back to that before after thing. So, the first version of ChatGPT was a before, after, where we we've been working, like I said, in this space, we've had a machine learning team for a long time. The way our machine learning thing worked before ChatGPT was that there was not a manual setup. A customer support manager would have to orchestrate the bot, and teach it what to say, and just a lot of orchestration, a lot of teaching it. And then, ChatGPT showed up and it's like, \"Oh, it can do it by itself.\" It gets it wrong sometimes. So, do people get the question wrong too? It's as good as a person nearly for a lot of these basic things. So that blew my mind. And then, that was, \"Oh, it can answer questions.\" But then, you're like, it can reason."
+    }
+  ]
+}

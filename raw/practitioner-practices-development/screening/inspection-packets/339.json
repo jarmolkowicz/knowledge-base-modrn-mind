@@ -1,0 +1,39 @@
+{
+  "id": 339,
+  "title": "Vibecoding.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/the-claude-code-bible.md",
+  "sha256": "3fdacacfe805551b87564108773cf5655044b0bdd6d990a87fc8c5f935eb79d0",
+  "access": "public-page",
+  "kind": "article",
+  "words": 3665,
+  "headings": [
+    "**1. How does** *vibecoding* **look?**",
+    "**A mockup to brief my dev team.**",
+    "**A tool to fix a boring job.**",
+    "**2. How to** *exactly* **set up Claude Code.**",
+    "**3. Copy my** *mega* **prompt.**",
+    "**4. Be a** *better* **vibecoder.**",
+    "**Start from a screenshot.**",
+    "**Describe the end result.**",
+    "**Go one piece at a time.**",
+    "**Run the loop.**",
+    "**5. Your website looks like** *every* **AI site.**",
+    "**Steal a real brand’s taste with a design.md file.**",
+    "**Ask for a real component library.**",
+    "**Bring references and get specific.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 343,
+      "text": "No, I won’t sell you a get-rich-quick Claude Code guide."
+    },
+    {
+      "line": 585,
+      "offset": 35076,
+      "text": "But I’ll tell you what, a little secret between me & you: you should not learn AI by yourself. It’s too much for one person."
+    }
+  ]
+}

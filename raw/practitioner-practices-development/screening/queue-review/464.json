@@ -1,0 +1,52 @@
+{
+  "queue_position": 146,
+  "id": 464,
+  "path": "raw/inbox/Practical/Sam Illingworth/is-ai-bad-for-the-environment.md",
+  "sha256": "16ba4ce40cfd0e4ac58afd8d7705839d8dcdcd743e627fe9d2964b5f57340591",
+  "title": "The Actual Environmental Cost of AI",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L17 #### **In this post I will:**",
+    "L25 #### **Where I am coming from**",
+    "L35 #### **What the thread taught me**",
+    "L51 #### **Training is the headline. Inference is the bill.**",
+    "L67 #### **The geography argument**",
+    "L77 #### **The emissions number nobody wants to talk about**",
+    "L95 #### **The missing lifecycle assessment**",
+    "L103 #### **The recursive absurdity**",
+    "L113 #### **The caveat that matters**",
+    "L123 #### **Wicked problems need wicked problem-solvers**",
+    "L133 #### **Five things you can actually do this week**",
+    "L143 #### **What are your solutions?**"
+  ],
+  "passages": [
+    {
+      "line": 77,
+      "text": "#### **The emissions number nobody wants to talk about**"
+    },
+    {
+      "line": 81,
+      "text": "Carbon footprints come in three layers. Scope 1 covers what a company directly emits, like the diesel a generator burns on site. Scope 2 covers the electricity it buys to run its operations. Scope 3 covers everything else: the supply chain, the construction of the buildings, the embodied carbon locked into the hardware before it is plugged in. Embodied carbon is the emissions released to make a thing in the first place, regardless of how it is used afterwards. That third layer is where AI buildouts hide."
+    },
+    {
+      "line": 89,
+      "text": "The UK provides the cleanest example (pun intended) of how this reporting works. The government’s original projection put AI datacentre emissions at 0.05% of Britain’s total carbon. After a Foxglove and Carbon Brief investigation last month, the revised projection is 34 to 123 million tonnes of CO2 by 2035. The new estimate is hundreds of times higher than the original."
+    },
+    {
+      "line": 133,
+      "text": "#### **Five things you can actually do this week**"
+    },
+    {
+      "line": 135,
+      "text": "1. **Refuse unnecessary prompts.** Every prompt has a cost. Before you generate, ask whether the output is going to be read, used, or remembered. If the answer is no, do not generate it."
+    },
+    {
+      "line": 137,
+      "text": "3. **Ask your employer what they procure.** If your university, NHS trust, council, or company is buying AI at scale, ask what the environmental audit shows. Make the question a standard part of the procurement conversation."
+    },
+    {
+      "line": 138,
+      "text": "4. **Back independent lifecycle assessment.** The gap is the story, and the gap closes when researchers and journalists have the resources to do the maths. Support the institutions and publications doing this work."
+    }
+  ]
+}

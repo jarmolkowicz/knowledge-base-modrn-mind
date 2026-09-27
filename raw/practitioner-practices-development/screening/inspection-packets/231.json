@@ -1,0 +1,24 @@
+{
+  "id": 231,
+  "title": "160,000 developers are building digital employees",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/what-3-weeks-inside-the-moltbot-openclaw.md",
+  "sha256": "3208d6325b31a7cd87d0f0cafdfe3965adf0dc2f32a0d75d8bbb87eea88e0e78",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 384,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 255,
+      "text": "A solopreneur pointed his Moltbot at a $56,000 car purchase. The agent searched Reddit"
+    },
+    {
+      "line": 16,
+      "offset": 1126,
+      "text": "In the first video, we covered what Moltbot is and the security nightmare that erupted in its first 72 hours. In the second, we covered the emergent behaviors that made researchers rethink what these systems are capable of. This is the third piece, and it’s ab"
+    }
+  ]
+}

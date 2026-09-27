@@ -1,0 +1,33 @@
+{
+  "id": 585,
+  "group_index": 17,
+  "decision": "draft_with_limits",
+  "coverage": "Read relevant complete transcript exchanges: L93–130; 00:06:51–00:16:17. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L93–130; 00:06:51–00:16:17"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Describes coaching at Eventbrite and Pinterest."
+  ],
+  "proposed_outcomes": [
+    "Improve preparedness and audience fit."
+  ],
+  "limits": [
+    "No comparative meeting outcome data. Simulation cannot establish what a real executive will think; the adviser’s actual familiarity matters."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/lenny-585-why-most-product-managers-are-unprepared-2023/drafts/practices/rehearse-with-audience-experience.md"
+  ],
+  "role": "origin",
+  "review_note": "Rehearse a presentation with someone who knows its audience; anticipate their questions and hold real pre-meetings.",
+  "author": "Casey Winters",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/rehearse-with-audience-experience.md"
+  ],
+  "historical_drafts_retained": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 83,
+  "title": "On speaking to AI",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/on-speaking-to-ai.md",
+  "sha256": "76a055cbae1d25e65c59c90156fbe8776621b855d77312bdf605d8a9ef4fd7cf",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1455,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 171,
+      "text": "Over the last two days, I gained the ability to have conversations with two different AIs on my phon"
+    },
+    {
+      "line": 66,
+      "offset": 8717,
+      "text": "This is all early, and based on first impressions, but I think that voice capabilities like GPT-4o’s are going to change how most people interact with AI systems. Voice and visual interactions are more natural than text and will have broader appeal to a wider audience. The future will involve talkin"
+    }
+  ]
+}

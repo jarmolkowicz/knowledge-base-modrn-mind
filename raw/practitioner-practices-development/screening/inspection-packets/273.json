@@ -1,0 +1,33 @@
+{
+  "id": 273,
+  "title": "ChatGPT shamelessly copied Claude.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/chatgpt-copied-claude.md",
+  "sha256": "73655a8ab510345f0e5a3bbaa2c534746c96fa94a58cc7aca4179c40f85154e9",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2385,
+  "headings": [
+    "**1. How to access the new ChatGPT.**",
+    "**2. It’s so** *confusing***, I’m lost.**",
+    "**3. “You’re** *out* **of Codex and Work usage”.**",
+    "**4. Can you** *still* **use ChatGPT for work?**",
+    "**#1:** ChatGPT has **templates**.",
+    "**#2:** ChatGPT has **Skills**.",
+    "**#3:** ChatGPT has **Sites**.",
+    "**5. So** *ChatGPT* **or** *Claude***?**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 19,
+      "offset": 865,
+      "text": "The new **ChatGPT Work** is just like **Claude Cowork**."
+    },
+    {
+      "line": 285,
+      "offset": 18986,
+      "text": "> ***Prompt**: make a skill from this skill, just update \"Claude\" to \"ChatGPT\"*"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 26,
+  "title": "ChatGPT Can't Plan. This Matters.",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/chatgpt-cant-plan-this-matters.md",
+  "sha256": "90d399b7dff9b1ded8d9fb2a634c8fcfcb95a3054dcf9b095b9349d517b65ff6",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 808,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 13,
+      "offset": 262,
+      "text": "| **A brief book update:** I wanted to share that *Slow Productivity* debuted at #2 on the *New York Times* bestseller l"
+    },
+    {
+      "line": 23,
+      "offset": 2610,
+      "text": "This wasn’t the only seemingly simple problem that stumped the model. The team later asked it to write a poem that made sense in terms of its content, but also had a last line that was an exact reverse of the first. GPT-4 wrote a poem that started with “I heard his voice across the crowd,” forcing it to end with the nonsensical conclusion: “Crowd the across "
+    }
+  ]
+}

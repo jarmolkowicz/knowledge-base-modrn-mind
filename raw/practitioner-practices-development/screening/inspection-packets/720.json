@@ -1,0 +1,26 @@
+{
+  "id": 720,
+  "title": "Inside OpenAI | Logan Kilpatrick (head of developer relations)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/logan-kilpatrick/transcript.md",
+  "sha256": "6c5ffa39bd184f02109a087e78ff40fb6897eccf75977c3f8415d4de36332173",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13895,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 805,
+      "text": "Finding people who are high agency and work wi"
+    },
+    {
+      "line": 156,
+      "offset": 21564,
+      "text": "Going in a slightly different direction, there's this whole genre of prompt engineering. It feels like it's one of these really emerging ski"
+    }
+  ]
+}

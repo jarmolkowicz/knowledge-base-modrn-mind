@@ -1,0 +1,24 @@
+{
+  "id": 36,
+  "title": "My Thoughts on ChatGPT",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/my-thoughts-on-chatgpt.md",
+  "sha256": "0b9d992ded46cdb33256df7afb15905c40159af57075791ec691583083b30013",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 640,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 11,
+      "offset": 229,
+      "text": "In recent months, I’ve received quite a few emails from readers expressing concerns about ChatGPT. I remained quiet on t"
+    },
+    {
+      "line": 21,
+      "offset": 2357,
+      "text": "- ***ChatGPT is almost certainly not going to take your job.*** Once you understand how it works, it becomes clear that ChatGPT’s functionality is crudely reducible to the following: *it can write grammatically-correct text about an arbitrary combination of known subjects in an arbitrary combination of known styles*, where “known” means it encountered it suf"
+    }
+  ]
+}

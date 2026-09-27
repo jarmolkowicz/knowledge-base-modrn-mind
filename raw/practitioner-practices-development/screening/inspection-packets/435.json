@@ -1,0 +1,31 @@
+{
+  "id": 435,
+  "title": "When AI Sounds Neutral, Is It?",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-neutrality-bias-missing-voices.md",
+  "sha256": "0e7d54c595f11b37f31d2cc38a386970be30fa95c41a1d0d3497243abe9ce3d8",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 815,
+  "headings": [
+    "**Step-by-step**",
+    "**A moment from me**",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**From last week:** ***[When AI Never Stops, Should You?](https://theslowai.substack.com/p/when-ai-never-stops-should-you)***",
+    "**Share**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 240,
+      "text": "- Notice how AI tools can mirror the bias of the data they were traine"
+    },
+    {
+      "line": 90,
+      "offset": 3907,
+      "text": "If you would like to keep practising, you might like *A Gentle Guide to Reflection with AI* (pay what-you-wish). Think of it as a companion you can return to whenever you want to pause and notice whose voices m"
+    }
+  ]
+}

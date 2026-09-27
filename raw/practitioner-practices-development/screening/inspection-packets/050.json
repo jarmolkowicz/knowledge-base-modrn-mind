@@ -1,0 +1,26 @@
+{
+  "id": 50,
+  "title": "The Perfect Cheating Machine?",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/the-perfect-cheating-machine.md",
+  "sha256": "2c2490b5649db975daf65940b17d7feece35907d756f97526d2ece20f44fe3c8",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 659,
+  "headings": [
+    "In the latest episode of my podcast, *Deep Questions*, released earlier today, I take an unconventional look at the idea of discipline and how to improve it (**[listen](https://podcasts.apple.com/us/podcast/ep-322-the-discipline-ladder/id1515786216?i=1000673015833)** | [**watch**](https://www.youtube.com/watch?v=NFxwHzDK15Y))"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 11,
+      "offset": 261,
+      "text": "Many predictions and concerns tumbled into the slipstream trailing ChatGPT’s dazzling, turbulent entrance onto the techn"
+    },
+    {
+      "line": 15,
+      "offset": 1265,
+      "text": "“AI seems almost built for cheating,” explains Ethan Mollick, in his recent bestseller, *Co-Intelligence*. He predicted, in particular, that paper writing as a pedagogical tool might be on the way out, forcing institutions to adapt to other methods to teach composition: “In-school assignments on non-internet-enabled computers, combined with written exams, wi"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 614,
+  "title": "Dylan Field live at Figma's Config: Intuition, simplicity, and the future of design",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/dylan-field-20/transcript.md",
+  "sha256": "2291da60de31f49ba9f96bddf1f195f50cec341dde05e3698187cfe869603df0",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15191,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 38,
+      "offset": 841,
+      "text": "We're no longer in this era of good enough is fine. G"
+    },
+    {
+      "line": 557,
+      "offset": 70884,
+      "text": "But also, there's so much that we can do to grow. You can either see AI as an opportunity for your company to grow and do more, or you can look at it as cost-cu"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 759,
+  "title": "Nickey Skarstad (Airbnb, Etsy, Shopify, Duolingo) on translating vision into goals, operationalizing product quality, second-order decisions, brainstorming, influence, and much more",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/nickey-skarstad/transcript.md",
+  "sha256": "365bc08b988652613fd7af8084599eacd85d9f17cd3a402f85d28db7f364563e",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13483,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 55,
+      "offset": 2942,
+      "text": "When I asked in my newsletter Slack communi"
+    },
+    {
+      "line": 379,
+      "offset": 57605,
+      "text": "Yeah. So I think there's many ways to do this. If you have a spec-ed template or a piece of documentation that your team typically"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 ## What this is
 
-Public, curated reference on how AI reshapes human thinking, identity, and agency. Atomic entries in `concepts/`, `methods/`, `sources/`. Status-tagged (`solid` / `emerging` / `speculative`).
+Public, curated reference on how AI reshapes human thinking, identity, and agency. Atomic entries in `concepts/`, `methods/`, `practices/`, `sources/`. Status-tagged (`solid` / `emerging` / `speculative`).
 
 ## How to operate
 
@@ -11,7 +11,8 @@ This repo gets used two ways.
 **Editing the KB** — user asks to ingest a source, refine an entry, restructure content.
 
 - For new sources: `/ingest <path>` (HITL) or `/ingest <path> --auto` (autonomous). The librarian agent (`.claude/agents/librarian.md`) drives the full 5-stage pipeline (catalog → triage → distill → critique → integrate) out of `raw/<slug>/`.
-- Drafts always land in `raw/<slug>/drafts/`. **Never** write to `concepts/`, `methods/`, or `sources/` directly — only Stage 5 of the librarian does, after Decision is recorded.
+- Drafts always land in `raw/<slug>/drafts/`. **Never** write to `concepts/`, `methods/`, `practices/`, or `sources/` directly — only Stage 5 of the librarian does, after Decision is recorded.
+- Practices are concrete source-grounded routines, separate from methods. Use `tooling/templates/practice.md`; record intended benefits separately from reported or evaluated outcomes. Keep editorial adaptations explicit. Existing methods are not automatically moved or renamed.
 - Per-source directory `raw/<slug>/` is the durable audit trail (binary + extracted text + every stage's artifact + log.md). Never delete it.
 - Tools never write to `private/` (gitignored).
 

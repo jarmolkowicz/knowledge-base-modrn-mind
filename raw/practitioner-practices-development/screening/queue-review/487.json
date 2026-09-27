@@ -1,0 +1,97 @@
+{
+  "queue_position": 160,
+  "id": 487,
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-6-teach-it-what-it-feels.md",
+  "sha256": "3e7274042d3ed81b3dde50306674e899da5e7237954cb312e6d7b942b21fd4a7",
+  "title": "Teach AI What It Feels Like",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L29 #### **Step-by-step**",
+    "L50 #### **A moment from me**",
+    "L56 #### **What to do with it**",
+    "L71 #### **Why this matters**",
+    "L84 ### **From [Slow AI #5 – Teach It What You Are Not Saying](https://theslowai.substack.com/p/slow-ai-5-teach-it-what-you-are-not-saying)**"
+  ],
+  "passages": [
+    {
+      "line": 10,
+      "text": "Before the sentence, before the thought  "
+    },
+    {
+      "line": 29,
+      "text": "#### **Step-by-step**"
+    },
+    {
+      "line": 31,
+      "text": "This week’s invitation to your GenAI tool:"
+    },
+    {
+      "line": 33,
+      "text": "> **What does this moment feel like in my body?**"
+    },
+    {
+      "line": 37,
+      "text": "> I am not telling you how I feel. Guess.  "
+    },
+    {
+      "line": 38,
+      "text": "> Describe the weather inside me.  "
+    },
+    {
+      "line": 39,
+      "text": "> Finish this sentence: “If I were a texture right now, I would be…”"
+    },
+    {
+      "line": 42,
+      "text": "Notice whether it stays surface-level, or surprises you.  "
+    },
+    {
+      "line": 45,
+      "text": "You might find metaphors. You might find mimicry.  "
+    },
+    {
+      "line": 46,
+      "text": "Or you might find a language for something you had not quite named."
+    },
+    {
+      "line": 50,
+      "text": "#### **A moment from me**"
+    },
+    {
+      "line": 52,
+      "text": "I asked it what this moment feels like in my body. It offered prompts, breath, tension, warmth, weight, and then asked if I wanted help turning sensation into poetry. I said, *I am not telling you how I feel. Guess.* So it did, gently. It spoke of a quiet tightness in my chest, shoulders drawn, a hum of vigilance in my gut. A clenching. A flicker of calm. *Was I close?* I said, *Pretty much, apart from the chest, that feels okay.* It adjusted, maybe the holding is lower down, in the gut or jaw, the muscles of the back. Not dramatic, just there. The chest, it said, might be the one still place, a room that feels safe in a house full of motion. Then it asked again, *Do you want to stay with this?* Or make something of it. A line, a shape, a truth in words. I noticed that I always want to shape things into poetry, even this. It noticed too. Gently. Maybe, it seemed to say, there is also value in just feeling something and letting it pass. Not named, not held, not made beautiful. Just felt. And maybe left behind."
+    },
+    {
+      "line": 56,
+      "text": "#### **What to do with it**"
+    },
+    {
+      "line": 61,
+      "text": "- Write a short description of your now-body"
+    },
+    {
+      "line": 63,
+      "text": "- Or simply ask again tomorrow and see what changes"
+    },
+    {
+      "line": 67,
+      "text": "Just let the tool try to meet you in the flesh."
+    },
+    {
+      "line": 84,
+      "text": "### **From Slow AI #5 – Teach It What You Are Not Saying**"
+    },
+    {
+      "line": 90,
+      "text": "> “That you’re afraid the silence will name you before you name it.”"
+    },
+    {
+      "line": 116,
+      "text": "**If you try this week’s prompt, I would love to hear how your body responded, or how the tool tried to feel alongside you.**"
+    },
+    {
+      "line": 118,
+      "text": "You can share it in the comments, post with #SlowAI, or hold it quietly, just for you."
+    }
+  ]
+}

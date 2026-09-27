@@ -1,0 +1,34 @@
+{
+  "id": 262,
+  "title": "How to install Claude Excel.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/ai-couldnt-do-excel.md",
+  "sha256": "b3e75f3ac2bf40613dde7c1aa44336fb90e313020a76511ee136d6a964548e5e",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1119,
+  "headings": [
+    "**How to install Claude in Excel.**",
+    "**How to read formulas you've never seen.**",
+    "**How to clean messy data in seconds.**",
+    "**How to analyze data without formulas.**",
+    "**How to turn a PDF into a** *(real)* **Excel.**",
+    "**How to build** *(any)* **financial model.**",
+    "**What it can’t do** *(yet)***.**",
+    "**Too long, didn’t read.**",
+    "**PS: Microsoft Copilot answered.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 182,
+      "text": "Here’s how you failed at using AI for spreadsheets before:"
+    },
+    {
+      "line": 94,
+      "offset": 3912,
+      "text": "It usually takes hours. Now you can ask Claude:"
+    }
+  ]
+}

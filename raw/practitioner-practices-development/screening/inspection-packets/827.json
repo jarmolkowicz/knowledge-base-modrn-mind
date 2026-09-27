@@ -1,0 +1,26 @@
+{
+  "id": 827,
+  "title": "An inside look at Mixpanel’s product journey | Vijay Iyengar",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/vijay/transcript.md",
+  "sha256": "295677d9f9217a0024a89280967b2ea866078bb78bc3c1c5c9f2d4ed7099b095",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 10014,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 763,
+      "text": "The issue for us at the time was that we to"
+    },
+    {
+      "line": 211,
+      "offset": 41454,
+      "text": "I think our stack is actually fairly standard these days. So, we have Slack, Zoom for communication, Notion for docs and any long "
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 826,
+  "title": "An inside look at how Miro builds product | Varun Parmar (CPO of Miro)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/varun-parmar/transcript.md",
+  "sha256": "e3e84c84f232167c62f248c0494809ed15d60918ae56f65d9abf7628ad516b34",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 16054,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 795,
+      "text": "Every single day, every single time somebod"
+    },
+    {
+      "line": 528,
+      "offset": 83910,
+      "text": "We recently, about a month ago, announced Miro AI, the backdrop of all the amazing work that's happening around generative AI and "
+    }
+  ]
+}

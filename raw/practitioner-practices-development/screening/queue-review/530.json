@@ -1,0 +1,77 @@
+{
+  "queue_position": 181,
+  "id": 530,
+  "path": "raw/inbox/Practical/Sam Illingworth/your-ai-knows-too-much-take-it-back-in-time.md",
+  "sha256": "6c4e1c2f46680e4c9b9c3b301c516bf6d1ecf97343e536ab0762cc1e13e902e4",
+  "title": "Make Your AI Argue from the Past",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L42 #### **Step-by-step**",
+    "L64 #### Slow AI #1 – Teach It Something It Cannot Know",
+    "L76 #### **A moment from [Harry](https://substack.com/@harryohanley)**",
+    "L104 #### The Slow AI Library",
+    "L116 #### **What to do with it**",
+    "L128 #### **Why this matters**",
+    "L146 #### **From [When your writing wobbles, listen for what AI echoes](https://theslowai.substack.com/p/when-your-writing-wobbles-listen-for-what-ai-echoes)**",
+    "L160 #### **Let’s collaborate**",
+    "L166 #### Collaborating with Slow AI"
+  ],
+  "passages": [
+    {
+      "line": 18,
+      "text": "Together, we invite you to try a gentler kind of structural thinking."
+    },
+    {
+      "line": 20,
+      "text": "Instead of adding more sources, we ask what happens if you force time into the frame, and make your AI answer from different decades using only what was known then"
+    },
+    {
+      "line": 42,
+      "text": "#### **Step-by-step**"
+    },
+    {
+      "line": 44,
+      "text": "Paste your question or problem statement into your AI tool of choice, then try this prompt:"
+    },
+    {
+      "line": 46,
+      "text": "`You are my most attentive analyst. Consider the question below from three perspectives across three time periods: current, 1990, and 1970. [Insert question]. For each perspective, answer using only knowledge that would reasonably have been available in that period, including common practices, constraints, and prevailing assumptions. State one insight, one blind spot, and one decision you would likely make in that period. Return only three sections titled 1970, 1990, and Current, each no more than 150 words.`"
+    },
+    {
+      "line": 50,
+      "text": "- Pick one change to your current plan that follows from the oldest viable answer, and test it for 30 minutes."
+    },
+    {
+      "line": 52,
+      "text": "For example, if the 1970 section shows how people worked with fewer tools or slower feedback, try simplifying your own process for a day. If the 1990 section reminds you how much depended on trust and conversation, spend half an hour writing one paragraph or email as if collaboration were your only technology."
+    },
+    {
+      "line": 54,
+      "text": "The point is to test a single idea, not rewrite everything."
+    },
+    {
+      "line": 56,
+      "text": "The goal is not more content, but more clarity."
+    },
+    {
+      "line": 60,
+      "text": "If you are new to *Slow AI*, here is our first invitation."
+    },
+    {
+      "line": 116,
+      "text": "#### **What to do with it**"
+    },
+    {
+      "line": 120,
+      "text": "- Try the prompt with a real question you’re working on."
+    },
+    {
+      "line": 146,
+      "text": "#### **From When your writing wobbles, listen for what AI echoes**"
+    },
+    {
+      "line": 156,
+      "text": "Together these notes point to a simple habit: when your writing feels uncertain, ask AI for what is absent, then listen."
+    }
+  ]
+}

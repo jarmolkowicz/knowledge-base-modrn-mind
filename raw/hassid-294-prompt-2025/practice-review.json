@@ -1,0 +1,33 @@
+{
+  "id": 294,
+  "author": "Ruben Hassid",
+  "group_index": 10,
+  "decision": "counterexample",
+  "locators": [
+    "L93–105, example",
+    "L149–171, default prompt",
+    "L268–272, human-decision recipe"
+  ],
+  "basis": "Prescriptive newsletter with inconsistent procedures",
+  "reported_outcomes": [
+    "No comparative evaluation of the proposed sequence."
+  ],
+  "proposed_outcomes": [
+    "Separate options, choice and drafting."
+  ],
+  "limits": [
+    "Main prompt instructs AI to recommend one option and draft immediately, despite text saying the person decides.",
+    "Usage frequencies and satisfaction do not establish judgment improvement."
+  ],
+  "review_note": "Changed from selected practice: keep as a counterexample showing why a claimed human decision step must exist in the actual procedure.",
+  "coverage": "Close-read all 286 lines of available extracted article text; image-only content and linked media not reviewed.",
+  "related_entries": [
+    "agency",
+    "guingrich-belief-offloading-2026",
+    "belief-offloading"
+  ],
+  "practice_files": [],
+  "role": "counterexample",
+  "draft_only": true,
+  "integration_decision": "pending"
+}

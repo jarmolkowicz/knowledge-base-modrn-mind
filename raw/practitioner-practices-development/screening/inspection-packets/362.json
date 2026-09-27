@@ -1,0 +1,26 @@
+{
+  "id": 362,
+  "title": "AI Foundations",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/ai-foundations-2026.md",
+  "sha256": "72eea3b36bcdace7ad475d8521990ded20ed8a6879e0c38d022a45c1ecb8d9ff",
+  "access": "public-page",
+  "kind": "article",
+  "words": 274,
+  "headings": [
+    "Not Sure Where To Start? 👇"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 21,
+      "offset": 444,
+      "text": "You can build a million-dollar business on ChatGPT, Gemini, Claude, He"
+    },
+    {
+      "line": 29,
+      "offset": 798,
+      "text": "- learn how to interact with any AI for the best results"
+    }
+  ]
+}

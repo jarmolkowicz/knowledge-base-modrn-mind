@@ -1,0 +1,30 @@
+{
+  "id": 487,
+  "title": "Teach AI What It Feels Like",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-6-teach-it-what-it-feels.md",
+  "sha256": "3e7274042d3ed81b3dde50306674e899da5e7237954cb312e6d7b942b21fd4a7",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 741,
+  "headings": [
+    "**Step-by-step**",
+    "**A moment from me**",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**From [Slow AI #5 – Teach It What You Are Not Saying](https://theslowai.substack.com/p/slow-ai-5-teach-it-what-you-are-not-saying)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 18,
+      "offset": 479,
+      "text": "**Some of your responses are shared at the end of this post.**"
+    },
+    {
+      "line": 116,
+      "offset": 4189,
+      "text": "**If you try this week’s prompt, I would love to hear how your body responded, or how the tool tried to feel alongside you.**"
+    }
+  ]
+}

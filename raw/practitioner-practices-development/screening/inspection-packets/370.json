@@ -1,0 +1,30 @@
+{
+  "id": 370,
+  "title": "Build Your First AI Automation",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/build-your-first-ai-automation.md",
+  "sha256": "5db34235ce1193b3fe7068aa8bd784f38edd180d46e4cfbe3b45566a7a0a275f",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 304,
+  "headings": [
+    "What is the workflow?",
+    "Who is this for?",
+    "Next Steps",
+    "OIdies But Goodies…",
+    "**P.S. Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 202,
+      "text": "In this 3-part video series, I’ll teach you everything you need to kno"
+    },
+    {
+      "line": 16,
+      "offset": 419,
+      "text": "*To support my free AI education: HIT LIKE + LEAVE A COMMENT🙏*"
+    }
+  ]
+}

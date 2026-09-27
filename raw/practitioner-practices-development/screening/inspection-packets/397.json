@@ -1,0 +1,27 @@
+{
+  "id": 397,
+  "title": "Celebrating 3,000,000+ Followers ",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/sabrina-ramonov-milestone-3-million-followers.md",
+  "sha256": "7325921cfcf2f2dda1f1224a5b691b591c18755479c69a4941daecc2eb35acc4",
+  "access": "public-page",
+  "kind": "article",
+  "words": 611,
+  "headings": [
+    "What you’ll get from me",
+    "Before the next email arrives, do one thing:"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 19,
+      "offset": 496,
+      "text": "and **41,000,000+ views** in the past 30 days."
+    },
+    {
+      "line": 55,
+      "offset": 2004,
+      "text": "- **31:** Stayed on as Director of Product Management to launch Qurious tech as *Pega Voice AI*, scaling it to 1000s of support agents globally and managing a team of ~20."
+    }
+  ]
+}

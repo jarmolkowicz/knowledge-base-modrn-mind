@@ -1,0 +1,24 @@
+{
+  "id": 84,
+  "title": "On Working with Wizards",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/on-working-with-wizards.md",
+  "sha256": "7e8dba3897e2bd09a2613fca2107073e60760b74e31a2562caa9e320cee30c46",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2152,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 189,
+      "text": "In my book, Co-Intelligence, I outlined a way that people could work with AI, which was, rather unsu"
+    },
+    {
+      "line": 12,
+      "offset": 763,
+      "text": "A good way to illustrate this change is to ask an AI to explain what has happened since I wrote the book. I fed my book and all 140 or so One Useful Thing posts (incidentally, I can’t believe I have written that many posts!) into NotebookLM and chose the new video overview option with a basic prompt"
+    }
+  ]
+}

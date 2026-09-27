@@ -1,0 +1,29 @@
+{
+  "queue_position": 276,
+  "id": 674,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jason-m-lemkin/transcript.md",
+  "sha256": "f8dbfa59575511ac459ba5b2a2909ee55e382c11c8230713d439ca591d69261c",
+  "title": "We replaced our sales team with 20 AI agents—here’s what happened next | Jason Lemkin (SaaStr)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 666,
+      "text": "Jason Lemkin (01:27:28):"
+    },
+    {
+      "line": 667,
+      "text": "The number one thing they can do, and this is very tactical, at the end of each meeting, because again, both of them are good middlers, the head of product and the founders are good demos, they're good at talking shop, they're good at talking in the industry, they're good at talking workflows. Learn. This is the only school you have to learn. Even if you're not comfortable asking for money, learn to ask for what's the next step, Lenny. This is what all great salespeople have learned to do. Actually, mediocre salespeople are terrible at this. The best salespeople never leave a meeting without a next step. The next step does not have to be a check. Don't break the relationship, but what's the next meeting? The next meeting might be, \"Lenny, is there someone else at your company that I could do a demo for?\" People are lazy, they don't want to do multiple demos."
+    },
+    {
+      "line": 825,
+      "text": "Jason Lemkin (01:45:00):"
+    },
+    {
+      "line": 826,
+      "text": "My two aren't really amazing, but I'll answer them. I love this Opus Clip app for making clips from video. I know you have a whole team, so you probably don't need it, but I produce a lot. I mean, a lot of us do content marketing, right? Whoever does it. I produce a lot of content. I don't have enough time to do this. So, the only AI tool that I've found helpful so far is Opus Clip, which takes all of the incredible amount of YouTube content we have, force ranks it and turns it into 59 second clips. And I'm a case study on the website, I tried the earlier products. They were almost there, right? But it's not, is it as good as a clip team? Right? Is it? No."
+    }
+  ]
+}

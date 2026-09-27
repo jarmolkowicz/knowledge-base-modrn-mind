@@ -1,0 +1,26 @@
+{
+  "id": 553,
+  "title": "The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/anuj-rathi/transcript.md",
+  "sha256": "61d7d3e27458f165447f4078091094e9d76a86d1049db432d89650ec277f92b2",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13845,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 788,
+      "text": "There are only three reasons why things do not happen"
+    },
+    {
+      "line": 318,
+      "offset": 61667,
+      "text": "Yeah. I think a couple of things. I think working with AI, many, many teams and companies get too excited about AI, and the possibilities, and so on, and it's a"
+    }
+  ]
+}

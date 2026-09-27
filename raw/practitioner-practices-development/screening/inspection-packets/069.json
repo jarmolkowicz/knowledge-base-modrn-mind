@@ -1,0 +1,24 @@
+{
+  "id": 69,
+  "title": "An opinionated guide to which AI to use to do stuff",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/an-opinionated-guide-to-which-ai-b22.md",
+  "sha256": "ae0bf2d0993d4eda92a1bb61a4ad254c78e25270ed57a503ed0bfad38c586721",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2385,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 443,
+      "text": "Every few months, I write a guide for people who want to use AI to do stuff. This time, a lot has ch"
+    },
+    {
+      "line": 77,
+      "offset": 16250,
+      "text": "You will find a similar gap in voice. ChatGPT’s new voice mode, called GPT-Live, is worth experiencing because it listens and speaks natively. That means it has the pacing and interruptions of a real conversation. I would suggest that you try it yourself (the ChatGPT app on your phone now has this v"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 313,
+  "title": "10,000 followers.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/linkedin.md",
+  "sha256": "f5e97b3898e7f814624455bf42924bbf464fdd8edae7eeab5c9375634f2a3db5",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1079,
+  "headings": [
+    "**Table of contents**",
+    "1. On “being successful”",
+    "The wrong way…",
+    "The right way…",
+    "2. Find your mission",
+    "One problem",
+    "Mission-GPT",
+    "3. Set up your profile",
+    "The right colors & fonts.",
+    "The right profile picture.",
+    "The right banner.",
+    "The right headline.",
+    "The right featured section.",
+    "The right about section."
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 189,
+      "text": "If I had to start all over again, this blog is how."
+    },
+    {
+      "line": 169,
+      "offset": 5951,
+      "text": "By the way, when you ask ChatGPT or Perplexity “**Who is Ruben Hassid?**”, it mostly reads my experience tab on Linkedin. **So write a lot there.** Be extensive."
+    }
+  ]
+}

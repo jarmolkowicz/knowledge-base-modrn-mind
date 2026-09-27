@@ -1,0 +1,32 @@
+{
+  "id": 278,
+  "title": "Claude + Linkedin.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/claude-linkedin.md",
+  "sha256": "e92a91021b41cd03515c0463b1fee461dc6283be0ec23ac1190f785490ce6208",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2468,
+  "headings": [
+    "**I know Linkedin better than you.**",
+    "**1. Spend $2 to extract 1,000 posts.**",
+    "**2. Train Claude on your Excel.**",
+    "**3. Create a reusable skill.**",
+    "**4. “I went ultra-viral once.”**",
+    "**5. When this falls short** *(being honest).*",
+    "**I don’t care about Claude.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 351,
+      "text": "You can train Claude on your (*best*) Linkedin posts."
+    },
+    {
+      "line": 51,
+      "offset": 3604,
+      "text": "How to set it up. How I use it every single week to write (*good*) posts. How to create a positive feedback loop of better posts = trains Claude better = to write better posts."
+    }
+  ]
+}

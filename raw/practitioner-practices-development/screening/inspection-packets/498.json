@@ -1,0 +1,30 @@
+{
+  "id": 498,
+  "title": "Slow Takes Ep. 22: A Pub, a Lab and a Ministry",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-takes-ep-22-a-pub-a-lab-and.md",
+  "sha256": "957b1851849de20593a8d74cb1ae3192208afad1eddfd9ece6b713b79eb3177b",
+  "access": "public-page",
+  "kind": "article",
+  "words": 708,
+  "headings": [
+    "**Four models in sixteen days**",
+    "**The pub got there first**",
+    "**Sixteen viruses that work**",
+    "***Caught by employment law***",
+    "**Denmark makes them say it out loud**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 428,
+      "text": "Every Monday, Leor from Exploring ChatGPT and I go through the wee"
+    },
+    {
+      "line": 49,
+      "offset": 4184,
+      "text": "Education minister Magnus Heunicke announced that around 9,000 Danish upper secondary pupils writing the major annual assignment must now defend it orally, alongside screen monitoring during exams and"
+    }
+  ]
+}

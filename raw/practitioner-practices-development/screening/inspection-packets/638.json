@@ -1,0 +1,26 @@
+{
+  "id": 638,
+  "title": "Inside the expert network training every frontier AI model | Garrett Lord",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/garrett-lord/transcript.md",
+  "sha256": "8536ff0d2fbc9afe55010f1a4508db8e759c90e166a37045dace768bbd72ac3a",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13080,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 818,
+      "text": "There will never be a time like this. I've nev"
+    },
+    {
+      "line": 81,
+      "offset": 6677,
+      "text": "I appreciate that. Okay, so before we get into the insane trajectory that your data labeling business is on, which is just an amazing story "
+    }
+  ]
+}

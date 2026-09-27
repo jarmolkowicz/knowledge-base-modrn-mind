@@ -1,0 +1,37 @@
+{
+  "queue_position": 223,
+  "id": 592,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/christina-wodtke/transcript.md",
+  "sha256": "9b4074f13af2a26485cd540269e3f844b05d58a966e71d1aa833048d0aab580e",
+  "title": "The ultimate guide to OKRs | Christina Wodtke (Stanford)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 308,
+      "text": "Christina Wodtke (00:36:57):"
+    },
+    {
+      "line": 309,
+      "text": "I can repeat everything I said, but instead I'll just say speed. People read, measure what matters. They get their panties in a bunch, they get really excited. They're just going to do OKRs for everybody, but they didn't really read the whole thing. You kind of skimmed it and you don't really understand how it works, and so you just implement it. Or you ask your head of HR to implement it, and it gets implemented and everybody's really happy and then they're really sad and then they spit it out. And then you say, \"Okay, OKRs don't work.\" I mean, that's what I see over and over again. Nobody calls me for advice when they are thinking about OKRs. They call me for advice when they've done it in sales, every damn time. "
+    },
+    {
+      "line": 455,
+      "text": "Christina Wodtke (00:52:40):"
+    },
+    {
+      "line": 456,
+      "text": "And then a few notes if you need to."
+    },
+    {
+      "line": 494,
+      "text": "Christina Wodtke (00:55:57):"
+    },
+    {
+      "line": 495,
+      "text": "Yeah. One of the most common arguments I have with my friends is I think everything can be measured to a certain degree. Not precisely necessarily, but you can get enough of a swag to be useful. So, by trying to measure things, you'll start learning how to measure things. So, you maybe try NPS and you're like, \"Wow, this is not actually accurate, or weird, or not.\" There's a lot of stuff we don't know until we try them. And of course, my background is in lean and agile and design and they're all iterative. They're all about, let's try something and then learn something and then do something. Which is why I'm so fanatically iterative. So, I think that when you got these fuzzy things, you just got to start trying out ways to measure it and trust the team to be able to figure out whether it's working or not."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "queue_position": 94,
+  "id": 361,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/ai-for-lawyers-3-real-use-cases.md",
+  "sha256": "c9b71ba826fc5c74a8dbc50881e085dd51bc57fda8667d55ee9ed855c32a91f7",
+  "title": "AI for Lawyers (3 Real Use Cases)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L35 ## Meet Paula Rojas",
+    "L90 ## 1. A New Lawsuit Lands: 1 Hour Down to About 5 Minutes",
+    "L139 ### Why this is the RIGHT kind of first project",
+    "L171 ## 2. Court Filings That Sound Like HER, Not Like AI",
+    "L201 ### How she organizes her files for Claude Cowork",
+    "L223 ### The 2 things that make a skill good",
+    "L259 ## 3. The Court Schedule Check (Playwright MCP)",
+    "L317 ## AI hallucinations",
+    "L363 ## What She’s NOT Doing",
+    "L393 ## RECAP",
+    "L425 ## FAQ",
+    "L457 ## Not Sure Where To Start? 👇"
+  ],
+  "passages": [
+    {
+      "line": 90,
+      "text": "## 1. A New Lawsuit Lands: 1 Hour Down to About 5 Minutes"
+    },
+    {
+      "line": 96,
+      "text": "Attached is the lawsuit and the judge’s first order, which sets the date of the first hearing. The firm has to answer 5 days BEFORE that hearing."
+    },
+    {
+      "line": 100,
+      "text": "Then that person types all of it into the firm’s system, sets the calendar deadlines, and files the case."
+    },
+    {
+      "line": 106,
+      "text": "A skill is a set of instructions you write ONCE, so Claude does the same job the same way every time. Think of it as training a new hire, except you only train them once."
+    },
+    {
+      "line": 121,
+      "text": "The whole thing runs in about 5 minutes. Then a lawyer checks it, which takes another 5 to 10 minutes."
+    },
+    {
+      "line": 201,
+      "text": "### How she organizes her files for Claude Cowork"
+    },
+    {
+      "line": 211,
+      "text": "5. Write a little map file of the folder, so Claude reads the map first instead of hunting through every document."
+    },
+    {
+      "line": 223,
+      "text": "### The 2 things that make a skill good"
+    },
+    {
+      "line": 231,
+      "text": "**First, teach it how YOU write.** She fed Claude a pile of filings she’d already written, in her own voice, and had Opus analyze them. How does she present facts? How does she build arguments? How does she structure an idea?"
+    },
+    {
+      "line": 259,
+      "text": "## 3. The Court Schedule Check (Playwright MCP)"
+    },
+    {
+      "line": 283,
+      "text": "1. **She dictated the manual process, step by step.** She described exactly how a human finds one case. Every click. Every field. In detail."
+    },
+    {
+      "line": 393,
+      "text": "## RECAP"
+    },
+    {
+      "line": 409,
+      "text": "5. **Organize the folder before you blame the AI.** Mirror folders, stripped names, markdown, plus a map file."
+    },
+    {
+      "line": 425,
+      "text": "## FAQ"
+    },
+    {
+      "line": 429,
+      "text": "No. Paula has zero tech background and learned on YouTube. She describes what she wants in plain language and asks the AI to teach her the rest."
+    },
+    {
+      "line": 433,
+      "text": "A set of instructions you write once so Claude performs the same task the same way every time. Paula has one for processing new lawsuits and one for drafting court filings."
+    },
+    {
+      "line": 449,
+      "text": "Only if you read and verify every word first. Chile has already seen about 5 cases of lawyers filing hallucinated content. If your signature is on it, you own it."
+    }
+  ]
+}

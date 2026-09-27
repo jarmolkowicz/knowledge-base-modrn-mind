@@ -1,0 +1,26 @@
+{
+  "id": 649,
+  "title": "Everyone’s an engineer now: Inside v0’s mission to create 100 million builders | Guillermo Rauch",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/guillermo-rauch/transcript.md",
+  "sha256": "8bf6c1c66fae32af563cab217b4c0cc5e69407068108735099d8e13aa6a529a6",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 14765,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 38,
+      "offset": 866,
+      "text": "One of our users yesterday submitted feedback."
+    },
+    {
+      "line": 545,
+      "offset": 62918,
+      "text": "Yeah, I'm absolutely convinced that expert AI tools are the future. There's an amazing product being built on Vercel called chatprd.com. It'"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 423,
+  "group_index": 6,
+  "decision": "merge",
+  "coverage": "Full available extracted article, L1–115. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L83–109: agreement, urgency, fresh-chat and tone comparisons",
+    "L93: research intervention differs from prompt exercise"
+  ],
+  "basis": "Proposed exercises attached to a secondary internal-model research account.",
+  "reported_outcomes": [],
+  "proposed_outcomes": [
+    "Notice changes when framing changes."
+  ],
+  "limits": [
+    "Urgency prompting is not the internal-vector intervention in the research.",
+    "A few outputs cannot diagnose emotion patterns or reward hacking.",
+    "Underlying research and generalization to all assistants not checked."
+  ],
+  "related_entries": [
+    "automation-bias",
+    "reference-verification"
+  ],
+  "practice_files": [
+    "raw/mollick-075-giving-your-ai-a-job-interview-2025/drafts/practices/test-ai-on-the-work-it-will-do.md"
+  ],
+  "role": "support",
+  "review_note": "Keep only bounded framing comparison; reject mechanistic diagnosis.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/test-ai-on-the-work-it-will-do.md"
+  ],
+  "historical_drafts_retained": true
+}

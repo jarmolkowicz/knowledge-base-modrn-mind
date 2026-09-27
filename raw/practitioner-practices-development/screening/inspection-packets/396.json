@@ -1,0 +1,36 @@
+{
+  "id": 396,
+  "title": "Reverse-Engineering Claude Code",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/reverse-engineering-claude-code-using.md",
+  "sha256": "8811f388184014e7226c913efa317825989ffacc31ceadfe8cd104aadde9f700",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2443,
+  "headings": [
+    "1. Claude Code’s TODO Tool Prompt",
+    "When to Use This Tool",
+    "When NOT to Use This Tool",
+    "Examples of When to Use the Todo List",
+    "Examples of When NOT to Use the Todo List",
+    "Task States and Management",
+    "2. **Experimental ULTRACLAUDE.md**",
+    "3. Claude Code’s Web Fetch Tool Prompt",
+    "4. PLAN MODE System Reminders",
+    "Overall First Impressions of Claude Sub Agents",
+    "**Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 206,
+      "text": "I reverse-engineered Claude Code CLI using Claude sub agents."
+    },
+    {
+      "line": 225,
+      "offset": 11588,
+      "text": "If you ask Claude Code to generate an ULTRACLAUDE.md file, you can see its contents. Looks like an experimental mode."
+    }
+  ]
+}

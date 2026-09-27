@@ -1,0 +1,26 @@
+{
+  "id": 650,
+  "title": "Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator, Airbnb)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/gustaf-alstromer/transcript.md",
+  "sha256": "467e8deea28cfe7a70a3fac00ef9b3897bad61227b0329c36c1c1367ba75d789",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 17225,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 863,
+      "text": "If I drill down what makes companies fail, it'"
+    },
+    {
+      "line": 127,
+      "offset": 16575,
+      "text": "It's a good question. I would say sometimes if someone doesn't have a motivation or don't know why they're doing this, they're doing this be"
+    }
+  ]
+}

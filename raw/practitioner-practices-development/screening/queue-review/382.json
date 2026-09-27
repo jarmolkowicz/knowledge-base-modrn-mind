@@ -1,0 +1,82 @@
+{
+  "queue_position": 101,
+  "id": 382,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/how-i-built-a-1m-solo-ai-business.md",
+  "sha256": "d9e72749b97b6103c0504eb0c956c7c167a6b140af50bf196bbcd74917cf0166",
+  "title": "How I Built a $1M Solo AI Business... Then Rebuilt It",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L57 ## 1. The Idea Was A Public Question",
+    "L77 ## 2. The Vision Was Too Big, So I Cut It Down",
+    "L156 ## 3. Early Adopters Proved Interest Is Not The Same As Behavior",
+    "L232 ## 4. Launch Day Broke In Public",
+    "L297 ## 5. Revenue Gave Me Permission To Rebuild",
+    "L399 ## Not Sure Where To Start? 👇"
+  ],
+  "passages": [
+    {
+      "line": 13,
+      "text": "# How I Built a $1M Solo AI Business... Then Rebuilt It"
+    },
+    {
+      "line": 15,
+      "text": "*TLDR… I launched Blotato by using AI to test demand, vibe code my first version, build distribution through content, survive a messy failure-prone launch, then rebuild once I had conviction.*"
+    },
+    {
+      "line": 57,
+      "text": "## 1. The Idea Was A Public Question"
+    },
+    {
+      "line": 67,
+      "text": "The comments told me the pain was real enough to try building it. Very honestly, I figured if Blotato flopped, I could just release the code as open-source and make content out of it! That’s why it felt low-risk and not that serious."
+    },
+    {
+      "line": 77,
+      "text": "## 2. The Vision Was Too Big, So I Cut It Down"
+    },
+    {
+      "line": 79,
+      "text": "On August 4, 2024, I filmed myself building the MVP in a 7-part Youtube series using Cursor AI. This was before Cursor Composer - I literally had to CREATE and DELETE files manually."
+    },
+    {
+      "line": 104,
+      "text": "Original Blotato vision Google Doc and Spec V1 from August 2 2024 showing AI-powered remixing and the first SaaS app spec"
+    },
+    {
+      "line": 110,
+      "text": "So I drew the first UX prototype with URL input, text input, LinkedIn, Twitter, Facebook, images, edit buttons, and publish buttons."
+    },
+    {
+      "line": 132,
+      "text": "Final Blotato v1 UX prototype after stripping non-essential features down to text input, Facebook selection, submit, and one output card"
+    },
+    {
+      "line": 140,
+      "text": "Gross looking Cursor-built Blotato MVP running locally with a Content Repurposer create screen, Facebook output, Edit Prompt button, and Publish button"
+    },
+    {
+      "line": 156,
+      "text": "## 3. Early Adopters Proved Interest Is Not The Same As Behavior"
+    },
+    {
+      "line": 168,
+      "text": "It promised the first 50 early adopters a steep lifetime discount and personal, priority support from me, the founder."
+    },
+    {
+      "line": 232,
+      "text": "## 4. Launch Day Broke In Public"
+    },
+    {
+      "line": 250,
+      "text": "I uploaded the wrong video, linked it in the newsletter, sent it to thousands of people, then made the video private!"
+    },
+    {
+      "line": 297,
+      "text": "## 5. Revenue Gave Me Permission To Rebuild"
+    },
+    {
+      "line": 393,
+      "text": "(1) to celebrate my birthday this week, get **UNLIMITED FREE Nano Banana 2 + 50% off your first month** of Blotato with promo code **BIRTHDAY2026** (offer valid until 9/1)"
+    }
+  ]
+}

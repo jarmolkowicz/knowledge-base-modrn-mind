@@ -1,0 +1,38 @@
+{
+  "id": 294,
+  "title": "Prompt.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/gold.md",
+  "sha256": "baa0c1c0ce174fe1fc25d2dff5a80b5a24577266c1d548ee46677ca3c1630caa",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1437,
+  "headings": [
+    "What People Actually Prompt",
+    "Work vs. Life flipped.",
+    "The Big Three (≈80% of all chats).",
+    "Coding is small. Editing is huge.",
+    "Advisor > Autopilot.",
+    "Who’s Using It (and Why You Should Care)",
+    "Misconceptions to Drop",
+    "Opportunities",
+    "What to Do — with copy-paste prompts",
+    "Don’t (and what to do instead)",
+    "Keep Your Team’s Edge",
+    "The New Gold Standard",
+    "**What Ruben** *(that’s me)* **Will Do**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 125,
+      "text": "ChatGPT just revealed (exactly) what people prompt."
+    },
+    {
+      "line": 91,
+      "offset": 3636,
+      "text": "- At work, people lean **Doing** (especially **Writing**) because it drafts fast. But the **best results** come when you treat ChatGPT like a thinking partner first."
+    }
+  ]
+}

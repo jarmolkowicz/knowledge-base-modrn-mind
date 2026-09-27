@@ -1,0 +1,16 @@
+{
+  "practices_integrated": 75,
+  "new_sources": 114,
+  "reused_sources": 1,
+  "original_snapshots_verified": 139,
+  "retained_originals_verified": 139,
+  "protected_entries_verified": 229,
+  "reviewed_draft_hashes_verified": 77,
+  "local_links_checked": 872,
+  "canonical_entries": 418,
+  "legacy_citation_findings": 40,
+  "new_citation_regressions": 0,
+  "bundle_entries": 418,
+  "complete_practice_bodies_in_bundle": 75,
+  "errors": []
+}

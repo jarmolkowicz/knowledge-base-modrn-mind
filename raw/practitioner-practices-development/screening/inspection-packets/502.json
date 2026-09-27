@@ -1,0 +1,31 @@
+{
+  "id": 502,
+  "title": "Slow Takes Ep. 7: Who Pays for All of This?",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-takes-ep-7-who-pays-for-all-of-this.md",
+  "sha256": "ae1a7fcae0e9812813905faae4ed8d9950e209b612ac44653e08956de2748eef",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1737,
+  "headings": [
+    "**1. Claude Mythos: the model you cannot use**",
+    "**2. OpenAI proposes robot taxes for the disruption it creates**",
+    "**3. Meta is spending $135 billion on AI this year**",
+    "**4. Anthropic’s gigawatt deal: capacity, never depletion**",
+    "**5. OpenAI shelves UK Stargate**",
+    "**The thread**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 430,
+      "text": "Every story this week came back to the same question. Not whether "
+    },
+    {
+      "line": 63,
+      "offset": 6345,
+      "text": "For context, the entire UK higher education sector earns roughly £45 billion per year. One company is outspending every university in the country combined on AI infrastructure. And nobody in that budg"
+    }
+  ]
+}

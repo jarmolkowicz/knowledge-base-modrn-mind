@@ -1,0 +1,26 @@
+{
+  "id": 685,
+  "title": "The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder of YC, author)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jessica-livingston/transcript.md",
+  "sha256": "1d8cfb7ed26c168092112f8ee75797cbe6f1dd2fa98db316d3da700fe0288f7c",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 14609,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 854,
+      "text": "I want to start with a quote by someone you ma"
+    },
+    {
+      "line": 91,
+      "offset": 6691,
+      "text": "What makes Enterpret special is its ability to build customer-specific adaptive AI models that provide the most granular and accurate catego"
+    }
+  ]
+}

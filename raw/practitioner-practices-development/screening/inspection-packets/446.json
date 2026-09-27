@@ -1,0 +1,33 @@
+{
+  "id": 446,
+  "title": "Nobody Blinked. Now What?",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/anthropic-pentagon-ai-safety-blacklist.md",
+  "sha256": "1e21884182cdf8e788e92d307263217b166f4511a2891751bc94bb5476a240d8",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1990,
+  "headings": [
+    "**How we got here**",
+    "**Why Anthropic is not the hero of this story**",
+    "**The precedent that just got set**",
+    "**What the other companies did**",
+    "**What to watch for**",
+    "**What this means for you**",
+    "**Nobody is clean**",
+    "**What I am doing**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 395,
+      "text": "On Friday evening, President Trump ordered every federal agency to imm"
+    },
+    {
+      "line": 93,
+      "offset": 12059,
+      "text": "These are not hypothetical questions. They are Monday morning questions for every organisation that adopted AI tools without thinking about what it means to depend on them."
+    }
+  ]
+}

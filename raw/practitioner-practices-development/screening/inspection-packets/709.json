@@ -1,0 +1,26 @@
+{
+  "id": 709,
+  "title": "OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/kevin-weil/transcript.md",
+  "sha256": "2fc7e798dee98a0bdc3f8e81d32daf07087f2a094c66a613f76b9f7d3b407d21",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 17340,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 880,
+      "text": "The AI models that you're using today is the w"
+    },
+    {
+      "line": 286,
+      "offset": 38068,
+      "text": "I think being first helps, which is one of the reasons why we're so focused on moving quickly. We like being the first to launch new capabil"
+    }
+  ]
+}

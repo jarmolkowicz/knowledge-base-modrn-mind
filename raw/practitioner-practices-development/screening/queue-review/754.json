@@ -1,0 +1,37 @@
+{
+  "queue_position": 336,
+  "id": 754,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/nan-yu/transcript.md",
+  "sha256": "0c586fb542d2ed899635cf48b077ac8ef8c1d498c9781e52c20f1b7ced5fa174",
+  "title": "Linear’s secret to building beloved B2B products | Nan Yu (Head of Product)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L34 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 138,
+      "text": "Nan Yu (00:14:04):"
+    },
+    {
+      "line": 139,
+      "text": "We have a gradually increasing sort of circle of users that use every single feature. So, by the time it hits GA, by the time it gets released, it's been used by a lot of different users up to that point. So, the first circle is just internal users. We use Linear every single day to write software and do our own work, so we have that kind of advantage and then once we feel like it's good enough, we'll put it into some beta customer group, and again, as early as we can in the process. We have to make sure that we don't end up corrupting people's data, and it doesn't look hideous and that kind of stuff, but as long as it reaches that level of quality, we can release it to early access customers who can give us good feedback and also just try to solve their problems with it. If no one engages with it, if no one's using it, then that's a good signal that we didn't really hit the mark, and then we have a couple of different beta audiences that we grow and then the ultimate release obviously is for GA where everyone gets it."
+    },
+    {
+      "line": 540,
+      "text": "Nan Yu (01:09:38):"
+    },
+    {
+      "line": 541,
+      "text": "I think what often happens is people get depressed about deadlines. It's like, \"Hey, here's the ship date,\" and then you never make it. I don't know if you've had this feeling before."
+    },
+    {
+      "line": 645,
+      "text": "Nan Yu (01:20:08):"
+    },
+    {
+      "line": 646,
+      "text": "Yeah, I'm on X/Twitter as the thenanyu. It's T-H-E and then my name, and if they have any feedback about Linear, we're very happy to take it, especially for people who use it in their day-to-day. We really want to hear from users."
+    }
+  ]
+}

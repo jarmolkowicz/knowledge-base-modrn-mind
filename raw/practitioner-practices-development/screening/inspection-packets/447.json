@@ -1,0 +1,34 @@
+{
+  "id": 447,
+  "title": "The Illusion of the Artificial Mind",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/attribution-of-mind-ai.md",
+  "sha256": "1707e9d3174f6a7fd4a27957b7b91612684047a43412554513eaef126f9382f8",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1924,
+  "headings": [
+    "**Step-by-step**",
+    "Teach AI Something It Cannot Know",
+    "**A moment from** [Ellen Burns, PhD](https://open.substack.com/users/155266854-ellen-burns-phd?utm_source=mentions)",
+    "The Slow AI Library",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**From [Fiction as a mirror for students using AI](https://theslowai.substack.com/p/ai-fiction-student-reflection)**",
+    "**Let’s Collaborate**",
+    "Collaborating with Slow AI"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 216,
+      "text": "Users often experience cognitive dissonance when interacting with AI. "
+    },
+    {
+      "line": 78,
+      "offset": 6070,
+      "text": "While I don’t think the AI understands the difference between a ‘feeling’ and an ‘effect’, I do think it matters that AI is programmed to draw this distinction. What this output highlights is the difference bet"
+    }
+  ]
+}

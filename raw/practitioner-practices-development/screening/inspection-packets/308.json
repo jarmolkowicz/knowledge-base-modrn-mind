@@ -1,0 +1,30 @@
+{
+  "id": 308,
+  "title": "Image.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/imagine.md",
+  "sha256": "925eb85aef7636dd35effa985425eded1a5a4f0289ff0691aa8dac678e980e55",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1135,
+  "headings": [
+    "The best artistic AI.",
+    "The best editing AI.",
+    "The best all-rounder AI.",
+    "The best text-in-image AI.",
+    "The best AI to make slides."
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 126,
+      "text": "AI makes images. But only one is right for you."
+    },
+    {
+      "line": 151,
+      "offset": 8241,
+      "text": "I use ChatGPT to generate these carousel images."
+    }
+  ]
+}

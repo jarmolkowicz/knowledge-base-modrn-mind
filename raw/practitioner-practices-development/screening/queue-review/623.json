@@ -1,0 +1,29 @@
+{
+  "queue_position": 243,
+  "id": 623,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/elizabeth-stone/transcript.md",
+  "sha256": "fe6dd4833951ca7648d45ffea78e67c7d38d0e83bacdc4713f8d4c83d644d25b",
+  "title": "How Netflix builds a culture of excellence | Elizabeth Stone (CTO)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 203,
+      "text": "(00:32:20):"
+    },
+    {
+      "line": 204,
+      "text": "The reason the keeper test and that question is useful is because no one wants to think that way. It's very hard to say to someone, \"I think this isn't the right fit. I think you should move on from the company.\" So we have to introduce some of those reflections in order to encourage the behavior. And we also then want to get to a place where when you're having that tough conversation, people aren't surprised by it. That is easier said than done. But you can only get to that conversation around, \"I don't think Netflix and you are the right fit for one another\" if you've been giving feedback along the way. And so it feels like in its most ideal state, it's a mutual observation. In practice, it's not always that smooth. Obviously we are humans. But that all feeds on itself in order to make sure that we're really holding ourselves to what we say our behavioral norms as part of the culture."
+    },
+    {
+      "line": 317,
+      "text": "Elizabeth Stone (00:52:24):"
+    },
+    {
+      "line": 318,
+      "text": "Bur no, we carry too much responsibility, speaking of freedom and responsibility for the member experience to inject pain, though we do do a lot of experiments to test resilience, and that does probably mean injecting things that we're not quite sure whether A is better than B. And so that happens across engineering systems really at scale. But it is not for pure chaos, it's for intentional learning and so we can avoid making bigger mistakes. And then as we go into new efforts like cloud games, we have a beta that's out now, Live would be another example. We do try to come up with intentionally low profile examples where we can test the bounds of our systems in a way that's unlikely to damage the member experience. But that's less randomness, more by design. And so we're doing that in a few places that feels mostly good engineering practice so we can understand when it's really showtime and we're going to really test our systems, will they be able to perform like we want them to."
+    }
+  ]
+}

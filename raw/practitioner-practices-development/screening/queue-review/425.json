@@ -1,0 +1,48 @@
+{
+  "queue_position": 124,
+  "id": 425,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-fiction-student-reflection.md",
+  "sha256": "79a6b8182ff1d109e84fecf9e8353934fbd3010ac0e6832ec1b77a3b138949fa",
+  "title": "Fiction as a Mirror for Students Using AI",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L30 #### **Step-by-step**",
+    "L48 #### Teach AI Something It Cannot Know",
+    "L60 #### **A moment from** [Steve Peha](https://open.substack.com/users/24543784-steve-peha?utm_source=mentions)",
+    "L110 #### **Stop AI from stealing your voice**",
+    "L116 #### **What to do with it**",
+    "L130 #### **Why this matters**",
+    "L154 #### **From [Using AI for Meditation](https://theslowai.substack.com/p/ai-meditation-reflective-prompt)**",
+    "L168 #### **How I Plan a Week of Notes Without Losing Hours**"
+  ],
+  "passages": [
+    {
+      "line": 30,
+      "text": "#### **Step-by-step**"
+    },
+    {
+      "line": 38,
+      "text": "If you are doing this with your students, then introduce the exercise by demonstrating the prompt on a shared screen. Allow students to choose their own figures or provide a curated list relevant to your current curriculum. Require five minutes of silent writing after the AI generates the questions and use these written reflections as the foundation for small group discussions. This structure ensures that students engage with their own thoughts before they are influenced by the opinions of their peers."
+    },
+    {
+      "line": 40,
+      "text": "AI tools train on the data users provide, so try not to include sensitive personal details or identifiable private information in your prompts. You can also use this constraint as a teaching opportunity: discuss with students how data persistence works and why maintaining digital boundaries is necessary, explaining that AI tools are a mirror for their own thoughts rather than a private confidant. This practice develops essential digital literacy alongside the core reflection exercise."
+    },
+    {
+      "line": 154,
+      "text": "#### **From Using AI for Meditation**"
+    },
+    {
+      "line": 158,
+      "text": "**Mark S, PhD** argued that using AI for meditation constitutes a pre-meditative practice rather than a substitute for the direct observation of the mindstream. He noted that true meditation requires sitting with thoughts free from any outside foci. In his view, the mind is the only tool required to observe itself. He suggested that external digital aids are symptoms of a restless mind and should be discarded once a practitioner can tolerate boredom and discomfort."
+    },
+    {
+      "line": 168,
+      "text": "#### **How I Plan a Week of Notes Without Losing Hours**"
+    },
+    {
+      "line": 180,
+      "text": "If you try this week’s prompt, **Steve Peha a**nd I would love to hear which fictional characters you and your students chose and why."
+    }
+  ]
+}

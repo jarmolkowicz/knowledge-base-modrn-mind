@@ -1,0 +1,26 @@
+{
+  "id": 299,
+  "group_index": 16,
+  "decision": "retain_counterexample_only",
+  "coverage": "Read the complete available local article body; linked images, videos and external claims not independently inspected.",
+  "locators": [
+    "L135–236, L268–298; whole available body"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Six proposed workflows and disclosure that AI wrote half the post."
+  ],
+  "proposed_outcomes": [
+    "Become smarter while using AI."
+  ],
+  "limits": [
+    "The cited studies do not directly test these workflows. Generated reasoning is not guaranteed access to internal computation; scores and guessed prompts do not verify learning or intent. Human-first variants overlap better-bounded sources elsewhere."
+  ],
+  "related_entries": [],
+  "practice_files": [],
+  "role": "counterexample",
+  "review_note": "Mixes draft-first and retrieval ideas with iterate-until-AI-score-8, purported private-reasoning access and reverse-prompt guessing.",
+  "author": "Ruben Hassid",
+  "integration_decision": "pending",
+  "draft_only": true
+}

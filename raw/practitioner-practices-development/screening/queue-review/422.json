@@ -1,0 +1,77 @@
+{
+  "queue_position": 121,
+  "id": 422,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-dunning-kruger-illusion-mastery.md",
+  "sha256": "6680a262da0ea44655d1f867d7fe76eaf5d41db103d468ae5ebcb0a645a3ec1d",
+  "title": "You Did Not Learn That With AI",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L19 ### **In this post I will:**",
+    "L31 ### **The study that measured the gap**",
+    "L49 ### **Why everyone will call this Dunning-Kruger, and why that is only half right**",
+    "L61 ### **What the tool does to you**",
+    "L79 ### **The fix is cheap, and it has nothing to do with detectors**",
+    "L89 ### **The trial that shows what to do**",
+    "L101 ### **What you ask decides what you get**",
+    "L111 ### **The protocol**",
+    "L115 #### **One: write your diagnosis before the model writes its own**",
+    "L127 #### **Two: ask the broad question, not the narrow one**",
+    "L133 #### **Three: close the laptop and reproduce it**",
+    "L139 #### **Four: notice who this costs most**",
+    "L149 #### **What this is really about**"
+  ],
+  "passages": [
+    {
+      "line": 89,
+      "text": "### **The trial that shows what to do**"
+    },
+    {
+      "line": 93,
+      "text": "There were four conditions that were tested: peer feedback only, AI feedback delivered straight away, AI feedback given only after the student had assessed their own draft against the criteria, and a hybrid adding peer comment and a memo explaining what they accepted and rejected."
+    },
+    {
+      "line": 95,
+      "text": "On the draft in front of them, the AI helped everyone. Then students sat a supervised task with no AI and no internet. There, the conditions where students judged their own work first came out ahead of the condition where the AI spoke first."
+    },
+    {
+      "line": 115,
+      "text": "#### **One: write your diagnosis before the model writes its own**"
+    },
+    {
+      "line": 117,
+      "text": "Open a blank page before you open the tool, and write down the two weakest parts of your work, and why."
+    },
+    {
+      "line": 123,
+      "text": "`Before you give me any feedback, ask me three questions about what I was trying to do. Then stop and wait. I will tell you what I think the two weakest parts are. Only after that, give me your critique, and tell me specifically where you disagree with my own diagnosis.`"
+    },
+    {
+      "line": 127,
+      "text": "#### **Two: ask the broad question, not the narrow one**"
+    },
+    {
+      "line": 131,
+      "text": "`I am about to ask you a how-to question. Before you answer it, tell me what conceptual question I should be asking instead, and why the version I was going to ask would leave a gap in my understanding.`"
+    },
+    {
+      "line": 133,
+      "text": "#### **Three: close the laptop and reproduce it**"
+    },
+    {
+      "line": 135,
+      "text": "Shut the window. Write, from memory, the argument you have just been helped with. Not a summary. The reasoning, including the step you found hardest."
+    },
+    {
+      "line": 139,
+      "text": "#### **Four: notice who this costs most**"
+    },
+    {
+      "line": 141,
+      "text": "The students most harmed by unfiltered AI critique were those with the least feedback literacy to begin with."
+    },
+    {
+      "line": 143,
+      "text": "If you teach, that changes where you spend your effort. The students who need the scaffold are the least likely to ask for it, because asking requires the judgement the scaffold is meant to build."
+    }
+  ]
+}

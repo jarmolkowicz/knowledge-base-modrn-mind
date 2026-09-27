@@ -1,0 +1,33 @@
+{
+  "id": 298,
+  "title": "Happy New AI Year.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/happy-new-ai-year.md",
+  "sha256": "9cefb51403ecd0e9550dc3f378057caa6fe24f576486024374ca3705bf501cb6",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1604,
+  "headings": [
+    "**1. Your ChatGPT isn’t the same.**",
+    "**2. The speed no one is showing you.**",
+    "Archive: *https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing.*",
+    "**3. So how to best prepare 2026?**",
+    "**A. Stop trying to prompt.**",
+    "**B. Stop expecting an entire video from AI.**",
+    "**C. Stop expecting an AI to never be able to write like you.**",
+    "**4. My 2026 vision board to master AI.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 14,
+      "offset": 189,
+      "text": "Technically it’s the year the apes takes over in the movie Planet of the "
+    },
+    {
+      "line": 114,
+      "offset": 4284,
+      "text": "☑ **Thinking.** ChatGPT thinks (by talking to itself) before answering. On hard math problems, this alone improved accuracy from 13% to 83%. A 6x jump."
+    }
+  ]
+}

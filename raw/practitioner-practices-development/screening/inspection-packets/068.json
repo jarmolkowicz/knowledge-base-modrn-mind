@@ -1,0 +1,29 @@
+{
+  "id": 68,
+  "title": "An Opinionated Guide to Using AI Right Now",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/an-opinionated-guide-to-using-ai.md",
+  "sha256": "c359bb61632a36a316ea630fd4e0a01c0a7485b085a1aadc3c429730177f402d",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2779,
+  "headings": [
+    "Picking the model",
+    "**Getting better answers**",
+    "**Multimodal inputs**",
+    "**Making Things for You: Images, Video, Code, and Documents**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 236,
+      "text": "Every few months I write an opinionated guide to how to use AI1, but now I write it in a world where"
+    },
+    {
+      "line": 88,
+      "offset": 18656,
+      "text": "- **Experiment and have fun:** Play is often a good way to learn what AI can do. Ask a video or image model to make a cartoon, ask an advanced AI to turn your report or writing into a game, do a deep research report on a topic that you are excited about, ask the AI to guess where you are from a pict"
+    }
+  ]
+}

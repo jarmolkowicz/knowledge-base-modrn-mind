@@ -1,0 +1,45 @@
+{
+  "queue_position": 369,
+  "id": 795,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/sander-schulhoff/transcript.md",
+  "sha256": "d087bab893e827a716f15d7f421f8c263d5539f5f1a43dfe79c985efe0e4b2cc",
+  "title": "AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 47,
+      "text": "Sander Schulhoff (00:00:18):"
+    },
+    {
+      "line": 48,
+      "text": "A set of techniques that we call self-criticism. You ask the LLM, \"Can you go and check your response?\" It outputs something, you get it to criticize itself and then to improve itself."
+    },
+    {
+      "line": 197,
+      "text": "Sander Schulhoff (00:15:45):"
+    },
+    {
+      "line": 198,
+      "text": "Sure, the usual way I format things is I'll start with some data set of inputs and outputs. And it might be ratings for a pizza shop and some binary classification of like, is this a positive sentiment, is this a negative sentiment? And so this is going back more to classical NLP, but I'll structure my prompt as, Q, colon, and then I'll paste the review in, and then, A, colon, and I'll put the label. And I'll put a couple lines of those. And then on the final line I'll say, \"Q, colon,\" and I'll input the one that I want to, the LLM to actually label, the one that it's never seen before. And Q and A stand for question and answer, and of course in this case, there are no questions that I'm asking it explicitly."
+    },
+    {
+      "line": 590,
+      "text": "Sander Schulhoff (00:53:49):"
+    },
+    {
+      "line": 591,
+      "text": "Yeah. So back a couple of years ago, I ran the first AI red teaming competition ever to the best of my knowledge. And it was, I don't know, a month or a couple months after prompt injection was first discovered."
+    },
+    {
+      "line": 791,
+      "text": "Sander Schulhoff (01:11:05):"
+    },
+    {
+      "line": 792,
+      "text": "So, the next step for defending is using some kind of AI guardrail. So you go out and you find or make, I mean, there's thousands of options out there. An AI that looks at the user input and says, \"Is this malicious or not?\""
+    }
+  ]
+}

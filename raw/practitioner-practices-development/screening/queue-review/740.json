@@ -1,0 +1,29 @@
+{
+  "queue_position": 325,
+  "id": 740,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/megan-cook/transcript.md",
+  "sha256": "bd25a1c9d35c1e39b928440b1bae17fb477a80c47d55bbb61a5740f69d4b4dd8",
+  "title": "Lessons from Atlassian | Megan Cook (Head of Product, Jira)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 284,
+      "text": "Megan Cook (00:32:16):"
+    },
+    {
+      "line": 285,
+      "text": "The other thing I would say is that setting up the meeting when you finally get there can be really important as well. I often see people go in there and they've got a big document or a presentation or something and they just launch into it. They're really excited. But actually you want to take a step back and you want to be really clear on what are you looking for from that group. You can ask for the decision, you can ask for feedback, you can ask for... You can expose where you're not quite sure about something and you want them to be thinking about that angle in particular and helping test that hypothesis with what they know. And so setting that early, you can put that in people's heads as they read through your document or listen to the rest of the proposal."
+    },
+    {
+      "line": 500,
+      "text": "(01:01:31):"
+    },
+    {
+      "line": 501,
+      "text": "Like I said before, innovation can come from anywhere. So anyone can pitch new ideas or products. And when we see new technologies emerging that we think are going to be really foundational and interesting, we'll carve off a team to go and look at that. So I think we've had an AI team central to Atlassian for a long time, but with the advent of ChatGPT, there's sort of this huge move forward. There's this leak that's happening. And so in my team, I just carved off a small team to go and explore that and see what interesting things that we could do there."
+    }
+  ]
+}

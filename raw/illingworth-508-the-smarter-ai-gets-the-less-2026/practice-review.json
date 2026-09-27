@@ -1,0 +1,37 @@
+{
+  "id": 508,
+  "group_index": 6,
+  "decision": "merge",
+  "coverage": "Full available extracted article, L1–143. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L95–103: fresh repetitions and reasoning-mode comparison",
+    "L113–119: different-tool check and unverified-content disclosure",
+    "L129: five-run exercise"
+  ],
+  "basis": "Proposed routines described as personally used, attached to a secondary research summary.",
+  "reported_outcomes": [],
+  "proposed_outcomes": [
+    "Notice inconsistency and distinguish checked from unchecked content."
+  ],
+  "limits": [
+    "Two or five runs cannot establish a general variance/bias decomposition.",
+    "Same outputs do not prove reasoning mode is noise.",
+    "Different models are not independent verification; randomness does not make auditing impossible.",
+    "Underlying paper not independently checked."
+  ],
+  "related_entries": [
+    "reference-verification",
+    "automation-bias"
+  ],
+  "practice_files": [
+    "raw/mollick-075-giving-your-ai-a-job-interview-2025/drafts/practices/test-ai-on-the-work-it-will-do.md"
+  ],
+  "role": "support",
+  "review_note": "Keep repetitions inside task testing; remove stronger reliability and mechanism claims.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/test-ai-on-the-work-it-will-do.md"
+  ],
+  "historical_drafts_retained": true
+}

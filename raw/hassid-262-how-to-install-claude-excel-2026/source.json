@@ -1,0 +1,31 @@
+{
+  "slug": "hassid-262-how-to-install-claude-excel-2026",
+  "original_filename": "ai-couldnt-do-excel.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 1521,
+  "hash": "b3e75f3ac2bf40613dde7c1aa44336fb90e313020a76511ee136d6a964548e5e",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "critiqued",
+  "ingested_at": "2026-09-26T20:59:42Z",
+  "decisions": [
+    {
+      "stage": "practice-close-reading",
+      "outcome": "defer",
+      "at": "2026-09-26",
+      "scope": "draft-only; integration pending"
+    }
+  ],
+  "lines": 247,
+  "screening_id": 262,
+  "collected_from": "raw/inbox/Practical/Ruben Hassid/ai-couldnt-do-excel.md",
+  "bibliographic_metadata": {
+    "title": "How to install Claude Excel.",
+    "date": "2026-01-28",
+    "url": "https://ruben.substack.com/p/ai-couldnt-do-excel",
+    "collection": "Ruben Hassid"
+  },
+  "draft_only": true,
+  "integration_decision": "pending"
+}

@@ -1,0 +1,29 @@
+{
+  "queue_position": 305,
+  "id": 710,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/kevin-yien/transcript.md",
+  "sha256": "6d1b19ed1814c6f152a69244221657afb8ae69e777af44fce90ccf872e08cb56",
+  "title": "Unorthodox PM tips: Automating user insights, unselling candidates, decision logs, more | Kevin Yien",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 402,
+      "text": "(00:41:16):"
+    },
+    {
+      "line": 403,
+      "text": "I think decision logs are the lightest weight thing possible. And so you can start super easy by saying, \"You know what? Every Sunday morning I'm going to scroll through Twitter, I'm going to check out Hacker News, whatever it is, I'm going to see something interesting and I'm going to make a bet. I'm going to place my decision on this thing.\" Write it down, and then set a calendar invite in X weeks, X months to see what plays out. And that's all it is, right? 10 minutes once a week, super easy. And then over time you can crank it up. And then eventually you're just constantly writing these decisions down and then it's like feeding its way back into you. It becomes second nature."
+    },
+    {
+      "line": 579,
+      "text": "(01:04:06):"
+    },
+    {
+      "line": 580,
+      "text": "\"Yeah, I guess you did.\" And the thing that I got hung up on was that she used the word draw. She didn't say, \"Oh, I enter a prompt and the LLM produced this thing,\" or whatever weird terminology that all of us use. It's like, \"Did I draw that?\" I don't know when it clicked for me, but at some point in time after that I was like, \"The concept of these image generation models is the same as a crayon to her. There is no difference in her mind.\" And that is an insane change that I can't even comprehend. And so for me that's just been I think an experience that I go back to when I think about people asking, \"What do you think AI is going to do and what's the next thing? And is it chat or is it something else?\" I cannot comprehend what a child who grew up with a crayon of an LLM is going to think is a good product in 20 years. I need to start crying. But goddammit, I have no freaking clue."
+    }
+  ]
+}

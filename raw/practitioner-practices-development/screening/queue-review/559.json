@@ -1,0 +1,37 @@
+{
+  "queue_position": 201,
+  "id": 559,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/asha-sharma/transcript.md",
+  "sha256": "cca22d13aa2ef5d5671e1e8fcc0e5906e6ea7a125c597133ec8c417485c4a36f",
+  "title": "How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 37,
+      "text": "## Transcript"
+    },
+    {
+      "line": 85,
+      "text": "It's been a pretty interesting shift, especially over the last year or so because when I got to Microsoft, it was right after OpenAI and the large foundation models happened, and then immediately after there was this explosion of models, proprietary open frontier models that were pushing the frontier curve and so they were both more efficient and then we're starting to see domain level expertise in a bunch of them and then even more recently, models now can tool call and they can function call and they can take action, and I think that's just giving way to a new type of products that are starting to see some success."
+    },
+    {
+      "line": 193,
+      "text": "I think the question we have to ask ourselves is will it only always be chat?"
+    },
+    {
+      "line": 244,
+      "text": "We use use Spark to create prototypes so everybody on the team is expected to code, but sometimes just chatting in and talking in real words actually gets you to a prototype that's more interesting and more expressive and reflective of your creativity. So we use that. I think everybody's using AI to write. Everybody is using AI to find ways to have efficiencies and coming up with documentation and things like that, and so I think it's everywhere, which is cool. I think that we're just scratching the surface though for what's possible in terms of working with agents."
+    },
+    {
+      "line": 457,
+      "text": "And then it'll come back on I imagine in one second. Okay. First question, what are two or three books you find yourself recommending most to other people?"
+    },
+    {
+      "line": 508,
+      "text": "Speaking of skills, the internet tells me that you're a second degree black belt in Taekwondo. Why? Oh gosh. Is this true? And then I have a question about it."
+    }
+  ]
+}

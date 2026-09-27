@@ -1,0 +1,26 @@
+{
+  "id": 750,
+  "title": "Anthropic's CPO on what comes next | Mike Krieger (co-founder of Instagram)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/mike-krieger/transcript.md",
+  "sha256": "045e133cde345946c8bb6345d60335e208f1d21f382ddcce73bac3d60eeb4857",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13949,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 830,
+      "text": "90% of your code roughly is written by AI n"
+    },
+    {
+      "line": 93,
+      "offset": 6710,
+      "text": "Two things. One is like a pace and timeline question. The other one is a capability question. So maybe I'll take the second one fi"
+    }
+  ]
+}

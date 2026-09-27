@@ -1,0 +1,30 @@
+{
+  "id": 472,
+  "title": "Slow Takes Ep. 27: Marking Their Own Homework",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/openai-navier-stokes-anthropic-slowdown.md",
+  "sha256": "d9ddfb1261c8794d87b1da35aaf5e09d421b899e9581202cfa8029c8bdd93c4e",
+  "access": "public-page",
+  "kind": "article",
+  "words": 822,
+  "headings": [
+    "**1. OpenAI says it solved Navier-Stokes**",
+    "**2. Anthropic’s report card, and a call to slow down**",
+    "**3. 40,200 jobs, or 10,400**",
+    "**4. Alpha School’s heart-rate test**",
+    "**5. A camera in your toothbrush**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 433,
+      "text": "Every story this week is a claim made by the people who gain from "
+    },
+    {
+      "line": 33,
+      "offset": 2391,
+      "text": "Anthropic has published Detecting and countering misuse of AI: September 2026, covering December 2025 to August 2026. It includes five cases of people using Claude in ways that could support biologica"
+    }
+  ]
+}

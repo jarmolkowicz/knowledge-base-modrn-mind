@@ -1,0 +1,51 @@
+{
+  "slug": "illingworth-479-run-your-own-ai-on-a-2026",
+  "original_filename": "run-ai-locally-old-laptop.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 2950,
+  "hash": "ad9edf49a7e5898b871ec5b559b928fbaff28b6791e1f90c460bd4022431e519",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:44Z",
+  "decisions": [
+    {
+      "stage": "practice_review",
+      "date": "2026-09-26",
+      "decision": "merge",
+      "scope": "draft_only",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/illingworth-479-run-your-own-ai-on-a-2026.md",
+      "practices": [
+        "practices/test-ai-on-the-work-it-will-do.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 281,
+  "screening_id": 479,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/run-ai-locally-old-laptop.md",
+  "bibliographic_metadata": {
+    "title": "Run Your Own AI on a Laptop You Already Own",
+    "date": "2026-04-10",
+    "url": "https://theslowai.substack.com/p/run-ai-locally-old-laptop",
+    "collection": "Sam Illingworth"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

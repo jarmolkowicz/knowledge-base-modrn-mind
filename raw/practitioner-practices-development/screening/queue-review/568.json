@@ -1,0 +1,37 @@
+{
+  "queue_position": 206,
+  "id": 568,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/bill-carr/transcript.md",
+  "sha256": "3b3073ef1b2241b05871f645e892ad84a1f7f204a1a5c9a64b5940ce5c8bbb90",
+  "title": "Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 257,
+      "text": "(00:43:50):"
+    },
+    {
+      "line": 258,
+      "text": "So I work to have them first implement this PR/FAQ process is the first step. Then the next step really is to go from there to say, \"Okay, writing PR/FAQs is one thing. Well, how do I actually use them? How do we actually develop them?\" Because there's this iterative nature to writing PR/FAQs where it's sort of a concentric circle review. You start off small with one author and with low fidelity writing these things, and then you start to share them with a small group and get feedback and improve it, a wider group, get feedback and improve it, and onward and onward until, depending on the size and scale of your company, you get up to the CEO as a way to strengthen, improve and really codify this idea and determine whether it's a great idea or not. So I help them understand how does that work? How do you do this iterative process? Then once you've done that, then what do I do with these PR/FAQs once I've got them? How do I then think about that with respect to my roadmap?"
+    },
+    {
+      "line": 296,
+      "text": "Bill Carr (00:48:05):"
+    },
+    {
+      "line": 297,
+      "text": "Yes and no. So first of all, there are some things where you may write it and you, the author, if we were in the old world, would take the piece of paper, crumple up and throw in the trash can, which is, in your own, you've realized, \"Now that I put this down on paper and read it, this is not actually that good of an idea. I'm going to try something else.\" By the same token, you may then have written one you think is a pretty good idea, and you show up here or your manager and they give you feedback that makes you want to then ball it up and throw it into the trash can."
+    },
+    {
+      "line": 524,
+      "text": "Bill Carr (01:27:52):"
+    },
+    {
+      "line": 525,
+      "text": "I had not actually heard of it either."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 617,
+  "title": "How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/eeke-de-milliano/transcript.md",
+  "sha256": "abcf4815aca95fdc9509022a6b88566248a66bdf3fe818830e62f8536e977186",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13245,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 828,
+      "text": "Process, by definition, is variance reducing. You're "
+    },
+    {
+      "line": 115,
+      "offset": 10666,
+      "text": "But it was also really cool from a product perspective, because of all the kind of complicated product questions around how humans should interact with AI and m"
+    }
+  ]
+}

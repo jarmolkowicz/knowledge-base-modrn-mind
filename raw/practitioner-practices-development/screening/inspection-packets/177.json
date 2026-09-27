@@ -1,0 +1,24 @@
+{
+  "id": 177,
+  "title": "I built in 10 minutes what takes a Goldman analyst a day",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/general-intelligence-just-moved-into.md",
+  "sha256": "663c0f8f460b92b73f24e23ca06a8219c922bd7f56700e030b312c171b5825be",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 515,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 265,
+      "text": "I built a full operating model last week. Revenue projections, cost structure, unit ec"
+    },
+    {
+      "line": 14,
+      "offset": 1074,
+      "text": "This is the piece of this week’s AI news that I think most people will sleep on, because it doesn’t have the drama of a benchmark war or the spectacle of sixteen agents building a C compiler. It’s just Excel. And PowerPoint. The tools nobody thinks about twice"
+    }
+  ]
+}

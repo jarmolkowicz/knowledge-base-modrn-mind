@@ -1,0 +1,24 @@
+{
+  "id": 74,
+  "title": "Confronting Impossible Futures",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/confronting-impossible-futures.md",
+  "sha256": "74a7fb38fe90946c9073942d648716a8d76dad6bdf918cbecaa497b2c5a2fabd",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2515,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 210,
+      "text": "I speak to a lot of people in industry, academia, and government, and I have noticed a strange blind"
+    },
+    {
+      "line": 28,
+      "offset": 5097,
+      "text": "What you should take away from this is not a sense of certainty about what might happen in the future. In fact, you should have high levels of uncertainty. AGI (however you define it) may be possible or impossible, it may come quickly or in a couple decades. **You don’t need to know what happens nex"
+    }
+  ]
+}

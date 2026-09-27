@@ -1,0 +1,28 @@
+{
+  "id": 371,
+  "title": "'Cancel ChatGPT' After OpenAI Signs Pentagon Deal",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/cancel-chatgpt-after-openai-signs-pentagon-deal.md",
+  "sha256": "b56f217cf8f45d6b622e89255be32db1844a074372c5a3b2ad6276bb9827dd3e",
+  "access": "public-page",
+  "kind": "article",
+  "words": 294,
+  "headings": [
+    "Why is Everyone Canceling ChatGPT?",
+    "How To Cancel ChatGPT and Switch to Claude",
+    "**P.S. Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 445,
+      "text": "'Cancel ChatGPT' mass viral trend goes mainstream after OpenAI signs t"
+    },
+    {
+      "line": 33,
+      "offset": 1185,
+      "text": "Step-by-step tutorial to migrate from ChatGPT and to Claude."
+    }
+  ]
+}

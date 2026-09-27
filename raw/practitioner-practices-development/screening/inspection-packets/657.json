@@ -1,0 +1,26 @@
+{
+  "id": 657,
+  "title": "The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/hila-qu/transcript.md",
+  "sha256": "fb5c1525ddd64db7e57a24a09994d2cebcef61d024d35f4ce4e9504152ccf78e",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15806,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 801,
+      "text": "... [inaudible 00:00:01]. Always say is actual"
+    },
+    {
+      "line": 363,
+      "offset": 54530,
+      "text": "Before GitLab, I worked at Acorns. We started as an investment app, and the whole thing is passive investment, passive investing. You bought"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 744,
+  "title": "The ultimate guide to product operations | Melissa Perri and Denise Tilles",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/melissa-perri-denise-tilles/transcript.md",
+  "sha256": "bcdd4e2cc4ab734089ef4eac543658ef63d55da78dafa20d2a75514a441fca12",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15816,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 830,
+      "text": "Do you want to hire 10,000 product managers"
+    },
+    {
+      "line": 252,
+      "offset": 39301,
+      "text": "I think for product managers, you still need to be super comfortable with data. If you can't read these charts, if you can't see o"
+    }
+  ]
+}

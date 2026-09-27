@@ -1,0 +1,33 @@
+{
+  "queue_position": 215,
+  "id": 579,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/cam-adams/transcript.md",
+  "sha256": "0963490f1b7adddea43c2ba463cfba0ecebd3dcdc19af9d291db877bb286cc42",
+  "title": "Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 35,
+      "text": "# Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams"
+    },
+    {
+      "line": 288,
+      "text": "Cameron Adams (00:43:22):"
+    },
+    {
+      "line": 289,
+      "text": "The current one isn't similar. We have constantly gone back to it because it performs really well. We do actually apply the same approach of little steps building up into bigger accomplishments, and that's actually rolled out through our last round of launches for the last couple of years through something we call learn and play. So with every launch that we do now, we think about how to teach people about that feature and how to get them really involved in it. We have a whole series of learn and plays where when we launch AI photo editing, they can try it out right then and there. They've got some great content that they can immediately operate on, and it's a super simple step for them to type in a prompt and see the result of that."
+    },
+    {
+      "line": 369,
+      "text": "(00:56:04):"
+    },
+    {
+      "line": 370,
+      "text": "We've had a team of machine learning engineers for probably seven years now. I think their work has become a lot more visual now and more customer facing way back when they were just doing recommendation engines inside our emails and our homepage and suggesting templates to you. But now they get to work with some really cool technology, which lets them produce images for people and create designs and summarize text and translate to a hundred different languages like it's really stuff that you can put directly in front of customers now, and that's super exciting. And over the last couple of years, we've built up more and more visual AI experts inside Canva, and we approach AI inside the product through three pillars."
+    }
+  ]
+}

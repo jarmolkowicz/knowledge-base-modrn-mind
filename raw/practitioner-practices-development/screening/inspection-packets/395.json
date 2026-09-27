@@ -1,0 +1,28 @@
+{
+  "id": 395,
+  "title": "The Psychology of Making Money",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/psychology-of-making-money-chatgpt-prompts.md",
+  "sha256": "e1ccaf93a3e7349e17c3110aa42dbe4a1fe3d07e68dbac6197c193b4a6b5ac48",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 194,
+  "headings": [
+    "ATTENTION BUSINESS OWNERS:",
+    "Enter $500 Gift Card Raffle!",
+    "**P.S. Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 14,
+      "offset": 285,
+      "text": "In this video, I share the most common limiting beliefs around success"
+    },
+    {
+      "line": 16,
+      "offset": 375,
+      "text": "Then I walk through a few ChatGPT prompts to help you evaluate your own limiting beliefs and break through."
+    }
+  ]
+}

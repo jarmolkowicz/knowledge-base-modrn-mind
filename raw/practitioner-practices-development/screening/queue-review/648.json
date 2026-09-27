@@ -1,0 +1,37 @@
+{
+  "queue_position": 259,
+  "id": 648,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/grant-lee/transcript.md",
+  "sha256": "f49b611ae4479a36bba4a63722fda3e0535498866f68499defa4c2bc572df4a0",
+  "title": "“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee (co-founder)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 126,
+      "text": "(00:11:48):"
+    },
+    {
+      "line": 127,
+      "text": "We spent the next three, four months actually revamping the entire onboarding experience. And of course, this is also where AI for us kind of played a big role. We actually rebuilt it so that AI was part of the actual onboarding. So every single new user would experience this sort of magic in the first 30 seconds. And so we relaunched, this is end of March 2023. And all of a sudden, we'd go from a few hundred signups a day to now first day it was like a couple thousand, and then the next day would be like 5,000 signups, and then 10,000 signups a day, and then 20,000 signups a day."
+    },
+    {
+      "line": 207,
+      "text": "Grant Lee (00:23:10):"
+    },
+    {
+      "line": 208,
+      "text": "Our first 100 looks very different, I'd say. So this was even pre this sort of AI launch we had. The first 100 users for a product like ours, you're trying to convince all your friends to use the product. Anybody that's ever made a slide deck, you're trying to talk to. And I think early on, your friends want to do you a favor, so they're going to try the product. They're also going to lie to you. They're going to tell you how great it is. And then you look at the usage and nobody's coming back."
+    },
+    {
+      "line": 210,
+      "text": "(00:23:33):"
+    },
+    {
+      "line": 211,
+      "text": "And so I think our first 100 was sort of gradually hard-earned post the product launch, people learning like, okay, this is kind of becoming a little bit more useful. Usage was still pretty episodic, so they weren't coming back every week. And then I do think the moment post the AI launch is where all of a sudden we saw that sort of organic growth happening, people coming back to the product regularly. And so that's where, it wasn't even the first hundred, it was like probably the first 10,000 users all came within a pretty short time period after that initial launch."
+    }
+  ]
+}

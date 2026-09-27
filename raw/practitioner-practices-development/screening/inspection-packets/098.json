@@ -1,0 +1,26 @@
+{
+  "id": 98,
+  "title": "The Present Future",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/the-present-future-ais-impact-long.md",
+  "sha256": "37b38d59ccc9c7b7ce41819cef6b8285f4d4748fd7941c7855dee72f15ac09fd",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1291,
+  "headings": [
+    "Getting Weirder"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 190,
+      "text": "The AI Labs are absolutely confident that larger, more powerful AI models are coming soon, ones that"
+    },
+    {
+      "line": 36,
+      "offset": 5603,
+      "text": "The digital world in which most knowledge work is done involves using a computer—navigating websites, filling forms, and completing transactions. Modern AI systems can now perform these same tasks, effectively automating what was previously human-only work. This capability extends beyond simple auto"
+    }
+  ]
+}

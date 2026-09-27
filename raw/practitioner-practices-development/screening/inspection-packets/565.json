@@ -1,0 +1,26 @@
+{
+  "id": 565,
+  "title": "How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ben-williams/transcript.md",
+  "sha256": "a403b41b66e3dd3f568cde68b45ea87573037638a38ffc7eb1ceef27ae3ac79a",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 16932,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 843,
+      "text": "Being able to identify the various micro and macro lo"
+    },
+    {
+      "line": 124,
+      "offset": 21949,
+      "text": "Yeah, for sure. First, I think if we're talking about PLG and the story with Snyk, I actually like that definition of product-led acquisition from Julian Shapir"
+    }
+  ]
+}

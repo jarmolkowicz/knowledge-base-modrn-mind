@@ -1,0 +1,26 @@
+{
+  "id": 57,
+  "title": "Who Asked For This?",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/who-asked-for-this.md",
+  "sha256": "2ed40348bc55895544e58c1791b878b71d1903bb40b95114cdf83be1aa0e20ba",
+  "access": "public-page",
+  "kind": "article",
+  "words": 745,
+  "headings": [
+    "**AI Is Destroying the Job Market. Also, AI Is Saving the Job Market**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 347,
+      "text": "Last week, Elizabeth Lopatto published an insightful article in *The Verge*. It boasted an intriguing title: ​“Silicon V"
+    },
+    {
+      "line": 31,
+      "offset": 2563,
+      "text": "Generative AI has no shortage of ways that it might, with care, be shaped into genuinely useful products, but this shaping needs to actually happen before the hyper-scalers earn the right to continually harass the psyche of billions of people with breathless pronouncements. Most people don’t care that GPT 5.5, released late last week, underperformed Opus 4.7"
+    }
+  ]
+}

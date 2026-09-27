@@ -1,0 +1,29 @@
+{
+  "queue_position": 375,
+  "id": 802,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/shaun-clowes/transcript.md",
+  "sha256": "e10d19fe32fe41883fbef49f91ecd8f89e1aebfff1a396cb0eeb498c5b240a6c",
+  "title": "Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 134,
+      "text": "(00:15:40):"
+    },
+    {
+      "line": 135,
+      "text": "It's all about the not, not where it does, where it does not. People spend far too much time looking for what they're hoping to see, not for what they're not looking to see. So you can literally ask ChatGPT to help you find where the customer is probing at the edges of what you're trying to do, where it's wrong, where what you're saying is not what they believe. And you can ask it questions like that. You can ask it what your customers are saying would better fit what your competitors are saying. So you can basically say, you can copy and paste one of your competitor's positioning documents into ChatGPT and say, \"Is this a better fit for what they have said than my thing?\" Which is you can summarize your own strategy, you can take your competitors but public documents and you can ask it to summarize what their strategy probably is."
+    },
+    {
+      "line": 167,
+      "text": "(00:23:21):"
+    },
+    {
+      "line": 168,
+      "text": "And so it's a data management problem. It's getting access to good data, getting access to high quality data, getting access to timely data and getting it to the LLM to get the LLM to make a smart decision. That's where 90% of the calories go. Maybe it's a bit like Einstein's thing, \"It's 10% inspiration, 90% perspiration.\" Nobody wants to hear it. Everybody wants to just think about what these really cool models and how smart they are, and the next one will be even smarter. But really it's just the hard work of getting really good data to the LLMs to get them to do good things."
+    }
+  ]
+}

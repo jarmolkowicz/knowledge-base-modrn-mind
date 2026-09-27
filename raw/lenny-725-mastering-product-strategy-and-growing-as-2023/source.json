@@ -1,0 +1,45 @@
+{
+  "slug": "lenny-725-mastering-product-strategy-and-growing-as-2023",
+  "original_filename": "transcript.md",
+  "format": "md",
+  "source_type": "transcript",
+  "word_count": 18490,
+  "hash": "78ff7afcc2dda26408ddd931c687e5828f9442dfec0c7a6845477c858c656ebb",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:47Z",
+  "decisions": [
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/lenny-725-mastering-product-strategy-and-growing-as-2023.md",
+      "practices": [
+        "practices/outline-the-argument-before-slides.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 696,
+  "screening_id": 725,
+  "collected_from": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/maggie-crowley/transcript.md",
+  "bibliographic_metadata": {
+    "title": "Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)",
+    "date": "2023-11-05",
+    "url": "https://www.youtube.com/watch?v=4LjddcccYIo",
+    "collection": "Lenny's Podcast"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "practice_review": "practice-review.json"
+}

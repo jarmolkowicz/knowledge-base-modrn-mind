@@ -1,0 +1,39 @@
+{
+  "id": 537,
+  "group_index": 7,
+  "decision": "retain",
+  "coverage": "Read complete exchanges L125–225 (00:05:14–00:25:06) and L310–388 (00:41:20–00:58:08); other topics excluded.",
+  "locators": [
+    "L170–185: suggestions, drafts and actions",
+    "L347–350: support agent shut down after repeated fixes",
+    "L353–380: bounded versions and feedback"
+  ],
+  "basis": "Practitioner interview with deployment experience and staged-process proposal.",
+  "reported_outcomes": [
+    "Speakers report stopping a support agent after patching became burdensome; no controlled success rate."
+  ],
+  "proposed_outcomes": [
+    "Expand responsibility after bounded use and error review."
+  ],
+  "limits": [
+    "Few edits can mean rubber-stamping.",
+    "Maximum autonomy need not be the goal.",
+    "Clinical example not evaluated and excluded."
+  ],
+  "related_entries": [
+    "partial-automation-principle",
+    "bainbridge-ironies-automation-1983",
+    "automation-bias"
+  ],
+  "practice_files": [
+    "raw/lenny-537-why-most-ai-products-fail-lessons-2026/drafts/practices/expand-agent-authority-one-tested-step-at-a-time.md"
+  ],
+  "role": "origin",
+  "review_note": "Retain staged authority, including remaining partial or rolling back.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/expand-agent-authority-one-tested-step-at-a-time.md"
+  ],
+  "historical_drafts_retained": true
+}

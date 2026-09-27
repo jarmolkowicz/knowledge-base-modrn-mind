@@ -1,0 +1,31 @@
+{
+  "queue_position": 41,
+  "id": 99,
+  "path": "raw/inbox/Practical/Ethan Mollick/the-shape-of-ai-jaggedness-bottlenecks.md",
+  "sha256": "b2c2c27c839a7095979636bc7875d94f6c412e9c9e4dde8c65b11ab767839c12",
+  "title": "The Shape of AI: Jaggedness, Bottlenecks and Salients",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 16,
+      "text": "While the future is always uncertain, I think this conception misses out on a few critical aspects about the nature of work and technology. First, the frontier is very jagged indeed, and it might be that, because of this jaggedness, we get supersmart AIs which never quite fully overlap with human tasks. For example, a major source of jaggedness is that LLMs do not remember new tasks and learn from them in a permanent way. A lot of AI companies are pursuing solutions to this issue, but it may be that this problem is harder to solve than researchers expect. Without memory, AIs will struggle to do many tasks humans can do, even while being superhuman in other areas. Colin Fraser drew two examples of what this sort of AI-human overlap might look like. You can see how AI is indeed superhuman in some areas, but in others it is either far below human level or not overlapping at all. If this is true, then AI will create new opportunities working in complement with human beings, since we both bring different abilities to the table."
+    },
+    {
+      "line": 40,
+      "text": "# Reverse Salients"
+    },
+    {
+      "line": 44,
+      "text": "The most powerful example of this from the last month is Google’s new image generation AI, Nano Banana Pro (yes, AI companies are still bad at naming things). It combines two advances: a very good image creation model and a very smart AI that can help direct the model, looking up information as needed. For example, if I prompt Nano Banana Pro for the ultimate version of my otter test: “*Scientists who are otters are using a white board to explain ethan mollicks otter on a plane using WiFi test of AI (you must search for this) and demonstrating it has been passed with a wall full of photos of otters on planes using laptops.*” I get this:"
+    },
+    {
+      "line": 66,
+      "text": "# Many lurches"
+    },
+    {
+      "line": 76,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!B1Pw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2279cb92-460a-4f73-8594-33fca151925c_2432x1728.jpeg)"
+    }
+  ]
+}

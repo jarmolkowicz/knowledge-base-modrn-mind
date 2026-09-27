@@ -1,0 +1,24 @@
+{
+  "id": 6,
+  "title": "The 12 New Books to Enliven Spring and Summer",
+  "collection": "Adam Grant",
+  "path": "raw/inbox/Practical/Adam Grant/the-12-new-books-to-enliven-spring.md",
+  "sha256": "1af15bfe58c3e2800cf1597ad3b3d8ce2b05856452a24d3fbce183646036267e",
+  "access": "public-page",
+  "kind": "article",
+  "words": 350,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 426,
+      "text": "A good book introduces us to an exciting world. A great book introduces us to an exciting worldview."
+    },
+    {
+      "line": 25,
+      "offset": 1337,
+      "text": "How to protect our children—and our humanity—in the age of AI."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 449,
+  "title": "Can Claude Write Slow AI? The Results",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/can-claude-write-slow-ai-results.md",
+  "sha256": "9f4b9ea646bb662a42ff1ea05432a576d5c4fa872c2c0a225d9e98ae7de0acfa",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1853,
+  "headings": [
+    "**In this post I will:**",
+    "**The results**",
+    "**The error I need to confess**",
+    "**The hypothesis shift**",
+    "**When AI tries to detect AI**",
+    "**What the participation data tells you**",
+    "**What I learned**",
+    "**The four tests: a framework for reading critically in the age of AI**",
+    "**Test 1: The Omissions Test**",
+    "**Test 2: The Necessity Test**",
+    "**Test 3: The Inhabitation Test**",
+    "**Test 4: The Genre Test**",
+    "**Using the four tests together**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 413,
+      "text": "Two weeks ago I asked whether my readers could tell my writing from an"
+    },
+    {
+      "line": 23,
+      "offset": 1245,
+      "text": "Two weeks ago I gave Claude a detailed voice profile of my writing: sentence rhythm, rhetorical moves, vocabulary, the way I open with a blunt claim and close with a short sentence. I gave it access to my publi"
+    }
+  ]
+}

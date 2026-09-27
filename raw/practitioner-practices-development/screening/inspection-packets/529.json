@@ -1,0 +1,33 @@
+{
+  "id": 529,
+  "title": "You Will Be Accused of Using AI. Here Is How to Prove You Wrote It.",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/you-will-be-accused-of-using-ai-here.md",
+  "sha256": "8dacd231d6c3d6e51f85dd7df3cbc98b536e8ac982954565aff8567dfb2d4134",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2167,
+  "headings": [
+    "**Accusation is now one tap away**",
+    "**The evidence was a book review**",
+    "**Who is being asked to prove themselves**",
+    "**How to build an audit trail, starting today**",
+    "**This is not a guide to evading detection**",
+    "**My own trail, since I am asking for yours**",
+    "**Then there is my thesis**",
+    "**Why this matters**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 477,
+      "text": "Jerry Falade’s own agents took his book away from him. His debut c"
+    },
+    {
+      "line": 75,
+      "offset": 5350,
+      "text": "As I have written about numerous times now, researchers at Stanford, writing in 2023, ran seven widely used detectors over 91 essays written by non-native English speakers. Across the seven, the avera"
+    }
+  ]
+}

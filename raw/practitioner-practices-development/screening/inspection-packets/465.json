@@ -1,0 +1,24 @@
+{
+  "id": 465,
+  "title": "The Power and Hierarchy of Language in AI",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/language-hierarchy-ai-rebecca-wicker.md",
+  "sha256": "c6d81b6dcfcad257ffb815e5bfe34a2c6c7aec7c2c9b6ec53b575a0a23ddcd04",
+  "access": "public-page",
+  "kind": "article",
+  "words": 317,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 422,
+      "text": "When we say ‘AI’, we might mean a bicycle or a nuclear submarine."
+    },
+    {
+      "line": 17,
+      "offset": 489,
+      "text": "Today’s Slow AI Live was with Rebecca Wicker The Strategic Linguist, and the thread running through it was that language is not a neutral wrapper around AI. It is the terrain on which AI is built, argued about,"
+    }
+  ]
+}

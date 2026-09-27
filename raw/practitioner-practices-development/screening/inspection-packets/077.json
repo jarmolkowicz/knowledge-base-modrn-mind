@@ -1,0 +1,24 @@
+{
+  "id": 77,
+  "title": "Innovation through prompting",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/innovation-through-prompting.md",
+  "sha256": "bb16d8ee9d9b5be84fb287d51a6b2a6d1f56a3912b4b034cef1fa53532b4e0db",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1470,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 204,
+      "text": "If you have been reading my Substack (or my new book, which made the *New York Times* bestseller lis"
+    },
+    {
+      "line": 48,
+      "offset": 7763,
+      "text": "The next level of innovating through prompting is to help other people create their own innovations based on your knowledge. To do this, you need to develop *tooling* - prompts that can make prompts. This allows people to share not just a specific prompt, but their skill in prompt crafting. We call "
+    }
+  ]
+}

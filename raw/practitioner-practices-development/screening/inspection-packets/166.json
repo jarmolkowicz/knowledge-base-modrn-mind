@@ -1,0 +1,24 @@
+{
+  "id": 166,
+  "title": "Executive Briefing: Cloud Provider Is Your Competitor",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/executive-briefing-the-global-inference.md",
+  "sha256": "04a04fd1c23367fbb85e362f23d26f99c3689d273507c1076f4efe71b5952c23",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 479,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 262,
+      "text": "Your CFO approved the AI budget six months ago. The pilots worked. The rollouts are un"
+    },
+    {
+      "line": 12,
+      "offset": 567,
+      "text": "The enterprises getting hit hardest aren’t the ones who skipped AI planning — they’re the ones who planned well and are discovering that the infrastructure they need doesn’t exist in sufficient quantities."
+    }
+  ]
+}

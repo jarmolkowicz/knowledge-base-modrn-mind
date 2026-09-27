@@ -1,0 +1,39 @@
+{
+  "id": 402,
+  "title": "The ULTIMATE AI Coding Guide",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/ultimate-ai-coding-guide-claude-code.md",
+  "sha256": "3dfe65c4c215c5bda8e9c7330767f502cda28c47dae608e528b81d40e5ac843f",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2308,
+  "headings": [
+    "AI Coding Rules - CLAUDE.md File",
+    "Implementation Best Practices",
+    "0 — Purpose",
+    "1 — Before Coding",
+    "2 — While Coding",
+    "3 — Testing",
+    "4 — Database",
+    "5 — Code Organization",
+    "6 — Tooling Gates",
+    "7 - Git",
+    "Writing Functions Best Practices",
+    "Writing Tests Best Practices",
+    "Code Organization",
+    "Remember Shortcuts"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 199,
+      "text": "Here’s how I use Claude Code, the ultimate AI coding tool, to implemen"
+    },
+    {
+      "line": 26,
+      "offset": 1010,
+      "text": "Here's my CLAUDE.md file, which you can ask AI to tailor to your codebase. You can also use this in Cursor Rules."
+    }
+  ]
+}

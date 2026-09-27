@@ -1,0 +1,45 @@
+{
+  "queue_position": 188,
+  "id": 540,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/alex-komoroske/transcript.md",
+  "sha256": "86c8ef850847a630c3c045eab685d8dd468a18a1c3e40f0e07aaa56192c509d0",
+  "title": "Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 102,
+      "text": "Lenny Rachitsky (00:10:10):"
+    },
+    {
+      "line": 103,
+      "text": "What I want to do instead is pick on some of the Bits and Bobs that you've been focusing on noodling on that I think are going to be really helpful to listeners in how they think about product and the future of AI and all these things that I think are emerging. And the first one is actually that I want to get your thoughts on how AI and LLMs are likely to impact product development. A lot of the listeners of this podcast are PMs, engineers, founders, people building software, and you're spending a lot of time thinking about AI and product development. A lot of your Bits and Bobs have been just like, \"Here's what's happening. Holy shit. This is how things are going to be.\" So let me just ask you this how do you anticipate LLMs and gen AI are going to change how products are built in the next three to five years?"
+    },
+    {
+      "line": 405,
+      "text": "Lenny Rachitsky (00:59:24):"
+    },
+    {
+      "line": 406,
+      "text": "So fun. I love this practice that you have."
+    },
+    {
+      "line": 429,
+      "text": "(01:01:05):"
+    },
+    {
+      "line": 430,
+      "text": "I also find that often if I have an idea and I just have itching to write it down, if I can write down 30 minutes and get a very rough of it in one place, now it's easier to clean it up later. But that first act of creation, I do it whenever the muse hits because it's 10 million times if it's like, \"Oh, write that idea down later,\" you keep on delaying it, delaying it, now it's a month later. \"What was the idea? How did that work again?\" It's gone. And so I just try to capture the interesting insights. It's like a butterfly collector. The butterflies are going by, I try to collect them and put them in my collection as quickly as possible."
+    },
+    {
+      "line": 549,
+      "text": "Lenny Rachitsky (01:16:30):"
+    },
+    {
+      "line": 550,
+      "text": "First question, what are two or three books you've recommended most to other people?"
+    }
+  ]
+}

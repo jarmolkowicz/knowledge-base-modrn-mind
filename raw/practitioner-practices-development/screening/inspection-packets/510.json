@@ -1,0 +1,32 @@
+{
+  "id": 510,
+  "title": "Stop Calling Them Soft Skills",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/stop-calling-them-soft-skills-human-skills-ai.md",
+  "sha256": "93dd14d0a0325c4f54e44304b35e2f93a19ce3e9f730d5cf0b45012355c4db92",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1533,
+  "headings": [
+    "**Where ‘soft skills’ came from (and what it was never meant to mean)**",
+    "**The gender problem hiding inside the language**",
+    "**What AI cannot do**",
+    "The translator between wetware and hardware",
+    "**The renaming has already started**",
+    "**What to share**",
+    "**Why ‘human skills’ is not just a better label but a survival strategy**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 227,
+      "text": "Judgement. Empathy. Critical thinking. Contextual interpretation. "
+    },
+    {
+      "line": 94,
+      "offset": 9093,
+      "text": "The distinction matters because AI has learned to perform these skills with extraordinary fluency. It can produce text that sounds empathic. It can generate advice that sounds like good judgement. It "
+    }
+  ]
+}

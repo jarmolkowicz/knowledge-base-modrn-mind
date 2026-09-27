@@ -1,0 +1,30 @@
+{
+  "id": 72,
+  "group_index": 7,
+  "decision": "merge",
+  "coverage": "Full available extracted article, L1–63. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L43: blocked slide task; human supplies paper and graph",
+    "L49–55: proposed visible interfaces"
+  ],
+  "basis": "First-person demonstrations and design speculation.",
+  "reported_outcomes": [
+    "Author reports intervening in a stuck slide-editing task."
+  ],
+  "proposed_outcomes": [
+    "Make ongoing work inspectable and correctable."
+  ],
+  "limits": [
+    "Interface benefit not measured.",
+    "Product/security properties not independently checked."
+  ],
+  "related_entries": [
+    "metacognitive-demand",
+    "partial-automation-principle"
+  ],
+  "practice_files": [
+    "raw/mollick-080-management-as-ai-superpower-2026/drafts/practices/define-the-delegation-before-the-agent-starts.md"
+  ],
+  "role": "support",
+  "review_note": "Support checkpoints and recovery; no separate card."
+}

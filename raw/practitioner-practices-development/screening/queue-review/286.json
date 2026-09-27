@@ -1,0 +1,70 @@
+{
+  "queue_position": 62,
+  "id": 286,
+  "path": "raw/inbox/Practical/Ruben Hassid/dont-use-claude-fable-5.md",
+  "sha256": "5d9c83f0aa5e6f99add1a3361de03c6a5125d31af359f9fec108777f18e3b76f",
+  "title": "Fable 5.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L125 ## **1. Don’t prompt** *Fable* **5.**",
+    "L216 #### **#1. I did the test.**",
+    "L270 #### **#2. Sonnet or Opus?**",
+    "L299 ## **2. Expensive** *super***intelligence.**",
+    "L395 #### **Because I read the docs for you.**",
+    "L441 ## **3. Some Fable-5** *worthy* **tasks.**",
+    "L459 #### **1 - Help me decide prompt.**",
+    "L489 #### **2. The Deep Research prompt.**",
+    "L515 #### **3. The Archive-to-Argument prompt.**",
+    "L537 #### **4. The Operating Review prompt**",
+    "L559 ## **4. Connect** *Fable* **to everything.**",
+    "L667 ## **5. What the** *f\\*\\*\\** **is Claude Cowork?**",
+    "L691 ## **6. What the** *f\\*\\*\\** **is Claude Code?**",
+    "L717 ## **7.** ***/fable-prompter***"
+  ],
+  "passages": [
+    {
+      "line": 125,
+      "text": "## **1. Don’t prompt** *Fable* **5.**"
+    },
+    {
+      "line": 183,
+      "text": "Here’s an example of me filling out the prompt template. Claude asks me questions, I answer, and it thinks deeply now."
+    },
+    {
+      "line": 299,
+      "text": "## **2. Expensive** *super***intelligence.**"
+    },
+    {
+      "line": 324,
+      "text": "Ask me what I do for work and what I keep track of in my head all day. Then build me a small interactive tool I'd actually use every week. You pick what to build based on my answers. Make it look expensive, and add one feature I wouldn't have thought to ask for."
+    },
+    {
+      "line": 379,
+      "text": "It plans. It asks you questions before starting. It works for a long time without drifting. It pushes back. It checks its own work before handing it back, like an employee who re-reads before hitting send."
+    },
+    {
+      "line": 459,
+      "text": "#### **1 - Help me decide prompt.**"
+    },
+    {
+      "line": 469,
+      "text": "> *First, ask me for: the decision and the options on the table, my priorities ranked in order, the constraints I can’t change, and the deadline. Then interview me — a few questions at a time — until you understand the decision better than I’ve articulated it. Push on anything I’m being vague about; vagueness is usually where the risk hides. Once you have enough, deliver your verdict. Open with your bottom-line recommendation in one sentence.*"
+    },
+    {
+      "line": 515,
+      "text": "#### **3. The Archive-to-Argument prompt.**"
+    },
+    {
+      "line": 527,
+      "text": "> Then explore before drafting. Identify the most interesting tensions, surprises, and unresolved questions in the material. Ask me about the judgment calls only I can make — what I actually believe, what I witnessed, what I’m willing to say publicly. Propose three genuinely different arguments the material could support, with one line each on what that version emphasizes and what it sacrifices. Then stop and wait for me to choose.  "
+    },
+    {
+      "line": 717,
+      "text": "## **7.** ***/fable-prompter***"
+    },
+    {
+      "line": 741,
+      "text": "It returned a 15-line prompt: audience defined, hook rules, voice rules, length caps. And it ends by telling Claude to ask ME for the missing details before drafting. I wrote 9 words."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "queue_position": 138,
+  "id": 449,
+  "path": "raw/inbox/Practical/Sam Illingworth/can-claude-write-slow-ai-results.md",
+  "sha256": "9f4b9ea646bb662a42ff1ea05432a576d5c4fa872c2c0a225d9e98ae7de0acfa",
+  "title": "Can Claude Write Slow AI? The Results",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L17 #### **In this post I will:**",
+    "L29 #### **The results**",
+    "L37 #### **The error I need to confess**",
+    "L45 #### **The hypothesis shift**",
+    "L77 #### **When AI tries to detect AI**",
+    "L95 #### **What the participation data tells you**",
+    "L101 #### **What I learned**",
+    "L115 #### **The four tests: a framework for reading critically in the age of AI**",
+    "L153 #### **Using the four tests together**"
+  ],
+  "passages": [
+    {
+      "line": 17,
+      "text": "#### **In this post I will:**"
+    },
+    {
+      "line": 23,
+      "text": "Two weeks ago I gave Claude a detailed voice profile of my writing: sentence rhythm, rhetorical moves, vocabulary, the way I open with a blunt claim and close with a short sentence. I gave it access to my published posts. Then I asked it to write three excerpts on topics I have already covered, in my voice."
+    },
+    {
+      "line": 37,
+      "text": "#### **The error I need to confess**"
+    },
+    {
+      "line": 39,
+      "text": "Excerpt 2, which is mine, contained the figure 19,797. The correct figure from my own published post is different (19,814). I copied the number incorrectly when preparing the excerpts and did not check before releasing the poll. Claude reproduced it without question."
+    },
+    {
+      "line": 101,
+      "text": "#### **What I learned**"
+    },
+    {
+      "line": 103,
+      "text": "I designed this experiment thinking the question was about detection. Your comments showed me the question is about evaluation. Detection asks: is this human or AI? Evaluation asks: is this any good, and how would you know?"
+    },
+    {
+      "line": 111,
+      "text": "That is the answer. Not whether Claude can write like me. But whether it can mean what I mean. It cannot. The question is whether you can tell the difference."
+    },
+    {
+      "line": 143,
+      "text": "##### **Test 4: The Genre Test**"
+    },
+    {
+      "line": 149,
+      "text": "**How to apply it.** Before judging whether something was written by AI, ask whether the genre itself permits distinctiveness. A press release, a policy brief, and a corporate email are supposed to sound interchangeable. Evaluating them for ‘voice’ is a category error. Apply the omissions, necessity, and inhabitation tests instead. If those fail too, it does not matter who wrote it. The text is not doing the work of thinking."
+    },
+    {
+      "line": 153,
+      "text": "#### **Using the four tests together**"
+    },
+    {
+      "line": 155,
+      "text": "No single test is definitive. A text can pass one and fail another. The framework is strongest when all four are applied together:"
+    }
+  ]
+}

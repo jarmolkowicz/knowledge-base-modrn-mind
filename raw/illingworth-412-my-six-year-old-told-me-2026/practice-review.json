@@ -1,0 +1,40 @@
+{
+  "id": 412,
+  "author": "Sam Illingworth",
+  "group_index": 12,
+  "decision": "retain",
+  "locators": [
+    "L15–19, family encounter",
+    "L117–127, five alternatives",
+    "L135–143, uncertainty"
+  ],
+  "basis": "Parent anecdote and proposed education-policy practices",
+  "reported_outcomes": [
+    "Reports a child repeating an anti-AI position learned from other children; does not report outcomes of the five proposed practices."
+  ],
+  "proposed_outcomes": [
+    "Hear children’s existing use and concerns before setting or revising rules."
+  ],
+  "limits": [
+    "The article’s legal and policy claims were not independently refreshed in this review.",
+    "Listening does not replace adult responsibilities or tool assessment.",
+    "The article itself recognizes uncertainty; comparisons with other prohibition policies are analogies, not causal AI evidence."
+  ],
+  "review_note": "Extract the conversation routine only. Do not adopt a blanket verdict for or against school bans.",
+  "coverage": "Close-read all 149 lines of available extracted article text; image-only content and linked media not reviewed.",
+  "related_entries": [
+    "agency",
+    "bastani-guardrails-math-rct-2025"
+  ],
+  "practice_files": [
+    "raw/illingworth-412-my-six-year-old-told-me-2026/drafts/practices/ask-children-about-ai-before-setting-rules.md"
+  ],
+  "role": "origin",
+  "draft_only": true,
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/ask-children-about-ai-before-setting-rules.md"
+  ],
+  "historical_drafts_retained": true
+}

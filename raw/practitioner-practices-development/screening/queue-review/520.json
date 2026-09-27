@@ -1,0 +1,61 @@
+{
+  "queue_position": 173,
+  "id": 520,
+  "path": "raw/inbox/Practical/Sam Illingworth/when-ai-misses-the-feeling.md",
+  "sha256": "620a4a0b6658d9fc68dabec915751adc5664d88fdfe6c53f1ce9190b0d0809cc",
+  "title": "Can AI Sense What You're Not Saying?",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L34 #### **Step-by-step**",
+    "L50 #### Slow AI #1 – Teach It Something It Cannot Know",
+    "L62 #### **A moment from Caitlin**",
+    "L88 #### The Slow AI Library",
+    "L100 #### **What to do with it**",
+    "L109 #### **Why this matters**",
+    "L131 #### **From [When AI Advice Hurts, Who Owns It?](https://theslowai.substack.com/p/when-ai-advice-hurts-who-owns-it)**",
+    "L145 #### **Let’s Collaborate**",
+    "L151 #### Collaborating with Slow AI"
+  ],
+  "passages": [
+    {
+      "line": 34,
+      "text": "#### **Step-by-step**"
+    },
+    {
+      "line": 36,
+      "text": "Try this prompt with your AI tool of choice:"
+    },
+    {
+      "line": 38,
+      "text": "`Can you help me uncover what I’m not saying in this paragraph/article [insert writing sample]. What are the emotions that are hiding between the words? Return your response in four parts: Emotion (the feelings that are present but unspoken), Evidence (the words, patterns, or omissions that suggest them), Gap (what is being softened, avoided, or protected), and Gentle Rewrite (how the paragraph might sound if those emotions were acknowledged with care).`"
+    },
+    {
+      "line": 40,
+      "text": "Then reflect on what this revealed and make one small change to your piece. If the Emotion section names something you had not admitted, such as fear, hope, or grief, ask yourself why it was hidden. If the Evidence section shows a pattern of softeners, hedges, or qualifiers, experiment with removing one. If the Gap section exposes a missing context or voice, add a quiet line that restores it. If the Gentle Rewrite feels more human, pause and ask what made it so."
+    },
+    {
+      "line": 42,
+      "text": "The aim is not to produce confessional prose but to practise emotional literacy, a muscle that technology can help you notice but can never replace."
+    },
+    {
+      "line": 46,
+      "text": "If you are new to *Slow AI*, here is our first invitation."
+    },
+    {
+      "line": 62,
+      "text": "#### **A moment from Caitlin**"
+    },
+    {
+      "line": 64,
+      "text": "For this prompt, I put in an upcoming article (called “Two Words. A Thank You Can Shift Everything”), about the importance of saying ‘thank you’ and how meaningful those two words can be. I was really surprised about what ChatGPT had to say about the undercurrent of emotion. Here’s what it said about the first part of the prompt, the Emotion bit:"
+    },
+    {
+      "line": 109,
+      "text": "#### **Why this matters**"
+    },
+    {
+      "line": 117,
+      "text": "Each time you ask what you are not saying, you make space for care to return."
+    }
+  ]
+}

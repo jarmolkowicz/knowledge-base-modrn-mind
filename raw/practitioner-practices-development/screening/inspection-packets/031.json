@@ -1,0 +1,24 @@
+{
+  "id": 31,
+  "title": "Easy is Overrated",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/easy-is-overrated.md",
+  "sha256": "2cddf11c7cb8d631b06a130e3e72cdd72ded5f9453a9b30d4f91cf88967f844a",
+  "access": "public-page",
+  "kind": "article",
+  "words": 462,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 342,
+      "text": "“Something is up in academic research,” ​write​ the members of an AI Task Force convened by the journal *Organization Sc"
+    },
+    {
+      "line": 25,
+      "offset": 1563,
+      "text": "“Submissions have become far harder to read,” the Task Force reports. “This is counterintuitive. Most people assume that AI produces cleaner, more polished text. And in some narrow dimensions, it does…but on the measures that capture whether a reader can actually parse and absorb the prose, AI writing is worse…[using] longer words, more complex sentence stru"
+    }
+  ]
+}

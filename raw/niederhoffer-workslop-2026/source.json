@@ -29,6 +29,14 @@
       "date": "2026-09-26",
       "by": "Codex librarian; user-approved priority corrections",
       "reason": "A08: Pilots compared with Passengers; survey associations separated from tested interventions. Approval: Make priority corrections. Drafted, three-lens self-critiqued and validated in local batch kb-priority-corrections-2026-09-26. Historical decisions and original files preserved."
+    },
+    {
+      "stage": "supplementary_practices_stage_5",
+      "outcome": "integrated",
+      "date": "2026-09-27",
+      "by": "Codex librarian; user-authorized Continue",
+      "reason": "Reviewed supplementary practices or research-context updates integrated. Original source status and earlier history retained.",
+      "batch": "raw/kb-practice-screening-2026-09-27/review/integration/decision.json"
     }
   ]
 }

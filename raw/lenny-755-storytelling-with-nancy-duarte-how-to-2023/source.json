@@ -1,0 +1,45 @@
+{
+  "slug": "lenny-755-storytelling-with-nancy-duarte-how-to-2023",
+  "original_filename": "transcript.md",
+  "format": "md",
+  "source_type": "transcript",
+  "word_count": 16404,
+  "hash": "407c78fbf2f42af846cd23d99bf3839709669df854ad3e1ef84665375b40db90",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:47Z",
+  "decisions": [
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/lenny-755-storytelling-with-nancy-duarte-how-to-2023.md",
+      "practices": [
+        "practices/listen-before-shaping-the-message.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 604,
+  "screening_id": 755,
+  "collected_from": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/nancy-duarte/transcript.md",
+  "bibliographic_metadata": {
+    "title": "Storytelling with Nancy Duarte: How to craft compelling presentations and tell a story that sticks",
+    "date": "2023-06-01",
+    "url": "https://www.youtube.com/watch?v=-kHkWgjGD7U",
+    "collection": "Lenny's Podcast"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "practice_review": "practice-review.json"
+}

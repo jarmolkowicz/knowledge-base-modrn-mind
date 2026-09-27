@@ -1,0 +1,26 @@
+{
+  "id": 717,
+  "title": "Career frameworks, A/B testing, onboarding tips, selling to engineers |  Laura Schaffer (Amplitude)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/laura-schaffer/transcript.md",
+  "sha256": "39d13fb3a9cce7c0d50d2d19e02da7ca33ab28f0c2293d8e2c75299da032ba85",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15719,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 884,
+      "text": "... Like the dead of the night. And by that, I"
+    },
+    {
+      "line": 322,
+      "offset": 45880,
+      "text": "And unlike other AI applications, writers' training happens securely on your data and your style and brand guidelines that you provide speci"
+    }
+  ]
+}

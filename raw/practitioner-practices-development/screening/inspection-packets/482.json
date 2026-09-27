@@ -1,0 +1,30 @@
+{
+  "id": 482,
+  "title": "How to Teach AI What to Keep Private",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-11-teach-it-what-to-keep.md",
+  "sha256": "3bdcdff0a01e657ddfcd884e3a32123f63adac9bdd49083926256433447a7019",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 784,
+  "headings": [
+    "**Step-by-step**",
+    "**A moment from me**",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**From [Slow AI #10 – Teach It What to Ask You](https://theslowai.substack.com/p/slow-ai-10-teach-it-what-to-ask-you)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 255,
+      "text": "- Experiment with a playful, low-risk safety prompt you can give t"
+    },
+    {
+      "line": 22,
+      "offset": 702,
+      "text": "By the end, you may find yourself surprised, not by the seriousness of the risks, but by the way your AI tool frames them."
+    }
+  ]
+}

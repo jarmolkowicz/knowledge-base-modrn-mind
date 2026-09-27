@@ -1,0 +1,26 @@
+{
+  "id": 52,
+  "title": "The Satisfying Strain of Learning Hard Material",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/the-satisfying-strain-of-learning-hard-material-a-deliberate-practice-case-study.md",
+  "sha256": "bf3756e1450da17ac57d5c48ee7e7d1501758cb37c0a2344cec92ed7cade12f1",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 458,
+  "headings": [
+    "*This post is part of my series on **the deliberate practice hypothesis**, which claims that applying [the principles of deliberate practice](../2011/12/23/2011/12/02/2010/01/06/the-grandmaster-in-the-corner-office-what-the-study-of-chess-experts-teaches-us-about-building-a-remarkable-life/) to the world of knowledge work is a key strategy for building [a remarkable working life.](../2011/12/23/2011/12/02/2011/08/11/the-career-craftsman-manifesto/)*"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 13,
+      "offset": 360,
+      "text": "This morning I finished my notes for an upcoming lecture in my graduate-level theory of computation course."
+    },
+    {
+      "line": 20,
+      "offset": 1733,
+      "text": "Recently, we have been discussing the *deliberate practice hypothesis*, which argues that knowledge workers can experience big jumps in value if they apply deliberate practice techniques to their work. My three-month experiment in timed, forced concentration provides a nice case study of this idea. I am now better at mastering hard concepts than I was before"
+    }
+  ]
+}

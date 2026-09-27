@@ -1,0 +1,39 @@
+{
+  "id": 77,
+  "group_index": 4,
+  "decision": "retain",
+  "role": "origin",
+  "locators": [
+    "L18–40, pilot context and goal-play",
+    "L46–60, broader prompt/tool context"
+  ],
+  "basis": "Ethan Mollick describes educational prompts developed with collaborators and a fictional Hamlet demonstration.",
+  "reported_outcomes": [
+    "Reports piloting similar experiences and explicitly calls for effectiveness studies. In goal-play the student applies a framework to guide a fictional character."
+  ],
+  "proposed_outcomes": [
+    "Practise applying a known framework by helping a simulated learner."
+  ],
+  "limits": [
+    "Complete reusable prompt resides in linked material not this snapshot; draft is a labeled adaptation of the described activity. Role-play is not an authentic person, literary interpretation or measured transfer."
+  ],
+  "related_entries": [
+    "bjork-desirable-difficulties-2011",
+    "cognitive-offloading"
+  ],
+  "review_note": "Retain the student-does-the-explaining structure; avoid claiming to reproduce an unseen prompt verbatim.",
+  "practitioner": "Instructor checks the scenario against the learning goal; simulation facts and feedback require review.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [
+    "raw/mollick-077-innovation-through-prompting-2024/drafts/practices/teach-a-simulated-learner.md"
+  ],
+  "source_path": "raw/mollick-077-innovation-through-prompting-2024/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/teach-a-simulated-learner.md"
+  ],
+  "historical_drafts_retained": true
+}

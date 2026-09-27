@@ -1,0 +1,53 @@
+{
+  "queue_position": 143,
+  "id": 458,
+  "path": "raw/inbox/Practical/Sam Illingworth/guilty-until-proved-human-ai-detection.md",
+  "sha256": "32eac034c5ffacf7fc2e7a8d91ad83b395fa79893127aa3cb42c9dbdb7416865",
+  "title": "Guilty Until Proved Human",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L28 #### **The evidence**",
+    "L44 #### Who is being harmed",
+    "L62 #### The discrimination problem",
+    "L78 #### **Follow the money**",
+    "L92 #### **The alternative**"
+  ],
+  "passages": [
+    {
+      "line": 28,
+      "text": "#### **The evidence**"
+    },
+    {
+      "line": 34,
+      "text": "For non-native English speakers, the numbers are catastrophic. Liang et al. (2023), published by Stanford researchers in *Patterns* (Cell Press), found that seven widely used GPT detectors flagged 61.3% of genuine human-written essays by non-native speakers as AI-generated. One detector flagged 97.8% of TOEFL (Test of English as a Foreign Language) essays. All seven unanimously misidentified nearly one in five."
+    },
+    {
+      "line": 44,
+      "text": "#### Who is being harmed"
+    },
+    {
+      "line": 50,
+      "text": "Ailsa Ostovitz, seventeen, had her grade docked at Eleanor Roosevelt High School in Maryland after one of her assignments was flagged at 30.76% probability. After her mother met with the teacher, the teacher acknowledged they no longer believed she used AI. The grade had already been docked."
+    },
+    {
+      "line": 58,
+      "text": "Read that again. Students are learning to write worse to survive a system that claims to protect academic integrity."
+    },
+    {
+      "line": 92,
+      "text": "#### **The alternative**"
+    },
+    {
+      "line": 98,
+      "text": "The question was never ‘did a machine write this?’ The question was always ‘what did the student learn?’ Detection answers neither. It produces a probability score and hands the consequences to a human who was not trained to interpret it."
+    },
+    {
+      "line": 102,
+      "text": "That is why I built the Integrity Debt Audit, a free tool to help educators identify if their assessments can be easily automated by AI. Taking suspicion away from the student and using it to make more resilient and authentic assessments in the first place."
+    },
+    {
+      "line": 120,
+      "text": "The conversations in these seminars are some of the sharpest I have been part of in fifteen years of academia. If you want to build the judgement that no detection tool can measure then"
+    }
+  ]
+}

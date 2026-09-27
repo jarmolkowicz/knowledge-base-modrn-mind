@@ -1,0 +1,51 @@
+{
+  "queue_position": 110,
+  "id": 406,
+  "path": "raw/inbox/Practical/Sam Illingworth/academia-is-enshittifying-ai-made-it-faster.md",
+  "sha256": "2d46cb8c192d44ffaabe2355de88c90e9fc4614e6352265229a4eed293bbf6d8",
+  "title": "Academia Is Enshittifying. AI Made It Faster.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L19 #### **In this post I will:**",
+    "L29 #### **What the retraction notice does and does not say**",
+    "L41 #### **Why the paper was always going to find what it found**",
+    "L51 #### **Confirmation did the work of evidence**",
+    "L59 #### **The three stages of enshittification, applied to academia**",
+    "L81 #### **What AI catalyses, at every stage**",
+    "L99 #### **Citations outlive their evidence**",
+    "L109 #### **The system, not the technology**",
+    "L117 #### **The publish-or-perish machine**",
+    "L129 #### **What academic publishing looks like now**",
+    "L145 #### **Questions I do not have answers to**"
+  ],
+  "passages": [
+    {
+      "line": 109,
+      "text": "#### **The system, not the technology**"
+    },
+    {
+      "line": 113,
+      "text": "The slippage I want to flag is this: the question ‘is AI making research worse’ and the question ‘is research itself getting worse’ are different questions. The first one has a satisfying answer (we can ban AI, mandate disclosure, run detection software). The second one does not. The first one occupies most of the discourse. The second one is the one that matters."
+    },
+    {
+      "line": 117,
+      "text": "#### **The publish-or-perish machine**"
+    },
+    {
+      "line": 121,
+      "text": "The metric is the h-index, not the insight. The job application is a citation count, not a body of thought. In the biomedical and physical sciences, senior scholars run labs of fifteen or twenty postdocs and put their name on everything those postdocs produce; author lists grow accordingly. In the humanities and social sciences the lab-as-factory model does not hold, but the citation and productivity pressures translate into other shapes: sole-authored monographs replaced by edited collections, single-author journal pieces replaced by co-authored ones, the same volume pressure transmitted through different infrastructure. The PI’s name (or the senior author’s) accumulates citations on work they did not always write. Whether the work is good is a separate, slower question that the metrics do not ask."
+    },
+    {
+      "line": 129,
+      "text": "#### **What academic publishing looks like now**"
+    },
+    {
+      "line": 131,
+      "text": "Take a step back and ask what the publishing layer actually looks like, in 2026, when AI is at every step."
+    },
+    {
+      "line": 139,
+      "text": "The retraction notice is one of the few places where a human still has to write something specific about a specific paper. Forty-five words. They are the last load-bearing human handhold in the chain. Everything around the notice, before and after it, is increasingly the product of a system in which AI has moved from feature to substrate. We are no longer publishing ‘with AI’. We are publishing inside it."
+    }
+  ]
+}

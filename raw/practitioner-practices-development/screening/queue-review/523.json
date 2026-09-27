@@ -1,0 +1,105 @@
+{
+  "queue_position": 176,
+  "id": 523,
+  "path": "raw/inbox/Practical/Sam Illingworth/when-automation-tempts-you.md",
+  "sha256": "03d68943b3b3fcca0a50c7c7896a48d5ce85db066a7e2a8c1f0a7cb282e63eb1",
+  "title": "How to Hold on to What Should Stay Human",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 #### **Step-by-step**",
+    "L64 #### Slow AI #1 – Teach It Something It Cannot Know",
+    "L76 #### **A moment from [Timo](https://substack.com/@timomason)**",
+    "L118 #### The Slow AI Library",
+    "L130 #### **What to do with it**",
+    "L142 #### **Why this matters**",
+    "L166 #### **From [Make Your AI Argue from the Past](https://theslowai.substack.com/p/your-ai-knows-too-much-take-it-back-in-time)**",
+    "L180 #### **Let’s Collaborate**",
+    "L186 #### Collaborating with Slow AI"
+  ],
+  "passages": [
+    {
+      "line": 12,
+      "text": "You notice how much faster things move when the machine helps. Replies drafted. Posts scheduled. Ideas outlined before your first sip of coffee."
+    },
+    {
+      "line": 24,
+      "text": "This *Slow AI* prompt comes from Timo Mason🤠 | Wealth Writer , creator of *Write Your Way to Wealth*, where he teaches writers to build personal brands through clarity and discipline, not gimmicks."
+    },
+    {
+      "line": 36,
+      "text": "#### **Step-by-step**"
+    },
+    {
+      "line": 38,
+      "text": "Try this prompt in your AI tool of choice:"
+    },
+    {
+      "line": 40,
+      "text": "> *Which parts of my work should I never automate? Which tasks deserve my full attention, judgement, or care?*"
+    },
+    {
+      "line": 46,
+      "text": "- Ask what skills atrophy if you hand this away."
+    },
+    {
+      "line": 48,
+      "text": "From what it writes, note one task you will handle yourself this week."
+    },
+    {
+      "line": 52,
+      "text": "Keep that sentence somewhere you can see it: pinned above your desk, taped to your screen, folded into your notebook."
+    },
+    {
+      "line": 54,
+      "text": "The goal is not self-punishment, but self-preservation."
+    },
+    {
+      "line": 56,
+      "text": "To remember that time saved is not always value created."
+    },
+    {
+      "line": 60,
+      "text": "If you are new to *Slow AI*, here is our first invitation."
+    },
+    {
+      "line": 76,
+      "text": "#### **A moment from Timo**"
+    },
+    {
+      "line": 98,
+      "text": "Then I asked the complete opposite:"
+    },
+    {
+      "line": 130,
+      "text": "#### **What to do with it**"
+    },
+    {
+      "line": 135,
+      "text": "- Ask your AI tool why it chose certain tasks for automation and others for you."
+    },
+    {
+      "line": 136,
+      "text": "- Reflect on what those answers reveal about your values, attention, and pride in the work itself. Perhaps even write down one thing you will now refuse to automate, and how you will protect it."
+    },
+    {
+      "line": 142,
+      "text": "#### **Why this matters**"
+    },
+    {
+      "line": 148,
+      "text": "When you use AI to question what should remain human, you turn automation into awareness."
+    },
+    {
+      "line": 156,
+      "text": "If you enjoyed this reflection, visit *Write Your Way to Wealth*, where Timo Mason🤠 | Wealth Writer shares practical systems for writing that builds both credibility and freedom."
+    },
+    {
+      "line": 186,
+      "text": "#### Collaborating with Slow AI"
+    },
+    {
+      "line": 198,
+      "text": "If you try this week’s prompt, Timo and would love to hear what your AI said about what to automate and what to keep human."
+    }
+  ]
+}

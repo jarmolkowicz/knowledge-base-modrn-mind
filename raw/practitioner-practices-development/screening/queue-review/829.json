@@ -1,0 +1,45 @@
+{
+  "queue_position": 396,
+  "id": 829,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/wes-kao/transcript.md",
+  "sha256": "64a3f51a88270e21a76c303bcbc07d8530772805e2d2b79a47aa03c05eeca895",
+  "title": "Persuasive communication and managing up | Wes Kao (Maven, altMBA, Section4)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 317,
+      "text": "(00:35:19):"
+    },
+    {
+      "line": 318,
+      "text": "So that's like a really common thing I see in my course is people feeling overwhelmed. And I always remind folks that, \"You are building a new habit here. And be patient with yourself, take it step by step.\""
+    },
+    {
+      "line": 464,
+      "text": "Wes Kao (00:58:25):"
+    },
+    {
+      "line": 465,
+      "text": "I would start with Most Obvious Objection and also framing your conversation up front. And that kind of relates to using signposting words if needed to help you frame that conversation."
+    },
+    {
+      "line": 566,
+      "text": "Wes Kao (01:15:58):"
+    },
+    {
+      "line": 567,
+      "text": "Yeah, I found that AI will often shorten the feedback loop and align with you as well. When you prompt it, when it comes back, it will not do the entire task for me, sometimes. It'll say, \"I've done the first part of this. Does this sound right? Is this what you're looking for? If so, I will complete the next section.\" And then sometimes I'm like, \"Do the whole thing. Just stop trying to conserve energy and just do. I want you to do the whole thing.\" But that's what it's doing, it's breaking it into smaller chunks to de-risk that it's going to use all this bandwidth to process this thing and I'm going to say, \"Oh, that's not what I was looking for.\""
+    },
+    {
+      "line": 596,
+      "text": "(01:21:19):"
+    },
+    {
+      "line": 597,
+      "text": "So if I explain, \"That's the problem I'm dealing with and here's what I would ideally like to be able to do,\" Claude comes back to something that's pretty good. And then from there I'll edit it to my voice because usually it's a little bit too formal sounding. And so I'll make some edits and then I'll share it back to Claude and say, \"What do you think of this version? Would you make any improvements?\" And then we go back and forth from there."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 711,
+  "title": "Inside Devin: The AI engineer that's set to write 50% of its company’s code this year | Scott Wu",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/kim-scott/transcript.md",
+  "sha256": "d65c9798355eb7a1004bd52ce69a652c34b043e66f634926c197846998502e88",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 16026,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 853,
+      "text": "If you say, \"Do you have any feedback for me?\""
+    },
+    {
+      "line": 277,
+      "offset": 38864,
+      "text": "So I want to leave folks with some sort of steps on how to solicit feedback, and this is true, especially if you're a boss, but it's true in"
+    }
+  ]
+}

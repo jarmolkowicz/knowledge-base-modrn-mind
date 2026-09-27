@@ -1,0 +1,32 @@
+{
+  "id": 500,
+  "title": "Slow Takes Ep. 5: Who Gets the Gains?",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-takes-ep-5-who-gets-the-gains.md",
+  "sha256": "67c9fa87547984420ea2006ee66a1c1287133efb56e19d24df70db9979e67a80",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2256,
+  "headings": [
+    "What we covered",
+    "1. The Harvard labour market study",
+    "2. AI made you faster. Your employer kept the time.",
+    "3. Hollywood’s copyright letter to the White House",
+    "4. The White House AI legislative framework",
+    "5. The UK reverses on AI copyright",
+    "The thread"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 412,
+      "text": "This is the fifth episode of Slow Takes, a weekly Substack Live I "
+    },
+    {
+      "line": 37,
+      "offset": 3540,
+      "text": "The 4.5x income gap is particularly striking because it suggests a bifurcation in the labour market that predates AI but is being accelerated by it. Workers with AI skills are not just earning more. T"
+    }
+  ]
+}

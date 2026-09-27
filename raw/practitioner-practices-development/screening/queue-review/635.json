@@ -1,0 +1,37 @@
+{
+  "queue_position": 249,
+  "id": 635,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/fareed-mosavat/transcript.md",
+  "sha256": "0ac25cff6d81d425f38066a9245675b85667850442a1eeaffab8f3969d76ee0b",
+  "title": "How to build trust and grow as a product leader | Fareed Mosavat (Reforge, Slack, Instacart, Pixar)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 204,
+      "text": "Fareed Mosavat (00:16:13):"
+    },
+    {
+      "line": 205,
+      "text": "So I think this is what makes it so hard is that there's not any upfront training you can really do to prepare yourself or even knock down the door to break in. But then, also, it's not clear there's a lot of training within a company that would help you be successful generally on the job of product management. You can learn how to be a good PM at Google, you can learn to be a good PM at Facebook, but it is up to each individual PM to figure out how to generalize what they're doing to move from different kinds of product across different kinds of product work as they get more senior to solve bigger problems, et cetera."
+    },
+    {
+      "line": 441,
+      "text": "Fareed Mosavat (00:44:45):"
+    },
+    {
+      "line": 442,
+      "text": "Yeah. I think there's a framework thing, and then there's like, \"What practical advice?\" So from a framework perspective, I think it's important to ask the question, \"For each of the things that I am responsible for, what category does this fall into? What's important about it? What are the right ways to think about building that, given that it is different than what I've built before?\" So, some of this, you can do within an org. If you're working on core product stuff, you probably have an adoption problem on one of your products, and there's growth work associated with driving usage of that thing."
+    },
+    {
+      "line": 513,
+      "text": "Fareed Mosavat (00:59:20):"
+    },
+    {
+      "line": 514,
+      "text": "I don't know, but I hope that it's better than what it's been because actually, they're building and doing, et cetera. So I think that's the other question mark and downside, and I think we think about this as part of our ecosystem. I think as long as people are doing, and generalizing, and executing, as I talked about it at the beginning, I think they can still be valuable in a meaningful way and maybe provide access to that kind of knowledge for a broader range of companies. The other is just like if everybody does it, then maybe it's not so unique anymore. So I think there's a question there as well."
+    }
+  ]
+}

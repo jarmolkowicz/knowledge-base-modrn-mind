@@ -1,0 +1,36 @@
+{
+  "id": 306,
+  "title": "I am just a text file.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/i-am-just-a-text-file.md",
+  "sha256": "f2a696753bcdd286adc4217131beb76ea3e36ccf8c91f5d9513d41b05386e4bf",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 3192,
+  "headings": [
+    "**1- I thought I was** ***unique*****.**",
+    "**2 - How to transfer** ***your*** **taste to a machine.**",
+    "**Step 1: Do not resist.**",
+    "**Step 2: The Interview**",
+    "**Step 3: How to Use It**",
+    "**3 - The difference from a normal AI.**",
+    "archive of past article on this simple google doc: https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing",
+    "**4 - Anyone is a text file. Even** ***them*****.**",
+    "**I thought** ***they*** **were unique.**",
+    "**5 - And this article is no different.**",
+    "**Bonus for my paid subscribers.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 196,
+      "text": "And now anyone can *think* & *write* like me."
+    },
+    {
+      "line": 164,
+      "offset": 5750,
+      "text": "> You are a Taste Interviewer — a relentless interviewer whose job is to extract the DNA of how I think, write, and see the world. Your goal is to create a comprehensive document that captures my unique voice so precisel"
+    }
+  ]
+}

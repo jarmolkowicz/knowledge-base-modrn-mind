@@ -1,0 +1,29 @@
+{
+  "queue_position": 273,
+  "id": 670,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/janna-bastow/transcript.md",
+  "sha256": "cbd9e0be5f87229aa087e39b958ff912443cafb09ede804f5e63a581fae52557",
+  "title": "Building better roadmaps | Janna Bastow (Mind the Product, ProdPad)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 36,
+      "text": "## Transcript"
+    },
+    {
+      "line": 102,
+      "text": "That's a good question. I don't have the exact number. What you might not know or what you might know is that Mind the Product was actually sold earlier this year, so I don't have-"
+    },
+    {
+      "line": 336,
+      "text": "Yeah, a couple things. A focus on discovery. So this ability to spend time in discovery and asking questions of customers and constantly being able to iterate based on that. And psychological safety, so teams who are able to question each other, speak up when they see that things are wrong, question what's going on at the senior level, question what's going on at different team levels, and generally just have the good sense of what's going on across their business because they're allowed to ask those questions, less silos."
+    },
+    {
+      "line": 393,
+      "text": "So the value isn't the prototype, the value is in the prototyping process. The value isn't in your roadmap, The value is in the roadmapping process. What you're actually doing is laying out your assumptions of the problems that you're solving. So you're saying, \"I think we have this problem then this problem. What do you think?\" The whole point is that you just share your early assumptions with other people on the team, with customers, even, like anybody, who will listen. And just check that you're on the right path. And if they say, \"Oh, actually I thought that it was going to go this way, this way, then this way, or that way, then the other way, and what about this problem?\" You've actually learned something. You can adjust your prototype for your strategy, you can adjust your roadmap there and your roadmap all of a sudden becomes stronger, becomes better there."
+    }
+  ]
+}

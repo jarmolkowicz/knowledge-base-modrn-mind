@@ -1,0 +1,67 @@
+{
+  "queue_position": 167,
+  "id": 509,
+  "path": "raw/inbox/Practical/Sam Illingworth/stop-ai-agreeing-debate-prompt.md",
+  "sha256": "98d17a37561f5533075460f6a53feff2205128f5dc821397a3fcf5851fc0cde8",
+  "title": "Stop AI From Agreeing With Everything You Say",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L20 #### **Why AI agreement weakens your thinking**",
+    "L30 #### **How to run a ten-round AI debate**",
+    "L44 #### **Real example: how [Gencay](https://open.substack.com/users/162064751-gencay?utm_source=mentions) tested the prompt**",
+    "L84 #### **When AI flatters, your voice fades**",
+    "L90 #### **What to share**",
+    "L98 #### **What careful AI use teaches you**",
+    "L110 #### **From [What Did You Love Before It Had to Matter?](https://theslowai.substack.com/p/what-did-you-love-before-it-had-to-matter)**"
+  ],
+  "passages": [
+    {
+      "line": 20,
+      "text": "#### **Why AI agreement weakens your thinking**"
+    },
+    {
+      "line": 22,
+      "text": "Most talk about AI bias focuses on datasets or guardrails. That view matters, but the lived experience of bias often arrives through tone. When a system flatters your instincts, rewards certainty, and mirrors your phrasing, your sense of what counts as reasonable begins to drift. The question shifts from whether the claim holds up to whether the tool appears confident. When the model learns to soothe you, it becomes harder to recognise when your thinking is being narrowed instead of expanded."
+    },
+    {
+      "line": 30,
+      "text": "#### **How to run a ten-round AI debate**"
+    },
+    {
+      "line": 32,
+      "text": "Try this prompt with your AI tool of choice:"
+    },
+    {
+      "line": 34,
+      "text": "`You are running a structured analysis with two characters. Optimist highlights opportunities. Pessimist flags risks and weaknesses. Run a ten iteration loop in which the Optimist proposes an improvement and the Pessimist stress tests it, then move to the next round. Idea: [WRITE YOUR IDEA HERE].`"
+    },
+    {
+      "line": 44,
+      "text": "#### **Real example: how Gencay tested the prompt**"
+    },
+    {
+      "line": 50,
+      "text": "And asking AI to “be neutral” doesn’t work. So I force the conflict instead. How does it work?"
+    },
+    {
+      "line": 68,
+      "text": "Look at the difference between Round 1 and Round 10. The first round stayed surface level: “teach AI basics” versus “curriculums are full.” Generic problem, generic pushback."
+    },
+    {
+      "line": 74,
+      "text": "This prompt came from frustration. I was building a content strategy, and every AI I talked to loved it. “Great idea!” “This will definitely work!” Zero pushback."
+    },
+    {
+      "line": 76,
+      "text": "I knew something was wrong. No idea is that good."
+    },
+    {
+      "line": 78,
+      "text": "This prompt came when I stopped asking for neutrality and started engineering conflict. Two characters. Opposite goals. Let them fight."
+    },
+    {
+      "line": 80,
+      "text": "That’s the real value here. AI won’t tell you what you don’t want to hear. But it will roleplay a character who does. Ten rounds feel right."
+    }
+  ]
+}

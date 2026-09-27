@@ -1,0 +1,30 @@
+{
+  "id": 424,
+  "title": "When AI Fakes, Can You Tell?",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-fakes-and-truths.md",
+  "sha256": "b97e5922e3e6c3e59f69b6901df9f517aa6c6ebfc5fa734cb5b3f64d456c53ba",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 666,
+  "headings": [
+    "**Step-by-step**",
+    "**A moment from me**",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**From Last Week: [When AI Sounds Certain, Ask for Doubt](https://theslowai.substack.com/p/when-ai-sounds-certain-ask-for-doubt)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 222,
+      "text": "- Try a simple prompt that shows how easy it is to create misinformati"
+    },
+    {
+      "line": 20,
+      "offset": 719,
+      "text": "Last week, in When AI Sounds Certain, Ask for Doubt, many of you explored how hesitation reshapes an answer. Some of your reflections appear at the end of this post."
+    }
+  ]
+}

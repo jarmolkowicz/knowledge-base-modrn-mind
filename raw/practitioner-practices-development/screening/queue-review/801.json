@@ -1,0 +1,49 @@
+{
+  "queue_position": 374,
+  "id": 801,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/seth-godin/transcript.md",
+  "sha256": "92faa2c3c8a55f074ba636c24f71a3faae9495e284f50f15135cc0cbb129c6f1",
+  "title": "Seth Godin's best tactics for building remarkable products, strategies, brands and more",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L35 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 35,
+      "text": "## Transcript"
+    },
+    {
+      "line": 38,
+      "text": "Before you came on, I asked on Twitter, what should I ask Seth Godin? The most recurring theme actually had to do with AI. How do you think all these new AI companies build brands to distinguish and differentiate themselves?"
+    },
+    {
+      "line": 143,
+      "text": "I feel like each of these is its own book that we could talk through. And I want to come back to this last point and how it relates to the purple cow. I want to spend a little time there, but first I'm going to ask a marketing question. So before you came on, I asked on Twitter, what should I ask Seth Godin? He's coming on my podcast. I got a flood of suggestions. The most recurring theme actually had to do with AI. Actually the co-founder of Intercom asked this question and it echoes what many people are wondering. So his question is how do you think all these new AI companies build brands to distinguish and differentiate themselves in a world that's increasingly filled with AI companies, AI products, AI content?"
+    },
+    {
+      "line": 146,
+      "text": "Well, the first question is what's a brand? Because it's not a logo. A brand is a promise. It's what do I expect from you. It's would I miss you if you were gone. And Hyatt Hotels has a logo, Nike has a brand. The way we know this is if Nike opened a hotel, we'd know what it would be like. But if Hyatt decided to make sneakers, we have no clue. They might be comfortable, but that's all we would know. And so if you want to build a brand, you got to stand for something and you got to say what you don't do. And the second thing is AI very soon is going to stop being a feature the same way electricity is not a feature. That lots and lots of things run on electricity, but they're not electricity companies. They just happen to use electricity."
+    },
+    {
+      "line": 149,
+      "text": "So what AI companies and all companies need to do is say, what's in this for the user? What promise do I want to make? A difficult promise, a remarkable promise. And then how do I keep it? So making absurd promises might work at the VC level, but it doesn't work when you're talking to consumers because you can only break that promise one time. And so to wrap up the brand part, airlines don't have brands and airlines don't have loyalty. And the way we know this is that the only reason people stick with an airline is for the points, which is bribery. Loyalty is would you pay extra to stick with this? And if you wouldn't pay extra, then the brand has no value."
+    },
+    {
+      "line": 155,
+      "text": "Yeah. I have a very emotional connection to Claude.ai. I think they have a brand. ChatGPT's reputation with me is not good because it regularly over promises and under delivers and it does it without kindness or humility. Whereas Claude, I don't know how they did it, at least in my experience, brings kindness and humility. So when it doesn't know, it's very clear and it's not lazy and it's not angry at me. And so I happily pay extra for Claude because it has a brand. Whereas ChatGPT for me is just a tool that I use if I have no other options."
+    },
+    {
+      "line": 158,
+      "text": "I love the Anthropic/Claude's billboards. \"We're the ones without the drama.\" The AI company without the drama. I was going to save this to the end, but let's actually talk about it. So you mentioned somewhere that you actually use Claude to help you write this book and refine the book, which I think is going to increasingly happen. Could you just share that process of how you did that? What did you do that might be helpful to people to help you write this book?"
+    },
+    {
+      "line": 161,
+      "text": "Well, to be clear about my brand promise, because it's true, every word that has my name on it, I wrote. Every blog post, every book. I don't have a team. This is my whole staff is me. What I did with Claude and which I encourage people to do in the book is I would upload a list of four things and say, what did I miss? And it would suggest three things to complete the list. And often they would be things I hadn't thought of. And then I could go write about that or I would upload a couple chapters and I would say, what are the claims I'm making here that you don't think that I'm sustaining? And it became this patient editor that is so hard to find in the real world because editors aren't paid enough and given enough time to do their job right. And what I find is if I have a sentence that doesn't sound enough like me, I can ask Claude to help me figure out why that's true."
+    },
+    {
+      "line": 308,
+      "text": "Seth, this was a dream come true. I appreciate you coming on the podcast. I appreciate you saying that. Where can people check out your book? Where should people go to learn more about what you're up to? Anything you want to share."
+    }
+  ]
+}

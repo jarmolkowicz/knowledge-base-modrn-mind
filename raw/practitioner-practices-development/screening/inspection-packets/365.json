@@ -1,0 +1,30 @@
+{
+  "id": 365,
+  "title": "Best AI Prompt to Humanize AI Writing",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/best-ai-prompt-to-humanize-ai-writing.md",
+  "sha256": "c54e6d1e78bd00b70d06ba4692ab67249345727b0a517489179d971d3339b64b",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 798,
+  "headings": [
+    "Comparing ChatGPT Outputs",
+    "Prompt",
+    "Variations",
+    "Save To ChatGPT",
+    "**Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 218,
+      "text": "Here’s the best AI prompt to humanize AI essays and text."
+    },
+    {
+      "line": 36,
+      "offset": 951,
+      "text": "I asked it to write a viral linkedin post about ChatGPT Agent:"
+    }
+  ]
+}

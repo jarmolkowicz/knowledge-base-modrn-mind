@@ -1,0 +1,26 @@
+{
+  "id": 800,
+  "title": "The original growth hacker reveals his secrets | Sean Ellis (author of “Hacking Growth”)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/sean-ellis/transcript.md",
+  "sha256": "9c592d46a57986496f8a850d602ca012fc1ff9dde7b910f267ecfc22f32ebe47",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 18983,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 864,
+      "text": "The Sean Ellis test, such a seemingly simpl"
+    },
+    {
+      "line": 679,
+      "offset": 92071,
+      "text": "Well, amazing segue to the final question. The actually final question is I wanted to ask you about any ways you've been using AI "
+    }
+  ]
+}

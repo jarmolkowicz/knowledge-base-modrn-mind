@@ -1,0 +1,31 @@
+{
+  "id": 448,
+  "title": "The Best Response to AI Is a Library Card",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/best-response-to-ai-is-a-library-card.md",
+  "sha256": "90d2a05b94aba064fecfe7fb4b00287db578de6b31f5b9803c127442ec8610f1",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1215,
+  "headings": [
+    "**You cannot be AI literate if you are not literate first**",
+    "**What reading does that AI cannot replicate**",
+    "**Critical literacy is not a specialised skill**",
+    "**Why libraries are worth fighting for**",
+    "**The Slow AI Public Library**",
+    "**Why literacy comes before everything**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 426,
+      "text": "We are spending billions teaching people to use AI. We have not finish"
+    },
+    {
+      "line": 33,
+      "offset": 1595,
+      "text": "We have skipped a step. The conversation about AI literacy has leapt straight to prompt engineering and responsible use without asking whether the person at the keyboard has the critical literacy to evaluate wh"
+    }
+  ]
+}

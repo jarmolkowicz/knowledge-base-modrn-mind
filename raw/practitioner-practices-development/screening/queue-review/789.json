@@ -1,0 +1,37 @@
+{
+  "queue_position": 364,
+  "id": 789,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ryan-j-salva/transcript.md",
+  "sha256": "b378a3a3870b262a718722a41bc6504f3e9f5b8da80b007c966020ffd7210480",
+  "title": "The role of AI in new product development | Ryan J. Salva (VP of Product at GitHub)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 177,
+      "text": "Ryan J. Salva (00:25:27):"
+    },
+    {
+      "line": 178,
+      "text": "Creating the model is one thing, but then figuring out how to use the model in terms of what parameters do you want to adjust for, what do you want to optimize for in terms of... A great example of this is performance, right? When you're in a code editor, you don't necessarily want to type, type, type and then have to wait one second, two seconds, three seconds to get a suggestion back when your entire goal is to stay in the flow. We would run experiments to see how many milliseconds are the right amount such that a developer doesn't feel like they're being interrupted by Copilot and a suggestion."
+    },
+    {
+      "line": 270,
+      "text": "Ryan J. Salva (00:41:09):"
+    },
+    {
+      "line": 271,
+      "text": "It is conversations with a very, very wide cast of characters. This product in particular, I probably spent more time with legal than any other products that I've ever kind of been responsible for. All wonderful creative people. But it's not just legal. It is also privacy and security champions. It is, frankly, developers, like the people who are using it, listening to them. Hey, what works here? What doesn't work for you here? Why is this offensive? Why is it not offensive? We'll continue on the example of the crazy pair programmer whispering crazy things into our year. When we first started out, we didn't really have any filter on Copilot whatsoever the very, very, very early days."
+    },
+    {
+      "line": 417,
+      "text": "Lenny (01:00:24):"
+    },
+    {
+      "line": 418,
+      "text": "Oh wow! Oh, you would love it. Arrival is from one of his story, I believe, is one of his stories and there's a whole book of many more short stories by the same guy. They're amazing."
+    }
+  ]
+}

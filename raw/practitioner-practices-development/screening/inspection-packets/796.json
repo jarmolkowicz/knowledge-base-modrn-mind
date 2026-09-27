@@ -1,0 +1,26 @@
+{
+  "id": 796,
+  "title": "Why securing AI is harder than anyone expected and guardrails are failing | HackAPrompt CEO",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/sander-schulhoff-20/transcript.md",
+  "sha256": "6b34caa66175398f6044049f75777fe84067a68b25fc0a87991b9e663bab0132",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 14529,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 37,
+      "offset": 814,
+      "text": "I found some major problems with the AI sec"
+    },
+    {
+      "line": 544,
+      "offset": 82773,
+      "text": "You can find me on Twitter @sanderschulhoff. Pretty much any misspelling of that should get you to my Twitter or my website, so ju"
+    }
+  ]
+}

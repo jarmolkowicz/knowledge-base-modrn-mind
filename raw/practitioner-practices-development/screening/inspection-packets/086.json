@@ -1,0 +1,24 @@
+{
+  "id": 86,
+  "title": "Post-apocalyptic education",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/post-apocalyptic-education.md",
+  "sha256": "b50e679f47637948accbcd7bfef2b73b62d2f1a4096781fd1e2b31ba29ea0bf5",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1459,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 198,
+      "text": "Last summer, I wrote about the Homework Apocalypse, the coming reality where AI could complete most "
+    },
+    {
+      "line": 36,
+      "offset": 6113,
+      "text": "- You can’t ask an AI to detect AI writing (even though people keep trying). When asked if something written by a human was written by an AI, GPT-4 gets it wrong 95% of the time."
+    }
+  ]
+}

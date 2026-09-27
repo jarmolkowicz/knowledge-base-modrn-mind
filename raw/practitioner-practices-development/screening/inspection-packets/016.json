@@ -1,0 +1,24 @@
+{
+  "id": 16,
+  "title": "What Brené Brown and I Will Never Agree On",
+  "collection": "Adam Grant",
+  "path": "raw/inbox/Practical/Adam Grant/what-brene-brown-and-i-will-never.md",
+  "sha256": "05835fd4cb475040c1d007e0178253c4e8665b7a7c3c0364dc44beccca9e8105",
+  "access": "public-page",
+  "kind": "article",
+  "words": 189,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 419,
+      "text": "Brené Brown is one of my favorite thinkers, but our relationship almost ended before it began. In 2016, we had a public "
+    },
+    {
+      "line": 19,
+      "offset": 748,
+      "text": "The inaugural episode just dropped—we talk for the first time about where we went wrong, how we reconciled, and what we learned about repair and trust. We also discuss what healthy authenticity looks like, and where we still think we’ll never see eye to eye. You can watch on YouTube or listen on Apple, Spotify, or wherever you get podcasts."
+    }
+  ]
+}

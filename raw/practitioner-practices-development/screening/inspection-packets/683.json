@@ -1,0 +1,26 @@
+{
+  "id": 683,
+  "title": "Building a world-class data org | Jessica Lachs (VP of Analytics and Data Science at DoorDash)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jess-lachs/transcript.md",
+  "sha256": "97f181a5cf24c3914b1a0693f20dbf30031b18dd82e9a39674c5717c8047d658",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13897,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 867,
+      "text": "So you've built one of the largest and most re"
+    },
+    {
+      "line": 211,
+      "offset": 26733,
+      "text": "One way you can do it through the questions you ask is have something that is not quite right within the case that you're presenting and see"
+    }
+  ]
+}

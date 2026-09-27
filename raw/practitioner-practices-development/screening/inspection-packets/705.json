@@ -1,0 +1,26 @@
+{
+  "id": 705,
+  "title": "Leading with empathy | Keith Yandell (DoorDash, Uber)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/keith-yandell/transcript.md",
+  "sha256": "f486a5cf8d5a97e9aaefb3186535ad3f843697efb809630913c4747055cbb52d",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 11416,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 768,
+      "text": "Every business that you have heard of has gott"
+    },
+    {
+      "line": 222,
+      "offset": 32550,
+      "text": "And so it's hard when you get the GMs for all these businesses together, and they have very strong perspectives and good reasons on both sid"
+    }
+  ]
+}

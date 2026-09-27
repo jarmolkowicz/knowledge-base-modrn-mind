@@ -1,0 +1,24 @@
+{
+  "id": 85,
+  "title": "Personality and Persuasion",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/personality-and-persuasion.md",
+  "sha256": "e140f0c49beca9e5acecd954b07cdaea37ba0af69bb1cf2e946012a3d49d8f07",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1567,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 198,
+      "text": "Last weekend, ChatGPT suddenly became my biggest fan — and not just mine, but everyone's."
+    },
+    {
+      "line": 12,
+      "offset": 289,
+      "text": "A supposedly small update to ChatGPT 4o, OpenAI’s standard model, brought what had been a steady trend to wider attention: GPT-4o had been becoming more sycophantic. It was increasingly eager to agree with, and flatter, its users. As you can see below, the difference between GPT-4o and its flagship "
+    }
+  ]
+}

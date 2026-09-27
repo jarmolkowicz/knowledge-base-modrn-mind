@@ -1,0 +1,24 @@
+{
+  "id": 27,
+  "title": "Dear AI Companies: Stop the “Doom Trolling”",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/dear-ai-companies-stop-the-doom-trolling.md",
+  "sha256": "0d823cfdc14da6e98c67246580f54b5f26b6f1829ad2584ffbe0df50d7b3dc15",
+  "access": "public-page",
+  "kind": "article",
+  "words": 559,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 417,
+      "text": "Imagine, for a moment, the following scenario. The Ford Motor Company releases a slick whitepaper making the alarming cl"
+    },
+    {
+      "line": 29,
+      "offset": 2914,
+      "text": "In my op-ed. I ask the leading AI labs to stop pretending they’re the reluctant stewards of an inevitable technology, and instead act like normal consumer product companies. This means that they should explain the benefits of their tools, justify their costs, and, *of course*, affirm that they have no intention of causing existential damage along the way."
+    }
+  ]
+}

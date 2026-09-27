@@ -1,0 +1,37 @@
+{
+  "queue_position": 268,
+  "id": 663,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/itamar-gilad/transcript.md",
+  "sha256": "9249133f81384c101fd44694e34fd1bc6edd8ba3123838a74c49a4165cd646e4",
+  "title": "Becoming evidence-guided | Itamar Gilad (Gmail, YouTube, Microsoft)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 317,
+      "text": "Itamar Gilad (00:40:04):"
+    },
+    {
+      "line": 318,
+      "text": "Exactly, AI. It's about AI, that makes it a good idea? Absolutely not. Or the strategy of the company, that's another thematic support. Thousands and thousands of terrible ideas are being implemented right now as we speak based on these themes. So all these things combined can give you a maximum 0.1 out of 10 according to the tool, if you follow it then we move into slightly harder tests. One is reviewing it with your colleagues, your managers, your stakeholders the idea. They don't know it either, they don't have a crystal ball, they're usually not the users, they cannot predict. But they can evaluate it in a slightly more objective way and maybe find flaws in your idea. On the other hand groups tend to have biases too, politics group thing. So groups can actually arrive sometimes with worse decisions than individuals, there's some research to that. Next, our estimates and plans. So you may do some sort of back of the envelope calculation or your colleagues might go out and try to evaluate the ease a little bit better."
+    },
+    {
+      "line": 362,
+      "text": "Itamar Gilad (00:48:41):"
+    },
+    {
+      "line": 363,
+      "text": "Absolutely. I would recommend that you don't try because if the transformation is way too big, you will get fatigued and you will just create a lot of process for a lot of people and you would not see the results and after a quarter you'll give up. So exactly what you suggested is the right approach."
+    },
+    {
+      "line": 536,
+      "text": "Itamar Gilad (01:09:00):"
+    },
+    {
+      "line": 537,
+      "text": "It's a cliche, but it's AI. There's a company called ElevenLabs, that do voices and the best voices, synthetic voices you heard, but they can also replicate your own voice so you can create a voice signature. If you're American you can use their kind of default free version or cheap version to replicate your own voice and that could be pretty useful if you need to narrate an audiobook or do some online course. So I'm finding this service very interesting."
+    }
+  ]
+}

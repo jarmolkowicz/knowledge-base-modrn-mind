@@ -1,0 +1,53 @@
+{
+  "queue_position": 210,
+  "id": 574,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/brendan-foody/transcript.md",
+  "sha256": "581c317f90b1cd988b6d387df7fd712e0927359723aacb5258ecc022f7ccf68a",
+  "title": "Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 114,
+      "text": "Brendan Foody (00:07:39):"
+    },
+    {
+      "line": 115,
+      "text": "Yeah. I think that for enterprises especially, the core way to think about it is how can they build a test or systematic way to measure how well AI automates their core value chain? So if it's an architecture firm that's producing these architecture diagrams of what they provide to their end customer, how can they effectively measure that? And each company has its own value chain or maybe a handful of them if it's a multi-product company. And just thinking about how they measure that is the prerequisite to really effectively applying AI throughout their entire business."
+    },
+    {
+      "line": 171,
+      "text": "(00:15:43):"
+    },
+    {
+      "line": 172,
+      "text": "What everyone is generally moving towards is reinforcement learning from AI feedback instead of human feedback where you have instead the human defined some sort of success criteria, some way to measure that. And examples in code, it could be a unit test. We can scalably measure success and other domains that could be a rubric. And then you use that to incentivize model capabilities. And it's far more scalable and data-efficient, and so that's why a lot of the broader trend in the market across the board is moving towards RLHF to both eval models as well as improved capabilities."
+    },
+    {
+      "line": 186,
+      "text": "Brendan Foody (00:17:29):"
+    },
+    {
+      "line": 187,
+      "text": "So the key question is how long there's going to be things in the economy that humans can do that AI can't do? And I think there's certainly a bucket of people that say we're going to have superintelligence within three years and humans won't play a role in the economy. And that's one school of thought."
+    },
+    {
+      "line": 384,
+      "text": "(00:43:31):"
+    },
+    {
+      "line": 385,
+      "text": "And so we started doing that in May of last year, and then the rest is history."
+    },
+    {
+      "line": 528,
+      "text": "Brendan Foody (01:01:16):"
+    },
+    {
+      "line": 529,
+      "text": "Yeah, I like ChatGPT Voice Mode a lot. There's stuff-"
+    }
+  ]
+}

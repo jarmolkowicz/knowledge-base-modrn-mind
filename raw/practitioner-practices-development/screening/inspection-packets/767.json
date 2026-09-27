@@ -1,0 +1,26 @@
+{
+  "id": 767,
+  "title": "The 10 traits of great PMs, AI, and Slack’s approach to product | Noah Weiss (Slack, Google)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/noah-weiss/transcript.md",
+  "sha256": "fb81b5cd366fb2edc2709fe91864f7e0e4db254525d65efc0189516fc1809c5d",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 17517,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 866,
+      "text": "We have this mental metaphor that we talk a"
+    },
+    {
+      "line": 67,
+      "offset": 5088,
+      "text": "That's over a month of save time per year. With Superhuman, you can split your inbox into streams or VIPs, team members and emails"
+    }
+  ]
+}

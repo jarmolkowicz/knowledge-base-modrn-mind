@@ -1,0 +1,26 @@
+{
+  "id": 560,
+  "title": "The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/austin-hay/transcript.md",
+  "sha256": "c2b5de4861eeaffc3fd90e6274146ffa88121f4206ca1df20e545de2082fec9a",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 17334,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 799,
+      "text": "From 2010 to 2020, we had the golden years of determi"
+    },
+    {
+      "line": 318,
+      "offset": 56948,
+      "text": "Yeah, I think that's right. The way to think of it is if you build your own data warehouse, your schema is unlimited. You can do whatever you want. You can desi"
+    }
+  ]
+}

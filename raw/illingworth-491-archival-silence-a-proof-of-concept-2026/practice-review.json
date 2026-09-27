@@ -1,0 +1,33 @@
+{
+  "id": 491,
+  "group_index": 14,
+  "decision": "merge_as_support_with_limits",
+  "coverage": "Read the complete available local article body; linked images, videos and external claims not independently inspected.",
+  "locators": [
+    "L20–44, L58–82"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Shows a Gemini answer and the author’s interpretation of omissions."
+  ],
+  "proposed_outcomes": [
+    "Notice historical representation gaps."
+  ],
+  "limits": [
+    "The answer includes class conflict and radical politics. Its omissions do not establish training-data causation; the 100-word prompt is a confound. Same author as 435, not independent replication."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/illingworth-435-when-ai-sounds-neutral-is-it-2025/drafts/practices/check-missing-perspectives.md"
+  ],
+  "role": "support",
+  "review_note": "Compare a compressed historical answer with absent perspectives; supports the missing-voices exercise.",
+  "author": "Sam Illingworth",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/check-missing-perspectives.md"
+  ],
+  "historical_drafts_retained": true
+}

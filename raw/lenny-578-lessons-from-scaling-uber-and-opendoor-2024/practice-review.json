@@ -1,0 +1,38 @@
+{
+  "id": 578,
+  "author": "Brian Tolkin, interviewed by Lenny Rachitsky",
+  "group_index": 10,
+  "decision": "merge",
+  "locators": [
+    "00:40:00–00:47:04; L357–394"
+  ],
+  "basis": "Professional retrospective and practical heuristic",
+  "reported_outcomes": [
+    "Describes experimentation limits at Opendoor and use of customers, peers and post-launch feedback; no evaluation of this checklist."
+  ],
+  "proposed_outcomes": [
+    "Match evidence-seeking to uncertainty and consequences."
+  ],
+  "limits": [
+    "Higher personal conviction or peer agreement does not establish correctness.",
+    "The transcript conflates statistical power and confidence; do not copy numerical testing advice."
+  ],
+  "review_note": "Merge into evidence-strength review; the post-release feedback loop is a useful addition.",
+  "coverage": "Close-read complete relevant transcript exchanges at listed timestamps and surrounding context; not full 629-line transcript; audio/video not reviewed.",
+  "related_entries": [
+    "agency",
+    "guingrich-belief-offloading-2026",
+    "belief-offloading"
+  ],
+  "practice_files": [
+    "raw/lenny-663-becoming-evidence-guided-itamar-gilad-2023/drafts/practices/match-confidence-to-evidence.md"
+  ],
+  "role": "support",
+  "draft_only": true,
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/match-confidence-to-evidence.md"
+  ],
+  "historical_drafts_retained": true
+}

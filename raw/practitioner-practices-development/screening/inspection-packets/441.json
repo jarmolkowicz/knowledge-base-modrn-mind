@@ -1,0 +1,32 @@
+{
+  "id": 441,
+  "title": "The Kindness Trap: How AI Uses Empathy to Keep You Engaged",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-simulated-empathy.md",
+  "sha256": "4e7a776f3005d7ab89778f4e927d8c72d4a76cf695dd3e69d3ff6a5a14f0cb39",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1035,
+  "headings": [
+    "**Step-by-step**",
+    "**A moment from me**",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**From last week:** ***[When AI Answers Too Fast, We Stop Thinking](https://theslowai.substack.com/p/why-ai-answers-too-fast-for-us-to-think)***",
+    "**Let’s Collaborate**",
+    "Collaborating with Slow AI"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 16,
+      "offset": 362,
+      "text": "- Notice how AI performs kindness as a feedback loop, not a feeling."
+    },
+    {
+      "line": 30,
+      "offset": 721,
+      "text": "Last week, in *When AI Answers Too Fast, We Stop Thinking*, we explored the value of friction and hesitation. Some of your reflections appear at the end of this post."
+    }
+  ]
+}

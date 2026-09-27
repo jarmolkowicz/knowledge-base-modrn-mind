@@ -1,0 +1,25 @@
+{
+  "slug": "hassid-316-anything-2025",
+  "original_filename": "master.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 1396,
+  "hash": "34ac4965bc1413450f8ff609133619b5512dd018d8d9cfe56bdefe690ba701c2",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "critiqued",
+  "ingested_at": "2026-09-26T20:59:42Z",
+  "decisions": [],
+  "lines": 191,
+  "screening_id": 316,
+  "collected_from": "raw/inbox/Practical/Ruben Hassid/master.md",
+  "bibliographic_metadata": {
+    "title": "Anything.",
+    "date": "2025-10-12",
+    "url": "https://ruben.substack.com/p/master",
+    "collection": "Ruben Hassid"
+  },
+  "draft_only": true,
+  "integration_decision": "pending",
+  "practice_review": "practice-review.json"
+}

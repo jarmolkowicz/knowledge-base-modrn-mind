@@ -1,0 +1,37 @@
+{
+  "queue_position": 127,
+  "id": 430,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-meditation-reflective-prompt.md",
+  "sha256": "ba4685a2322d07a03b8201eab3e91c38d7f77c7a72b7904cbd0b4b57f027cf7e",
+  "title": "Using AI for Meditation",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L28 #### **Step-by-step**",
+    "L50 #### Teach AI Something It Cannot Know",
+    "L62 #### **A moment from** [Tom Evans](https://open.substack.com/users/81290607-tom-evans?utm_source=mentions)",
+    "L80 #### **Stop AI from stealing your voice**",
+    "L86 #### **What to do with it**",
+    "L100 #### **Why this matters**",
+    "L120 #### **From [Stop Trusting Your Intuition When Evaluating AI](https://theslowai.substack.com/p/evaluate-ai-correctness-completeness)**",
+    "L134 #### **Let’s Collaborate**",
+    "L140 #### Collaborating with Slow AI"
+  ],
+  "passages": [
+    {
+      "line": 28,
+      "text": "#### **Step-by-step**"
+    },
+    {
+      "line": 32,
+      "text": "`Guide me through a reflective exercise on the idea of AI learning to meditate. Help me explore three areas. First, ask me questions that clarify what meditation feels like in my own body and mind. Second, help me consider how an AI that understood those qualities could support my meditation practice in real time, for example by prompting awareness, noticing patterns, or helping me stay present. Third, help me think about how an AI with a simulated meditative process might change the way I interact with it throughout the day. Ask one question at a time. Do not give explanations or conclusions. Your role is to help me notice my own experience with more clarity.`"
+    },
+    {
+      "line": 62,
+      "text": "#### **A moment from** Tom Evans"
+    },
+    {
+      "line": 68,
+      "text": "Meditation is full of subtle thresholds that an AI cannot infer unless you describe them. The first questions drew out simple cues, like the first physical shift that tells me I have crossed into a different state, how the breath changes its rhythm or location, and whether the body warms, cools, or softens as I settle. From there my perception widens or blurs, time stretches or drops its sequence, thought changes texture, emotion changes distance, and the space around me takes on a new tone. There is a signature moment of “now I am in”, a felt transition from doing to being, and naming it for the AI made it clearer in my own awareness. Even the return has its own story, when the world appears sharper or quieter and a subtle afterglow lingers, and putting that into words gave the system a more accurate map of my practice."
+    }
+  ]
+}

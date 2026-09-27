@@ -1,0 +1,26 @@
+{
+  "id": 554,
+  "title": "Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/aparna-chennapragada/transcript.md",
+  "sha256": "5210a9841c7643231633e69fc90a7a7153ca96f809d60a7d5aa99bb7aca4adcd",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 11091,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 38,
+      "offset": 870,
+      "text": "I have a cheesy Chrome extension. Literally whenever "
+    },
+    {
+      "line": 209,
+      "offset": 26221,
+      "text": "I would say number two, this one is a little bit tricky I'd say, is that what I'm seeing is that the time to first demo is much shorter, but the time to a full "
+    }
+  ]
+}

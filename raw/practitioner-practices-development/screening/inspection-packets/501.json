@@ -1,0 +1,31 @@
+{
+  "id": 501,
+  "title": "Slow Takes Ep. 6: Drawing the Line",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-takes-ep-6-drawing-the-line.md",
+  "sha256": "d7a45461b9e5451744438b34d4965c24af494fb715ebf372417a34abbd5d89b5",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1527,
+  "headings": [
+    "1. Anthropic’s Mythos Leak",
+    "2. ICML’s Prompt Injection Sting",
+    "3. YouTube’s AI Slop Pipeline for Children",
+    "4. Wikipedia Bans LLM Content",
+    "5. Oracle Cuts 30,000 Jobs for Data Centres",
+    "The thread"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 404,
+      "text": "Between marketing and deception. Between catching cheaters and res"
+    },
+    {
+      "line": 37,
+      "offset": 2828,
+      "text": "The International Conference on Machine Learning banned AI for peer reviews, made reviewers tick a box confirming compliance, then planted hidden prompt injections in submitted papers to catch violato"
+    }
+  ]
+}

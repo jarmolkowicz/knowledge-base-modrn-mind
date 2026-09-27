@@ -1,0 +1,31 @@
+{
+  "queue_position": 35,
+  "id": 89,
+  "path": "raw/inbox/Practical/Ethan Mollick/sign-of-the-future-gpt-55.md",
+  "sha256": "f1d4af1ce982919249a086e99155240a1eb8a469983fcabf791d30ae87ec85be",
+  "title": "Sign of the future: GPT-5.5 ",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 21,
+      "text": "# Models, Apps, and Harnesses"
+    },
+    {
+      "line": 31,
+      "text": "Maybe you want to see the academic paper about it? “Show me the first page of the academic paper on the Otter test, well-formatted, sitting on a desk” (feel free to zoom in on the text)"
+    },
+    {
+      "line": 39,
+      "text": "All of this is very cool, and would have been impossible a few months ago, but it is useful as well. An image generator that can make detailed text and images can be used to make PowerPoint slides or product mockups or example websites or anything else you ask for. But this is just one tool, and the real magic happens when you combine harnesses, apps, and models on a real problem. Here's one I've been procrastinating about for a decade."
+    },
+    {
+      "line": 41,
+      "text": "# Bringing it together"
+    },
+    {
+      "line": 43,
+      "text": "I am an academic, and a lot of my non-AI work, especially in the early 2010s, focused on crowdfunding. I have hundreds of anonymized data files on the topic that I have collected from surveys and analysis and research work, a mix of STATA, CSV, XLS and Word files that I never got around to writing a paper about. I wanted to see how far GPT-5.5 could get with this information. So, I used Codex powered by GPT-5.5 and asked: “Help me sort [the data] out and generate a new hypothesis that might be interesting and test it in sophisticated ways and write an academic paper.” I also asked it to include a literature review and formatting. The results were very impressive, especially after I asked GPT-5.5 Pro to comment on the paper and fed those results back into Codex. You can read the results here. It isn’t perfect, but that is no longer because there are obvious errors: the literature review is all real, as are the statistics. Instead, it is because, as an expert, I think the hypothesis is not that interesting and there are some standard concerns about causation, even though the AI used very sophisticated statistical methods to try and address them. In short, I would have been very happy if this paper was the outcome of a 2nd year PhD project. And I just gave it four prompts, without ever touching the text myself."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "queue_position": 105,
+  "id": 398,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/stop-vibe-coding-the-hard-way.md",
+  "sha256": "a12fe65d7d8c3c893466dd807e3b1ec4ee70e3bd6b82553f0b7531b08d6e7116",
+  "title": "You've Been Vibe Coding the Hard Way",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L22 ## Purpose of Vibe Coding",
+    "L42 ## Vibe Coding Websites & Web Apps",
+    "L98 ## Vibe Coding Mobile Apps",
+    "L120 ## Next Steps",
+    "L140 ## **P.S. Need More Help? 👋**"
+  ],
+  "passages": [
+    {
+      "line": 16,
+      "text": "First, I’ll share the critical mindset shift that makes vibe coding actually work. Then, I’ll map the entire tool spectrum for web apps. Last, I’ll tackle mobile apps!"
+    },
+    {
+      "line": 42,
+      "text": "## Vibe Coding Websites & Web Apps"
+    },
+    {
+      "line": 92,
+      "text": "- Claude Code may seem scary to start with, but I’ve never met a person who switched to Claude Code (or Codex), then decided to switch back to Stage 1 or 2 tools. You can still use Stage 1/2 tools for frontend prototyping and smaller projects, but you will notice a substantial difference in code quality and debugging when you test-drive Claude Code."
+    },
+    {
+      "line": 98,
+      "text": "## Vibe Coding Mobile Apps"
+    },
+    {
+      "line": 107,
+      "text": "- **Goal:** Create, test, and validate your entire user flow and UI. Get a clickable demo and share it with users."
+    },
+    {
+      "line": 114,
+      "text": "Instead**, s**tart a new clean project with Claude Code. Rebuild screen-by-screen using **screenshots from your Phase 1 prototype as the prompts**. Literally drop 1 screenshot at a time into Claude Code and tell it to build a mobile app. Out of the box, Claude Code will generate code much higher-quality, fewer bugs, and you’ll get to the App Store submission step much faster."
+    },
+    {
+      "line": 120,
+      "text": "## Next Steps"
+    },
+    {
+      "line": 128,
+      "text": "And it’s perfectly NORMAL to start from scratch multiple times. This is NOT failure. As long as you’re learning how to build and gaining clarity on your product vision, your next iteration will be smarter and faster. It’s quite normal for you to build multiple versions in Stage 1/2 tools, get super stuck, switch to Stage 3/4 tools, start again from scratch but with a more focused scope, then build it in a fraction of the time it previously took."
+    },
+    {
+      "line": 132,
+      "text": "If you’ve never done anything like this, start by vibe coding a simple lead magnet. It’s the perfect, low-risk practice project. Follow along with this tutorial step-by-step."
+    }
+  ]
+}

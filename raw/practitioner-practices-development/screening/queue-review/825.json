@@ -1,0 +1,29 @@
+{
+  "queue_position": 393,
+  "id": 825,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/varun-mohan/transcript.md",
+  "sha256": "fe8a31d7006f2cfa26b08f00fe272104b6d7733f0bf6f9ee1da8e2c6ea4550b1",
+  "title": "Building a magical AI code editor used by over 1m developers in 4 months: Inside Windsurf",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L35 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 421,
+      "text": "(00:47:18):"
+    },
+    {
+      "line": 422,
+      "text": "The cool part about this is Windsurf not only knows about what the agent has done. It also knows everything that the user has done. Our goal here is to have this almost flow-like state where everything the user has done, the AI also knows. And it is able to predict the intent. And as you can see, it said, \"I noticed that the interface property title was changed to Title String.\" And then it now has gone out and modified all the locations within the app from title to Title String. And now it no longer says that."
+    },
+    {
+      "line": 607,
+      "text": "Varun Mohan (01:04:15):"
+    },
+    {
+      "line": 608,
+      "text": "I think it really comes down to, do you get incremental value by adding more engineers internally? I'm going to take... First of all, maybe just to set the record straight, if AI is writing over 90% of the code, that doesn't mean engineers are 10X as productive. Engineers spend more time than just writing code. The review code, test code, debug code, design code, deploy code, right? Navigate code. There's probably a lot of different things that engineers do. There's this one famous law in parallel computing, it's called Amdahl's Law. I don't know if you've heard about it. But it basically says if you have a graph of tasks and you have this critical path and you take any one task and parallelize it a ton, which is make it almost take zero amount of time, there's still a limit of the amount of how much faster it made the whole process go."
+    }
+  ]
+}

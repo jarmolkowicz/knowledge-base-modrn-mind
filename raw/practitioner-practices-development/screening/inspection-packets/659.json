@@ -1,0 +1,26 @@
+{
+  "id": 659,
+  "title": "How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/howie-liu/transcript.md",
+  "sha256": "39d970499ef308902208a7ae68a1bf82cad6ebd301592d8d7328a36094b7ee7e",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 18150,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 831,
+      "text": "If you were literally founding a new company f"
+    },
+    {
+      "line": 691,
+      "offset": 89901,
+      "text": "Yeah. I mean, literally, I go into ChatGPT sometimes and I ask it just like, \"Hey, how would you build this app?\" I'm just curious. I'm like"
+    }
+  ]
+}

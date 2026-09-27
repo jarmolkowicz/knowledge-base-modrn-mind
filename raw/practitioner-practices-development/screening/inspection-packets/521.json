@@ -1,0 +1,30 @@
+{
+  "id": 521,
+  "title": "When AI Never Stops, Should You?",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/when-ai-never-stops-should-you.md",
+  "sha256": "9f6646a39743d494f330f758e2403a2f7728fd83b82e9ebf6498566fd98a2e4d",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 965,
+  "headings": [
+    "**Step-by-step**",
+    "**A moment from me**",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**From last week: [When AI Fakes, Can You Tell?](https://theslowai.substack.com/p/ai-fakes-and-truths)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 241,
+      "text": "- Notice how AI will keep producing as long as you keep prompting."
+    },
+    {
+      "line": 98,
+      "offset": 4286,
+      "text": "If you would like to keep practising beyond this week’s prompt, you might like *A Gentle Guide to Reflection with AI* (pay what-you-wish). Think of it as a companion you can return to whenever you fee"
+    }
+  ]
+}

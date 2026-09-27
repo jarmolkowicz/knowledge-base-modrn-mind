@@ -1,0 +1,51 @@
+{
+  "slug": "illingworth-530-make-your-ai-argue-from-the-2025",
+  "original_filename": "your-ai-knows-too-much-take-it-back-in-time.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 1510,
+  "hash": "6c4e1c2f46680e4c9b9c3b301c516bf6d1ecf97343e536ab0762cc1e13e902e4",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:45Z",
+  "decisions": [
+    {
+      "stage": "practice-review",
+      "outcome": "merge",
+      "date": "2026-09-26",
+      "reason": "Merge as a constrained-perspective variant of testing one creative change; avoid claiming the prompt proved engineering independence.",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/illingworth-530-make-your-ai-argue-from-the-2025.md",
+      "practices": [
+        "practices/test-one-creative-change.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 183,
+  "screening_id": 530,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/your-ai-knows-too-much-take-it-back-in-time.md",
+  "bibliographic_metadata": {
+    "title": "Make Your AI Argue from the Past",
+    "date": "2025-11-11",
+    "url": "https://theslowai.substack.com/p/your-ai-knows-too-much-take-it-back-in-time",
+    "collection": "Sam Illingworth"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 67,
+  "title": "Agency and Agents",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/agency-and-agents.md",
+  "sha256": "a8951a3f466caf69e14b48d461be7d5eec6053c8386f320090fe7894df977bae",
+  "access": "public-page",
+  "kind": "article",
+  "words": 2380,
+  "headings": [
+    "The Twilight Factory"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 356,
+      "text": "Agency is the initiative to act. Increasingly, it is going to determine what happens next with AI, a"
+    },
+    {
+      "line": 23,
+      "offset": 1890,
+      "text": "AI does many things, but a thing it is very good at is coding. So one of the first risks that might come from very smart AIs has to do with their coding abilities, since if you can write good code, you can also write bad code that can hack or attack other systems. As a result, the big AI companies p"
+    }
+  ]
+}

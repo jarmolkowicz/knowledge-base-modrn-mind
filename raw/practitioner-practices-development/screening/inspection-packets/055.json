@@ -1,0 +1,24 @@
+{
+  "id": 55,
+  "title": "What If AI Doesn't Get Much Better Than This?",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/what-if-ai-doesnt-get-much-better-than-this.md",
+  "sha256": "7be08b9ae18e1b20637a6fcd690b7eb4b1cc2bddae88cc7d23b5ea334564705d",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 903,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 9,
+      "offset": 211,
+      "text": "In the years since ChatGPT’s launch in late 2022, it’s been hard not to get swept up in feelings of euphoria or dread ab"
+    },
+    {
+      "line": 13,
+      "offset": 891,
+      "text": "Meanwhile, OpenAI’s Sam Altman said that AI can now rival the abilities of a job seeker with a PhD, leading one publication to plaintively ask, “So what’s left for grads?”​"
+    }
+  ]
+}

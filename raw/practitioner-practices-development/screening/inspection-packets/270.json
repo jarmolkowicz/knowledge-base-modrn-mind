@@ -1,0 +1,32 @@
+{
+  "id": 270,
+  "title": "Business.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/business-plan.md",
+  "sha256": "5c7ac0ad5921ad8d3de1b9a498b7ea169dd738cdb11261caee3d6ce739a9eb64",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 556,
+  "headings": [
+    "**Table of contents**",
+    "**1.** How to use the “Business Plan Maker” GPT.",
+    "Click “Start”.",
+    "Answer the questions.",
+    "The first answer isn’t the truth.",
+    "2. How to challenge ChatGPT (to avoid bias).",
+    "3. My 2 cents on using ChatGPT to make decisions."
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 165,
+      "text": "1. ✦ How to use the “Business Plan Maker” GPT."
+    },
+    {
+      "line": 14,
+      "offset": 259,
+      "text": "3. ✦ My 2 cents on using ChatGPT to make decisions."
+    }
+  ]
+}

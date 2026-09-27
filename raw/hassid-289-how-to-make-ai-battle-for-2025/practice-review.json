@@ -1,0 +1,38 @@
+{
+  "id": 289,
+  "group_index": 6,
+  "decision": "counterexample",
+  "coverage": "Full available extracted article, L1–248. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L96–128: newsletter advice and concession",
+    "L154–156: continue toward the answer the user prefers",
+    "L199–225: expert roles and temperature"
+  ],
+  "basis": "First-person cross-model critique demonstration.",
+  "reported_outcomes": [
+    "A model changes its recommendation after seeing another answer; no independent truth check or later newsletter outcome."
+  ],
+  "proposed_outcomes": [
+    "Improve advice through model disagreement."
+  ],
+  "limits": [
+    "Preferred-answer selection can amplify confirmation bias.",
+    "Agreement is not truth.",
+    "Multiple models can share errors; expert roles do not supply expertise."
+  ],
+  "related_entries": [
+    "automation-bias",
+    "reference-verification"
+  ],
+  "practice_files": [
+    "raw/mollick-075-giving-your-ai-a-job-interview-2025/drafts/practices/test-ai-on-the-work-it-will-do.md"
+  ],
+  "role": "counterexample",
+  "review_note": "Downgrade to counterexample; never recommend battling until preferred agreement.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/test-ai-on-the-work-it-will-do.md"
+  ],
+  "historical_drafts_retained": true
+}

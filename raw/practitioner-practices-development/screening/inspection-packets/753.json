@@ -1,0 +1,26 @@
+{
+  "id": 753,
+  "title": "How Palantir built the ultimate founder factory | Nabeel S. Qureshi (founder, writer, ex-Palantir)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/nabeel-s-qureshi/transcript.md",
+  "sha256": "73c55d1e1ea62a28c4a910920dd979dbc4c7af8dbba8a7e4e40b3f2a767a0d6c",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 19750,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 866,
+      "text": "30% of PMs that leave Palantir start a comp"
+    },
+    {
+      "line": 529,
+      "offset": 81446,
+      "text": "So the famous example here is Google kind of disengaging with a Pentagon AI project just because some people felt that working wit"
+    }
+  ]
+}

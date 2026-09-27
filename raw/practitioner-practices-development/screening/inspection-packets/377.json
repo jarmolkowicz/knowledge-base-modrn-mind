@@ -1,0 +1,30 @@
+{
+  "id": 377,
+  "title": "Post To 9 Platforms In 1 Click",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/easy-social-media-posting-n8n-make.md",
+  "sha256": "cf2f84891769ff4d24b531690835ab8047f362e9b75690e2070784e944806b13",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 783,
+  "headings": [
+    "Prerequisites",
+    "N8N Setup",
+    "Make.com Setup",
+    "Tips",
+    "**Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 201,
+      "text": "Excited to launch Blotato’s official nodes for n8n and Make.com! This "
+    },
+    {
+      "line": 82,
+      "offset": 6449,
+      "text": "2/ Free ***AI prompts*** & ***AI automations***"
+    }
+  ]
+}

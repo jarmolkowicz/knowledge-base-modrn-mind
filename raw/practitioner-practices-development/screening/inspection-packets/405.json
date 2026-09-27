@@ -1,0 +1,28 @@
+{
+  "id": 405,
+  "title": "Women Building AI",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/women-building-ai-free-community.md",
+  "sha256": "0201bbee4cb052d06323c982fd01721a0bc05cdf2aa56fd873c03e03018ae682",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 284,
+  "headings": [
+    "Finally, A Real Community of BUILDERS",
+    "How to Apply",
+    "**P.S. Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 178,
+      "text": "Excited to announce my free private community for:"
+    },
+    {
+      "line": 60,
+      "offset": 3787,
+      "text": "> **You should be actively building AI products, apps, websites, tools, or automations!**"
+    }
+  ]
+}

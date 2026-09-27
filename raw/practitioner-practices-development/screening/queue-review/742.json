@@ -1,0 +1,29 @@
+{
+  "queue_position": 327,
+  "id": 742,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/melissa/transcript.md",
+  "sha256": "4290c951712aec9f8df3ecab2720382cf2bb35d469b884dc3b8639f4dc5c33c0",
+  "title": "Building high-performing teams | Melissa Tan (Webflow, Dropbox, Canva)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 36,
+      "text": "## Transcript"
+    },
+    {
+      "line": 99,
+      "text": "So I'm excited about that. I'm writing it with my former VP of product at Products Labs, Denise. Before I was doing what I'm doing right now, I was doing all of that, plus I was also consulting pretty deeply with companies through Produx Labs. But at the end of 2020, I took a step back from that to take a little break from it, focus more the teaching aspects of things, and try to figure out what else I'm going to do from here."
+    },
+    {
+      "line": 261,
+      "text": "Yeah, I think it varies from company to company. Some companies already have their own template, and I'll just use that. I don't try to reinvent the wheel when it doesn't need to be reinvented. But I'll say the memos that we would write are probably... They're very easy to explain, two pages for me on what's the vision, where are we going after, how are we positioned in the market and against competition to reach that vision, where are we today, what's the current state of our product, what does it actually look like, what are we going to do to get there, what's our priorities. And then I make people prioritize them, so I'm like, if we're going this way, are we solving this problem? What does that mean, context-wise? And then, what are the outcomes that we're actually trying to achieve when we get there?"
+    },
+    {
+      "line": 426,
+      "text": "Then, I would analyze your job and say, what's working? What's not working? And then, take out certain pieces of it that you want to get better at, and then do a deep dive into that."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 739,
+  "group_index": 1,
+  "decision": "counterexample",
+  "role": "counterexample",
+  "locators": [
+    "01:15:00–01:19:14, L423–448; reverse-zip example at 01:18:13"
+  ],
+  "basis": "Mayur Kamat describes AI uses at companies and criticizes expanding short messages only to compress them again.",
+  "reported_outcomes": [
+    "Illustrative communication pattern; no evaluated intervention."
+  ],
+  "proposed_outcomes": [
+    "Question unnecessary generation and reader burden."
+  ],
+  "limits": [
+    "Longer text can add necessary context or accessibility. Company productivity claims are rough self-reports, not evidence for this communication heuristic."
+  ],
+  "related_entries": [
+    "effort-investment-review"
+  ],
+  "review_note": "Keep as counterexample to output volume, supporting goal-first and stopping cards.",
+  "practitioner": "Compare the information the reader needs, not word count alone.",
+  "coverage": "Read metadata/intro and complete relevant exchanges with surrounding discussion at the locators below; not the full episode.",
+  "practice_files": [
+    "raw/newport-022-avoiding-digital-productivity-traps-2026/drafts/practices/choose-the-result-before-the-tool.md",
+    "raw/illingworth-521-when-ai-never-stops-should-you-2025/drafts/practices/carry-one-question-offline.md"
+  ],
+  "source_path": "raw/lenny-739-unconventional-product-lessons-from-binance-n26-2025/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/choose-the-result-before-the-tool.md",
+    "practices/carry-one-question-offline.md"
+  ],
+  "historical_drafts_retained": true
+}

@@ -1,0 +1,26 @@
+{
+  "id": 552,
+  "title": "Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/anton-osika/transcript.md",
+  "sha256": "c3c426cbed2f42edee9c94349d2a7ca81c42c6f4f2061404fab9da9f08d750a3",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 12180,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 841,
+      "text": "... Lovable is your personal AI software engineer. Yo"
+    },
+    {
+      "line": 61,
+      "offset": 2357,
+      "text": "Today, my guest is Anton O-C-K. Anton is co-founder and CEO of Lovable, which is essentially an AI engineer that takes an English prompt and codes a product for"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "queue_position": 329,
+  "id": 744,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/melissa-perri-denise-tilles/transcript.md",
+  "sha256": "bcdd4e2cc4ab734089ef4eac543658ef63d55da78dafa20d2a75514a441fca12",
+  "title": "The ultimate guide to product operations | Melissa Perri and Denise Tilles",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 335,
+      "text": "Denise Tilles (00:47:14):"
+    },
+    {
+      "line": 336,
+      "text": "I think if you find someone that's done the role of product management, awesome. If someone's set it up somewhere ... Look at Blake Samic, started from Uber to Strike to AI. Clearly, he's got a model going that's really successful. So if somebody could get a Blake Samic, I would say definitely do that."
+    },
+    {
+      "line": 428,
+      "text": "(00:59:20):"
+    },
+    {
+      "line": 429,
+      "text": "It's not like training for 40 hours a week and then waiting six months to see results. It's more about, \"I need you to go pull these types of cuts. Here's why. Let me explain to you this so that you learn it and then you can think about it next time,\" but that's going to help you there too. So I think it really depends. So how fast you need product ops fully rolled out and then how much time you have to train people, and then where you're starting from there and how big and how much buy-in you have to grow this thing from the get-go."
+    },
+    {
+      "line": 560,
+      "text": "(01:13:13):"
+    },
+    {
+      "line": 561,
+      "text": "Another one that I have not been involved with but that I just really love because I think they're doing great things with, again, in the product ops world, is Dovetail and they are a research repository out there and they're also putting AI on top of it to help generate insights into all the research that's been done. I have no affiliation with Dovetail, but I really love what they're doing because I've had that problem of us rolling our own research repository over and over and over again, and now we've got a tool out there to do it."
+    }
+  ]
+}

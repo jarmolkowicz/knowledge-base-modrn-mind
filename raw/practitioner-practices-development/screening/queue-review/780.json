@@ -1,0 +1,29 @@
+{
+  "queue_position": 356,
+  "id": 780,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/rahul-vohra/transcript.md",
+  "sha256": "7c167bb8a2fb3ab765d9759f20308011f2c9b2eb116fa880050aa64caf5f807c",
+  "title": "Superhuman's secret to success | Rahul Vohra (CEO and founder)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 347,
+      "text": "(00:50:32):"
+    },
+    {
+      "line": 348,
+      "text": "And number two, in a world where you can easily and quickly raise funding, like for example the zero interest rate phenomenon era, you can actually use dollars to avoid building a first-time user experience and all of the normal growth loops that you would then have to build. You would then instead focus all of your engineers on finding product market fit or in solution deepening or in market widening, but not for example on a first-time user experience, not for example on activation, because you have humans doing activation for you. By contrast I saw other companies often competing spend almost half their engineering dollars on those things, on self-service flows for products that ultimately did not find products market fit. So makes sense to do if you really want to create that brand, which I think all consumer-ish companies need to do. And if there is money falling off trees, for whatever reason, which we did have for a period of time, arguably AI companies have that again today. So if you can weave this into your strategy, I think you should, but you should also know when to stop."
+    },
+    {
+      "line": 470,
+      "text": "(01:15:11):"
+    },
+    {
+      "line": 471,
+      "text": "And on the flip side, there were certain AI features where I did expect a ton of usage, but we didn't quite get the usage that we were perhaps hoping for. Hopefully I'm not AI Kramer, but basically everything I thought would work out well, people use it less than they thought they did. And everything where I was like, \"I don't know, but let's build the thing,\" people love that."
+    }
+  ]
+}

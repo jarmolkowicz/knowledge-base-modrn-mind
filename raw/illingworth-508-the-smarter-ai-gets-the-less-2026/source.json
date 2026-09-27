@@ -1,0 +1,51 @@
+{
+  "slug": "illingworth-508-the-smarter-ai-gets-the-less-2026",
+  "original_filename": "smarter-ai-less-reliable-hot-mess.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 1938,
+  "hash": "f315df6b17c0ea7fb77c29b5c8a1525bb904e55bf59ef303aeb81cf1f23089d8",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:45Z",
+  "decisions": [
+    {
+      "stage": "practice_review",
+      "date": "2026-09-26",
+      "decision": "merge",
+      "scope": "draft_only",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/illingworth-508-the-smarter-ai-gets-the-less-2026.md",
+      "practices": [
+        "practices/test-ai-on-the-work-it-will-do.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 144,
+  "screening_id": 508,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/smarter-ai-less-reliable-hot-mess.md",
+  "bibliographic_metadata": {
+    "title": "The Smarter AI Gets, the Less You Can Trust It on the Hard Stuff ",
+    "date": "2026-04-29",
+    "url": "https://theslowai.substack.com/p/smarter-ai-less-reliable-hot-mess",
+    "collection": "Sam Illingworth"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

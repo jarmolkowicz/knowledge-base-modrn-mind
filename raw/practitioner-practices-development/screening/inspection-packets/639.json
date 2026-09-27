@@ -1,0 +1,26 @@
+{
+  "id": 639,
+  "title": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/gaurav-misra/transcript.md",
+  "sha256": "3fad65a5062ad5115e0b9235d7c77b0d7216210f977a9e6584d56e14a5defbe3",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 16625,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 805,
+      "text": "There's rarely a time like this where so much "
+    },
+    {
+      "line": 126,
+      "offset": 11848,
+      "text": "Hundred percent. I mean, I think honestly it just comes down to not just AI for the sake of AI or AI for the sake of excitement or hype or n"
+    }
+  ]
+}

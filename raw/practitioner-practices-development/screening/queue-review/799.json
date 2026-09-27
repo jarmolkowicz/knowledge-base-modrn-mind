@@ -1,0 +1,29 @@
+{
+  "queue_position": 372,
+  "id": 799,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/scott-wu/transcript.md",
+  "sha256": "6d4cdd44a59eeba50abebcf00697f2c695347ad825ac24c0b9d2c1e1cfe626cc",
+  "title": "Inside Devin: The AI engineer that's set to write 50% of its company’s code this year | Scott Wu",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 156,
+      "text": "(00:12:16):"
+    },
+    {
+      "line": 157,
+      "text": "And it was amazing. Right. I mean, it passed the churn test, it was able to respond and to have encyclopedic knowledge about a lot of things. And I think this new paradigm which we've gotten into over this last year or year and a half is really high compute RL, which is a very different paradigm, right, which is basically the ability to go and do work on task and put something together and then be evaluated on whether that was correct or incorrect and use that knowledge to decide what to do and to learn from that. Right. And so we felt very strongly that that was going to happen. I think for us, code was the natural thing to work on for a couple reasons. One, because we're all programmer nerds ourselves, and so teaching AI to code is about as cool as it gets for us, but also because code has this whole automated feedback loop, right, where you can run the code and that is the kind of automated feedback that really feeds into the RL, which makes these models so great at coding."
+    },
+    {
+      "line": 174,
+      "text": "(00:16:11):"
+    },
+    {
+      "line": 175,
+      "text": "And so it's yeah, it's been a fun journey. I mean, I think I would say that the grounding question for us really, which is one that we think about all the time, is really just what is the future of software engineering and how should we be working with AI to write code? Because I think at the end of the day, of course that's what underlines all of the product decisions that we make, so."
+    }
+  ]
+}

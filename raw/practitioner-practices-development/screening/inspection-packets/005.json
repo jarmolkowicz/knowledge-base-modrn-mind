@@ -1,0 +1,24 @@
+{
+  "id": 5,
+  "title": "Silence Is Not Necessarily Violence",
+  "collection": "Adam Grant",
+  "path": "raw/inbox/Practical/Adam Grant/silence-is-not-violence.md",
+  "sha256": "128c08c3ef98b347c37a1f2041edc677bdcd787adaeb2b5bbba888d6888a3686",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1305,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 395,
+      "text": "Like you, I get a lot of requests to post about other people’s causes. *Promote my nonprofit to save the wildebeests! Sh"
+    },
+    {
+      "line": 54,
+      "offset": 7676,
+      "text": "As a matter of integrity, I’ll continue sharing what I’m learning about psychology and human behavior regardless of whether it might be popular. I don’t expect you to agree with everything I think—I don’t even agree with everything I think! (Frankly, I don’t think you should agree with anyone 100% of the time. If you do, you may not be thinking for yourself."
+    }
+  ]
+}

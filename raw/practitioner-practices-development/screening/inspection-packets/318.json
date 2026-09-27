@@ -1,0 +1,29 @@
+{
+  "id": 318,
+  "title": "Opus.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/opus.md",
+  "sha256": "539a33e3ea42b46425598c73c8c703a2efe021e135ba56fe8e3cc5541f5c346d",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 541,
+  "headings": [
+    "**1. Why Claude Opus 4.5 beats ChatGPT.**",
+    "**Are you new? Access my archive:** *https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing.*",
+    "**2. How do I write this blog (with Claude).**",
+    "**3. The exact prompt to test it yourself.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 121,
+      "text": "No one told you the best AI model isn’t ChatGPT anymore."
+    },
+    {
+      "line": 30,
+      "offset": 558,
+      "text": "I’ve spent months trying to make ChatGPT write like me."
+    }
+  ]
+}

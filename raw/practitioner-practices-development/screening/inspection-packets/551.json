@@ -1,0 +1,26 @@
+{
+  "id": 551,
+  "title": "Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/annie-pearl/transcript.md",
+  "sha256": "9f551d930c6ab2486fcae919a9855b2052a590a9b870150bc9399a18f9dfde1d",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13068,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 799,
+      "text": "Strategy is really just an integrated set of choices "
+    },
+    {
+      "line": 81,
+      "offset": 6003,
+      "text": "But I think that at a high level, I think I recommend first really just kind of opening the door for the person you're trying to schedule time with to share the"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "non_practice_entries": 343,
+  "type_counts": {
+    "concept": 73,
+    "method": 22,
+    "source": 248
+  },
+  "newly_screened": 228,
+  "previously_reviewed": 115,
+  "existing_practices_comparison_only": 75,
+  "family_counts": {
+    "candidate": 10,
+    "enrich": 8,
+    "hold": 4
+  },
+  "disposition_counts": {
+    "background_no_distinct_lead_identified": 100,
+    "enrich": 75,
+    "candidate": 30,
+    "hold": 23,
+    "previous_review_carried_forward": 115
+  },
+  "canonical_input_hashes_unchanged": true,
+  "previous_integrated_source_hashes_unchanged": true,
+  "all_family_and_overlap_links_resolve": true,
+  "original_source_review_this_pass": false,
+  "new_practice_cards": 0
+}

@@ -1,0 +1,33 @@
+{
+  "queue_position": 267,
+  "id": 661,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/inbal-s/transcript.md",
+  "sha256": "11ff455624c4ef4de8b007725d661c9beae9c8a3634f344b2b8a83daff9a71ac",
+  "title": "The future of AI in software development | Inbal Shani (CPO of GitHub)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 36,
+      "text": "## Transcript"
+    },
+    {
+      "line": 72,
+      "text": "I want to start with just a broad question about where software development is going. It feels like you're at the center of the storm of what is changing in software development. It almost feels like GitHub kicked off the storm with the launch of Copilot. So let me ask, what do you think is overhyped in terms of what is changing in software development and then what do you think is underhyped?"
+    },
+    {
+      "line": 171,
+      "text": "In GitHub in general, it's not just the product team. GitHub is GitHub. I'll say we eat our own dog food, and that means that we are the first to try every feature, every capability that we're developing. And it's not just our engineering team, it spans across GitHub. So for example, GitHub is running on GitHub. There are several blog posts and talks. Even in the recent Universe, we had a specific talk in terms of how GitHub is using GitHub and adopting AI across software development lifecycle."
+    },
+    {
+      "line": 186,
+      "text": "Yeah. The design philosophy for Copilot is very much aligned with the working backwards concept that I just mentioned. It's really putting yourself in the shoes of your customers and figuring out what is it that they need, how is that experience going to work for them? If it's an extra tool and if you need to ask for it and if you need to ask for it or if you need to wait for it, then developers will not adopt it."
+    },
+    {
+      "line": 207,
+      "text": "So I think that the world of the metrics for AI is really a big one. We are working a lot with our customers as they're asking the same questions and they're running their own experiments within their companies to figure out what is it that they want to measure. The most easiest one is time, but time is, it's funny what I'm going to say, but time is not quantifiable as a success metrics because you can write really bad code really fast."
+    }
+  ]
+}

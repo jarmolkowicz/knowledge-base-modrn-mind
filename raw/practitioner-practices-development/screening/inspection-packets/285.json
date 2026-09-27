@@ -1,0 +1,36 @@
+{
+  "id": 285,
+  "title": "Detection.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/detection.md",
+  "sha256": "79239067eafe99bc5876da3be268d9b5f112b2ea2bfd57aa41aaaa126bd86d52",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1252,
+  "headings": [
+    "**1. The truth about AI detection bots.**",
+    "**2. How to forever avoid sounding like an AI.**",
+    "**1. Stop padding your sentences.**",
+    "**2. Ban the AI vocabulary.**",
+    "**3. Fix your pacing.**",
+    "**4. Kill the meta commentary.**",
+    "**5. Formatting that doesn’t look like a template.**",
+    "**6. Be concrete. Be opinionated.**",
+    "**You are new? Access my archive of guides:**",
+    "*https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing.*",
+    "**3. The copy & paste prompt to edit any text and remove its AI feel.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 136,
+      "text": "You read a text, and you just \\***know**\\* it’s written by ChatGPT."
+    },
+    {
+      "line": 58,
+      "offset": 2227,
+      "text": "Humans can write robotic text. AI can write natural text. The two overlap. A lot."
+    }
+  ]
+}

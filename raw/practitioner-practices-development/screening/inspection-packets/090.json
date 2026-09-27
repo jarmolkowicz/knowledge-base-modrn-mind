@@ -1,0 +1,24 @@
+{
+  "id": 90,
+  "title": "Speaking things into existence",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/speaking-things-into-existence.md",
+  "sha256": "2970c0ccd197181136163df64b46395f291b86bf0af40b6597807420864b1453",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1936,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 210,
+      "text": "Influential AI researcher Andrej Karpathy wrote two years ago that “the hottest new programming lang"
+    },
+    {
+      "line": 58,
+      "offset": 11024,
+      "text": "Then I gave all of the previous output to o1-pro and asked it to write a paper, offering a few suggestions along the way. It is far from a blockbuster, but it would make a solid contribution to the state of knowledge (after a bit more checking of the results, as AI still makes errors). More interest"
+    }
+  ]
+}

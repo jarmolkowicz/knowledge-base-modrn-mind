@@ -1,0 +1,33 @@
+{
+  "id": 821,
+  "group_index": 17,
+  "decision": "draft_with_limits",
+  "coverage": "Read relevant complete transcript exchanges: L709–802; 01:23:05–01:37:10; L909–910. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L709–802; 01:23:05–01:37:10; L909–910"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Coach describes client use; host reports it clarified his talk."
+  ],
+  "proposed_outcomes": [
+    "Clarify and internalize a talk."
+  ],
+  "limits": [
+    "Self-report and commercially promoted coaching method, not evidence of broad anxiety treatment or lasting skill gains. Script-free delivery may not suit accessibility needs or exact mandatory wording."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/lenny-821-why-most-public-speaking-advice-is-2024/drafts/practices/accordion-speaking-rehearsal.md"
+  ],
+  "role": "origin",
+  "review_note": "Accordion: speak for successively shorter intervals, then expand while adding back only chosen material.",
+  "author": "Tristan de Montebello",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/accordion-speaking-rehearsal.md"
+  ],
+  "historical_drafts_retained": true
+}

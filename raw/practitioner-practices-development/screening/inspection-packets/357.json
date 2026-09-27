@@ -1,0 +1,30 @@
+{
+  "id": 357,
+  "title": "The 8 AI Skills That Will Separate Winners From Losers",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/8-ai-skills-learn-2026.md",
+  "sha256": "a31ba920e92c3c395f767bb737e8bd3accf18cd3cc6e09e9dd87208e15c601cc",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1103,
+  "headings": [
+    "Phase 1: Mindset",
+    "Phase 2: AI Foundations",
+    "Phase 3: AI Tech Stack",
+    "The Formula",
+    "**P.S. Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 14,
+      "offset": 284,
+      "text": "You see kids building apps and automations, somehow printing money, wh"
+    },
+    {
+      "line": 82,
+      "offset": 3630,
+      "text": "*Here are the technical skills you should learn in 2026 to increase your leverage and actually use AI to scale yourself. However, if you’re still struggling with the previous 5 skills, I recommend spending your"
+    }
+  ]
+}

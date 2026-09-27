@@ -1,0 +1,24 @@
+{
+  "id": 217,
+  "title": "My honest breakdown of the OpenClaw hire",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/the-20kmonth-lobster-that-zuckerberg.md",
+  "sha256": "b18e4982da0f9ab0b94d9099943d2b2829205cbfb93e23b7f469efa04c425952",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 498,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 233,
+      "text": "Peter Steinberger built what’s been widely described as the fastest-growing open-sourc"
+    },
+    {
+      "line": 12,
+      "offset": 853,
+      "text": "OpenClaw—the project Steinberger built in about an hour on a Friday night in November 2025—proved something the industry needed to see: a self-hosted AI agent could do real work on real computers. Not answer questions. Not generate text. Actually manage your e"
+    }
+  ]
+}

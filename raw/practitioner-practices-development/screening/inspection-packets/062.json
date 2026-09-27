@@ -1,0 +1,24 @@
+{
+  "id": 62,
+  "title": "Why Isn’t AI Taking Our Jobs?",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/why-isnt-ai-taking-our-jobs.md",
+  "sha256": "befdaae6c672b3cef36be6b540a9d6e240e3cbf5293c4f23c83368307360a661",
+  "access": "public-page",
+  "kind": "article",
+  "words": 493,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 376,
+      "text": "The leaders of AI companies often compare their technology to industrial automation: just as machines eliminated jobs th"
+    },
+    {
+      "line": 25,
+      "offset": 2485,
+      "text": "I then describe what I learned interviewing several small business owners who were making heavy use of AI. I asked them how exactly they were deploying this technology. What I discovered reminded me of my high school job: they were using AI to vibe code quick-and-dirty tools to simplify various parts of their operations."
+    }
+  ]
+}

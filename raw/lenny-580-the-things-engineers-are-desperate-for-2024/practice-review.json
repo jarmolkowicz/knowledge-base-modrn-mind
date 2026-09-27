@@ -1,0 +1,34 @@
+{
+  "id": 580,
+  "group_index": 5,
+  "decision": "counterexample",
+  "coverage": "Read L513–577, including question context and complete AI-corner exchange (01:12:42–01:17:04); other topics excluded.",
+  "locators": [
+    "L528–577, 01:12:42–01:17:04: complete AI-corner exchange",
+    "L547–556: invented quotations, repeated fabrication, wrong paper summary"
+  ],
+  "basis": "First-person interview examples.",
+  "reported_outcomes": [
+    "Fournier reports more fabricated quotations after challenging the assistant; occasional sentence-editing help is a separate use."
+  ],
+  "proposed_outcomes": [],
+  "limits": [
+    "A friend’s apparently better role prompt was not tested systematically.",
+    "Whether AI wrote the discussed film trailer is explicitly unknown."
+  ],
+  "related_entries": [
+    "reference-verification",
+    "automation-bias"
+  ],
+  "practice_files": [
+    "raw/illingworth-456-this-is-how-to-stop-being-2026/drafts/practices/preserve-an-ai-claim-before-challenging-it.md"
+  ],
+  "role": "counterexample",
+  "review_note": "Failure evidence for checking original records; do not extract role prompting as verification.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/preserve-an-ai-claim-before-challenging-it.md"
+  ],
+  "historical_drafts_retained": true
+}

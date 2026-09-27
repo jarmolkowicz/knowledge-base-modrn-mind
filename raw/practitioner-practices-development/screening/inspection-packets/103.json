@@ -1,0 +1,24 @@
+{
+  "id": 103,
+  "title": "Three Years from GPT-3 to Gemini 3",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/three-years-from-gpt-3-to-gemini.md",
+  "sha256": "a0adcb9dc431d4b74274426be534ac2e513b5a518bf1483abbd04d977175800b",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1814,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 220,
+      "text": "I’ve been testing Google’s new Gemini 3 model. It is very good. But rather than give you benchmark n"
+    },
+    {
+      "line": 12,
+      "offset": 422,
+      "text": "It has been slightly less than three years since the release of ChatGPT. A few days before that launch, I wrote my first post on this Substack about OpenAI’s earlier GPT-3 model. Then ChatGPT came out, and I wrote immediately afterwards that “I am usually pretty hesitant to make technology predictio"
+    }
+  ]
+}

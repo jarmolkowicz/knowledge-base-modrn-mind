@@ -1,0 +1,26 @@
+{
+  "id": 768,
+  "title": "The happiness and pain of product management | Noam Lovinsky (Grammarly, FB, Thumbtack, YT)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/noam-lovinsky/transcript.md",
+  "sha256": "ccdd0f7cceb08b8f3d4300749d472bd6d0723e51f78c0ec0b680b1af97a75ea6",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 12244,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 865,
+      "text": "You've worked at so many great companies. A"
+    },
+    {
+      "line": 169,
+      "offset": 18557,
+      "text": "Yeah, it's a great question. I mean, I think ideally, things that are best for the customer, there's high overlap with that with t"
+    }
+  ]
+}

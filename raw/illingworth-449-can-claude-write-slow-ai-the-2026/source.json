@@ -1,0 +1,50 @@
+{
+  "slug": "illingworth-449-can-claude-write-slow-ai-the-2026",
+  "original_filename": "can-claude-write-slow-ai-results.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 2039,
+  "hash": "9f4b9ea646bb662a42ff1ea05432a576d5c4fa872c2c0a225d9e98ae7de0acfa",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:44Z",
+  "decisions": [
+    {
+      "stage": "practice-close-reading",
+      "outcome": "counterexample",
+      "at": "2026-09-26",
+      "scope": "draft-only; integration pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/illingworth-449-can-claude-write-slow-ai-the-2026.md",
+      "practices": [
+        "practices/request-criticism-without-rewriting.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 173,
+  "screening_id": 449,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/can-claude-write-slow-ai-results.md",
+  "bibliographic_metadata": {
+    "title": "Can Claude Write Slow AI? The Results",
+    "date": "2026-04-06",
+    "url": "https://theslowai.substack.com/p/can-claude-write-slow-ai-results",
+    "collection": "Sam Illingworth"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

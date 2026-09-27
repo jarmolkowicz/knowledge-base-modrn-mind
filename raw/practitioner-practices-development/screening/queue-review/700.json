@@ -1,0 +1,53 @@
+{
+  "queue_position": 297,
+  "id": 700,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/karina-nguyen/transcript.md",
+  "sha256": "a4bc268e991ef585f5e9771640da9087ca4fcbd703774260e24e58ed606a9d94",
+  "title": "OpenAI researcher on why soft skills are the future of work | Karina Nguyen",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 269,
+      "text": "(00:29:09):"
+    },
+    {
+      "line": 270,
+      "text": "And then it's mostly like developing JSON schema. It was like, \"Okay, from this problem maybe the model should extract the time that the user requested.\" And then you think about which format do you want the time to be? And then how do you want the model to notify you is basically the user should give instruction to the model. And then this instruction would fire off every day or something at that particular time. So, for example, if you say, \"Every day I want to learn know about the latest AI news,\" the model should rewrite into, \"Okay search for the latest AI news and this task will get fired at that particular type that the user requested.\""
+    },
+    {
+      "line": 359,
+      "text": "(00:43:53):"
+    },
+    {
+      "line": 360,
+      "text": "I don't think we've cracked this problem at all. A couple of years ago I was telling some people, I was like, \"You want to build for the future.\" So it's like it doesn't necessarily matter whether the model is good or not, good right now, but you can build product ideas such that by the time the models will be really good, it'll work really well. I think it just happened naturally. For example, at Anthropic the Claude artifacts... And I feel early days of Canvas was, back in 2022 before ChatGPT, writing ideas was our knowledge [inaudible 00:44:36]. But I feel like Claude 1.3 model itself was not there to have made really extreme good high quality edits. For example, like coding. "
+    },
+    {
+      "line": 395,
+      "text": "(00:50:54):"
+    },
+    {
+      "line": 396,
+      "text": "That, and the part of development, is basically self-improving. It's kind of like its own organism or something. Again, like strategies, it's more like data analysis and coming up with... I think what models are really good at is connecting the dots, I think. It's like if you have user feedback from this source, but you also have an internal dashboard with metrics and then you have other feedback or input and then it can create a plan for you, recommendations even.  And I think this is one of the most common use cases for ChatGPT too, is coming up with these sort of things."
+    },
+    {
+      "line": 446,
+      "text": "Karina Nguyen (00:57:23):"
+    },
+    {
+      "line": 447,
+      "text": "One of my regrets, I guess, when I was early days at Anthropic was that... I think there was some luxury of the time, because pre-ChatGPT, to actually come in with a bunch of ideas and prototype almost every day. And I think that we did a lot of cool ideas like Claude, and Slack was actually one of the first tool-usey products. It's like Claude could operate in your workplace now. It's kind of cool because you can add Claude to summarize the thread. So maybe you have an entire conversation with someone and then you want a summary of what happened you can ask Claude, \"Summarize this.\" "
+    },
+    {
+      "line": 452,
+      "text": "(00:58:48):"
+    },
+    {
+      "line": 453,
+      "text": "And it's kind of like really cool form factor. I think thinking about form factor's a really important question in AI, especially we haven't even figured out how do we create an awesome product experience with o-series models. It's like the paradigm between synchronous real time give an answer paradigm into more asynchronous paradigm of agents working on the background. But then now the question is the agents should build trust with you, right? And trust builds over time, which is like with humans. And you start this collaboration which is why this collaboration model with you and the model is so important because you build trust and the model learns from your preferences so that it can become more personalized and it will start predicting the next action that you want to take on the computer or something. And it's more predictive, much more... We went from personal computers to personal model basically here."
+    }
+  ]
+}

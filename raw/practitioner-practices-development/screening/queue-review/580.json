@@ -1,0 +1,45 @@
+{
+  "queue_position": 216,
+  "id": 580,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/camille-fournier/transcript.md",
+  "sha256": "0bfec63f274d60f7b1fbc08bddade93a6686d8c4cde188c13ea2b795a78053ec",
+  "title": "The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 531,
+      "text": "Camille Fournier (01:13:11):"
+    },
+    {
+      "line": 532,
+      "text": "I find it helpful, for example, if I've written a sentence and I'm like, I like this sentence, but I feel like, I don't like the phrasing or the format that I've used, it needs to be edited, but I can't quite figure out how. I will often put it into ChatGPT and be like, \"Can you reframe this? Can you rephrase this for me?\" It doesn't always work well, but sometimes it does. It's like, \"Oh yeah, if I just switched this around or changed this word choice, it's a much easier to read sentence.\" I do think it's ... I think it's just before that and small. I think it's large, lots of texts I haven't had as much luck with. I'm a little bit of an AI novice still, I would say."
+    },
+    {
+      "line": 549,
+      "text": "(01:14:45):"
+    },
+    {
+      "line": 550,
+      "text": "I was like, that's still not a real quote, so don't ask it for quotes because ... or if you do, make sure it's a real quote and not just an interestingly phrased ... I mean good summarization in some ways of the text, it was sort of quoting from, just not an actual quote."
+    },
+    {
+      "line": 555,
+      "text": "Camille Fournier (01:15:26):"
+    },
+    {
+      "line": 556,
+      "text": "No, I have not figured out the prompt engineering thing at all. I tried to get it to summarize a paper for me the other day, and it literally gave me the summary of a different paper, and then I asked friends and they were like, \"Well, here's a summary.\" I was like, \"Actually, that seems like a good summary.\" And they're like, \"Well, first I told the AI that it was an expert in the field and that it needed to read carefully and that it was really smart,\" and I'm just like, how do I have to manage the machine? I already have to manage all of these humans? Why are you making me manage machines now too, please?"
+    },
+    {
+      "line": 573,
+      "text": "Lenny Rachitsky (01:16:58):"
+    },
+    {
+      "line": 574,
+      "text": "Or very intentional marketing stint."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "queue_position": 112,
+  "id": 409,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-and-neurodiverse-perception.md",
+  "sha256": "6972e31cb9521e2506c0ea7b785bff182d0891e4a57d57afcb29096dfec3b944",
+  "title": "Teaching AI to Notice Neurodiverse Perception",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 #### **Step by step**",
+    "L60 #### Slow AI #1 – Teach It Something It Cannot Know",
+    "L72 #### **A moment from Susan**",
+    "L90 #### The Slow AI Library",
+    "L102 #### **What to do with it**",
+    "L116 #### **Let’s Collaborate**",
+    "L122 #### Collaborating with Slow AI",
+    "L134 #### **Why this matters**",
+    "L146 #### **From [Using AI to Overcome Imposter Syndrome](https://theslowai.substack.com/p/reframing-imposter-feelings-with-ai)**",
+    "L160 #### **How I Plan a Week of Notes Without Losing Hours**"
+  ],
+  "passages": [
+    {
+      "line": 16,
+      "text": "This week’s *Slow AI* prompt comes from **Susan Gordon Byron**, a poet and former journalist. Together, we invite a small experiment in perception. Ask your AI a synaesthetic question and watch what happens when it meets a way of seeing that is not its own."
+    },
+    {
+      "line": 36,
+      "text": "#### **Step by step**"
+    },
+    {
+      "line": 50,
+      "text": "- If it mirrors your words without depth, supply your colour and ask it to build a small scene that honours it."
+    },
+    {
+      "line": 52,
+      "text": "The aim is not to make the tool feel. The aim is to test whether it can respect perception without flattening it."
+    },
+    {
+      "line": 72,
+      "text": "#### **A moment from Susan**"
+    },
+    {
+      "line": 74,
+      "text": "This prompt sprung directly from a previous *Slow AI* prompt to write the ‘missing chapter’. If we are to treat AI as a creative ally, even sceptically, then we must explore its current limits - and be prepared to make an investment in expanding those limits."
+    },
+    {
+      "line": 82,
+      "text": "How do I ‘transform’ information? How might data, given to a poet or mathematician, undergo a series of intelligent transformations? Notice, too, its division between processing, perceptual and emotional transfiguring: a division I’m ready to question. Thoughtful questioning and the most authentic sharing with AI may help expand its potential: to welcome neurodiversity, perhaps even become a sustaining - not discouraging - ally."
+    },
+    {
+      "line": 102,
+      "text": "#### **What to do with it**"
+    },
+    {
+      "line": 108,
+      "text": "- If you adapted the prompt, for example by asking the tool to answer like a painter or a perfumer, describe how the tone changed."
+    },
+    {
+      "line": 134,
+      "text": "#### **Why this matters**"
+    },
+    {
+      "line": 138,
+      "text": "When you ask a sensory question and the tool refuses to meet you, you have learned something useful about design."
+    },
+    {
+      "line": 146,
+      "text": "#### **From Using AI to Overcome Imposter Syndrome**"
+    },
+    {
+      "line": 154,
+      "text": "**Bryant Duhon** described how the prompt echoed language from his own journal, which suggested that carefully trained tools can sometimes mirror back truths we have already started to write for ourselves."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 38,
+  "group_index": 8,
+  "decision": "counterexample",
+  "coverage": "Full available extracted article, L1–61. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L15–35: initial speed estimate, two crashes, hard review",
+    "L39–41: return to manual development with narrow assistance"
+  ],
+  "basis": "Anonymous secondhand account.",
+  "reported_outcomes": [
+    "Engineer reports early speed, later crashes and narrower AI use; no logs or independent corroboration."
+  ],
+  "proposed_outcomes": [],
+  "limits": [
+    "Cannot attribute all failures to AI or generalize savings.",
+    "Review difficulty is not quantified generally."
+  ],
+  "related_entries": [
+    "automation-bias",
+    "metacognitive-demand"
+  ],
+  "practice_files": [
+    "raw/ramonov-402-the-ultimate-ai-coding-guide-2025/drafts/practices/review-ai-code-against-independent-checks.md"
+  ],
+  "role": "counterexample",
+  "review_note": "Failure case for review requirements; not a universal argument against AI coding.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/review-ai-code-against-independent-checks.md"
+  ],
+  "historical_drafts_retained": true
+}

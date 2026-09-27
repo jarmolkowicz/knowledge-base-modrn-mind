@@ -1,0 +1,26 @@
+{
+  "id": 589,
+  "title": "Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/chip-huyen/transcript.md",
+  "sha256": "4f49e4262c61283a0fbf36e70fac7622a3ef7f389f4a32274bf4b9962a20fce1",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15523,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 37,
+      "offset": 798,
+      "text": "A question that get asked a lot and a lot is, \"How do"
+    },
+    {
+      "line": 73,
+      "offset": 7237,
+      "text": "[inaudible 00:05:30] question that get asked a lot and a lot is that, \"How do we keep up to date with the latest AI news?\" I'm like, \"Why? Why do you need to ke"
+    }
+  ]
+}

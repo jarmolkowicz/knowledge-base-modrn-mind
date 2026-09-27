@@ -1,0 +1,24 @@
+{
+  "id": 82,
+  "title": "On Jagged AGI",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/on-jagged-agi-o3-gemini-25-and-everything.md",
+  "sha256": "3e9ba1155c9a33d82aea031ef7b5337bd9f889e0eabacd50e908ad0d477e6d09",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1787,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 187,
+      "text": "Amid today’s AI boom, it’s disconcerting that we still don’t know how to measure how smart, creative"
+    },
+    {
+      "line": 38,
+      "offset": 7631,
+      "text": "This is all pretty impressive stuff and you should experiment with these models on your own. Gemini 2.5 Pro is free to use and as “smart” as o3, though it lacks the same full agentic ability. If you haven’t tried it or o3, take a few minutes to do it now. Try giving Gemini an academic paper and aski"
+    }
+  ]
+}

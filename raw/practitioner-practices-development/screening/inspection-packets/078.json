@@ -1,0 +1,24 @@
+{
+  "id": 78,
+  "title": "Latent Expertise: Everyone is in R&D",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/latent-expertise-everyone-is-in-r.md",
+  "sha256": "a8d73cc6156bacaf690c49226fef11956c0eea6a91d316111b65e7d6946874dc",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2454,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 225,
+      "text": "AI discussions often fall into a weird dichotomy - it is either all “hype” or else the age of the su"
+    },
+    {
+      "line": 28,
+      "offset": 5704,
+      "text": "Unlocking the expertise latent in AI is, for now, a job for experts. There are multiple reasons for this. The first is that experts can easily judge whether work in their field is good or bad, and in what ways. Take, for example, two topics we are familiar with: teaching people to apply frameworks a"
+    }
+  ]
+}

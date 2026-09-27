@@ -1,0 +1,26 @@
+{
+  "id": 790,
+  "title": "A better way to plan, build, and ship products | Ryan Singer (creator of “Shape Up\")",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ryan-singer/transcript.md",
+  "sha256": "89b6f6996a007f045ed38b313428626309ba5b2ca3edc3480d08ec98015e073e",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 19774,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 834,
+      "text": "I often use this analogy of if you're doing"
+    },
+    {
+      "line": 352,
+      "offset": 29150,
+      "text": "So, actually, it turns out that the six-week is only a maximum and that's really where this number does some work for us. If we th"
+    }
+  ]
+}

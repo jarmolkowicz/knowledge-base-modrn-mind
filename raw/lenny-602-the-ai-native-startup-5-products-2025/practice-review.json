@@ -1,0 +1,26 @@
+{
+  "id": 602,
+  "group_index": 16,
+  "decision": "retain_counterexample_only",
+  "coverage": "Read relevant complete transcript exchanges: L450–490; 00:35:42–00:39:21. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L450–490; 00:35:42–00:39:21"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Personal grading observation and a product-development account."
+  ],
+  "proposed_outcomes": [
+    "Useful automatic writing evaluation, as claimed by guest."
+  ],
+  "limits": [
+    "No controlled comparison or independent reader outcomes. Do not generalize either grade inflation or claimed repair to all models. Product promotion and founder interest matter."
+  ],
+  "related_entries": [],
+  "practice_files": [],
+  "role": "counterexample",
+  "review_note": "Reports grades rising from B+ to A across turns, then claims a newer model has better taste.",
+  "author": "Dan Shipper",
+  "integration_decision": "pending",
+  "draft_only": true
+}

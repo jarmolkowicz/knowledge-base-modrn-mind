@@ -1,0 +1,29 @@
+{
+  "queue_position": 237,
+  "id": 613,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/dylan-field/transcript.md",
+  "sha256": "0c8c7a58d6acb73a79aa5d2fc7bad860e7340be2aa259cae1277a27a764b6cbe",
+  "title": "Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 37,
+      "text": "## Transcript"
+    },
+    {
+      "line": 43,
+      "text": "In my conversation with Dylan, we dig into how he builds and refines his product taste and intuition, how intuition is a hypothesis generator, the future of product management. How Dylan attempts to operationalize keeping Figma simple and to continue simplifying the experience. A bunch of stories from the early days of Figma that I've never heard before. Also, he shares his favorite AI tool called websim, which is wild. And if you wait till the very end, you can see a very young child actor Dylan Field in a clip that I found online that was hilarious."
+    },
+    {
+      "line": 103,
+      "text": "I'm going to pivot to a very hard hitting question. I hope your PR people don't kill me for asking this. Many people asked me to ask you this question. Very important. Please explain a Figma tradition called raccoon feet and muffin hands."
+    },
+    {
+      "line": 220,
+      "text": "I think the more concrete an artifact is or the more you can debate something, the better. I ask for examples a lot, I try to ask follow up questions about things and make sure I fully understand it. And I think where I get stuck sometimes is if I ask follow up questions and we don't have answers yet, and then my response might be, \"Let's go find the answer to these questions and then let's go back to this conversation\", if I think it's something that's really important. And I think for some people they might go, \"Okay, this is actually really obvious. I can't believe you're so dense and you don't get it yet.\" And sometimes they're right and they come back and they're like, \"Okay, here's the data now, can we move on?\" And we do, we move on and they're right. And I just think that it's important though to just really understand something from first principles for a lot of decisions. And maybe it's just a perfectionist quality repeated over time, I think it leads to good outcomes as long as you make sure it's not bottle-necking the organization."
+    }
+  ]
+}

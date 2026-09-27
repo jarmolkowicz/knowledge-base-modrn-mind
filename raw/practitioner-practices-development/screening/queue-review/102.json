@@ -1,0 +1,31 @@
+{
+  "queue_position": 43,
+  "id": 102,
+  "path": "raw/inbox/Practical/Ethan Mollick/thinking-like-an-ai.md",
+  "sha256": "1d7c2aced8a73e87ef174b0b97b2bdd7c498afa001e00a1e1503025216ea2746",
+  "title": "Thinking Like an AI",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 14,
+      "text": "# LLMs do next token prediction"
+    },
+    {
+      "line": 20,
+      "text": "When you give an AI a prompt, you are effectively asking it to predict the next token that would come after the prompt. The AI then takes everything that has been written before, runs it through a mathematical model of language, and generates the probability of which token is likely to come next in the sequence. For example, if I write “The best type of pet is a” the LLM predicts that the most likely tokens to come next, based on its model of human language, are either “dog”, “personal,” “subjective,” or “cat.” The most likely is actually dog, but LLMs are generally set to include some randomness, which is what makes LLM answers interesting, so it does not always pick the most likely token (in most cases, even attempts to eliminate this randomness cannot remove it entirely). Thus, I will often get “dog,” but I may get a different word instead."
+    },
+    {
+      "line": 30,
+      "text": "But the LLM does not just produce one token, instead, after each token, it now looks at the entire original sentence plus the new token (“The best type of pet is a dog”) and predicts the next token after that, and then uses that whole sentence plus the next to make a prediction, and so on. It chains one token to another like cars on a train. Current LLMs can’t go back and change a token that came before, they have to soldier on, adding word after word. This results in a butterfly effect. If the first predicted token was the word “dog” than the rest of the sentence will follow on like that, if it is “subjective” then you will get an entirely different sentence. Any difference between the tokens in two different answers will result in radically diverging responses."
+    },
+    {
+      "line": 48,
+      "text": "# LLMs make predictions based on their training data"
+    },
+    {
+      "line": 68,
+      "text": "![](https://substackcdn.com/image/fetch/$s_!TLCt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59a0b6a1-37ca-4447-8777-b94593809c4f_2025x1324.png)"
+    }
+  ]
+}

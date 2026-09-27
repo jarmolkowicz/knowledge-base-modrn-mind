@@ -1,0 +1,31 @@
+{
+  "id": 282,
+  "title": "How to prompt ChatGPT with context engineering.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/context.md",
+  "sha256": "60b703c091143081c8db95848aae0e268437db755786c0701b2cc04f3ac18801",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2530,
+  "headings": [
+    "#1 - How to use the 4W prompt.",
+    "#2 - Three examples of the right context.",
+    "Example 1: From a long PDF to a one-pager.",
+    "Example 2: Find gaps in my thinking.",
+    "Example 3: What made me great.",
+    "#3 - When not to share context (& what to do instead)."
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 208,
+      "text": "You obsess over little details of your ChatGPT prompts:"
+    },
+    {
+      "line": 28,
+      "offset": 752,
+      "text": "Think of ChatGPT like a very good intern: it does exceptionally well… if it knows first the 4W to perform the tasks. And I’m not the only one obsessing over it:"
+    }
+  ]
+}

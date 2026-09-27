@@ -1,0 +1,23 @@
+{
+  "queue_position": 38,
+  "id": 93,
+  "path": "raw/inbox/Practical/Ethan Mollick/the-bitter-lesson-versus-the-garbage.md",
+  "sha256": "06c63196fd5de33d3578b95fabc7f0e25a421ff938fbb1aabd3272975e24a5aa",
+  "title": "The Bitter Lesson versus The Garbage Can",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 34,
+      "text": "# Agents"
+    },
+    {
+      "line": 42,
+      "text": "As an example of the state-of-the art in agentic systems, consider Manus, which uses Claude and a series of clever approaches to make AI agents that can get real work done. The Manus team has shared a lot of tips for building agents, involving some interesting bits of engineering and very elaborate prompt design. When writing this post, I asked Manus: “i need an attractive graph that compares the ELO of the best grandmaster and the ELO of the worlds best chess computer from the first modern chess computer through 2025.” And the system got to work. First, Manus always creates a to-do list, then it gathered data and wrote a number of files and, after some minor adjustments I asked for, finally came up with the graph you can see on the left side above (the one without the box around the graph)."
+    },
+    {
+      "line": 50,
+      "text": "It turns out there is now evidence that this may be possible with the recent release of ChatGPT agent (an uninspiring name, but at least it is clear, a big step forward for OpenAI!). ChatGPT agent represents a fundamental shift. It is not trained on the *process* of doing work; instead, OpenAI used reinforcement learning to train their AI on the actual *final outcomes*. For example. they may not teach it *how* to create an Excel file the way a human would, they would simply rate the quality of the Excel files it creates until it learns to make a good one, using whatever methods the AI develops. To illustrate how reinforcement learning and careful crafting lead to similar outcomes, I gave the exact same chess prompt to ChatGPT agent and got the graph on the right above. But this time there was no to-do list, no script to follow, instead the agent charted whatever mysterious course was required to get me the best output it could, according to its training. You can see an excerpt of that below:"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 220,
+  "title": "$185 billion is the down payment",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/the-650-billion-infrastructure-bet.md",
+  "sha256": "4159fedfb7ccc50170ba41e9ef4cf72144c22441c323180fe9f8d03d6583f888",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 482,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 215,
+      "text": "Google just told investors they’re spending $185 billion on AI infrastructure in 2026."
+    },
+    {
+      "line": 14,
+      "offset": 494,
+      "text": "Alphabet reported Q4 earnings on February 4th — the same week a markdown file erased $285 billion in enterprise software market cap. The earnings themselves were immaculate. Revenue exceeded $400 billion for the first time in company history. EPS of $2.82 beat"
+    }
+  ]
+}

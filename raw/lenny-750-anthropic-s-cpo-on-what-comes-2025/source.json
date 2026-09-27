@@ -1,0 +1,51 @@
+{
+  "slug": "lenny-750-anthropic-s-cpo-on-what-comes-2025",
+  "original_filename": "transcript.md",
+  "format": "md",
+  "source_type": "transcript",
+  "word_count": 14999,
+  "hash": "045e133cde345946c8bb6345d60335e208f1d21f382ddcce73bac3d60eeb4857",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:47Z",
+  "decisions": [
+    {
+      "stage": "practice-review",
+      "outcome": "retain",
+      "date": "2026-09-26",
+      "reason": "Retain the question-before-tool sequence and merge two human inquiry variants without claiming the same evidence basis.",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/lenny-750-anthropic-s-cpo-on-what-comes-2025.md",
+      "practices": [
+        "practices/ask-how-to-find-out-before-asking-ai.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 476,
+  "screening_id": 750,
+  "collected_from": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/mike-krieger/transcript.md",
+  "bibliographic_metadata": {
+    "title": "Anthropic's CPO on what comes next | Mike Krieger (co-founder of Instagram)",
+    "date": "2025-06-05",
+    "url": "https://www.youtube.com/watch?v=DKrBGOFs0GY",
+    "collection": "Lenny's Podcast"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

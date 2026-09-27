@@ -1,0 +1,26 @@
+{
+  "id": 822,
+  "title": "An inside look at how CNN builds product | Upasna Gautam",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/upasna-gautam/transcript.md",
+  "sha256": "a36cd150affc2583aed566f6c9ce80db38b03fbe93a9b9c2f932ebc1b97fd8c7",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 10205,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 768,
+      "text": "It happens all the time, right? That is the"
+    },
+    {
+      "line": 95,
+      "offset": 14680,
+      "text": "And you can imagine this is exactly what it sounds like. We create a script and do a simulation of a breaking news scenario to str"
+    }
+  ]
+}

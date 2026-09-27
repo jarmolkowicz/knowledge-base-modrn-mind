@@ -1,0 +1,24 @@
+{
+  "id": 35,
+  "title": "Is Claude Mythos “Terrifying” or Just Hype?",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/is-claude-mythos-terrifying-or-just-hype.md",
+  "sha256": "6ae6d44fd7e271f6936db4be221c892aff3ade452e0adec5c26d871a639e0c74",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1116,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 417,
+      "text": "Last week, millions of *New York Times* readers were subjected to ​an alarming column​ by Thomas Friedman. “Normally rig"
+    },
+    {
+      "line": 17,
+      "offset": 943,
+      "text": "The “stunning advance” was the release of Anthropic’s new LLM, named Claude Mythos. In a lengthy ​press release​, Anthropic announced that the model would be made available to a consortium of business partners, but not to the general public. To justify this decision, Anthropic cited their concerns about its effectiveness at finding security vulnerabilities i"
+    }
+  ]
+}

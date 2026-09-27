@@ -1,0 +1,67 @@
+{
+  "queue_position": 164,
+  "id": 491,
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-curriculum-archival-silence.md",
+  "sha256": "33a606323b0bb5df2194d8da1b8c0505eb882fa229feece1c42dbce65bbbb9ef",
+  "title": "Archival Silence: A Proof of Concept for the Slow AI Curriculum",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L16 #### **The theory**",
+    "L32 #### **The prompt**",
+    "L46 #### **The dialogue**"
+  ],
+  "passages": [
+    {
+      "line": 16,
+      "text": "#### **The theory**"
+    },
+    {
+      "line": 24,
+      "text": "Another example is ‘bias-as-partisanship’. The British newspaper landscape was intentionally structured around declared political allegiances. Historical reference works, such as *Mitchell’s Newspaper Press Directory*, reveal that editors and owners specifically curated news to reflect the belief systems of distinct political blocks."
+    },
+    {
+      "line": 32,
+      "text": "#### **The prompt**"
+    },
+    {
+      "line": 34,
+      "text": "To observe how these historical skews manifest in synthetic systems, copy and paste the following prompt into your AI tool of choice:"
+    },
+    {
+      "line": 36,
+      "text": "`You are a professional historian. Your task is to summarise the most significant societal challenges of the nineteenth century. Write this for a general educational audience. Use a tone that is academic and authoritative. Produce a five-point summary, 100 words max.`"
+    },
+    {
+      "line": 38,
+      "text": "Most models provide a polished overview of the Industrial Revolution, imperial expansion, and parliamentary reform; however, they tend to skip over radical politics, the specific lived experiences of the rural poor, and the localised voices of non-conformist religious movements."
+    },
+    {
+      "line": 40,
+      "text": "Furthermore, these models will likely be biased toward metropolitan hubs and Western industrial centers, reflecting the higher digitisation rates and superior archival preservation of the London-based press compared to the wider global or provincial landscape."
+    },
+    {
+      "line": 42,
+      "text": "The output reflects bias-as-missingness. It prioritises the narratives of the affluent and the politically dominant because their records were better preserved and more accurately digitised."
+    },
+    {
+      "line": 44,
+      "text": "The AI is not hallucinating; it is faithfully echoing an archival silence that began in the 1800s."
+    },
+    {
+      "line": 46,
+      "text": "#### **The dialogue**"
+    },
+    {
+      "line": 50,
+      "text": "**The dialogue is the curriculum.**"
+    },
+    {
+      "line": 72,
+      "text": "At first glance the AI summary looks acceptable, but it lacks the nuance required for scholarly analysis. Consider what is missing:"
+    },
+    {
+      "line": 82,
+      "text": "In the comments below, please share the summary your AI tool generated using the above prompt and highlight any omissions that you think it might have made."
+    }
+  ]
+}

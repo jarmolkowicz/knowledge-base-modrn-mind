@@ -1,0 +1,29 @@
+{
+  "queue_position": 343,
+  "id": 765,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/nilan-peiris/transcript.md",
+  "sha256": "f98e156636c4f74cd1715a77def9e1d02f4bcdfb69e01116d400035b22c5ba91",
+  "title": "How to drive word of mouth | Nilan Peiris (CPO of Wise)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 329,
+      "text": "(00:39:21):"
+    },
+    {
+      "line": 330,
+      "text": "There's a story I like to share. I had a product manager join our refer a friend team, viral growth team, and invite team, and after a quarter, I said, \"So what are you going to build?\" And he's like, \"I'm going to test everything. I'm going to test the landing page, I'm going to test the subject line, I'm going to test the program so I don't know yet till run through all the tests, then I'm going to come back and tell you what I'm going to build.\""
+    },
+    {
+      "line": 587,
+      "text": "Nilan Peiris (01:11:28):"
+    },
+    {
+      "line": 588,
+      "text": "Yeah, so I only ask two. I got down to asking just two questions over time. The first one's probably my favorite, which is, what is it that most frustrates you about... Instead of why you're leaving, what frustrates you the most about where you're working right now? And this is as people always tell you why they want to join Wise, or join whatever company you're coming to, and that's not that interesting. But what's interesting, trying to figure out, is what they're running away from. And usually there's something broken there, that's really wound them up. But what's more interesting is they've been unable to fix it. And so, in asking this question, and probing, you kind of get quite good at getting a sense of what is their limit, what's the thing they found, and what did they get stuck with? And you kind of think, \"Okay, you're going to run into that here every day, every week? Or... You should be fine.\" And that's kind of why I ask that question."
+    }
+  ]
+}

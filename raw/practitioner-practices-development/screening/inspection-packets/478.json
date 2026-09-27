@@ -1,0 +1,35 @@
+{
+  "id": 478,
+  "title": "Using AI to Overcome Imposter Syndrome",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/reframing-imposter-feelings-with-ai.md",
+  "sha256": "89b46843673fc4b9a1c12cbf67c6b3d196d047cc93b2fec3cb9cfa639e334a8c",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1264,
+  "headings": [
+    "**Step-by-step**",
+    "Slow AI #1 – Teach It Something It Cannot Know",
+    "**A moment from** [Farida Khalaf](https://open.substack.com/users/47192869-farida-khalaf?utm_source=mentions)",
+    "The Slow AI Library",
+    "**What to do with it**",
+    "**Let’s Collaborate**",
+    "Collaborating with Slow AI",
+    "**Why this matters**",
+    "**From [Can AI Sense What You’re Not Saying?](https://theslowai.substack.com/p/when-ai-misses-the-feeling)**",
+    "**How I Plan a Week of Notes Without Losing Hours**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 235,
+      "text": "There is a voice in every project, or in every moment of work, tha"
+    },
+    {
+      "line": 74,
+      "offset": 4115,
+      "text": "That’s when I ran the AI prompt. Instead of asking for reassurance, I asked it to reflect back on my strengths. The response reminded me: I wasn’t proving anything; I was refining insight, shaping wor"
+    }
+  ]
+}

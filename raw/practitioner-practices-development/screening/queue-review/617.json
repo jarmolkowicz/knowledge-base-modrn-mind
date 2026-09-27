@@ -1,0 +1,61 @@
+{
+  "queue_position": 241,
+  "id": 617,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/eeke-de-milliano/transcript.md",
+  "sha256": "abcf4815aca95fdc9509022a6b88566248a66bdf3fe818830e62f8536e977186",
+  "title": "How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 114,
+      "text": "Eeke de Milliano (00:08:16):"
+    },
+    {
+      "line": 115,
+      "text": "But it was also really cool from a product perspective, because of all the kind of complicated product questions around how humans should interact with AI and models. And I imagine a lot of the folks in the latest movement in AI are thinking a lot about that too. It's like, \"How do you explain a model to humans? How do you let them interact with it?\""
+    },
+    {
+      "line": 466,
+      "text": "Eeke de Milliano (00:40:56):"
+    },
+    {
+      "line": 467,
+      "text": "And he was in interviewing this guy, Ian Leslie, who's this great writer and has just written this article that's... Basically, something along the lines of what it means to be human in the age of AI."
+    },
+    {
+      "line": 546,
+      "text": "Eeke de Milliano (00:47:44):"
+    },
+    {
+      "line": 547,
+      "text": "So if you're trying to build the minimum viable product for a car, don't build just the wheels and the axle, build the scooter first. And then from there, you build the bicycle, and the motorcycle, and then the car."
+    },
+    {
+      "line": 594,
+      "text": "Eeke de Milliano (00:52:34):"
+    },
+    {
+      "line": 595,
+      "text": "And then, the fourth thing we do is, we use Retool to build Retool. So our product roadmap lives in a Retool app. And the app that we use to have feature flags for particular features, is a Retool app. So PMs are just in the product all day long, every day. They're their own customers in a lot of ways, and that really helps as well."
+    },
+    {
+      "line": 654,
+      "text": "Eeke de Milliano (00:58:20):"
+    },
+    {
+      "line": 655,
+      "text": "Yeah. I do a little personal exercise for myself every six months, where I chart out the team that we have today, and write down all of the strengths that we have, all of the weaknesses that we have, as a team. And then I try to hire specifically for those weaknesses."
+    },
+    {
+      "line": 670,
+      "text": "Eeke de Milliano (00:59:08):"
+    },
+    {
+      "line": 671,
+      "text": "And then the other book that I was going to say, but I'm glad you mentioned Claire, is Claire's book, Scaling People, which is coming out. I had a very small hand in ghost writing for her a little bit, in the first draft. So I use a lot of the early chapters from that book still, in management. And I still recommend the tactics in there, so I'm excited for her to get it out."
+    }
+  ]
+}

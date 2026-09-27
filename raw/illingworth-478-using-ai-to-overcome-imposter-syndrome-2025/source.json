@@ -1,0 +1,25 @@
+{
+  "slug": "illingworth-478-using-ai-to-overcome-imposter-syndrome-2025",
+  "original_filename": "reframing-imposter-feelings-with-ai.md",
+  "format": "md",
+  "source_type": "article",
+  "word_count": 1588,
+  "hash": "89b46843673fc4b9a1c12cbf67c6b3d196d047cc93b2fec3cb9cfa639e334a8c",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "critiqued",
+  "ingested_at": "2026-09-26T20:59:44Z",
+  "decisions": [],
+  "lines": 179,
+  "screening_id": 478,
+  "collected_from": "raw/inbox/Practical/Sam Illingworth/reframing-imposter-feelings-with-ai.md",
+  "bibliographic_metadata": {
+    "title": "Using AI to Overcome Imposter Syndrome",
+    "date": "2025-11-25",
+    "url": "https://theslowai.substack.com/p/reframing-imposter-feelings-with-ai",
+    "collection": "Sam Illingworth"
+  },
+  "draft_only": true,
+  "integration_decision": "pending",
+  "practice_review": "practice-review.json"
+}

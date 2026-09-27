@@ -1,0 +1,29 @@
+{
+  "id": 234,
+  "title": "Why I’m moving this Substack from daily coverage to deeper weekly work",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/why-im-moving-this-substack-from.md",
+  "sha256": "3ba5cc6e22d27bd45b4fc71d383af835561eec0dfb05510a7e230b81fe418f4f",
+  "access": "public-page",
+  "kind": "article",
+  "words": 940,
+  "headings": [
+    "Three anchor pieces a week",
+    "What this looks like first",
+    "Two other changes",
+    "What I’m trying to build here"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 479,
+      "text": "I need to make a change to how I show up here."
+    },
+    {
+      "line": 25,
+      "offset": 1331,
+      "text": "I don’t think daily AI news is the best way to build that kind of fluency anymore. It can help you know what launched. It cannot, by itself, help you get good."
+    }
+  ]
+}

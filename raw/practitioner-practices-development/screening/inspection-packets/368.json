@@ -1,0 +1,28 @@
+{
+  "id": 368,
+  "title": "She Replaced Her 9-to-5 With AI",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/brooke-wright-replaced-her-9-to-5-with-ai-earning-6-figures.md",
+  "sha256": "3bfb98538833bd6b3e8e1eff3713e1e20b60a867e88e49cf79073636c6eeb8cb",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 360,
+  "headings": [
+    "Here are all the topics we cover:",
+    "Connect with Brooke",
+    "**P.S. Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 228,
+      "text": "Brooke Wright replaced her 9-5 job with AI Consulting/Training, despit"
+    },
+    {
+      "line": 52,
+      "offset": 1322,
+      "text": "15. Strategy-First AI Consulting (Not Prompt Engineering)"
+    }
+  ]
+}

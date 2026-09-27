@@ -1,0 +1,37 @@
+{
+  "queue_position": 399,
+  "id": 835,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/zoelle-egner/transcript.md",
+  "sha256": "8c4d18994b3fd507a969cb1d60335f3a33a2caa9904a6be102e540e26d3a9c5d",
+  "title": "Lessons from Airtable’s unconventional growth strategy | Zoelle Egner",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 526,
+      "text": "Zoelle Egner (01:07:40):"
+    },
+    {
+      "line": 527,
+      "text": "Okay, I hate this question because I take pride in making highly targeted recommendations, but I will do it anyway. I'm pretty sure you mostly talk to product and growth people. Right now, obviously, AI is a big topic of conversation, so here are two books that will enrich your mental model for artificial intelligence and encourage you to think about it from different perspectives. The first one, a little bit academic, highly recommend it, though. It's a book called Computing Taste by Nick Seaver. "
+    },
+    {
+      "line": 528,
+      "text": "(01:08:09):"
+    },
+    {
+      "line": 529,
+      "text": "He's a professor of anthropology and he did this study of people and companies who build music recognition algorithms. And it's a really interesting book for a bunch of reasons, including that it's a academic take on both tech culture, and more specifically, the unspoken and underlying assumptions that many workers who are building in this space have. It can be a little spicy and uncomfortable for a person in tech to read, but I think it is a fascinating perspective and very relevant to the stuff that's going on in AI right now. So go check it out. Computing Taste by Nick Seaver."
+    },
+    {
+      "line": 530,
+      "text": "(01:08:42):"
+    },
+    {
+      "line": 531,
+      "text": "The second is a fiction book, but the Ancillary Justice series by Anne Leckie, about a spaceship AI that ends up separated from its ship and trapped in a body. I'm going to leave it at that. Worth reading for a different way of thinking about AI."
+    }
+  ]
+}

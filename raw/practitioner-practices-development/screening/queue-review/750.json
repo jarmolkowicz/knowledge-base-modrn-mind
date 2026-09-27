@@ -1,0 +1,29 @@
+{
+  "queue_position": 332,
+  "id": 750,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/mike-krieger/transcript.md",
+  "sha256": "045e133cde345946c8bb6345d60335e208f1d21f382ddcce73bac3d60eeb4857",
+  "title": "Anthropic's CPO on what comes next | Mike Krieger (co-founder of Instagram)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 119,
+      "text": "Mike Krieger (00:09:18):"
+    },
+    {
+      "line": 120,
+      "text": "We have this breakfast feed breakfast with the kids every morning and sometimes some question will come up, something about physics and our oldest kid's almost six, but they ask funny questions about the solar system or physics or in a 6-year-old way and before we reach for Claude, because at first my instinct is like, \"Oh, I wonder how Claude will do this question.\" And we started changing, \"Well, how would we find out?\" And the answer can't just be we'll ask Claude, all right, well, we could do this experiment, we could have this thing. So I think nurturing curiosity and still having a sense of, I don't know, the scientific process sounds grandiose to instill in a 6-year-old, but that process of discovery and asking questions and then systematically working right through, I think will still be important. And of course AI will be an incredible tool for helping resolve large parts of that, but that process of inquiry I think is still really important and independent thought."
+    },
+    {
+      "line": 179,
+      "text": "Mike Krieger (00:19:02):"
+    },
+    {
+      "line": 180,
+      "text": "Yeah, I think that on that first row, I started the year by writing a doc that was effectively how do we do product today and where is Claude not showing up yet that it should? And I think that upstream part is the next one to go. It's interesting. At your conference I talked to somebody who's working on a PRD, GPT kind of ChatPRD, I think was the-"
+    }
+  ]
+}

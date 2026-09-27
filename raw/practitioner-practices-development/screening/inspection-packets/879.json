@@ -1,0 +1,24 @@
+{
+  "id": 879,
+  "title": "Slow AI (book)",
+  "collection": "Slow AI (book)",
+  "path": "raw/illingworth-slow-ai-2026/source.md",
+  "sha256": "466acf23e3fe97e7bc53fad2fb7f00d7dbfc2b760bfdc0c075ac90c718e0fc50",
+  "access": "local_full_book",
+  "kind": "book",
+  "words": 25253,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 3,
+      "offset": 32,
+      "text": "Slow AI Knowing When to Use AI and When to Leave It Alone Sa"
+    },
+    {
+      "line": 23,
+      "offset": 9684,
+      "text": "least hedged. Chapter 6: The ecological cost of AI. The hardest chapter to write honestly, because the truthful numbers arrive as ranges you could drive a lorry through. What we ac"
+    }
+  ]
+}

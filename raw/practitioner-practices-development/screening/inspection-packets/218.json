@@ -1,0 +1,24 @@
+{
+  "id": 218,
+  "title": "The dark factory is real, most developers are getting slower",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/the-5-level-framework-that-explains.md",
+  "sha256": "fac9a082df6afdb1870741fa75771ddae9253601e6ede349abbf22f37260048f",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 508,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 272,
+      "text": "Three engineers at StrongDM run a software factory where no human writes code and no h"
+    },
+    {
+      "line": 16,
+      "offset": 1288,
+      "text": "The frontier teams aren’t just using better AI tools. They’ve rebuilt everything around a fundamentally different workflow — one where the bottleneck has moved from how fast you can write code to how precisely you can describe what should exist, and where the "
+    }
+  ]
+}

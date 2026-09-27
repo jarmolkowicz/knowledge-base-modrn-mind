@@ -1,0 +1,41 @@
+{
+  "id": 66,
+  "group_index": 2,
+  "decision": "retain",
+  "role": "origin",
+  "locators": [
+    "L18–34, learning qualifications",
+    "L36–61, own ideas and own draft first",
+    "L67–85, collective-thinking context"
+  ],
+  "basis": "Ethan Mollick combines research commentary with his stated writing routine.",
+  "reported_outcomes": [
+    "Reports fully drafting posts before requesting reader/editor feedback, then sometimes choosing generated alternatives."
+  ],
+  "proposed_outcomes": [
+    "Preserve an independent initial direction before AI suggestions."
+  ],
+  "limits": [
+    "His own routine is not a randomized intervention. Study summaries do not prove a universal sequence effect; blanket brain-safety and laziness claims excluded. Related creativity metrics differ from durable creative capability."
+  ],
+  "related_entries": [
+    "think-first",
+    "bjork-desirable-difficulties-2011",
+    "cognitive-offloading"
+  ],
+  "review_note": "Retain independent seeds/draft, then purposeful comparison, with timing and format adapted to task.",
+  "practitioner": "No fixed solo duration or requirement to struggle beyond useful prerequisites; keep necessary access aids.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [
+    "raw/mollick-066-against-brain-damage-2025/drafts/practices/save-your-own-starting-point.md"
+  ],
+  "source_path": "raw/mollick-066-against-brain-damage-2025/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/save-your-own-starting-point.md"
+  ],
+  "historical_drafts_retained": true
+}

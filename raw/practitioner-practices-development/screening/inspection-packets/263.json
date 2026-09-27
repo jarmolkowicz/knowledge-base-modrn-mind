@@ -1,0 +1,39 @@
+{
+  "id": 263,
+  "title": "Workaholic.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/ai-holic.md",
+  "sha256": "f2eae9bf771307024741c5d49a8c699c776e27b0b0988fb0762b01238fb05d7f",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1391,
+  "headings": [
+    "**AI doesn’t feel like work.**",
+    "**Harvard just confirmed it.**",
+    "**The real enemy: performative productivity.**",
+    "5 rules to fight performative productivity.",
+    "1. Before you prompt, write one sentence about ***what*** you’re solving.",
+    "2. Kill 3 tasks for every 1 task AI helps you add.",
+    "3. Set a “last prompt” time.",
+    "4. Ask yourself: am I doing more things or the right things?",
+    "5. AI writes v1. But **YOU** decide if v1 should exist at all.",
+    "**But how to start** (exactly)**?**",
+    "**Prompt 1: Find your real goal.**",
+    "**Prompt 2: Audit your week.**",
+    "**Now, how can you go from** *planning* **to** *mastering***?**",
+    "*archive of my past blogs: https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing*"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 168,
+      "text": "It made you work *(much)* more. And it’s not *necessarily* good."
+    },
+    {
+      "line": 141,
+      "offset": 6869,
+      "text": "Before you ask AI to write it, design it, or build it, ask yourself: does this need to exist? If the answer is *“I don’t know, but it’s easy, so why not,”* you have a problem."
+    }
+  ]
+}

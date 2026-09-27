@@ -1,0 +1,26 @@
+{
+  "id": 806,
+  "title": "Product lessons from Waymo | Shweta Shrivastava (Waymo, Amazon, Cisco)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/shweta-shriva/transcript.md",
+  "sha256": "07417d2048023ef9d48322ae6383c57f28462e7cf61fa844293adbeb23d18477",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 7637,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 789,
+      "text": "Are you proactively trying to challenge you"
+    },
+    {
+      "line": 167,
+      "offset": 26591,
+      "text": "And this applies in any context. And Amazon has this great process where the PMs have to write a press release for the finished pr"
+    }
+  ]
+}

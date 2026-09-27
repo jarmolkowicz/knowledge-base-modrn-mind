@@ -1,0 +1,26 @@
+{
+  "id": 624,
+  "title": "The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/emilie-gerber/transcript.md",
+  "sha256": "1c56b2584db4a52b50250f6341d4ea4a5bcecd1b80b6e02f96b22ad900794cb9",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 18710,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 803,
+      "text": "No one ever gets this tactical in PR. There's just so"
+    },
+    {
+      "line": 63,
+      "offset": 3685,
+      "text": "Let me tell you about a product called Sprig. Next gen product teams like Figma and Notion rely on Sprig to build products that people love. Sprig is an AI-powe"
+    }
+  ]
+}

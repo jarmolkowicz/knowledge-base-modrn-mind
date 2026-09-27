@@ -1,0 +1,45 @@
+{
+  "queue_position": 357,
+  "id": 781,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ramesh-johari/transcript.md",
+  "sha256": "5ed2b618fd9b91ec54083dcd697d9d46b57e524f09ac29f59814cbcb8b79114b",
+  "title": "Marketplace lessons from Uber, Airbnb, Bumble, and more | Ramesh Johari (Stanford professor)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 345,
+      "text": "(00:40:38):"
+    },
+    {
+      "line": 346,
+      "text": "So yeah, I am a big believer in experiments. I mean, I'll just lay those cards on the table. I love working with businesses that think experiments are important to helping make good decisions."
+    },
+    {
+      "line": 576,
+      "text": "Ramesh Johari (01:09:01):"
+    },
+    {
+      "line": 577,
+      "text": "I think one of the high level points I would make, and like you said, there's an entire podcast in this topic, is that I think people want to imagine LMs and AI driven data science automating out large parts of what it means to do data science in industry. And I think that's probably the wrong perspective. In some mundane sense, that's true. It's easier for me to code than it used to be before. It's easier for me to develop visualizations than it used to be. I can make dashboards faster. So programmatically, I think it's true in some basic sense."
+    },
+    {
+      "line": 579,
+      "text": "(01:09:35):"
+    },
+    {
+      "line": 580,
+      "text": "But what I believe pretty strongly, and I teach data science here, and my students are asked to use LMs and generative AI on a weekly basis on all their assignments. So I've got an up close and personal beat on this, but I believe very strongly actually is what AI has done for us is it's massively expanded the frontier of things we could think about our problem, hypotheses we could have, maybe things we could test. It's just an astronomical explosion of explanations, and ideas, and principle."
+    },
+    {
+      "line": 711,
+      "text": "(01:22:18):"
+    },
+    {
+      "line": 712,
+      "text": "Maybe one final thought I'll share is that in the same way that AI generates a lot of ideas, AI also generates a lot of prose. And in data science, that can actually be deadly because you're getting more explanations that sometimes maybe are extraneous. "
+    }
+  ]
+}

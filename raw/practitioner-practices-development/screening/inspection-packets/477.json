@@ -1,0 +1,31 @@
+{
+  "id": 477,
+  "title": "I Have Published 125 Research Papers. Now I Am Publishing My Research Here.",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/publishing-research-on-substack.md",
+  "sha256": "1d70d99c5a01ca61dde0d9e90a03c9b5366c4a66c08f443f693230bff454ca1b",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1368,
+  "headings": [
+    "**The system that published 125 papers**",
+    "**What eighteen months costs**",
+    "**Picking up the bucket**",
+    "**What I am asking of you**",
+    "**Impact first, then research**",
+    "**Why this matters**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 488,
+      "text": "I have published over 125 peer-reviewed papers. I have an h-index "
+    },
+    {
+      "line": 99,
+      "offset": 7659,
+      "text": "The first study drops on Saturday. I gave Claude 10 poems and asked it to read them. Then I read its readings. Poetry turns out to be a precise diagnostic tool for what language models can and cannot "
+    }
+  ]
+}

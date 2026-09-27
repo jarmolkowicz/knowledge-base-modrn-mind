@@ -1,0 +1,26 @@
+{
+  "id": 597,
+  "title": "Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/claire-hughes-johnson/transcript.md",
+  "sha256": "6a0951f9bc9eed98f69588147e8ad735892b5a3df1d40d9237b845e51071544f",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15504,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 37,
+      "offset": 809,
+      "text": "What I say to people at Stripe... In our onboarding, "
+    },
+    {
+      "line": 125,
+      "offset": 26773,
+      "text": "The first thing you're probably putting in place is a little bit of hiring process, and I think that's going to matter sooner than you think. Don't just be temp"
+    }
+  ]
+}

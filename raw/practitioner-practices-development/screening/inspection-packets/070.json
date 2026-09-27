@@ -1,0 +1,24 @@
+{
+  "id": 70,
+  "title": "Choosing to Stay Human",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/choosing-to-stay-human.md",
+  "sha256": "9707b21ce802538151b684485fc2eaa2a2fabcd5e3b0eebb5751b0c872a12b51",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1833,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 371,
+      "text": "If you go to your favorite social media site, you will find it full of posts that start to look susp"
+    },
+    {
+      "line": 29,
+      "offset": 3687,
+      "text": "The clearest place to see this is in education, where two papers with an overlapping research team (including peers at Wharton) do a good job illustrating the difference between using AI to shortcut thinking and to help thinking. The first paper was an experiment at a high school in Turkey with abou"
+    }
+  ]
+}

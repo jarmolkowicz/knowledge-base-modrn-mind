@@ -1,0 +1,39 @@
+{
+  "id": 330,
+  "title": "Slow.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/slow.md",
+  "sha256": "121013970cd491c09ffe8975b4945e2389ab77ad17b9cecd1f68be83886837d7",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2464,
+  "headings": [
+    "**January Broke You** *(& You Didn’t Even Notice)*",
+    "**That’s January. One month of 2026.**",
+    "Why are you so slow when AI is so fast?",
+    "**You’re Measuring The** *Wrong* **Speed**",
+    "**Your Brain Protects You** *(& that’s the problem)*",
+    "**The 4 Traps Keeping You** *Painfully* **Stuck**",
+    "**Trap 1: The Permission Loop**",
+    "**Trap 2: The News Addiction**",
+    "**Trap 3: The Tool Carousel**",
+    "**Trap 4: The Reflex Problem**",
+    "**Start This Week** *(Not Someday → This Week)*",
+    "**Act 1: Show, don’t ask.**",
+    "**Act 2: For every article you read, try one thing.**",
+    "**Act 3: Pick one tool. Commit for 30 days.**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 20,
+      "offset": 295,
+      "text": "Here’s a *small* glimpse of *some* AI news that happened in 31 days."
+    },
+    {
+      "line": 156,
+      "offset": 9252,
+      "text": "Meanwhile, someone else picked ChatGPT eighteen months ago and never left. They learned Projects. They learned Custom Instructions. They learned how to build GPTs. They went deep. And they’re running circles around you."
+    }
+  ]
+}

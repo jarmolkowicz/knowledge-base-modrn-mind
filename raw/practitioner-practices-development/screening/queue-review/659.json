@@ -1,0 +1,29 @@
+{
+  "queue_position": 265,
+  "id": 659,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/howie-liu/transcript.md",
+  "sha256": "39d970499ef308902208a7ae68a1bf82cad6ebd301592d8d7328a36094b7ee7e",
+  "title": "How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 39,
+      "text": "Howie Liu (00:00:00):"
+    },
+    {
+      "line": 40,
+      "text": "If you were literally founding a new company from scratch with the same mission, how would you execute on that mission using a fully AI native approach? If you can't, then you should find a buyer and then if you really care about this mission, go and start the next carnation of it."
+    },
+    {
+      "line": 690,
+      "text": "Howie Liu (01:27:43):"
+    },
+    {
+      "line": 691,
+      "text": "Yeah. I mean, literally, I go into ChatGPT sometimes and I ask it just like, \"Hey, how would you build this app?\" I'm just curious. I'm like, \"How would you build Manus, the open-ended agent?\" Literally, how would you build it? You can ask the questions and it's like having an amazing, brilliant software architect, software engineer, product manager, designer expert tutor that you can literally like there's no dumb question. They have infinite patience. They're literally on and awake 24/7. It is the most incredible time to learn this stuff, to your point. Then, of course, the interactive tools to go and actually build stuff. Anyone can download Cursor and just start asking Composer to generate some code for you, and then looking at the code and trying to figure out what it does. To your point, when I think back to the earliest era that I experienced of building apps, first I learned C++, then I learned PHP and JavaScript and even building kind of JavaScript single-page apps in the early days like '08 through 2010. It was a dark, dark art. I mean, there were some like... You just had to go and like learn some of these things. There wasn't great tutorials for it. You had to reverse engineer certain things. There were just weird things like if you wanted rounded corners in your UI, you literally took Photoshop, opened it up, created like a rounded corner in pixels, and then cut that pixel up into an image that you dropped onto the page at exactly the right position to be at the edge of a box."
+    }
+  ]
+}

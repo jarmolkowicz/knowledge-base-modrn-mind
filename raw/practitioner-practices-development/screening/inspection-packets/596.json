@@ -1,0 +1,26 @@
+{
+  "id": 596,
+  "title": "An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/claire-butler/transcript.md",
+  "sha256": "58897cac644051eb75178f5d3418f8a0c16a56e5ae2590455391a2d9d51bbb6c",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 19959,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 819,
+      "text": "We had Coda. They were our first user, and they were "
+    },
+    {
+      "line": 315,
+      "offset": 56664,
+      "text": "And that was another source, back to using whatever you can to get people to try your products. That's who we asked for feedback in the early days too. Just DMe"
+    }
+  ]
+}

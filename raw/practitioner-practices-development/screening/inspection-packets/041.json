@@ -1,0 +1,26 @@
+{
+  "id": 41,
+  "title": "On Digital Minimalism, Loneliness and True Connection",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/on-digital-minimalism-loneliness-and-the-joys-of-true-connection.md",
+  "sha256": "40a8ab6f5fc474deea8c07bd820037d1d5b855a9294dd141b68630c6afcd7f9c",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 484,
+  "headings": [
+    "Earlier this month, my friend Ryan Holiday’s new book, *[Stillness is the Key](https://www.amazon.com/gp/product/0525538585/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=stuhac-20&creative=9325&linkCode=as2&creativeASIN=0525538585&linkId=d9f8c01132914d835cbdd3af00395e2f)*, was released. You probably already know and enjoy Ryan’s work, but in case you don’t, here’s my blurb from the book jacket: “Some authors give advice. Ryan Holiday distills wisdom. This book is a must read for anyone feeling overwhelmed by the frenetic demands of modern life.” If that resonates: [check this one out](https://www.amazon.com/gp/product/0525538585/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=stuhac-20&creative=9325&linkCode=as2&creativeASIN=0525538585&linkId=d9f8c01132914d835cbdd3af00395e2f)…"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 13,
+      "offset": 826,
+      "text": "Earlier today, I came across a thoughtful essay written by someone just embarking on the digital declutter suggested in "
+    },
+    {
+      "line": 23,
+      "offset": 2371,
+      "text": "As I write in chapter 4 of *Digital Minimalism*, in moderation, the loneliness felt in these moments of solitude is not necessary deleterious. I quote the following 1972 diary entry from the poet May Sarton:"
+    }
+  ]
+}

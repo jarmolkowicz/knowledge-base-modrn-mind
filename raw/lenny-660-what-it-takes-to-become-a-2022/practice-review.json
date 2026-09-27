@@ -1,0 +1,33 @@
+{
+  "id": 660,
+  "group_index": 18,
+  "decision": "merge_as_support_with_limits",
+  "coverage": "Read relevant complete transcript exchanges: L164–180; 00:21:14–00:23:04. Other interview sections not reviewed; source audio not checked.",
+  "locators": [
+    "L164–180; 00:21:14–00:23:04"
+  ],
+  "basis": "Practitioner account / proposed exercise; no direct causal evaluation of the extracted practice.",
+  "reported_outcomes": [
+    "Offers a self-review routine."
+  ],
+  "proposed_outcomes": [
+    "Improve future explanations."
+  ],
+  "limits": [
+    "No outcome data or scoring standard; a self-grade alone cannot show improvement. Supports rehearsal debrief rather than a separate automated-score practice."
+  ],
+  "related_entries": [],
+  "practice_files": [
+    "raw/lenny-585-why-most-product-managers-are-unprepared-2023/drafts/practices/rehearse-with-audience-experience.md"
+  ],
+  "role": "support",
+  "review_note": "After communicating, ask how you could answer better; the host suggests manager feedback and McAllister agrees.",
+  "author": "Ian McAllister",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/rehearse-with-audience-experience.md"
+  ],
+  "historical_drafts_retained": true
+}

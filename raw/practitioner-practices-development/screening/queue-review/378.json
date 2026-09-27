@@ -1,0 +1,132 @@
+{
+  "queue_position": 100,
+  "id": 378,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/every-claude-code-concept-explained-beginners.md",
+  "sha256": "03ffa1bdb3a9a8a182cd1fbf8e744a49fa01b422afd9d46c0b051f78589c9c21",
+  "title": "Every Claude Code Concept Explained for Normal People",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L54 ## Section 1: Getting Started",
+    "L56 ### 1. The Terminal",
+    "L80 ### 2. Installation + Pricing",
+    "L106 ### 3. File Access",
+    "L130 ### 4. Image + PDF Reading",
+    "L144 ## Section 2: Your First Real Tasks",
+    "L146 ### 5. Tool Use (Claude ACTS, Not Chats)",
+    "L168 ### 6. How to Talk to Claude Code",
+    "L190 ### 7. CLAUDE.md (Your AI’s Instruction Manual)",
+    "L210 ### 8. Plan Mode",
+    "L234 ## Section 3: How Claude’s Brain Works",
+    "L236 ### 9. Context Window",
+    "L254 ### 10. Tokens + Cost Management",
+    "L270 ### 11. Model Selection (Picking the Right Brain)",
+    "L288 ## Section 4: Managing Conversations",
+    "L290 ### 12. /compact",
+    "L300 ### 13. /clear",
+    "L310 ### 14. Session Management",
+    "L326 ## Section 5: Controlling Claude",
+    "L328 ### 15. Permission Modes + Settings",
+    "L346 ### 16. Effort Levels",
+    "L368 ### 17. Interrupt + Redirect",
+    "L384 ## Section 6: Reviewing Work + Teaching Claude",
+    "L386 ### 18. Visual Studio Code",
+    "L424 ### 19. Memory",
+    "L448 ### 20. Project Scope vs Global Scope",
+    "L468 ## Section 7: Skills + Automation",
+    "L470 ### 21. Slash Commands",
+    "L484 ### 22. Skills (Your Custom Workflows)",
+    "L548 ### 23. Hooks (Automated Guardrails)",
+    "L580 ## Section 8: Connecting Claude to the Real World",
+    "L582 ### 24. Web Browsing",
+    "L598 ### 25. MCP Servers (From Consultant to Employee)",
+    "L620 ### 26. Perplexity MCP (AI-Powered Web Research)",
+    "L642 ## Section 9: Agents, Remote Control + Scheduling",
+    "L644 ### 27. Subagents (Automatic Parallel Workers)",
+    "L666 ### 28. Remote Control (Use Claude From Your Phone)",
+    "L698 ### 29. Scheduled Tasks (/loop)",
+    "L720 ### 30. Version Control with Git",
+    "L740 ### Where to Start (Don’t Learn All 30 at Once)",
+    "L804 ### **P.S. Need More Help? 👋**",
+    "L806 ### 1/ Free [AI courses](https://www.sabrina.dev/p/start)",
+    "L808 ### 2/ Free [AI prompts](https://prompts.sabrina.dev/)",
+    "L810 ### 3/ Free [AI automations](https://agents.sabrina.dev/)",
+    "L812 ### 4/ Free [AI vibe coding](https://freevibecode.ai/)",
+    "L814 ### 5/ Ask me anything @ [Friday livestream](https://www.sabrina.dev/p/livestream)",
+    "L816 ### 6/ Free private community for [Women Building AI](https://www.skool.com/women-building-ai-2577)",
+    "L818 ### 7/ I built [Blotato](https://www.blotato.com/) to grow 1M+ followers in 1 year"
+  ],
+  "passages": [
+    {
+      "line": 146,
+      "text": "### 5. Tool Use (Claude ACTS, Not Chats)"
+    },
+    {
+      "line": 154,
+      "text": "Here’s what a tool call looks like in practice: you ask Claude to find invoices. It uses the **search tool** to scan every file in your folder. Then it uses the **read tool** to open each match. Then it uses the **write tool** to create a summary document."
+    },
+    {
+      "line": 168,
+      "text": "### 6. How to Talk to Claude Code"
+    },
+    {
+      "line": 180,
+      "text": "And here’s a power move: instead of trying to write the perfect prompt, let Claude help you write it."
+    },
+    {
+      "line": 210,
+      "text": "### 8. Plan Mode"
+    },
+    {
+      "line": 224,
+      "text": "**After**: you see the plan, approve each step, stay in control. THEN it executes. Fast and right. As best practice, you should continue watching what Claude actually does in case it goes down the wrong rabbit hole, and you need to interrupt it."
+    },
+    {
+      "line": 270,
+      "text": "### 11. Model Selection (Picking the Right Brain)"
+    },
+    {
+      "line": 284,
+      "text": "type `/model`, switch to Haiku, and paste: `Research Etsy shops selling handmade candles.` Then switch to Opus and paste the same prompt. Compare the quality AND check `/usage` after each. Same task, different brain, different price."
+    },
+    {
+      "line": 290,
+      "text": "### 12. /compact"
+    },
+    {
+      "line": 298,
+      "text": "`/compact` (after a long conversation, then ask: `Summarize everything we’ve done so far in 3 bullet points.` Claude still knows the key details, but the whiteboard is clean.)"
+    },
+    {
+      "line": 346,
+      "text": "### 16. Effort Levels"
+    },
+    {
+      "line": 362,
+      "text": "type `/model`, use the left arrow key to set effort to low, then ask `What’s 15% of $847?` Then open `/model` again, set effort to high, and paste:"
+    },
+    {
+      "line": 368,
+      "text": "### 17. Interrupt + Redirect"
+    },
+    {
+      "line": 380,
+      "text": "`Write me a 500-word blog post about...` then immediately press Escape before it finishes. Now paste: `Scratch the blog post. Give me 10 Instagram caption ideas for my real estate listings instead.` Instant pivot."
+    },
+    {
+      "line": 598,
+      "text": "### 25. MCP Servers (From Consultant to Employee)"
+    },
+    {
+      "line": 614,
+      "text": "`Help me connect my first MCP server. Walk me through adding Airtable step by step. I’ve never done this before.`"
+    },
+    {
+      "line": 720,
+      "text": "### 30. Version Control with Git"
+    },
+    {
+      "line": 732,
+      "text": "**After**: every change is saved, documented, and reversible. You roll back to any previous version in seconds."
+    }
+  ]
+}

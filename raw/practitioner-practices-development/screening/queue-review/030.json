@@ -1,0 +1,87 @@
+{
+  "queue_position": 4,
+  "id": 30,
+  "path": "raw/inbox/Practical/Cal Newport/does-ai-make-us-lazy.md",
+  "sha256": "170ab490cb1b061d8c85c7ee1b5f3f47305ed797e87301a51e3ee217122653d5",
+  "title": "Is AI Making Us Lazy?",
+  "coverage": "all available text, excluding linked images/media",
+  "headings": [],
+  "passages": [
+    {
+      "line": 9,
+      "text": "Last fall, I published a *New Yorker* essay titled, “What Kind of Writer is ChatGPT?”. My goal for the piece was to better understand how undergraduate and graduate college students were using AI to help with their writing assignments."
+    },
+    {
+      "line": 11,
+      "text": "At the time, there was concern that these tools would become plagiarism machines. (“AI seems almost built for cheating,” wrote Ethan Mollick in his bestselling book, *Co-Intelligence.* What I observed was somewhat more complex."
+    },
+    {
+      "line": 13,
+      "text": "The students weren’t using AI to write for them, but instead to hold conversations *about* their writing. If anything, the approach seemed less efficient and more drawn out than simply buckling down and filling the page. Based on my interviews, it became clear that the students’ goal was less about reducing overall effort than it was about reducing the *maximum cognitive strain* required to produce prose."
+    },
+    {
+      "line": 15,
+      "text": "“‘Talking’ to the chatbot about the article was more fun than toiling in quiet isolation,” I wrote. Normal writing requires sharp spikes of focus, while working with ChatGPT “mellowed the experience, rounding those spikes into the smooth curves of a sine wave.”"
+    },
+    {
+      "line": 17,
+      "text": "I was thinking about this essay recently, because a new research paper from the MIT Media Lab, titled “Your Brain on ChatGPT,” provides some support for my hypothesis. The researchers asked one group of participants to write an essay with no external help, and another group to rely on ChatGPT 4o. They hooked both groups to EEG machines to measure their brain activity."
+    },
+    {
+      "line": 19,
+      "text": "“The most pronounced difference emerged in alpha band connectivity, with the Brain-only group showing significantly stronger semantic processing networks,” the researchers explain, before then adding, “the Brain-only group also demonstrated stronger occipital-to-frontal information flow.”"
+    },
+    {
+      "line": 21,
+      "text": "What does this mean? The researchers propose the following interpretation:"
+    },
+    {
+      "line": 23,
+      "text": "“The higher alpha connectivity in the Brain-only group suggests that writing without assistance most likely induced greater internally driven processing…**their brains likely engaged in more internal brainstorming and semantic retrieval**. The LLM group…may have relied less on purely internal semantic generation, leading to lower alpha connectivity, because **some creative burden was offloaded** to the tool.” [emphasis mine]"
+    },
+    {
+      "line": 25,
+      "text": "Put simply, writing with AI, as I observed last fall, reduces the maximum strain required from your brain. For many commentators responding to this article, this reality is self-evidently good. “Cognitive offloading happens when great tools let us work a bit more efficiently and with a bit less mental effort for the same result,” explained a tech CEO on X. “The spreadsheet didn’t kill math; it built billion-dollar industries. Why should we want to keep our brains using the same resources for the same task?”"
+    },
+    {
+      "line": 27,
+      "text": "My response to this reality is split. On the one hand, I think there are contexts in which reducing the strain of writing is a clear benefit. Professional communication in email and reports comes to mind. The writing here is subservient to the larger goal of communicating useful information, so if there’s an easier way to accomplish this goal, then why not use it?"
+    },
+    {
+      "line": 29,
+      "text": "But in the context of academia, cognitive offloading no longer seems so benign. Here is a collection of relevant concerns raised about AI writing and learning in the MIT paper [emphases mine]:"
+    },
+    {
+      "line": 31,
+      "text": "- “Generative AI can generate content on demand, offering students quick drafts based on minimal input. While this can be beneficial in terms of saving time and offering inspiration, it also **impacts students’ ability to retain and recall information**, a key aspect of learning.”"
+    },
+    {
+      "line": 32,
+      "text": "- “When students rely on AI to produce lengthy or complex essays, they may **bypass the process of synthesizing information from memory**, which can hinder their understanding and retention of the material.”"
+    },
+    {
+      "line": 33,
+      "text": "- “This suggests that while AI tools can enhance productivity, they may also promote a form of **‘metacognitive laziness,’** where students offload cognitive and metacognitive responsibilities to the AI, potentially hindering their ability to self-regulate and engage deeply with the learning material.”"
+    },
+    {
+      "line": 34,
+      "text": "- “AI tools…can make it easier for students to **avoid the intellectual effort required** to internalize key concepts, which is crucial for long-term learning and knowledge transfer.”"
+    },
+    {
+      "line": 36,
+      "text": "In a learning environment, the feeling of strain is often a by-product of getting smarter. To minimize this strain is like using an electric scooter to make the marches easier in military boot camp; it will accomplish this goal in the short term, but it defeats the long-term conditioning purposes of the marches."
+    },
+    {
+      "line": 38,
+      "text": "In this narrow debate, we see hints of the larger tension partially defining the emerging Age of AI: to grapple fully with this new technology, we need to better grapple with both the utility and dignity of human thought."
+    },
+    {
+      "line": 40,
+      "text": "####"
+    },
+    {
+      "line": 42,
+      "text": "To hear a more detailed discussion of this new paper, listen to today’s episode of my podcast, where I’m joined by Brad Stulberg to help dissect its findings and implications  **[listen** | **watch** ]."
+    }
+  ]
+}

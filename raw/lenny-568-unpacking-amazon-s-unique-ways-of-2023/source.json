@@ -1,0 +1,45 @@
+{
+  "slug": "lenny-568-unpacking-amazon-s-unique-ways-of-2023",
+  "original_filename": "transcript.md",
+  "format": "md",
+  "source_type": "transcript",
+  "word_count": 17643,
+  "hash": "3b3073ef1b2241b05871f645e892ad84a1f7f204a1a5c9a64b5940ce5c8bbb90",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:45Z",
+  "decisions": [
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/lenny-568-unpacking-amazon-s-unique-ways-of-2023.md",
+      "practices": [
+        "practices/write-a-proposal-to-test-the-idea.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 593,
+  "screening_id": 568,
+  "collected_from": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/bill-carr/transcript.md",
+  "bibliographic_metadata": {
+    "title": "Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)",
+    "date": "2023-11-02",
+    "url": "https://www.youtube.com/watch?v=S9WHQa_AJQo",
+    "collection": "Lenny's Podcast"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "practice_review": "practice-review.json"
+}

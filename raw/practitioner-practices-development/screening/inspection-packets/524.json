@@ -1,0 +1,33 @@
+{
+  "id": 524,
+  "title": "When your writing wobbles, listen for what AI echoes",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/when-your-writing-wobbles-listen-for-what-ai-echoes.md",
+  "sha256": "8c201bb0a2a17573f8dc754a3d66628a3e2384e1d444280d53e0fe7ed82a0adf",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1049,
+  "headings": [
+    "**Step-by-step**",
+    "Slow AI #1 – Teach It Something It Cannot Know",
+    "**A moment from [Mia](https://substack.com/@miakiraki)**",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**From last week**",
+    "**Let’s collaborate**",
+    "Collaborating with Slow AI"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 279,
+      "text": "There is a moment in every project when you can feel the wobble."
+    },
+    {
+      "line": 22,
+      "offset": 1043,
+      "text": "Instead of piling on more polish, we ask: what if you let AI write the chapter you can feel, but cannot yet see?"
+    }
+  ]
+}

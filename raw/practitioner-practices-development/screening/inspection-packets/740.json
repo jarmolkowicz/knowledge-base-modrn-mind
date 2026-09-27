@@ -1,0 +1,26 @@
+{
+  "id": 740,
+  "title": "Lessons from Atlassian | Megan Cook (Head of Product, Jira)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/megan-cook/transcript.md",
+  "sha256": "bd25a1c9d35c1e39b928440b1bae17fb477a80c47d55bbb61a5740f69d4b4dd8",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15125,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 771,
+      "text": "What we put into place is something we call"
+    },
+    {
+      "line": 54,
+      "offset": 2660,
+      "text": "This time of year is prime for career reflection and setting goals for professional growth. I always like to spend this time refle"
+    }
+  ]
+}

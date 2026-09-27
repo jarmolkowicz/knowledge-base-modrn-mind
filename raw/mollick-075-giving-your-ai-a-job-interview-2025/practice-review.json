@@ -1,0 +1,38 @@
+{
+  "id": 75,
+  "group_index": 6,
+  "decision": "retain",
+  "coverage": "Full available extracted article, L1–68. Linked images, videos and external studies not inspected.",
+  "locators": [
+    "L28–34: limits of idiosyncratic impressions",
+    "L46: repeated GuacaDrone comparison",
+    "L62–67: repeated real-task tests with relevant expertise"
+  ],
+  "basis": "First-person demonstrations and proposed task-specific evaluation.",
+  "reported_outcomes": [
+    "Repeated trials produced different ratings; this does not establish ground truth for business advice."
+  ],
+  "proposed_outcomes": [
+    "Choose models using work resembling the intended task."
+  ],
+  "limits": [
+    "Familiar tasks can have weak criteria.",
+    "Benchmark scores are not local-task success probabilities.",
+    "Prompt variation and model updates complicate comparisons."
+  ],
+  "related_entries": [
+    "dellacqua-jagged-frontier-2023",
+    "reference-verification"
+  ],
+  "practice_files": [
+    "raw/mollick-075-giving-your-ai-a-job-interview-2025/drafts/practices/test-ai-on-the-work-it-will-do.md"
+  ],
+  "role": "origin",
+  "review_note": "Consolidate real-task testing; sensitivity comparisons are observations, not diagnoses of model internals.",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/test-ai-on-the-work-it-will-do.md"
+  ],
+  "historical_drafts_retained": true
+}

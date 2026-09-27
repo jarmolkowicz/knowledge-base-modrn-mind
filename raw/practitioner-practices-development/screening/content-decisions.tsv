@@ -1,0 +1,383 @@
+id	decision	reason
+0	discovery	Criticism and intuition pointers; follow original accounts rather than extract an aphorism.
+1	discovery	Monthly reading pointers on disagreement and AI; inspect linked originals if pursued.
+2	discovery	Writing-offloading caution introduces a reading collection; original sources needed.
+3	context	Personal explanation of posting boundaries; low immediate priority for AI practice extraction.
+4	discovery	Humility aphorism and podcast links; underlying interview is the useful lead.
+5	transfer_review	Independent judgment and public-expression boundaries may transfer; inspect concrete decision rules.
+6	discovery	Book recommendations; use to discover originals, not as practice evidence.
+7	discovery	Book recommendations; previously checked, no extractable routine in this article.
+8	discovery	Emotion-regulation framing and interview pointers; follow decision-making interview.
+9	context	Argument for fiction reading; potential background on perspective-taking, no direct AI routine established.
+10	discovery	Monthly source links; creativity claim requires original study rather than newsletter summary.
+11	discovery	Book recommendations on cognition and social skills.
+12	discovery	Book recommendations on thinking; follow originals.
+13	transfer_review	Personal revision of a belief about people pleasing; inspect the correction process before adaptation.
+14	context	Wellbeing advice and social-media context; no direct AI practice established by inspected passage.
+15	context	AI companionship and reciprocity argument; relevant boundary context, not yet a procedure.
+16	discovery	Interview announcement on disagreement and trust; underlying conversation needed.
+17	transfer_review	First-person rehearsal of a reciprocal conversation; possible transferable practice, AI adaptation would be inference.
+18	context	Predictions across AI applications; background and capability claims require date-sensitive checking.
+19	context	Productivity accounting and botsitting critique; relevant limitation, not yet a specified routine.
+20	context	AI-agent safety commentary; technical claims not verified in screening.
+21	context	Previously checked: agent-operation explanation, no specific human practice established.
+22	priority_review	Relate tool choice to the bottleneck and actual value creation; concrete researcher example.
+23	context	Deskilling argument around coding agents; useful counterpoint, no procedure established.
+24	context	Productivity-paradox framing; possible rationale for bottleneck practice.
+25	transfer_review	Sanderson on art and learning from AI; inspect original talk and concrete craft guidance.
+26	context	Model failure examples; dated capability observations, not current model guidance.
+27	context	Critique of company communications; institutional recommendations rather than individual practice.
+28	context	Agent-harness explanation and incident commentary; no human-thinking routine established.
+29	context	Work-revolution and email framing; discovery lead for mastery book.
+30	priority_review	Student conversations about writing may reduce peak cognitive effort; inspect as a counterexample to assumed learning benefit.
+31	context	Writing quality and workslop concern; source study would be needed for evidence claims.
+32	context	Agent incident and normative mismatch explanation; technical claims unverified.
+33	transfer_review	Human connection and communication technology; inspect practical boundaries in underlying essay.
+34	transfer_review	Thinking and distraction framing; check for usable depth-preserving routines beyond exhortation.
+35	context	AI capability and hype commentary; dated claims not validated.
+36	context	Early ChatGPT forecast; retain historical context, do not reuse predictions as current facts.
+37	context	Competing coding narratives; useful uncertainty example, not yet a repeatable practice.
+38	priority_review	Practitioner report of difficulty reviewing generated code; valuable limit on human-review prescriptions.
+39	priority_review	Bottleneck-based tool evaluation with example; compare with Avoiding Digital Productivity Traps.
+40	context	Craft and mastery rationale; no specific AI practice established.
+41	transfer_review	Digital declutter and solitude; inspect procedure in original account/book, keep adaptation explicit.
+42	context	Language and human connection argument; conceptual boundary rather than operational practice.
+43	transfer_review	Freestyle deliberate practice and teaching examples; potentially useful skill-preservation foundation.
+44	context	AI terminology and superintelligence critique; technical assertions need independent checking if used.
+45	context	Craft analogy; potential rationale, insufficient inspected detail for extraction.
+46	transfer_review	Distinguishing co-occurrence from AI-causation in reporting; inspect worked comparison as judgment practice.
+47	context	Efficiency and rebound-effects warning; potential constraint on practice design.
+48	transfer_review	Hands-on engine-building example; possible learning-by-making adaptation, no direct AI evidence.
+49	context	Historical attention account and podcast promotion; not an established AI routine.
+50	transfer_review	Offline writing-assessment proposal; inspect original Mollick account and distinguish teaching from policing.
+51	context	Institutional and philosophical AI commentary; no concrete practice established.
+52	transfer_review	First-person timed, forced concentration experiment for mastering hard concepts.
+53	context	Deep-life and effort argument; useful values context, no sufficiently inspected routine.
+54	transfer_review	Time-management intervention against problematic social-media use; inspect original study and practical steps.
+55	context	Capability plateau scenario; dated forecast rather than practice.
+56	transfer_review	Mechanism-first discussion of AI; inspect whether proposed reasoning steps are sufficiently concrete.
+57	context	Consumer-value and industry narrative critique; background.
+58	context	Email automation limitations; relevant task-selection context but no routine established.
+59	context	AI control and alignment explainer; follow original for technical claims.
+60	context	Workforce deployment forecast review; dated background.
+61	priority_review	Work-process bottlenecks and model role inducibility; inspect main argument beyond appendix.
+62	discovery	Small-business uses reported in linked op-ed; underlying interviews needed for practice detail.
+63	transfer_review	Information-consumption routines for literacy; inspect concrete prescription and evidence limits.
+64	priority_review	Explicit use/non-use rules distinguish learning from outsourced answers.
+65	context	Model and interface selection guide; dated product advice, potential operational reference.
+66	priority_review	Tutor versus homework-completion distinction; check cited studies and actual tutor instructions.
+67	context	Agency and autonomous-system deployment framing; human practice not established in inspected passage.
+68	priority_review	Experimentation and multimodal examples may support capability discovery; separate tool facts from durable procedure.
+69	context	Current-tool comparison and voice experience suggestions; primarily operational guidance.
+70	priority_review	Education evidence contrasts shortcuts with thinking support; inspect author boundary choices.
+71	priority_review	First-person agent project demonstration; inspect management, verification and human contribution.
+72	priority_review	Interface cognitive costs and delegation workflow; inspect controls and retained judgment.
+73	priority_review	Author explicitly preserves own voice and views; inspect declared uses and non-uses during book production.
+74	transfer_review	Uncertain-futures planning; inspect scenario procedure rather than accept forecasts.
+75	priority_review	Previously checked: realistic task tests and expert assessment of model suitability.
+76	priority_review	First-person writing workflow and human/AI division of work.
+77	priority_review	Reusable prompts and prompt-generating tools for sharing expertise; inspect teaching examples.
+78	priority_review	Expert-led evaluation and elicitation of latent capability; inspect concrete design examples.
+79	priority_review	Organizational feedback loops between leadership, experiments and practitioners; team-level practice candidate.
+80	priority_review	Experimental class illustrates briefing, feedback and evaluation; existing KB source should be reused.
+81	context	Access and model-capability context; no specific human-development routine established.
+82	context	Jagged capabilities and demonstration tasks; compare against stronger job-interview source.
+83	context	First impressions of voice interfaces; dated experience, not evidence of learning benefit.
+84	priority_review	Own archive used to examine change in thinking; inspect synthesis checks and authorship boundaries.
+85	priority_review	Sycophancy examples can inform challenge/checking routines; inspect limits and proposed response.
+86	priority_review	Education redesign and detection limits; inspect actual assessment/learning practices, verify original evidence later.
+87	context	Benchmarks and acceleration forecast; background rather than practice evidence.
+88	context	Task benchmark and economic-work capability context; distinguish benchmark performance from human outcomes.
+89	priority_review	First-person use of archived research data; inspect human checks and study-authorship boundaries.
+90	priority_review	Multi-stage research generation demonstration; treat as workflow and counterexample, not validated scientific quality.
+91	priority_review	Hands-on experimentation and scenario planning; inspect reusable steps, no literal ten-hour sufficiency claim.
+92	context	Benchmark critique; useful rationale for task-specific tests.
+93	priority_review	Organizational work redesign versus task automation; inspect concrete division of work.
+94	context	Research summary already represented in KB; use original study, inspect only for additional implementation detail.
+95	priority_review	Research-agent workflow; inspect source-checking and question-setting steps.
+96	transfer_review	Decision to act despite future improvements; inspect practical decision rule and speculative premises.
+97	context	Capability demonstrations; quality of generated artifacts is not evidence of stronger human thinking.
+98	context	Automation forecasts and interface change; background.
+99	priority_review	Task boundaries and bottlenecks; compare operational guidance with Newport and job-interview source.
+100	context	Capability trajectory and benchmarks; dated background.
+101	priority_review	Evaluate models on real use cases rather than benchmark scores alone; inspect examples.
+102	priority_review	Prompting through model-behavior understanding; inspect actionable moves and avoid literal human-like-thinking claims.
+103	context	Historical demonstrations and model progress; compare stronger task-testing sources.
+104	priority_review	Concrete briefing and troubleshooting instructions; assess judgment/learning relevance separately from output quality.
+105	priority_review	Fast generation demonstration and temptation to outsource drafts; useful boundary/counterexample.
+106	priority_review	Complex mapping task demonstration; inspect what author verified before drawing lessons.
+107	internal	User-owned framework; retain as design input, not independent supporting evidence.
+108	internal	User-owned staged workflow; evaluate claims against originals, do not use as independent evidence.
+109	discovery	Short market-story introduction and plugin description; original case/practice detail needed.
+115	discovery	Advertises an evaluation prompt kit without supplying its steps in inspected text.
+116	context	Market panic and career-opportunity narrative; promotional claims, no procedure established.
+148	discovery	Model-release comparison teaser; underlying comparison needed.
+152	context	Agent infrastructure news; no human-thinking routine established.
+166	context	Infrastructure capacity and budget commentary; indirect relevance.
+167	discovery	Career/production-economics framing; underlying framework needs full text.
+168	discovery	Agent objective-design story; original research and implementation details required.
+176	discovery	Six-axis task framework advertised but not sufficiently available in inspected excerpt.
+177	discovery	First-person spreadsheet demonstration teaser; inspect actual checks before inferring value.
+187	discovery	Release briefing with advertised personalized prompt; dated operational lead.
+189	discovery	Success-at-wrong-objective case; verify original case and obtain diagnostic steps.
+194	priority_review	Parent's first-person insistence on unaided arithmetic; inspect rationale and actual practice in available text.
+199	context	Role-splitting and pricing narrative; date-sensitive promotional context.
+207	priority_review	Explicit pre-AI pen-and-paper exercise lead; inspect whether instructions are actually available.
+217	context	Agent acquisition and infrastructure narrative; no direct practice established.
+218	discovery	Specification-first development case; original team account needed, teaser is not sufficient evidence.
+220	context	Capital expenditure and market news; low practice-extraction priority.
+226	context	Career urgency narrative; unsupported scope claims must not determine selection.
+228	context	Model-distillation commentary; outside immediate human-practice focus.
+231	discovery	Autonomous purchasing demonstration lead; underlying account and checks needed.
+234	context	Newsletter publishing changes; useful provenance about editorial intent, not practitioner outcome evidence.
+235	discovery	Playful coding and expertise lead; actual exercise/example needed beyond teaser.
+255	unclear	PDF requires extraction before a content decision.
+256	priority_review	Generate variations then select and learn from publication; inspect taste claims versus engagement metrics.
+257	context	AI-literacy explainer includes misleading database metaphor; do not treat as reliable technical instruction without correction.
+259	context	Model update and customization guide; operational reference, not demonstrated authorship preservation.
+260	context	Model first impressions and spreadsheet demonstration; dated tool comparison.
+261	context	Overview of Claude interfaces and claimed personal use; operational reference.
+262	priority_review	Explaining unfamiliar formulas may support understanding; inspect example and verification.
+263	priority_review	Pre-generation necessity check and work-intensification concern; concrete restraint candidate.
+264	context	App installation procedure; low direct relevance to thinking or agency.
+265	context	Browser setup and search default; operational reference.
+266	context	Image-editing prompts; output production, human creativity benefit not established.
+267	context	Image-generation tool examples; operational reference.
+268	context	Image-editing tool comparison; dated capability claims.
+269	priority_review	Voice-based drafting and cost-benefit framing; inspect human contribution and unsupported economic claims.
+270	priority_review	Business-planning question workflow and decision caveats; inspect available specifics.
+271	priority_review	Context and information selection before carousel generation; evaluate editorial control.
+272	context	Model-release impressions; no human-development outcome established.
+273	context	Work-app setup and skill migration; retain operational reference only pending practice-specific detail.
+274	priority_review	Interactive charts for understanding; separate pedagogical value from chart generation and verify content.
+275	priority_review	Nonprogrammer tests generated website and admits inability to review code; useful practice plus important limit.
+276	priority_review	Persistent context files and voice constraints; inspect ownership, maintenance and stale-context risks.
+277	priority_review	Team context setup; explicit claim of output without learning makes this a useful counterexample.
+278	priority_review	Personal writing archive and iterative feedback; engagement metrics do not establish stronger writing skill.
+279	access_hold	One-word file is not usable source text; recover original before screening.
+280	priority_review	Research workflow for consulting; inspect source verification and human analysis.
+281	priority_review	Goal, constraints and decision-memo briefing; concrete context-setting candidate.
+282	priority_review	4W context with examples; compare overlap with context engineering guide.
+283	discovery	Traffic/news and prompt-library promotion; underlying procedure needed.
+284	context	Surface style suppression; not evidence of authorship, judgment or learning.
+285	priority_review	Detection limitations and specific editing moves; inspect whether editing strengthens human judgment or just disguises output.
+286	priority_review	Interactive clarification and model tests; filter promotional claims and dated settings.
+287	context	Punctuation/style instructions; weak link to intellectual ownership.
+288	context	Sponsored event and racing-AI narrative; case claims need original evidence.
+289	priority_review	Cross-model challenge procedure; agreement is not verification, inspect independent evidence checks.
+290	priority_review	Voice-first drafting may preserve own ideas; inspect actual dictation/editing workflow and sales claims.
+291	discovery	Directory of free courses and guides; follow primary instructional sources.
+292	context	Audience-growth workflow; outputs and follower counts do not establish human capability.
+294	priority_review	Thinking-partner-before-doing advice; inspect concrete sequence and source of benefits claim.
+295	discovery	Consulting announcement refers to video; cross-team read-access practice needs original account.
+296	context	Personal photo restoration example; meaningful use but no general thinking practice established.
+297	context	Tool comparison, travel and politics demonstrations; dated and potentially high-stakes claims unverified.
+298	context	Capability-change roundup; benchmark improvements are not human outcomes.
+299	priority_review	Contains proposed responses to cognitive offloading; strong overstatement of MIT evidence requires critique.
+301	priority_review	Persistent project context setup; compare with context-file guides and user ownership.
+305	context	Custom chatbot setup and testing; operational reference unless evaluation practice adds substance.
+306	priority_review	Taste interview elicits tacit preferences; inspect human revision and claims of replicating identity.
+308	context	Image-model selection guide; dated operational reference.
+309	context	Infographic-generation tutorial; output quality alone insufficient for learning claims.
+312	priority_review	Context/skill setup for recurring work; compare with earlier Cowork guide before separate extraction.
+313	context	Profile and follower-growth advice; low immediate relevance to AI-supported thinking.
+314	priority_review	Examples and prompt constraints; verify research claims and avoid equating model reasoning with user reasoning.
+315	priority_review	Reusable context files replace repeated instructions; inspect maintenance and ownership.
+316	transfer_review	Deliberate curation of information feeds; possible discovery routine with filter-bubble risks.
+318	context	Model preference and style comparison; dated operational commentary.
+320	context	Tool-change awareness argument; urgency is not evidence for a practice.
+321	priority_review	Separate research, structure and visual production; inspect who decides content and checks claims.
+323	priority_review	AI-assisted prompt improvement examples; inspect whether user intent stays explicit.
+324	priority_review	Personal voice profile and references; compare with fuller context setup sources.
+325	priority_review	Self-duplication narrative and team workflow; retain as counterexample to assumptions about authorship.
+326	priority_review	Team knowledge and limits of AI creativity; inspect actual work division and commercial context.
+327	priority_review	Follow-up prompts for alternatives and deeper exploration; distinguish output novelty from human creativity.
+328	priority_review	Source-finding prompts require authority/timestamps; verify sources rather than accept model-ranked authority.
+329	priority_review	Audit what chatbot knows about user; privacy and false-memory limits need checking.
+330	priority_review	Depth of tool practice versus endless switching; inspect specific learning routine.
+331	priority_review	Model self-questioning procedure; explicitly distinguish from Socratic learning by the human.
+333	context	Prompt recipe collection and politeness claims; technical basis and transfer need checking.
+334	context	Dated prices and tool comparison; not practice evidence.
+335	context	Model-routing explanation; dated technical claims and simplified metaphors.
+336	access_hold	Nine-word landing-page fragment; no usable article body.
+337	discovery	Pricing promotion and test-prompt teaser; actual tests needed.
+338	priority_review	Clarification, context and prompt debugging sequence; concrete but overlapping with stronger guides.
+339	priority_review	Prototype as brief to developers and learning with others; inspect examples and review boundaries.
+341	context	Idea-to-app tool tutorial; no human-capability outcome established.
+342	context	Video-tool comparison; operational production reference.
+344	context	Historical adoption analogy and promotion; broad AI narrative.
+345	priority_review	Meeting-note prompts and ownership tracking; check unsupported forgetting statistic and consent/accuracy limits.
+347	priority_review	Author revises earlier prompt-generator advice; inspect reference-first method and explicit user judgment.
+348	priority_review	Expertise and confidence trap; inspect action recommendations while correcting simplistic model explanation.
+349	discovery	Video-to-AI knowledge setup teaser; source instructions and learning claim need inspection.
+350	priority_review	Child makes diary/language apps; inspect learning process and limits of anecdote.
+351	context	Customer acquisition and outreach tactics; commercial output rather than core thinking practice.
+352	priority_review	Inventory, stress test and verdict prompt chain; inspect human decision ownership.
+353	context	LinkedIn profile optimization; operational writing support.
+354	priority_review	First-person startup workflow and strategic choices; inspect specific learning loop.
+355	discovery	Video tutorial on hooks/scripts; underlying walkthrough needed.
+356	priority_review	Project-based learning prompts and verification rubric; model scores alone cannot validate quality or learning.
+357	priority_review	Skill-development sequence; inspect concrete exercises and reject winner/loser framing.
+358	context	Income-stream ideas; business outcomes not learning evidence.
+359	context	Content multiplication and follower growth; not demonstrated creative capability.
+360	priority_review	AI as organizer/translator for questions to professionals; health context requires separate expert/evidence review before reuse.
+361	priority_review	Named lawyer Paula Rojas and concrete filing workflow; verify professional checks and confidentiality, separate from legal advice.
+362	discovery	Course/start-page introduction; no substantive procedure available.
+363	priority_review	Personal-history introspection prompt; high risk of treating plausible model interpretations as psychological truth.
+364	context	SEO production playbook; mainly distribution tactics, not human-thinking development.
+365	context	Humanizer prompt changes surface style; no evidence of authorship or skill preservation.
+366	discovery	Very short layoffs/video teaser; follow original research/interview.
+367	context	Product feature announcement and automation setup.
+368	discovery	Named practitioner interview topics; obtain interview for actual practices.
+369	priority_review	Voice examples and quality gates for assistant; inspect human acceptance criteria.
+370	discovery	Video-series outline; insufficient available steps.
+371	context	Account migration tutorial and news; operational reference.
+372	context	Consumer gadget impressions; not immediate practice priority.
+373	priority_review	Recurring personal-data audit; verify technical instructions, model checklist is not sufficient authority.
+374	priority_review	Permissions, modes and context workflow; inspect reusable supervision steps.
+375	priority_review	Content generation followed by fact-checking; inspect what counts as independent checking.
+376	context	Sales calculator and cost-of-waiting persuasion; assumptions require scrutiny, weak core fit.
+377	context	Social-posting integration tutorial; automation reference.
+378	priority_review	Planning/context/debugging guidance; extract durable supervision moves rather than settings.
+379	context	DM sales automation; reported revenue not relevant capability evidence.
+380	context	Template-based content repurposing; production workflow.
+381	context	Business opportunity list; not a thinking practice account.
+382	priority_review	First-person demand tests, scope reduction and rebuild; useful experience with external feedback.
+383	context	Email-to-thread automation; output production and authorship concerns.
+384	context	Viral-pattern replication; weak evidence of originality or skill development.
+385	priority_review	Goal inventory, prioritization and clarity prompts; model assessment needs user correction.
+386	context	AI startup overview; general technical/business framing.
+387	priority_review	Previously checked interview-and-challenge routine; unsupported benefit claims must be stripped.
+388	context	Community testimonials and promotion; selection bias, not independent evidence.
+389	context	Humanizer and watermark claims; surface disguise, technical assertions not verified.
+390	context	Tool setup and game-generation demonstration; output success is not learning evidence.
+391	context	Social-media conversion workflow; commercial rather than core practice focus.
+392	context	Promotional summary of content multiplication service.
+393	priority_review	Author pushes back and requests alternatives to model-selected business idea; inspect actual decision process.
+394	priority_review	Co-founder prompt and cross-model comparison; agreement must not substitute for external validation.
+395	discovery	Video teaser on beliefs; no reliable psychological assessment established.
+396	context	Tool internals and prompt examples; operational reference with dated claims.
+397	context	Self-reported career history may contextualize practice accounts; follower counts do not validate them.
+398	priority_review	Staged tool progression and first-person app building; inspect learning versus outsourcing.
+399	priority_review	Clarification/examples ladder plus blanket AI-first advice; useful contrast for independence boundaries.
+400	priority_review	Human feedback and evaluation workflow; team/system design practice candidate.
+401	context	Video pipeline, budget and QA gates; operational reference, indirect core fit.
+402	priority_review	Concrete coding rules before/during/after work; inspect human checks and reusable principles.
+403	priority_review	Division between generated research and human storytelling; inspect evidence checks and retained ideation.
+404	context	Tool comparison and migration guide; dated operational reference.
+405	discovery	Community invitation; potential practitioner discovery, not practice evidence.
+406	priority_review	Retraction/source-quality analysis; inspect concrete verification routine, check originals before adopting claims.
+407	context	Mental-health evidence synthesis; use original studies and distinguish association from causality.
+408	priority_review	Agent stakes and human responsibility; inspect proposed boundaries rather than anthropomorphic framing.
+409	priority_review	Contributor Susan's perception exercise tests model omissions; preserve contributor attribution.
+410	discovery	Neurodiversity interview summary; agency/accommodation nuance warrants original conversation.
+411	priority_review	Save-effort versus learn-something question; persistence claims require careful original-study reading.
+412	priority_review	Ask children directly and record their views before AI decisions; concrete participatory practice.
+413	priority_review	Ting Wang's return-path mapping for reversible career decisions; inspect assumptions and human choice.
+414	priority_review	Sam/Tina disagreement and self-generation before AI; valuable counterevidence to broad harm claims.
+416	priority_review	Ilia Karelin's cognitive-trade reflection; inspect exercise and self-report limits.
+417	priority_review	Learning/performance distinction and proposed pedagogy; headline overstates generality, check evidence.
+418	priority_review	Writing-community accounts of automated comments; inspect authentic-response practices and contributor origins.
+419	context	Local datacentre governance and environmental account; background, technical/legal claims not checked.
+421	priority_review	Reciprocal AI-use disclosure and author's own process; useful accountability candidate.
+422	priority_review	Self-assessment before AI feedback; follow original study and check actual procedure.
+423	priority_review	Agreement/pressure/mood/fresh-start tests advertised; determine whether accessible text includes instructions.
+424	priority_review	Fabrication-recognition exercise and reflection; do not assume transfer to real-world detection.
+425	priority_review	Steve Peha fiction-based classroom reflection; inspect how students reason rather than only produce output.
+426	discovery	Interview summary on regulated practice; original conversation needed.
+427	priority_review	Mahelet Fikru diagnostic assessment design; avoid claiming any task is AI-proof.
+428	priority_review	Test relational disagreement with chatbot; inspect boundary exercise, no claim of diagnostic proof.
+430	priority_review	Tom Evans compares embodied experience with generated meditation description; no therapy efficacy claim.
+432	priority_review	Rebecca Wicker's voice/reflection exercise; inspect actual language comparison.
+434	context	Representation and gender critique; useful gap check and practitioner-discovery pointer.
+435	priority_review	Bias/neutrality exercise; inspect comparison prompts and evidence limits.
+436	priority_review	Questions about workplace profiling and consent; relevant agency practice, verify factual claims.
+437	priority_review	JHong compares claimed AI memory with personal records; concrete provenance-check candidate.
+438	context	AI-mediated peer review and incentive critique; original evidence needed.
+439	priority_review	Raghav Mehra's decision-focused prompt; inspect commitment, constraints and evaluation steps.
+440	priority_review	Hidden work returned by automation; useful implementation limit, case claims need originals.
+441	priority_review	Kindness/engagement reflection exercise; anthropomorphic intent claims need caution.
+445	priority_review	Multi-agent coordination risks and practical data questions; medical/legal content needs expert review before reuse.
+446	priority_review	Organizational vendor-dependence questions; inspect operational portability practices, verify news separately.
+447	priority_review	Ellen Burns exercise distinguishes felt effect from artificial mind; inspect reflective procedure.
+448	transfer_review	Reading as foundation for evaluation; inspect concrete reading habits and avoid unsupported universal claims.
+449	priority_review	Voice-comparison experiment with admitted error and hypothesis revision; retain alongside original test.
+450	priority_review	Reader comparison of human/AI writing; pair with results and design limitations.
+451	discovery	Podcast/news fact-checking summary; original claims and correction process needed.
+452	priority_review	Stephen Carver mental-model exercise; model self-description is not authoritative technical evidence.
+453	priority_review	Khaled Ahmed explicit evaluation criteria; promising alternative to vibes, verify rubric and examples.
+454	priority_review	Use/non-use framework with Frank Andrade; inspect exceptions, especially tutoring and accessibility.
+456	priority_review	Claim labeling and one-source checking instructions appear accessible despite paid-section language.
+457	context	Beneficial applications counterbalance harm framing; not direct practitioner routines.
+458	priority_review	Alternatives to AI detection in assessment; inspect concrete procedures and original study.
+459	priority_review	Rebecca J Hogue feedback without rewriting; previously checked concrete exercise and use account.
+460	priority_review	Multiple named creatives describe uses and refusals; rich practice and boundary comparison source.
+461	priority_review	Ruben Hassid asks model to disagree; compare own publication, independent verification still needed.
+463	priority_review	Anna Levitt separates adoption/output from actual learning; inspect team capability test.
+464	priority_review	Environmental-use/disclosure choices; distinguish operational practice from unverified quantitative/legal claims.
+465	discovery	Rebecca Wicker interview summary; follow original for language and agency practices.
+466	context	Company-claim critique with mixed evidence; useful counterpoint, original studies preferred.
+467	priority_review	Grace Shao grounding/context exercise; model explanations and confidence cannot establish truth.
+468	context	Hiring automation and legal case commentary; legal claims not assessed.
+469	discovery	Multicultural-story interview summary; important missing-perspective lead, obtain original dialogue.
+470	context	Weekly news digest; child agency/governance context, original sources needed.
+471	context	Adoption prevalence critique; source statistics unverified, not practice evidence.
+472	transfer_review	Self-interested evidence claims and independent checking; inspect worked verification steps.
+473	context	Health/financial data governance and author disclosure; high-stakes factual claims not checked.
+474	priority_review	Multiple parenting positions and child's app-building account; examine age/context and avoid one universal rule.
+475	context	Security automation and volunteer burden; implementation-limit context.
+476	priority_review	Family deepfake-response practices; verify concrete checking protocol before use.
+477	discovery	Research-publishing announcement points to poetry experiment; use substantive study post.
+478	priority_review	Farida Khalaf strength-reflection exercise; self-report, not psychological treatment or validated self-assessment.
+479	priority_review	Local-model experiment exposes limitations and data-control choices; portability/privacy claims require technical checking.
+480	priority_review	Personal-experience comparison exercise; distinguish pedagogical metaphor from actually teaching model experience.
+481	priority_review	AI asks unexpected questions; inspect user reflection and question-selection sequence.
+482	priority_review	Privacy reflection exercise; prompting secrecy does not establish platform privacy.
+483	priority_review	Reflect on a revised belief; user account must stay distinct from model interpretation.
+484	priority_review	Slow reflection rather than immediate answer; inspect practical stopping/response instructions.
+485	priority_review	Imagining slowness as reflective exercise; benefits anecdotal, anthropomorphism needs framing.
+486	priority_review	Unsaid content reflection; model inference must not be treated as mind-reading.
+487	priority_review	Embodied experience comparison; preserve user authority on subjective experience.
+488	priority_review	Deliberate wrong-answer exercise; inspect how errors are recognized and corrected.
+489	priority_review	Constraint/use-less exercise; inspect whether it concerns attention, output or resource claims.
+490	priority_review	Elicit uncertainty and compare outputs; verbal uncertainty is not calibrated confidence.
+491	priority_review	Archival omissions exercise; reference-check what is absent rather than trust generated summary.
+492	discovery	Curriculum structure; use individual exercises as practice sources, syllabus is not effectiveness evidence.
+493	context	News digest on agent failures; incident claims require original verification.
+494	priority_review	Shared-memory procurement questions; inspect control/ownership questions, technical claims separately.
+495	context	AI labour and resource news; structural context.
+496	context	Policy/model news digest; no practice established in inspected content.
+497	context	Replacement/surveillance news and recommendations; source-discovery context.
+498	discovery	Oral-defense policy example; original policy and pedagogical account needed.
+499	context	Manifesto/watermark/platform news; context.
+500	context	Distribution of productivity gains; useful outcome/ownership caveat, claims not verified.
+501	context	Peer-review policing and content pipeline news; governance context.
+502	context	Funding and resource allocation news; background.
+503	context	Product demonstrations and governance commentary; background.
+504	context	Failure/medical news synthesis; original studies needed, no clinical recommendations adopted.
+505	context	Evidence procurement and service automation news; background.
+506	context	Institutional decision delegation critique; case verification needed.
+507	context	Appearance-versus-correctness and teacher hypocrisy; useful context for disclosure practice.
+508	priority_review	Reasoning-failure interpretation and proposed checks; verify original study scope before turning into guidance.
+509	priority_review	Ten-round debate with example; inspect role of user reasoning and independent facts.
+510	context	Human skill terminology argument; useful framing, not a concrete practice yet.
+511	context	Open-model governance argument; inspectability is not automatically auditability or safety.
+512	priority_review	Laura O'Driscoll belief questions organized by premises/tradeoffs; concrete reflection candidate.
+513	context	Task/job distinction and industry forecasts; original evidence required.
+514	priority_review	Ask about hard decisions then write oneself; original developer study must constrain generalization.
+515	priority_review	Stop-generating/start-committing routine; inspect commitment test and cited-study limits.
+516	priority_review	Poetry comparison with author expertise and unpublished work; inspect design and grounding of interpretations.
+517	priority_review	Cross-language, detector and citation tests; strong literacy exercise menu with limits to verify.
+519	priority_review	Cristina's advice/accountability exercise; keep final ownership with user, not simulated model responsibility.
+520	priority_review	Caitlin's writing-interpretation exercise; guessed subtext must remain optional interpretation.
+521	priority_review	Stop rules for endless interaction; inspect trigger and user-defined enough.
+522	priority_review	Ask for doubt and compare; disagreement is a prompt effect, not proof of truth.
+523	priority_review	Timo Mason non-delegation boundaries; inspect explicit human choices.
+524	priority_review	Mia's missing-chapter exercise; distinguish provocative contrast from outsourcing authorship.
+525	priority_review	Pause and answer a question before continuing; inspect procedure, avoid universal harm claim about speed.
+526	priority_review	Identify missing perspectives in polished output; inspect concrete evaluation questions.
+527	context	Knowledge-commons and AI policy argument; original policies/studies preferred.
+528	context	World-model/LLM distinction and general judgment advice; technical simplifications need checking.
+529	priority_review	Keep authorship/process records; do not promise proof sufficient for every accusation.
+530	priority_review	Harry's historical-perspective argument exercise; simulated history requires factual checks.
+531	priority_review	Comment-authenticity investigation; inspect evidence procedure, avoid guessing identity from style.

@@ -1,0 +1,24 @@
+{
+  "id": 101,
+  "title": "The twilight of the chatbots",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/the-twilight-of-the-chatbots.md",
+  "sha256": "897cacdd57d0b8a1e9c953e7911c61eb99db7ecda55739918298939a34cd0be0",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1276,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 389,
+      "text": "If you feel like things are accelerating in AI, you are probably right. Better AI models from the le"
+    },
+    {
+      "line": 31,
+      "offset": 4959,
+      "text": "But abstract graphs only get you so far, and they can hide how jagged the frontier is (and also the fact that the open weights models, while very impressive, do not always perform as well as their benchmarks would indicate). To get real insight, you need to try using AI for different use cases and r"
+    }
+  ]
+}

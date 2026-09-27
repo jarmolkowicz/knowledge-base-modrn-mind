@@ -1,0 +1,38 @@
+{
+  "id": 517,
+  "title": "What Is Critical AI Literacy?",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/what-is-critical-ai-literacy.md",
+  "sha256": "67cc938af23c912eb5bad7ed8671dbb1fb4dbde5a1246a0a3f451dda19b3ded8",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2344,
+  "headings": [
+    "**What AI literacy gets wrong**",
+    "**A working definition of critical AI literacy**",
+    "**Why critical AI literacy matters now**",
+    "In education",
+    "**In the workplace**",
+    "**In healthcare**",
+    "**In government**",
+    "**In the environment**",
+    "**Five questions for critical AI literacy**",
+    "**How to develop critical AI literacy**",
+    "**Frequently asked questions about critical AI literacy**",
+    "**The Slow AI curriculum**",
+    "**Start Here**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 210,
+      "text": "Most AI literacy courses teach you how to write better prompts. Cr"
+    },
+    {
+      "line": 118,
+      "offset": 12355,
+      "text": "**Test the tools yourself.** Do not rely on demos or marketing. Ask AI the same question in English and another language and compare the outputs. Run your own writing through a detector. Ask AI to cit"
+    }
+  ]
+}

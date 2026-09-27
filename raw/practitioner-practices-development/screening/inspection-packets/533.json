@@ -1,0 +1,26 @@
+{
+  "id": 533,
+  "title": "Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ada-chen-rekhi/transcript.md",
+  "sha256": "343a980b64fb24666859549da88a83af927ea197feea0e592dc1bf0645dc0bb6",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15807,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 44,
+      "offset": 801,
+      "text": "It's a terrible outcome to wake up one day and be lat"
+    },
+    {
+      "line": 89,
+      "offset": 9493,
+      "text": "There's just so much rich data to actually explore with that. First, are you suited to being a developer? Are webdev boot camps effective? What's the state of t"
+    }
+  ]
+}

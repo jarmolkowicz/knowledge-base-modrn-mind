@@ -1,0 +1,28 @@
+{
+  "id": 323,
+  "title": "How to not prompt.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/prompt-maker.md",
+  "sha256": "e76be69b5c146b30df1fdaf04191e9e0b1843912862a776173477501f98c64dc",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 655,
+  "headings": [
+    "Example #1: Linkedin hooks",
+    "Example #2: Newsletter",
+    "**This is the annoying marketing part…**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 155,
+      "text": "You know ChatGPT is as good as the input ( = the prompt)."
+    },
+    {
+      "line": 14,
+      "offset": 268,
+      "text": "Shouldn’t you just… ask ChatGPT to prompt better?"
+    }
+  ]
+}

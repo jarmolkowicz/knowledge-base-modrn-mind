@@ -1,0 +1,26 @@
+{
+  "id": 784,
+  "title": "Good Strategy, Bad Strategy | Richard Rumelt",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/richard-rumelt/transcript.md",
+  "sha256": "948de8f46058990e21a30a19081115727e9d1445fabd10c0ea95f8ba27370745",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15477,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 746,
+      "text": "Don't call it strategy, call it an action a"
+    },
+    {
+      "line": 399,
+      "offset": 66357,
+      "text": "And you've got to be able to think, you've got to be of two minds. Like so many things in business, when you're doing this, you've"
+    }
+  ]
+}

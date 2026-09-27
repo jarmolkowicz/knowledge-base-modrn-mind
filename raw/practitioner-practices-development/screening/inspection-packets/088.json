@@ -1,0 +1,24 @@
+{
+  "id": 88,
+  "title": "Real AI Agents and Real Work",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/real-ai-agents-and-real-work.md",
+  "sha256": "e02d19c9985e9d242cc5fe4319b5d1d805c2a1051dd7dc2af80b7f164a3b748d",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1459,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 204,
+      "text": "AIs have quietly crossed a threshold: they can now perform real, economically relevant work."
+    },
+    {
+      "line": 12,
+      "offset": 298,
+      "text": "Last week, OpenAI released a new test of AI ability, but this one differs from the usual benchmarks built around math or trivia. For this test, OpenAI gathered experts with an average of 14 years of experience in industries ranging from finance to law to retail and had them design realistic tasks th"
+    }
+  ]
+}

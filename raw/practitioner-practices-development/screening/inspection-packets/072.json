@@ -1,0 +1,24 @@
+{
+  "id": 72,
+  "title": "Claude Dispatch and the Power of Interfaces",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/claude-dispatch-and-the-power-of.md",
+  "sha256": "5c3adce7b64276e4d2ef6b5da2c5902952714f376c208ab68427eb857538fb2a",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1541,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 423,
+      "text": "AIs are already far more capable than most people realize. A large part of this so-called capability"
+    },
+    {
+      "line": 21,
+      "offset": 2337,
+      "text": "This shouldn’t be a surprise to you if you have used a chatbot to get things done. You ask a specific question and get five paragraphs that contain the answer (somewhere!) while the AI also offers three new things you didn’t ask about. The interface itself creates cognitive costs that overwhelm the "
+    }
+  ]
+}

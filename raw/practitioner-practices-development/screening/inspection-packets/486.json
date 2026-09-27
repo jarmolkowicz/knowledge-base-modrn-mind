@@ -1,0 +1,30 @@
+{
+  "id": 486,
+  "title": "Teach AI What You Are Not Saying",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-5-teach-it-what-you-are-not-saying.md",
+  "sha256": "9aef975e8d09c0d6d54da8c067f139278ecb395c393dff09dd999ae909eb4e66",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 676,
+  "headings": [
+    "**Step-by-step**",
+    "**A moment from me**",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**From [Slow AI #4 – What Would Help You Go Slow?](https://theslowai.substack.com/p/slow-ai-4-what-would-help-you-go)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 349,
+      "text": "Last week, you asked your GenAI tool to imagine slowness."
+    },
+    {
+      "line": 134,
+      "offset": 3984,
+      "text": "**If you try this week’s prompt, I would love to hear what surfaced, what stayed unsaid, and whether anything changed after sitting with it.**"
+    }
+  ]
+}

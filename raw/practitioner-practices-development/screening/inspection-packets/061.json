@@ -1,0 +1,27 @@
+{
+  "id": 61,
+  "title": "Why Hasn’t AI Made Work Easier?",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/why-hasnt-ai-made-work-easier.md",
+  "sha256": "263e58485e8a4bbe7748a54b5d5a53a8427d45743d1c4ef0a8387156e1a653b3",
+  "access": "public-page",
+  "kind": "article",
+  "words": 910,
+  "headings": [
+    "**I Need Your Help**",
+    "**AI Reality Check**: Is Claude Conscious?"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 382,
+      "text": "I’ve been studying the intersection of digital technology and office work for quite some time. (I find it hard to believ"
+    },
+    {
+      "line": 65,
+      "offset": 6114,
+      "text": "That last part is key. With the right prompts, you can induce an LLM to describe itself as anything you want. Remember: the goal of LLMs is to complete whatever story they’re provided as input. If you wind a model up – even subtly – to write a story from the perspective of being a conscious AI, it will oblige."
+    }
+  ]
+}

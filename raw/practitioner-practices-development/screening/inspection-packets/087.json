@@ -1,0 +1,27 @@
+{
+  "id": 87,
+  "title": "Prophecies of the Flood",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/prophecies-of-the-flood.md",
+  "sha256": "fceaa624bf3cda3ee39f177e69110a046118097018391a1a97bccce333ab015c",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1968,
+  "headings": [
+    "**Agents**",
+    "**Many smaller advances are happening**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 189,
+      "text": "Recently, something shifted in the AI industry. Researchers began speaking urgently about the arriva"
+    },
+    {
+      "line": 28,
+      "offset": 4490,
+      "text": "The first is the called the Graduate-Level Google-Proof Q&A test (GPQA), and it is supposed to test high-level knowledge with a series of multiple-choice problems that even Google can’t help you with. PhDs with access to the internet got 34% of the questions right on this test outside their specialt"
+    }
+  ]
+}

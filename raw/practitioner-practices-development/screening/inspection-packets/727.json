@@ -1,0 +1,26 @@
+{
+  "id": 727,
+  "title": "Behind the founder: Marc Benioff",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/marc-benioff/transcript.md",
+  "sha256": "e92aef987b27ee393453084c4283680c23855dab654d971e981854013012e05c",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 10543,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 729,
+      "text": "I want to zoom back to the beginning of Salesf"
+    },
+    {
+      "line": 273,
+      "offset": 29474,
+      "text": "Anyway, it turned out he had written a whole album while we were there in his head, and he was basically transcribing it all. This incredibl"
+    }
+  ]
+}

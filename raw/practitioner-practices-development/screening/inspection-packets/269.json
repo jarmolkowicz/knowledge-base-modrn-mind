@@ -1,0 +1,32 @@
+{
+  "id": 269,
+  "title": "Bubble.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/bubble.md",
+  "sha256": "4072263191d62b0d7c01bff7c97e0d8ea90153ee5ff64c0787242685904da23f",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1687,
+  "headings": [
+    "**The Most Comfortable Lie in 2026**",
+    "Bubbles Don’t Get Cheaper",
+    "**Run the Math. Both Directions.**",
+    "**You Feel Fine. That’s the Problem.**",
+    "**Close This Newsletter. Open the Tool.**",
+    "**Now, how can you go from playing to mastering** *quickly***?**",
+    "*archive of my past blogs: https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing*"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 148,
+      "text": "ChatGPT had just come out. Viral sensation. So you tried it."
+    },
+    {
+      "line": 170,
+      "offset": 10960,
+      "text": "*“Study how I write. The rhythm, the word choices, the structure. Now write a first draft on [your topic] in my voice. Not an AI voice. Mine.”*"
+    }
+  ]
+}

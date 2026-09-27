@@ -1,0 +1,30 @@
+{
+  "id": 525,
+  "title": "When AI Answers Too Fast, We Stop Thinking",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/why-ai-answers-too-fast-for-us-to-think.md",
+  "sha256": "537409bdaafddd3d28ae85b71ed3392e8d06dce24b4f447afbe0490fffa26501",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 885,
+  "headings": [
+    "**Step-by-step**",
+    "**A moment from me**",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**From last week: [Why AI Ethics Fails When Left to Experts](https://theslowai.substack.com/p/why-ai-ethics-fails)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 247,
+      "text": "When AI replies too quickly, it removes the friction that makes th"
+    },
+    {
+      "line": 122,
+      "offset": 5728,
+      "text": "If you try this week’s prompt, I would love to know what question your AI asked, and what changed when you answered it before moving on."
+    }
+  ]
+}

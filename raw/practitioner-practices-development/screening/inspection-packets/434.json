@@ -1,0 +1,31 @@
+{
+  "id": 434,
+  "title": "AI Needs Women More Than Women Need AI",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-needs-women-more-than-women-need-ai.md",
+  "sha256": "bc64660b47262781da7ae9048b04447cf2e95716e4258f7cb5e056f7eefc45c3",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1253,
+  "headings": [
+    "**The numbers**",
+    "**What the machines learned**",
+    "**An engineering failure**",
+    "**The elephant in the room**",
+    "**Who to follow**",
+    "**Pretty words from a man on the internet**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 421,
+      "text": "The people building AI are overwhelmingly male. The people funding AI "
+    },
+    {
+      "line": 89,
+      "offset": 6955,
+      "text": "Cristina writes *The Responsible AI Brief*. AI ethics and policy, grounded in practice, aimed at the people who have to make the decisions."
+    }
+  ]
+}

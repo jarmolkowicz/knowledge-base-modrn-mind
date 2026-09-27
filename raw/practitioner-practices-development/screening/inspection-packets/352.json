@@ -1,0 +1,31 @@
+{
+  "id": 352,
+  "title": "3 ChatGPT Prompts to Make Money Fast",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/3-chatgpt-prompts-to-make-money-fast.md",
+  "sha256": "514f72eff46ffa9a63a53c0bae851061a9cd2a763493e13fa97150f0d7b0a282",
+  "access": "public-page",
+  "kind": "article",
+  "words": 718,
+  "headings": [
+    "How to Run This Prompt Chain",
+    "Prompt 1: The Inventory",
+    "Prompt 2: The Stress Test",
+    "Prompt 3: The Verdict",
+    "Big Picture",
+    "Not Sure Where To Start? 👇"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 17,
+      "offset": 846,
+      "text": "Everyone asks me: “How do I make money with AI?”"
+    },
+    {
+      "line": 107,
+      "offset": 3522,
+      "text": "You opened this email asking how to make money with AI. You’re ending it with one idea and one next step: get your first paying customer in 30 days."
+    }
+  ]
+}

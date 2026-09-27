@@ -1,0 +1,30 @@
+{
+  "id": 372,
+  "title": "CES 2026 - Top 3 Things",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/ces-2026-top-3-things-im-actually.md",
+  "sha256": "998f7d1e0123c52a506433887bd1a5b3eaf71f3428b6d008824608ffd0f2b8e7",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1319,
+  "headings": [
+    "AI Mattress",
+    "AI Exoskeleton",
+    "AI Robot",
+    "Expectations vs Reality",
+    "**P.S. Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 191,
+      "text": "I just returned from CES 2026 in Las Vegas, marketed as the “most powe"
+    },
+    {
+      "line": 70,
+      "offset": 3698,
+      "text": "If you want to learn why sleep is so important - ask ChatGPT! But if you want a book, this is good."
+    }
+  ]
+}

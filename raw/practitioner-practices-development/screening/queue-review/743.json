@@ -1,0 +1,29 @@
+{
+  "queue_position": 328,
+  "id": 743,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/melissa-perri/transcript.md",
+  "sha256": "4ebd97883c74fa241c83a6cbd1798b3ec14fd051fa8f331ad885eaba89ca7bbd",
+  "title": "Everything you’ve ever wanted to know about SAFe and the product owner role | Melissa Perri",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 144,
+      "text": "(00:14:48):"
+    },
+    {
+      "line": 145,
+      "text": "They're trying to break it down into small chunks and build things instead of what they had been doing in a lot of companies, which was building stuff for three years and then releasing it in a big bang. What all of the people who signed the Agile Manifesto realized was if we do it the other way, if we do a waterfall type environment, agile waterfall, that's where we go across, there's a lot of risk because we don't test it with the customer and we don't get feedback on it if we spend three years building it and never show it to somebody. It really approached a different way of building software. It said let's chunk it down and try to get feedback faster. Really noble intention."
+    },
+    {
+      "line": 363,
+      "text": "(00:59:24):"
+    },
+    {
+      "line": 364,
+      "text": "When you talk to leaders and when you present your case, you say it in a way of, \"Hey, I'm working on X, Y, and Z feature. What's the goal here? When we release this, what do we hope will happen?\" I think that's one of the best questions anybody can ask if they're worried their company is not focused on outcomes. What do we hope will happen when we release this? What metrics are we going to change? How do we instrument it to make sure that's true? Then we can go back and actually see if it changed. One simple question to get alignment on it, and then you can start to say, \"Oh, that didn't work or this did work.\" Great. Why did it work? You can open up those conversations."
+    }
+  ]
+}

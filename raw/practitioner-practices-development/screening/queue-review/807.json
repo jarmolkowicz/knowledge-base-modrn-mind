@@ -1,0 +1,29 @@
+{
+  "queue_position": 380,
+  "id": 807,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/sri-batchu/transcript.md",
+  "sha256": "1a659c92f40a444bf797ec952afc0bc68ba811b193b590de9d978c1fbe10d1f1",
+  "title": "Lessons from scaling Ramp | Sri Batchu (Ramp, Instacart, Opendoor)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 113,
+      "text": "Sri Batchu (00:11:10):"
+    },
+    {
+      "line": 114,
+      "text": "I think what we've done differently is we've really focused on making all of those investments very much driven by technology and data. And so one example that I'll give you is that our sales teams are actually incredibly efficient by any metric that we look at and we obviously benchmark them. And the reason for that is because we actually have a growth engineering team that's dedicated to supporting that efficiency but including adjusting third party data and using AI to automate much of their workflow, et cetera. And we've been doing this well before AI has become the buzzword for a lot of folks, but this is something we've had this team for almost two years now that that's been working on sales automation and data to just make our sales teams more efficient. That's just one example, but we've got similar types of mandates for every channel that we invest in and thinking about how do we inform this better customer and prospect data and how do we automate and technologize it so that we can build that competitive mode for each channel."
+    },
+    {
+      "line": 563,
+      "text": "Sri Batchu (01:11:37):"
+    },
+    {
+      "line": 564,
+      "text": "I was going to cheat on that one and say the one that you asked me right before, because I'm a big fan of actually movies and TV shows and people rarely ask about that interviews like this, but favorite interview that I'd like to ask candidates actually is what's something that you're really bad at but you still do and why?"
+    }
+  ]
+}

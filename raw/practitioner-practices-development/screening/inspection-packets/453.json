@@ -1,0 +1,32 @@
+{
+  "id": 453,
+  "title": "Stop Trusting Your Intuition When Evaluating AI",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/evaluate-ai-correctness-completeness.md",
+  "sha256": "e4ce681a8d93b8b245d48a48db2edf7408586e8a90d473bc5476eceb66d618a3",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1332,
+  "headings": [
+    "**Step-by-step**",
+    "Teach AI Something It Cannot Know",
+    "**A moment from** [Khaled Ahmed, PhD](https://open.substack.com/users/271655279-khaled-ahmed-phd?utm_source=mentions)",
+    "**Stop AI from stealing your voice**",
+    "**What to do with it**",
+    "**Why this matters**",
+    "**From [Why Your AI Prompts Produce Noise Instead of Decisions](https://theslowai.substack.com/p/ai-precision-research-framework)**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 254,
+      "text": "Intuition is an unreliable metric for comparing texts. Most AI users t"
+    },
+    {
+      "line": 104,
+      "offset": 6905,
+      "text": "This prompt creates distance between first impression and final decision. It helps you notice when an AI aligns with you for the wrong reasons. Correctness and completeness are technical properties. They are no"
+    }
+  ]
+}

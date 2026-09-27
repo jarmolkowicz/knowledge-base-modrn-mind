@@ -1,0 +1,26 @@
+{
+  "id": 735,
+  "title": "Are your fears giving you terrible advice? | Matt Mochary",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/matt-mochary/transcript.md",
+  "sha256": "b3ec342c77c0a4dd52d952de73855e72d532f03504af5a1f7690869a95e7a52e",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13678,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 42,
+      "offset": 760,
+      "text": "The biggest marker that I've seen between a"
+    },
+    {
+      "line": 180,
+      "offset": 24702,
+      "text": "This reminds me of a story I just listened to on Lex Fridman's podcast. They were interviewing the head of AI at Tesla, or former "
+    }
+  ]
+}

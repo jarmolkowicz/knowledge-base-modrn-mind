@@ -1,0 +1,38 @@
+{
+  "id": 698,
+  "group_index": 4,
+  "decision": "retain",
+  "role": "origin",
+  "locators": [
+    "00:21:31–00:26:40, L171–196; teach-back at 00:25:55"
+  ],
+  "basis": "Julie Zhuo describes personal AI study and a workplace example involving learning analysis context.",
+  "reported_outcomes": [
+    "Reports explaining a concept back in an analogy and receiving critique; no delayed retention or independent correctness assessment."
+  ],
+  "proposed_outcomes": [
+    "Expose gaps in a learner’s explanation."
+  ],
+  "limits": [
+    "Friendly feedback can obscure disagreement or error. Learning preferences are not validated learning styles. AI being a better teacher than humans is not established by this account."
+  ],
+  "related_entries": [
+    "fernandes-metacognition-2025",
+    "bjork-desirable-difficulties-2011"
+  ],
+  "review_note": "Retain learner-first teach-back with independent checks; merge overlapping generation-comprehension variant from Illingworth.",
+  "practitioner": "Learner explains in their own form before seeing the correction; leave unresolved points unresolved until checked.",
+  "coverage": "Read metadata/intro and complete relevant exchanges with surrounding discussion at the locators below; not the full episode.",
+  "practice_files": [
+    "raw/lenny-698-from-managing-people-to-managing-ai-2025/drafts/practices/explain-it-back-before-the-correction.md"
+  ],
+  "source_path": "raw/lenny-698-from-managing-people-to-managing-ai-2025/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/explain-it-back-before-the-correction.md"
+  ],
+  "historical_drafts_retained": true
+}

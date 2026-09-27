@@ -1,0 +1,29 @@
+{
+  "queue_position": 333,
+  "id": 751,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/mike-maples-jr/transcript.md",
+  "sha256": "be3a573986f99154b299a463b9d296d6c708a89be3f03da52b8f6ff8359b433a",
+  "title": "Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 492,
+      "text": "Mike Maples, Jr. (01:18:55):"
+    },
+    {
+      "line": 493,
+      "text": "So many startups I see the first slide is like, \"We're Acme AI software. We're located in San Francisco, we're funded by X and Y VCs.\" That's not storytelling because you're talking about yourself, right? And if you're trying to make the person in the audience the hero, they don't care about you yet. They care about how you're going to make them a hero. And so when you kind of say, 'Okay, if I'm pitching VCs, what I really need to do is help them understand why they'll be a hero if they invest in my company according to what makes them feel heroic.\" What you present is different, but what a lot of startup presentations do is they take their sales pitch and they rehost it for every other audience. They rehost it for the press, for investors and for employees and all that. And that's wrong because what you're doing is you're talking about yourself to different people, but what you want to do is describe the world that could be, the stakes that are involved, and then each of those individual audiences, you want to meet them where they live in the world that is, and show them how they can engage in a transformational journey to the world it could be."
+    },
+    {
+      "line": 678,
+      "text": "Mike Maples, Jr. (01:47:36):"
+    },
+    {
+      "line": 679,
+      "text": "I guess there's two main ways, right? Well, we've got a Substack. Not everybody's got to buy books, right, so there's patternbreakers.substack.com. Then I have a site, patternbreakers.com, but you can also get the book on Amazon or anywhere. It's already available for pre-order, I think."
+    }
+  ]
+}

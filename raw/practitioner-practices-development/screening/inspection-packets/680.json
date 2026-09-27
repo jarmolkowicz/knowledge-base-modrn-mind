@@ -1,0 +1,26 @@
+{
+  "id": 680,
+  "title": "$1M to $10M: The enterprise sales playbook with Jen Abel",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jen-abel-20/transcript.md",
+  "sha256": "eec9209897af89d9fa640385ecddc204bf85f09b703820c9e0948c9dd49a286e",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15394,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 37,
+      "offset": 742,
+      "text": "You need to vision cast, you need to sell to a"
+    },
+    {
+      "line": 850,
+      "offset": 78788,
+      "text": "This stuff is really hard. It's very hard. Sales is also all about learning very, very quickly from the rejection. The rejection is good bec"
+    }
+  ]
+}

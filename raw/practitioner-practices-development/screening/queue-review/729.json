@@ -1,0 +1,37 @@
+{
+  "queue_position": 317,
+  "id": 729,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/marty-cagan/transcript.md",
+  "sha256": "ca1176f92ddc0df0ba9521efdd64c234b81ea27a32a534eed692a1ed888be6ba",
+  "title": "Product management theater | Marty Cagan (Silicon Valley Product Group)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 227,
+      "text": "(00:39:56):"
+    },
+    {
+      "line": 228,
+      "text": "But I've had that exact conversation. I remember as you're saying it, the first time Shreyas Doshi told me the same thing. He was asking me, 'cause he had known me, and I'm like, \"I know you write about this stuff, but I really can't believe people are doing this.\" And I'm like, \"Shreyas, I wish it wasn't true.\" But he doesn't doubt it today."
+    },
+    {
+      "line": 278,
+      "text": "(00:50:48):"
+    },
+    {
+      "line": 279,
+      "text": "And what I kept seeing was people taking what they get too literally, too seriously, too much value, and they were heading off in a wrong direction and then they were optimizing that. There's a lot going on right now. It's a moving target. Depends which system you're using and the day of the week now on what you're at, but whatever. Now I've been recommending to people that they think through the answer first. Really get them to think, put something down, then use ChatGPT to see if you can't improve on that, to see if you can't challenge that, to see if you can't make your argument tighter. So I've reversed and I did that because people are trusting the results too much."
+    },
+    {
+      "line": 494,
+      "text": "Marty Cagan (01:20:52):"
+    },
+    {
+      "line": 495,
+      "text": "Well, my favorite thing to do is ride motorcycles and there is a new generation of product that who knows, might save my life one day, but these are literally wireless airbag vests that you wear and it uses AI technology and sensors to decide if it should deploy. Luckily, mine has never had to go off, but I know for a lot of people it saved their lives. That's an example of technology where without the technology, it's a very vulnerable... Even with it, it's vulnerable."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "queue_position": 379,
+  "id": 806,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/shweta-shriva/transcript.md",
+  "sha256": "07417d2048023ef9d48322ae6383c57f28462e7cf61fa844293adbeb23d18477",
+  "title": "Product lessons from Waymo | Shweta Shrivastava (Waymo, Amazon, Cisco)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 36,
+      "text": "## Transcript"
+    },
+    {
+      "line": 43,
+      "text": "Before joining Waymo, was chief product officer at Nauto and AI started focusing on driver automation safety. Before that, she was head of product management at Amazon Web Services for their database and analytics services, and before that she was at Cisco. In our conversation, we delve into what it's like to work as a PM at Waymo and how it's both different and similar to software only products."
+    },
+    {
+      "line": 183,
+      "text": "[NEW_PARAGRAPH]At Amazon, I was the first PM and then I drove the team around it for a no-code application development platform called Honey Code. So that was a brand new service. Amazon had never delved in that space before. It was more infrastructure focused and this was first of its kind service that the team worked on. And this has played out many times in my career, and so I am a big believer in disrupting yourself before somebody else does it."
+    },
+    {
+      "line": 192,
+      "text": "Yes. That is the one thing that I would say that somebody who's starting out as a product manager really try to follow that principle. And then listening and empathy is going to go a long way in terms of being able to do that."
+    },
+    {
+      "line": 219,
+      "text": "I really like that advice. I 100% agree with all of that. I have a couple final Waymo questions and then we're going to get to our very exciting lightning round. Just for folks that maybe want to try out Waymo, so maybe just like where's it live now? When do you think it'll roll out to new cities? And then, how do people try it and use it if they live in one of those cities? If that's possible."
+    }
+  ]
+}

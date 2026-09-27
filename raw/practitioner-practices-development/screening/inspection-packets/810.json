@@ -1,0 +1,26 @@
+{
+  "id": 810,
+  "title": "Lessons in product leadership and AI strategy from Glean, Google, Amazon, and Slack | Tamar Yehoshua",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/tamar-yehoshua/transcript.md",
+  "sha256": "5e3dddf3f860c141ed79049453e99ce7acc63ab0764138fc9bdda1acda471844",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 14372,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 870,
+      "text": "Make sure you go somewhere where you have a"
+    },
+    {
+      "line": 403,
+      "offset": 65035,
+      "text": "My first week at Glean was eye-opening in learning some of these things. But let me first just explain what Glean does for people "
+    }
+  ]
+}

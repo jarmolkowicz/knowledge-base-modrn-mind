@@ -1,0 +1,32 @@
+{
+  "id": 466,
+  "title": "Meta Says The Future of AI Is For Everyone (It Isn't)",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/meta-future-everyone-manifesto-fact-check.md",
+  "sha256": "ba0de028367e09711e046a9e3a0d28d37732064e22bff2ed0d2036299191cee9",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1694,
+  "headings": [
+    "**In this post I will:**",
+    "**6,527 words and nothing behind them**",
+    "**Claim one: no one else can access your information**",
+    "**Claim two: a personalized tutor and coach with a PhD in every subject**",
+    "**Claim three: more employment over time rather than less**",
+    "**The one thing Meta does source**",
+    "***Why this matters***"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 454,
+      "text": "Meta has published its philosophy for the AI future, and it cites noth"
+    },
+    {
+      "line": 81,
+      "offset": 6633,
+      "text": "Another piece of peer-reviewed research points the other way. Gregory Kestin and colleagues at Harvard, in *Scientific Reports*, gave physics undergraduates a purpose-built AI tutor and measured roughly twice t"
+    }
+  ]
+}

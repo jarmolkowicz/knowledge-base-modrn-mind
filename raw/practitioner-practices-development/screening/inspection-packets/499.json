@@ -1,0 +1,30 @@
+{
+  "id": 499,
+  "title": "Slow Takes Ep. 23: Is AI Really for Everyone?",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-takes-ep-23-is-ai-really-for.md",
+  "sha256": "df3dd112c142a8f916aef3b1b1f5666bf344db380ff420fa69170b79c384ecfb",
+  "access": "public-page",
+  "kind": "article",
+  "words": 848,
+  "headings": [
+    "**Zuckerberg’s manifesto**",
+    "**Claude’s watermark**",
+    "**Spotify labels the artist**",
+    "**The ‘hee hee hee’ safeguard**",
+    "**Amazon’s power plant**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 427,
+      "text": "Every Monday, Leor from Exploring ChatGPT and I go through the wee"
+    },
+    {
+      "line": 25,
+      "offset": 1035,
+      "text": "Mark Zuckerberg published ‘The Future Is For Everyone’ last week: six and a half thousand words on the path to a positive AI future. Some of the premise is fair. Superintelligence is dangerous, a hand"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "queue_position": 323,
+  "id": 738,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/maya-prohovnik/transcript.md",
+  "sha256": "558e64e32337a4c20989785ca6b85774784058ec8e868bd3f2b3113c6c544ff3",
+  "title": "Building Anchor, selling to Spotify, and lessons learned | Maya Prohovnik (Head of Podcast Product)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 162,
+      "text": "Maya Prohovnik (00:15:31):"
+    },
+    {
+      "line": 163,
+      "text": "Totally, yeah. And also this is less about dogfooding, but one of my favorite things is I'm always just trying to convince everyone I meet to start a podcast, that's just become my annoying thing. And so if I'm interviewing someone for a job or if I'm at a party and mingling with people, it's like somehow the conversation always turns to their passions and then I'm like, you should make a podcast about it. And then they're like, well, I can't. And then I work my way through all the reasons they say they can't do it, and then they go start a podcast. So I'm like one person at a time."
+    },
+    {
+      "line": 192,
+      "text": "Maya Prohovnik (00:18:21):"
+    },
+    {
+      "line": 193,
+      "text": "So I think when you're in the trap of just being like, well, this is the process we always have with insights and we're just going to run this every time we have a feature, I don't think you're going to have a great time. I think if you think of it as part of the creative process as a PM where you're like, I have a hypothesis, I have some data that is helping me understand that hypothesis in the first place or form it in the first place, then I'm going to do some user research and try a couple of things and see what works for people. Then I'm going to make sure that we have success metrics and that we know what we're looking for when we launch, then we're going to follow, et cetera. So I think there's different times and places for all the different types of data collection that you can do."
+    }
+  ]
+}

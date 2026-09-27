@@ -1,0 +1,67 @@
+{
+  "queue_position": 142,
+  "id": 456,
+  "path": "raw/inbox/Practical/Sam Illingworth/gaslit-by-ai.md",
+  "sha256": "4a0369bfbf46ed8fd11fad8472b73055e9e8852511e3e8edcd758c25ee686d04",
+  "title": "This Is How To Stop Being Gaslit By AI",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L25 ### **How to stop being gaslit by AI**",
+    "L31 #### **1. Ask it to label the claim**",
+    "L37 #### **2. Ask for one source, not the sources**",
+    "L43 #### **3. Ask what is being assumed**",
+    "L49 #### **4. Ask it again where it cannot see you**",
+    "L63 ### **Keep the record, in four lines**",
+    "L78 #### **Why we need to keep challenging the light**"
+  ],
+  "passages": [
+    {
+      "line": 13,
+      "text": "# This Is How To Stop Being Gaslit By AI"
+    },
+    {
+      "line": 21,
+      "text": "Opening a link and reading a page is not a skill. Knowing that the paragraph in front of you needs its links opened is, and that is what the Slow AI Curriculum builds over twelve months, on the systems you actually use."
+    },
+    {
+      "line": 31,
+      "text": "#### **1. Ask it to label the claim**"
+    },
+    {
+      "line": 35,
+      "text": "Ask this before anything else. Mine never volunteered which it was doing, even when the answer was supposedly arithmetic. It forces the claim into a shape you can test."
+    },
+    {
+      "line": 63,
+      "text": "### **Keep the record, in four lines**"
+    },
+    {
+      "line": 67,
+      "text": "1. **Screenshot before you challenge, not after.** The moment you push back you are in a conversation it is steering, and the first answer is the evidence."
+    },
+    {
+      "line": 68,
+      "text": "2. **Log four fields.** The Date, the exact question, the exact claim, and whether it called that retrieval or derivation."
+    },
+    {
+      "line": 70,
+      "text": "4. **Give it one chance to correct, then stop.** A second explanation is worth less than the first, because by then the freshest thing in its context is your objection, and agreeing with you is the easiest output available."
+    },
+    {
+      "line": 72,
+      "text": "If you live in the UK, then under UK GDPR you can submit a Subject Access Request (SAR) to ask an organisation if they hold your personal data, get a copy of that data, find out where it came from, and learn who it has been shared with."
+    },
+    {
+      "line": 78,
+      "text": "#### **Why we need to keep challenging the light**"
+    },
+    {
+      "line": 82,
+      "text": "I still do not know where my date of birth came from. Four accounts, one tone, and not one of them reproducible. What I do know is that I screenshotted the first answer before I argued with it, and that without it I would have walked away accepting that I had misremembered."
+    },
+    {
+      "line": 84,
+      "text": "Keep the evidence, ask where the claim came from, and never doubt yourself at the expense of a machine."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 355,
+  "title": "Your 30 day plan to blow up on Tiktok",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/30-day-plan-tiktok-growth.md",
+  "sha256": "1bc1eee2c0ef1a516660b460cb0f6e96769050b65f886ccc9fc7654fa821c6e8",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 798,
+  "headings": [
+    "1. Why Tiktok?",
+    "2. Which AI Tool Should I Use?",
+    "3. But what if my audience isn’t on TikTok?",
+    "4. What’s the #1 mistake to watch out for?",
+    "**P.S. Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 211,
+      "text": "If you want to blow up on TikTok in 2026, this one’s for you!"
+    },
+    {
+      "line": 32,
+      "offset": 1111,
+      "text": "I screenshare how to find viral examples and how to use AI to help write your hooks and scripts."
+    }
+  ]
+}

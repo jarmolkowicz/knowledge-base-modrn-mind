@@ -1,0 +1,78 @@
+{
+  "queue_position": 129,
+  "id": 435,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-neutrality-bias-missing-voices.md",
+  "sha256": "0e7d54c595f11b37f31d2cc38a386970be30fa95c41a1d0d3497243abe9ce3d8",
+  "title": "When AI Sounds Neutral, Is It?",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L30 #### **Step-by-step**",
+    "L52 #### **A moment from me**",
+    "L70 #### **What to do with it**",
+    "L80 #### **Why this matters**",
+    "L94 #### **From last week:** ***[When AI Never Stops, Should You?](https://theslowai.substack.com/p/when-ai-never-stops-should-you)***",
+    "L110 #### **Share**"
+  ],
+  "passages": [
+    {
+      "line": 30,
+      "text": "#### **Step-by-step**"
+    },
+    {
+      "line": 42,
+      "text": "This is not a ritual to shame the tool. It is a practice that reminds us that every dataset has limits, and every silence carries weight."
+    },
+    {
+      "line": 44,
+      "text": "If you cannot find an obvious answer, sit with the question anyway. Bias often hides in what is left unsaid."
+    },
+    {
+      "line": 52,
+      "text": "#### **A moment from me**"
+    },
+    {
+      "line": 62,
+      "text": "Immediately I thought of mature students, part-time learners, and those studying while working or caring. I checked and found that nearly 10% of UK undergraduates are over 21 when they start. The ‘typical student’ is not so typical after all."
+    },
+    {
+      "line": 70,
+      "text": "#### **What to do with it**"
+    },
+    {
+      "line": 76,
+      "text": "- Try asking the same question in two contexts: one about people, one about ideas, and notice how different biases surface."
+    },
+    {
+      "line": 80,
+      "text": "#### **Why this matters**"
+    },
+    {
+      "line": 86,
+      "text": "The practice of asking “Who might this disadvantage?” trains us to move beyond the illusion of neutrality, towards something closer to justice."
+    },
+    {
+      "line": 90,
+      "text": "If you would like to keep practising, you might like *A Gentle Guide to Reflection with AI* (pay what-you-wish). Think of it as a companion you can return to whenever you want to pause and notice whose voices might be missing."
+    },
+    {
+      "line": 94,
+      "text": "#### **From last week:** ***When AI Never Stops, Should You?***"
+    },
+    {
+      "line": 98,
+      "text": "Tim M. Critical-AI-Solutions wrote that the ‘stop’ question is missing from most AI workflows. Tim reminded us that breakthroughs rarely arrive in the next prompt, but in the pause we allow ourselves."
+    },
+    {
+      "line": 102,
+      "text": "Katie Barnes reminded us to ‘stay human first.’ For Katie, wandering the streets of Spain without AI brought back the simple clarity of walking, smelling coffee, and letting the mind rest."
+    },
+    {
+      "line": 110,
+      "text": "#### **Share**"
+    },
+    {
+      "line": 112,
+      "text": "If you try this week’s prompt, I would love to see which group your AI tool overlooked, and how naming it shifted your perspective."
+    }
+  ]
+}

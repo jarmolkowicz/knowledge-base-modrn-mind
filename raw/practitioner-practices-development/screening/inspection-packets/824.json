@@ -1,0 +1,26 @@
+{
+  "id": 824,
+  "title": "A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/uri-levine-20/transcript.md",
+  "sha256": "cba043c6c1b15c831bf67cdfa4eac92dff0695c3c351ebead71a90fb624a98ae",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13886,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 38,
+      "offset": 846,
+      "text": "Let's talk about crisis. I think it might b"
+    },
+    {
+      "line": 131,
+      "offset": 10212,
+      "text": "Covid was an excellent example. And one of my startups back then, called Order.chat, and actually it was the first AI chat back in"
+    }
+  ]
+}

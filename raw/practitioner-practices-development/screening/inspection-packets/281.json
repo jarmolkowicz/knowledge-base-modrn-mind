@@ -1,0 +1,39 @@
+{
+  "id": 281,
+  "title": "Context > Prompt.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/context-is-all-you-need.md",
+  "sha256": "0696de5504dadc55637379963d7773e43e97505ad80a5d82725eb04dd30dd27a",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2622,
+  "headings": [
+    "**The science behind context engineering.**",
+    "Step 1: Define the Goal, Not the Process",
+    "Step 2: Specify Constraints (Not Rules)",
+    "Step 3: Give examples.",
+    "Step 4: Embed Performance Criteria",
+    "Step 5: Hierarchical Goal Structure (When Goals Are Complex)",
+    "Conclusion: here’s a solid template.",
+    "**You are new? Access my archive of guides:**",
+    "**7 examples of good context engineering.**",
+    "1. Strategic decision memo",
+    "2. Rewrite a cold email that actually sells",
+    "3. LinkedIn post with 1 story, 1 lesson",
+    "4. Learning a new skill in 30 days",
+    "5. Product spec that engineers can use"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 164,
+      "text": "No one told you how to talk to ChatGPT (and other AI)."
+    },
+    {
+      "line": 216,
+      "offset": 9993,
+      "text": "> Primary goal: I need a 2-page decision memo on whether we should adopt [AI tool] for [team / workflow]. The memo must end with a clear “yes, no, or test first” recommendation."
+    }
+  ]
+}

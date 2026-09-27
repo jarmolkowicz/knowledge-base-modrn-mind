@@ -1,0 +1,69 @@
+{
+  "queue_position": 123,
+  "id": 424,
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-fakes-and-truths.md",
+  "sha256": "b97e5922e3e6c3e59f69b6901df9f517aa6c6ebfc5fa734cb5b3f64d456c53ba",
+  "title": "When AI Fakes, Can You Tell?",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L26 #### **Step-by-step**",
+    "L50 #### **A moment from me**",
+    "L68 #### **What to do with it**",
+    "L80 #### **Why this matters**",
+    "L88 #### **From Last Week: [When AI Sounds Certain, Ask for Doubt](https://theslowai.substack.com/p/when-ai-sounds-certain-ask-for-doubt)**"
+  ],
+  "passages": [
+    {
+      "line": 18,
+      "text": "By the end, you may find yourself more attuned to the cracks where trust seeps out, and more ready to ask what keeps truth alive."
+    },
+    {
+      "line": 20,
+      "text": "Last week, in When AI Sounds Certain, Ask for Doubt, many of you explored how hesitation reshapes an answer. Some of your reflections appear at the end of this post."
+    },
+    {
+      "line": 50,
+      "text": "#### **A moment from me**"
+    },
+    {
+      "line": 58,
+      "text": "What unsettled me was not the lie itself but the surface of plausibility. The headline felt familiar, echoing real claims I have seen before. I noticed how easily I wanted to believe it, and how little effort it took for the tool to make it."
+    },
+    {
+      "line": 60,
+      "text": "Sitting with that discomfort reminded me how quickly belief can form, and how much slower it is to question, cross-check, and resist the pull of the easy answer."
+    },
+    {
+      "line": 80,
+      "text": "#### **Why this matters**"
+    },
+    {
+      "line": 84,
+      "text": "By practising slowness here, you rehearse what it means to pause before passing something on. You practise the small acts of attention that help resist manipulation and protect trust."
+    },
+    {
+      "line": 88,
+      "text": "#### **From Last Week: When AI Sounds Certain, Ask for Doubt**"
+    },
+    {
+      "line": 92,
+      "text": "> BD shared a dialogue with ChatGPT that began with the question “Are tree leaves green?” and unfolded into a meditation on perception, context, and truth."
+    },
+    {
+      "line": 94,
+      "text": "> Hodman Murad noted that the most valuable lesson may not be how AI gives us answers, but how it reminds us to sit with uncertainty."
+    },
+    {
+      "line": 96,
+      "text": "> L. Elaine Dazzio spoke of doubt as permission, a gentler rhythm that lets us admit we do not always need to know at once."
+    },
+    {
+      "line": 98,
+      "text": "These reflections show how doubt can be more than a pause, it can be a practice that shapes how we think and decide together."
+    },
+    {
+      "line": 102,
+      "text": "If you try this week’s prompt, I would love to see the most unsettling fake your tool created. I read and respond to all your comments."
+    }
+  ]
+}

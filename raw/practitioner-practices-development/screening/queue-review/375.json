@@ -1,0 +1,76 @@
+{
+  "queue_position": 99,
+  "id": 375,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/claude-just-changed-content-creation-remotion-video.md",
+  "sha256": "09b0208cce057e57272b0b26977bbed4f45dff8bb57b66ad26ff635b920967ea",
+  "title": "Claude Just Changed Content Creation Forever",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L26 ## 1. Install the Remotion Skill",
+    "L56 ## 2. Create a Motion Graphics Video (Prompt 1)",
+    "L82 ## 3. Fact-Check and Add Screenshots (Prompt 2)",
+    "L106 ## 4. Personal Touches (Prompt 3)",
+    "L126 ## 5. Edit EXISTING Videos",
+    "L150 ## 6. Schedule to Social Media (The Final Step)",
+    "L168 ## My Honest Take",
+    "L188 ## **P.S. Need More Help? 👋**"
+  ],
+  "passages": [
+    {
+      "line": 20,
+      "text": "In this comprehensive step-by-step tutorial, I’ll show you how to use Claude Code alongside the Remotion skill to build your local video creation/editing pipeline."
+    },
+    {
+      "line": 56,
+      "text": "## 2. Create a Motion Graphics Video (Prompt 1)"
+    },
+    {
+      "line": 76,
+      "text": "Within 2-3 minutes, Remotion opened its own local studio at `localhost:3003`. Preview the video right there in your browser. Press play, scrub through it, see exactly what you’re getting BEFORE rendering."
+    },
+    {
+      "line": 82,
+      "text": "## 3. Fact-Check and Add Screenshots (Prompt 2)"
+    },
+    {
+      "line": 98,
+      "text": "Claude used Claude in Chrome (browser automation) to VISIT each GitHub repo, take a real screenshot, and then Remotion incorporated those screenshots directly into the video."
+    },
+    {
+      "line": 126,
+      "text": "## 5. Edit EXISTING Videos"
+    },
+    {
+      "line": 134,
+      "text": "Claude analyzes your video, applies a title overlay disappearing after a few seconds, adds captions avoiding your face, and attempts to trim out the bloopers where you stumbled."
+    },
+    {
+      "line": 144,
+      "text": "If you’re serious about using Remotion for editing existing videos, set aside a few days to build a template fitting YOUR style. Figure out where your title goes, how captions should look, and your standard intro/outro."
+    },
+    {
+      "line": 150,
+      "text": "## 6. Schedule to Social Media (The Final Step)"
+    },
+    {
+      "line": 160,
+      "text": "Claude shows me the caption, I check the brand voice, the hashtags, the message... then I approve and it goes out."
+    },
+    {
+      "line": 164,
+      "text": "I’ve got tons of posts scheduled every week, all through Claude Code + Blotato MCP. Never leaving the terminal."
+    },
+    {
+      "line": 168,
+      "text": "## My Honest Take"
+    },
+    {
+      "line": 174,
+      "text": "BUT for motion graphics, short-form content, and quick social videos? This is ALREADY good enough to start with, especially if you don’t have a big budget or big team. Spend a couple days iterating on ONE template to achieve a style you like."
+    },
+    {
+      "line": 178,
+      "text": "Once Claude knows your brand, your style, your CTA format... that’s the productivity gain. You can also use Remotion for your FIRST DRAFT pass, then handoff to human editors to add polish."
+    }
+  ]
+}

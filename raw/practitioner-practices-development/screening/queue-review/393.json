@@ -1,0 +1,63 @@
+{
+  "queue_position": 103,
+  "id": 393,
+  "path": "raw/inbox/Practical/Sabrina Ramonov/i-asked-chatgpt-to-make-me-money-prompt-chain.md",
+  "sha256": "9e9ce09a2ee1190a05f7e97b0caf0ed5e83495b79a7514319cff6c6e47467163",
+  "title": "I Asked ChatGPT To Make Me As Much Money As Possible",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L54 ## Prerequisite: Establish Context",
+    "L68 ## Beginner Prompt Chain",
+    "L76 ### Prompt #1:",
+    "L100 ### Prompt #3:",
+    "L116 ## Intermediate Bonus Prompt",
+    "L142 ## Next-Level Bonus Prompt",
+    "L182 ## **P.S. Need More Help? 👋**"
+  ],
+  "passages": [
+    {
+      "line": 76,
+      "text": "### Prompt #1:"
+    },
+    {
+      "line": 84,
+      "text": "Don’t be afraid to ask clarifying questions, push back, propose alternatives, question ChatGPT’s choice, etc. For example, I asked ChatGPT why it chose this high-ticket Done For You offer instead of selling courses or starting a paid community:"
+    },
+    {
+      "line": 88,
+      "text": "Make sure you have constructive dialogue back and forth after each answer, then proceed to the next prompt once you’re happy with the offer and channel."
+    },
+    {
+      "line": 100,
+      "text": "### Prompt #3:"
+    },
+    {
+      "line": 102,
+      "text": "> **Pretend you are that person. Create a VERY SIMPLE 90-day action plan that needs <$1,000 upfront, has a 95% chance of success, and gets me to my FIRST paying customer ASAP.**"
+    },
+    {
+      "line": 108,
+      "text": "This phrase “gets me to my FIRST paying customer ASAP” is key. Without this, ChatGPT will generate a typical 30, 60, 90 day roadmap where your first 30 days is spent on “preparation”."
+    },
+    {
+      "line": 112,
+      "text": "You want the fastest path to your first DOLLAR because this small win will energize you to keep going. Most people quit too early or jump to the next shiny object, so it’s critically important to build momentum and conviction through compounding small wins… ideally sooner rather than later!"
+    },
+    {
+      "line": 116,
+      "text": "## Intermediate Bonus Prompt"
+    },
+    {
+      "line": 128,
+      "text": "> **Act as Alex Hormozi. I have no audience or distribution. My goal is to get one ‘hell yes’ or paid commitment ASAP. What are 3 specific, easy-to-run tests I can do this week to validate that real people will pay me? Each test should cost under $50 and <4 hours to set up.**"
+    },
+    {
+      "line": 142,
+      "text": "## Next-Level Bonus Prompt"
+    },
+    {
+      "line": 170,
+      "text": "> I’m stuck at the starting line. Acting as my entrepreneur coach, ask me questions one at a time, until you can successfully diagnose the ONE mindset block most likely holding me back. Then reframe it. Finally, compress my 90-day plan into a 2-week “proof sprint” that proves I can succeed."
+    }
+  ]
+}

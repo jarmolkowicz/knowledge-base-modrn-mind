@@ -1,0 +1,31 @@
+{
+  "id": 492,
+  "title": "The Slow AI Curriculum for AI Literacy",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-curriculum-literacy.md",
+  "sha256": "3e4fb424082c92c0f0e733688f1966d89b77c2a2c6e22cc88815118d9dd517e7",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 817,
+  "headings": [
+    "The Pedagogical Vision",
+    "**The 2026 Syllabus**",
+    "**Format and Delivery**",
+    "**The Certificate of Critical AI Literacy**",
+    "**A Taster of the curriculum**",
+    "**The Choice of Practice**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 227,
+      "text": "Over the past six months, *Slow AI* has evolved into a significant"
+    },
+    {
+      "line": 54,
+      "offset": 3104,
+      "text": "2. **The Critical Prompt (10 Minutes).** We apply the theory to a singular, provocative prompt to observe the AI output."
+    }
+  ]
+}

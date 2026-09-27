@@ -1,0 +1,59 @@
+{
+  "queue_position": 77,
+  "id": 326,
+  "path": "raw/inbox/Practical/Ruben Hassid/rovo.md",
+  "sha256": "f2b97dd73fc0c82f46f1bf73ee10de52814cd89333db9e00b2fb1ac66e5bf724",
+  "title": "Rovo.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L47 ## **1. AI is terrible at being creative.**",
+    "L130 ## **2. Toothpaste AI or useful AI?**",
+    "L168 ## **3. Speed Is All You Need.**"
+  ],
+  "passages": [
+    {
+      "line": 26,
+      "text": "Other LLMs (ChatGPT, Claude, Grok, Gemini…) are just much better at writing, searching, thinking. And maybe that’s ok?"
+    },
+    {
+      "line": 47,
+      "text": "## **1. AI is terrible at being creative.**"
+    },
+    {
+      "line": 53,
+      "text": "And to some of you, it’s obvious. Because you experienced it too: you ask for 10 ideas, and none of them actually match your unique use case."
+    },
+    {
+      "line": 92,
+      "text": "> “Select idea [X] and develop it to meet these constraints: [requirements]. If it doesn’t work, try another idea.”"
+    },
+    {
+      "line": 168,
+      "text": "## **3. Speed Is All You Need.**"
+    },
+    {
+      "line": 200,
+      "text": "2 - Having the right **infrastructure** (*like ROVO with Confluence/Jira*) paired with the right **directories** of guidelines. For example, how can your employee ask an AI where a doc is if the doc does not exist? You can no longer afford not to keep track of everything on one massive company-sized database."
+    },
+    {
+      "line": 202,
+      "text": "The context window of these (*AI*) tools keeps getting greater. It means AI is more and more capable of consuming and understanding your entire company’s knowledge without making any mistakes."
+    },
+    {
+      "line": 208,
+      "text": "Now GPT-5.2 has a 400,000 token limit. So 800x more in a couple of years. That’s like a 2-3 Harry Potter books."
+    },
+    {
+      "line": 210,
+      "text": "So you can bet tools like ROVO, owning your entire team workspace, with the complete knowledge database, are becoming increasingly vital."
+    },
+    {
+      "line": 214,
+      "text": "If you struggle on the “How” to implement it at your company, leave a comment and I will personally DM you. I might be able to help my most active subscribers."
+    },
+    {
+      "line": 220,
+      "text": "PS: I received TONS of positive reviews on my **article** to go from **49 to 10,000 followers on Linkedin in 17 days**. Read it if you’re into growing your Linkedin."
+    }
+  ]
+}

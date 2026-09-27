@@ -1,0 +1,42 @@
+{
+  "id": 459,
+  "group_index": 3,
+  "decision": "retain",
+  "role": "origin",
+  "locators": [
+    "L18, Rebecca J Hogue credit",
+    "L32–42, exercise",
+    "L62–80, comparison of rough/polished passages"
+  ],
+  "basis": "Rebecca J Hogue’s personal writing experiment, hosted by Sam Illingworth.",
+  "reported_outcomes": [
+    "Reports more useful focus after limiting feedback to five areas; rejects some advice as contrary to style; perceives improvement in later drafts."
+  ],
+  "proposed_outcomes": [
+    "Use criticism to perform one’s own revision."
+  ],
+  "limits": [
+    "No independent assessment of improved writing or transfer. Five areas/200 words are examples, not established optimum. Data-training settings do not settle every confidentiality or authorship question."
+  ],
+  "related_entries": [
+    "think-first",
+    "cognitive-offloading"
+  ],
+  "review_note": "Retain clear feedback-without-replacement procedure and human rejection examples.",
+  "practitioner": "Describe the intended effect and let the author decline a suggestion; use a small shareable excerpt.",
+  "coverage": "Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.",
+  "practice_files": [
+    "raw/illingworth-459-how-can-writers-use-ai-ethically-2025/drafts/practices/request-criticism-without-rewriting.md",
+    "raw/illingworth-460-how-creatives-are-actually-using-ai-2026/drafts/practices/turn-creative-disagreement-into-your-own-checklist.md"
+  ],
+  "source_path": "raw/illingworth-459-how-can-writers-use-ai-ethically-2025/source.md",
+  "reviewed_at": "2026-09-26",
+  "integration_decision": "PROCEED_TO_INTEGRATE",
+  "draft_only": true,
+  "integrated_at": "2026-09-26T22:53:23.713398+00:00",
+  "integrated_practices": [
+    "practices/request-criticism-without-rewriting.md",
+    "practices/turn-creative-disagreement-into-your-own-checklist.md"
+  ],
+  "historical_drafts_retained": true
+}

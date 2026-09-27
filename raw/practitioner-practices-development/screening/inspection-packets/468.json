@@ -1,0 +1,36 @@
+{
+  "id": 468,
+  "title": "Your AI CV Just Got You Rejected",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/mobley-workday-ai-hiring.md",
+  "sha256": "d0d0823a977f44cac3bec2f3187eb01a481fcb4fa24231e17f554ebc27e25268",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1867,
+  "headings": [
+    "**In this post I will:**",
+    "**The case**",
+    "**What the AI did that a human would not**",
+    "**Three failure modes in one decision**",
+    "**The AI-on-AI asymmetry**",
+    "**The four-step AI hiring audit**",
+    "**1. Are AI tools in the pipeline at all?**",
+    "**2. What is the speed-to-rejection?**",
+    "**3. Who falls out of the funnel?**",
+    "**4. What is your audit trail?**",
+    "**What this leaves you with**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 395,
+      "text": "A federal court opened the door for tens of thousands of job applicant"
+    },
+    {
+      "line": 65,
+      "offset": 5949,
+      "text": "Anti-discrimination law was built for human decisions. It assumes a decision-maker, an intent, an action. AI hiring tools shred all three. The decision is distributed across a pipeline. The intent is buried in "
+    }
+  ]
+}

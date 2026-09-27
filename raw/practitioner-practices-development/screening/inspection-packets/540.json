@@ -1,0 +1,26 @@
+{
+  "id": 540,
+  "title": "Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/alex-komoroske/transcript.md",
+  "sha256": "86c8ef850847a630c3c045eab685d8dd468a18a1c3e40f0e07aaa56192c509d0",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 18983,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 881,
+      "text": "So much of the way that we tackle problems and build "
+    },
+    {
+      "line": 103,
+      "offset": 12505,
+      "text": "What I want to do instead is pick on some of the Bits and Bobs that you've been focusing on noodling on that I think are going to be really helpful to listeners"
+    }
+  ]
+}

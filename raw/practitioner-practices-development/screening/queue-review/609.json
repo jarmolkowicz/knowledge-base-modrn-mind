@@ -1,0 +1,29 @@
+{
+  "queue_position": 234,
+  "id": 609,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/dmitry-zlokazov/transcript.md",
+  "sha256": "2749bcff326505bbc2981c01ebd426eabe208cbc17c2c7fbdd15b64a1370ac55",
+  "title": "How Revolut trains world-class PMs: The “Local CEO” model, raw intellect & building wow products",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L79 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 339,
+      "text": "(00:46:15):"
+    },
+    {
+      "line": 340,
+      "text": "We know that we can do it way better than competitors leverage and for example, some things that we have obviously some concepts of product and then what customer problem we're solving and so on. And there is very little bureaucracy, again, thanks to having founder hands-on, we can easily get a green light on anything, start launching it quickly. What we do is assemble same lean team with just a few people to build first version and then iterate and iterate. And the main thing here is to build first version very quickly to get feedback, but then not scale it before you polish the product. But then after we make sure that all metrics are fine, retention is great, we start scaling it. And the good news is that it can be instantly multiplied by our 50 million customer base and get great traction. So for example, one of the products that you mentioned, joint accounts essentially an account that you could have with a significant other one was one of the recently launched feature and it grew significantly and now it has over a million active users."
+    },
+    {
+      "line": 381,
+      "text": "Dmitry Zlokazov (00:54:18):"
+    },
+    {
+      "line": 382,
+      "text": "I would say it's actually being able to unblock your team and that sometimes require product owners to steam roll changes because it also means that you could easily get stuck with a lot of people just looking into each other and thinking, \"Okay, can they approve it? Can they not approve it?\" We try to innovate on it. We try to automate as many things as possible. We use even AI models for that, but it also requires a product owner to be able to get things done, just getting people down to consensus and understanding how your stakeholders, how to get them to the necessary decision and then blocking UTM so that eventually the value is shipped to customers."
+    }
+  ]
+}

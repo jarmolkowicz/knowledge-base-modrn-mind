@@ -1,0 +1,26 @@
+{
+  "id": 663,
+  "title": "Becoming evidence-guided | Itamar Gilad (Gmail, YouTube, Microsoft)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/itamar-gilad/transcript.md",
+  "sha256": "9249133f81384c101fd44694e34fd1bc6edd8ba3123838a74c49a4165cd646e4",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13431,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 812,
+      "text": "You fake it, you do a fake door test, you do a"
+    },
+    {
+      "line": 537,
+      "offset": 71812,
+      "text": "It's a cliche, but it's AI. There's a company called ElevenLabs, that do voices and the best voices, synthetic voices you heard, but they ca"
+    }
+  ]
+}

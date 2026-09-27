@@ -1,0 +1,35 @@
+{
+  "queue_position": 19,
+  "id": 64,
+  "path": "raw/inbox/Practical/Ethan Mollick/15-times-to-use-ai-and-5-not-to.md",
+  "sha256": "3448cdf6a8d9a178e8143fd10e3e87123e00e90de2f52aef8737e8bd7950d8bb",
+  "title": "15 Times to use AI, and 5 Not to",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [],
+  "passages": [
+    {
+      "line": 12,
+      "text": "1. Work that requires quantity. For example, the number of ideas you generate determines the quality of the best idea. You want to generate a lot of ideas in any brainstorming session. Most people stop after generating just a few ideas because they become exhausted but, the AI can provide hundreds that do not meaningfully repeat.1"
+    },
+    {
+      "line": 38,
+      "text": "# 5 Times Not to Use AI"
+    },
+    {
+      "line": 42,
+      "text": "1. When you need to learn and synthesize new ideas or information. Asking for a summary is not the same as reading for yourself. Asking AI to solve a problem for you is not an effective way to learn, even if it feels like it should be. To learn something new, you are going to have to do the reading and thinking yourself, though you may still find an AI helpful for parts of the learning process."
+    },
+    {
+      "line": 44,
+      "text": "3. When you do not understand the failure modes of AI. AI doesn’t fail exactly like a human. You know it can hallucinate, but that is only one form of error: AIs often try to persuade you that they are right, or they might become sycophantic and agree with your incorrect answer. You need to use AI enough to understand these risks."
+    },
+    {
+      "line": 50,
+      "text": "Knowing when to use AI turns out to be a form of wisdom, not just technical knowledge. Like most wisdom, it's somewhat paradoxical: AI is often most useful where we're already expert enough to spot its mistakes, yet least helpful in the deep work that made us experts in the first place. It works best for tasks we could do ourselves but shouldn't waste time on, yet can actively harm our learning when we use it to skip necessary struggles. And perhaps most importantly, wisdom means knowing that these patterns will keep shifting as AI capabilities evolve, and as more research comes in, requiring us to keep questioning our assumptions about where it helps and where it hinders."
+    },
+    {
+      "line": 58,
+      "text": "The best prompt for idea generation in our paper for GPT-4 was “Generate product ideas with the following requirements: [insert constraints here]. The ideas are just ideas. The product need not yet exist, nor may it necessarily be clearly feasible. Follow these steps. Do each step, even if you think you do not need to. First generate a list of 100 ideas (short title only) Second, go through the list and determine whether the ideas are different and bold, modify the ideas as needed to make them bolder and more different. No two ideas should be the same. This is important! Next, give the ideas a name and combine it with a product description. The name and idea are separated by a colon and followed by a description. The idea should be expressed as a paragraph of 40-80 words. Do this step by step!”"
+    }
+  ]
+}

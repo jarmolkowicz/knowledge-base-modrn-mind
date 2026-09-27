@@ -1,0 +1,29 @@
+{
+  "queue_position": 236,
+  "id": 612,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/drew-houston/transcript.md",
+  "sha256": "08178d9aee92ccf1ed829bc87aa1e9741c82bbb099768b00334e75deb02302ab",
+  "title": "Behind the founder | Drew Houston (Dropbox)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L34 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 450,
+      "text": "(01:11:08):"
+    },
+    {
+      "line": 451,
+      "text": "We bought a little company called Command E that was doing universal search, and we created this new product called Dropbox Dash. Basically, Dash connects to all your different apps. It gives you universal search. Then obviously after ChatGPT, not only can you do conventional search, but you can ask questions in natural language, and answer a lot of the questions that ChatGPT can't because it's not connected to your stuff. If you ask ChatGPT like, \"When does my lease expire? Where's that slide from last year's product launch,\" can't tell you because it's not personalized. Because it's not connected to your information. We did all of that for this whole connector platform where we index the known universe of SaaS apps, have this kind of intelligence engine that brings all of it into a common representation, and lets you do conventional search, natural language search."
+    },
+    {
+      "line": 543,
+      "text": "(01:32:02):"
+    },
+    {
+      "line": 544,
+      "text": "So I think it's super important. And then, in a startup context, what's the meta game? Well, I'd say some of it is just business cycles. So I think you'll have, as you see, there's this boom in the late teens in SaaS and in tech. There's a bit of an AI boom happening right now. It's not that different from what, or parts of it are not that different from what happened with the dotcom era in '99, 2000 or the web 2.0 era in 2007 or others. And then, you have these bust times like 2008 and 2000, 2001, et cetera. So there's a market cycle thing that often creates similar dynamics where it's like five years ago every tech company was hiring the maximal number of people that it could. And then, that created one talent dynamic. Now, it's a lot of companies are keeping high comp flat or negative, so that's just a very different thing. But even those are cyclical."
+    }
+  ]
+}

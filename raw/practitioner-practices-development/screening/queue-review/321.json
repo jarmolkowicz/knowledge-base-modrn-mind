@@ -1,0 +1,88 @@
+{
+  "queue_position": 73,
+  "id": 321,
+  "path": "raw/inbox/Practical/Ruben Hassid/powerpoint.md",
+  "sha256": "de9ebe89c529bed465aec3daeae8b7cc87d39f0f7aa9a5d4a1c9fc7df9457c84",
+  "title": "Slides.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L24 ## **Method #1. Claude**",
+    "L60 ## **Method #2. Gamma**",
+    "L95 ## **Method #3. Claude + Gamma**",
+    "L113 #### **How I recommend it** (Research → Brief → Generate)",
+    "L201 ## **The ultimate guides for AI + slides, for teams.**",
+    "L207 #### **Step 1: Create your Gamma theme.**",
+    "L231 #### **Step 2: Build your brand rules file.**",
+    "L261 #### **Step 3: Add Gamma settings to the file.**",
+    "L266 ## Gamma Settings - Theme: [name of the theme you saved earlier]",
+    "L277 #### **Step 4: Use it.**",
+    "L289 #### **Step 5: Update it.**",
+    "L303 ## Be that person."
+  ],
+  "passages": [
+    {
+      "line": 24,
+      "text": "## **Method #1. Claude**"
+    },
+    {
+      "line": 52,
+      "text": "**The catch:** Claude writes and structures well, has great research capabilities, but the visual side stays basic. Good enough for a team sync (if they really don’t care about designs). Too flat for a client meeting."
+    },
+    {
+      "line": 60,
+      "text": "## **Method #2. Gamma**"
+    },
+    {
+      "line": 87,
+      "text": "**The catch:** the design is great. The *content* is only as smart as your one-line prompt. Vague prompt = pretty slides that say nothing. You must be specific/do the proper research first."
+    },
+    {
+      "line": 95,
+      "text": "## **Method #3. Claude + Gamma**"
+    },
+    {
+      "line": 99,
+      "text": "This is where I spend most of my time. Claude thinks. Gamma designs. You decide what stays and what goes."
+    },
+    {
+      "line": 113,
+      "text": "#### **How I recommend it** (Research → Brief → Generate)"
+    },
+    {
+      "line": 154,
+      "text": "1. Write a slide-by-slide outline. Each slide gets: a title, 2-3 key points, and any specific data/stats from the research that must appear on that slide."
+    },
+    {
+      "line": 158,
+      "text": "3. Do not write full paragraphs — Gamma will generate the final text. Just give it enough structure and data to work with."
+    },
+    {
+      "line": 277,
+      "text": "#### **Step 4: Use it.**"
+    },
+    {
+      "line": 282,
+      "text": "Read brand-deck-rules.md first. Create a Gamma presentation about [TOPIC] for [AUDIENCE]. Use our brand theme. [Anything specific about this deck]."
+    },
+    {
+      "line": 285,
+      "text": "Claude reads the file, applies the rules, sends it to Gamma with your theme. On-brand from the first draft."
+    },
+    {
+      "line": 303,
+      "text": "## Be that person."
+    },
+    {
+      "line": 307,
+      "text": "Some people came because of my LinkedIn. But most readers subscribed because someone they trusted sent one of my articles to them."
+    },
+    {
+      "line": 313,
+      "text": "If someone sent you this, first **thank them**, and don’t miss the next guide by **subscribing** for free. *Bonus point if you introduce yourself in the comment.*"
+    },
+    {
+      "line": 319,
+      "text": "###### archive of my past blogs: https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing"
+    }
+  ]
+}

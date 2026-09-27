@@ -1,0 +1,37 @@
+{
+  "queue_position": 303,
+  "id": 707,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/kenneth-berger/transcript.md",
+  "sha256": "271bf321738ce421501c0835d61e10ff43a82ff740b614f8b3e446afae0162e8",
+  "title": "Why not asking for what you want is holding you back | Kenneth Berger (exec coach, first PM @Slack)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 180,
+      "text": "(00:16:26):"
+    },
+    {
+      "line": 181,
+      "text": "They didn't show up to the party or they didn't deliver on time because my CTO said, \"Yeah, I think maybe we can deliver by May 1st.\" And then May 1st comes and surprise, surprise, your milestone is not done because you didn't go for that hell yes. And so I think part of what I encourage people to do is, one, to really hear anything short of a hell yes as a no. So it's not a bad thing. Mostly the world tells us it's actually really great data. It helps us figure out what are we going to try next? What are we going to try next, try next, try next? Because that's going to help us learn how to actually get to that hell yes."
+    },
+    {
+      "line": 270,
+      "text": "Kenneth Berger (00:29:33):"
+    },
+    {
+      "line": 271,
+      "text": "Even implicit in that question, to me that's that question of, \"Oh, how do I do it without being any risk of ever pissing anyone off?\" That's a piece of the resistance right there. And so this is a great example of the type of work that we have to do, right? Because in theory, asking is easy, \"Oh, you just try some way and maybe people are pissed off and maybe they're not.\" But probably it's going to be fine and you'll have the chance to try again and iterate and work from it."
+    },
+    {
+      "line": 393,
+      "text": "Kenneth Berger (00:44:36):"
+    },
+    {
+      "line": 394,
+      "text": "Acceptance of the response is primarily an emotional regulation issue because once we get our emotions intact, it's just, is it yes or is it no? And if it's no, which it probably is, most of the time the world tells us no, then the question is, \"All right, what can I learn from this? What am I going to try next?\" And so when we're able to emotionally regulate, it's all very cut and dry, right? It's like, \"Okay. Here's data to tell me what to try next.\""
+    }
+  ]
+}

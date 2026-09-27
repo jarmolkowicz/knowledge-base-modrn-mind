@@ -1,0 +1,26 @@
+{
+  "id": 575,
+  "title": "He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/bret-taylor/transcript.md",
+  "sha256": "b0d21a4938ed94de1ed45f22c2b3154d93861033b54782dfc2ac8a5c72491e1d",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 16544,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 38,
+      "offset": 826,
+      "text": "You're CTO of Meta. You are a co-CEO of Salesforce, y"
+    },
+    {
+      "line": 299,
+      "offset": 50320,
+      "text": "I don't know if you're a visual learner or reading learner. I like to read. I didn't love going to lectures. I don't learn that well from them. I like to read t"
+    }
+  ]
+}

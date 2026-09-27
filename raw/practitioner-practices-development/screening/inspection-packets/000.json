@@ -1,0 +1,24 @@
+{
+  "id": 0,
+  "title": "Finding Your Intuition and Changing Your Personality",
+  "collection": "Adam Grant",
+  "path": "raw/inbox/Practical/Adam Grant/finding-your-intuition-and-changing.md",
+  "sha256": "2a529d620206ba8f467f5ad080dd3cb1012bdc6aa38850748ad3526c9c3825b9",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 223,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 258,
+      "text": "People who can’t handle criticism are unfit to lead."
+    },
+    {
+      "line": 14,
+      "offset": 416,
+      "text": "Strong leaders welcome dissent as an opportunity for growth. They silence their egos to learn from their critics."
+    }
+  ]
+}

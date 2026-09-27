@@ -1,0 +1,24 @@
+{
+  "id": 105,
+  "title": "What Can be Done in 59 Seconds",
+  "collection": "Ethan Mollick",
+  "path": "raw/inbox/Practical/Ethan Mollick/what-can-be-done-in-59-seconds-an.md",
+  "sha256": "b46caa2c3212158aa35390afc5bae36b034c5b06e03f87adb433767bdc1b8fcd",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1834,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 213,
+      "text": "Less than a year ago, one of my AI experiments went viral. I decided to see how far I could get in m"
+    },
+    {
+      "line": 58,
+      "offset": 9301,
+      "text": "And the kicker is that the quality of GPT-4 writing is quite good, and, when given access to a source document or data, hallucinations are quite low. So why not use it? The temptation of the write-it-for-me Button, as I have noted before, is ubiquitous. No one is going to write their own drafts anym"
+    }
+  ]
+}

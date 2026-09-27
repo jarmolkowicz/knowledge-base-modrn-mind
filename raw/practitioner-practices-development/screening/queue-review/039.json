@@ -1,0 +1,71 @@
+{
+  "queue_position": 8,
+  "id": 39,
+  "path": "raw/inbox/Practical/Cal Newport/on-bottlenecks-and-productivity.md",
+  "sha256": "ea1461f2c39be3d4536cb06e465ac3fcfa961c4a20d7eab7fe3483d571cb8e35",
+  "title": "On Bottlenecks and Productivity",
+  "coverage": "all available text, excluding linked images/media",
+  "headings": [],
+  "passages": [
+    {
+      "line": 9,
+      "text": "text_scope: \"visible_article_body; linked audio/video not transcribed\""
+    },
+    {
+      "line": 10,
+      "text": "curation_status: \"unreviewed\""
+    },
+    {
+      "line": 11,
+      "text": "---"
+    },
+    {
+      "line": 13,
+      "text": "# On Bottlenecks and Productivity"
+    },
+    {
+      "line": 15,
+      "text": "David Epstein, the #1 *New York Times* bestselling author of ​*The Sports Gene*​ and ​*Range*​, has a new book out called ​*Inside the Box*​. As with all of Epstein’s books, I really enjoyed it. He’s one of the best storytellers currently working in idea writing."
+    },
+    {
+      "line": 17,
+      "text": "There was one chapter in particular, however, that captured my attention as being uniquely well-suited to the themes we discuss here. It focused on the ideas of a somewhat eccentric physicist-turned-management guru named Eliyahu Goldratt, who in the 1980s popularized a framework for understanding industrial productivity that he dubbed the “theory of constraints.”"
+    },
+    {
+      "line": 19,
+      "text": "Here’s how a non-profit established to promote Goldratt’s work summarizes it:"
+    },
+    {
+      "line": 21,
+      "text": "> “Every system has a limiting factor or constraint. Focusing improvement efforts to better utilize this constraint is normally the fastest and most effective way to improve profitability.”"
+    },
+    {
+      "line": 23,
+      "text": "To borrow one of Goldratt’s examples, imagine you run a small assembly line that manufactures chicken coops following a step-by-step process – building the frame, attaching the roof, adding wire mesh, etc. Goldratt notes that the speed of this production is limited by whatever step is slowest; what he calls the “bottleneck.”"
+    },
+    {
+      "line": 25,
+      "text": "Speeding up *other* steps of the process won’t increase the rate at which you produce chicken coops, as the bottleneck still determines the overall efficiency. If, for example, putting on the roof is the slowest step, then adding more workers or better tools to earlier steps will lead to more partially-constructed coops piling up at the roofing station. To speed up the line, you need to move more resources to the weakest link."
+    },
+    {
+      "line": 27,
+      "text": "Goldratt was primarily concerned with industrial production, but I think his theory of constraints provides insight into personal productivity, too."
+    },
+    {
+      "line": 29,
+      "text": "Something I’ve long written about is the reality that many digital productivity tools paradoxically make us *busier*, rather than *better* at our jobs. Goldratt’s theory helps explain why."
+    },
+    {
+      "line": 31,
+      "text": "When we deploy a digital tool like email to speed up communication, or generative AI to create (sloppy) slide presentations quickly, we don’t automatically become better at our jobs. If these steps don’t improve the bottleneck in our process – the key link where the real value is produced – then, as in the chicken coop example, they’re just as likely to create pile-ups and distraction, without actually boosting our true productivity."
+    },
+    {
+      "line": 33,
+      "text": "This helps explain why ​email ended up an accidental disaster​, and the early returns on ​AI office tools have been mixed​ at best."
+    },
+    {
+      "line": 35,
+      "text": "The theory of constraints implies a different way of thinking about getting better at our jobs. Don’t seek speed, or efficiency, or the avoidance of hard things. What ultimately matters more than anything else is how well we perform the deep steps that actually move the needle."
+    }
+  ]
+}

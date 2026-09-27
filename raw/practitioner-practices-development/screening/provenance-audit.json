@@ -1,0 +1,247 @@
+[
+  {
+    "id": 541,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/alexander-embiricos/transcript.md",
+    "metadata_guest": "Alexander Embiricos",
+    "dominant_speakers": [
+      "Alexander Embiricos",
+      "Yeah."
+    ],
+    "url": "https://www.youtube.com/watch?v=xZifSLGOrrw",
+    "issue": "title_guest_mismatch",
+    "title": "How to drive word of mouth | Nilan Peiris (CPO of Wise)"
+  },
+  {
+    "id": 548,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/andy-raskin_/transcript.md",
+    "metadata_guest": "Andy Raskin",
+    "dominant_speakers": [
+      "Andy Raskin"
+    ],
+    "url": "https://www.youtube.com/watch?v=dkVJnaxDlXE",
+    "issue": "identical_transcript_body",
+    "duplicate_of": 547
+  },
+  {
+    "id": 556,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/april-dunford-20/transcript.md",
+    "metadata_guest": "April Dunford 2.0",
+    "dominant_speakers": [
+      "April Dunford",
+      "Speaker 1"
+    ],
+    "url": "https://www.youtube.com/watch?v=hdjlCLb9Hl8",
+    "issue": "identical_transcript_body",
+    "duplicate_of": 555
+  },
+  {
+    "id": 557,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/archie-abrams/transcript.md",
+    "metadata_guest": "Archie Abrams",
+    "dominant_speakers": [
+      "Archie Abrams",
+      "Bye everyone."
+    ],
+    "url": "https://www.youtube.com/watch?v=LpbBzmXrzEY",
+    "issue": "title_guest_mismatch",
+    "title": "How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)"
+  },
+  {
+    "id": 588,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/chip-conley/transcript.md",
+    "metadata_guest": "Chip Conley",
+    "dominant_speakers": [
+      "Chip Conley"
+    ],
+    "url": "https://www.youtube.com/watch?v=4LjddcccYIo",
+    "issue": "title_guest_mismatch",
+    "title": "Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)"
+  },
+  {
+    "id": 620,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/elena-verna-30/transcript.md",
+    "metadata_guest": "Elena Verna 3.0",
+    "dominant_speakers": [
+      "Elena Verna",
+      "Christina Gilbert"
+    ],
+    "url": "https://www.youtube.com/watch?v=bxghtN-OlJQ",
+    "issue": "identical_transcript_body",
+    "duplicate_of": 618
+  },
+  {
+    "id": 621,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/elena-verna-40/transcript.md",
+    "metadata_guest": "Elena Verna 4.0",
+    "dominant_speakers": [
+      "Elena Verna",
+      "That is fascinating."
+    ],
+    "url": "https://www.youtube.com/watch?v=6qAB6aUMIeA",
+    "issue": "title_guest_mismatch",
+    "title": "The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year"
+  },
+  {
+    "id": 631,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ethan-evans-20/transcript.md",
+    "metadata_guest": "Ethan Evans 2.0",
+    "dominant_speakers": [
+      "Ethan Evans"
+    ],
+    "url": "https://www.youtube.com/watch?v=GB0P0_nFPTA",
+    "issue": "identical_transcript_body",
+    "duplicate_of": 630
+  },
+  {
+    "id": 637,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/fei-fei/transcript.md",
+    "metadata_guest": "Fei Fei",
+    "dominant_speakers": [
+      "Dr. Fei Fei Li",
+      "Bye everyone."
+    ],
+    "url": "https://www.youtube.com/watch?v=Ctjiatnd6Xk",
+    "issue": "identical_transcript_body",
+    "duplicate_of": 611
+  },
+  {
+    "id": 639,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/gaurav-misra/transcript.md",
+    "metadata_guest": "Gaurav Misra",
+    "dominant_speakers": [
+      "Gaurav Misra",
+      "And then build a whole network of that. Oh my god, the future is wild."
+    ],
+    "url": "https://www.youtube.com/watch?v=dLku0AiGPVA",
+    "issue": "title_guest_mismatch",
+    "title": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)"
+  },
+  {
+    "id": 653,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/hamelshreya/transcript.md",
+    "metadata_guest": "Hamel+Shreya",
+    "dominant_speakers": [
+      "Shreya Shankar",
+      "Hamel Husain"
+    ],
+    "url": "https://www.youtube.com/watch?v=BsWxPI9UM4c",
+    "issue": "identical_transcript_body",
+    "duplicate_of": 652
+  },
+  {
+    "id": 699,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/julie-zhuo-20/transcript.md",
+    "metadata_guest": "Julie Zhuo 2.0",
+    "dominant_speakers": [
+      "Julie Zhuo",
+      "And it's like 70 or 80% of people, \"Yes, I'm better than average.\""
+    ],
+    "url": "https://www.youtube.com/watch?v=0Z5FCYDeZXs",
+    "issue": "identical_transcript_body",
+    "duplicate_of": 698
+  },
+  {
+    "id": 724,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/madhavan-ramanujam-20/transcript.md",
+    "metadata_guest": "Madhavan Ramanujam 2.0",
+    "dominant_speakers": [
+      "Madhavan Ramanujam",
+      "Same. Bye, everyone."
+    ],
+    "url": "https://www.youtube.com/watch?v=A6veeCbKIzw",
+    "issue": "identical_transcript_body",
+    "duplicate_of": 723
+  },
+  {
+    "id": 730,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/marty-cagan-20/transcript.md",
+    "metadata_guest": "Marty Cagan 2.0",
+    "dominant_speakers": [
+      "Marty Cagan"
+    ],
+    "url": "https://www.youtube.com/watch?v=gXDg88rSG8U",
+    "issue": "identical_transcript_body",
+    "duplicate_of": 729
+  },
+  {
+    "id": 734,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/matt-macinnis/transcript.md",
+    "metadata_guest": "Matt MacInnis",
+    "dominant_speakers": [
+      "Matt MacInnis",
+      "Amar"
+    ],
+    "url": "https://www.youtube.com/watch?v=O_W76LR77Vw",
+    "issue": "title_guest_mismatch",
+    "title": "\"I deliberately understaff every project\" | Leadership lessons from Rippling's $16B journey"
+  },
+  {
+    "id": 761,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/nicole-forsgren-20/transcript.md",
+    "metadata_guest": "Nicole Forsgren 2.0",
+    "dominant_speakers": [
+      "Nicole Forsgren",
+      "My pleasure. Thanks, again. Bye, everyone."
+    ],
+    "url": "https://www.youtube.com/watch?v=SWcDfPVTizQ",
+    "issue": "identical_transcript_body",
+    "duplicate_of": 760
+  },
+  {
+    "id": 783,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ray-cao/transcript.md",
+    "metadata_guest": "Ray Cao",
+    "dominant_speakers": [
+      "Ray Cao"
+    ],
+    "url": "https://www.youtube.com/watch?v=9N4ZgNaWvI0",
+    "issue": "title_guest_mismatch",
+    "title": "Product management theater | Marty Cagan (Silicon Valley Product Group)"
+  },
+  {
+    "id": 794,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/sanchan-saxena/transcript.md",
+    "metadata_guest": "Sanchan Saxena",
+    "dominant_speakers": [
+      "Sanchan Saxena"
+    ],
+    "url": "https://www.youtube.com/watch?v=MnBZlEQ14fY",
+    "issue": "title_guest_mismatch",
+    "title": "Why Uber’s CPO delivers food on weekends | Sachin Kansal"
+  },
+  {
+    "id": 796,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/sander-schulhoff-20/transcript.md",
+    "metadata_guest": "Sander Schulhoff 2.0",
+    "dominant_speakers": [
+      "Sander Schulhoff",
+      "Speaker 1"
+    ],
+    "url": "https://www.youtube.com/watch?v=J9982NLmTXg",
+    "issue": "title_guest_mismatch",
+    "title": "Why securing AI is harder than anyone expected and guardrails are failing | HackAPrompt CEO"
+  },
+  {
+    "id": 830,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/wes-kao-20/transcript.md",
+    "metadata_guest": "Wes Kao 2.0",
+    "dominant_speakers": [
+      "Wes Kao"
+    ],
+    "url": "https://www.youtube.com/watch?v=4jtGsyz4jLs",
+    "issue": "identical_transcript_body",
+    "duplicate_of": 829
+  },
+  {
+    "id": 833,
+    "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/yuhki-yamashata/transcript.md",
+    "metadata_guest": "Yuhki Yamashata",
+    "dominant_speakers": [
+      "Yuhki Yamashita",
+      "Ashley"
+    ],
+    "url": "https://www.youtube.com/watch?v=NepFo4zXyK4",
+    "issue": "identical_transcript_body",
+    "duplicate_of": 832
+  }
+]

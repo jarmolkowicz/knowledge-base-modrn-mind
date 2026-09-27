@@ -1,0 +1,30 @@
+{
+  "id": 398,
+  "title": "You've Been Vibe Coding the Hard Way",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/stop-vibe-coding-the-hard-way.md",
+  "sha256": "a12fe65d7d8c3c893466dd807e3b1ec4ee70e3bd6b82553f0b7531b08d6e7116",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1305,
+  "headings": [
+    "Purpose of Vibe Coding",
+    "Vibe Coding Websites & Web Apps",
+    "Vibe Coding Mobile Apps",
+    "Next Steps",
+    "**P.S. Need More Help? 👋**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 208,
+      "text": "I’ve vibe coded dozens of apps and tried all the tools."
+    },
+    {
+      "line": 92,
+      "offset": 4188,
+      "text": "- Claude Code may seem scary to start with, but I’ve never met a person who switched to Claude Code (or Codex), then decided to switch back to Stage 1 or 2 tools. You can still use Stage 1/2 tools for frontend "
+    }
+  ]
+}

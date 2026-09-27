@@ -1,0 +1,68 @@
+{
+  "queue_position": 82,
+  "id": 331,
+  "path": "raw/inbox/Practical/Ruben Hassid/socrates-and-ai.md",
+  "sha256": "74201e9077019df8d8877c73c7421fbf3aae45e7cb3559692d2da612cbaf23a1",
+  "title": "How Socrates prompts ChatGPT.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L26 ## The ‘How’ of Self-Ask Prompting",
+    "L96 ### Example 2 – Blog-post outline for SMB audience",
+    "L133 ### Example 3 – LinkedIn hooks for a new tool",
+    "L188 ## This is the annoying marketing part…"
+  ],
+  "passages": [
+    {
+      "line": 12,
+      "text": "> *“My hope is that someday, when the next Aristotle is alive, we can capture the underlying world view of that Aristotle in a computer. And someday, some student will be able to not only read the words Aristotle wrote, **but ask Aristotle a question and get an answer.”***"
+    },
+    {
+      "line": 20,
+      "text": "Self-Ask Prompting - or the Socratic way of prompting ChatGPT - is a technique to tells the model to decide whether it needs follow-up questions, ask them aloud, answer them, and only then state the final answer."
+    },
+    {
+      "line": 22,
+      "text": "This technique slashes “long-but-wrong” hallucinations (you know, those moments when ChatGPT is stuck in loops) from **40% to 17%.**"
+    },
+    {
+      "line": 26,
+      "text": "## The ‘How’ of Self-Ask Prompting"
+    },
+    {
+      "line": 53,
+      "text": "The only part you have to manually edit is “YOUR ACTUAL INPUT = YOUR PROMPT HERE”. The rest is automatic."
+    },
+    {
+      "line": 65,
+      "text": "<Draft a two-paragraph non-disclosure clause for a SaaS reseller agreement that covers customer data, survival period, and governing law.>"
+    },
+    {
+      "line": 96,
+      "text": "### Example 2 – Blog-post outline for SMB audience"
+    },
+    {
+      "line": 102,
+      "text": "<Outline a 1,200-word blog post that explains, to non-technical small-business owners, how AI chatbots cut customer-service costs.>"
+    },
+    {
+      "line": 133,
+      "text": "### Example 3 – LinkedIn hooks for a new tool"
+    },
+    {
+      "line": 139,
+      "text": "<Write five LinkedIn hook sentences to announce my new platform \"PromptWatch\" that helps businesses get mentioned inside ChatGPT, Gemini, Perplexity...>"
+    },
+    {
+      "line": 162,
+      "text": "These hooks are extremely good for Linkedin (if you take away my lovely em dash —). But if I was not satisfied, I can simply say:"
+    },
+    {
+      "line": 188,
+      "text": "## This is the annoying marketing part…"
+    },
+    {
+      "line": 207,
+      "text": "To be part of our journey, and get me closer to my goal, you can forward this email to your best normal buddy."
+    }
+  ]
+}

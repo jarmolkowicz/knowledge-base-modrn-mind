@@ -1,0 +1,24 @@
+{
+  "id": 38,
+  "title": "On AI Coding and Its Discontents",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/on-ai-coding-and-its-discontents.md",
+  "sha256": "b5ac6b95ad53f0226d8f58b52ed9419d9dda737776fe45eec9226ea6c379263d",
+  "access": "public-page",
+  "kind": "article",
+  "words": 816,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 387,
+      "text": "Back in January, I received a note from a senior software engineer in Silicon Valley. He described himself as an AI skep"
+    },
+    {
+      "line": 35,
+      "offset": 2194,
+      "text": "The problem is that code produced by an AI agent *looks* reasonable, but can contain ‘hard-to-spot bugs’ that end up causing major problems. As a result, you should carefully review your agent’s output, but this is difficult. As the engineer told me, it’s “famously hard” to understand code you didn’t write yourself, so this extra step becomes “easy to just b"
+    }
+  ]
+}

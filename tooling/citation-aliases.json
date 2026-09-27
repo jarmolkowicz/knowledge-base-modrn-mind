@@ -1,4 +1,9 @@
 {
+  "Mollick (2024)": {
+    "source": "mollick-cointelligence-2024",
+    "reason": "Existing jagged-frontier, novice-vulnerability and calibration entries explicitly pair this exact citation with Co-Intelligence. Preserve that reviewed identity when adding same-year Mollick articles; new practices use exact source_entries instead.",
+    "evidence": "raw/mollick-cointelligence-2024/source.md"
+  },
   "Tankelevitch et al. (2024)": {
     "source": "tankelevitch-metacognitive-demands-2023",
     "reason": "CHI 2024 publication; historical source stem retains December 2023 preprint year. Same title, authors and arXiv identity; no rename.",

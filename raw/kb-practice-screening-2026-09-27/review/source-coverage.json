@@ -1,0 +1,285 @@
+[
+  {
+    "source": "bjork-desirable-difficulties-2011",
+    "path": "raw/bjork-desirable-difficulties-2011/source.md",
+    "sha256": "ed08bd8fa5b091af74727407f7a209f06f677a060591a05fc5e26be50ed37fc0",
+    "line_ranges": [
+      [
+        1,
+        258
+      ]
+    ],
+    "depth": "full chapter",
+    "citation": "Bjork, E. L., & Bjork, R. A. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher, R. W. Pew, L. M. Hough, & J. R. Pomerantz (Eds.), Psychology and the Real World (pp. 56–64). Worth Publishers."
+  },
+  {
+    "source": "bastani-guardrails-math-rct-2025",
+    "path": "raw/bastani-guardrails-math-rct-2025/source.md",
+    "sha256": "261363b55188341d15a6ffeed9f6bb042e79a2da4491570f82a462d53860e1de",
+    "line_ranges": [
+      [
+        1,
+        30
+      ],
+      [
+        111,
+        238
+      ],
+      [
+        320,
+        429
+      ]
+    ],
+    "depth": "targeted original sections; not full paper",
+    "citation": "Bastani, H., Bastani, O., Sungu, A., Ge, H., Kabakcı, Ö., & Marimane, R. (2025). Generative AI without guardrails can harm learning: Evidence from high school mathematics. Proceedings of the National Academy of Sciences, 122(26), e2422633122."
+  },
+  {
+    "source": "topaz-fabricated-citations-2026",
+    "path": "raw/topaz-fabricated-citations-2026/source.md",
+    "sha256": "44ebeac0051e3e7f6bfe6e71d6ef4be450e0ba29dde66c2727cc218a6d3e554f",
+    "line_ranges": [
+      [
+        46,
+        120
+      ],
+      [
+        251,
+        326
+      ]
+    ],
+    "depth": "targeted original sections; not full paper",
+    "citation": "Topaz, M., Roguin, N., Gupta, P., Zhang, Z., & Peltonen, L.-M. (2026). Fabricated citations: an audit across 2·5 million biomedical papers. The Lancet, 407, 1779–1781."
+  },
+  {
+    "source": "gentner-markman-analogy-1997",
+    "path": "raw/gentner-markman-analogy-1997/source.md",
+    "sha256": "9f1b3d7ab6cacc795636de6e27250cc361d9333de8d21b13a4be6ada1b8d8bd1",
+    "line_ranges": [
+      [
+        80,
+        126
+      ]
+    ],
+    "depth": "targeted original sections; not full paper",
+    "citation": "Gentner, D., & Markman, A. B. (1997). Structure mapping in analogy and similarity. American Psychologist, 52(1), 45–56. doi:10.1037/0003-066X.52.1.45"
+  },
+  {
+    "source": "bainbridge-ironies-automation-1983",
+    "path": "raw/bainbridge-ironies-automation-1983/source.md",
+    "sha256": "23cae363b3dc61c9744ef488625442a86f59598aab12a354b0ad697a76f156f1",
+    "line_ranges": [
+      [
+        301,
+        433
+      ]
+    ],
+    "depth": "targeted original sections; not full paper",
+    "citation": "Bainbridge, L. (1983). Ironies of automation. Automatica, 19(6), 775–779."
+  },
+  {
+    "source": "bankins-formosa-ai-meaningful-work-2023",
+    "path": "raw/bankins-formosa-ai-meaningful-work-2023/source.md",
+    "sha256": "16f2378230eaf3477ab314008088cef10cf752b70ce1556fd9accd97c2de496e",
+    "line_ranges": [
+      [
+        1299,
+        1371
+      ]
+    ],
+    "depth": "targeted original sections; not full paper",
+    "citation": "Bankins, S., & Formosa, P. (2023). The ethical implications of artificial intelligence (AI) for meaningful work. Journal of Business Ethics, 185, 725–740. https://doi.org/10.1007/s10551-023-05339-7"
+  },
+  {
+    "source": "callari-meaningful-work-2025",
+    "path": "raw/callari-meaningful-work-2025/source.md",
+    "sha256": "140fef48cc35ec02d7d0951c74191702ab3fe36a5be9e7af7ffc1b8f7853498b",
+    "line_ranges": [
+      [
+        1351,
+        1447
+      ]
+    ],
+    "depth": "targeted original sections; not full paper",
+    "citation": "Callari, T. C., & Puppione, L. (2025). Meaningful work as shaped by employee work practices in human-AI collaborative environments: a qualitative exploration through ideal types. European Journal of Innovation Management, 28(10), 5001–5027. https://doi.org/10.1108/EJIM-11-2024-1339"
+  },
+  {
+    "source": "leonardi-artificial-certainty-2026",
+    "path": "raw/leonardi-artificial-certainty-2026/source.md",
+    "sha256": "7f6284cccb73d9f0df568c9e059ca4b8278b16ac861b02e96dfadf14b55ed525",
+    "line_ranges": [
+      [
+        142,
+        150
+      ],
+      [
+        814,
+        861
+      ]
+    ],
+    "depth": "targeted original sections; not full paper",
+    "citation": "Leonardi, P. M., & Leavell, V. (2026). Knowing Enough to Be Dangerous: The Problem of 'Artificial Certainty' for Expert Authority When Using AI for Decision Making and Planning. Organization Science. https://doi.org/10.1287/orsc.2023.18224"
+  },
+  {
+    "source": "messeri-crockett-illusions-understanding-2024",
+    "path": "raw/messeri-crockett-illusions-understanding-2024/source.md",
+    "sha256": "1a37646c76d1444704cd1f7c989857dac277100efcdd7f5605cc53b675ea797e",
+    "line_ranges": [
+      [
+        761,
+        849
+      ]
+    ],
+    "depth": "targeted original sections; not full paper",
+    "citation": "Messeri, L. & Crockett, M. J. (2024). Artificial intelligence and illusions of understanding in scientific research. Nature, 627, 49–58."
+  },
+  {
+    "source": "ericsson-deliberate-practice-1993",
+    "path": "raw/ericsson-deliberate-practice-1993/source.md",
+    "sha256": "14bd3fe0552bb29ecb5c42852df914a28364bbd35f41299f98edcbbbb03e6ad2",
+    "line_ranges": [
+      [
+        143,
+        183
+      ]
+    ],
+    "depth": "targeted original sections; not full paper",
+    "citation": "Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. Psychological Review, 100(3), 363–406. doi:10.1037/0033-295X.100.3.363"
+  },
+  {
+    "source": "macnamara-maitra-deliberate-practice-replication-2019",
+    "path": "raw/macnamara-maitra-deliberate-practice-replication-2019/source.md",
+    "sha256": "6d307951d9bfbad3b36edf16f456700132d6a9c27812ed43395a82fafdb76d40",
+    "line_ranges": [
+      [
+        796,
+        843
+      ]
+    ],
+    "depth": "targeted original sections; not full paper",
+    "citation": "Macnamara & Maitra (2019)"
+  },
+  {
+    "source": "he-illusion-competence-2023",
+    "path": "raw/he-illusion-competence-2023/source.md",
+    "sha256": "2a95a67a8bd6fb6fd43245e55eeebcf39c1ada88e538de03e41a818aceb5ea2e",
+    "line_ranges": [
+      [
+        191,
+        209
+      ],
+      [
+        601,
+        647
+      ]
+    ],
+    "depth": "targeted original sections; not full paper",
+    "citation": "He, G., Kuiper, L., & Gadiraju, U. (2023). Knowing about knowing: An illusion of human competence can hinder appropriate reliance on AI systems. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). ACM. https://doi.org/10.1145/3544548.3581025"
+  },
+  {
+    "source": "vaccaro-human-ai-meta-analysis-2024",
+    "path": "raw/vaccaro-human-ai-meta-analysis-2024/source.md",
+    "sha256": "feb8b6e3af40829744f2dfb7d5253de7fdcbcebd4aafe5c3970a97df77feb8c7",
+    "line_ranges": [
+      [
+        105,
+        138
+      ],
+      [
+        225,
+        244
+      ]
+    ],
+    "depth": "targeted original sections; not full paper",
+    "citation": "Vaccaro, M., Almaatouq, A. & Malone, T. (2024). When combinations of humans and AI are useful: a systematic review and meta-analysis. Nature Human Behaviour, 8, 2293–2303. https://doi.org/10.1038/s41562-024-02024-1"
+  },
+  {
+    "source": "memmert-effort-management-2025",
+    "path": "raw/memmert-effort-management-2025/source.md",
+    "sha256": "b6d2f888d465d9e894b8d28e3c6e81010dc3128e26ce3d6025ddbba96fdb0cf7",
+    "line_ranges": [
+      [
+        1702,
+        1774
+      ]
+    ],
+    "depth": "targeted original sections; not full paper",
+    "citation": "Memmert, Soroko & Bittner (2025)"
+  },
+  {
+    "source": "niederhoffer-workslop-2026",
+    "path": "raw/niederhoffer-workslop-2026/source.md",
+    "sha256": "e301e4c5499dc2353c4618702458dbd2f81c371f27cebd2958e0d906a3a37972",
+    "line_ranges": [
+      [
+        1,
+        174
+      ],
+      [
+        238,
+        298
+      ]
+    ],
+    "depth": "targeted original sections; not full paper",
+    "citation": "Niederhoffer, K., Robichaux, A., & Hancock, J. T. (2025). AI-Generated Workslop Is Destroying Productivity. Harvard Business Review."
+  },
+  {
+    "source": "shen-skill-formation-2026",
+    "path": "raw/shen-skill-formation-2026/source.md",
+    "sha256": "358bcf3babe3dcfe2338357b2560ba79980813c3fb81b3978afe0e2c1ff0839b",
+    "line_ranges": [
+      [
+        185,
+        247
+      ],
+      [
+        355,
+        373
+      ],
+      [
+        643,
+        678
+      ]
+    ],
+    "depth": "targeted original sections; not full paper",
+    "citation": "Shen, J.H. & Tamkin, A. (2026). How AI Impacts Skill Formation. arXiv:2601.20245v2."
+  },
+  {
+    "source": "fan-metacognitive-laziness-2025",
+    "path": "raw/fan-metacognitive-laziness-2025/source.md",
+    "sha256": "073b34922db712f9f623b777340e6554ea068f85ce6b0728a1405130009af233",
+    "line_ranges": [
+      [
+        1,
+        75
+      ]
+    ],
+    "depth": "abstract only",
+    "citation": "Fan, Y., Tang, L., Le, H., Shen, K., Tan, S., Zhao, Y., Shen, Y., Li, X., & Gašević, D. (2025). Beware of metacognitive laziness: Effects of generative artificial intelligence on learning motivation, processes, and performance. British Journal of Educational Technology, 56(2), 489-530."
+  },
+  {
+    "source": "buijsman-autonomy-design-2025",
+    "path": "raw/buijsman-autonomy-design-2025/source.md",
+    "sha256": "fd586d82536060b7a838b1e8a7c861dbf12fc38dad7aa353f44ceef7b4a5359e",
+    "line_ranges": [
+      [
+        818,
+        861
+      ]
+    ],
+    "depth": "targeted original sections; not full paper",
+    "citation": "Buijsman, S., Carter, S. E., & Bermúdez, J.-P. (2025). Autonomy by Design: Preserving Human Autonomy in AI Decision-Support. Philosophy & Technology, 38, 97. https://doi.org/10.1007/s13347-025-00932-2"
+  },
+  {
+    "source": "doshi-hauser-creativity-diversity-2024",
+    "path": "raw/doshi-hauser-creativity-diversity-2024/source.md",
+    "sha256": "a9f4d29ba8de7920954a4a48a79f4805d1e871edf70ebf16cee2eb73ca02d61d",
+    "line_ranges": [
+      [
+        111,
+        148
+      ]
+    ],
+    "depth": "targeted original sections; not full paper",
+    "citation": "Doshi, A. R., & Hauser, O. P. (2024). Generative AI enhances individual creativity but reduces the collective diversity of novel content. Science Advances, 10(28), eadn5290. doi:10.1126/sciadv.adn5290"
+  }
+]

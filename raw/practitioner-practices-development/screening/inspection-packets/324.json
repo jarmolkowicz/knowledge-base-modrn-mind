@@ -1,0 +1,39 @@
+{
+  "id": 324,
+  "title": "Quit ChatGPT.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/quit-chatgpt.md",
+  "sha256": "1cd6ce812b111834247bd6707f7c4c1d7c7026ea45f116372d7119e5decdad98",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 1561,
+  "headings": [
+    "**#1. It** *actually* **follows instructions**",
+    "Quick step-by-step to install Claude Cowork:",
+    "**#2. I’m** *finally* **out of the infinite loop.**",
+    "**#3. No memory is the best** *somehow.*",
+    "**#4. It creates** *actual* **files, not just text.**",
+    "**Case Study 1: Slides from a prompt.**",
+    "**Case Study 2: It’s too long. Read for me.**",
+    "**Case Study 3: Excel with working formulas**",
+    "**Case Study 4: Expense report from invoices.**",
+    "**Case Study 5: Research brief with sources**",
+    "**Claude Cowork** *isn’t* **perfect.**",
+    "**BONUS**: Claude Cowork now has plugins and connectors.",
+    "How can you quickly go from top 1% in AI to top 0.1%?",
+    "***archive of my past blogs: https://docs.google.com/document/d/1pWuMCBVQo1zKcgKltX\\_BZxAr31KgxmOlp3Vzvmc5Hxc/edit?usp=sharing***"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 191,
+      "text": "- First, I’ll cover 4 *things* that made me switch to the *new* Claude Co"
+    },
+    {
+      "line": 33,
+      "offset": 800,
+      "text": "With Claude Cowork, I upload my voice profile. Over 2,000 words describing how I write, what I hate, phrases I never use, structures I prefer. I upload my copywriting rules. I upload reference documents."
+    }
+  ]
+}

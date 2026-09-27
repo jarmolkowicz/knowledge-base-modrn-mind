@@ -1,0 +1,209 @@
+[
+  {
+    "ids": [
+      "N01"
+    ],
+    "kind": "new_practice",
+    "source": "bjork-desirable-difficulties-2011",
+    "path": "raw/bjork-desirable-difficulties-2011/drafts/practices/retrieve-again-after-a-delay.md",
+    "destination": "practices/retrieve-again-after-a-delay.md",
+    "distinction": "Learning scheduled across occasions, rather than a one-off capability check. N02 trains a different choice: which approach a problem needs.",
+    "critique": "Retained an explicit AI-adaptation label, removed any universal spacing schedule, and kept prerequisite support. The chapter supplies recommendations; it does not validate this combined card.",
+    "sha256": "2dacb560dd2c7a3cf43b8a92bbbb550563af5712e9cb6ca4ced627593cc6dcf1"
+  },
+  {
+    "ids": [
+      "N02"
+    ],
+    "kind": "new_practice",
+    "source": "bjork-desirable-difficulties-2011",
+    "path": "raw/bjork-desirable-difficulties-2011/drafts/practices/mix-problem-types-before-choosing-a-solution.md",
+    "destination": "practices/mix-problem-types-before-choosing-a-solution.md",
+    "distinction": "Keep separate from single-case rehearsal: the essential action is alternating problem types and selecting the applicable approach.",
+    "critique": "Kept separate from N01 because timing and discrimination are different actions. Removed any promise of general reasoning improvement and required checked examples.",
+    "sha256": "8acfd0e069f3bf8626991b2f940204ae3c809c00dbc397a5fe180d2440bdd077"
+  },
+  {
+    "ids": [
+      "N03"
+    ],
+    "kind": "new_practice",
+    "source": "bastani-guardrails-math-rct-2025",
+    "path": "raw/bastani-guardrails-math-rct-2025/drafts/practices/prepare-checked-hints-for-ai-tutoring.md",
+    "destination": "practices/prepare-checked-hints-for-ai-tutoring.md",
+    "distinction": "Educator preparation and assessment, rather than a learner asking AI about a gap.",
+    "critique": "Removed the implication of proven learning gains or component-level causality. The missing supplementary prompt inspection is explicit; this is a routine outline, not a reproduction of the experimental system.",
+    "sha256": "f18385e6b453056252824202ff8b263006e480d145aa449cd09c922c23779b97"
+  },
+  {
+    "ids": [
+      "N04"
+    ],
+    "kind": "new_practice",
+    "source": "topaz-fabricated-citations-2026",
+    "path": "raw/topaz-fabricated-citations-2026/drafts/practices/verify-reference-identity-and-claim-support.md",
+    "destination": "practices/verify-reference-identity-and-claim-support.md",
+    "distinction": "Establishes the reference before using it as the comparison standard. The explanatory method stays in place.",
+    "critique": "Used unresolved instead of fabricated for unsuccessful searches. Explicitly separated identity, claim support and the audit’s measured precision.",
+    "sha256": "09bcd6156878bac29691c6fe30ca3f7b0edf167d95779e9fe36f5b7c81e991e0"
+  },
+  {
+    "ids": [
+      "N05"
+    ],
+    "kind": "new_practice",
+    "source": "gentner-markman-analogy-1997",
+    "path": "raw/gentner-markman-analogy-1997/drafts/practices/check-an-analogys-relationships-and-limits.md",
+    "destination": "practices/check-an-analogys-relationships-and-limits.md",
+    "distinction": "Examines the structure of a comparison, not simply a contrary argument.",
+    "critique": "Kept all steps labelled as an editorial operationalization. Structural elegance is not treated as truth; the full theory is not claimed as reviewed.",
+    "sha256": "767a84e2f062942359785a669b5ce19e12d3a66388feddfe08c350ebfaa793a3"
+  },
+  {
+    "ids": [
+      "N06"
+    ],
+    "kind": "new_practice",
+    "source": "bainbridge-ironies-automation-1983",
+    "path": "raw/bainbridge-ironies-automation-1983/drafts/practices/rehearse-taking-over-from-automation.md",
+    "destination": "practices/rehearse-taking-over-from-automation.md",
+    "distinction": "Rehearses actual recovery conditions, beyond identifying a risk or checking a skill in isolation.",
+    "critique": "Added the system-redesign option so this does not blame operators or prescribe universally less automation. The source’s simulator-fidelity and response-time limits remain explicit.",
+    "sha256": "c576fbe581219fb418bda39e5f15436727238139eea4ffe842024976cf840621"
+  },
+  {
+    "ids": [
+      "N07",
+      "N08"
+    ],
+    "kind": "new_practice",
+    "source": "bankins-formosa-ai-meaningful-work-2023",
+    "path": "raw/bankins-formosa-ai-meaningful-work-2023/drafts/practices/review-the-human-work-left-after-automation.md",
+    "destination": "practices/review-the-human-work-left-after-automation.md",
+    "distinction": "N08 is a task-based support variant inside N07, not a second card. The intervention sits at job/team level rather than a personal delegation boundary.",
+    "critique": "Corrected interview wording to open-ended survey responses. Removed typology-as-diagnosis and the idea that adoption is a maturity ladder. Kept outcome tags limited to this KB’s intellectual-agency scope.",
+    "sha256": "0476900e3c8f268a0318caaa995bd24be3df4f2a9d9746cef381f10beae19f24"
+  },
+  {
+    "ids": [
+      "N09"
+    ],
+    "kind": "new_practice",
+    "source": "leonardi-artificial-certainty-2026",
+    "path": "raw/leonardi-artificial-certainty-2026/drafts/practices/present-projections-with-assumptions-and-alternatives.md",
+    "destination": "practices/present-projections-with-assumptions-and-alternatives.md",
+    "distinction": "Focuses on collective interpretation of projections. Existing modulation-method claims require the accompanying focused wording correction.",
+    "critique": "Replaced universal claims about reducing detail and preventing bias with the paper’s conditional recommendations. A focused correction to the parent method is drafted alongside this card.",
+    "sha256": "cda0f1ca569629280bafdea932926ffa9b436599bf63ff5f52b06a0a3e00ee4d"
+  },
+  {
+    "ids": [
+      "E01"
+    ],
+    "kind": "update_proposal",
+    "source": "ericsson-deliberate-practice-1993",
+    "path": "raw/ericsson-deliberate-practice-1993/drafts/updates/kb-practices-rehearse-a-bounded-reasoning-case.md",
+    "destination": "practices/rehearse-a-bounded-reasoning-case.md",
+    "distinction": "Extend the existing checked-case loop; no distinct trigger warrants another generic rehearsal card.",
+    "sha256": "728cc369d51d52764f48e307bafb0d934865b5faaf641da846e6ab054cc081f1"
+  },
+  {
+    "ids": [
+      "E02"
+    ],
+    "kind": "update_proposal",
+    "source": "he-illusion-competence-2023",
+    "path": "raw/he-illusion-competence-2023/drafts/updates/kb-practices-diagnose-your-draft-before-feedback.md",
+    "destination": "practices/diagnose-your-draft-before-feedback.md",
+    "distinction": "Add a feedback observation and boundary to self-diagnosis; do not introduce another generic calibration routine.",
+    "sha256": "c4c5b089867a90c4e56266fe75bd47c97bbceb10709e720e4db07a9b668e6dc9"
+  },
+  {
+    "ids": [
+      "E03"
+    ],
+    "kind": "update_proposal",
+    "source": "vaccaro-human-ai-meta-analysis-2024",
+    "path": "raw/vaccaro-human-ai-meta-analysis-2024/drafts/updates/kb-practices-test-ai-on-the-work-it-will-do.md",
+    "destination": "practices/test-ai-on-the-work-it-will-do.md",
+    "distinction": "Strengthen the existing task-based evaluation rather than duplicate it. Other screening leads about warmth, sycophancy and abstention remain separate unreviewed extensions in this route; no new claims from them are added.",
+    "sha256": "e595a686f34942f44e851aa5b6a7c77bd310e3fdc87005cbd2e0af52e319abfa"
+  },
+  {
+    "ids": [
+      "E04"
+    ],
+    "kind": "update_proposal",
+    "source": "memmert-effort-management-2025",
+    "path": "raw/memmert-effort-management-2025/drafts/updates/kb-practices-record-human-interventions.md",
+    "destination": "practices/record-human-interventions.md",
+    "distinction": "A review variant adds whole-task context to the existing log; estimated avoided costs remain estimates.",
+    "sha256": "b9aa28c13d56f81824ce9a85ef8f5f706c750d24c6770fcd6042315fa7e29d66"
+  },
+  {
+    "ids": [
+      "E05"
+    ],
+    "kind": "update_proposal",
+    "source": "niederhoffer-workslop-2026",
+    "path": "raw/niederhoffer-workslop-2026/drafts/updates/kb-practices-test-and-share-a-team-ai-workflow.md",
+    "destination": "practices/test-and-share-a-team-ai-workflow.md",
+    "distinction": "Extend the existing team trial with recipient outcomes; preserve the original practitioner origin and label the research as rationale.",
+    "sha256": "d756c4e729a2fe576fe8532df06ed65cea5ed9888cca12d785a59b34a4f55349"
+  },
+  {
+    "ids": [
+      "E06"
+    ],
+    "kind": "update_proposal",
+    "source": "shen-skill-formation-2026",
+    "path": "raw/shen-skill-formation-2026/drafts/updates/kb-practices-keep-one-thinking-step.md",
+    "destination": "practices/keep-one-thinking-step.md",
+    "distinction": "Strengthen outcome boundaries and preserve mixed findings. Do not turn exploratory coding-user patterns into proven learning strategies.",
+    "sha256": "9c224a68e960487b90db8799a0ff33e305d82fdcbf405d94b61013d5484d901e"
+  },
+  {
+    "ids": [
+      "E07"
+    ],
+    "kind": "update_proposal",
+    "source": "buijsman-autonomy-design-2025",
+    "path": "raw/buijsman-autonomy-design-2025/drafts/updates/kb-practices-expand-agent-authority-one-tested-step-at-a-time.md",
+    "destination": "practices/expand-agent-authority-one-tested-step-at-a-time.md",
+    "distinction": "Add conditions for meaningful authority to the existing staged-deployment routine. Other screening sources remain background unless separately checked.",
+    "sha256": "0a185b4a156fb36fb18b79cf4a1bd2293ba1417d18861b1ad9400e0ddda9af25"
+  },
+  {
+    "ids": [
+      "E08"
+    ],
+    "kind": "update_proposal",
+    "source": "doshi-hauser-creativity-diversity-2024",
+    "path": "raw/doshi-hauser-creativity-diversity-2024/drafts/updates/kb-practices-develop-parallel-creative-routes.md",
+    "destination": "practices/develop-parallel-creative-routes.md",
+    "distinction": "Add the individual-versus-collective distinction to an existing creative comparison, without claiming this team routine prevents homogenization.",
+    "sha256": "c3ddc8d7ef10ce2209f99da17a97769b5ec855a21759c4b00e46ca1b0cbd4011"
+  },
+  {
+    "ids": [
+      "N10"
+    ],
+    "kind": "update_proposal",
+    "source": "messeri-crockett-illusions-understanding-2024",
+    "path": "raw/messeri-crockett-illusions-understanding-2024/drafts/updates/kb-practices-check-missing-perspectives.md",
+    "destination": "practices/check-missing-perspectives.md",
+    "distinction": "Merge into an existing outside-evidence check. A separate broad method-diversity card would currently duplicate the action while implying a more developed routine than the source supplies.",
+    "sha256": "fba9bd56b5829798e825b5df1570f56dadc219e0db65c86fec09d6f4aba76548"
+  },
+  {
+    "ids": [
+      "N09-method"
+    ],
+    "kind": "update_proposal",
+    "source": "leonardi-artificial-certainty-2026",
+    "path": "raw/leonardi-artificial-certainty-2026/drafts/updates/kb-practices-modulation-practice.md",
+    "destination": "methods/modulation-practice.md",
+    "distinction": "Focused correction to avoid contradictory guidance beside N09; not a migration or rewrite of the framework.",
+    "sha256": "ef35c3c3c38e55c4ebfa79b341142bf9ae5887b84bc970627a02dac3c94e0925"
+  }
+]

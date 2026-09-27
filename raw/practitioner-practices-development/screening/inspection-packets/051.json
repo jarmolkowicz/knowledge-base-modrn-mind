@@ -1,0 +1,26 @@
+{
+  "id": 51,
+  "title": "The Pope vs. Silicon Valley",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/the-pope-vs-silicon-valley.md",
+  "sha256": "5a0a527c27bf821fe299f52bde4a5fe85284f07c247f403b621321a27d0b424c",
+  "access": "public-page",
+  "kind": "article",
+  "words": 770,
+  "headings": [
+    "**As An Aside**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 371,
+      "text": "Last fall, the Notre Dame philosopher, Meghan Sullivan, participated in a closed-door meeting at the Vatican. She was th"
+    },
+    {
+      "line": 23,
+      "offset": 1476,
+      "text": "I found this interaction chilling. Not because of what it says about potential AI disruptions, but because of what it tells us about the engineers developing this technology."
+    }
+  ]
+}

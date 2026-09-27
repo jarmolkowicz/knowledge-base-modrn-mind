@@ -1,0 +1,26 @@
+{
+  "id": 681,
+  "title": "Moving fast and navigating uncertainty | Jeremy Henrickson (Rippling, Coinbase)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/jeremy-henrickson/transcript.md",
+  "sha256": "86209726a84a72aea94dcf4ad8820ce9f8d4321de6c6631ca3de5e78bd022bc1",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13921,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 838,
+      "text": "It's very, very tempting to float up here as a"
+    },
+    {
+      "line": 240,
+      "offset": 29562,
+      "text": "Yeah, I think that's right. So I mean, the fundamental contention is having a single system of record is better for many, many, many reasons"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 47,
+  "title": "The Dark Side of the Jevons Paradox",
+  "collection": "Cal Newport",
+  "path": "raw/inbox/Practical/Cal Newport/the-dark-side-of-the-jevons-paradox.md",
+  "sha256": "7a7b6184d52e7dee16908032c8b56b4da8ee7bd7353700ecac9b418a93a4b88f",
+  "access": "public-page",
+  "kind": "article",
+  "words": 497,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 396,
+      "text": "If you’ve been following technology news recently, you’ve probably noticed a sudden increase in references to a 19th-cen"
+    },
+    {
+      "line": 29,
+      "offset": 3599,
+      "text": "If AI ends up making certain types of workers more efficient, I hope the Jevons Paradox holds, as it’s better than the alternative of labor market contraction. But we need to remain vigilant about its side effects. It’s tempting to assume that increasing efficiency, in any context, can only make things better, but economic history has often told a more compl"
+    }
+  ]
+}

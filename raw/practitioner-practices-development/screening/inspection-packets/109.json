@@ -1,0 +1,24 @@
+{
+  "id": 109,
+  "title": "200 lines of markdown triggered a $285 billion sell-off",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/200-lines-of-markdown-just-triggered.md",
+  "sha256": "f2f45df4078ad44fe400f50d07358d3c01d75cd8e408880f16155dfbeee116eb",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 596,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 263,
+      "text": "A markdown file — not a product, not a platform — a markdown file catalyzed a ~$285 bi"
+    },
+    {
+      "line": 12,
+      "offset": 449,
+      "text": "On January 30th, Anthropic released a set of plugins for Claude Cowork, its desktop AI tool. One of them handled legal contract review. It could triage NDAs, flag non-standard clauses against a negotiation playbook, and generate compliance summaries — the kind"
+    }
+  ]
+}

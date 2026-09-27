@@ -1,0 +1,188 @@
+{
+  "queue_position": 66,
+  "id": 299,
+  "path": "raw/inbox/Practical/Ruben Hassid/how-chatgpt-makes-you-dumb.md",
+  "sha256": "8b4fe4fa25ee30336b7cbb7e14c912aa01ef2c2ca040a234f0db60a9e0e6a620",
+  "title": "How ChatGPT makes you dumb.",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L16 ## The MIT said we’re dumb.",
+    "L22 ### Generate it & forget it.",
+    "L42 ### ChatGPT makes your brain go numb.",
+    "L60 ### 4 blind spots.",
+    "L83 ## AI is a means, not the end. And it pays off.",
+    "L85 ### MIT’s own “Delay-Then-Augment” playbook.",
+    "L103 ### Humans who pair grit + GPT win big.",
+    "L131 ## How to AI. To get *smarter,* not dumber.",
+    "L135 ### Workflow 1. “Draft, Then Ask”",
+    "L160 ### Workflow 2. “Socratic Chat”",
+    "L189 ### Workflow 3. “AI Pop-Quiz Loop”",
+    "L215 ### Workflow 4. “Chain-of-Thought Reveal”",
+    "L238 ### Workflow 5. “Silent Dialogue”",
+    "L268 ### Workflow 6. “Reverse-Prompt”",
+    "L291 ### Putting it together",
+    "L306 ## How I use AI to be faster, better, stronger."
+  ],
+  "passages": [
+    {
+      "line": 22,
+      "text": "### Generate it & forget it."
+    },
+    {
+      "line": 32,
+      "text": "4 minutes after writing an essay with ChatGPT, **15 of 18 “ChatGPT-only” participants failed recalling a single sentence** (83%)."
+    },
+    {
+      "line": 42,
+      "text": "### ChatGPT makes your brain go numb."
+    },
+    {
+      "line": 56,
+      "text": "**Why it matters for you:** If you let the model do most of the thinking, you practice less thinking yourself. So you numb yourself with AI."
+    },
+    {
+      "line": 60,
+      "text": "### 4 blind spots."
+    },
+    {
+      "line": 77,
+      "text": "Then, I will pivot from “**ChatGPT makes me dumb**” to “**How to (actually) use ChatGPT to be smarter**”, mapping precisely how to keep our human brain in charge."
+    },
+    {
+      "line": 85,
+      "text": "### MIT’s own “Delay-Then-Augment” playbook."
+    },
+    {
+      "line": 93,
+      "text": "> *Rewriting an essay using AI after prior AI-free writing engaged more extensive brain-network interactions.*"
+    },
+    {
+      "line": 101,
+      "text": "Only then open ChatGPT to challenge your structure, add counter-arguments, or surface examples you missed. You stay in the cognitive driver’s seat; the model becomes a booster, not the steering wheel."
+    },
+    {
+      "line": 103,
+      "text": "### Humans who pair grit + GPT win big."
+    },
+    {
+      "line": 115,
+      "text": "Even at the bleeding edge of competitive coding, “GPT-o3” recently got a **2700 Codeforces rating**. And that’s waaaaaay better than most people. (codeforces .com)"
+    },
+    {
+      "line": 131,
+      "text": "## How to AI. To get *smarter,* not dumber."
+    },
+    {
+      "line": 133,
+      "text": "6 concrete workflows that preserve your brain while using ChatGPT multiply your reach. Each one maps to an insight from the studies & my experience."
+    },
+    {
+      "line": 135,
+      "text": "### Workflow 1. “Draft, Then Ask”"
+    },
+    {
+      "line": 139,
+      "text": "**Why it works:** participants who wrote first and only added GPT later showed the **largest spike in whole-brain connectivity and the best essay scores**."
+    },
+    {
+      "line": 153,
+      "text": "   2. Then, finally ask specific questions: “*Give me three counter-arguments to Point B*,” or “*Suggest two historical examples for my thesis.*”"
+    },
+    {
+      "line": 160,
+      "text": "### Workflow 2. “Socratic Chat”"
+    },
+    {
+      "line": 166,
+      "text": "**Goal:** turn ChatGPT into a relentless critic that sharpens your reasoning rather than writing for you."
+    },
+    {
+      "line": 168,
+      "text": "**Why it works:** challenging the model (instead of accepting its first answer) keeps the **fronto-parietal “executive control” loops** active. You stay in the loop."
+    },
+    {
+      "line": 189,
+      "text": "### Workflow 3. “AI Pop-Quiz Loop”"
+    },
+    {
+      "line": 195,
+      "text": "**Why it works:** the study’s biggest red flag was **83 % of ChatGPT users failing to recall their own sentence** . We instead use ChatGPT as a studying buddy."
+    },
+    {
+      "line": 204,
+      "text": "   1. “*Generate five short-answer questions that test the key facts, stats, and arguments in my essay. Hide all answers.*”"
+    },
+    {
+      "line": 215,
+      "text": "### Workflow 4. “Chain-of-Thought Reveal”"
+    },
+    {
+      "line": 219,
+      "text": "**Goal**: See every hop in GPT’s reasoning so you can catch leaps, assumptions, or hallucinations **before** they infect your work."
+    },
+    {
+      "line": 221,
+      "text": "**Why it works**: When using o3 (and you should), you can see its reasoning. Asking the model to print its private chain-of-thought surfaces hidden premises & false assumptions."
+    },
+    {
+      "line": 238,
+      "text": "### Workflow 5. “Silent Dialogue”"
+    },
+    {
+      "line": 242,
+      "text": "**Goal**: Use GPT as a silent listener while you narrate the problem, forcing clarity and often revealing the solution mid-rant."
+    },
+    {
+      "line": 244,
+      "text": "**Why it works**: The “silent” method leverages **generative verbalization**: articulating a problem out loud recruits additional working-memory channels and surfaces hidden assumptions."
+    },
+    {
+      "line": 253,
+      "text": "   1. “*Act as a silent rubber duck. Reply only ‘go on’ every 60 sec unless I ask a direct question.*”"
+    },
+    {
+      "line": 268,
+      "text": "### Workflow 6. “Reverse-Prompt”"
+    },
+    {
+      "line": 272,
+      "text": "**Goal**: Expose vagueness in your writing by asking GPT to guess the prompt that would have produced it."
+    },
+    {
+      "line": 274,
+      "text": "**Why it works**: Reverse-engineering forces the model (and you) to surface implicit goals and constraints."
+    },
+    {
+      "line": 286,
+      "text": "   1. Any section that comes back generic signals vagueness; tighten the objective, constraints, or desired style."
+    },
+    {
+      "line": 306,
+      "text": "## How I use AI to be faster, better, stronger."
+    },
+    {
+      "line": 316,
+      "text": "My entire ChatGPT conversation is here: **<https://chatgpt.com/share/685576b6-ea94-800f-91fb-73e86e1fdab1>**."
+    },
+    {
+      "line": 339,
+      "text": "> Every stat was fact-checked by him, every analogy trimmed or tightened by him, every workflow stress-tested against his real-world writing practice."
+    },
+    {
+      "line": 341,
+      "text": "> That’s the partnership model this whole post argues for—human intent in the driver’s seat, language model riding shotgun."
+    },
+    {
+      "line": 349,
+      "text": "> Follow that loop and the research says you keep the speed boost **without** paying the cognitive debt."
+    },
+    {
+      "line": 351,
+      "text": "> Thanks for letting me crash your inbox. Now go build something only a human-AI duo could pull off—and tag us when you do."
+    },
+    {
+      "line": 359,
+      "text": "To follow my journey with ChatGPT, and how I master AI in English (not code); forward this blog to a colleague, or subscribe here:"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 3,
+  "title": "I Didn’t Post About Your Cause",
+  "collection": "Adam Grant",
+  "path": "raw/inbox/Practical/Adam Grant/i-didnt-post-about-your-cause.md",
+  "sha256": "7d68fa5f68e542a0aee06ee4ad80909ad394fb7107b04ebd3dff85b9a6a023db",
+  "access": "public-page",
+  "kind": "article",
+  "words": 181,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 17,
+      "offset": 465,
+      "text": "and I didn’t have something novel or useful to say."
+    },
+    {
+      "line": 25,
+      "offset": 695,
+      "text": "we could all use a break from depressing news."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 4,
+  "title": "No, You Don't Get an A for Effort",
+  "collection": "Adam Grant",
+  "path": "raw/inbox/Practical/Adam Grant/no-you-dont-get-an-a-for-effort.md",
+  "sha256": "ba097206761fd4f7ef2e8bdfe88fd9f165501e283bbc4bc311b6edb6aa55473c",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 282,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 216,
+      "text": "“I don’t know” is not an admission of ignorance. It’s an expression of intellectual humility."
+    },
+    {
+      "line": 42,
+      "offset": 3050,
+      "text": "- Sam Altman on the future of AI and humanity: Apple | Spotify | Transcript"
+    }
+  ]
+}

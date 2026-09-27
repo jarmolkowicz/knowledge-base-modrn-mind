@@ -1,0 +1,26 @@
+{
+  "id": 833,
+  "title": "An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/yuhki-yamashata/transcript.md",
+  "sha256": "d161a423c3f7a38126343377f31a079d3888569e6a12cb951eb92116d86c953f",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13013,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 37,
+      "offset": 807,
+      "text": "There's something controversial about this "
+    },
+    {
+      "line": 121,
+      "offset": 10549,
+      "text": "Well, I decided it's not for everyone, but I think that it's, first of all, a really great empathy building exercise of understand"
+    }
+  ]
+}

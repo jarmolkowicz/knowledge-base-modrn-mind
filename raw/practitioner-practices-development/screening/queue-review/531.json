@@ -1,0 +1,61 @@
+{
+  "queue_position": 182,
+  "id": 531,
+  "path": "raw/inbox/Practical/Sam Illingworth/your-favourite-commenter-might-not-be-writing-their-own-comments.md",
+  "sha256": "b828688a579785a21f0491c333011f86e5c11b25a578ef3430144d70be61f792",
+  "title": "Your Favourite Commenter Might Not Be Writing Their Own Comments",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L21 #### **In this post I will:**",
+    "L29 #### **The investigation**",
+    "L37 #### **The 1:1 signal**",
+    "L55 #### **The confirmation**",
+    "L69 #### **The Turing test**",
+    "L81 #### **The canary traps**",
+    "L95 #### **What the traps caught**",
+    "L109 #### **Parallel context: the growth cliff**",
+    "L133 #### **The direct messages**",
+    "L145 #### **What this means**",
+    "L159 #### **The honest version of the dead internet**",
+    "L173 #### **What I am not saying**",
+    "L183 #### **What to do with this**"
+  ],
+  "passages": [
+    {
+      "line": 55,
+      "text": "#### **The confirmation**"
+    },
+    {
+      "line": 61,
+      "text": "At one end, a VA is a real person, often based overseas, paid $3 to $10 an hour on platforms like Fiverr or Upwork, reading posts on your behalf and writing comments in your voice. At the other end, it is an AI agent: a script that processes every new post in your feed, generates a response, and posts it automatically. In between, it is a ghostwriter using AI tools to draft comments that a human then reviews and posts. LinkedIn has been saturated with this for years. Fiverr alone lists dozens of LinkedIn engagement services where someone will comment, like, and connect on your behalf for a monthly fee. The practice has a name in that world: ghost commenting."
+    },
+    {
+      "line": 109,
+      "text": "#### **Parallel context: the growth cliff**"
+    },
+    {
+      "line": 121,
+      "text": "> “I’m wondering if this whole push to notes is diluting Substack for those of us who write long form.”"
+    },
+    {
+      "line": 133,
+      "text": "#### **The direct messages**"
+    },
+    {
+      "line": 141,
+      "text": "They may be real people who do not check their DMs. They may be agents with no mechanism to respond to direct messages. This is inconclusive from the DM evidence alone. But when you ask three accounts a straightforward question and get silence from all three, that silence is itself a data point."
+    },
+    {
+      "line": 183,
+      "text": "#### **What to do with this**"
+    },
+    {
+      "line": 187,
+      "text": "If you run a Substack or any platform where comments matter, look at your own data. The 1:1 comment-to-post ratio is a starting point. Pull your comment data and check. Substack has a public, read-only API that anyone can use without logging in. If you do not code, ask Claude or ChatGPT to write a script that scrapes your Substack comments and shows you the ratio per commenter. It will do it in ten minutes. If you do code, the endpoint is:"
+    },
+    {
+      "line": 189,
+      "text": "`https://{publication}.substack.com/api/v1/post/{post_id}/comments?all_comments=true`"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "queue_position": 5,
+  "id": 33,
+  "path": "raw/inbox/Practical/Cal Newport/how-not-to-be-alone-jonathan-safran-foer-on-the-dangers-of-diminished-communication.md",
+  "sha256": "3a4ee4b268504416bf111042158d477a7f6b33428e3b619c3a06a74f5cb15c92",
+  "title": "How Not to Be Alone",
+  "coverage": "all available text, excluding linked images/media",
+  "headings": [],
+  "passages": [
+    {
+      "line": 11,
+      "text": "Photo by Pedro Ribeiro Simões"
+    },
+    {
+      "line": 13,
+      "text": "In 2013, the novelist Jonathan Safran Foer gave the commencement address at Middlebury College. He subsequently adapted parts of it into a short but impactful essay published in the *New York Times*. It was titled: “How Not to Be Alone.”"
+    },
+    {
+      "line": 15,
+      "text": "In this piece, Foer explores the evolution of communication technology, writing:"
+    },
+    {
+      "line": 17,
+      "text": "> “Most of our communication technologies began as diminished substitutes for an impossible activity. We couldn’t always see one another face to face, so the telephone made it possible to keep in touch at a distance. One is not always home, so the answering machine made a kind of interaction possible without the person being near his phone.”"
+    },
+    {
+      "line": 19,
+      "text": "From the answering machine we got to email, which was even easier, and then texting, which, being less formal and more mobile, was even easier still."
+    },
+    {
+      "line": 21,
+      "text": "“But then a funny thing happened,” Foer writes, “we began to prefer the diminished substitute.”"
+    },
+    {
+      "line": 23,
+      "text": "This made life convenient, but introduced its own costs:"
+    },
+    {
+      "line": 25,
+      "text": "> “The problem with accepting — with preferring — diminished substitutes is that over time, we, too, become diminished substitutes. People who become used to saying little become used to feeling little.”"
+    },
+    {
+      "line": 27,
+      "text": "Foer is underscoring a point I also elaborate in *Digital Minimalism*. We’re evolved to be highly social primates. Through the vast majority of our deep history, sociality meant analog communication, with vocal inflections, body languages, and a necessary investment of time and energy by both parties."
+    },
+    {
+      "line": 29,
+      "text": "When you strip away these elements of interaction, you strip away a lot of what makes us human."
+    },
+    {
+      "line": 31,
+      "text": "“We often use technology to save time,” Foer concludes, “but increasingly, it either takes the saved time along with it, or makes the saved time less present, intimate and rich.”"
+    }
+  ]
+}

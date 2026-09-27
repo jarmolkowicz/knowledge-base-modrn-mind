@@ -1,0 +1,31 @@
+{
+  "id": 417,
+  "title": "AI Is Improving Student Performance. It Is Also Destroying Student Learning.",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/ai-cognitive-offloading-student-learning.md",
+  "sha256": "09d07ae4dbc9a35e7d20e3671bcf294e6bbcb85fbe64930f5d56d7a29719702a",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1254,
+  "headings": [
+    "In this post I will:",
+    "**The performance paradox in practice**",
+    "**Fluency is the trap**",
+    "**The new equity gap**",
+    "**What learning a language taught me about cognitive load**",
+    "**Why this matters beyond the classroom**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 499,
+      "text": "The struggle is where the learning lives. Remove the struggle and you "
+    },
+    {
+      "line": 31,
+      "offset": 1995,
+      "text": "When students use AI to bypass the hard thinking itself (“write me an essay about the causes of World War I”), the entire schema-construction process collapses. The generation of ideas, the retrieval of knowled"
+    }
+  ]
+}

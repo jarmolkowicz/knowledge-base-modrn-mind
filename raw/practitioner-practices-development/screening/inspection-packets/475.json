@@ -1,0 +1,31 @@
+{
+  "id": 475,
+  "title": "Anthropic’s AI found ten thousand bugs. The volunteers are patching them.",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/project-glasswing-open-source-maintainer-tax.md",
+  "sha256": "0b4bfa97eba821716030c48ccf93f2a07f5b009eeb5d32935f88a7d34567b00a",
+  "access": "public-page",
+  "kind": "article",
+  "words": 1497,
+  "headings": [
+    "**In this post I will:**",
+    "**What Project Glasswing actually is**",
+    "**Two pipelines, one model**",
+    "**The maintainer tax**",
+    "**The asymmetry has a name**",
+    "**What this means for you**"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 497,
+      "text": "Anthropic’s new AI model found more than ten thousand critical sec"
+    },
+    {
+      "line": 49,
+      "offset": 3329,
+      "text": "The first is commercial. Claude Security launched in public beta for Claude Enterprise customers. In its first three weeks, it has been used to patch over 2,000 vulnerabilities. Enterprise customers f"
+    }
+  ]
+}

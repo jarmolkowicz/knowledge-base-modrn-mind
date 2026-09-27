@@ -1,0 +1,45 @@
+{
+  "queue_position": 266,
+  "id": 660,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ian-mcallister/transcript.md",
+  "sha256": "4c62545dea0100ebb8d5788aed425156663347d393eec06fba7f54fccda18cef",
+  "title": "What it takes to become a top 1% PM | Ian McAllister (Uber, Amazon, Airbnb)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 98,
+      "text": "Ian McAllister (00:10:18):"
+    },
+    {
+      "line": 99,
+      "text": "Well, I mean I guess you could connect those things. Obviously both are machine learning, AI. The way I think about it is that I've done a whole bunch of different lifetimes, especially around eCommerce, and so it allows me to cover the gamut. Plus, I guess I forgot to mention the time at Airbnb working with Joebot and you and Vlad and Dan and Shirley and there was focused on building out the customer support technology platform. So that's another part of the eCommerce platform. Covers the gamut."
+    },
+    {
+      "line": 137,
+      "text": "Ian McAllister (00:15:53):"
+    },
+    {
+      "line": 138,
+      "text": "And so I just reflected on that and that was, as I remember, my journey to try to be a better communicator over time and I'm still on it. When I went to Amazon, I worked for Kim Rackmiller who was our, I think at the time, SVP for Worldwide Discovery. And I think she was Amazon's first TPM. And she was tough but super smart. And so that was also an early experience to learn from her. And sometimes you get some feedback when you didn't really answer the question. And my first boss, Russell and I organized and started to gather this thing called the Book of Kim. And so we would gather these best practices that we learned from her elsewhere. Avoid weasel words, answer first and then explain, own your problems. And started building this."
+    },
+    {
+      "line": 173,
+      "text": "Ian McAllister (00:22:40):"
+    },
+    {
+      "line": 174,
+      "text": "And then I think communication, the simple tip was just grade yourself after you communicate and try to just take a moment and after a while you'll just do it naturally to think about, \"Gosh, how would I have answered that question better?\" And so the next time you could try to answer that question better and it's just a continuous improvement process."
+    },
+    {
+      "line": 404,
+      "text": "Ian McAllister (01:00:58):"
+    },
+    {
+      "line": 405,
+      "text": "When I'm coming out of left field, I ask people at this stage in your career, what have you learned about yourself? How are you different from other people? No one's prepared for that."
+    }
+  ]
+}

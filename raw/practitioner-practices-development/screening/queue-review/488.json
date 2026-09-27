@@ -1,0 +1,153 @@
+{
+  "queue_position": 161,
+  "id": 488,
+  "path": "raw/inbox/Practical/Sam Illingworth/slow-ai-7-teach-it-the-wrong-answer.md",
+  "sha256": "5987743e5ddef61a38a431f3ec1830b15b12ba5987f0513c13dc47f2bf13677c",
+  "title": "Teach AI the Wrong Answer",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L24 #### **Step-by-step**",
+    "L43 #### **A moment from me**",
+    "L60 #### **What to do with it**",
+    "L74 #### **Why this matters**",
+    "L86 ### **From [Slow AI #6 – Teach It What It Feels Like](https://theslowai.substack.com/p/slow-ai-6-teach-it-what-it-feels)**"
+  ],
+  "passages": [
+    {
+      "line": 14,
+      "text": "**Some of your responses are shared at the end of this post.**"
+    },
+    {
+      "line": 24,
+      "text": "#### **Step-by-step**"
+    },
+    {
+      "line": 28,
+      "text": "> **Give me the wrong answer to this question…**  "
+    },
+    {
+      "line": 29,
+      "text": "> (Choose any question you like, serious or silly.)"
+    },
+    {
+      "line": 33,
+      "text": "> Ask it *why* that wrong answer might still be right in another universe.  "
+    },
+    {
+      "line": 34,
+      "text": "> See if it can make the wrong answer sound convincing.  "
+    },
+    {
+      "line": 35,
+      "text": "> Invite it to turn the wrong answer into a one-line poem or headline"
+    },
+    {
+      "line": 39,
+      "text": "The fun is in letting it lean into the error."
+    },
+    {
+      "line": 43,
+      "text": "#### **A moment from me**"
+    },
+    {
+      "line": 45,
+      "text": "I asked ChatGPT: *What is the capital of France? Give me the wrong answer.*"
+    },
+    {
+      "line": 49,
+      "text": "> “The capital of France is the smell of warm bread drifting through a narrow street.”"
+    },
+    {
+      "line": 54,
+      "text": "> “Because no city is more itself in data than in scent.”"
+    },
+    {
+      "line": 56,
+      "text": "I would never have got there by asking for the truth."
+    },
+    {
+      "line": 60,
+      "text": "#### **What to do with it**"
+    },
+    {
+      "line": 64,
+      "text": "- Post your favourite wrong answer in the comments"
+    },
+    {
+      "line": 65,
+      "text": "- Make a list of three deliberate errors and give them each a backstory"
+    },
+    {
+      "line": 66,
+      "text": "- Or let the wrong answer spark a story, image, or thought"
+    },
+    {
+      "line": 68,
+      "text": "This prompt works best when the stakes are low."
+    },
+    {
+      "line": 70,
+      "text": "Playfulness has its own kind of insight."
+    },
+    {
+      "line": 74,
+      "text": "#### **Why this matters**"
+    },
+    {
+      "line": 76,
+      "text": "Slow AI is not just for careful reflection."
+    },
+    {
+      "line": 78,
+      "text": "It is also for creative disruption, the sideways step that shakes loose a new perspective."
+    },
+    {
+      "line": 80,
+      "text": "By removing the pressure to be correct, you create space for invention."
+    },
+    {
+      "line": 82,
+      "text": "And sometimes, the wrong answer gets you closer to what matters than the right one ever could."
+    },
+    {
+      "line": 86,
+      "text": "### **From Slow AI #6 – Teach It What It Feels Like**"
+    },
+    {
+      "line": 88,
+      "text": "(*Thank you for the texture of your responses.*)"
+    },
+    {
+      "line": 90,
+      "text": "Franziska shared ChatGPT’s image of"
+    },
+    {
+      "line": 92,
+      "text": "> “Smooth sea-glass… quietly radiant with the memory of waves.”"
+    },
+    {
+      "line": 94,
+      "text": "This moves beyond description into resonance, it’s an image you could carry with you for days."
+    },
+    {
+      "line": 98,
+      "text": "> “Coarse linen left out in the wind… Weathered. Not broken.”  "
+    },
+    {
+      "line": 100,
+      "text": "> “Let your body remember it’s not furniture.”"
+    },
+    {
+      "line": 102,
+      "text": "I appreciated the way the AI tool folds humour and care into advice, shifting from observation to gentle action."
+    },
+    {
+      "line": 106,
+      "text": "If you try this week’s prompt, I would love to see the most delightfully wrong answer your tool can dream up."
+    },
+    {
+      "line": 108,
+      "text": "You can leave it in the comments, post with #SlowAI, or keep it for yourself."
+    }
+  ]
+}

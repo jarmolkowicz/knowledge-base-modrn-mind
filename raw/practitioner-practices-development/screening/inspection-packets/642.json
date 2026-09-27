@@ -1,0 +1,26 @@
+{
+  "id": 642,
+  "title": "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/gergely/transcript.md",
+  "sha256": "eac725d22419748ec20b0f15f8f5027adc34451e15bf78f0a2939a3d83be6b6b",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 15471,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 40,
+      "offset": 871,
+      "text": "In my best year at Uber, I made about 320 or $"
+    },
+    {
+      "line": 181,
+      "offset": 32874,
+      "text": "I write every post over multiple weeks, most of them. Some of them I might be able to write faster, but what I now have is, nowadays I actua"
+    }
+  ]
+}

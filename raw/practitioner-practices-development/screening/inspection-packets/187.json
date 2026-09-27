@@ -1,0 +1,24 @@
+{
+  "id": 187,
+  "title": "January is already obsolete. Opus 4.6 breakdown.",
+  "collection": "Nate B Jones",
+  "path": "raw/inbox/Practical/Nate B Jones/january-is-already-obsolete-my-honest.md",
+  "sha256": "ab615949f1c304c61a4bfd06b6facfedb62233a5b4861309b150b08012e6d572",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 482,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 250,
+      "text": "Sixteen AI agents coded for two weeks straight — humans set the spec and validated the"
+    },
+    {
+      "line": 28,
+      "offset": 2820,
+      "text": "- **A personalized briefing prompt.** Paste it into Claude and get a walkthrough of every Opus 4.6 change mapped specifically to your work, your tools, and how you actually use the model."
+    }
+  ]
+}

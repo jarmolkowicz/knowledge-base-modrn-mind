@@ -1,0 +1,26 @@
+{
+  "id": 802,
+  "title": "Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/shaun-clowes/transcript.md",
+  "sha256": "e10d19fe32fe41883fbef49f91ecd8f89e1aebfff1a396cb0eeb498c5b240a6c",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 16611,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 835,
+      "text": "I love that you have very strong opinion ab"
+    },
+    {
+      "line": 132,
+      "offset": 17699,
+      "text": "If you don't right size your research and you don't set this up to learn, then you're going to lose. No amounts of applying LLMs o"
+    }
+  ]
+}

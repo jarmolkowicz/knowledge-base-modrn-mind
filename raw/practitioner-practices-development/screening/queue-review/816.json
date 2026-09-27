@@ -1,0 +1,29 @@
+{
+  "queue_position": 385,
+  "id": 816,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/tobi-lutke/transcript.md",
+  "sha256": "fd3a36fce00079aa25e013e365f4ecee8a476b96574af0b1fab581f9dfef6a54",
+  "title": "Tobi Lütke's leadership playbook: First principles, infinite games, and maximizing human potential",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L32 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 34,
+      "text": "Tobi Lütke (00:00:00):"
+    },
+    {
+      "line": 35,
+      "text": "Your podcast is a podcast by a builder for other builders. Here's the most interesting question I think people can ask builders, what is your energy source? My energy source is dissatisfaction with status quo. There are so many books are about this ... Technology leading to dystopia. Like no one who really thinks about this would want to be born into a world 20 years before today. I think today is the dystopia of the future. It behooves us to try to build the kinds of products that leads in ... Towards progress."
+    },
+    {
+      "line": 436,
+      "text": "Tobi Lütke (01:26:01):"
+    },
+    {
+      "line": 437,
+      "text": "Yes, and I think this is an under explored thing in the word of UX. Random example, I was absolutely delighted by, maybe TikTok has the same thing, I don't know, but I was posting a video to Instagram and it allowed me to run a try run of the reel. It just seems like a new feature and just saying it shows it to a couple hundred people out of network and if they like it then it's going to post to my profile. I'm like, \"I don't need that.\" But I thought that was one of the more... I honestly just closed Instagram and was like, \"Holy shit, this is probably one of the most profound insightful pieces of software I've encountered. And as a connoisseur of good ideas, I've never had this as a valuable thing.\" It feels like a step function upgrade to the traditional A-B test as a concept because it's so understandable and I'm like, \"What else in the world should have try runs that run out of network?\" Basically everything, isn't it?"
+    }
+  ]
+}

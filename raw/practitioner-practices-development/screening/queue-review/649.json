@@ -1,0 +1,29 @@
+{
+  "queue_position": 260,
+  "id": 649,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/guillermo-rauch/transcript.md",
+  "sha256": "8bf6c1c66fae32af563cab217b4c0cc5e69407068108735099d8e13aa6a529a6",
+  "title": "Everyone’s an engineer now: Inside v0’s mission to create 100 million builders | Guillermo Rauch",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L35 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 544,
+      "text": "Guillermo Rauch (01:04:58):"
+    },
+    {
+      "line": 545,
+      "text": "Yeah, I'm absolutely convinced that expert AI tools are the future. There's an amazing product being built on Vercel called chatprd.com. It's the v0 for writing PRDs and it's going to get a v0 integration soon so that you can write your PRD with AI and then you can create it with AI. That's just an example of a vertical that you can go after. There's also OpenEvidence. It's like the ChatGPT for doctors, actually. There is an amazing startup building x-ray AI tooling. So the ideas I think are infinite, and what I've seen from users of AI at Vercel, for example, our legal team loves this tool called Get GC.AI. They could in theory go to ChatGPT to ask legal questions, but someone out there decided, \"I'm going to build the best legal AI tool in the world.\" It's going to be up to date. I'm going to obsess about this problem.\" The CEO herself is a lawyer, so it's going to be hard to compete with that, I think."
+    },
+    {
+      "line": 622,
+      "text": "(01:18:09):"
+    },
+    {
+      "line": 623,
+      "text": "And then, because I have experience with the tool, I said, \"Why don't I just give it the feedback?\" Literally you were asking me yesterday, earlier, some of the things that I've learned with the product or the best practice, what would I recommend if it were sitting next to someone? Not only, you should not hesitate to give the AI feedback, it's so interesting, dude. Sometimes people will press a feedback button to tell us what they wanted v0 to do, and literally all we had to do, in many cases is just, \"Can you just tell v0 that?\" And so he sent me this message saying, \"Yeah, I just don't like the design.\" And I gave him back a prompt that I would've given. I don't know what I said specifically, but it's like, \"Make it more jazzy, make it more, make it pop.\" "
+    }
+  ]
+}

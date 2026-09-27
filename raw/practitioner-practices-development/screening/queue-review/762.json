@@ -1,0 +1,37 @@
+{
+  "queue_position": 342,
+  "id": 762,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/nikhyl-singhal/transcript.md",
+  "sha256": "82fcdb3f27c80583b3f70445c1bcfe905d413ec4cd61834a5978e6a5ba58c009",
+  "title": "Building a long and meaningful career | Nikhyl Singhal (Meta, Google)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 368,
+      "text": "Nikhyl Singhal (01:02:01):"
+    },
+    {
+      "line": 369,
+      "text": "You got it. You got it. Because I had a lot of feedback that I was dismissing and then I had feedback from someone, I'm like, \"That person I should listen to because they're giving me the feedback for the right reasons and they have the right language.\""
+    },
+    {
+      "line": 473,
+      "text": "Nikhyl Singhal (01:15:47):"
+    },
+    {
+      "line": 474,
+      "text": "I like the format of, what's something that everyone takes for granted that you think is essentially hogwash or inaccurate? Sometimes I'll ask a manager, \"Look, you've managed hundreds of people in your career, what's conventional wisdom that you bet against that you have found is actually inaccurate?\" And you can do that for what do people think about AI, that's inaccurate, that everyone believes you could do that for domains, you can do all kinds of things."
+    },
+    {
+      "line": 503,
+      "text": "Nikhyl Singhal (01:20:44):"
+    },
+    {
+      "line": 504,
+      "text": "What it finds is that people then can plan and they can make meeting time effective. And meeting time is such precious time. It's the most expensive time in a company. So when I was in a startup, I couldn't imagine doing this, but now this is like my bread and butter as a leader. It's the process part. And frankly, for new folks that are new in leadership positions in a new company, it's the one thing you can do when you have low context. When you don't know how the product works, you can look at things with fresh eyes and see inefficiencies when everyone that's been in the system can't see it. I'm a huge fan of rebooting meetings first. So process first, then people, then product, then strategy is sort of the notion I make, and this is this first thing I always do."
+    }
+  ]
+}

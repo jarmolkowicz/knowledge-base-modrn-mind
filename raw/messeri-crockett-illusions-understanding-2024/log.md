@@ -45,3 +45,13 @@
 - Ran auxiliary scripts: sync-source-links.py, build-index.py, update_readme_counts.py.
 - Removed self-referencing Sources section from sources/messeri-crockett-illusions-understanding-2024.md (matches convention used by other source entries).
 - KB counts: 74->75 sources, 57->61 concepts, 12->13 methods, 143->149 total.
+
+
+## 2026-09-27 — Supplementary practice review
+
+Targeted source review, draft/overlap decision and self-critique recorded in [practice-review-2026-09-27.md](practice-review-2026-09-27.md). Drafts ready for integration review; no canonical edit or change to historical source status.
+
+
+## 2026-09-27 — Supplementary practices integrated
+
+Stage 5 completed under the user’s continuation instruction. See the batch [integration decision](../kb-practice-screening-2026-09-27/review/integration/decision.json). Original drafts and originals retained.

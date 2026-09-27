@@ -1,0 +1,37 @@
+{
+  "queue_position": 348,
+  "id": 770,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/paige-costello/transcript.md",
+  "sha256": "860ff12f18576a0962a12dfcb9b32214825ee05bbf001797c83e6a597644942a",
+  "title": "How to ask the right questions, project confidence, and win over skeptics | Paige Costello (Asana)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 399,
+      "text": "(00:47:40):"
+    },
+    {
+      "line": 400,
+      "text": "I think trying to make sure that you can be in a place of curiosity and openness because that will make your experience more successful is really important. Other people aren't always going to be right, but if you're present for it, you can ask clarifying questions. You can ask the question behind the question. You can hear the feedback, and then say, \"Was that something that I must do, that I should do, or that I should consider?\" You can actually develop a conversation that will move your relationship forward, and so I would say that's something that I think holds PMs back."
+    },
+    {
+      "line": 474,
+      "text": "Paige Costello (00:57:37):"
+    },
+    {
+      "line": 475,
+      "text": "I've been playing a lot with Poe.com lately. Yeah, just an opportunity to learn more about LLM capabilities in a firsthand way. It's been fun to create little bots. I'm playing with making a page bot. I can't say that the page bot could have had this conversation yet, but maybe next year at this time, you can have a conversation with the other me."
+    },
+    {
+      "line": 540,
+      "text": "Paige Costello (01:02:10):"
+    },
+    {
+      "line": 541,
+      "text": "You can find me on LinkedIn and Twitter, Paige Costello, and on Twitter, @paigenow. Listeners, well, I'd love to hear how you think AI is going to shape the future of software for knowledge workers, but in particular, if you and your team use Asana, I'd love to know where you'd like to see AI playing a bigger role to drive efficiency alignment for your team. So, as you know, we offer a ton of goal management, work management pieces that help teams and orgs do their work together, and I'd love to hear from you about where you see the opportunity."
+    }
+  ]
+}

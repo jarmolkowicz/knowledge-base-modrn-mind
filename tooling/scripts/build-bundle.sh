@@ -5,7 +5,7 @@
 #
 # Default (compact mode): strips three heavy sections from each source distillation —
 #   `## Key Passages`, `## Open Questions`, `## Contradicts / Extends` —
-# while leaving concept and method entries untouched. Source files in `sources/`
+# while leaving concept, method and practice entries untouched. Source files in `sources/`
 # are not modified; the canonical content stays full-fat. Compaction lives only
 # at bundle-build time.
 #
@@ -47,13 +47,13 @@ if command -v uv >/dev/null 2>&1; then
 fi
 
 # Sections to include (order matters)
-SECTIONS=("concepts" "methods" "sources")
-LABELS=("Concepts" "Methods" "Sources")
+SECTIONS=("concepts" "methods" "practices" "sources")
+LABELS=("Concepts" "Methods" "Practices" "Sources")
 
 # --- Awk filters ---
 #
 # Frontmatter-only: strip the YAML frontmatter, print everything else.
-# Used for concept and method entries (and for source entries when --full).
+# Used for concept, method and practice entries (and sources when --full).
 read -r -d '' AWK_FRONTMATTER_ONLY <<'AWK' || true
   BEGIN { in_frontmatter=0; frontmatter_done=0 }
   /^---$/ && !frontmatter_done {
@@ -166,7 +166,11 @@ done
 # --- Stats ---
 TOTAL=0
 for section in "${SECTIONS[@]}"; do
-  COUNT=$(ls "$section"/*.md 2>/dev/null | wc -l | tr -d ' ')
+  COUNT=0
+  for file in "$section"/*.md; do
+    [ -f "$file" ] || continue
+    COUNT=$((COUNT + 1))
+  done
   TOTAL=$((TOTAL + COUNT))
 done
 

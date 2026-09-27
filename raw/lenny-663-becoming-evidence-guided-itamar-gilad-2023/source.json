@@ -1,0 +1,51 @@
+{
+  "slug": "lenny-663-becoming-evidence-guided-itamar-gilad-2023",
+  "original_filename": "transcript.md",
+  "format": "md",
+  "source_type": "transcript",
+  "word_count": 14421,
+  "hash": "9249133f81384c101fd44694e34fd1bc6edd8ba3123838a74c49a4165cd646e4",
+  "extractor": "copy",
+  "extractor_script_version": "0.1.0",
+  "status": "integrated",
+  "ingested_at": "2026-09-26T20:59:46Z",
+  "decisions": [
+    {
+      "stage": "practice-review",
+      "outcome": "retain",
+      "date": "2026-09-26",
+      "reason": "Retain evidence categories and proportionate next steps; omit pseudo-precise numeric thresholds.",
+      "integration": "pending"
+    },
+    {
+      "stage": "practice-stage-4.5",
+      "outcome": "validated",
+      "at": "2026-09-27",
+      "authority": "User: Move on",
+      "findings": 0,
+      "scope": "Approved unblocked batch; exact copies in integration/prepared.json"
+    },
+    {
+      "stage": "practice-stage-5",
+      "outcome": "integrated",
+      "at": "2026-09-26T22:53:23.713398+00:00",
+      "authority": "User: Move on",
+      "source_action": "new_source",
+      "source": "sources/lenny-663-becoming-evidence-guided-itamar-gilad-2023.md",
+      "practices": [
+        "practices/match-confidence-to-evidence.md"
+      ],
+      "scope": "Reviewed practice contribution only; historical source claims not revalidated."
+    }
+  ],
+  "lines": 584,
+  "screening_id": 663,
+  "collected_from": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/itamar-gilad/transcript.md",
+  "bibliographic_metadata": {
+    "title": "Becoming evidence-guided | Itamar Gilad (Gmail, YouTube, Microsoft)",
+    "date": "2023-09-21",
+    "url": "https://www.youtube.com/watch?v=aJWSn-tz3jQ",
+    "collection": "Lenny's Podcast"
+  },
+  "integration_decision": "PROCEED_TO_INTEGRATE"
+}

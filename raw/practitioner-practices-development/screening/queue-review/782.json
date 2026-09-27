@@ -1,0 +1,37 @@
+{
+  "queue_position": 358,
+  "id": 782,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ravi-mehta/transcript.md",
+  "sha256": "1ff8d611f569bc56a48f1ccd5bde7c546dc5455126257e44be2d26b8d608bc64",
+  "title": "How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor, Outpace)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L37 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 377,
+      "text": "Ravi Mehta (01:12:47):"
+    },
+    {
+      "line": 379,
+      "text": "[NEW_PARAGRAPH]And so we've actually accelerated a lot of our roadmap around that. We have an interesting opportunity to use AI in the product where one of the things that makes Outpace different from other coaching platforms is we provide both content as well as the coach. And so each week a person will go through a 20 or 30-minute session. That session includes a brief audio lesson and then includes interactive exercises that go into how would you use the things that you just learned in that lesson."
+    },
+    {
+      "line": 382,
+      "text": "(01:14:32):"
+    },
+    {
+      "line": 383,
+      "text": "So it's really pretty remarkable how far the technology has come. I know we're at an interesting time right now. It's going to be interesting to see how things play out. I think one of the most interesting things about it is not AI as a replacement for people, but AI as a way to amplify people and make them more effective. And I think we'll see a lot of that in terms of both image generation and text generation where it's less about AI doing all the work and more about AI providing a really good starting point."
+    },
+    {
+      "line": 398,
+      "text": "Ravi Mehta (01:16:22):"
+    },
+    {
+      "line": 399,
+      "text": "Yeah. One of my favorites is The Ezra Klein Show. I love the fact that he talks about a bunch of different topics. He's often got contrarian points of view. He just had an episode recently about a skeptical take on AI that I disagreed with a lot, but it was really interesting to think about it from a different perspective."
+    }
+  ]
+}

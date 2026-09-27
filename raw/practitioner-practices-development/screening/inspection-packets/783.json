@@ -1,0 +1,26 @@
+{
+  "id": 783,
+  "title": "Product management theater | Marty Cagan (Silicon Valley Product Group)",
+  "collection": "Lenny's Podcast",
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/ray-cao/transcript.md",
+  "sha256": "64c12459a15be78c68d4a75332f204ac9c3de8eb091c6bfab26c6339f89c593e",
+  "access": "extent_not_verified",
+  "kind": "transcript",
+  "words": 13446,
+  "headings": [
+    "Transcript"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 39,
+      "offset": 801,
+      "text": "We rarely get a peek into what it's like to"
+    },
+    {
+      "line": 318,
+      "offset": 56022,
+      "text": "Yeah, I see a lot of really different type of advertisers already find their success on the platform. One thing that they actually"
+    }
+  ]
+}

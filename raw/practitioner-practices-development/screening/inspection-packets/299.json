@@ -1,0 +1,39 @@
+{
+  "id": 299,
+  "title": "How ChatGPT makes you dumb.",
+  "collection": "Ruben Hassid",
+  "path": "raw/inbox/Practical/Ruben Hassid/how-chatgpt-makes-you-dumb.md",
+  "sha256": "8b4fe4fa25ee30336b7cbb7e14c912aa01ef2c2ca040a234f0db60a9e0e6a620",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 2264,
+  "headings": [
+    "The MIT said we’re dumb.",
+    "Generate it & forget it.",
+    "ChatGPT makes your brain go numb.",
+    "4 blind spots.",
+    "AI is a means, not the end. And it pays off.",
+    "MIT’s own “Delay-Then-Augment” playbook.",
+    "Humans who pair grit + GPT win big.",
+    "How to AI. To get *smarter,* not dumber.",
+    "Workflow 1. “Draft, Then Ask”",
+    "Workflow 2. “Socratic Chat”",
+    "Workflow 3. “AI Pop-Quiz Loop”",
+    "Workflow 4. “Chain-of-Thought Reveal”",
+    "Workflow 5. “Silent Dialogue”",
+    "Workflow 6. “Reverse-Prompt”"
+  ],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 12,
+      "offset": 213,
+      "text": "And if you read this newsletter, you probably do too."
+    },
+    {
+      "line": 56,
+      "offset": 2692,
+      "text": "**Why it matters for you:** If you let the model do most of the thinking, you practice less thinking yourself. So you numb yourself with AI."
+    }
+  ]
+}

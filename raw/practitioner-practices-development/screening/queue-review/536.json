@@ -1,0 +1,33 @@
+{
+  "queue_position": 185,
+  "id": 536,
+  "path": "raw/inbox/Practical/Lenny's Podcast/repo/episodes/adriel-frederick/transcript.md",
+  "sha256": "9eef781a556bfe1c0388a9dfe9d3391bd66446f73215f280e89313862ae13013",
+  "title": "Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)",
+  "coverage": "expanded selected original paragraphs with speaker/header context; not full source",
+  "headings": [
+    "L36 ## Transcript"
+  ],
+  "passages": [
+    {
+      "line": 36,
+      "text": "## Transcript"
+    },
+    {
+      "line": 300,
+      "text": "I am not yet as worried about these visions of them taking over. Thus far and maybe I haven't fathomed what they can do, they still seem like tools that need our guidance to be useful. Even the most amazing, we've been seeing the image generation and I've seen the cutting edge like text generation stuff. They can fool you into believing that they're like near human capability, but there is a lack of decision making and judgment that I see coming out of them. I see them as being again, extensions and useful like text generation algorithms. A lot of them can't write a paper for you and that's what I think people are scared of because it still requires your judgment to decide. Now when you decide what the salient topics are in something you've read, let's say you're doing a book report, you've decided what the topics are, it can help you write the paper faster for sure, but it can't write the paper for you. It can't choose the topics that your background and history and interest find useful or compelling to tease out."
+    },
+    {
+      "line": 330,
+      "text": "Yes. And a few massive cannonballs every now and then. Every now and then there's some cannonballs."
+    },
+    {
+      "line": 408,
+      "text": "Okay. One last question before we get to our very exciting lightning round. So you've moved from IC a while back at this point to now VP of Product at one of the most trafficked sites on the internet. And I'm curious, what skills have you grown or had to grow most as you've gotten more senior in your career?"
+    },
+    {
+      "line": 471,
+      "text": "Amazing. Okay. Wow, these are all very unique. I love it. In a different direction, what's a favorite interview question that you like to ask?"
+    }
+  ]
+}

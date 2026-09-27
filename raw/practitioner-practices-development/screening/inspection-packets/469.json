@@ -1,0 +1,24 @@
+{
+  "id": 469,
+  "title": "From Multilingual to Multicultural: What LLMs Flatten and What They Cannot",
+  "collection": "Sam Illingworth",
+  "path": "raw/inbox/Practical/Sam Illingworth/mozilla-data-collective-language-culture-ai.md",
+  "sha256": "49f9178c0ff15fef2cb9401565a5d45604dc180e4e7e21c590345b6c51d7f6a8",
+  "access": "public-page",
+  "kind": "article",
+  "words": 701,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 15,
+      "offset": 495,
+      "text": "Large language models speak 320 languages. They think in one."
+    },
+    {
+      "line": 31,
+      "offset": 3368,
+      "text": "The line from E.M. I keep coming back to is about multicultural stories. Someone suggested getting LLMs to write more of them. E.M. pushed back: do we want machines writing multicultural stories, or d"
+    }
+  ]
+}

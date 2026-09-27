@@ -1,0 +1,24 @@
+{
+  "id": 366,
+  "title": "The Big Lie Behind Tech Layoffs",
+  "collection": "Sabrina Ramonov",
+  "path": "raw/inbox/Practical/Sabrina Ramonov/big-lie-behind-tech-layoffs.md",
+  "sha256": "24c83b78575d30c9a3d19acae8880530492f933b4336886540f2eefc8c8c4be0",
+  "access": "extent_not_verified",
+  "kind": "article",
+  "words": 106,
+  "headings": [],
+  "coverage": "opening + one cue-ranked passage + headings; partial inspection",
+  "passages": [
+    {
+      "line": 10,
+      "offset": 196,
+      "text": "Data shows top AI agents can only complete 2.5% of real-world tasks, y"
+    },
+    {
+      "line": 26,
+      "offset": 759,
+      "text": "> 6/ Free private community for Women Building AI"
+    }
+  ]
+}
