@@ -130,6 +130,12 @@ Parseable: `grep "^## \[" log.md | tail -20` shows recent activity.
 - Index/counts refreshed to 418 entries (248 sources, 73 concepts, 22 methods, 75 practices). No commit or remote publication. [Integration record](raw/practitioner-practices-development/integration/README.md); [browse practices](practice-guide.md).
 
 
-## 2026-09-27 — Practices from existing KB sources
+## [2026-09-27] practice integration | Practices from existing KB sources
 
 Integrated eight new practices, nine focused practice updates and one modulation-method correction following source review and recorded Stage 5 decision. Taxonomy unchanged; original drafts and source material retained. Audit: [batch decision](raw/kb-practice-screening-2026-09-27/review/integration/decision.json).
+
+## [2026-09-27] cleanup | Temporary files and stale documentation
+
+- Removed two temporary commit reports and 15 generated PDF preview images. Source files, review records and pending practice drafts retained.
+- Restored six deleted Julia batch reports still referenced by the log and source workbenches; their content matches the committed versions.
+- Clarified that the current knowledge pack includes practices and shortened source notes; corrected the librarian collection list. Pack scope unchanged.

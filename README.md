@@ -23,7 +23,7 @@ The curation process is deliberately semi-automated — AI-assisted, human-revie
 
 ## Getting Started
 
-- **Use it with your AI** — Download the [knowledge pack](https://github.com/jarmolkowicz/modrn-mind-knowledge-base/releases/latest), a single file with the full KB. Upload it to Claude Projects, NotebookLM, a Custom GPT, or any AI assistant that lets you upload files. Then prompt it to design, write, audit, or teach.
+- **Use it with your AI** — Download the [knowledge pack](https://github.com/jarmolkowicz/modrn-mind-knowledge-base/releases/latest), a single file with concepts, methods, practices and shortened source notes. Full source notes remain in `sources/`. Upload the pack to Claude Projects, NotebookLM, a Custom GPT, or any AI assistant that lets you upload files. Then prompt it to design, write, audit, or teach.
 - **Browse it yourself** — Start with [index.md](index.md) for a scannable catalog of all 426 entries. From there, follow what catches your eye. `concepts/cognitive-debt.md` is a good starting concept; `methods/scan.md` and `methods/think-first.md` are strong methods to begin with.
 
 ## Contributing
