@@ -37,7 +37,7 @@ PDF p.3 (printed p.47): structural consistency, relational focus, systematicity,
 
 ## Evidence and Rationale
 
-**Basis:** Theoretical synthesis. Targeted original passage read, not the full paper or a new AI evaluation.
+**Basis:** Theoretical synthesis, not an evaluation of this checklist or its AI use.
 
 **Observed or reported:** The authors describe analogy as alignment of relational structure and explicitly treat projected inferences as guesses whose factual correctness needs separate checking.
 
@@ -58,14 +58,6 @@ A systematic mapping need not be true or useful. Domain knowledge and the chosen
 - [[analogical-reasoning]]
 - [[build-the-opposing-case-yourself]]
 
-## Source roles
-
-- [[gentner-markman-analogy-1997]] — origin of the research, recommendation or framework; exact editorial additions identified above.
-
 ## Sources
 
-- [[gentner-markman-analogy-1997]]
-
-Recorded citations:
-
-- Gentner, D., & Markman, A. B. (1997). Structure mapping in analogy and similarity. American Psychologist, 52(1), 45–56. doi:10.1037/0003-066X.52.1.45
+- [[gentner-markman-analogy-1997]] — origin of the research, recommendation or framework; exact editorial additions identified above.

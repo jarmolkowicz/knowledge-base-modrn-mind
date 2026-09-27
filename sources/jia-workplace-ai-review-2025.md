@@ -6,15 +6,13 @@ sources:
   - "Jia, J., Ning, X., & Liu, W. (2025). The consequences and theoretical explanation of workplace AI on employees: A systematic literature review. Journal of Digital Management, 1, 14. https://doi.org/10.1007/s44362-025-00016-3"
 ---
 
-# Jia, Ning & Liu (2025)
+# Workplace AI and Employee Outcomes
 
 ## Citation
 
 Jia, J., Ning, X., & Liu, W. (2025). The consequences and theoretical explanation of workplace AI on employees: A systematic literature review. Journal of Digital Management, 1, 14. https://doi.org/10.1007/s44362-025-00016-3
 
 Published review; supplied publisher PDF, 23 pages.
-
-Audit: [ingestion record](../raw/jia-workplace-ai-review-2025/log.md).
 
 ## Type
 
@@ -56,7 +54,7 @@ Counters a uniform decline narrative by retaining resource gains and more positi
 - Main database search limited to English-language articles in selected Web of Science subject areas, supplemented by snowball searching.
 - Different technologies, measures and designs are synthesized; not all findings concern generative AI.
 - No pooled effect, formal comparison of effect strength across theories, or direct intervention test of the combined framework.
-- Individual primary studies were not independently re-audited here; their results are not counted as new replications.
+- Review findings are secondary evidence, not additional replications.
 - Long-term career and capability changes remain research questions.
 
 ## Open Questions

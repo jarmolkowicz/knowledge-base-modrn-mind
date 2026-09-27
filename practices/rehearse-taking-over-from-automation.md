@@ -30,7 +30,7 @@ A workflow relies on a person to detect a failure and resume control. Use a safe
 
 Bainbridge, L. (1983). Ironies of automation. Automatica, 19(6), 775–779.
 
-PDF p.3, sections 2.2 Working storage and 2.3 Long-term knowledge; extraction interleaves columns, so section labels matter. Title is editorial.
+PDF p.3, sections 2.2 Working storage and 2.3 Long-term knowledge. Title is editorial.
 
 [Retained original](<../raw/bainbridge-ironies-automation-1983/source.md>). 
 
@@ -58,14 +58,6 @@ Unknown faults cannot all be simulated. Practice cannot compensate for an imposs
 - [[check-a-capability-without-the-assistant]]
 - [[turn-a-premortem-into-actions]]
 
-## Source roles
-
-- [[bainbridge-ironies-automation-1983]] — origin of the research, recommendation or framework; exact editorial additions identified above.
-
 ## Sources
 
-- [[bainbridge-ironies-automation-1983]]
-
-Recorded citations:
-
-- Bainbridge, L. (1983). Ironies of automation. Automatica, 19(6), 775–779.
+- [[bainbridge-ironies-automation-1983]] — origin of the research, recommendation or framework; exact editorial additions identified above.

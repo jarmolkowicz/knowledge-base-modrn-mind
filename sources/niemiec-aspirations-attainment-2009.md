@@ -12,7 +12,7 @@ sources:
 
 Niemiec, C. P., Ryan, R. M., & Deci, E. L. (2009). The path taken: Consequences of attaining intrinsic and extrinsic aspirations in post-college life. Journal of Research in Personality. https://doi.org/10.1016/j.jrp.2008.09.001
 
-Supplied 32-page NIH author manuscript. First-page volume/pagination text is suspect; omitted from citation pending bibliographic verification. DOI and year appear on the manuscript.
+Supplied 32-page NIH author manuscript. Volume and pagination are uncertain in this manuscript. DOI and year appear on the manuscript.
 
 ## Type
 

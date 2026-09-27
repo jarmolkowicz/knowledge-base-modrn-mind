@@ -12,7 +12,7 @@ sources:
 
 Martela, F., & Steger, M. F. (2016). The meaning of meaning in life: Coherence, purpose and significance as the three facets of meaning. The Journal of Positive Psychology. https://doi.org/10.1080/17439760.2015.1137623
 
-Supplied46-page preprint titled The Three Meanings of Meaning in Life; cover supplies published title and DOI. Main conceptual body pp.1–33; locators use preprint PDF.
+46-page preprint titled The Three Meanings of Meaning in Life; cover supplies published title and DOI. Main conceptual body pp.1–33; locators use preprint PDF.
 
 ## Type
 
@@ -43,7 +43,7 @@ Provides [[meaning-facets]] as a vocabulary for careful AI-related claims, witho
 
 ## Supports
 
-- [[meaning-facets]] — new conceptual distinction.
+- [[meaning-facets]] — distinction among coherence, purpose and significance.
 - [[agency]] — value and direction should not be inferred from fluent sense-making alone.
 
 ## Contradicts / Extends
@@ -52,7 +52,7 @@ Separates meaning from happiness and achievement, complementing the existing Bau
 
 ## Limitations
 
-Conceptual synthesis, no new empirical validation, and several proposed relationships explicitly speculative. Cross-domain application to AI or work needs separate evidence. No health-effect claims from secondary studies promoted.
+Conceptual synthesis, no new empirical validation, and several proposed relationships explicitly speculative. Cross-domain application to AI or work needs separate evidence.
 
 ## Open Questions
 

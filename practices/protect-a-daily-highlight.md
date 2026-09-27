@@ -55,15 +55,10 @@ The source’s 60–90-minute suggestion is not a minimum. Use a shorter or divi
 
 [Inference] Primary: attention. Secondary: authorship-agency. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[lenny-668-making-time-for-what-matters-jake-2024]] — origin.
 
-## Sources
-
-- [[lenny-668-making-time-for-what-matters-jake-2024]]
-
-Recorded citations:
+Additional citations:
 
 - Jake Knapp and John Zeratsky, interviewed by Lenny Rachitsky. Making time for what matters | Jake Knapp and John Zeratsky (Authors of Make Time, Character VC). 2024-02-11. https://www.youtube.com/watch?v=cuce7zvOFHY
-

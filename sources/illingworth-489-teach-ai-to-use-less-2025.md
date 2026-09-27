@@ -15,23 +15,19 @@ Sam Illingworth. (2025-08-19). Teach AI to Use Less. https://theslowai.substack.
 
 ## Key Insight
 
-The source proposes: Explore changes in meaning and tone through compression and media changes. The reviewed account reports: Reports preferring a compressed answer about rest; no objective comparison.
+The proposed routine is to explore changes in meaning and tone through compression and media changes.
 
 ## Key Findings
 
-- Reports preferring a compressed answer about rest; no objective comparison.
+The author reports preferring a compressed answer about rest; no objective comparison.
 
-**Locators:** L24–40, length/media constraints; L48–70, demonstration and comparison. Findings paraphrased from the archived source, not quotations.
+**Locators:** L24–40, length/media constraints; L48–70, demonstration and comparison.
 
 ## Evidence
 
 **Basis:** Proposed exercise and personal demonstration.
 
-**Reported:** Reports preferring a compressed answer about rest; no objective comparison.
-
-**Proposed:** Explore changes in meaning and tone through compression and media changes.
-
-**Coverage:** Close-read all 114 lines of available extracted article text; image-only content and linked media not reviewed.
+**Evidence scope:** Available article text, 114 lines; image-only content and linked media are not assessed.
 
 ## Limits
 
@@ -45,13 +41,10 @@ The source proposes: Explore changes in meaning and tone through compression and
 
 Doshi and Hauser’s short-story experiment separates ratings of individual outputs from diversity across outputs. It does not evaluate this practice or establish lasting creative skill.
 
+## Related Practices
 
-## Use in this collection
-
-Supporting account or variant; repeated advice is not independent validation.
+Related account; repeated advice is not independent validation.
 
 - [[use-a-creative-constraint-and-respond]]
 
-**Review scope:** Close-read all 114 lines of available extracted article text; image-only content and linked media not reviewed.
-
-Local evidence and locators: [source text](<../raw/illingworth-489-teach-ai-to-use-less-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-489-teach-ai-to-use-less-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.

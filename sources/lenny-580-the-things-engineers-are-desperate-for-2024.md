@@ -22,11 +22,13 @@ Read L513–577, including question context and complete AI-corner exchange (01:
 
 ## Key Insight
 
-The reviewed account reports: Fournier reports more fabricated quotations after challenging the assistant; occasional sentence-editing help is a separate use.
+Fournier reports more fabricated quotations after challenging the assistant; occasional sentence-editing help is a separate use.
 
 ## Key Findings
 
-Paraphrases from `raw/lenny-580-the-things-engineers-are-desperate-for-2024/source.md`:
+Paraphrased source account; reported outcomes are not independently verified.
+
+Source details (paraphrased):
 
 - L528–577, 01:12:42–01:17:04: complete AI-corner exchange
 - L547–556: invented quotations, repeated fabrication, wrong paper summary
@@ -35,9 +37,6 @@ Paraphrases from `raw/lenny-580-the-things-engineers-are-desperate-for-2024/sour
 
 First-person interview examples.
 
-Reported:
-
-- Fournier reports more fabricated quotations after challenging the assistant; occasional sentence-editing help is a separate use.
 
 Proposed, not demonstrated effects:
 
@@ -53,15 +52,10 @@ Proposed, not demonstrated effects:
 - A friend’s apparently better role prompt was not tested systematically.
 - Whether AI wrote the discussed film trailer is explicitly unknown.
 
-Assisted output, unaided capability, felt competence and calibration remain separate. This entry endorses no medical, legal, security or product-capability claim beyond the bounded source account.
+## Related Practices
 
-
-## Use in this collection
-
-Counterexample used to identify failure conditions; the source is not endorsed as a recommended procedure.
+An account of limitations relevant to the routine below.
 
 - [[preserve-an-ai-claim-before-challenging-it]]
 
-**Review scope:** Read L513–577, including question context and complete AI-corner exchange (01:12:42–01:17:04); other topics excluded.
-
-Local evidence and locators: [source text](<../raw/lenny-580-the-things-engineers-are-desperate-for-2024/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/lenny-580-the-things-engineers-are-desperate-for-2024/source.md>).

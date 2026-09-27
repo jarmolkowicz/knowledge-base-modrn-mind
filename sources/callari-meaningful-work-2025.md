@@ -66,5 +66,5 @@ Supplies concrete workplace accounts of retained [[agency]] and [[professional-i
 - One company, voluntary responses, brief open-text data, and early adoption limit transfer. Nonrespondents may differ.
 - No longitudinal evidence shows people moving between types or retaining skills.
 - Theme counts in Table 3 are coded material, not employee prevalence; do not convert them into percentages of users.
-- Table 1 contains a visible gender count/percentage inconsistency. This draft avoids those demographics.
+- Table 1 contains a visible gender count/percentage inconsistency. The inconsistent demographics are not used here.
 - User descriptions of AI capability and learning are perceptions, not technical evaluations.

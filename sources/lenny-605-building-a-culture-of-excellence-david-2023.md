@@ -16,11 +16,12 @@ David Singleton, interviewed by Lenny Rachitsky. (2023-05-04). Building a cultur
 
 ## Key Insight
 
-The source proposes: Use image support while leaving chosen writing work to the child. The reviewed account reports: Reports making images with his nine-year-old daughter, who wrote the book prose; describes composing one cover from two images.
+The proposed routine is to use image support while leaving chosen writing work to the child. The speaker reports making images with his nine-year-old daughter, who wrote the book prose; describes composing one cover from two images.
 
 ## Key Findings
 
-- Reports making images with his nine-year-old daughter, who wrote the book prose; describes composing one cover from two images.
+Paraphrased source account; reported outcomes are not independently verified.
+
 
 **Locators:** 01:25:30–01:27:17; L617–633. Findings paraphrased from the archived source, not quotations.
 
@@ -47,13 +48,10 @@ The source proposes: Use image support while leaving chosen writing work to the 
 
 Doshi and Hauser’s short-story experiment separates ratings of individual outputs from diversity across outputs. It does not evaluate this practice or establish lasting creative skill.
 
+## Related Practices
 
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[let-the-child-write-the-story]]
 
-**Review scope:** Close-read complete relevant transcript exchanges at listed timestamps and surrounding context; not full 673-line transcript; audio/video not reviewed.
-
-Local evidence and locators: [source text](<../raw/lenny-605-building-a-culture-of-excellence-david-2023/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/lenny-605-building-a-culture-of-excellence-david-2023/source.md>).

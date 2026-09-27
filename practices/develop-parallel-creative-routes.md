@@ -51,11 +51,9 @@ Locators: [p.3] question-based programs; [p.4] AI-free work and expertise; [p.5]
 
 ### Additional research context
 
-[Inference] In a parallel-workflow comparison, inspect the range of resulting ideas separately from the quality of the chosen artifact. Preserve reasons for selection. Neither more options nor a better final artifact alone demonstrates that people became more creative. The Mascareño stage-comparison lead is not used here: its stronger canonical interpretation still needs a separate original-methods review.
+[Inference] In a parallel-workflow comparison, inspect the range of resulting ideas separately from the quality of the chosen artifact. Preserve reasons for selection. Neither more options nor a better final artifact alone demonstrates that people became more creative.
 
-### Research review coverage
-
-- [[doshi-hauser-creativity-diversity-2024]]: [retained original](<../raw/doshi-hauser-creativity-diversity-2024/source.md>), L111–148; targeted original sections.
+Source passages: [[doshi-hauser-creativity-diversity-2024]]: [retained original](<../raw/doshi-hauser-creativity-diversity-2024/source.md>), L111–148.
 
 ## Limits
 
@@ -78,19 +76,12 @@ Locators: [p.3] question-based programs; [p.4] AI-free work and expertise; [p.5]
 
 [Inference] Primary: creative-development. Secondary: authorship-agency. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[tamisier-fayard-255-design-ai-systems-that-actually-strengthen-2026]] — origin.
 
 - [[doshi-hauser-creativity-diversity-2024]] — research rationale or boundary; not the origin or direct validation of this practitioner routine.
 
-## Sources
+Additional citations:
 
-- [[tamisier-fayard-255-design-ai-systems-that-actually-strengthen-2026]]
-- [[doshi-hauser-creativity-diversity-2024]]
-
-Recorded citations:
-
-- Melchior Tamisier-Fayard, Theodoros Evgeniou and Anne-Laure Fayard. (2026-07-20). Design AI Systems That Actually Strengthen Human Reasoning. https://hbr.org/2026/07/design-ai-systems-that-actually-strengthen-human-reasoning
 - Doshi, A. R., & Hauser, O. P. (2024). Generative AI enhances individual creativity but reduces the collective diversity of novel content. Science Advances, 10(28), eadn5290. doi:10.1126/sciadv.adn5290
-

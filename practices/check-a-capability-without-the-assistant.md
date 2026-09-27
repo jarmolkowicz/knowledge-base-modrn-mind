@@ -32,7 +32,7 @@ Local original: [source.md](<../raw/nosta-borrowed-mind-2026/source.md>).
 
 ## Evidence and Rationale
 
-**Basis / observed or reported:** A practice proposal in a philosophical synthesis. Nosta relies on secondary interpretations of clinical and writing studies; the local audit does not independently establish the clinical mechanism or this remedy’s effectiveness.
+**Basis / observed or reported:** A practice proposal in a philosophical synthesis. Nosta relies on secondary interpretations of clinical and writing studies; those secondary accounts do not independently establish the clinical mechanism or this practice’s effectiveness.
 
 **Related research:** [[strategic-alternation]] already records that no optimal schedule is established. [[nosta-ai-rebound-2025]] preserves the same clinical-verification gap. [[shen-skill-formation-2026]] concerns a learning shortfall in a specific task, not universal loss of previously acquired skill.
 
@@ -56,15 +56,10 @@ Never withdraw needed clinical, operational or access safeguards from live work 
 
 [Inference] Primary: independent-capability. Secondary: calibration. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[nosta-borrowed-mind-2026]] — origin.
 
-## Sources
-
-- [[nosta-borrowed-mind-2026]]
-
-Recorded citations:
+Additional citations:
 
 - Nosta, J. (2026). The Borrowed Mind: Reclaiming Human Thought in the Age of AI. ThoughtLeaderPress.
-

@@ -14,7 +14,7 @@ Wang, D., & Zhou, X. (2025). The impact of AI awareness on employees’ job burn
 
 Supplied 12-page published article, October–December 2025. Page locators refer to the supplied PDF.
 
-Audit: [ingestion record](../raw/wang-ai-awareness-burnout-2025/log.md).
+[Retained source text](../raw/wang-ai-awareness-burnout-2025/source.md).
 
 ## Type
 
@@ -55,7 +55,7 @@ Complements [[hermann-genai-psychology-work-2025]] with a specific survey popula
 
 ## Limitations
 
-Cross-sectional self-report, convenience sample, adapted scales with item removal, gender imbalance and no independent AI-use measure. Extracted tables have sign/formatting ambiguities; no regression, mediation or correlation coefficient is carried into these drafts. Directional claims follow the repeated prose account. A full quantitative reuse requires table verification.
+Cross-sectional self-report, convenience sample, adapted scales with item removal, gender imbalance and no independent AI-use measure. Signs and formatting in the available tables are ambiguous, so exact regression, mediation and correlation estimates remain uncertain. The directional findings above follow the article's repeated prose account.
 
 ## Open Questions
 

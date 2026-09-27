@@ -28,7 +28,7 @@ The authors propose judging AI classroom design by whether it supports the learn
 - Three proposed roles: educator as Designer-Conductor, student as Autonomous Co-Constructor, and GenAI as Dynamic Pedagogical Agent. These are design constructs, not observed or validated identity changes.
 - The framework connects individual/collaborative preparation to mind maps, reflection journals and active application. Educators configure assistance, check feedback and decide when to intervene.
 - Interaction logs are proposed as clues to reasoning, but the authors also warn that being observed can encourage a performance of competence. Logs are not direct access to understanding.
-- The paper raises privacy and performative-reflection concerns and suggests protected journal portions. Its separate suggestion of non-transparent adaptive difficulty is not adopted as KB practice.
+- The paper raises privacy and performative-reflection concerns and suggests protected journal portions. Its separate suggestion of non-transparent adaptive difficulty is an untested proposal, not evidence of learning benefits.
 - Claims of stronger transfer, durable knowledge, professional judgment or the greater necessity of flipped classrooms are theoretical arguments here, not new measured outcomes.
 
 ## Key Passages

@@ -33,5 +33,4 @@ The "teammate" framing is functional, not literal: it names the teamwork *roles*
 
 ## Sources
 
-- Dell'Acqua, F., Ayoubi, C., Lifshitz, H., Sadun, R., Mollick, E., Mollick, L., Han, Y., Goldman, J., Nair, H., Taub, S., & Lakhani, K. R. (2026). The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork. Organization Science, Articles in Advance. https://doi.org/10.1287/orsc.2025.20702
-
+- [[dellacqua-cybernetic-teammate-2026]] — Dell'Acqua, F., Ayoubi, C., Lifshitz, H., Sadun, R., Mollick, E., Mollick, L., Han, Y., Goldman, J., Nair, H., Taub, S., & Lakhani, K. R. (2026). The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork. Organization Science, Articles in Advance. https://doi.org/10.1287/orsc.2025.20702

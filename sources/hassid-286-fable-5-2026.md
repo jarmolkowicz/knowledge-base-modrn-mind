@@ -4,34 +4,30 @@ area:
 - preservation
 type: article
 sources:
-- Ruben Hassid. (2026-07-08). Fable 5.. https://ruben.substack.com/p/dont-use-claude-fable-5
+- Ruben Hassid. (2026-07-08). Fable 5. https://ruben.substack.com/p/dont-use-claude-fable-5
 ---
 
 # Fable 5.
 
 ## Citation
 
-Ruben Hassid. (2026-07-08). Fable 5.. https://ruben.substack.com/p/dont-use-claude-fable-5
+Ruben Hassid. (2026-07-08). Fable 5. https://ruben.substack.com/p/dont-use-claude-fable-5
 
 ## Key Insight
 
-The source proposes: Find competing arguments in existing material and keep the choice with the writer. The reviewed account reports: Author says the generated draft sounded like him; screenshots and linked demonstrations were not independently evaluated.
+The proposed routine is to find competing arguments in existing material and keep the choice with the writer.
 
 ## Key Findings
 
-- Author says the generated draft sounded like him; screenshots and linked demonstrations were not independently evaluated.
+The author says the generated draft sounded like him; screenshots and linked demonstrations were not independently evaluated.
 
-**Locators:** L515–535, Archive-to-Argument; L419–427, advising versus acting. Findings paraphrased from the archived source, not quotations.
+**Locators:** L515–535, Archive-to-Argument; L419–427, advising versus acting.
 
 ## Evidence
 
 **Basis:** Proposed workflow with brief first-person endorsement.
 
-**Reported:** Author says the generated draft sounded like him; screenshots and linked demonstrations were not independently evaluated.
-
-**Proposed:** Find competing arguments in existing material and keep the choice with the writer.
-
-**Coverage:** Close-read all 833 lines of available extracted article text; image-only content and linked media not reviewed.
+**Evidence scope:** Available article text, 833 lines; image-only content and linked media are not assessed.
 
 ## Limits
 
@@ -46,13 +42,10 @@ The source proposes: Find competing arguments in existing material and keep the 
 
 Doshi and Hauser’s short-story experiment separates ratings of individual outputs from diversity across outputs. It does not evaluate this practice or establish lasting creative skill.
 
+## Related Practices
 
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is a proposal, not a tested intervention.
 
 - [[choose-an-argument-before-drafting]]
 
-**Review scope:** Close-read all 833 lines of available extracted article text; image-only content and linked media not reviewed.
-
-Local evidence and locators: [source text](<../raw/hassid-286-fable-5-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/hassid-286-fable-5-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

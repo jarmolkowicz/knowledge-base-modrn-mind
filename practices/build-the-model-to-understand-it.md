@@ -32,13 +32,13 @@ Dan Hockenmaier (2022-10-09). Developing a growth model + marketplace growth str
 
 ## Evidence and Rationale
 
-**Basis:** First-person practitioner interview and advice; relevant exchange read, not the entire interview.
+**Basis:** First-person practitioner interview and advice.
 
 **Observed or reported:** Reports building models at companies and learning how retention affects the system.
 
 **Intended:** Develop understanding of drivers and trade-offs.
 
-**Related research:** No direct evaluation of this exact routine identified in this reading. Related entries below are context, not validation.
+**Related research:** The cited account does not directly evaluate this routine; related entries provide context, not validation.
 
 **Untested:** Causal effects on decision quality, retained unaided capability, confidence calibration and long-term use. A better artifact or a confident report cannot establish these.
 
@@ -50,26 +50,10 @@ Pre-AI field account. Pain is not proof of learning; assumption stacking can pro
 
 [Inference] Can you explain why changing one assumption changes the result? This is a proposed observation, not a validated measure.
 
-## Related
-
-No research claim attached to this draft. Source links below retain provenance.
-
-## Review Status
-
-
 ## Intended outcomes
 
 [Inference] Primary: understanding. Secondary: judgment. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Related
 
 - [[lenny-601-developing-a-growth-model-marketplace-growth-2022]] — origin.
-
-## Sources
-
-- [[lenny-601-developing-a-growth-model-marketplace-growth-2022]]
-
-Recorded citations:
-
-- Dan Hockenmaier (2022-10-09). Developing a growth model + marketplace growth strategy | Dan Hockenmaier. Lenny's Podcast.
-

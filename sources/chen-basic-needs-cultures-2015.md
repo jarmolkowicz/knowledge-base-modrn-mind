@@ -39,11 +39,11 @@ Need satisfaction, active frustration and wanting or valuing a need are differen
 
 ## Relevance
 
-Foundational definitions for [[agency]], [[ai-self-efficacy-erosion]] and [[professional-identity-threat]]. Creates one shared [[basic-psychological-needs]] draft rather than conflating needs with identity or skill.
+Foundational definitions for [[agency]], [[ai-self-efficacy-erosion]] and [[professional-identity-threat]]. Defines [[basic-psychological-needs]] without conflating needs with identity or skill.
 
 ## Supports
 
-- [[basic-psychological-needs]] — new batch concept; separates satisfaction, frustration and need strength.
+- [[basic-psychological-needs]] — measured construct; separates satisfaction, frustration and need strength.
 - [[agency]] — volition is distinct from independence and from the KB's broader agency construct.
 
 ## Contradicts / Extends

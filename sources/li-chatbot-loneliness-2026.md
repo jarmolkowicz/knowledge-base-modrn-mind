@@ -58,7 +58,7 @@ An active journaling control helps distinguish the effect of receiving chatbot r
 
 ## Limitations
 
-Mostly female first-year students, generally mild baseline loneliness, one text chatbot and two weeks. Human peers had initial face-to-face contact. Daily mood and connection ratings were retrospective. Extracted text contains malformed minus signs and apparently inconsistent standardized-effect confidence intervals in Table 1; those estimates require checking against the original table and are not repeated here. Model-rated empathy is not equivalent to a demonstrated mechanism. No inference about clinical treatment effectiveness follows from this study. Hosted supplements were not included in the supplied PDF.
+Mostly female first-year students, generally mild baseline loneliness, one text chatbot and two weeks. Human peers had initial face-to-face contact. Daily mood and connection ratings were retrospective. Table 1 standardized-effect estimates remain uncertain because the available text has malformed minus signs and apparently inconsistent confidence intervals. Model-rated empathy is not equivalent to a demonstrated mechanism. No inference about clinical treatment effectiveness follows from this study. Hosted supplements were not included in the supplied PDF.
 
 ## Open Questions
 

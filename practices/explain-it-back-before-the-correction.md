@@ -57,17 +57,11 @@ AI can affirm a misconception or invent a correction. Generated rationales are n
 
 [Inference] Primary: understanding. Secondary: calibration. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[illingworth-514-there-are-three-ways-to-learn-2026]] — origin.
 - [[lenny-698-from-managing-people-to-managing-ai-2025]] — origin.
 
-## Sources
-
-- [[illingworth-514-there-are-three-ways-to-learn-2026]]
-- [[lenny-698-from-managing-people-to-managing-ai-2025]]
-
-Recorded citations:
+Additional citations:
 
 - Julie Zhuo, interviewed by Lenny Rachitsky. From managing people to managing AI: The leadership skills everyone needs now | Julie Zhuo. 2025-09-21. https://www.youtube.com/watch?v=c_w0LaFahxk
-

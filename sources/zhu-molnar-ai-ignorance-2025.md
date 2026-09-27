@@ -12,7 +12,7 @@ sources:
 
 Zhu, J., & Molnar, A. (2025). Blissful (A)Ignorance: People form overly positive impressions of others based on their written messages, despite wide-scale adoption of Generative AI. Preprint, arXiv:2501.15678. https://arxiv.org/abs/2501.15678
 
-**Version boundary:** the supplied file matches the 2025 one-experiment preprint, arXiv:2501.15678v1. The canonical workbench/source stem was corrected to `zhu-molnar-ai-ignorance-2025` on 26 September 2026; the original PDF and uploaded 2026 filename remain in the provenance record. A later [2026 journal article](https://doi.org/10.1016/j.chb.2026.108929), with a changed subtitle, reports two experiments; those added results were not read or incorporated here. This draft cites the version actually reviewed.
+**Version boundary:** this entry covers the 2025 one-experiment preprint, arXiv:2501.15678v1. A later [2026 journal article](https://doi.org/10.1016/j.chb.2026.108929), with a changed subtitle, reports two experiments. Those additional results are outside this entry's scope.
 
 ## Type
 
@@ -60,4 +60,4 @@ Extends the [[disclosure-penalty]] by separating silence about authorship from e
 - Would the same pattern hold for real colleagues and partners, mixed human–AI authorship, or consequential hiring decisions?
 - The manuscript's 19.4% inferred probability of AI authorship relies on a linear-mixture assumption; it was not directly elicited. The authors discuss asymmetric social costs as an alternative.
 - No-information ratings being statistically indistinguishable from human ratings is not a formal equivalence test.
-- The later two-experiment journal version should be reviewed separately before replacing this preprint-based draft.
+- Do the added results in the later two-experiment journal version change these conclusions?

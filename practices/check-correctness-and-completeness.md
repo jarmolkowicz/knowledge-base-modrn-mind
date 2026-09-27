@@ -15,8 +15,6 @@ intended_outcomes:
 
 # Check correctness and completeness separately
 
-Title is editorial, not a validated named method.
-
 ## Use When
 
 You have an answer, a task definition and reference material you can inspect.
@@ -30,6 +28,8 @@ You have an answer, a task definition and reference material you can inspect.
 ## Origin
 
 Khaled Ahmed, guest contributor with Sam Illingworth. Stop Trusting Your Intuition When Evaluating AI. 2026-01-03. https://theslowai.substack.com/p/evaluate-ai-correctness-completeness
+
+Title is editorial, not a validated named method.
 
 Locators in `raw/illingworth-453-stop-trusting-your-intuition-when-evaluating-2026/source.md`: L28–36: correctness and completeness checks against a supplied reference; L58–78: compiler-timeline demonstration and model-flag counts.
 
@@ -47,7 +47,7 @@ Source passages are paraphrased. Steps arrange the cited guidance; editorial add
 
 **Related research:** [[reference-verification]] describes the same boundary: a checking prompt is not verification until the source is inspected. This is a procedural extension, not a new tested mechanism.
 
-**Untested:** No direct evaluation of this complete routine was found in the reviewed material. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
+**Untested:** The cited sources do not directly evaluate this complete routine. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
 
 ## Limits
 
@@ -59,25 +59,14 @@ A bad reference can make a faithful answer wrong. A model can invent quotations 
 
 ## Related
 
-- [[reference-verification]] — related local entry inspected; see rationale and limits above.
-- [[automation-bias]] — related local entry inspected; see rationale and limits above.
+- [[reference-verification]]
+- [[automation-bias]]
 
 ## Intended outcomes
 
 [Inference] Primary: work-quality. Secondary: judgment. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[illingworth-453-stop-trusting-your-intuition-when-evaluating-2026]] — origin.
 - [[hassid-328-search-2025]] — support.
-
-## Sources
-
-- [[illingworth-453-stop-trusting-your-intuition-when-evaluating-2026]]
-- [[hassid-328-search-2025]]
-
-Recorded citations:
-
-- Khaled Ahmed, guest contributor with Sam Illingworth. Stop Trusting Your Intuition When Evaluating AI. 2026-01-03. https://theslowai.substack.com/p/evaluate-ai-correctness-completeness
-- Ruben Hassid. Search.. 2025-10-05. https://ruben.substack.com/p/search
-

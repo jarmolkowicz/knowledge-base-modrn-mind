@@ -39,7 +39,7 @@ PDF pp.4–9 (printed pp.58–63), especially spacing on p.5 and retrieval on pp
 
 ## Evidence and Rationale
 
-**Basis:** Research synthesis and recommendations predating generative AI; the chapter was read in full.
+**Basis:** Research synthesis and recommendations predating generative AI.
 
 **Observed or reported:** The chapter reviews studies where delayed performance differed from performance during practice, and recommends distributing study and generating or retrieving answers. It does not test this AI-assisted sequence.
 
@@ -61,14 +61,6 @@ Difficulty is useful only when the learner has enough support to respond. Keep n
 - [[check-a-capability-without-the-assistant]]
 - [[ask-about-the-gap-then-do-the-task]]
 
-## Source roles
-
-- [[bjork-desirable-difficulties-2011]] — origin of the research, recommendation or framework; exact editorial additions identified above.
-
 ## Sources
 
-- [[bjork-desirable-difficulties-2011]]
-
-Recorded citations:
-
-- Bjork, E. L., & Bjork, R. A. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher, R. W. Pew, L. M. Hough, & J. R. Pomerantz (Eds.), Psychology and the Real World (pp. 56–64). Worth Publishers.
+- [[bjork-desirable-difficulties-2011]] — origin of the research, recommendation or framework; exact editorial additions identified above.

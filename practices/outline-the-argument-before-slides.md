@@ -33,13 +33,13 @@ Maggie Crowley (2023-11-05). Mastering product strategy and growing as a PM | Ma
 
 ## Evidence and Rationale
 
-**Basis:** First-person practitioner interview and advice; relevant exchange read, not the entire interview.
+**Basis:** First-person practitioner interview and advice.
 
 **Observed or reported:** Reports one colleague found it much faster.
 
 **Intended:** Clarify the argument before formatting.
 
-**Related research:** No direct evaluation of this exact routine identified in this reading. Related entries below are context, not validation.
+**Related research:** The cited account does not directly evaluate this routine; related entries provide context, not validation.
 
 **Untested:** Causal effects on decision quality, retained unaided capability, confidence calibration and long-term use. A better artifact or a confident report cannot establish these.
 
@@ -51,26 +51,10 @@ Single anecdote; the reported time saving is not a benchmark. Paper is not essen
 
 [Inference] Did a headline or transition reveal a missing reason or unsupported claim? This is a proposed observation, not a validated measure.
 
-## Related
-
-No research claim attached to this draft. Source links below retain provenance.
-
-## Review Status
-
-
 ## Intended outcomes
 
 [Inference] Primary: shared-understanding. Secondary: authorship-agency. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Related
 
 - [[lenny-725-mastering-product-strategy-and-growing-as-2023]] — origin.
-
-## Sources
-
-- [[lenny-725-mastering-product-strategy-and-growing-as-2023]]
-
-Recorded citations:
-
-- Maggie Crowley (2023-11-05). Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor). Lenny's Podcast.
-

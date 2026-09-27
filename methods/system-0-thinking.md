@@ -67,9 +67,8 @@ The framework is theoretical, not empirically tested as such. [Speculation] Poss
 
 **Strengths:**
 - Names and labels a construct (*system 0*) that captures the *input-side* dynamics of human–AI cognition — a layer the parallel-system framings (e.g., Shaw & Nave's System 3) leave implicit.
-- Anchors the framework in established philosophy of mind (extended-mind hypothesis) and cognitive science (Kahneman), so it inherits theoretical legitimacy rather than freelancing.
+- Anchors the framework in established philosophy of mind (extended-mind hypothesis) and cognitive science (Kahneman), while extending those ideas to AI.
 - The eight-criterion lens offers vocabulary for describing specific interactions, not a measurement instrument.
-- Published in *Nature Human Behaviour*, lending venue authority and citation visibility.
 - The "lack of meaning-making" caveat is a useful guardrail against over-anthropomorphizing AI as a cognitive partner.
 
 **Limitations:**
@@ -77,7 +76,7 @@ The framework is theoretical, not empirically tested as such. [Speculation] Poss
 - The "system" metaphor inherits the well-known criticisms of dual-process theory itself (whether System 1 and System 2 are truly distinct systems vs. points on a continuum).
 - Calling AI a *psychological system* risks the same anthropomorphizing the article warns against in its meaning-making caveat.
 - Does not address embodied or affective cognition.
-- Relationship to other theoretical proposals — most notably [[tri-system-theory]] (Shaw & Nave, 2026), which positions AI as *System 3* — is left undefined (the two papers do not cite each other; integration is the reader's job).
+- Relationship to other theoretical proposals — most notably [[tri-system-theory]] (Shaw & Nave, 2026), which positions AI as *System 3* — is left undefined (the relationship between the two proposals has not been empirically tested).
 - Five recommendations are sensible but generic; none of them are operationalized.
 
 ## When It Applies
@@ -97,7 +96,7 @@ When NOT to use this framework:
 
 ## Related
 
-- [[tri-system-theory]] — sibling theoretical proposal (Shaw & Nave, 2026) extending dual-process theory to include AI as a parallel cognitive agent (System 3). System 0 (substrate, input-side) and System 3 (parallel system, output-side) are complementary framings of the same underlying integration of AI into cognition.
+- [[tri-system-theory]] — theoretical proposal (Shaw & Nave, 2026) extending dual-process theory to include AI as an external cognitive system (System 3). [Inference] System 0 and System 3 may offer complementary perspectives; their compatibility has not been tested here.
 - [[cognitive-offloading]] — the daily mechanism through which system 0 becomes integrated with cognition.
 - [[cognitive-surrender]] — what habitual, uncritical reliance on system 0 produces when the user accepts outputs without questioning.
 - [[automation-bias]] — bias mechanism captured by Heersmink's "trust" criterion within the system 0 framework.
@@ -109,4 +108,3 @@ When NOT to use this framework:
 ## Sources
 
 - [[chiriatti-system-0-thinking-2024]] — Chiriatti, Ganapini, Panai, Ubiali & Riva (2024)
-

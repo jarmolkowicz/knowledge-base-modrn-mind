@@ -22,11 +22,13 @@ Read technical conversation L90–1049 (approximately 00:05:05–01:37:55), comp
 
 ## Key Insight
 
-The source proposes: Find meaningful failures before choosing automated checks. The reviewed account reports: Speakers describe broken messages, unavailable tours and handoff failures in actual traces; no controlled business-impact estimate.
+The proposed routine is to find meaningful failures before choosing automated checks. The speakers describe broken messages, unavailable tours and handoff failures in actual traces; no controlled business-impact estimate.
 
 ## Key Findings
 
-Paraphrases from `raw/lenny-652-why-ai-evals-are-the-hottest-2025/source.md`:
+Paraphrased source account; reported outcomes are not independently verified.
+
+Source details (paraphrased):
 
 - L130–272: traces, human notes, upstream errors
 - L296–359: domain expertise and sample-size heuristic
@@ -38,13 +40,6 @@ Paraphrases from `raw/lenny-652-why-ai-evals-are-the-hottest-2025/source.md`:
 
 Detailed practitioner interview with customer-support evaluation examples.
 
-Reported:
-
-- Speakers describe broken messages, unavailable tours and handoff failures in actual traces; no controlled business-impact estimate.
-
-Proposed, not demonstrated effects:
-
-- Find meaningful failures before choosing automated checks.
 
 ## Supports
 
@@ -59,15 +54,10 @@ Proposed, not demonstrated effects:
 - Overall agreement can hide rare failures; inspect false positives and false negatives.
 - Cited criteria-drift research not independently reviewed.
 
-Assisted output, unaided capability, felt competence and calibration remain separate. This entry endorses no medical, legal, security or product-capability claim beyond the bounded source account.
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[inspect-real-errors-before-automating-evaluation]]
 
-**Review scope:** Read technical conversation L90–1049 (approximately 00:05:05–01:37:55), complete relevant exchanges including L700–750. Later lightning-round material excluded.
-
-Local evidence and locators: [source text](<../raw/lenny-652-why-ai-evals-are-the-hottest-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/lenny-652-why-ai-evals-are-the-hottest-2025/source.md>).

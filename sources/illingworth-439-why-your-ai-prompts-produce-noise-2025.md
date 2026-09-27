@@ -15,23 +15,19 @@ Raghav Mehra, reframed by Sam Illingworth. (2025-12-30). Why Your AI Prompts Pro
 
 ## Key Insight
 
-The source proposes: Tie research to a decision and signals that could change it. The reviewed account reports: Mehra describes a more actionable newsletter answer after narrowing the question; no outcome comparison.
+The proposed routine is to tie research to a decision and signals that could change it.
 
 ## Key Findings
 
-- Mehra describes a more actionable newsletter answer after narrowing the question; no outcome comparison.
+Mehra describes a more actionable newsletter answer after narrowing the question; no outcome comparison.
 
-**Locators:** L20–24, attribution and rationale; L30–58, three-stage prompt; L78–94, newsletter example. Findings paraphrased from the archived source, not quotations.
+**Locators:** L20–24, attribution and rationale; L30–58, three-stage prompt; L78–94, newsletter example.
 
 ## Evidence
 
 **Basis:** Proposed framework with first-person before/after demonstration.
 
-**Reported:** Mehra describes a more actionable newsletter answer after narrowing the question; no outcome comparison.
-
-**Proposed:** Tie research to a decision and signals that could change it.
-
-**Coverage:** Close-read all 164 lines of available extracted article text; image-only content and linked media not reviewed.
+**Evidence scope:** Available article text, 164 lines; image-only content and linked media are not assessed.
 
 ## Limits
 
@@ -46,13 +42,10 @@ The source proposes: Tie research to a decision and signals that could change it
 
 Guingrich, Mehta and Bhatt offer a conceptual account of [[belief-offloading]], not evidence that this routine prevents it.
 
+## Related Practices
 
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is a proposal, not a tested intervention.
 
 - [[define-the-decision-before-research]]
 
-**Review scope:** Close-read all 164 lines of available extracted article text; image-only content and linked media not reviewed.
-
-Local evidence and locators: [source text](<../raw/illingworth-439-why-your-ai-prompts-produce-noise-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-439-why-your-ai-prompts-produce-noise-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.

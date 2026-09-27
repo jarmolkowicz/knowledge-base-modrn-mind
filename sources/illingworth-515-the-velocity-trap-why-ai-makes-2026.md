@@ -15,23 +15,19 @@ Alena Gorb, with Sam Illingworth. (2026-02-14). The Velocity Trap: Why AI Makes 
 
 ## Key Insight
 
-The source proposes: Move from generating options to examining reasons for commitment. The reviewed account reports: Gorb reports recognizing tension between a newsletter ambition and expectations of success.
+The proposed routine is to move from generating options to examining reasons for commitment.
 
 ## Key Findings
 
-- Gorb reports recognizing tension between a newsletter ambition and expectations of success.
+Gorb reports recognizing tension between a newsletter ambition and expectations of success.
 
-**Locators:** L40–58, inquiry prompt; L62–88, Sonnet demonstration; L104–110, broad claims. Findings paraphrased from the archived source, not quotations.
+**Locators:** L40–58, inquiry prompt; L62–88, Sonnet demonstration; L104–110, broad claims.
 
 ## Evidence
 
 **Basis:** First-person demonstration and proposed constraint exercise.
 
-**Reported:** Gorb reports recognizing tension between a newsletter ambition and expectations of success.
-
-**Proposed:** Move from generating options to examining reasons for commitment.
-
-**Coverage:** Close-read all 142 lines of available extracted article text; image-only content and linked media not reviewed.
+**Evidence scope:** Available article text, 142 lines; image-only content and linked media are not assessed.
 
 ## Limits
 
@@ -46,13 +42,10 @@ The source proposes: Move from generating options to examining reasons for commi
 
 Guingrich, Mehta and Bhatt offer a conceptual account of [[belief-offloading]], not evidence that this routine prevents it.
 
+## Related Practices
 
-## Use in this collection
-
-Supporting account or variant; repeated advice is not independent validation.
+Related account; repeated advice is not independent validation.
 
 - [[answer-questions-about-your-belief]]
 
-**Review scope:** Close-read all 142 lines of available extracted article text; image-only content and linked media not reviewed.
-
-Local evidence and locators: [source text](<../raw/illingworth-515-the-velocity-trap-why-ai-makes-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-515-the-velocity-trap-why-ai-makes-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

@@ -69,6 +69,5 @@ The coherence trap extends [[fluency-bias]] into epistemological territory:
 
 ## Sources
 
-- Nosta, The Borrowed Mind (2026)
+- [[nosta-borrowed-mind-2026]] — Nosta, The Borrowed Mind (2026)
 - Nosta, The Tragic Flaw in AI (2026)
-

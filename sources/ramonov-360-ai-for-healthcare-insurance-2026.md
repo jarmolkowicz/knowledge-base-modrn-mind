@@ -17,15 +17,17 @@ AskGwyn, guest contributor hosted by Sabrina Ramonov. AI for Healthcare & Insura
 
 Practitioner article.
 
-Full available extracted article, L1–129. Linked images, videos and external studies not inspected.
+Article text, L1–129. Linked media and external studies are not independently verified.
 
 ## Key Insight
 
-The source proposes: Keep documents, questions and confirmed answers separate. 
+The proposed routine is to keep documents, questions and confirmed answers separate.
 
 ## Key Findings
 
-Paraphrases from `raw/ramonov-360-ai-for-healthcare-insurance-2026/source.md`:
+Paraphrased source account; reported outcomes are not independently verified.
+
+Source details (paraphrased):
 
 - L23–47: organize, do not choose insurance plan
 - L51–61: tracker sections
@@ -40,9 +42,6 @@ Reported:
 
 - None reported in the reviewed material.
 
-Proposed, not demonstrated effects:
-
-- Keep documents, questions and confirmed answers separate.
 
 ## Supports
 
@@ -56,15 +55,10 @@ Proposed, not demonstrated effects:
 - Redaction does not guarantee deidentification.
 - An accountable source must confirm terms.
 
-Assisted output, unaided capability, felt competence and calibration remain separate. This entry endorses no medical, legal, security or product-capability claim beyond the bounded source account.
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[keep-a-document-and-question-tracker]]
 
-**Review scope:** Full available extracted article, L1–129. Linked images, videos and external studies not inspected.
-
-Local evidence and locators: [source text](<../raw/ramonov-360-ai-for-healthcare-insurance-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/ramonov-360-ai-for-healthcare-insurance-2026/source.md>).

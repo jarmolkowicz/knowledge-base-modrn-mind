@@ -34,13 +34,13 @@ Sam Illingworth (2026-08-12). The Work AI Handed Back. Sam Illingworth. Locators
 
 ## Evidence and Rationale
 
-**Basis:** Available article body read; proposal and/or author demonstration, not direct evaluation of this routine.
+**Basis:** Author proposal or demonstration, not direct evaluation of this routine.
 
 **Observed or reported:** Proposes a private one-line intervention log.
 
 **Intended:** Make otherwise invisible human work inspectable.
 
-**Related research:** No direct evaluation of this exact routine identified in this reading. Related entries below are context, not validation.
+**Related research:** The cited account does not directly evaluate this routine; related entries provide context, not validation.
 
 **Untested:** Causal effects on decision quality, retained unaided capability, confidence calibration and long-term use. A better artifact or a confident report cannot establish these.
 
@@ -48,13 +48,11 @@ Sam Illingworth (2026-08-12). The Work AI Handed Back. Sam Illingworth. Locators
 
 Memmert and colleagues draw on 21 interviews and distinguish effort intensity, persistence and direction. Their practice implications recommend recognizing learning costs and communicating the stage and quality of shared work (PDF pp.18–19). The proposed review is an adaptation, not a measured productivity or skill-preservation intervention. More effort is not automatically better.
 
-### Research review coverage
-
-- [[memmert-effort-management-2025]]: [retained original](<../raw/memmert-effort-management-2025/source.md>), L1702–1774; targeted original sections.
+Source passages: [[memmert-effort-management-2025]]: [retained original](<../raw/memmert-effort-management-2025/source.md>), L1702–1774.
 
 ## Limits
 
-No outcome evaluation. Avoid treating estimated avoided costs as measured savings. News examples and hiring-causation claims excluded. Keep confidential details within authorized systems.
+No outcome evaluation. Avoid treating estimated avoided costs as measured savings. Keep confidential details within authorized systems.
 
 ## What to Notice
 
@@ -70,19 +68,12 @@ The research below motivates the review variant; it does not evaluate this routi
 
 [Inference] Primary: accountability. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[illingworth-440-the-work-ai-handed-back-2026]] — origin.
 
 - [[memmert-effort-management-2025]] — research rationale or boundary; not the origin or direct validation of this practitioner routine.
 
-## Sources
+Additional citations:
 
-- [[illingworth-440-the-work-ai-handed-back-2026]]
-- [[memmert-effort-management-2025]]
-
-Recorded citations:
-
-- Sam Illingworth (2026-08-12). The Work AI Handed Back. Sam Illingworth.
 - Memmert, Soroko & Bittner (2025)
-

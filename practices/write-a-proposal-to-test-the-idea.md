@@ -37,13 +37,13 @@ Additional source support (not independent validation):
 
 ## Evidence and Rationale
 
-**Basis:** First-person practitioner interview and advice; relevant exchange read, not the entire interview.
+**Basis:** First-person practitioner interview and advice.
 
 **Observed or reported:** Describes Amazon practice and consulting implementation.
 
 **Intended:** Expose weak ideas and clarify customer value.
 
-**Related research:** No direct evaluation of this exact routine identified in this reading. Related entries below are context, not validation.
+**Related research:** The cited account does not directly evaluate this routine; related entries provide context, not validation.
 
 **Untested:** Causal effects on decision quality, retained unaided capability, confidence calibration and long-term use. A better artifact or a confident report cannot establish these.
 
@@ -55,28 +55,11 @@ Retrospective field account, no causal comparison. Illustrative funnel counts ar
 
 [Inference] What did making the document reveal that a finished template would have hidden? This is a proposed observation, not a validated measure.
 
-## Related
-
-No research claim attached to this draft. Source links below retain provenance.
-
-## Review Status
-
-
 ## Intended outcomes
 
 [Inference] Primary: understanding. Secondary: judgment. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Related
 
 - [[lenny-568-unpacking-amazon-s-unique-ways-of-2023]] — origin.
 - [[lenny-677-building-product-at-stripe-craft-metrics-2024]] — support.
-
-## Sources
-
-- [[lenny-568-unpacking-amazon-s-unique-ways-of-2023]]
-- [[lenny-677-building-product-at-stripe-craft-metrics-2024]]
-
-Recorded citations:
-
-- Bill Carr (2023-11-02). Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards). Lenny's Podcast.
-

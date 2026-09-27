@@ -13,8 +13,6 @@ intended_outcomes:
 
 # Answer AI questions with real evidence
 
-Title is editorial, not a validated named method.
-
 ## Use When
 
 Planning sounds clear while important facts remain missing or assumed.
@@ -29,6 +27,8 @@ Planning sounds clear while important facts remain missing or assumed.
 
 Sabrina Ramonov. AI Co-Founder MEGA Prompt. 2026-01-17. https://www.sabrina.dev/p/if-you-want-2026-to-be-the-best-year
 
+Title is editorial, not a validated named method.
+
 Locators in `raw/ramonov-394-ai-co-founder-mega-prompt-2026/source.md`: L30–40: planning account and task deletion; L112: published numbers fictional; L165–182: questions, confidence request, return to SQL data; L251: ensemble terminology.
 
 Source passages are paraphrased. Steps arrange the cited guidance; editorial additions are marked [Inference]. Support and failure cases are not independent validation.
@@ -41,7 +41,7 @@ Source passages are paraphrased. Steps arrange the cited guidance; editorial add
 
 **Related research:** [[reference-verification]] distinguishes generated claims from inspected evidence; [[agency]] concerns ownership of the decision.
 
-**Untested:** No direct evaluation of this complete routine was found in the reviewed material. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
+**Untested:** The cited sources do not directly evaluate this complete routine. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
 
 ## Limits
 
@@ -53,22 +53,13 @@ Questions can steer toward the wrong objective. A shorter task list and clearer 
 
 ## Related
 
-- [[agency]] — related local entry inspected; see rationale and limits above.
-- [[reference-verification]] — related local entry inspected; see rationale and limits above.
+- [[agency]]
+- [[reference-verification]]
 
 ## Intended outcomes
 
 [Inference] Primary: judgment. Secondary: calibration. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[ramonov-394-ai-co-founder-mega-prompt-2026]] — origin.
-
 ## Sources
 
-- [[ramonov-394-ai-co-founder-mega-prompt-2026]]
-
-Recorded citations:
-
-- Sabrina Ramonov. AI Co-Founder MEGA Prompt. 2026-01-17. https://www.sabrina.dev/p/if-you-want-2026-to-be-the-best-year
-
+- [[ramonov-394-ai-co-founder-mega-prompt-2026]] — origin.

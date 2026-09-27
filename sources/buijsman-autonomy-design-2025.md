@@ -28,7 +28,7 @@ Four responses follow: supply reasons to doubt unreliable outputs; give people s
 
 ## Key Passages
 
-Quotations preserve the wording; PDF line breaks and divided words (including `inter -` / `ventions`) are joined.
+Quotation line breaks and divided words are normalized.
 
 > "This also means that not all losses of autonomy are problematic"
 > — Buijsman et al., p. 3 [p.3], §1
@@ -61,4 +61,4 @@ Sharpens [[agency]] by distinguishing competent action from ownership of the val
 - Which failure warnings improve decisions without causing distraction or excessive distrust?
 - Do independent practice and reflective friction preserve autonomy over months?
 - How can systems adapt to personal values without reinforcing bias or collecting intrusive data?
-- Some illustrative citations in the paper appear mismatched (e.g. the haptic-control example cites Korsgaard, 1996); verify those primary studies before reusing their numerical or causal claims. The draft does not rely on those examples as independently verified evidence.
+- Some illustrative citations in the paper appear mismatched (e.g. the haptic-control example cites Korsgaard, 1996); verify those primary studies before reusing their numerical or causal claims. Those examples are not independently verified evidence here.

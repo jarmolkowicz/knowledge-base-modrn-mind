@@ -16,11 +16,12 @@ Kunal Shah, interviewed by Lenny Rachitsky. (2024-03-24). Kunal Shah on winning 
 
 ## Key Insight
 
-The source proposes: Encourage investigating a why question and returning with an answer. The reviewed account reports: No child outcomes reported for the Whyfi school exercise.
+The proposed routine is to encourage investigating a why question and returning with an answer. No child outcomes reported for the Whyfi school exercise.
 
 ## Key Findings
 
-- No child outcomes reported for the Whyfi school exercise.
+Paraphrased source account; reported outcomes are not independently verified.
+
 
 **Locators:** 00:59:49–01:02:17; L1742–1812. Findings paraphrased from the archived source, not quotations.
 
@@ -47,13 +48,10 @@ The source proposes: Encourage investigating a why question and returning with a
 
 Bastani and colleagues distinguish assisted practice from later unaided mathematics performance. That school study does not evaluate these family conversations or justify an age-general rule.
 
+## Related Practices
 
-## Use in this collection
-
-Supporting account or variant; repeated advice is not independent validation.
+Related guidance; repeated advice is not independent validation.
 
 - [[ask-how-to-find-out-before-asking-ai]]
 
-**Review scope:** Close-read complete relevant transcript exchanges at listed timestamps and surrounding context; not full 2409-line transcript; audio/video not reviewed.
-
-Local evidence and locators: [source text](<../raw/lenny-714-kunal-shah-on-winning-in-india-2024/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/lenny-714-kunal-shah-on-winning-in-india-2024/source.md>).

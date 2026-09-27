@@ -59,20 +59,10 @@ Locators: 00:35:13–00:42:42; L366–412; 00:44:07–00:45:02; L423–430. Prac
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 - [[guingrich-belief-offloading-2026]] — bounded research context described above.
 
-
 ## Intended outcomes
 
 [Inference] Primary: calibration. Secondary: judgment. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[lenny-710-unorthodox-pm-tips-automating-user-insights-2024]] — origin.
-
 ## Sources
 
-- [[lenny-710-unorthodox-pm-tips-automating-user-insights-2024]]
-
-Recorded citations:
-
-- Kevin Yien, interviewed by Lenny Rachitsky. (2024-08-18). Unorthodox PM tips: Automating user insights, unselling candidates, decision logs, more | Kevin Yien. https://www.youtube.com/watch?v=xOTO98MXG9o
-
+- [[lenny-710-unorthodox-pm-tips-automating-user-insights-2024]] — origin.

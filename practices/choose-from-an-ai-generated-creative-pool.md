@@ -18,7 +18,7 @@ intended_outcomes:
 
 You have a direction for a creative project and want possible components to consider.
 
-Author’s intended benefit: Articulate visual preferences; use a generated pool without surrendering selection or making.
+Author’s intended benefit: Use a generated pool without surrendering selection or making.
 
 ## Try It
 
@@ -58,20 +58,10 @@ Locators: 00:24:25–00:30:55; L162–190; 01:01:49–01:05:50; L360–375. Prac
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 - [[doshi-hauser-creativity-diversity-2024]] — bounded research context described above.
 
-
 ## Intended outcomes
 
 [Inference] Primary: creative-development. Secondary: authorship-agency. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[lenny-684-how-to-see-like-a-designer-2024]] — origin.
-
 ## Sources
 
-- [[lenny-684-how-to-see-like-a-designer-2024]]
-
-Recorded citations:
-
-- Jessica Hische, interviewed by Lenny Rachitsky. (2024-10-20). How to see like a designer: The hidden power of typography and logos | Jessica Hische. https://www.youtube.com/watch?v=tLLqE6Ia8-U
-
+- [[lenny-684-how-to-see-like-a-designer-2024]] — origin.

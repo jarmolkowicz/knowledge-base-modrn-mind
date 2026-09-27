@@ -61,22 +61,11 @@ Locators: 00:37:04–00:45:50; L296–345. Practice title is an editorial label.
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 - [[guingrich-belief-offloading-2026]] — bounded research context described above.
 
-
 ## Intended outcomes
 
 [Inference] Primary: calibration. Secondary: judgment. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[lenny-578-lessons-from-scaling-uber-and-opendoor-2024]] — support.
 - [[lenny-663-becoming-evidence-guided-itamar-gilad-2023]] — origin.
-
-## Sources
-
-- [[lenny-578-lessons-from-scaling-uber-and-opendoor-2024]]
-- [[lenny-663-becoming-evidence-guided-itamar-gilad-2023]]
-
-Recorded citations:
-
-- Itamar Gilad, interviewed by Lenny Rachitsky. (2023-09-21). Becoming evidence-guided | Itamar Gilad (Gmail, YouTube, Microsoft). https://www.youtube.com/watch?v=aJWSn-tz3jQ
-

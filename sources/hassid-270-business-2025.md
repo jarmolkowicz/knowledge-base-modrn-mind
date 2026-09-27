@@ -4,34 +4,30 @@ area:
 - preservation
 type: article
 sources:
-- Ruben Hassid. (2025-08-14). Business.. https://ruben.substack.com/p/business-plan
+- Ruben Hassid. (2025-08-14). Business. https://ruben.substack.com/p/business-plan
 ---
 
 # Business.
 
 ## Citation
 
-Ruben Hassid. (2025-08-14). Business.. https://ruben.substack.com/p/business-plan
+Ruben Hassid. (2025-08-14). Business. https://ruben.substack.com/p/business-plan
 
 ## Key Insight
 
-The source proposes: Consider contrasting views and challenge unsupported assumptions. The reviewed account reports: Author reports questioning invented pricing and preferring a later angle.
+The proposed routine is to consider contrasting views and challenge unsupported assumptions.
 
 ## Key Findings
 
-- Author reports questioning invented pricing and preferring a later angle.
+The author reports questioning invented pricing and preferring a later angle.
 
-**Locators:** L38–82, answer and challenge assumptions; L92–118, Perspective Transition. Findings paraphrased from the archived source, not quotations.
+**Locators:** L38–82, answer and challenge assumptions; L92–118, Perspective Transition.
 
 ## Evidence
 
 **Basis:** Worked business-plan example in incomplete available article.
 
-**Reported:** Author reports questioning invented pricing and preferring a later angle.
-
-**Proposed:** Consider contrasting views and challenge unsupported assumptions.
-
-**Coverage:** Close-read all 122 lines of available extracted article text; image-only content and linked media not reviewed. Available article stops at section 3 heading; not a full original article.
+**Evidence scope:** Available article text, 122 lines; image-only content and linked media are not assessed. Available article stops at section 3 heading; not a full original article.
 
 ## Limits
 
@@ -46,13 +42,10 @@ The source proposes: Consider contrasting views and challenge unsupported assump
 
 Guingrich, Mehta and Bhatt offer a conceptual account of [[belief-offloading]], not evidence that this routine prevents it.
 
+## Related Practices
 
-## Use in this collection
-
-Supporting account or variant; repeated advice is not independent validation.
+Related account; repeated advice is not independent validation.
 
 - [[answer-questions-about-your-belief]]
 
-**Review scope:** Close-read all 122 lines of available extracted article text; image-only content and linked media not reviewed. Available article stops at section 3 heading; not a full original article.
-
-Local evidence and locators: [source text](<../raw/hassid-270-business-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/hassid-270-business-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.

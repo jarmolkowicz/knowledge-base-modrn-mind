@@ -47,7 +47,7 @@ Locators: L37–59, Crowd and Lab; L59–71, testing and benchmarks; L73–79, l
 
 **Observed or reported:** Reports testing an agent against a business simulation and finding both strengths and errors; organization-wide effects of the full framework are not evaluated here.
 
-**Related research:** No directly relevant evaluation of this routine was identified in this review. The practitioner account above supplies its rationale; the AI adaptation remains untested.
+**Related research:** The practitioner account provides the rationale, not a direct evaluation; the AI adaptation remains untested.
 
 **Untested:** Whether this specific procedure improves judgment, independent capability, creative quality or calibration beyond the reported experience. A completed artifact, more options and felt clarity are different outcomes.
 
@@ -55,15 +55,13 @@ Locators: L37–59, Crowd and Lab; L59–71, testing and benchmarks; L73–79, l
 
 Niederhoffer, Robichaux and Hancock describe effort passed to recipients in the 2025 article (PDF pp.2–3) and recommend explicit review processes in the 2026 article (pp.7–8). Their surveys and advice do not test this trial routine. Associations involving trust and felt competence do not establish causal effects of training, trust-building or an ownership mindset.
 
-### Research review coverage
-
-- [[niederhoffer-workslop-2026]]: [retained original](<../raw/niederhoffer-workslop-2026/source.md>), L1–174; L238–298; targeted original sections.
+Source passages: [[niederhoffer-workslop-2026]]: [retained original](<../raw/niederhoffer-workslop-2026/source.md>), L1–174; L238–298.
 
 ## Limits
 
 - Adoption and time saved do not establish improved human capability.
 - Vibe benchmarks can be biased and should not settle consequential reliability.
-- Broad privacy/compliance assertions and urgency framing are excluded.
+- A successful trial does not establish privacy or compliance.
 
 ## What to Notice
 
@@ -79,21 +77,13 @@ Niederhoffer, Robichaux and Hancock describe effort passed to recipients in the 
 
 [Inference] Primary: work-quality. Secondary: shared-understanding. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[mollick-079-making-ai-work-leadership-lab-and-2025]] — origin.
 - [[hassid-277-claude-for-teams-2026]] — support.
 
 - [[niederhoffer-workslop-2026]] — research rationale or boundary; not the origin or direct validation of this practitioner routine.
 
-## Sources
+Additional citations:
 
-- [[mollick-079-making-ai-work-leadership-lab-and-2025]]
-- [[hassid-277-claude-for-teams-2026]]
-- [[niederhoffer-workslop-2026]]
-
-Recorded citations:
-
-- Ethan Mollick. (2025-05-22). Making AI Work: Leadership, Lab, and Crowd. https://www.oneusefulthing.org/p/making-ai-work-leadership-lab-and
 - Niederhoffer, K., Robichaux, A., & Hancock, J. T. (2025). AI-Generated Workslop Is Destroying Productivity. Harvard Business Review.
-

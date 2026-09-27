@@ -54,15 +54,10 @@ A small immediate gain can conceal a longer-term compatibility, security or acce
 
 [Inference] Primary: attention. Secondary: judgment. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[lenny-589-al-engineering-101-with-chip-huyen-2025]] — origin.
 
-## Sources
-
-- [[lenny-589-al-engineering-101-with-chip-huyen-2025]]
-
-Recorded citations:
+Additional citations:
 
 - Chip Huyen, interviewed by Lenny Rachitsky. Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix). 2025-10-23. https://www.youtube.com/watch?v=qbvY0dQgSJ4
-

@@ -22,11 +22,13 @@ Read complete exchanges L125–225 (00:05:14–00:25:06) and L310–388 (00:41:2
 
 ## Key Insight
 
-The source proposes: Expand responsibility after bounded use and error review. The reviewed account reports: Speakers report stopping a support agent after patching became burdensome; no controlled success rate.
+The proposed routine is to expand responsibility after bounded use and error review. The speakers report stopping a support agent after patching became burdensome; no controlled success rate.
 
 ## Key Findings
 
-Paraphrases from `raw/lenny-537-why-most-ai-products-fail-lessons-2026/source.md`:
+Paraphrased source account; reported outcomes are not independently verified.
+
+Source details (paraphrased):
 
 - L170–185: suggestions, drafts and actions
 - L347–350: support agent shut down after repeated fixes
@@ -36,13 +38,6 @@ Paraphrases from `raw/lenny-537-why-most-ai-products-fail-lessons-2026/source.md
 
 Practitioner interview with deployment experience and staged-process proposal.
 
-Reported:
-
-- Speakers report stopping a support agent after patching became burdensome; no controlled success rate.
-
-Proposed, not demonstrated effects:
-
-- Expand responsibility after bounded use and error review.
 
 ## Supports
 
@@ -56,15 +51,10 @@ Proposed, not demonstrated effects:
 - Maximum autonomy need not be the goal.
 - Clinical example not evaluated and excluded.
 
-Assisted output, unaided capability, felt competence and calibration remain separate. This entry endorses no medical, legal, security or product-capability claim beyond the bounded source account.
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[expand-agent-authority-one-tested-step-at-a-time]]
 
-**Review scope:** Read complete exchanges L125–225 (00:05:14–00:25:06) and L310–388 (00:41:20–00:58:08); other topics excluded.
-
-Local evidence and locators: [source text](<../raw/lenny-537-why-most-ai-products-fail-lessons-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/lenny-537-why-most-ai-products-fail-lessons-2026/source.md>).

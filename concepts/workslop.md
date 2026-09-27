@@ -66,6 +66,5 @@ The following are associated factors or proposals, not proven protective interve
 
 ## Sources
 
-- Niederhoffer et al. (2025/2026)
+- [[niederhoffer-workslop-2026]] — Niederhoffer et al. (2025/2026)
 - [[hai-dark-side-collaboration-2025]] — Hai, S., Long, T., Honora, A., Japutra, A., & Guo, T. (2025). The dark side of employee-generative AI collaboration in the workplace: An investigation on work alienation and employee expediency. International Journal of Information Management, 83, 102905. https://doi.org/10.1016/j.ijinfomgt.2025.102905
-

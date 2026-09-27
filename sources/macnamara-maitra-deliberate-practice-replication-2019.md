@@ -37,7 +37,7 @@ Practice mattered, but accumulated hours did not distinguish the best from the g
 
 ## Relevance
 
-Supplies the replication already mentioned, but not yet represented by its own source, in [[ericsson-deliberate-practice-1993]]. It helps prevent a useful practice principle from becoming an unsupported claim that hours determine expertise. This study contains no AI intervention.
+Replicates selected comparisons from [[ericsson-deliberate-practice-1993]]. It helps prevent a useful practice principle from becoming an unsupported claim that hours determine expertise. This study contains no AI intervention.
 
 ## Supports
 
@@ -57,4 +57,3 @@ Small selected sample, retrospective self-report, observational skill groups and
 
 - How do practice quality, feedback, prior ability and opportunity jointly predict development?
 - Does the relationship change across expertise levels and domains?
-- The uploaded filename says Ericsson (1993), but its contents are this 2019 replication. Cite the contents.

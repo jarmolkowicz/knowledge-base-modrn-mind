@@ -20,23 +20,17 @@ Edwin Chen’s first-person account embedded in discussion of model incentives.
 
 ## Key Insight
 
-The source proposes: Use as failure evidence for deciding when enough is enough. The reviewed account reports: Reports spending 30 minutes across 30 email versions on a message he later judged unimportant.
+Edwin Chen describes continuing AI-assisted revisions after their value had become doubtful.
 
 ## Key Findings
 
-These are source-account summaries, not independently validated effects.
+Edwin Chen reports spending 30 minutes across 30 email versions on a message he later judged unimportant. This is a cautionary account of continuing revisions after their value has become doubtful.
 
-- Reports spending 30 minutes across 30 email versions on a message he later judged unimportant.
+## Source Locations
 
-## Locators and coverage
-
-Read metadata/intro and complete relevant exchanges with surrounding discussion at the locators below; not the full episode.
+Evidence is limited to the introduction and the complete exchanges at the locators below, with surrounding discussion; it does not cover the full episode.
 
 - 00:48:07–00:50:41, L504–529; email account at 00:49:09
-
-## Relevance
-
-- Use as failure evidence for deciding when enough is enough.
 
 ## Supports / overlaps
 
@@ -46,15 +40,12 @@ Read metadata/intro and complete relevant exchanges with surrounding discussion 
 
 - One recollection; no measured counterfactual time or proof of a company’s objective function. Asking AI to tell the user to stop also delegates the value judgment.
 
+## Related Practices
 
-## Use in this collection
-
-Counterexample used to identify failure conditions; the source is not endorsed as a recommended procedure.
+An account of limitations relevant to the routine below.
 
 - [[carry-one-question-offline]]
 
 **Application boundary [Inference]:** The person defines sufficient quality and importance; do not outsource the stopping rule to a reassuring model.
 
-**Review scope:** Read metadata/intro and complete relevant exchanges with surrounding discussion at the locators below; not the full episode.
-
-Local evidence and locators: [source text](<../raw/lenny-616-the-1b-al-company-training-chatgpt-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/lenny-616-the-1b-al-company-training-chatgpt-2025/source.md>).

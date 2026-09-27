@@ -23,11 +23,11 @@ A separate three-wave survey connected AI augmentation with lower self-reported 
 
 ## Evidence Boundaries
 
-The supplied paper contains brief study reports, incomplete attrition information, and an inconsistent statement about one subgroup's statistical significance. The AI-specific evidence therefore remains emerging. The studies did not test a remedy or establish that reduced confidence reflects actual skill loss.
+The proceedings paper contains brief study reports, incomplete attrition information, and an inconsistent statement about one subgroup's statistical significance. The AI-specific evidence therefore remains emerging. The studies did not test a remedy or establish that reduced confidence reflects actual skill loss.
 
 This differs from [[professional-identity-threat]], which concerns the broader sense of being a professional or creator, and [[ai-self-efficacy-erosion]], which concerns belief in one's ability to act. It also differs from the [[confidence-competence-gap]]: impostor feelings can occur despite real competence.
 
-[Inference] The related [[competence-authenticity]] construct concerns perceived alignment of outcomes with personal mastery, understanding, and effort. AI impostor feelings describe the narrower experience of fraudulence after success, rather than every question about the origin of a result. This is an editorial boundary, not a demonstrated separation: neither supplied study tests the constructs' empirical independence.
+[Inference] The related [[competence-authenticity]] construct concerns perceived alignment of outcomes with personal mastery, understanding, and effort. AI impostor feelings describe the narrower experience of fraudulence after success, rather than every question about the origin of a result. The distinction is interpretive; neither study tests the constructs' empirical independence.
 
 ## Related
 

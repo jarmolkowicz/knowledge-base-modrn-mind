@@ -73,7 +73,7 @@ In a five-day observational study of 229 employees (1,050 daily observations), G
 
 ## Relevance
 
-Three load-bearing contributions to the KB:
+Three distinctions matter:
 
 - Daily measurements allow analysis of within-person associations, not just differences between workers.
 - Work alienation and self-reported expediency are distinct from identity, skill and observed misconduct.

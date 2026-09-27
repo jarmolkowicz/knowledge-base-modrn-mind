@@ -13,8 +13,6 @@ intended_outcomes:
 
 # Curate context and clarify before drafting
 
-Title is editorial, not a validated named method.
-
 ## Use When
 
 The assistant is guessing because the task depends on local goals, examples or constraints.
@@ -29,6 +27,8 @@ The assistant is guessing because the task depends on local goals, examples or c
 
 Ruben Hassid. Cowork.. 2026-03-05. https://ruben.substack.com/p/claude-cowork
 
+Title is editorial, not a validated named method.
+
 Locators in `raw/hassid-276-cowork-2026/source.md`: L79–125: relevant context, examples and output folders; L140–179: read-only wording; L273–278: questions and plan approval; L382–394 and L452: human writing and final review.
 
 Source passages are paraphrased. Steps arrange the cited guidance; editorial additions are marked [Inference]. Support and failure cases are not independent validation.
@@ -41,7 +41,7 @@ Source passages are paraphrased. Steps arrange the cited guidance; editorial add
 
 **Related research:** [[agency]] relates to choosing context and purpose; this is an application, not a direct test.
 
-**Untested:** No direct evaluation of this complete routine was found in the reviewed material. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
+**Untested:** The cited sources do not directly evaluate this complete routine. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
 
 ## Limits
 
@@ -53,22 +53,13 @@ Read-only prompts do not enforce access control. Extra personal context can expo
 
 ## Related
 
-- [[agency]] — related local entry inspected; see rationale and limits above.
-- [[automation-bias]] — related local entry inspected; see rationale and limits above.
+- [[agency]]
+- [[automation-bias]]
 
 ## Intended outcomes
 
 [Inference] Primary: work-quality. Secondary: authorship-agency. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[hassid-276-cowork-2026]] — origin.
-
 ## Sources
 
-- [[hassid-276-cowork-2026]]
-
-Recorded citations:
-
-- Ruben Hassid. Cowork.. 2026-03-05. https://ruben.substack.com/p/claude-cowork
-
+- [[hassid-276-cowork-2026]] — origin.

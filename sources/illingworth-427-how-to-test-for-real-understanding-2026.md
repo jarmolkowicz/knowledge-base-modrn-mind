@@ -19,25 +19,19 @@ Mahelet G Fikru reports designing questions with ChatGPT and describes related f
 
 ## Key Insight
 
-The source proposes: Elicit an explanation of why a concept applies or fails in a concrete case. The reviewed account reports: Shows a revised EV supply/demand question and describes asking follow-up questions on student examples; no assessed learning gain.
+The proposed routine is to elicit an explanation of why a concept applies or fails in a concrete case.
 
 ## Key Findings
 
-These are source-account summaries, not independently validated effects.
+The article shows a revised EV supply/demand question and describes asking follow-up questions on student examples; no assessed learning gain.
 
-- Shows a revised EV supply/demand question and describes asking follow-up questions on student examples; no assessed learning gain.
+## Source Locations
 
-## Locators and coverage
-
-Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
+Evidence is limited to the available article text; linked pages and embedded media are not assessed.
 
 - L22, Mahelet G Fikru credit
 - L30–40, exercise
 - L44–98, economics example and follow-up
-
-## Relevance
-
-- Elicit an explanation of why a concept applies or fails in a concrete case.
 
 ## Supports / overlaps
 
@@ -48,15 +42,12 @@ Read the complete available article text in source.md, including examples, limit
 
 - Personal examples and counterintuitive questions are not AI-proof. A model can invent experiences or answer the question. Difficulty alone does not establish retention, and a fluent answer is not sufficient evidence of human understanding.
 
+## Related Practices
 
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is a proposal, not a tested intervention.
 
 - [[ask-for-an-explanation-in-a-specific-case]]
 
 **Application boundary [Inference]:** Offer a shared case for people who cannot or do not wish to disclose personal experience; use live follow-up and explicit criteria.
 
-**Review scope:** Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
-
-Local evidence and locators: [source text](<../raw/illingworth-427-how-to-test-for-real-understanding-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-427-how-to-test-for-real-understanding-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

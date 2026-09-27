@@ -10,7 +10,7 @@ sources:
 
 ## Citation
 
-Bainbridge, L. (1983). Ironies of automation. *Automatica, 19*(6), 775–779. Local full text: `raw/bainbridge-ironies-automation-1983/source.md`.
+Bainbridge, L. (1983). Ironies of automation. *Automatica, 19*(6), 775–779.
 
 ## Type
 

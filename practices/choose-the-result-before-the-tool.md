@@ -58,7 +58,7 @@ A numerical scoreboard can reward quantity at the expense of quality. Add the qu
 
 [Inference] Primary: authorship-agency. Secondary: attention. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[newport-022-avoiding-digital-productivity-traps-2026]] — origin.
 - [[hassid-263-workaholic-2026]] — support.
@@ -66,15 +66,6 @@ A numerical scoreboard can reward quantity at the expense of quality. Add the qu
 - [[illingworth-464-the-actual-environmental-cost-of-ai-2026]] — support.
 - [[lenny-739-unconventional-product-lessons-from-binance-n26-2025]] — counterexample.
 
-## Sources
-
-- [[newport-022-avoiding-digital-productivity-traps-2026]]
-- [[hassid-263-workaholic-2026]]
-- [[mollick-064-15-times-to-use-ai-and-2024]]
-- [[illingworth-464-the-actual-environmental-cost-of-ai-2026]]
-- [[lenny-739-unconventional-product-lessons-from-binance-n26-2025]]
-
-Recorded citations:
+Additional citations:
 
 - Cal Newport. Avoiding Digital Productivity Traps. 2026-03-23. https://calnewport.com/avoiding-digital-productivity-traps/
-

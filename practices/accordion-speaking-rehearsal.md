@@ -33,13 +33,13 @@ Tristan de Montebello (2024-10-13). Why most public speaking advice is wrong—a
 
 ## Evidence and Rationale
 
-**Basis:** First-person practitioner interview and advice; relevant exchange read, not the entire interview.
+**Basis:** First-person practitioner interview and advice.
 
 **Observed or reported:** Coach describes client use; host reports it clarified his talk.
 
 **Intended:** Clarify and internalize a talk.
 
-**Related research:** No direct evaluation of this exact routine identified in this reading. Related entries below are context, not validation.
+**Related research:** The cited account does not directly evaluate this routine; related entries provide context, not validation.
 
 **Untested:** Causal effects on decision quality, retained unaided capability, confidence calibration and long-term use. A better artifact or a confident report cannot establish these.
 
@@ -51,26 +51,10 @@ Self-report and commercially promoted coaching method, not evidence of broad anx
 
 [Inference] What stayed essential across versions, and can a listener state it back? This is a proposed observation, not a validated measure.
 
-## Related
-
-No research claim attached to this draft. Source links below retain provenance.
-
-## Review Status
-
-
 ## Intended outcomes
 
 [Inference] Primary: shared-understanding. Secondary: independent-capability. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Related
 
 - [[lenny-821-why-most-public-speaking-advice-is-2024]] — origin.
-
-## Sources
-
-- [[lenny-821-why-most-public-speaking-advice-is-2024]]
-
-Recorded citations:
-
-- Tristan de Montebello (2024-10-13). Why most public speaking advice is wrong—and how to finally overcome anxiety | Tristan de Montebello. Lenny's Podcast.
-

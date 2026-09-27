@@ -50,11 +50,11 @@ Connects the needs foundation with work meaning while preserving distinctions be
 
 ## Contradicts / Extends
 
-A source of evidence for the batch's shared meaningful-work and basic-needs drafts. No separate four-step method: comparison with Lips-Wiersma is conceptual overlap, not proof that the measures are equivalent.
+Connects meaningful work with basic needs. The proposed pathways are not a tested four-step method. Comparison with Lips-Wiersma is conceptual overlap, not proof that the measures are equivalent.
 
 ## Limitations
 
-Self-report, cross-sectional associations, convenience samples, different meaning scales, inconsistencies in Study 2 exclusion counts and apparent p-sign typography. No effect sizes or total variance headline promoted. No AI exposure or objective skill outcomes.
+Self-report, cross-sectional associations, convenience samples, different meaning scales, inconsistencies in Study 2 exclusion counts and apparent p-sign typography. No AI exposure or objective skill outcomes.
 
 ## Open Questions
 

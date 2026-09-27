@@ -18,7 +18,7 @@ Memmert, Soroko & Bittner (2025) distinguish effort intensity, persistence and d
 
 ## What To Do
 
-[Inference] The following review is a KB adaptation of the paper's framework, not an author-tested intervention.
+[Inference] This review adapts the paper's framework; it has not been tested as an intervention.
 
 1. Choose a recently completed task. List its parts: framing, gathering information, drafting, checking and communicating the result.
 2. For each part, record what AI did, what the person did, and where effort fell or rose. Include time spent learning tools and fixing unusable output.

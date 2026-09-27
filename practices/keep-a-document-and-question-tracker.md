@@ -13,8 +13,6 @@ intended_outcomes:
 
 # Keep a document and question tracker
 
-Title is editorial, not a validated named method.
-
 ## Use When
 
 Several official documents need organizing before questions go to an accountable person or organization.
@@ -29,6 +27,8 @@ Several official documents need organizing before questions go to an accountable
 
 AskGwyn, guest contributor hosted by Sabrina Ramonov. AI for Healthcare & Insurance. 2026-09-09. https://www.sabrina.dev/p/ai-for-healthcare-insurance-planning
 
+Title is editorial, not a validated named method.
+
 Locators in `raw/ramonov-360-ai-for-healthcare-insurance-2026/source.md`: L23–47: organize, do not choose insurance plan; L51–61: tracker sections; L71: document-only comparison with locators or not-found; L91–99: ask accountable sources and record confirmed answers.
 
 Source passages are paraphrased. Steps arrange the cited guidance; editorial additions are marked [Inference]. Support and failure cases are not independent validation.
@@ -41,11 +41,11 @@ Source passages are paraphrased. Steps arrange the cited guidance; editorial add
 
 **Related research:** [[reference-verification]] provides the related document check. Organizing uncertainty does not make AI an insurance, medical or legal authority.
 
-**Untested:** No direct evaluation of this complete routine was found in the reviewed material. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
+**Untested:** The cited sources do not directly evaluate this complete routine. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
 
 ## Limits
 
-Documents can be stale and locators wrong. Healthcare facts and dates are not extracted as advice. Redaction does not guarantee deidentification.
+Documents can be stale and locators wrong. Check current healthcare requirements and dates with an accountable source. Redaction does not guarantee deidentification.
 
 ## What to Notice
 
@@ -53,22 +53,13 @@ Documents can be stale and locators wrong. Healthcare facts and dates are not ex
 
 ## Related
 
-- [[reference-verification]] — related local entry inspected; see rationale and limits above.
-- [[agency]] — related local entry inspected; see rationale and limits above.
+- [[reference-verification]]
+- [[agency]]
 
 ## Intended outcomes
 
 [Inference] Primary: accountability. Secondary: judgment. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[ramonov-360-ai-for-healthcare-insurance-2026]] — origin.
-
 ## Sources
 
-- [[ramonov-360-ai-for-healthcare-insurance-2026]]
-
-Recorded citations:
-
-- AskGwyn, guest contributor hosted by Sabrina Ramonov. AI for Healthcare & Insurance. 2026-09-09. https://www.sabrina.dev/p/ai-for-healthcare-insurance-planning
-
+- [[ramonov-360-ai-for-healthcare-insurance-2026]] — origin.

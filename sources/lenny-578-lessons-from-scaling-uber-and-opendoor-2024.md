@@ -16,11 +16,12 @@ Brian Tolkin, interviewed by Lenny Rachitsky. (2024-08-04). Lessons from scaling
 
 ## Key Insight
 
-The source proposes: Match evidence-seeking to uncertainty and consequences. The reviewed account reports: Describes experimentation limits at Opendoor and use of customers, peers and post-launch feedback; no evaluation of this checklist.
+The proposed routine is to match evidence-seeking to uncertainty and consequences. The speaker describes experimentation limits at Opendoor and use of customers, peers and post-launch feedback; no evaluation of this checklist.
 
 ## Key Findings
 
-- Describes experimentation limits at Opendoor and use of customers, peers and post-launch feedback; no evaluation of this checklist.
+Paraphrased source account; reported outcomes are not independently verified.
+
 
 **Locators:** 00:40:00–00:47:04; L357–394. Findings paraphrased from the archived source, not quotations.
 
@@ -46,13 +47,10 @@ The source proposes: Match evidence-seeking to uncertainty and consequences. The
 
 Guingrich, Mehta and Bhatt offer a conceptual account of [[belief-offloading]], not evidence that this routine prevents it.
 
+## Related Practices
 
-## Use in this collection
-
-Supporting account or variant; repeated advice is not independent validation.
+Related guidance; repeated advice is not independent validation.
 
 - [[match-confidence-to-evidence]]
 
-**Review scope:** Close-read complete relevant transcript exchanges at listed timestamps and surrounding context; not full 629-line transcript; audio/video not reviewed.
-
-Local evidence and locators: [source text](<../raw/lenny-578-lessons-from-scaling-uber-and-opendoor-2024/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/lenny-578-lessons-from-scaling-uber-and-opendoor-2024/source.md>).

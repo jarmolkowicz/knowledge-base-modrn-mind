@@ -19,24 +19,18 @@ Sam Illingworth combines environmental commentary and five proposed actions.
 
 ## Key Insight
 
-The source proposes: Check whether output serves anyone; ask procurers for environmental evidence. The reviewed account reports: Reports correcting an earlier public note after reader feedback; no evaluated behavioral outcomes.
+The proposed routine is to check whether output serves anyone; ask procurers for environmental evidence.
 
 ## Key Findings
 
-These are source-account summaries, not independently validated effects.
+The author reports correcting an earlier public note after reader feedback; no evaluated behavioral outcomes.
 
-- Reports correcting an earlier public note after reader feedback; no evaluated behavioral outcomes.
+## Source Locations
 
-## Locators and coverage
-
-Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
+Evidence is limited to the available article text; linked pages and embedded media are not assessed.
 
 - L15–45, correction and arithmetic
 - L113–139, accessibility and five actions
-
-## Relevance
-
-- Check whether output serves anyone; ask procurers for environmental evidence.
 
 ## Supports / overlaps
 
@@ -46,15 +40,12 @@ Read the complete available article text in source.md, including examples, limit
 
 - Internal arithmetic error: 1–2 trillion litres/year divided by 365 and 5.4 million litres/training yields about 507–1,015 trainings/day, not hundreds of thousands. Model size or price is not a verified environmental ranking. Policy and per-query figures require separate verification.
 
+## Related Practices
 
-## Use in this collection
-
-Supporting account or variant; repeated advice is not independent validation.
+Related account; repeated advice is not independent validation.
 
 - [[choose-the-result-before-the-tool]]
 
 **Application boundary [Inference]:** Preserve the explicit accessibility caveat. A useful access aid is not waste simply because its benefit is personal.
 
-**Review scope:** Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
-
-Local evidence and locators: [source text](<../raw/illingworth-464-the-actual-environmental-cost-of-ai-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-464-the-actual-environmental-cost-of-ai-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

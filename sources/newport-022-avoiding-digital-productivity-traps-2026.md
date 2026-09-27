@@ -19,23 +19,17 @@ Author-proposed work-design heuristics with an anecdote about a professor obtain
 
 ## Key Insight
 
-The source proposes: Direct tool use toward meaningful progress and the limiting step. The reviewed account reports: No evaluation of these three interventions reported.
+The proposed routine is to direct tool use toward meaningful progress and the limiting step.
 
 ## Key Findings
 
-These are source-account summaries, not independently validated effects.
+No evaluation of these three interventions reported.
 
-- No evaluation of these three interventions reported.
+## Source Locations
 
-## Locators and coverage
-
-Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
+Article text only; linked pages and embedded media are not independently verified.
 
 - L23–39, Ideas 1–3
-
-## Relevance
-
-- Direct tool use toward meaningful progress and the limiting step.
 
 ## Supports / overlaps
 
@@ -46,15 +40,12 @@ Read the complete available article text in source.md, including examples, limit
 
 - The cited 164,000-worker study was not independently checked here. Paper counts and completed-project counts can distort quality; faster bottleneck work may expose a different bottleneck.
 
+## Related Practices
 
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[choose-the-result-before-the-tool]]
 
 **Application boundary [Inference]:** Ask the person to choose value and quality criteria; do not let AI choose the goal or equate more papers with better research.
 
-**Review scope:** Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
-
-Local evidence and locators: [source text](<../raw/newport-022-avoiding-digital-productivity-traps-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/newport-022-avoiding-digital-productivity-traps-2026/source.md>).

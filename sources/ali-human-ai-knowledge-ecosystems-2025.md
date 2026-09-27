@@ -6,15 +6,13 @@ sources:
   - "Ali, I., Nguyen, K., Ali, A. M., & Cui, T. (2025). Human–AI collaboration in knowledge ecosystems: A multidisciplinary review, integrative framework and future directions. Journal of Knowledge Management. https://doi.org/10.1108/JKM-03-2025-0431"
 ---
 
-# Ali et al. (2025)
+# Human–AI Collaboration in Knowledge Ecosystems
 
 ## Citation
 
 Ali, I., Nguyen, K., Ali, A. M., & Cui, T. (2025). Human–AI collaboration in knowledge ecosystems: A multidisciplinary review, integrative framework and future directions. Journal of Knowledge Management. https://doi.org/10.1108/JKM-03-2025-0431
 
 Author accepted manuscript, 38 PDF pages; first-page citation gives provisional journal pages 1–22. Locators use the supplied manuscript.
-
-Audit: [ingestion record](../raw/ali-human-ai-knowledge-ecosystems-2025/log.md).
 
 ## Type
 
@@ -56,7 +54,7 @@ Broadens the unit of analysis beyond a person interacting with a model. Does not
 - Internal date inconsistency: methods state 2020–22 December 2024 (p.8), while discussion says 2014–2024 (p.17). Exact coverage should not be repeated as settled.
 - The corpus includes reviews as well as primary studies; 101 articles is not 101 independent empirical tests.
 - Framework links are synthesized propositions, not one jointly estimated causal model.
-- Primary studies were not independently audited for this targeted contribution.
+- The review provides secondary synthesis, not independent replication of its primary studies.
 
 ## Open Questions
 

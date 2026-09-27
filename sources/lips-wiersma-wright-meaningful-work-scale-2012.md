@@ -49,13 +49,13 @@ Adds measurement discipline to [[ai-work-practice-ideal-types]]: adoption orient
 
 ## Contradicts / Extends
 
-Complements the batch's overall meaningful-work concept with a specific measurement approach. The model's dimensions are not automatically equivalent to three basic needs or Martela's four proposed pathways.
+Complements the broader concept of meaningful work with a specific measurement approach. The model's dimensions are not automatically equivalent to three basic needs or Martela's four proposed pathways.
 
 ## Limitations
 
 Convenience recruitment, predominantly educated employees, self-report, iterative item/model selection and limited blue-collar representation. Strong engagement correlation warrants construct-separation scrutiny.
 
-The printed confirmatory-factor-analysis results report chi-square 1148.38 with 370 degrees of freedom, CFI .972 and RMSEA .059 for 275 employees (PDF pp.16–17). The RMSEA does not reconcile with the reported chi-square, degrees of freedom and sample size under the usual unscaled calculation. The prior visual check confirmed these are printed values, not extraction errors; estimator/scaling details have not resolved the discrepancy. Treat the strength of this model-fit evidence as uncertain. No corrected statistic, universal scale validity, intervention efficacy or misconduct claim is inferred.
+The printed confirmatory-factor-analysis results report chi-square 1148.38 with 370 degrees of freedom, CFI .972 and RMSEA .059 for 275 employees (PDF pp.16–17). The RMSEA does not reconcile with the reported chi-square, degrees of freedom and sample size under the usual unscaled calculation. These are the printed values; the discrepancy remains unresolved without further estimator or scaling details. Treat the strength of this model-fit evidence as uncertain. No corrected statistic, universal scale validity, intervention efficacy or misconduct claim is inferred.
 
 ## Open Questions
 

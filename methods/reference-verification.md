@@ -17,7 +17,7 @@ The published workflow compares a reference's claimed title and other metadata w
 
 ## What To Do
 
-The first four steps adapt the authors' workflow for KB curation:
+The first four steps adapt the authors' workflow for reference checking:
 
 1. Retrieve the record behind the supplied DOI or PubMed identifier.
 2. Compare title, authors, year, and publication venue with the claimed reference.

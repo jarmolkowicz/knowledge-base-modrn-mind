@@ -51,10 +51,7 @@ Local original: [source.md](<../raw/lenny-658-how-to-build-a-team-that-2025/sour
 
 Ericsson and colleagues describe tasks designed around weaknesses, informative feedback, repeated attempts and suitable prior knowledge (PDF pp.5–6). This is a rationale for the variant, not a test of AI-generated reasoning cases. Macnamara and Maitra did not replicate the claimed complete correspondence between accumulated practice and skill-group ranking (PDF pp.15–16). Do not promise an expertise threshold or treat hours alone as sufficient.
 
-### Research review coverage
-
-- [[ericsson-deliberate-practice-1993]]: [retained original](<../raw/ericsson-deliberate-practice-1993/source.md>), L143–183; targeted original sections.
-- [[macnamara-maitra-deliberate-practice-replication-2019]]: [retained original](<../raw/macnamara-maitra-deliberate-practice-replication-2019/source.md>), L796–843; targeted original sections.
+Source passages: [[ericsson-deliberate-practice-1993]]: [retained original](<../raw/ericsson-deliberate-practice-1993/source.md>), L143–183. [[macnamara-maitra-deliberate-practice-replication-2019]]: [retained original](<../raw/macnamara-maitra-deliberate-practice-replication-2019/source.md>), L796–843.
 
 ## Limits
 
@@ -77,7 +74,7 @@ Many real product decisions involve values and uncertain evidence, not one deduc
 
 [Inference] Primary: independent-capability. Secondary: understanding. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[lenny-658-how-to-build-a-team-that-2025]] — origin.
 
@@ -85,15 +82,8 @@ Many real product decisions involve values and uncertain evidence, not one deduc
 
 - [[macnamara-maitra-deliberate-practice-replication-2019]] — research rationale or boundary; not the origin or direct validation of this practitioner routine.
 
-## Sources
-
-- [[lenny-658-how-to-build-a-team-that-2025]]
-- [[ericsson-deliberate-practice-1993]]
-- [[macnamara-maitra-deliberate-practice-replication-2019]]
-
-Recorded citations:
+Additional citations:
 
 - Hilary Gridley, interviewed by Lenny Rachitsky. How to build a team that can “take a punch” | Hilary Gridley (Head of Core Product, Whoop). 2025-06-15. https://www.youtube.com/watch?v=xm5QAzAlqEY
 - Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. Psychological Review, 100(3), 363–406. doi:10.1037/0033-295X.100.3.363
 - Macnamara & Maitra (2019)
-

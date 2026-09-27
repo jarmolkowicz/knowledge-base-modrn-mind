@@ -17,7 +17,7 @@ The authors propose four responses: make failures easier to recognize; allocate 
 
 ## What To Do
 
-[Inference] The following five-step checklist is a KB adaptation of the authors' four recommendations, including an added scoping question. It is not an author-tested protocol:
+[Inference] This untested checklist adapts the authors' four recommendations and adds an initial scoping question:
 
 1. Identify the decisions and capabilities people need to retain. Losing a minor task skill need not reduce their wider autonomy.
 2. Provide usable reasons to doubt an output: warnings about unusual inputs, missing context, or evidence for another conclusion. Do not assume an explanation or confidence score guarantees reliable warning.

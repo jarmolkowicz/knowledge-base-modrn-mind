@@ -32,44 +32,28 @@ Shishir Mehrotra (2022-08-14). The rituals of great teams | Shishir Mehrotra, Co
 
 ## Evidence and Rationale
 
-**Basis:** First-person practitioner interview and advice; relevant exchange read, not the entire interview.
+**Basis:** First-person practitioner interview and advice.
 
 **Observed or reported:** Reports the method in YouTube/Coda discussions and an interview exercise.
 
 **Intended:** Improve question selection and decision framing.
 
-**Related research:** No direct evaluation of this exact routine identified in this reading. Related entries below are context, not validation.
+**Related research:** The cited account does not directly evaluate this routine; related entries provide context, not validation.
 
 **Untested:** Causal effects on decision quality, retained unaided capability, confidence calibration and long-term use. A better artifact or a confident report cannot establish these.
 
 ## Limits
 
-No controlled learning evidence. The two-question limit is a practice constraint, not permission to omit safety or feasibility work in real decisions. Mathematical analogy not treated as a formal result.
+No controlled learning evidence. The two-question limit is a practice constraint, not permission to omit safety or feasibility work in real decisions.
 
 ## What to Notice
 
 [Inference] Can you show the downstream choice changed by each question? This is a proposed observation, not a validated measure.
 
-## Related
-
-No research claim attached to this draft. Source links below retain provenance.
-
-## Review Status
-
-
 ## Intended outcomes
 
 [Inference] Primary: independent-capability. Secondary: judgment. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Related
 
 - [[lenny-803-the-rituals-of-great-teams-shishir-2022]] — origin.
-
-## Sources
-
-- [[lenny-803-the-rituals-of-great-teams-shishir-2022]]
-
-Recorded citations:
-
-- Shishir Mehrotra (2022-08-14). The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft. Lenny's Podcast.
-

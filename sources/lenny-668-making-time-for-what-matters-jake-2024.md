@@ -20,23 +20,17 @@ Jake Knapp and John Zeratsky explain their Make Time framework with personal use
 
 ## Key Insight
 
-The source proposes: Protect a chosen meaningful period and learn which attention tactics fit. The reviewed account reports: Both describe recurring experimentation rather than perfect adherence; host reports finding a daily highlight useful.
+The proposed routine is to protect a chosen meaningful period and learn which attention tactics fit.
 
 ## Key Findings
 
-These are source-account summaries, not independently validated effects.
+Both describe recurring experimentation rather than perfect adherence; the host reports finding a daily highlight useful.
 
-- Both describe recurring experimentation rather than perfect adherence; host reports finding a daily highlight useful.
+## Source Locations
 
-## Locators and coverage
-
-Read metadata/intro and complete relevant exchanges with surrounding discussion at the locators below; not the full episode.
+Evidence is limited to the introduction and the complete exchanges at the locators below, with surrounding discussion; it does not cover the full episode.
 
 - 00:15:40–00:30:03, L147–235; highlight at 00:20:54; reflection at 00:23:14
-
-## Relevance
-
-- Protect a chosen meaningful period and learn which attention tactics fit.
 
 ## Supports / overlaps
 
@@ -46,15 +40,12 @@ Read metadata/intro and complete relevant exchanges with surrounding discussion 
 
 - This is a non-AI routine; adapting it to AI distraction is an inference. Suggested 60–90 minutes is not a validated minimum. Autonomy over calendars varies.
 
+## Related Practices
 
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[protect-a-daily-highlight]]
 
 **Application boundary [Inference]:** Pick a feasible block and revisit without treating missed days as failure.
 
-**Review scope:** Read metadata/intro and complete relevant exchanges with surrounding discussion at the locators below; not the full episode.
-
-Local evidence and locators: [source text](<../raw/lenny-668-making-time-for-what-matters-jake-2024/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/lenny-668-making-time-for-what-matters-jake-2024/source.md>).

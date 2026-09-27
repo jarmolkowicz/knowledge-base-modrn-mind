@@ -45,7 +45,7 @@ Provides [[ai-meaningful-work-design]] as a bounded descriptive framework, disti
 
 - [[meaningful-work]] — work-specific meaning; interpretation remains bounded by this source's design and limitations.
 
-- [[ai-meaningful-work-design]] — new batch framework.
+- [[ai-meaningful-work-design]] — five-dimension design framework.
 - [[agency]] — implementation controls can matter alongside task output.
 
 ## Contradicts / Extends

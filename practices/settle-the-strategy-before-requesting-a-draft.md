@@ -13,8 +13,6 @@ intended_outcomes:
 
 # Settle the strategy before requesting a draft
 
-Title is editorial, not a validated named method.
-
 ## Use When
 
 You are the accountable professional seeking help with an approach you can judge.
@@ -29,6 +27,8 @@ You are the accountable professional seeking help with an approach you can judge
 
 Paula Rojas, interviewed/profiled by Sabrina Ramonov. AI for Lawyers (3 Real Use Cases). 2026-08-05. https://www.sabrina.dev/p/ai-for-lawyers-3-real-use-cases
 
+Title is editorial, not a validated named method.
+
 Locators in `raw/ramonov-361-ai-for-lawyers-2026/source.md`: L74–78: irreversible actions require approval; L121–129: reported time and deadline review; L245–251: human strategy, plan, draft, citation checks; L283–311: recorded work, small pilot, later failure and human parallel checks; L327: sign-off.
 
 Source passages are paraphrased. Steps arrange the cited guidance; editorial additions are marked [Inference]. Support and failure cases are not independent validation.
@@ -41,7 +41,7 @@ Source passages are paraphrased. Steps arrange the cited guidance; editorial add
 
 **Related research:** [[metacognitive-demand]] concerns ongoing judgment effort. [[reference-verification]] applies to citations; neither establishes legality of a specific workflow.
 
-**Untested:** No direct evaluation of this complete routine was found in the reviewed material. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
+**Untested:** The cited sources do not directly evaluate this complete routine. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
 
 ## Limits
 
@@ -53,23 +53,14 @@ An expert account is not legal advice. Strategy itself can be wrong. Redacted co
 
 ## Related
 
-- [[agency]] — related local entry inspected; see rationale and limits above.
-- [[reference-verification]] — related local entry inspected; see rationale and limits above.
-- [[metacognitive-demand]] — related local entry inspected; see rationale and limits above.
+- [[agency]]
+- [[reference-verification]]
+- [[metacognitive-demand]]
 
 ## Intended outcomes
 
 [Inference] Primary: authorship-agency. Secondary: judgment. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[ramonov-361-ai-for-lawyers-2026]] — origin.
-
 ## Sources
 
-- [[ramonov-361-ai-for-lawyers-2026]]
-
-Recorded citations:
-
-- Paula Rojas, interviewed/profiled by Sabrina Ramonov. AI for Lawyers (3 Real Use Cases). 2026-08-05. https://www.sabrina.dev/p/ai-for-lawyers-3-real-use-cases
-
+- [[ramonov-361-ai-for-lawyers-2026]] — origin.

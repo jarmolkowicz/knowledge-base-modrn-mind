@@ -14,7 +14,7 @@ Vannoy, T. K., Cadieux, S., & Lyubomirsky, S. (2026). Human 2.0? AI and the futu
 
 Published June 3, 2026; supplied publisher PDF, 21 pages.
 
-Audit: [ingestion record](../raw/vannoy-human-2-wellbeing-2026/log.md).
+[Retained source text](../raw/vannoy-human-2-wellbeing-2026/source.md).
 
 ## Type
 
@@ -41,7 +41,7 @@ Separate AI delivering a structured activity, AI helping people communicate, and
 
 ## Relevance
 
-Supplies a useful use-context distinction for [[ai-loneliness-effect]], without adding another count of studies already represented in the KB.
+Distinguishes use contexts relevant to [[ai-loneliness-effect]]. Its discussion of existing studies is not additional independent evidence.
 
 ## Supports
 
@@ -55,8 +55,7 @@ Includes potential benefits rather than treating all social AI use as harmful. D
 
 - Selective narrative review; no exhaustive search, pooled estimate or formal risk-of-bias synthesis.
 - Groups older scripted tools and contemporary LLMs; purpose-built studies may not generalize to public chatbots.
-- Primary studies were not independently audited in this pass. Existing source-level qualifications take priority over broad review wording.
-- In particular, retain the KB's distinction between randomized conditions and self-selected usage in Fang, and between loneliness measures in Folk and Dunn; the review does not replace those boundaries.
+- Broad review summaries remain subject to the primary studies' design limits. In Fang, randomized conditions and self-selected usage support different inferences; Folk and Dunn use distinct loneliness measures.
 - Proposed long-term cognitive and social costs are not uniformly demonstrated outcomes, nor is the review clinical guidance.
 
 ## Open Questions

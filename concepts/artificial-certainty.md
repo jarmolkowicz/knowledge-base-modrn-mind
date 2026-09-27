@@ -25,7 +25,7 @@ Leonardi & Leavell (2026) found that the critical variable is not the AI tool it
 
 The distinction maps to "representations *of* the future" (claiming to show what will happen) versus "representations *for* the future" (tools to support deliberation about what might happen).
 
-Messeri & Crockett (2024) extend artificial certainty to the level of an entire knowledge-production community. Where Leonardi & Leavell describe AI representations stripping uncertainty markers from organizational decision-making, Messeri & Crockett describe the same dynamic operating across a scientific field: AI Oracles, Surrogates, Quants, and Arbiters each produce outputs whose visible confidence outruns their actual epistemic warrant, and the cumulative effect is a [[scientific-monoculture]] in which AI-friendly methods and standpoints crowd out alternatives. The two papers describe nested levels of the same mechanism — organizational artificial certainty (Leonardi & Leavell) is one mode of community-level monoculture (Messeri & Crockett).
+Messeri and Crockett (2024), in a Perspective, propose that AI-related illusions of understanding could contribute to [[scientific-monoculture]]. [Inference] This can be compared with Leonardi and Leavell's organizational cases, but the two papers do not establish nested levels of one measured mechanism. One studies representation and expert authority in two organizations; the other offers a field-level conceptual account.
 
 ## Related
 

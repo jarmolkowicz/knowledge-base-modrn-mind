@@ -12,9 +12,7 @@ sources:
 
 Baumeister, R. F., Vohs, K. D., Aaker, J. L., & Garbinsky, E. N. (2013). Some key differences between a happy life and a meaningful life. The Journal of Positive Psychology, 8(6), 505–516. https://doi.org/10.1080/17439760.2013.830764
 
-[Publisher record](https://www.tandfonline.com/doi/abs/10.1080/17439760.2013.830764) checked 2026-09-26. Supplied 22-page forthcoming manuscript; locators use manuscript pagination.
-
-Audit: [ingestion record](../raw/baumeister-happy-meaningful-life-2013/log.md).
+[Publisher record](https://www.tandfonline.com/doi/abs/10.1080/17439760.2013.830764). Supplied 22-page forthcoming manuscript; locators use manuscript pagination.
 
 ## Type
 

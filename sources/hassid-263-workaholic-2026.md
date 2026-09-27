@@ -4,14 +4,14 @@ area:
 - preservation
 type: article
 sources:
-- Ruben Hassid. Workaholic.. 2026-02-22. https://ruben.substack.com/p/ai-holic
+- Ruben Hassid. Workaholic. 2026-02-22. https://ruben.substack.com/p/ai-holic
 ---
 
 # Workaholic.
 
 ## Citation
 
-Ruben Hassid. Workaholic.. 2026-02-22. https://ruben.substack.com/p/ai-holic
+Ruben Hassid. Workaholic. 2026-02-22. https://ruben.substack.com/p/ai-holic
 
 ## Type and account basis
 
@@ -19,24 +19,18 @@ Ruben Hassid describes a company gameplan and supplies prompts; promotional news
 
 ## Key Insight
 
-The source proposes: Choose work with a clear purpose and set stopping boundaries. The reviewed account reports: Reports conversations with people who feel busier and more exhausted; no assessed outcomes of the proposed gameplan.
+The proposed routine is to choose work with a clear purpose and set stopping boundaries.
 
 ## Key Findings
 
-These are source-account summaries, not independently validated effects.
+The author reports conversations with people who feel busier and more exhausted; no assessed outcomes of the proposed gameplan.
 
-- Reports conversations with people who feel busier and more exhausted; no assessed outcomes of the proposed gameplan.
+## Source Locations
 
-## Locators and coverage
-
-Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
+Evidence is limited to the available article text; linked pages and embedded media are not assessed.
 
 - L97–141, five rules
 - L147–174, goal and weekly-audit prompts
-
-## Relevance
-
-- Choose work with a clear purpose and set stopping boundaries.
 
 ## Supports / overlaps
 
@@ -46,16 +40,13 @@ Read the complete available article text in source.md, including examples, limit
 
 - The three-for-one task deletion ratio and 8pm cutoff are arbitrary examples. Disagreeing with an AI audit is not evidence that it works. AI should not force one goal or decide what matters. Claims of addiction and Harvard confirmation are not established by this article.
 
+## Related Practices
 
-## Use in this collection
-
-Supporting account or variant; repeated advice is not independent validation.
+Related account; repeated advice is not independent validation.
 
 - [[choose-the-result-before-the-tool]]
 - [[carry-one-question-offline]]
 
 **Application boundary [Inference]:** Retain human goal choice and context-sensitive stopping time; allow several legitimate obligations.
 
-**Review scope:** Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
-
-Local evidence and locators: [source text](<../raw/hassid-263-workaholic-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/hassid-263-workaholic-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

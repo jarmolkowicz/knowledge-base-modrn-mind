@@ -65,5 +65,4 @@ Nosta (2026) offers additional practical guidance:
 
 ## Sources
 
-- Nosta, The Borrowed Mind (2026)
-
+- [[nosta-borrowed-mind-2026]] — Nosta, The Borrowed Mind (2026)

@@ -49,11 +49,11 @@ Adds a community-level concern to [[novice-vulnerability]]: getting an answer pr
 ## Contradicts / Extends
 
 - Extends the KB's mainly individual account of learning risks to shared knowledge production.
-- No new named concept or method is needed: community displacement and a social-fabric buffer are useful descriptions of findings and hypotheses, not independently validated constructs here.
+- Community displacement and a social-fabric buffer describe findings and hypotheses, not independently validated constructs.
 
 ## Open Questions
 
 - Causal interpretation assumes no coincident events explain the change; individual ChatGPT adoption was not observed.
 - Platform differences could explain the Reddit contrast; social ties were not directly manipulated or measured for each user.
 - The observation window is only several months and software-focused. Effects on workplace learning, other domains, and long-term participation remain unknown.
-- The article refers to a separate supplement. This draft uses the supplied eight-page main paper only; supplement-only results are not independently checked.
+- Evidence summarized here is limited to the eight-page main paper; the separate supplement is not included.

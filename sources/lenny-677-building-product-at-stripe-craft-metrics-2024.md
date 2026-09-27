@@ -22,23 +22,13 @@ Practitioner interview transcript
 
 ## Key Insight
 
-The source proposes: Learn through constructing an accountable explanation. The reviewed account reports: Reports rewriting after feedback that the draft did not sound like him.
+The proposed routine is to learn through constructing an accountable explanation. The speaker reports rewriting after feedback that the draft did not sound like him.
 
 ## Key Findings
 
-- **Reported:** Reports rewriting after feedback that the draft did not sound like him.
-- **Proposed benefit:** Learn through constructing an accountable explanation.
+Paraphrased source account; reported outcomes are not independently verified.
+
 - **Locators:** L790–803; 02:30:29–02:33:22
-
-These are paraphrases of the retained source, not independently verified findings.
-
-## Relevance
-
-Role: support. Decision: merge_as_support_with_limits.
-
-## Supports
-
-No canonical research connection asserted.
 
 ## Contradicts / Extends
 
@@ -48,19 +38,12 @@ One retrospective story with an unusually demanding role; no evidence this press
 
 Does this routine improve the intended outcome under a comparison that separates artifact quality, unaided capability and felt confidence?
 
-## Reading Coverage
+## Evidence Scope
 
-Read relevant complete transcript exchanges: L790–803; 02:30:29–02:33:22. Other interview sections not reviewed; source audio not checked.
+Transcript evidence: L790–803; 02:30:29–02:33:22. Limited to these exchanges; other interview sections and source audio are not assessed.
 
-## Decision
+## Related Practices
 
-
-## Use in this collection
-
-Supporting account or variant; repeated advice is not independent validation.
+Related guidance; repeated advice is not independent validation.
 
 - [[write-a-proposal-to-test-the-idea]]
-
-**Review scope:** Read relevant complete transcript exchanges: L790–803; 02:30:29–02:33:22. Other interview sections not reviewed; source audio not checked.
-
-Local evidence and locators: [source text](<../raw/lenny-677-building-product-at-stripe-craft-metrics-2024/source.md>). Source findings above are paraphrases unless explicitly quoted.

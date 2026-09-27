@@ -3,29 +3,30 @@ status: emerging
 area:
 - risk
 - preservation
+type: article
 sources:
-- Ruben Hassid. Vibecoding.. 2026-06-17. https://ruben.substack.com/p/the-claude-code-bible
+- Ruben Hassid. Vibecoding. 2026-06-17. https://ruben.substack.com/p/the-claude-code-bible
 ---
 
 # Vibecoding.
 
 ## Citation
 
-Ruben Hassid. Vibecoding.. 2026-06-17. https://ruben.substack.com/p/the-claude-code-bible
+Ruben Hassid. Vibecoding. 2026-06-17. https://ruben.substack.com/p/the-claude-code-bible
 
 ## Type and Scope
 
 Practitioner article.
 
-Full available extracted article, L1–625. Linked images, videos and external studies not inspected.
+Available article text, L1–625. Linked media and external studies are not independently verified.
 
 ## Key Insight
 
-The source proposes: Make an idea concrete for developer discussion. The reviewed account reports: Author reports communicating an idea with a prototype; production readiness and comprehension not evaluated.
+The proposed routine is to make an idea concrete for developer discussion. The author reports communicating an idea with a prototype; production readiness and comprehension not evaluated.
 
 ## Key Findings
 
-Paraphrases from `raw/hassid-339-vibecoding-2026/source.md`:
+Source details:
 
 - L35–75: prototype communication and team use
 - L212–220: intent and increments
@@ -35,14 +36,6 @@ Paraphrases from `raw/hassid-339-vibecoding-2026/source.md`:
 ## Evidence
 
 Practitioner account and proposed prototype handoff.
-
-Reported:
-
-- Author reports communicating an idea with a prototype; production readiness and comprehension not evaluated.
-
-Proposed, not demonstrated effects:
-
-- Make an idea concrete for developer discussion.
 
 ## Supports
 
@@ -55,15 +48,10 @@ Proposed, not demonstrated effects:
 - Bypass advice and delayed security review excluded.
 - Working screens do not prove maintainability or safe deployment.
 
-Assisted output, unaided capability, felt competence and calibration remain separate. This entry endorses no medical, legal, security or product-capability claim beyond the bounded source account.
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is a proposal, not a tested intervention.
 
 - [[use-a-prototype-to-brief-a-developer]]
 
-**Review scope:** Full available extracted article, L1–625. Linked images, videos and external studies not inspected.
-
-Local evidence and locators: [source text](<../raw/hassid-339-vibecoding-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/hassid-339-vibecoding-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

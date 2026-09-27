@@ -16,11 +16,12 @@ Kevin Yien, interviewed by Lenny Rachitsky. (2024-08-18). Unorthodox PM tips: Au
 
 ## Key Insight
 
-The source proposes: Create repeated opportunities to compare prior reasoning with later outcomes. The reviewed account reports: Reports learning from decision records; his Shopify example matched direction but missed some underlying reasons.
+The proposed routine is to create repeated opportunities to compare prior reasoning with later outcomes. The speaker reports learning from decision records; his Shopify example matched direction but missed some underlying reasons.
 
 ## Key Findings
 
-- Reports learning from decision records; his Shopify example matched direction but missed some underlying reasons.
+Paraphrased source account; reported outcomes are not independently verified.
+
 
 **Locators:** 00:35:13–00:42:42; L366–412; 00:44:07–00:45:02; L423–430. Findings paraphrased from the archived source, not quotations.
 
@@ -47,13 +48,10 @@ The source proposes: Create repeated opportunities to compare prior reasoning wi
 
 Guingrich, Mehta and Bhatt offer a conceptual account of [[belief-offloading]], not evidence that this routine prevents it.
 
+## Related Practices
 
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[keep-a-decision-and-outcome-log]]
 
-**Review scope:** Close-read complete relevant transcript exchanges at listed timestamps and surrounding context; not full 800-line transcript; audio/video not reviewed.
-
-Local evidence and locators: [source text](<../raw/lenny-710-unorthodox-pm-tips-automating-user-insights-2024/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/lenny-710-unorthodox-pm-tips-automating-user-insights-2024/source.md>).

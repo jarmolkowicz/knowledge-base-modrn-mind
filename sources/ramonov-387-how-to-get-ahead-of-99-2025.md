@@ -15,11 +15,12 @@ Sabrina Ramonov. (2025-11-15). How to Get Ahead of 99% of People. https://www.sa
 
 ## Key Insight
 
-The source proposes: Surface business risks and overlooked questions. The reviewed account reports: Reports avoiding a proposed marketing spend; the claim that it would have failed is counterfactual and unverified.
+The proposed routine is to surface business risks and overlooked questions. The author reports avoiding a proposed marketing spend; the claim that it would have failed is counterfactual and unverified.
 
 ## Key Findings
 
-- Reports avoiding a proposed marketing spend; the claim that it would have failed is counterfactual and unverified.
+Paraphrased source account; reported outcomes are not independently verified.
+
 
 **Locators:** L61–109, context and sparring prompts; L115–156, persistence setup. Findings paraphrased from the archived source, not quotations.
 
@@ -46,13 +47,10 @@ The source proposes: Surface business risks and overlooked questions. The review
 
 Guingrich, Mehta and Bhatt offer a conceptual account of [[belief-offloading]], not evidence that this routine prevents it.
 
+## Related Practices
 
-## Use in this collection
-
-Supporting account or variant; repeated advice is not independent validation.
+Related guidance; repeated advice is not independent validation.
 
 - [[answer-questions-about-your-belief]]
 
-**Review scope:** Close-read all 178 lines of available extracted article text; image-only content and linked media not reviewed.
-
-Local evidence and locators: [source text](<../raw/ramonov-387-how-to-get-ahead-of-99-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/ramonov-387-how-to-get-ahead-of-99-2025/source.md>).

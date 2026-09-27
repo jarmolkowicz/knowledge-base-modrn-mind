@@ -13,8 +13,6 @@ intended_outcomes:
 
 # Preview and approve before publishing
 
-Title is editorial, not a validated named method.
-
 ## Use When
 
 AI helps produce a public video, presentation or other artifact.
@@ -29,6 +27,8 @@ AI helps produce a public video, presentation or other artifact.
 
 Sabrina Ramonov. Claude Just Changed Content Creation Forever. 2026-03-20. https://www.sabrina.dev/p/claude-just-changed-content-creation-remotion-video
 
+Title is editorial, not a validated named method.
+
 Locators in `raw/ramonov-375-claude-just-changed-content-creation-forever-2026/source.md`: L76: preview before rendering; L84–104: wrong repository detail and evidence capture; L136–178: rough edits and human final review.
 
 Source passages are paraphrased. Steps arrange the cited guidance; editorial additions are marked [Inference]. Support and failure cases are not independent validation.
@@ -41,7 +41,7 @@ Source passages are paraphrased. Steps arrange the cited guidance; editorial add
 
 **Related research:** [[reference-verification]] concerns factual checks; review also involves authorship and [[agency]]. Neither validates a particular product.
 
-**Untested:** No direct evaluation of this complete routine was found in the reviewed material. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
+**Untested:** The cited sources do not directly evaluate this complete routine. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
 
 ## Limits
 
@@ -53,22 +53,13 @@ Final output can differ from a preview. Screenshots can be incomplete. This does
 
 ## Related
 
-- [[reference-verification]] — related local entry inspected; see rationale and limits above.
-- [[agency]] — related local entry inspected; see rationale and limits above.
+- [[reference-verification]]
+- [[agency]]
 
 ## Intended outcomes
 
 [Inference] Primary: work-quality. Secondary: accountability. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[ramonov-375-claude-just-changed-content-creation-forever-2026]] — origin.
-
 ## Sources
 
-- [[ramonov-375-claude-just-changed-content-creation-forever-2026]]
-
-Recorded citations:
-
-- Sabrina Ramonov. Claude Just Changed Content Creation Forever. 2026-03-20. https://www.sabrina.dev/p/claude-just-changed-content-creation-remotion-video
-
+- [[ramonov-375-claude-just-changed-content-creation-forever-2026]] — origin.

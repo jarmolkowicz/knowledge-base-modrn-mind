@@ -15,23 +15,19 @@ Ting Wang (Tzu-Ting), with Sam Illingworth. (2026-02-17). How to Use AI to Test 
 
 ## Key Insight
 
-The source proposes: Make practical reversibility and constraints explicit. The reviewed account reports: Wang reports that naming the cost of returning reduced felt pressure during a career choice; the account does not isolate AI’s contribution.
+The proposed routine is to make practical reversibility and constraints explicit.
 
 ## Key Findings
 
-- Wang reports that naming the cost of returning reduced felt pressure during a career choice; the account does not isolate AI’s contribution.
+Wang reports that naming the cost of returning reduced felt pressure during a career choice; the account does not isolate AI’s contribution.
 
-**Locators:** L24, attribution; L30–40, return-path prompt; L44–58, account and reflection. Findings paraphrased from the archived source, not quotations.
+**Locators:** L24, attribution; L30–40, return-path prompt; L44–58, account and reflection.
 
 ## Evidence
 
 **Basis:** First-person career account plus proposed AI inquiry.
 
-**Reported:** Wang reports that naming the cost of returning reduced felt pressure during a career choice; the account does not isolate AI’s contribution.
-
-**Proposed:** Make practical reversibility and constraints explicit.
-
-**Coverage:** Close-read all 98 lines of available extracted article text; image-only content and linked media not reviewed.
+**Evidence scope:** Available article text, 98 lines; image-only content and linked media are not assessed.
 
 ## Limits
 
@@ -46,13 +42,10 @@ The source proposes: Make practical reversibility and constraints explicit. The 
 
 Guingrich, Mehta and Bhatt offer a conceptual account of [[belief-offloading]], not evidence that this routine prevents it.
 
+## Related Practices
 
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is a proposal, not a tested intervention.
 
 - [[map-a-return-path]]
 
-**Review scope:** Close-read all 98 lines of available extracted article text; image-only content and linked media not reviewed.
-
-Local evidence and locators: [source text](<../raw/illingworth-413-how-to-use-ai-to-test-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-413-how-to-use-ai-to-test-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

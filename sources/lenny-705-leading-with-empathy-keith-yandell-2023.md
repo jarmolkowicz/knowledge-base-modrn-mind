@@ -21,23 +21,13 @@ Practitioner interview transcript
 
 ## Key Insight
 
-The source proposes: Improve understanding and resolve disagreement. The reviewed account reports: Describes a profitability/growth trade-off at DoorDash.
+The proposed routine is to improve understanding and resolve disagreement. The speaker describes a profitability/growth trade-off at DoorDash.
 
 ## Key Findings
 
-- **Reported:** Describes a profitability/growth trade-off at DoorDash.
-- **Proposed benefit:** Improve understanding and resolve disagreement.
+Paraphrased source account; reported outcomes are not independently verified.
+
 - **Locators:** L215–237; 00:27:23–00:31:08
-
-These are paraphrases of the retained source, not independently verified findings.
-
-## Relevance
-
-Role: origin. Decision: draft_with_limits.
-
-## Supports
-
-No canonical research connection asserted.
 
 ## Contradicts / Extends
 
@@ -47,19 +37,12 @@ Retrospective management account. Agreement or empathy does not prove a decision
 
 Does this routine improve the intended outcome under a comparison that separates artifact quality, unaided capability and felt confidence?
 
-## Reading Coverage
+## Evidence Scope
 
-Read relevant complete transcript exchanges: L215–237; 00:27:23–00:31:08. Other interview sections not reviewed; source audio not checked.
+Transcript evidence: L215–237; 00:27:23–00:31:08. Limited to these exchanges; other interview sections and source audio are not assessed.
 
-## Decision
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[argue-the-other-side-before-deciding]]
-
-**Review scope:** Read relevant complete transcript exchanges: L215–237; 00:27:23–00:31:08. Other interview sections not reviewed; source audio not checked.
-
-Local evidence and locators: [source text](<../raw/lenny-705-leading-with-empathy-keith-yandell-2023/source.md>). Source findings above are paraphrases unless explicitly quoted.

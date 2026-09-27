@@ -20,23 +20,17 @@ Mayur Kamat describes AI uses at companies and criticizes expanding short messag
 
 ## Key Insight
 
-The source proposes: Question unnecessary generation and reader burden. The reviewed account reports: Illustrative communication pattern; no evaluated intervention.
+The proposed routine is to question unnecessary generation and reader burden.
 
 ## Key Findings
 
-These are source-account summaries, not independently validated effects.
+The account illustrates a communication pattern; no evaluated intervention.
 
-- Illustrative communication pattern; no evaluated intervention.
+## Source Locations
 
-## Locators and coverage
-
-Read metadata/intro and complete relevant exchanges with surrounding discussion at the locators below; not the full episode.
+Evidence is limited to the introduction and the complete exchanges at the locators below, with surrounding discussion; it does not cover the full episode.
 
 - 01:15:00–01:19:14, L423–448; reverse-zip example at 01:18:13
-
-## Relevance
-
-- Question unnecessary generation and reader burden.
 
 ## Supports / overlaps
 
@@ -46,16 +40,13 @@ Read metadata/intro and complete relevant exchanges with surrounding discussion 
 
 - Longer text can add necessary context or accessibility. Company productivity claims are rough self-reports, not evidence for this communication heuristic.
 
+## Related Practices
 
-## Use in this collection
-
-Counterexample used to identify failure conditions; the source is not endorsed as a recommended procedure.
+An account of limitations relevant to the routine below.
 
 - [[choose-the-result-before-the-tool]]
 - [[carry-one-question-offline]]
 
 **Application boundary [Inference]:** Compare the information the reader needs, not word count alone.
 
-**Review scope:** Read metadata/intro and complete relevant exchanges with surrounding discussion at the locators below; not the full episode.
-
-Local evidence and locators: [source text](<../raw/lenny-739-unconventional-product-lessons-from-binance-n26-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/lenny-739-unconventional-product-lessons-from-binance-n26-2025/source.md>).

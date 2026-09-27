@@ -70,8 +70,7 @@ Additional test from Nosta (2026): "At its best, AI acts as a lens. But a lens i
 
 ## Sources
 
-- Nosta, The Borrowed Mind (2026)
+- [[nosta-borrowed-mind-2026]] — Nosta, The Borrowed Mind (2026)
 - [[guingrich-belief-offloading-2026]] — Guingrich, Mehta & Bhatt (2026)
 - [[chandra-sycophantic-delusional-2026]] — Chandra, Kleiman-Weiner, Ragan-Kelley & Tenenbaum (2026)
 - [[messeri-crockett-illusions-understanding-2024]] — Messeri, L. & Crockett, M. J. (2024). Artificial intelligence and illusions of understanding in scientific research. Nature, 627, 49–58.
-

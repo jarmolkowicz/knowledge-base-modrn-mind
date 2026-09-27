@@ -12,7 +12,7 @@ sources:
 
 Martela, F., Gómez, M., Unanue, W., Araya, S., Bravo, D., & Espejo, A. (2021). What makes work meaningful? Longitudinal evidence for the importance of autonomy and beneficence for meaningful work. Journal of Vocational Behavior, 131, 103631. https://doi.org/10.1016/j.jvb.2021.103631
 
-Canonical 15-page published version; 49-page preproof preserved as an alternate, not a second study.
+Locators refer to the 15-page published version. The 49-page preproof describes the same study.
 
 ## Type
 
@@ -49,7 +49,7 @@ Adds time-separated evidence about work meaning and helps distinguish felt compe
 
 ## Contradicts / Extends
 
-Qualifies the batch's Martela & Riekki (2018) cross-sectional four-pathway account: not all correlates were prospective predictors. The nonsignificant three-wave mediation also limits a broad 'beneficence always predicts later meaning' summary.
+Qualifies the Martela & Riekki (2018) cross-sectional four-pathway account: not all correlates were prospective predictors. The nonsignificant three-wave mediation also limits a broad 'beneficence always predicts later meaning' summary.
 
 ## Limitations
 

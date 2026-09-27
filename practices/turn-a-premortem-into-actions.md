@@ -44,7 +44,7 @@ Locators: 00:23:58–00:33:54; L176–222. Practice title is an editorial label.
 
 **Observed or reported:** Reports surfacing overlooked risks and teams later reusing a shared vocabulary; avoided failures remain counterfactual.
 
-**Related research:** No directly relevant evaluation of this routine was identified in this review. The practitioner account above supplies its rationale; the AI adaptation remains untested.
+**Related research:** The practitioner account provides the rationale, not a direct evaluation; the AI adaptation remains untested.
 
 **Untested:** Whether this specific procedure improves judgment, independent capability, creative quality or calibration beyond the reported experience. A completed artifact, more options and felt clarity are different outcomes.
 
@@ -62,22 +62,11 @@ Locators: 00:23:58–00:33:54; L176–222. Practice title is an editorial label.
 
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 
-
 ## Intended outcomes
 
 [Inference] Primary: judgment. Secondary: accountability. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[lenny-550-this-will-make-you-a-better-2024]] — origin.
 - [[lenny-804-the-art-of-product-management-shreyas-2022]] — origin.
-
-## Sources
-
-- [[lenny-550-this-will-make-you-a-better-2024]]
-- [[lenny-804-the-art-of-product-management-shreyas-2022]]
-
-Recorded citations:
-
-- Shreyas Doshi, interviewed by Lenny Rachitsky. (2022-08-25). The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo). https://www.youtube.com/watch?v=YP_QghPLG-8
-

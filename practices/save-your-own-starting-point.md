@@ -38,7 +38,7 @@ Local original: [source.md](<../raw/mollick-066-against-brain-damage-2025/source
 
 **Basis / observed or reported:** Mollick reports his writing routine; Cagan reports a change in practitioner advice. Illingworth proposes counting occasions when no AI answer was needed. None tests this consolidated routine.
 
-**Related research:** Overlaps [[think-first]], already labeled an inference in the KB. [[bjork-desirable-difficulties-2011]] supports distinguishing generation opportunities from fluent performance, with prerequisites; it did not test this AI sequence.
+**Related research:** Overlaps [[think-first]], a related untested proposal. [[bjork-desirable-difficulties-2011]] supports distinguishing generation opportunities from fluent performance, with prerequisites; it did not test this AI sequence.
 
 **Untested:** Reduced anchoring, greater authorship, improved creative work and retained unaided ability. These should not be inferred from simply saving an initial note.
 
@@ -59,7 +59,7 @@ The initial view can be wrong and can itself anchor later judgment. Keep it revi
 
 [Inference] Primary: authorship-agency. Secondary: judgment. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[illingworth-slow-ai-2026]] — support.
 - [[nosta-borrowed-mind-2026]] — origin.
@@ -67,15 +67,6 @@ The initial view can be wrong and can itself anchor later judgment. Keep it revi
 - [[mollick-066-against-brain-damage-2025]] — origin.
 - [[lenny-729-product-management-theater-marty-cagan-2024]] — support.
 
-## Sources
-
-- [[illingworth-slow-ai-2026]]
-- [[nosta-borrowed-mind-2026]]
-- [[mollick-064-15-times-to-use-ai-and-2024]]
-- [[mollick-066-against-brain-damage-2025]]
-- [[lenny-729-product-management-theater-marty-cagan-2024]]
-
-Recorded citations:
+Additional citations:
 
 - Ethan Mollick. Against Brain Damage. 2025-07-07. https://www.oneusefulthing.org/p/against-brain-damage
-

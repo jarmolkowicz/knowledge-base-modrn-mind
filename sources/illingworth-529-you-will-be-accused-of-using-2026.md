@@ -4,16 +4,14 @@ area:
 - preservation
 type: article
 sources:
-- Sam Illingworth (2026-08-07). You Will Be Accused of Using AI. Here Is How to Prove You Wrote It.. Sam Illingworth.
+- Sam Illingworth (2026-08-07). You Will Be Accused of Using AI. Here Is How to Prove You Wrote It. Sam Illingworth.
 ---
 
 # You Will Be Accused of Using AI. Here Is How to Prove You Wrote It.
 
 ## Citation
 
-Sam Illingworth (2026-08-07). You Will Be Accused of Using AI. Here Is How to Prove You Wrote It.. Sam Illingworth.
-
-[Retained original](<../raw/illingworth-529-you-will-be-accused-of-using-2026/source.md>).
+Sam Illingworth (2026-08-07). You Will Be Accused of Using AI. Here Is How to Prove You Wrote It. Sam Illingworth.
 
 ## Type
 
@@ -21,23 +19,15 @@ Practitioner newsletter article
 
 ## Key Insight
 
-The source proposes: Make the creation process inspectable. The reviewed account reports: Describes his own speaking, editing and research workflow.
+The proposed routine is to make the creation process inspectable.
 
 ## Key Findings
 
-- **Reported:** Describes his own speaking, editing and research workflow.
-- **Proposed benefit:** Make the creation process inspectable.
+The author describes his own speaking, editing and research workflow.
+
+## Source Locations
+
 - **Locators:** L83–108, L134–160
-
-These are paraphrases of the retained source, not independently verified findings.
-
-## Relevance
-
-Role: origin. Decision: draft_with_limits.
-
-## Supports
-
-No canonical research connection asserted.
 
 ## Contradicts / Extends
 
@@ -47,19 +37,14 @@ Records are evidence, not conclusive proof of authorship or guaranteed defense a
 
 Does this routine improve the intended outcome under a comparison that separates artifact quality, unaided capability and felt confidence?
 
-## Reading Coverage
+## Evidence Scope
 
-Read the complete available local article body; linked images, videos and external claims not independently inspected.
+Evidence is limited to the available article text; linked media and external claims are not independently verified.
 
-## Decision
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is a proposal, not a tested intervention.
 
 - [[keep-a-writing-process-record]]
 
-**Review scope:** Read the complete available local article body; linked images, videos and external claims not independently inspected.
-
-Local evidence and locators: [source text](<../raw/illingworth-529-you-will-be-accused-of-using-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-529-you-will-be-accused-of-using-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

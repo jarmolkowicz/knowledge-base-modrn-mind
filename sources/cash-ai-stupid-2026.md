@@ -14,8 +14,6 @@ Cash, T. N., Kelly, M. O., Macnamara, B. N., & Risko, E. F. (2026). Is AI making
 
 Supplied three-page journal pre-proof with volume/issue placeholders. Locators refer to this file. Citation and DOI printed in the paper.
 
-Audit: [ingestion record](../raw/cash-ai-stupid-2026/log.md).
-
 ## Type
 
 Science & Society commentary; selective synthesis and argument, not a new experiment or meta-analysis.

@@ -32,13 +32,13 @@ Nicole Forsgren (2025-10-19). How to measure AI developer productivity in 2025 |
 
 ## Evidence and Rationale
 
-**Basis:** First-person practitioner interview and advice; relevant exchange read, not the entire interview.
+**Basis:** First-person practitioner interview and advice.
 
 **Observed or reported:** Explains why a build-and-test/slow-or-complicated item is ambiguous.
 
 **Intended:** Make survey responses interpretable.
 
-**Related research:** No direct evaluation of this exact routine identified in this reading. Related entries below are context, not validation.
+**Related research:** The cited account does not directly evaluate this routine; related entries provide context, not validation.
 
 **Untested:** Causal effects on decision quality, retained unaided capability, confidence calibration and long-term use. A better artifact or a confident report cannot establish these.
 
@@ -50,26 +50,10 @@ Expert advice and worked example, not a test of AI survey design. A model callin
 
 [Inference] Can you explain what you would do differently for each answer? This is a proposed observation, not a validated measure.
 
-## Related
-
-No research claim attached to this draft. Source links below retain provenance.
-
-## Review Status
-
-
 ## Intended outcomes
 
 [Inference] Primary: work-quality. Secondary: judgment. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Related
 
 - [[lenny-760-how-to-measure-ai-developer-productivity-2025]] — origin.
-
-## Sources
-
-- [[lenny-760-how-to-measure-ai-developer-productivity-2025]]
-
-Recorded citations:
-
-- Nicole Forsgren (2025-10-19). How to measure AI developer productivity in 2025 | Nicole Forsgren. Lenny's Podcast.
-

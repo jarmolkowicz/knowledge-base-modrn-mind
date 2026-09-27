@@ -47,7 +47,7 @@ Locators: L515–535, Archive-to-Argument; L419–427, advising versus acting. P
 
 - Three generated options can all share the same framing.
 - Choosing an argument does not establish that generated prose is personally authored.
-- Product, pricing and security claims elsewhere are not adopted; selecting a paid plan does not itself settle data permissions.
+- Selecting a paid plan does not itself settle data permissions.
 
 ## What to Notice
 
@@ -58,20 +58,10 @@ Locators: L515–535, Archive-to-Argument; L419–427, advising versus acting. P
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 - [[doshi-hauser-creativity-diversity-2024]] — bounded research context described above.
 
-
 ## Intended outcomes
 
 [Inference] Primary: authorship-agency. Secondary: creative-development. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[hassid-286-fable-5-2026]] — origin.
-
 ## Sources
 
-- [[hassid-286-fable-5-2026]]
-
-Recorded citations:
-
-- Ruben Hassid. (2026-07-08). Fable 5.. https://ruben.substack.com/p/dont-use-claude-fable-5
-
+- [[hassid-286-fable-5-2026]] — origin.

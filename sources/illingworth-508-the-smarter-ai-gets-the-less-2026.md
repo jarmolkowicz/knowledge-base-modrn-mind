@@ -3,11 +3,12 @@ status: emerging
 area:
 - risk
 - preservation
+type: article
 sources:
 - Sam Illingworth. The Smarter AI Gets, the Less You Can Trust It on the Hard Stuff . 2026-04-29. https://theslowai.substack.com/p/smarter-ai-less-reliable-hot-mess
 ---
 
-# The Smarter AI Gets, the Less You Can Trust It on the Hard Stuff 
+# The Smarter AI Gets, the Less You Can Trust It on the Hard Stuff
 
 ## Citation
 
@@ -17,15 +18,15 @@ Sam Illingworth. The Smarter AI Gets, the Less You Can Trust It on the Hard Stuf
 
 Practitioner article.
 
-Full available extracted article, L1–143. Linked images, videos and external studies not inspected.
+Available article text, L1–143. Linked media and external studies are not independently verified.
 
 ## Key Insight
 
-The source proposes: Notice inconsistency and distinguish checked from unchecked content. 
+The proposed routine is to notice inconsistency and distinguish checked from unchecked content.
 
 ## Key Findings
 
-Paraphrases from `raw/illingworth-508-the-smarter-ai-gets-the-less-2026/source.md`:
+Source details:
 
 - L95–103: fresh repetitions and reasoning-mode comparison
 - L113–119: different-tool check and unverified-content disclosure
@@ -34,14 +35,6 @@ Paraphrases from `raw/illingworth-508-the-smarter-ai-gets-the-less-2026/source.m
 ## Evidence
 
 Proposed routines described as personally used, attached to a secondary research summary.
-
-Reported:
-
-- None reported in the reviewed material.
-
-Proposed, not demonstrated effects:
-
-- Notice inconsistency and distinguish checked from unchecked content.
 
 ## Supports
 
@@ -55,15 +48,10 @@ Proposed, not demonstrated effects:
 - Different models are not independent verification; randomness does not make auditing impossible.
 - Underlying paper not independently checked.
 
-Assisted output, unaided capability, felt competence and calibration remain separate. This entry endorses no medical, legal, security or product-capability claim beyond the bounded source account.
+## Related Practices
 
-
-## Use in this collection
-
-Supporting account or variant; repeated advice is not independent validation.
+Related account; repeated advice is not independent validation.
 
 - [[test-ai-on-the-work-it-will-do]]
 
-**Review scope:** Full available extracted article, L1–143. Linked images, videos and external studies not inspected.
-
-Local evidence and locators: [source text](<../raw/illingworth-508-the-smarter-ai-gets-the-less-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-508-the-smarter-ai-gets-the-less-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

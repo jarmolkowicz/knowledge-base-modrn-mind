@@ -64,24 +64,12 @@ Locators: 00:09:00–00:11:14; L116–129. Practice title is an editorial label.
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 - [[bastani-guardrails-math-rct-2025]] — bounded research context described above.
 
-
 ## Intended outcomes
 
 [Inference] Primary: independent-capability. Secondary: understanding. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[illingworth-474-there-is-no-one-right-way-2026]] — support.
 - [[lenny-714-kunal-shah-on-winning-in-india-2024]] — support.
 - [[lenny-750-anthropic-s-cpo-on-what-comes-2025]] — origin.
-
-## Sources
-
-- [[illingworth-474-there-is-no-one-right-way-2026]]
-- [[lenny-714-kunal-shah-on-winning-in-india-2024]]
-- [[lenny-750-anthropic-s-cpo-on-what-comes-2025]]
-
-Recorded citations:
-
-- Mike Krieger, interviewed by Lenny Rachitsky. (2025-06-05). Anthropic's CPO on what comes next | Mike Krieger (co-founder of Instagram). https://www.youtube.com/watch?v=DKrBGOFs0GY
-

@@ -15,23 +15,19 @@ Sam Illingworth. (2025-08-12). Teach AI the Wrong Answer. https://theslowai.subs
 
 ## Key Insight
 
-The source proposes: Generate unfamiliar associations for creative work. The reviewed account reports: Author found a poetic association in a deliberately wrong answer; no creativity outcome measure.
+The proposed routine is to generate unfamiliar associations for creative work.
 
 ## Key Findings
 
-- Author found a poetic association in a deliberately wrong answer; no creativity outcome measure.
+The author found a poetic association in a deliberately wrong answer; no creativity outcome measure.
 
-**Locators:** L24–39, procedure; L43–56, demonstration; L60–70, use and limits. Findings paraphrased from the archived source, not quotations.
+**Locators:** L24–39, procedure; L43–56, demonstration; L60–70, use and limits.
 
 ## Evidence
 
 **Basis:** Playful proposed exercise with a short demonstration.
 
-**Reported:** Author found a poetic association in a deliberately wrong answer; no creativity outcome measure.
-
-**Proposed:** Generate unfamiliar associations for creative work.
-
-**Coverage:** Close-read all 116 lines of available extracted article text; image-only content and linked media not reviewed.
+**Evidence scope:** Available article text, 116 lines; image-only content and linked media are not assessed.
 
 ## Limits
 
@@ -46,13 +42,10 @@ The source proposes: Generate unfamiliar associations for creative work. The rev
 
 Doshi and Hauser’s short-story experiment separates ratings of individual outputs from diversity across outputs. It does not evaluate this practice or establish lasting creative skill.
 
+## Related Practices
 
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is a proposal, not a tested intervention.
 
 - [[use-a-creative-constraint-and-respond]]
 
-**Review scope:** Close-read all 116 lines of available extracted article text; image-only content and linked media not reviewed.
-
-Local evidence and locators: [source text](<../raw/illingworth-488-teach-ai-the-wrong-answer-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-488-teach-ai-the-wrong-answer-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.

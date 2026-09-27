@@ -17,8 +17,6 @@ intended_outcomes:
 
 # Use a prototype to brief a developer
 
-Title is editorial, not a validated named method.
-
 ## Use When
 
 You want to make an idea concrete for discussion with a developer who can assess production needs.
@@ -32,6 +30,8 @@ You want to make an idea concrete for discussion with a developer who can assess
 ## Origin
 
 Ruben Hassid. Vibecoding.. 2026-06-17. https://ruben.substack.com/p/the-claude-code-bible
+
+Title is editorial, not a validated named method.
 
 Locators in `raw/hassid-339-vibecoding-2026/source.md`: L35–75: prototype communication and team use; L212–220: intent and increments; L277–289: human testing; L537–562: developer handoff and known gaps.
 
@@ -53,7 +53,7 @@ Source passages are paraphrased. Steps arrange the cited guidance; editorial add
 
 **Related research:** [[shen-skill-formation-2026]] distinguishes completion from skill formation in a different, bounded coding study. It does not validate this prototyping routine.
 
-**Untested:** No direct evaluation of this complete routine was found in the reviewed material. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
+**Untested:** The cited sources do not directly evaluate this complete routine. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
 
 ## Limits
 
@@ -65,29 +65,16 @@ Screens cannot establish backend correctness or safe data handling. Exclude perm
 
 ## Related
 
-- [[agency]] — related local entry inspected; see rationale and limits above.
-- [[automation-bias]] — related local entry inspected; see rationale and limits above.
-- [[shen-skill-formation-2026]] — related local entry inspected; see rationale and limits above.
+- [[agency]]
+- [[automation-bias]]
+- [[shen-skill-formation-2026]]
 
 ## Intended outcomes
 
 [Inference] Primary: shared-understanding. Secondary: work-quality. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[hassid-275-claude-code-2026]] — counterexample.
 - [[hassid-339-vibecoding-2026]] — origin.
 - [[ramonov-350-10-year-old-vibe-codes-2-2026]] — support.
-
-## Sources
-
-- [[hassid-275-claude-code-2026]]
-- [[hassid-339-vibecoding-2026]]
-- [[ramonov-350-10-year-old-vibe-codes-2-2026]]
-
-Recorded citations:
-
-- Ruben Hassid. Vibecoding.. 2026-06-17. https://ruben.substack.com/p/the-claude-code-bible
-- Sabrina Ramonov. 10 Year Old Vibe Codes 2 Apps. 2026-01-03. https://www.sabrina.dev/p/10-year-old-vibe-codes-2-apps
-- Ruben Hassid. Claude Code.. 2026-03-19. https://ruben.substack.com/p/claude-code
-

@@ -15,28 +15,22 @@ Sam Illingworth. You Did Not Learn That With AI. 2026-08-05. https://theslowai.s
 
 ## Type and account basis
 
-Sam Illingworth proposes diagnosis-before-feedback and reconstruction, drawing on three studies not independently reviewed in this allocation.
+Sam Illingworth proposes diagnosis-before-feedback and reconstruction, drawing on three studies not independently reviewed for this account.
 
 ## Key Insight
 
-The source proposes: Compare one’s own diagnosis with feedback, then reconstruct reasoning. The reviewed account reports: No evaluation of the complete four-move protocol. Reports trial and correlational findings from other sources.
+The proposed routine is to compare one’s own diagnosis with feedback, then reconstruct reasoning.
 
 ## Key Findings
 
-These are source-account summaries, not independently validated effects.
+The account includes no evaluation of the complete four-move protocol. It summarizes trial and correlational findings from other sources.
 
-- No evaluation of the complete four-move protocol. Reports trial and correlational findings from other sources.
+## Source Locations
 
-## Locators and coverage
-
-Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
+Evidence is limited to the available article text; linked pages and embedded media are not assessed.
 
 - L31–107, study accounts
 - L111–145, four-move protocol
-
-## Relevance
-
-- Compare one’s own diagnosis with feedback, then reconstruct reasoning.
 
 ## Supports / overlaps
 
@@ -48,15 +42,12 @@ Read the complete available article text in source.md, including examples, limit
 
 - Model disagreement is not a cure for sycophancy. Broad conceptual questions are not always superior to procedural ones. Cited new studies need original-source review before their effect claims are reused.
 
+## Related Practices
 
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is a proposal, not a tested intervention.
 
 - [[diagnose-your-draft-before-feedback]]
 
 **Application boundary [Inference]:** Teacher support is needed where learners cannot diagnose their work; allow oral/drawn reconstruction and errors as information.
 
-**Review scope:** Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
-
-Local evidence and locators: [source text](<../raw/illingworth-422-you-did-not-learn-that-with-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-422-you-did-not-learn-that-with-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

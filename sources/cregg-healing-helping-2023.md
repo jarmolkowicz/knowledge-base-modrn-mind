@@ -32,7 +32,7 @@ Reduced public self-absorption—preoccupation with how others see oneself—was
 
 ## Key Passages
 
-Quotations preserve the wording; PDF line breaks and divided words (`parti -` / `cipants`, `hon -` / `ing`) are joined.
+Quotation line breaks and divided words are normalized.
 
 > "participants were instructed to perform three acts of kindness each day for two days out of the week"
 > — Cregg & Cheavens, printed p. 930 [p.8], Procedures
@@ -62,4 +62,4 @@ Offers a concrete, tested human-directed activity for the preservation side of t
 - Pandemic restrictions affected 24 participants and ended recruitment. Generalization beyond this sample needs testing.
 - Without a no-activity group, within-group improvement does not establish absolute intervention efficacy.
 - The comparison is with largely self-directed components, not full clinical care. Benefits for recipients, virtual delivery, and AI-companion users were not measured.
-- Separate online supplements were not supplied or independently checked; the draft uses the main paper's methods, results, and tables.
+- This summary covers the main paper's methods, results and tables; separate supplements are not included.

@@ -19,7 +19,7 @@ Steven D. Shaw & Gideon Nave, The Wharton School, University of Pennsylvania (20
 
 Modern decision-making unfolds within a triadic cognitive ecology, not a purely internal dual-process system. AI (System 3) is not merely a tool — it is a functional cognitive agent whose presence reshapes how and when humans engage their own faculties. The central question shifts from "Is this judgment fast or slow?" to "Whose cognition produced this judgment?"
 
-Note that Tri-System Theory is one of two sibling extensions of Kahneman's dual-process model published in this period. Chiriatti, Ganapini, Panai, Ubiali, and Riva (2024) propose **System 0** in *Nature Human Behaviour* — a foundational substrate operating *underneath* System 1 and System 2, preprocessing the inputs they receive. Where Shaw & Nave's **System 3** is positioned on the *output* side of decisions (a parallel cognitive agent that competes for or replaces internal reasoning), Chiriatti et al.'s **System 0** is positioned on the *input* side (a substrate that shapes what reaches the mind in the first place). The two framings are complementary rather than rivals — together they describe AI's effect on cognition at both ends of the decision pipeline. Neither paper cites the other; treating them as a unified picture is an integration left to the reader.
+Note that Tri-System Theory is one of two sibling extensions of Kahneman's dual-process model published in this period. Chiriatti, Ganapini, Panai, Ubiali, and Riva (2024) propose **System 0** in *Nature Human Behaviour* — a foundational substrate operating *underneath* System 1 and System 2, preprocessing the inputs they receive. Where Shaw & Nave's **System 3** is positioned on the *output* side of decisions (a parallel cognitive agent that competes for or replaces internal reasoning), Chiriatti et al.'s **System 0** is positioned on the *input* side (a substrate that shapes what reaches the mind in the first place). [Inference] These framings may be complementary, but their combination is an interpretation rather than a unified model tested by either paper.
 
 ## Key Components
 
@@ -55,7 +55,7 @@ These are theoretical process descriptions. Advice-following and override behavi
 - The "system" metaphor inherits the well-known criticisms of dual-process theory itself (Melnikoff & Bargh, 2018; Keren & Schul, 2009) — whether these are truly distinct "systems" vs. points on a continuum remains debatable
 - Does not address [[embodied-cognition|embodied cognition]], emotional reasoning, or the role of domain expertise in moderating surrender
 - Framing AI as a "cognitive agent" may overstate AI's role — AI has no goals, no understanding, and no stake in outcomes; calling it a "system" alongside biological cognition risks anthropomorphizing
-- Preprint status (SSRN) — not yet peer-reviewed as of screening date
+- The cited version is an SSRN preprint.
 
 ## Related
 

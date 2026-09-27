@@ -39,7 +39,7 @@ PDF pp.6–7, research-site description; pp.26–27, representations of/for the 
 
 ## Evidence and Rationale
 
-**Basis:** Comparative ethnography of two urban-planning organizations using the same simulation technology, plus author recommendations. Selected original sections reviewed.
+**Basis:** Comparative ethnography of two urban-planning organizations using the same simulation technology, plus author recommendations.
 
 **Observed or reported:** The authors describe contrasting ways of framing representations and expert authority. They explicitly note a trade-off: heavy caveats or reduced detail may dampen stakeholder interest. They propose pairing engagement with visible uncertainty.
 
@@ -61,14 +61,6 @@ The study does not causally prove that this checklist improves decisions. Less d
 - [[modulation-practice]]
 - [[match-confidence-to-evidence]]
 
-## Source roles
-
-- [[leonardi-artificial-certainty-2026]] — origin of the research, recommendation or framework; exact editorial additions identified above.
-
 ## Sources
 
-- [[leonardi-artificial-certainty-2026]]
-
-Recorded citations:
-
-- Leonardi, P. M., & Leavell, V. (2026). Knowing Enough to Be Dangerous: The Problem of 'Artificial Certainty' for Expert Authority When Using AI for Decision Making and Planning. Organization Science. https://doi.org/10.1287/orsc.2023.18224
+- [[leonardi-artificial-certainty-2026]] — origin of the research, recommendation or framework; exact editorial additions identified above.

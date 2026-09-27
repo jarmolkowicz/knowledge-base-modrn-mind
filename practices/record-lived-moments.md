@@ -32,13 +32,13 @@ Matthew Dicks (2023-12-15). How to tell better stories | Matthew Dicks (Storywor
 
 ## Evidence and Rationale
 
-**Basis:** First-person practitioner interview and advice; relevant exchange read, not the entire interview.
+**Basis:** First-person practitioner interview and advice.
 
 **Observed or reported:** Reports collecting more moments over years and using some in stories.
 
 **Intended:** Notice experience and build a personal story archive.
 
-**Related research:** No direct evaluation of this exact routine identified in this reading. Related entries below are context, not validation.
+**Related research:** The cited account does not directly evaluate this routine; related entries provide context, not validation.
 
 **Untested:** Causal effects on decision quality, retained unaided capability, confidence calibration and long-term use. A better artifact or a confident report cannot establish these.
 
@@ -50,26 +50,10 @@ Self-reported frequency and coaching testimonials; no memory or therapeutic eval
 
 [Inference] Which details would you otherwise have forgotten, and which interpretations need checking? This is a proposed observation, not a validated measure.
 
-## Related
-
-No research claim attached to this draft. Source links below retain provenance.
-
-## Review Status
-
-
 ## Intended outcomes
 
 [Inference] Primary: creative-development. Secondary: authorship-agency. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Related
 
 - [[lenny-737-how-to-tell-better-stories-matthew-2023]] — origin.
-
-## Sources
-
-- [[lenny-737-how-to-tell-better-stories-matthew-2023]]
-
-Recorded citations:
-
-- Matthew Dicks (2023-12-15). How to tell better stories | Matthew Dicks (Storyworthy). Lenny's Podcast.
-

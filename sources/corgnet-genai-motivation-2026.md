@@ -63,4 +63,4 @@ Useful counterevidence to universal motivational-harm claims. It shows that comp
 - Would the finding survive replacing a familiar colleague, repeating work for months, or using a less agreeable system?
 - Does improved self-report eventually produce greater voluntary engagement? The immediate behavioral comparison did not show this.
 - Matching attrition, unequal partner availability, model behavior, and short paid tasks limit workplace interpretation.
-- Preregistration is reported in the manuscript; the registry and publication status have not been checked externally during this distillation.
+- Preregistration is reported by the authors; independent registry verification is not supplied.

@@ -14,7 +14,7 @@ Frenzel-Piasentin, A., Finze, N., & Kosok, M. (2026). “You Don't Have To Use W
 
 ## Type
 
-Completed conference research paper; exploratory qualitative study. Frenzel-Piasentin is one author's surname. The workbench's “AI avoidance” label is narrower than the actual research question.
+Completed conference research paper; exploratory qualitative study.
 
 ## Key Insight
 

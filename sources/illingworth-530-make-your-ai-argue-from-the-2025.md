@@ -15,23 +15,19 @@ Harry O’Hanley, with Sam Illingworth. (2025-11-11). Make Your AI Argue from th
 
 ## Key Insight
 
-The source proposes: Challenge present assumptions through alternative constraints, then test a small change. The reviewed account reports: O’Hanley reports choosing an older structure design for engineering simplicity; the account does not say AI caused that decision. Reader comments report useful missing-chapter edits.
+The proposed routine is to challenge present assumptions through alternative constraints, then test a small change.
 
 ## Key Findings
 
-- O’Hanley reports choosing an older structure design for engineering simplicity; the account does not say AI caused that decision. Reader comments report useful missing-chapter edits.
+O’Hanley reports choosing an older structure design for engineering simplicity; the account does not say AI caused that decision. Reader comments report useful missing-chapter edits.
 
-**Locators:** L42–56, time-period prompt and test; L76–96, engineering example; L146–156, reader reports on 524. Findings paraphrased from the archived source, not quotations.
+**Locators:** L42–56, time-period prompt and test; L76–96, engineering example; L146–156, reader reports on [[illingworth-524-when-your-writing-wobbles-listen-for-2025]].
 
 ## Evidence
 
 **Basis:** Proposed AI prompt plus separate professional anecdote.
 
-**Reported:** O’Hanley reports choosing an older structure design for engineering simplicity; the account does not say AI caused that decision. Reader comments report useful missing-chapter edits.
-
-**Proposed:** Challenge present assumptions through alternative constraints, then test a small change.
-
-**Coverage:** Close-read all 182 lines of available extracted article text; image-only content and linked media not reviewed.
+**Evidence scope:** Available article text, 182 lines; image-only content and linked media are not assessed.
 
 ## Limits
 
@@ -46,13 +42,10 @@ The source proposes: Challenge present assumptions through alternative constrain
 
 Doshi and Hauser’s short-story experiment separates ratings of individual outputs from diversity across outputs. It does not evaluate this practice or establish lasting creative skill.
 
+## Related Practices
 
-## Use in this collection
-
-Supporting account or variant; repeated advice is not independent validation.
+Related account; repeated advice is not independent validation.
 
 - [[test-one-creative-change]]
 
-**Review scope:** Close-read all 182 lines of available extracted article text; image-only content and linked media not reviewed.
-
-Local evidence and locators: [source text](<../raw/illingworth-530-make-your-ai-argue-from-the-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-530-make-your-ai-argue-from-the-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.

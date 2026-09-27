@@ -19,9 +19,9 @@ Perceived effort can influence how people value work. Inzlicht et al. (2018) rev
 
 [Speculation] An easy AI alternative might change how worthwhile independent effort feels. Inzlicht et al. (2018) discuss an analogous easy-alternative effect in charitable giving, not an AI-to-deskilling experiment. Whether that analogy transfers to AI use, repeated effort avoidance or retained skill needs direct evidence.
 
-There is no established AI-specific "inverse" mechanism demonstrated by this review. Keep subjective value, actual quality and learning benefits separate; do not present the removed six-step loop as a tested causal sequence.
+There is no established AI-specific "inverse" mechanism demonstrated by this review. Keep subjective value, actual quality and learning benefits separate.
 
-Inzlicht et al. (2018) discuss inferring value from others' perceived effort and cite Kruger et al. (2004), The Effort Heuristic, as reference 102. This is secondary-source support. No canonical Kruger original is held here; it has been removed from the active direct-source list, not treated as nonexistent. Neither attribution supports the AI extension.
+Inzlicht et al. (2018) discuss inferring value from others' perceived effort and cite Kruger et al. (2004), The Effort Heuristic, as reference 102. This is secondary-source support. The Kruger original is not available here for direct verification. Neither attribution supports the AI extension.
 
 ## Related
 

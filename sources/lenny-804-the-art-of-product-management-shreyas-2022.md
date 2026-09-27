@@ -16,11 +16,12 @@ Shreyas Doshi, interviewed by Lenny Rachitsky. (2022-08-25). The art of product 
 
 ## Key Insight
 
-The source proposes: Expose threats early and convert concerns into mitigation or stopping actions. The reviewed account reports: Reports surfacing overlooked risks and teams later reusing a shared vocabulary; avoided failures remain counterfactual.
+The proposed routine is to expose threats early and convert concerns into mitigation or stopping actions. The speaker reports surfacing overlooked risks and teams later reusing a shared vocabulary; avoided failures remain counterfactual.
 
 ## Key Findings
 
-- Reports surfacing overlooked risks and teams later reusing a shared vocabulary; avoided failures remain counterfactual.
+Paraphrased source account; reported outcomes are not independently verified.
+
 
 **Locators:** 00:23:58–00:33:54; L176–222. Findings paraphrased from the archived source, not quotations.
 
@@ -44,14 +45,10 @@ The source proposes: Expose threats early and convert concerns into mitigation o
 
 - [[agency]]
 
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[turn-a-premortem-into-actions]]
 
-**Review scope:** Close-read complete relevant transcript exchanges at listed timestamps and surrounding context; not full 424-line transcript; audio/video not reviewed.
-
-Local evidence and locators: [source text](<../raw/lenny-804-the-art-of-product-management-shreyas-2022/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/lenny-804-the-art-of-product-management-shreyas-2022/source.md>).

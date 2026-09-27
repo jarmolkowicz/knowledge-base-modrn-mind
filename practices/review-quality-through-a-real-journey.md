@@ -32,13 +32,13 @@ Katie Dill (2023-10-15). Building beautiful products with Stripe’s Head of Des
 
 ## Evidence and Rationale
 
-**Basis:** First-person practitioner interview and advice; relevant exchange read, not the entire interview.
+**Basis:** First-person practitioner interview and advice.
 
 **Observed or reported:** Describes Stripe’s review process and an invoice-interface fix associated with reduced support need.
 
 **Intended:** Build shared quality judgment and identify issues.
 
-**Related research:** No direct evaluation of this exact routine identified in this reading. Related entries below are context, not validation.
+**Related research:** The cited account does not directly evaluate this routine; related entries provide context, not validation.
 
 **Untested:** Causal effects on decision quality, retained unaided capability, confidence calibration and long-term use. A better artifact or a confident report cannot establish these.
 
@@ -50,26 +50,10 @@ Self-reported field use, no controlled attribution. Scores are explicitly qualit
 
 [Inference] Which disagreement changed the quality criterion or uncovered something a score concealed? This is a proposed observation, not a validated measure.
 
-## Related
-
-No research claim attached to this draft. Source links below retain provenance.
-
-## Review Status
-
-
 ## Intended outcomes
 
 [Inference] Primary: work-quality. Secondary: shared-understanding. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Related
 
 - [[lenny-702-building-beautiful-products-with-stripe-s-2023]] — origin.
-
-## Sources
-
-- [[lenny-702-building-beautiful-products-with-stripe-s-2023]]
-
-Recorded citations:
-
-- Katie Dill (2023-10-15). Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft). Lenny's Podcast.
-

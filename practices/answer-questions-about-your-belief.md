@@ -69,26 +69,13 @@ Locators: L28–36, Step-by-step; L56–80, A moment from Laura; L100–108, Wha
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 - [[guingrich-belief-offloading-2026]] — bounded research context described above.
 
-
 ## Intended outcomes
 
 [Inference] Primary: judgment. Secondary: authorship-agency. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[illingworth-512-use-ai-to-examine-your-beliefs-2025]] — origin.
 - [[ramonov-387-how-to-get-ahead-of-99-2025]] — support.
 - [[hassid-270-business-2025]] — support.
 - [[illingworth-515-the-velocity-trap-why-ai-makes-2026]] — support.
-
-## Sources
-
-- [[illingworth-512-use-ai-to-examine-your-beliefs-2025]]
-- [[ramonov-387-how-to-get-ahead-of-99-2025]]
-- [[hassid-270-business-2025]]
-- [[illingworth-515-the-velocity-trap-why-ai-makes-2026]]
-
-Recorded citations:
-
-- Laura O'Driscoll, with Sam Illingworth. (2025-12-09). Use AI to Examine Your Beliefs and Reveal Hidden Assumptions. https://theslowai.substack.com/p/the-one-ai-prompt-to-examine-your-beliefs
-

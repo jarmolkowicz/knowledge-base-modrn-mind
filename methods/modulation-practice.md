@@ -41,9 +41,5 @@ Leonardi and Leavell (2026) compare two planning organizations using the same si
 
 ## Sources
 
-- [[leonardi-artificial-certainty-2026]]
-
-Recorded citations:
-
-- Leonardi, P. M., & Leavell, V. (2026). Knowing Enough to Be Dangerous: The Problem of 'Artificial Certainty' for Expert Authority When Using AI for Decision Making and Planning. Organization Science. https://doi.org/10.1287/orsc.2023.18224
+- [[leonardi-artificial-certainty-2026]] — Leonardi, P. M., & Leavell, V. (2026). Knowing Enough to Be Dangerous: The Problem of 'Artificial Certainty' for Expert Authority When Using AI for Decision Making and Planning. Organization Science. https://doi.org/10.1287/orsc.2023.18224
 

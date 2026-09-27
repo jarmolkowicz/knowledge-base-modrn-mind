@@ -18,7 +18,7 @@ intended_outcomes:
 
 A meeting risks turning the first confident opinion into the group’s apparent view.
 
-Author’s intended benefit: Expose differences before discussion; precommit to action when failure signals appear.
+Author’s intended benefit: Expose differences before discussion.
 
 ## Try It
 
@@ -36,11 +36,11 @@ Locators: 00:24:54–00:44:06; L204–277; 01:05:06–01:10:55; L408–435. Prac
 
 ## Evidence and Rationale
 
-**Basis:** Professional facilitation experience and sales-team example.
+**Basis:** Professional facilitation experience.
 
-**Observed or reported:** Reports organizations adopting independent-input routines; describes warning signals paired with actions for a sales team. No controlled effect estimate.
+**Observed or reported:** Reports organizations adopting independent-input routines. No controlled effect estimate.
 
-**Related research:** No directly relevant evaluation of this routine was identified in this review. The practitioner account above supplies its rationale; the AI adaptation remains untested.
+**Related research:** The practitioner account provides the rationale, not a direct evaluation; the AI adaptation remains untested.
 
 **Untested:** Whether this specific procedure improves judgment, independent capability, creative quality or calibration beyond the reported experience. A completed artifact, more options and felt clarity are different outcomes.
 
@@ -48,7 +48,6 @@ Locators: 00:24:54–00:44:06; L204–277; 01:05:06–01:10:55; L408–435. Prac
 
 - Feeling heard and reaching consensus are different; disagreement can remain.
 - A facilitator still has power over framing and synthesis.
-- The sales kill criteria are contextual examples, not rules for every project.
 
 ## What to Notice
 
@@ -58,20 +57,10 @@ Locators: 00:24:54–00:44:06; L204–277; 01:05:06–01:10:55; L408–435. Prac
 
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 
-
 ## Intended outcomes
 
 [Inference] Primary: judgment. Secondary: shared-understanding. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[lenny-550-this-will-make-you-a-better-2024]] — origin.
-
 ## Sources
 
-- [[lenny-550-this-will-make-you-a-better-2024]]
-
-Recorded citations:
-
-- Annie Duke, interviewed by Lenny Rachitsky. (2024-05-02). This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player). https://www.youtube.com/watch?v=svQMODvIGAE
-
+- [[lenny-550-this-will-make-you-a-better-2024]] — origin.

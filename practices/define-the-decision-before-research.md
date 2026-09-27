@@ -58,20 +58,10 @@ Locators: L20–24, attribution and rationale; L30–58, three-stage prompt; L78
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 - [[guingrich-belief-offloading-2026]] — bounded research context described above.
 
-
 ## Intended outcomes
 
 [Inference] Primary: judgment. Secondary: attention. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[illingworth-439-why-your-ai-prompts-produce-noise-2025]] — origin.
-
 ## Sources
 
-- [[illingworth-439-why-your-ai-prompts-produce-noise-2025]]
-
-Recorded citations:
-
-- Raghav Mehra, reframed by Sam Illingworth. (2025-12-30). Why Your AI Prompts Produce Noise Instead of Decisions. https://theslowai.substack.com/p/ai-precision-research-framework
-
+- [[illingworth-439-why-your-ai-prompts-produce-noise-2025]] — origin.

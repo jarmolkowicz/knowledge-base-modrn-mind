@@ -30,13 +30,13 @@ You have a draft or worked solution and want feedback without handing the entire
 
 ## Origin
 
-Sam Illingworth, “You Did Not Learn That With AI,” 5 August 2026, protocol L115–145. This card extracts moves one and three; it does not reproduce or claim validation of the complete four-move protocol.
+Sam Illingworth, “You Did Not Learn That With AI,” 5 August 2026, protocol L115–145. This routine adapts moves one and three; it does not reproduce or claim validation of the complete four-move protocol.
 
 Local original: [source.md](<../raw/illingworth-422-you-did-not-learn-that-with-2026/source.md>).
 
 ## Evidence and Rationale
 
-**Basis / observed or reported:** A proposed practice accompanied by secondary study accounts. The exact combination here has no reported evaluation. New studies linked by the article were not independently assessed in this allocation.
+**Basis / observed or reported:** A proposed practice accompanied by secondary study accounts. The exact combination here has no reported evaluation. The article’s accounts of other studies are secondary evidence, not direct evidence for this routine.
 
 **Related research:** [[bjork-desirable-difficulties-2011]] provides a related retrieval/generation rationale, not validation of the AI procedure. [[fernandes-metacognition-2025]] distinguishes assisted reasoning performance from self-assessment and proposes explain-back interventions without testing them.
 
@@ -46,9 +46,7 @@ Local original: [source.md](<../raw/illingworth-422-you-did-not-learn-that-with-
 
 He and colleagues tested a tutorial with performance feedback and manually prepared contrastive explanations in logical reasoning (PDF pp.6–7, 14–15). Self-assessment calibration improved, but appropriate reliance did not improve uniformly; participants who initially underestimated themselves could do worse. The writing routine here was not tested. Showing only AI failures can also encourage misplaced distrust.
 
-### Research review coverage
-
-- [[he-illusion-competence-2023]]: [retained original](<../raw/he-illusion-competence-2023/source.md>), L191–209; L601–647; targeted original sections.
+Source passages: [[he-illusion-competence-2023]]: [retained original](<../raw/he-illusion-competence-2023/source.md>), L191–209; L601–647.
 
 ## Limits
 
@@ -72,19 +70,13 @@ Novices may need explicit scaffolding; a critique can be plausible and wrong. Ke
 
 [Inference] Primary: calibration. Secondary: understanding. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[illingworth-422-you-did-not-learn-that-with-2026]] — origin.
 
 - [[he-illusion-competence-2023]] — research rationale or boundary; not the origin or direct validation of this practitioner routine.
 
-## Sources
-
-- [[illingworth-422-you-did-not-learn-that-with-2026]]
-- [[he-illusion-competence-2023]]
-
-Recorded citations:
+Additional citations:
 
 - Sam Illingworth. You Did Not Learn That With AI. 2026-08-05. https://theslowai.substack.com/p/ai-dunning-kruger-illusion-mastery
 - He, G., Kuiper, L., & Gadiraju, U. (2023). Knowing about knowing: An illusion of human competence can hinder appropriate reliance on AI systems. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). ACM. https://doi.org/10.1145/3544548.3581025
-

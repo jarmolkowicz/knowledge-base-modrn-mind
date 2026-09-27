@@ -22,11 +22,13 @@ Complete relevant exchange L187–247, 00:22:30–00:29:18 read; unrelated topic
 
 ## Key Insight
 
-The source proposes: Have two humans judge suggestions. The reviewed account reports: Describes Shopify pairing; no controlled AI-pair versus individual comparison.
+The proposed routine is to have two humans judge suggestions. The speaker describes Shopify pairing; no controlled AI-pair versus individual comparison.
 
 ## Key Findings
 
-Paraphrases from `raw/lenny-636-how-shopify-builds-a-high-intensity-2024/source.md`:
+Paraphrased source account; reported outcomes are not independently verified.
+
+Source details (paraphrased):
 
 - L187–247, 00:22:30–00:29:18: pair-programming exchange
 - L238: two humans accept, reject or rewrite AI suggestions
@@ -35,13 +37,6 @@ Paraphrases from `raw/lenny-636-how-shopify-builds-a-high-intensity-2024/source.
 
 Advocacy based on human pair-programming experience.
 
-Reported:
-
-- Describes Shopify pairing; no controlled AI-pair versus individual comparison.
-
-Proposed, not demonstrated effects:
-
-- Have two humans judge suggestions.
 
 ## Supports
 
@@ -54,15 +49,10 @@ Proposed, not demonstrated effects:
 - Timer-and-delete exercise excluded.
 - Two reviewers can share blind spots.
 
-Assisted output, unaided capability, felt competence and calibration remain separate. This entry endorses no medical, legal, security or product-capability claim beyond the bounded source account.
+## Related Practices
 
-
-## Use in this collection
-
-Supporting account or variant; repeated advice is not independent validation.
+Related guidance; repeated advice is not independent validation.
 
 - [[review-ai-code-against-independent-checks]]
 
-**Review scope:** Complete relevant exchange L187–247, 00:22:30–00:29:18 read; unrelated topics excluded.
-
-Local evidence and locators: [source text](<../raw/lenny-636-how-shopify-builds-a-high-intensity-2024/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/lenny-636-how-shopify-builds-a-high-intensity-2024/source.md>).

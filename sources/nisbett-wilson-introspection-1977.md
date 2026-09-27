@@ -14,7 +14,7 @@ Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal re
 
 Original journal article. Locators below use PDF pages; printed pages are 230 higher.
 
-Audit: [ingestion record](../raw/nisbett-wilson-introspection-1977/log.md).
+[Retained source text](../raw/nisbett-wilson-introspection-1977/source.md).
 
 ## Type
 

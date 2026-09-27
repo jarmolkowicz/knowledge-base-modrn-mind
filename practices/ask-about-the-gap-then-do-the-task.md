@@ -36,7 +36,7 @@ Local original: [source.md](<../raw/illingworth-514-there-are-three-ways-to-lear
 
 **Related research:** [[shen-skill-formation-2026]]: AI access was randomized; the six behavior clusters were not. Higher scores in active-inquiry clusters suggest a hypothesis, not proof that this procedure preserves learning. [[bjork-desirable-difficulties-2011]] distinguishes useful learning difficulty from difficulty beyond the learner’s prerequisites.
 
-**Untested:** Transfer beyond the task, delayed retention and the benefit of any particular number of questions. The source’s claim that some users learned nothing is not supported by the local research account.
+**Untested:** Transfer beyond the task, delayed retention and the benefit of any particular number of questions. The source’s claim that some users learned nothing is not supported by the cited research.
 
 ## Limits
 
@@ -56,15 +56,10 @@ Do not infer skill loss from needing help, or confuse independent task completio
 
 [Inference] Primary: independent-capability. Secondary: understanding. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[illingworth-514-there-are-three-ways-to-learn-2026]] — origin.
 
-## Sources
-
-- [[illingworth-514-there-are-three-ways-to-learn-2026]]
-
-Recorded citations:
+Additional citations:
 
 - Sam Illingworth. There Are Three Ways to Learn With AI. Most People Use None of Them.. 2026-03-25. https://theslowai.substack.com/p/three-ways-to-learn-with-ai
-

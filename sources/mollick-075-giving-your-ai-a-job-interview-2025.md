@@ -17,15 +17,17 @@ Ethan Mollick. Giving your AI a Job Interview. 2025-11-12. https://www.oneuseful
 
 Practitioner article.
 
-Full available extracted article, L1–68. Linked images, videos and external studies not inspected.
+Article text, L1–68. Linked media and external studies are not independently verified.
 
 ## Key Insight
 
-The source proposes: Choose models using work resembling the intended task. The reviewed account reports: Repeated trials produced different ratings; this does not establish ground truth for business advice.
+The proposed routine is to choose models using work resembling the intended task. Repeated trials produced different ratings; this does not establish ground truth for business advice.
 
 ## Key Findings
 
-Paraphrases from `raw/mollick-075-giving-your-ai-a-job-interview-2025/source.md`:
+Paraphrased source account; reported outcomes are not independently verified.
+
+Source details (paraphrased):
 
 - L28–34: limits of idiosyncratic impressions
 - L46: repeated GuacaDrone comparison
@@ -35,13 +37,6 @@ Paraphrases from `raw/mollick-075-giving-your-ai-a-job-interview-2025/source.md`
 
 First-person demonstrations and proposed task-specific evaluation.
 
-Reported:
-
-- Repeated trials produced different ratings; this does not establish ground truth for business advice.
-
-Proposed, not demonstrated effects:
-
-- Choose models using work resembling the intended task.
 
 ## Supports
 
@@ -54,15 +49,10 @@ Proposed, not demonstrated effects:
 - Benchmark scores are not local-task success probabilities.
 - Prompt variation and model updates complicate comparisons.
 
-Assisted output, unaided capability, felt competence and calibration remain separate. This entry endorses no medical, legal, security or product-capability claim beyond the bounded source account.
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[test-ai-on-the-work-it-will-do]]
 
-**Review scope:** Full available extracted article, L1–68. Linked images, videos and external studies not inspected.
-
-Local evidence and locators: [source text](<../raw/mollick-075-giving-your-ai-a-job-interview-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/mollick-075-giving-your-ai-a-job-interview-2025/source.md>).

@@ -60,7 +60,7 @@ Models can invent flaws, miss facts and favor conventional style. Their taste is
 
 [Inference] Primary: authorship-agency. Secondary: work-quality. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[illingworth-459-how-can-writers-use-ai-ethically-2025]] — origin.
 - [[illingworth-460-how-creatives-are-actually-using-ai-2026]] — origin.
@@ -69,16 +69,6 @@ Models can invent flaws, miss facts and favor conventional style. Their taste is
 - [[illingworth-516-what-claude-cannot-read-in-a-2026]] — counterexample.
 - [[lenny-801-seth-godin-s-best-tactics-for-2024]] — support.
 
-## Sources
-
-- [[illingworth-459-how-can-writers-use-ai-ethically-2025]]
-- [[illingworth-460-how-creatives-are-actually-using-ai-2026]]
-- [[illingworth-449-can-claude-write-slow-ai-the-2026]]
-- [[illingworth-480-teach-ai-something-it-cannot-know-2025]]
-- [[illingworth-516-what-claude-cannot-read-in-a-2026]]
-- [[lenny-801-seth-godin-s-best-tactics-for-2024]]
-
-Recorded citations:
+Additional citations:
 
 - Rebecca J Hogue and Sam Illingworth. How Can Writers Use AI Ethically?. 2025-12-06. https://theslowai.substack.com/p/how-can-writers-use-ai-ethically
-

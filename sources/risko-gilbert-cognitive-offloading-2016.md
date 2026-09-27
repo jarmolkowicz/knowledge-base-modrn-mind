@@ -20,7 +20,7 @@ Paper (review)
 
 ## Key Insight
 
-Cognitive offloading — using physical action or external tools to reduce cognitive demand — is ancient (finger-counting, knots in handkerchiefs) but only recently studied systematically. Risko & Gilbert advance two arguments that anchor the KB's "AI-as-offloading" framing:
+Cognitive offloading — using physical action or external tools to reduce cognitive demand — is ancient (finger-counting, knots in handkerchiefs) but only recently studied systematically. Risko & Gilbert advance two arguments about offloading:
 
 1. **The decision to offload is driven by metacognitive evaluation, not just objective demand** — and those metacognitive evaluations can be wrong. People offload even when it doesn't help performance (and sometimes when it hurts), because they *believe* it will.
 2. **Offloading can change subsequent cognition and self-assessment.** The review describes task-specific effects of internet search, navigation aids and photographing objects, with both benefits and costs. It proposes a three-arrow model: (A) metacognitive evaluation → strategy selection, (B) strategy use → updated metacognition, (C) strategy use → direct effect on cognition.
@@ -65,11 +65,11 @@ A foundational review of [[cognitive-offloading]], not a study of generative AI.
 
 ## Contradicts / Extends
 
-- Extends [[hu-metamemory-offloading-2019]] — Hu et al. provide later experimental confirmation of the metacognitive-evaluation mechanism Risko & Gilbert propose theoretically.
-- Extends [[gilbert-intention-offloading-2023]] — Gilbert (the same author, with collaborators) operationalizes intention offloading more rigorously in this 2023 paper.
+- Later tested by [[hu-metamemory-offloading-2019]] — Hu et al. provide later experimental confirmation of the metacognitive-evaluation mechanism Risko & Gilbert propose theoretically.
+- Developed further in [[gilbert-intention-offloading-2023]] — Gilbert (the same author, with collaborators) operationalizes intention offloading more rigorously in this 2023 paper.
 
 ## Open Questions
 
-- Risko & Gilbert flag long-term effects of pervasive offloading as "a particularly pressing concern… for researchers and society in general." This question is what the KB exists to address.
+- Risko & Gilbert flag long-term effects of pervasive offloading as "a particularly pressing concern… for researchers and society in general."
 - Different offloading targets (paper note vs. computer note vs. internet vs. human collaborator) — are they cognitively equivalent? The paper says no clear answer yet.
 - How do offloading propensities develop across the lifespan? Most studies are on adults.

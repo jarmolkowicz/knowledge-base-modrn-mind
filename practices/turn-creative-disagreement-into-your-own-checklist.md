@@ -56,17 +56,11 @@ Keep rules provisional and personal. A model-generated summary can misstate why 
 
 [Inference] Primary: independent-capability. Secondary: creative-development. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[illingworth-459-how-can-writers-use-ai-ethically-2025]] — origin.
 - [[illingworth-460-how-creatives-are-actually-using-ai-2026]] — origin.
 
-## Sources
-
-- [[illingworth-459-how-can-writers-use-ai-ethically-2025]]
-- [[illingworth-460-how-creatives-are-actually-using-ai-2026]]
-
-Recorded citations:
+Additional citations:
 
 - Sam Illingworth and named contributors; co-editor Alyssa Fu Ward. How Creatives Are Actually Using AI (And What They Refuse to Let It Do). 2026-03-17. https://theslowai.substack.com/p/how-creatives-actually-use-ai
-

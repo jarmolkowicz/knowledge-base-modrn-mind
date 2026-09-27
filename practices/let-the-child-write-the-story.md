@@ -46,7 +46,6 @@ Locators: 01:25:30–01:27:17; L617–633. Practice title is an editorial label.
 ## Limits
 
 - Enjoyment and a finished book are not evidence of improved writing skill.
-- Product model-architecture statements are unverified and unnecessary.
 - Illustration is itself a creative skill; this allocation does not preserve all skills.
 
 ## What to Notice
@@ -58,20 +57,10 @@ Locators: 01:25:30–01:27:17; L617–633. Practice title is an editorial label.
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 - [[doshi-hauser-creativity-diversity-2024]] — bounded research context described above.
 
-
 ## Intended outcomes
 
 [Inference] Primary: independent-capability. Secondary: authorship-agency. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[lenny-605-building-a-culture-of-excellence-david-2023]] — origin.
-
 ## Sources
 
-- [[lenny-605-building-a-culture-of-excellence-david-2023]]
-
-Recorded citations:
-
-- David Singleton, interviewed by Lenny Rachitsky. (2023-05-04). Building a culture of excellence | David Singleton (CTO of Stripe). https://www.youtube.com/watch?v=F0_IKKY3HCk
-
+- [[lenny-605-building-a-culture-of-excellence-david-2023]] — origin.

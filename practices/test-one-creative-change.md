@@ -65,22 +65,11 @@ Locators: L20, attribution; L38–52, missing chapter and timebox; L72–84, com
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 - [[doshi-hauser-creativity-diversity-2024]] — bounded research context described above.
 
-
 ## Intended outcomes
 
 [Inference] Primary: creative-development. Secondary: authorship-agency. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[illingworth-524-when-your-writing-wobbles-listen-for-2025]] — origin.
 - [[illingworth-530-make-your-ai-argue-from-the-2025]] — support.
-
-## Sources
-
-- [[illingworth-524-when-your-writing-wobbles-listen-for-2025]]
-- [[illingworth-530-make-your-ai-argue-from-the-2025]]
-
-Recorded citations:
-
-- Mia Kiraki, with Sam Illingworth. (2025-11-04). When your writing wobbles, listen for what AI echoes. https://theslowai.substack.com/p/when-your-writing-wobbles-listen-for-what-ai-echoes
-

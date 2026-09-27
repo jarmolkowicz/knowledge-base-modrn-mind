@@ -19,24 +19,18 @@ Sam Illingworth’s book introduction and conclusion; scoped book reading, not c
 
 ## Key Insight
 
-The source proposes: Articulate one’s answer and uncertainty before asking AI. The reviewed account reports: Conclusion proposes two sentences before prompting and counting occasions when no prompt was needed. No trial data for this procedure.
+The proposed routine is to articulate one’s answer and uncertainty before asking AI.
 
 ## Key Findings
 
-These are source-account summaries, not independently validated effects.
+The conclusion proposes two sentences before prompting and counting occasions when no prompt was needed. No trial data for this procedure.
 
-- Conclusion proposes two sentences before prompting and counting occasions when no prompt was needed. No trial data for this procedure.
+## Source Locations
 
-## Locators and coverage
-
-Read the complete introduction and conclusion plus contents; not the whole book.
+Coverage is limited to the introduction, conclusion and contents; the rest of the book is not assessed.
 
 - EPUB [ch.6 — xhtml/xhtml-0-5.xhtml], Introduction, source.md L23
 - EPUB [ch.21 — xhtml/xhtml-0-20.xhtml], Conclusion: What Lasts, source.md L98, One thing to try this week
-
-## Relevance
-
-- Articulate one’s answer and uncertainty before asking AI.
 
 ## Supports / overlaps
 
@@ -46,15 +40,12 @@ Read the complete introduction and conclusion plus contents; not the whole book.
 
 - Two sentences is a convenient proposed format, not a validated dose. Book-wide research claims and current technology anecdotes not verified by this scoped reading.
 
+## Related Practices
 
-## Use in this collection
-
-Supporting account or variant; repeated advice is not independent validation.
+Related account; repeated advice is not independent validation.
 
 - [[save-your-own-starting-point]]
 
 **Application boundary [Inference]:** Allow spoken/drawn notes and uncertainty; an initial position need not be confident or correct.
 
-**Review scope:** Read the complete introduction and conclusion plus contents; not the whole book.
-
-Local evidence and locators: [source text](<../raw/illingworth-slow-ai-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-slow-ai-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

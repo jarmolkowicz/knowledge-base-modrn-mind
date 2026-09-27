@@ -10,7 +10,7 @@ sources:
 
 ## Citation
 
-Capraro, V. (2026). *LLMorphism: When humans come to see themselves as language models*. Preprint, [arXiv:2605.05419v1](https://arxiv.org/abs/2605.05419v1), submitted 6 May 2026. The primary record matches the supplied title, author, abstract and 16-page length; the preprint record does not establish peer review.
+Capraro, V. (2026). *LLMorphism: When humans come to see themselves as language models*. Preprint, [arXiv:2605.05419v1](https://arxiv.org/abs/2605.05419v1), submitted 6 May 2026. This is a preprint, not evidence of peer review.
 
 ## Type
 
@@ -58,4 +58,4 @@ Names a distinct proposed risk to how people understand human thought and worth.
 - Is this a measurable construct distinct from existing machine metaphors and dehumanization?
 - How common is it, and does it change behavior?
 - Does greater technical knowledge reduce the proposed bias, or does exposure increase it?
-- Some in-text references and bibliography entries differ. Do not reuse secondary citations without checking their original sources. The primary preprint year and identifier were verified on 26 September 2026.
+- Some in-text references and bibliography entries differ. Do not reuse secondary citations without checking their original sources.

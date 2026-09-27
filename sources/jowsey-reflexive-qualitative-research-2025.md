@@ -12,7 +12,7 @@ sources:
 
 Jowsey, T., Braun, V., Clarke, V., Lupton, D., & Fine, M. (2025). We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research. *Qualitative Inquiry*, advance online publication, 1–5. [Publisher record](https://doi.org/10.1177/10778004251401851), first published 17 December 2025.
 
-The PDF and publisher record establish 2025. Canonical workbench/source stem: `jowsey-reflexive-qualitative-research-2025`, corrected on 26 September 2026. The original PDF and its uploaded 2026 filename are preserved in the provenance metadata.
+The citation year follows the published article (2025).
 
 ## Type
 

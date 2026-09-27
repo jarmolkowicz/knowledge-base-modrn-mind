@@ -18,8 +18,6 @@ intended_outcomes:
 
 # Review AI code against independent checks
 
-Title is editorial, not a validated named method.
-
 ## Use When
 
 You can assess the code and expected behavior, or work with someone who can.
@@ -34,6 +32,8 @@ You can assess the code and expected behavior, or work with someone who can.
 ## Origin
 
 Sabrina Ramonov. The ULTIMATE AI Coding Guide. 2025-07-05. https://www.sabrina.dev/p/ultimate-ai-coding-guide-claude-code
+
+Title is editorial, not a validated named method.
 
 Locators in `raw/ramonov-402-the-ultimate-ai-coding-guide-2025/source.md`: L42–44: plan and alternatives; L130–161: independently expected test values and edge cases; L283–298: small changes and reuse; L310–331: manual tests, review, revisions.
 
@@ -55,7 +55,7 @@ Source passages are paraphrased. Steps arrange the cited guidance; editorial add
 
 **Related research:** [[shen-skill-formation-2026]] concerns immediate skill formation under specific assistance patterns. Correct software, felt understanding and unaided ability remain distinct.
 
-**Untested:** No direct evaluation of this complete routine was found in the reviewed material. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
+**Untested:** The cited sources do not directly evaluate this complete routine. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
 
 ## Limits
 
@@ -67,29 +67,16 @@ Generated tests can encode the same mistake as generated code; two humans can sh
 
 ## Related
 
-- [[shen-skill-formation-2026]] — related local entry inspected; see rationale and limits above.
-- [[automation-bias]] — related local entry inspected; see rationale and limits above.
-- [[metacognitive-demand]] — related local entry inspected; see rationale and limits above.
+- [[shen-skill-formation-2026]]
+- [[automation-bias]]
+- [[metacognitive-demand]]
 
 ## Intended outcomes
 
 [Inference] Primary: work-quality. Secondary: understanding. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[newport-038-on-ai-coding-and-its-discontents-2026]] — counterexample.
 - [[ramonov-402-the-ultimate-ai-coding-guide-2025]] — origin.
 - [[lenny-636-how-shopify-builds-a-high-intensity-2024]] — support.
-
-## Sources
-
-- [[newport-038-on-ai-coding-and-its-discontents-2026]]
-- [[ramonov-402-the-ultimate-ai-coding-guide-2025]]
-- [[lenny-636-how-shopify-builds-a-high-intensity-2024]]
-
-Recorded citations:
-
-- Sabrina Ramonov. The ULTIMATE AI Coding Guide. 2025-07-05. https://www.sabrina.dev/p/ultimate-ai-coding-guide-claude-code
-- Farhan Thawar, interviewed by Lenny Rachitsky. How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng). 2024-12-19. https://www.youtube.com/watch?v=C_lhMOjG7PE
-- Cal Newport, reporting an anonymous engineer. On AI Coding and Its Discontents. 2026-08-10. https://calnewport.com/on-ai-coding-and-its-discontents/
-

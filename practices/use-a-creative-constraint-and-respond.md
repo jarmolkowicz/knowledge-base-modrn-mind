@@ -63,24 +63,12 @@ Locators: L24–39, procedure; L43–56, demonstration; L60–70, use and limits
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 - [[doshi-hauser-creativity-diversity-2024]] — bounded research context described above.
 
-
 ## Intended outcomes
 
 [Inference] Primary: creative-development. Secondary: authorship-agency. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[illingworth-488-teach-ai-the-wrong-answer-2025]] — origin.
 - [[illingworth-489-teach-ai-to-use-less-2025]] — support.
 - [[illingworth-490-teach-ai-to-say-i-don-2025]] — support.
-
-## Sources
-
-- [[illingworth-488-teach-ai-the-wrong-answer-2025]]
-- [[illingworth-489-teach-ai-to-use-less-2025]]
-- [[illingworth-490-teach-ai-to-say-i-don-2025]]
-
-Recorded citations:
-
-- Sam Illingworth. (2025-08-12). Teach AI the Wrong Answer. https://theslowai.substack.com/p/slow-ai-7-teach-it-the-wrong-answer
-

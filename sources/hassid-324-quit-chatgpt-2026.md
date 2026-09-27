@@ -3,29 +3,30 @@ status: emerging
 area:
 - risk
 - preservation
+type: article
 sources:
-- Ruben Hassid. Quit ChatGPT.. 2026-02-04. https://ruben.substack.com/p/quit-chatgpt
+- Ruben Hassid. Quit ChatGPT. 2026-02-04. https://ruben.substack.com/p/quit-chatgpt
 ---
 
 # Quit ChatGPT.
 
 ## Citation
 
-Ruben Hassid. Quit ChatGPT.. 2026-02-04. https://ruben.substack.com/p/quit-chatgpt
+Ruben Hassid. Quit ChatGPT. 2026-02-04. https://ruben.substack.com/p/quit-chatgpt
 
 ## Type and Scope
 
 Practitioner article.
 
-Full available extracted article, L1–289. Linked images, videos and external studies not inspected.
+Available article text, L1–289. Linked media and external studies are not independently verified.
 
 ## Key Insight
 
-The source proposes: Recover a clear task definition. 
+The proposed routine is to recover a clear task definition.
 
 ## Key Findings
 
-Paraphrases from `raw/hassid-324-quit-chatgpt-2026/source.md`:
+Source details:
 
 - L63–76: describe failure, fresh task, questions
 - L105–107: select context
@@ -33,14 +34,6 @@ Paraphrases from `raw/hassid-324-quit-chatgpt-2026/source.md`:
 ## Evidence
 
 Proposed conversation-repair routine.
-
-Reported:
-
-- None reported in the reviewed material.
-
-Proposed, not demonstrated effects:
-
-- Recover a clear task definition.
 
 ## Supports
 
@@ -53,15 +46,10 @@ Proposed, not demonstrated effects:
 - Self-diagnosed failure reasons can be invented.
 - Resets may discard constraints.
 
-Assisted output, unaided capability, felt competence and calibration remain separate. This entry endorses no medical, legal, security or product-capability claim beyond the bounded source account.
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is a proposal, not a tested intervention.
 
 - [[reset-a-drifting-conversation]]
 
-**Review scope:** Full available extracted article, L1–289. Linked images, videos and external studies not inspected.
-
-Local evidence and locators: [source text](<../raw/hassid-324-quit-chatgpt-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/hassid-324-quit-chatgpt-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

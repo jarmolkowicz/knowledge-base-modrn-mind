@@ -15,11 +15,12 @@ Ethan Mollick. (2025-05-22). Making AI Work: Leadership, Lab, and Crowd. https:/
 
 ## Key Insight
 
-The source proposes: Share discoveries, test actual work and adapt workflows with accountable domain expertise. The reviewed account reports: Reports testing an agent against a business simulation and finding both strengths and errors; organization-wide effects of the full framework are not evaluated here.
+The proposed routine is to share discoveries, test actual work and adapt workflows with accountable domain expertise. The author reports testing an agent against a business simulation and finding both strengths and errors; organization-wide effects of the full framework are not evaluated here.
 
 ## Key Findings
 
-- Reports testing an agent against a business simulation and finding both strengths and errors; organization-wide effects of the full framework are not evaluated here.
+Paraphrased source account; reported outcomes are not independently verified.
+
 
 **Locators:** L37–59, Crowd and Lab; L59–71, testing and benchmarks; L73–79, learning loop. Findings paraphrased from the archived source, not quotations.
 
@@ -43,14 +44,10 @@ The source proposes: Share discoveries, test actual work and adapt workflows wit
 
 - [[agency]]
 
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[test-and-share-a-team-ai-workflow]]
 
-**Review scope:** Close-read all 87 lines of available extracted article text; image-only content and linked media not reviewed.
-
-Local evidence and locators: [source text](<../raw/mollick-079-making-ai-work-leadership-lab-and-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/mollick-079-making-ai-work-leadership-lab-and-2025/source.md>).

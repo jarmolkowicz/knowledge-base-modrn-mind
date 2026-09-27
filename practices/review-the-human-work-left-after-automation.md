@@ -65,17 +65,7 @@ Do not assign a maturity label or make greater AI use the target. Felt meaning d
 - [[keep-one-thinking-step]]
 - [[meaningful-work]]
 
-## Source roles
+## Sources
 
 - [[bankins-formosa-ai-meaningful-work-2023]] — origin of the research, recommendation or framework; exact editorial additions identified above.
 - [[callari-meaningful-work-2025]] — complementary support, not independent validation of this routine.
-
-## Sources
-
-- [[bankins-formosa-ai-meaningful-work-2023]]
-- [[callari-meaningful-work-2025]]
-
-Recorded citations:
-
-- Bankins, S., & Formosa, P. (2023). The ethical implications of artificial intelligence (AI) for meaningful work. Journal of Business Ethics, 185, 725–740. https://doi.org/10.1007/s10551-023-05339-7
-- Callari, T. C., & Puppione, L. (2025). Meaningful work as shaped by employee work practices in human-AI collaborative environments: a qualitative exploration through ideal types. European Journal of Innovation Management, 28(10), 5001–5027. https://doi.org/10.1108/EJIM-11-2024-1339

@@ -19,25 +19,19 @@ Sam Illingworth’s informal reader poll and a framework drawn from comments by 
 
 ## Key Insight
 
-The source proposes: Promotes evaluation of text rather than AI-authorship detection. The reviewed account reports: Reports roughly 57% voting accuracy and a factual copying error; poll participation declines across excerpts.
+The article promotes evaluation of text rather than AI-authorship detection.
 
 ## Key Findings
 
-These are source-account summaries, not independently validated effects.
+The author reports roughly 57% voting accuracy and a factual copying error; poll participation declines across excerpts.
 
-- Reports roughly 57% voting accuracy and a factual copying error; poll participation declines across excerpts.
+## Source Locations
 
-## Locators and coverage
-
-Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
+Evidence is limited to the available article text; linked pages and embedded media are not assessed.
 
 - L23–39, poll and correction
 - L95–111, attrition interpretation
 - L115–164, four literary tests
-
-## Relevance
-
-- Promotes evaluation of text rather than AI-authorship detection.
 
 ## Supports / overlaps
 
@@ -47,15 +41,12 @@ Read the complete available article text in source.md, including examples, limit
 
 - No linked participant-level evidence shows attrition caused by attention decay. Omissions, felt necessity and moral risk cannot detect absence of thought. Clear comprehensive text can reflect substantial thinking.
 
+## Related Practices
 
-## Use in this collection
-
-Counterexample used to identify failure conditions; the source is not endorsed as a recommended procedure.
+The source illustrates limitations of the related routine; its procedure is not recommended without the qualifications above.
 
 - [[request-criticism-without-rewriting]]
 
 **Application boundary [Inference]:** The author’s useful shift toward evaluation does not validate his particular criteria. Ground criticism in purpose, claims and evidence instead.
 
-**Review scope:** Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
-
-Local evidence and locators: [source text](<../raw/illingworth-449-can-claude-write-slow-ai-the-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-449-can-claude-write-slow-ai-the-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

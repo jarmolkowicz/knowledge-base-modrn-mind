@@ -15,11 +15,12 @@ Melanie Perkins, interviewed by Lenny Rachitsky. (2025-11-02). She turned 100+ r
 
 ## Key Insight
 
-The source proposes: Articulate concerns before organizing them with AI. The reviewed account reports: Reports dictating her thoughts during walks, then summarizing them to identify actions and gain perspective.
+The proposed routine is to articulate concerns before organizing them with AI. The speaker reports dictating her thoughts during walks, then summarizing them to identify actions and gain perspective.
 
 ## Key Findings
 
-- Reports dictating her thoughts during walks, then summarizing them to identify actions and gain perspective.
+Paraphrased source account; reported outcomes are not independently verified.
+
 
 **Locators:** 00:53:57–00:55:20; L407–429. Findings paraphrased from the archived source, not quotations.
 
@@ -43,14 +44,10 @@ The source proposes: Articulate concerns before organizing them with AI. The rev
 
 - [[agency]]
 
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[speak-your-thoughts-before-summarizing]]
 
-**Review scope:** Close-read complete relevant transcript exchanges at listed timestamps and surrounding context; not full 553-line transcript; audio/video not reviewed.
-
-Local evidence and locators: [source text](<../raw/lenny-741-she-turned-100-rejections-into-a-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/lenny-741-she-turned-100-rejections-into-a-2025/source.md>).

@@ -55,7 +55,7 @@ Provides a tested model-side contributor to [[sycophancy]]. Evaluating a persona
 
 ## Limitations
 
-Constructs depend on the authors' warmth transformation and factual-agreement measures. Warm and cold datasets may differ beyond warmth; GPT-4o warm and cold runs used different learning-rate multipliers. Human score validation covered a subset. Commercial post-training may differ. No experiment here measured users' beliefs, dependence, or well-being. “Warm but honest” training is proposed, not demonstrated as a solution. Main article and included Methods were read; separately hosted supplements were not reviewed.
+Constructs depend on the authors' warmth transformation and factual-agreement measures. Warm and cold datasets may differ beyond warmth; GPT-4o warm and cold runs used different learning-rate multipliers. Human score validation covered a subset. Commercial post-training may differ. No experiment here measured users' beliefs, dependence, or well-being. “Warm but honest” training is proposed, not demonstrated as a solution. This summary covers the main article and Methods; separate supplements are not included.
 
 ## Open Questions
 

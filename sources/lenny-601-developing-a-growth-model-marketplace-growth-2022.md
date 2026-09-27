@@ -21,23 +21,13 @@ Practitioner interview transcript
 
 ## Key Insight
 
-The source proposes: Develop understanding of drivers and trade-offs. The reviewed account reports: Reports building models at companies and learning how retention affects the system.
+The proposed routine is to develop understanding of drivers and trade-offs. The speaker reports building models at companies and learning how retention affects the system.
 
 ## Key Findings
 
-- **Reported:** Reports building models at companies and learning how retention affects the system.
-- **Proposed benefit:** Develop understanding of drivers and trade-offs.
+Paraphrased source account; reported outcomes are not independently verified.
+
 - **Locators:** L164–210; 00:11:19–00:17:04
-
-These are paraphrases of the retained source, not independently verified findings.
-
-## Relevance
-
-Role: origin. Decision: draft_with_limits.
-
-## Supports
-
-No canonical research connection asserted.
 
 ## Contradicts / Extends
 
@@ -47,19 +37,12 @@ Pre-AI field account. Pain is not proof of learning; assumption stacking can pro
 
 Does this routine improve the intended outcome under a comparison that separates artifact quality, unaided capability and felt confidence?
 
-## Reading Coverage
+## Evidence Scope
 
-Read relevant complete transcript exchanges: L164–210; 00:11:19–00:17:04. Other interview sections not reviewed; source audio not checked.
+Transcript evidence: L164–210; 00:11:19–00:17:04. Limited to these exchanges; other interview sections and source audio are not assessed.
 
-## Decision
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[build-the-model-to-understand-it]]
-
-**Review scope:** Read relevant complete transcript exchanges: L164–210; 00:11:19–00:17:04. Other interview sections not reviewed; source audio not checked.
-
-Local evidence and locators: [source text](<../raw/lenny-601-developing-a-growth-model-marketplace-growth-2022/source.md>). Source findings above are paraphrases unless explicitly quoted.

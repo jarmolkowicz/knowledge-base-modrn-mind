@@ -21,23 +21,13 @@ Practitioner interview transcript
 
 ## Key Insight
 
-The source proposes: Ground decisions in lived problems and observed use. The reviewed account reports: Reports repeated product work and personal success using reference customers.
+The proposed routine is to ground decisions in lived problems and observed use. The speaker reports repeated product work and personal success using reference customers.
 
 ## Key Findings
 
-- **Reported:** Reports repeated product work and personal success using reference customers.
-- **Proposed benefit:** Ground decisions in lived problems and observed use.
+Paraphrased source account; reported outcomes are not independently verified.
+
 - **Locators:** L122–168; 00:14:52–00:24:53
-
-These are paraphrases of the retained source, not independently verified findings.
-
-## Relevance
-
-Role: support. Decision: merge_as_support_with_limits.
-
-## Supports
-
-No canonical research connection asserted.
 
 ## Contradicts / Extends
 
@@ -47,19 +37,12 @@ Success is retrospective self-report. Recommended customer counts are heuristics
 
 Does this routine improve the intended outcome under a comparison that separates artifact quality, unaided capability and felt confidence?
 
-## Reading Coverage
+## Evidence Scope
 
-Read relevant complete transcript exchanges: L122–168; 00:14:52–00:24:53. Other interview sections not reviewed; source audio not checked.
+Transcript evidence: L122–168; 00:14:52–00:24:53. Limited to these exchanges; other interview sections and source audio are not assessed.
 
-## Decision
+## Related Practices
 
-
-## Use in this collection
-
-Supporting account or variant; repeated advice is not independent validation.
+Related guidance; repeated advice is not independent validation.
 
 - [[seek-contrary-customer-evidence]]
-
-**Review scope:** Read relevant complete transcript exchanges: L122–168; 00:14:52–00:24:53. Other interview sections not reviewed; source audio not checked.
-
-Local evidence and locators: [source text](<../raw/lenny-591-the-essence-of-product-management-christian-2023/source.md>). Source findings above are paraphrases unless explicitly quoted.

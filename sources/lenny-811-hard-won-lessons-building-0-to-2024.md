@@ -16,11 +16,12 @@ Tanguy Crusson, interviewed by Lenny Rachitsky. (2024-06-16). Hard-won lessons b
 
 ## Key Insight
 
-The source proposes: Reground priorities in real users and the problem being served. The reviewed account reports: Reports returning to recent user interviews together when competitor AI announcements distract the team.
+The proposed routine is to reground priorities in real users and the problem being served. The speaker reports returning to recent user interviews together when competitor AI announcements distract the team.
 
 ## Key Findings
 
-- Reports returning to recent user interviews together when competitor AI announcements distract the team.
+Paraphrased source account; reported outcomes are not independently verified.
+
 
 **Locators:** 00:28:22–00:31:32; L258–283. Findings paraphrased from the archived source, not quotations.
 
@@ -44,14 +45,10 @@ The source proposes: Reground priorities in real users and the problem being ser
 
 - [[agency]]
 
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[return-to-real-user-accounts]]
 
-**Review scope:** Close-read complete relevant transcript exchanges at listed timestamps and surrounding context; not full 941-line transcript; audio/video not reviewed.
-
-Local evidence and locators: [source text](<../raw/lenny-811-hard-won-lessons-building-0-to-2024/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/lenny-811-hard-won-lessons-building-0-to-2024/source.md>).

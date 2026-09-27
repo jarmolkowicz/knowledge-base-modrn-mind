@@ -14,7 +14,7 @@ Salinas, A., et al. (2026). Law professors prefer AI over peer answers. Working 
 
 Supplied 61-page manuscript dated May 27, 2026. Author-hosted copy: https://law.stanford.edu/wp-content/uploads/2026/06/salinas_et_al.pdf. No journal peer-review status assumed.
 
-Audit: [ingestion record](../raw/salinas-law-professors-ai-2026/log.md).
+[Retained source text](../raw/salinas-law-professors-ai-2026/source.md).
 
 ## Type
 

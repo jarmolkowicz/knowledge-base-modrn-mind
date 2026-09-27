@@ -26,7 +26,7 @@ A classroom or learning group wants students to practise reasoning rather than w
 
 ## Origin
 
-Sam Illingworth and Tina Austin, “AI Changes the Learner. But Do We Know How?”, 10 September 2026, revised exercise L110–128 and classroom design L132–148. Editorial label; preserved contributor credit.
+Sam Illingworth and Tina Austin, “AI Changes the Learner. But Do We Know How?”, 10 September 2026, revised exercise L110–128 and classroom design L132–148. Editorial label.
 
 Local original: [source.md](<../raw/illingworth-414-ai-changes-the-learner-2026/source.md>).
 
@@ -55,15 +55,10 @@ Provide scaffolding and a way to stop when the challenge becomes fatigue. Check 
 
 [Inference] Primary: independent-capability. Secondary: judgment. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[illingworth-414-ai-changes-the-learner-2026]] — origin.
 
-## Sources
-
-- [[illingworth-414-ai-changes-the-learner-2026]]
-
-Recorded citations:
+Additional citations:
 
 - Sam Illingworth and Tina Austin. AI Changes the Learner. But Do We Know How?. 2026-09-10. https://theslowai.substack.com/p/ai-change-student-thinking
-

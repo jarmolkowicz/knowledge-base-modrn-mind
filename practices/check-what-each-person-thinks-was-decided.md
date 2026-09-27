@@ -40,7 +40,7 @@ Locators: 00:49:19–00:55:56; L455–498. Practice title is an editorial label.
 
 **Observed or reported:** Reports inconsistent understandings in meetings she observes; no quantified comparison.
 
-**Related research:** No directly relevant evaluation of this routine was identified in this review. The practitioner account above supplies its rationale; the AI adaptation remains untested.
+**Related research:** The practitioner account provides the rationale, not a direct evaluation; the AI adaptation remains untested.
 
 **Untested:** Whether this specific procedure improves judgment, independent capability, creative quality or calibration beyond the reported experience. A completed artifact, more options and felt clarity are different outcomes.
 
@@ -58,20 +58,10 @@ Locators: 00:49:19–00:55:56; L455–498. Practice title is an editorial label.
 
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 
-
 ## Intended outcomes
 
 [Inference] Primary: shared-understanding. Secondary: accountability. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[lenny-542-scripts-for-navigating-difficult-conversations-alisa-2025]] — origin.
-
 ## Sources
 
-- [[lenny-542-scripts-for-navigating-difficult-conversations-alisa-2025]]
-
-Recorded citations:
-
-- Alisa Cohn, interviewed by Lenny Rachitsky. (2025-01-05). Scripts for navigating difficult conversations | Alisa Cohn (executive coach). https://www.youtube.com/watch?v=bvF0ZM8DjuI
-
+- [[lenny-542-scripts-for-navigating-difficult-conversations-alisa-2025]] — origin.

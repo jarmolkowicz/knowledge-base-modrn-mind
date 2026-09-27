@@ -34,5 +34,4 @@ Review outcomes such as recipient rework and errors, not AI usage alone. Overloa
 
 ## Sources
 
-- Niederhoffer, K., Robichaux, A., & Hancock, J. T. (2025/2026). AI-Generated Workslop / Why People Create AI 'Workslop'. Harvard Business Review.
-
+- [[niederhoffer-workslop-2026]] — Niederhoffer, K., Robichaux, A., & Hancock, J. T. (2025/2026). AI-Generated Workslop / Why People Create AI 'Workslop'. Harvard Business Review.

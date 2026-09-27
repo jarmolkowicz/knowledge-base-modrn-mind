@@ -29,8 +29,6 @@ intended_outcomes:
 
 # Test AI on the work it will do
 
-Title is editorial, not a validated named method.
-
 ## Use When
 
 You need to choose or assess a model for a task you can evaluate.
@@ -47,6 +45,8 @@ You need to choose or assess a model for a task you can evaluate.
 ## Origin
 
 Ethan Mollick. Giving your AI a Job Interview. 2025-11-12. https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview
+
+Title is editorial, not a validated named method.
 
 Locators in `raw/mollick-075-giving-your-ai-a-job-interview-2025/source.md`: L28–34: limits of idiosyncratic impressions; L46: repeated GuacaDrone comparison; L62–67: repeated real-task tests with relevant expertise.
 
@@ -80,15 +80,13 @@ Source passages are paraphrased. Steps arrange the cited guidance; editorial add
 
 **Related research:** [[dellacqua-jagged-frontier-2023]] reports task-dependent effects in a bounded consulting experiment, not validation of this routine.
 
-**Untested:** No direct evaluation of this complete routine was found in the reviewed material. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
+**Untested:** The cited sources do not directly evaluate this complete routine. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
 
 ### Additional research context
 
 Vaccaro and colleagues distinguish improvement over human-only performance from improvement over the better of human or AI alone (PDF pp.2–3). Across the sampled experiments, the former occurred on average while the latter did not. The sample required all three conditions and does not cover every possible collaboration (p.5). This proposed local comparison is not itself a validated intervention and does not decide legal, ethical or ownership requirements.
 
-### Research review coverage
-
-- [[vaccaro-human-ai-meta-analysis-2024]]: [retained original](<../raw/vaccaro-human-ai-meta-analysis-2024/source.md>), L105–138; L225–244; targeted original sections.
+Source passages: [[vaccaro-human-ai-meta-analysis-2024]]: [retained original](<../raw/vaccaro-human-ai-meta-analysis-2024/source.md>), L105–138; L225–244.
 
 ## Limits
 
@@ -100,10 +98,10 @@ Agreement can be consistently wrong. A few changed answers cannot reveal emotion
 
 ## Related
 
-- [[dellacqua-jagged-frontier-2023]] — related local entry inspected; see rationale and limits above.
-- [[reference-verification]] — related local entry inspected; see rationale and limits above.
-- [[automation-bias]] — related local entry inspected; see rationale and limits above.
-- [[agency]] — related local entry inspected; see rationale and limits above.
+- [[dellacqua-jagged-frontier-2023]]
+- [[reference-verification]]
+- [[automation-bias]]
+- [[agency]]
 
 - [[vaccaro-human-ai-meta-analysis-2024]] — bounded research context described above.
 
@@ -111,7 +109,7 @@ Agreement can be consistently wrong. A few changed answers cannot reveal emotion
 
 [Inference] Primary: calibration. Secondary: work-quality. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[mollick-075-giving-your-ai-a-job-interview-2025]] — origin.
 - [[hassid-289-how-to-make-ai-battle-for-2025]] — counterexample.
@@ -122,23 +120,6 @@ Agreement can be consistently wrong. A few changed answers cannot reveal emotion
 
 - [[vaccaro-human-ai-meta-analysis-2024]] — research rationale or boundary; not the origin or direct validation of this practitioner routine.
 
-## Sources
+Additional citations:
 
-- [[mollick-075-giving-your-ai-a-job-interview-2025]]
-- [[hassid-289-how-to-make-ai-battle-for-2025]]
-- [[illingworth-423-your-ai-has-171-emotion-patterns-2026]]
-- [[illingworth-479-run-your-own-ai-on-a-2026]]
-- [[illingworth-508-the-smarter-ai-gets-the-less-2026]]
-- [[illingworth-517-what-is-critical-ai-literacy-2026]]
-- [[vaccaro-human-ai-meta-analysis-2024]]
-
-Recorded citations:
-
-- Ethan Mollick. Giving your AI a Job Interview. 2025-11-12. https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview
-- Sam Illingworth. Your AI Has 171 Emotion Patterns. Every One of Them Is a Lever.. 2026-04-15. https://theslowai.substack.com/p/ai-emotion-vectors-sycophancy-deception
-- Sam Illingworth. Run Your Own AI on a Laptop You Already Own. 2026-04-10. https://theslowai.substack.com/p/run-ai-locally-old-laptop
-- Sam Illingworth. The Smarter AI Gets, the Less You Can Trust It on the Hard Stuff . 2026-04-29. https://theslowai.substack.com/p/smarter-ai-less-reliable-hot-mess
-- Sam Illingworth. What Is Critical AI Literacy?. 2026-02-13. https://theslowai.substack.com/p/what-is-critical-ai-literacy
-- Ruben Hassid. How to make AI battle for you.. 2025-06-15. https://ruben.substack.com/p/fight
 - Vaccaro, M., Almaatouq, A. & Malone, T. (2024). When combinations of humans and AI are useful: a systematic review and meta-analysis. Nature Human Behaviour, 8, 2293–2303. https://doi.org/10.1038/s41562-024-02024-1
-

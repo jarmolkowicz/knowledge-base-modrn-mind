@@ -21,23 +21,13 @@ Practitioner interview transcript
 
 ## Key Insight
 
-The source proposes: Improve future explanations. The reviewed account reports: Offers a self-review routine.
+The proposed routine is to improve future explanations. The speaker offers a self-review routine.
 
 ## Key Findings
 
-- **Reported:** Offers a self-review routine.
-- **Proposed benefit:** Improve future explanations.
+Paraphrased source account; reported outcomes are not independently verified.
+
 - **Locators:** L164–180; 00:21:14–00:23:04
-
-These are paraphrases of the retained source, not independently verified findings.
-
-## Relevance
-
-Role: support. Decision: merge_as_support_with_limits.
-
-## Supports
-
-No canonical research connection asserted.
 
 ## Contradicts / Extends
 
@@ -47,19 +37,12 @@ No outcome data or scoring standard; a self-grade alone cannot show improvement.
 
 Does this routine improve the intended outcome under a comparison that separates artifact quality, unaided capability and felt confidence?
 
-## Reading Coverage
+## Evidence Scope
 
-Read relevant complete transcript exchanges: L164–180; 00:21:14–00:23:04. Other interview sections not reviewed; source audio not checked.
+Transcript evidence: L164–180; 00:21:14–00:23:04. Limited to these exchanges; other interview sections and source audio are not assessed.
 
-## Decision
+## Related Practices
 
-
-## Use in this collection
-
-Supporting account or variant; repeated advice is not independent validation.
+Related guidance; repeated advice is not independent validation.
 
 - [[rehearse-with-audience-experience]]
-
-**Review scope:** Read relevant complete transcript exchanges: L164–180; 00:21:14–00:23:04. Other interview sections not reviewed; source audio not checked.
-
-Local evidence and locators: [source text](<../raw/lenny-660-what-it-takes-to-become-a-2022/source.md>). Source findings above are paraphrases unless explicitly quoted.

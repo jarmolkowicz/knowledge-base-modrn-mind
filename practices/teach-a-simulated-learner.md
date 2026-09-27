@@ -55,15 +55,10 @@ The simulation can oversimplify literature, people and domains. A cooperative ch
 
 [Inference] Primary: understanding. Secondary: independent-capability. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[mollick-077-innovation-through-prompting-2024]] — origin.
 
-## Sources
-
-- [[mollick-077-innovation-through-prompting-2024]]
-
-Recorded citations:
+Additional citations:
 
 - Ethan Mollick. Innovation through prompting. 2024-04-22. https://www.oneusefulthing.org/p/innovation-through-prompting
-

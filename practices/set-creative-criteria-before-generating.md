@@ -59,20 +59,10 @@ Locators: 00:18:37–00:27:29; L204–277. Practice title is an editorial label.
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 - [[doshi-hauser-creativity-diversity-2024]] — bounded research context described above.
 
-
 ## Intended outcomes
 
 [Inference] Primary: creative-development. Secondary: authorship-agency. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[lenny-558-the-art-of-building-legendary-brands-2022]] — origin.
-
 ## Sources
 
-- [[lenny-558-the-art-of-building-legendary-brands-2022]]
-
-Recorded citations:
-
-- Arielle Jackson, interviewed by Lenny Rachitsky. (2022-08-18). The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital). https://www.youtube.com/watch?v=mJEWns2hyDs
-
+- [[lenny-558-the-art-of-building-legendary-brands-2022]] — origin.

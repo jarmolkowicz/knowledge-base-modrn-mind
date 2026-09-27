@@ -16,11 +16,12 @@ Alisa Cohn, interviewed by Lenny Rachitsky. (2025-01-05). Scripts for navigating
 
 ## Key Insight
 
-The source proposes: Make decisions, owners, timing and communication obligations explicit. The reviewed account reports: Reports inconsistent understandings in meetings she observes; no quantified comparison.
+The proposed routine is to make decisions, owners, timing and communication obligations explicit. The speaker reports inconsistent understandings in meetings she observes; no quantified comparison.
 
 ## Key Findings
 
-- Reports inconsistent understandings in meetings she observes; no quantified comparison.
+Paraphrased source account; reported outcomes are not independently verified.
+
 
 **Locators:** 00:49:19–00:55:56; L455–498. Findings paraphrased from the archived source, not quotations.
 
@@ -44,14 +45,10 @@ The source proposes: Make decisions, owners, timing and communication obligation
 
 - [[agency]]
 
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[check-what-each-person-thinks-was-decided]]
 
-**Review scope:** Close-read complete relevant transcript exchanges at listed timestamps and surrounding context; not full 784-line transcript; audio/video not reviewed.
-
-Local evidence and locators: [source text](<../raw/lenny-542-scripts-for-navigating-difficult-conversations-alisa-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/lenny-542-scripts-for-navigating-difficult-conversations-alisa-2025/source.md>).

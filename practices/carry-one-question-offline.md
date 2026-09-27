@@ -57,21 +57,13 @@ Walking, touch and noticing bodily feelings are optional, not requirements. Keep
 
 [Inference] Primary: attention. Secondary: authorship-agency. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[hassid-263-workaholic-2026]] — support.
 - [[illingworth-521-when-ai-never-stops-should-you-2025]] — origin.
 - [[lenny-616-the-1b-al-company-training-chatgpt-2025]] — counterexample.
 - [[lenny-739-unconventional-product-lessons-from-binance-n26-2025]] — counterexample.
 
-## Sources
-
-- [[hassid-263-workaholic-2026]]
-- [[illingworth-521-when-ai-never-stops-should-you-2025]]
-- [[lenny-616-the-1b-al-company-training-chatgpt-2025]]
-- [[lenny-739-unconventional-product-lessons-from-binance-n26-2025]]
-
-Recorded citations:
+Additional citations:
 
 - Sam Illingworth. When AI Never Stops, Should You?. 2025-09-30. https://theslowai.substack.com/p/when-ai-never-stops-should-you
-

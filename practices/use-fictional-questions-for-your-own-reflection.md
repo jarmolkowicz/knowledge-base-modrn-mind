@@ -38,7 +38,7 @@ Locators: L18–22, attribution; L30–40, classroom procedure; L60–106, perso
 
 **Observed or reported:** Peha reports personal reflection after a fictional-character prompt; no results from students using this exact classroom protocol.
 
-**Related research:** No directly relevant evaluation of this routine was identified in this review. The practitioner account above supplies its rationale; the AI adaptation remains untested.
+**Related research:** The practitioner account provides the rationale, not a direct evaluation; the AI adaptation remains untested.
 
 **Untested:** Whether this specific procedure improves judgment, independent capability, creative quality or calibration beyond the reported experience. A completed artifact, more options and felt clarity are different outcomes.
 
@@ -56,20 +56,10 @@ Locators: L18–22, attribution; L30–40, classroom procedure; L60–106, perso
 
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 
-
 ## Intended outcomes
 
 [Inference] Primary: authorship-agency. Secondary: understanding. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[illingworth-425-fiction-as-a-mirror-for-students-2026]] — origin.
-
 ## Sources
 
-- [[illingworth-425-fiction-as-a-mirror-for-students-2026]]
-
-Recorded citations:
-
-- Steve Peha, with Sam Illingworth. (2026-01-09). Fiction as a Mirror for Students Using AI. https://theslowai.substack.com/p/ai-fiction-student-reflection
-
+- [[illingworth-425-fiction-as-a-mirror-for-students-2026]] — origin.

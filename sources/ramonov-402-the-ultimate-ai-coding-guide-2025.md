@@ -17,15 +17,17 @@ Sabrina Ramonov. The ULTIMATE AI Coding Guide. 2025-07-05. https://www.sabrina.d
 
 Practitioner article.
 
-Full available extracted article, L1–341. Linked images, videos and external studies not inspected.
+Article text, L1–341. Linked media and external studies are not independently verified.
 
 ## Key Insight
 
-The source proposes: Keep expert involvement and independently check behavior. The reviewed account reports: Author rarely accepts a first draft; no controlled productivity or skill result.
+The proposed routine is to keep expert involvement and independently check behavior. The author rarely accepts a first draft; no controlled productivity or skill result.
 
 ## Key Findings
 
-Paraphrases from `raw/ramonov-402-the-ultimate-ai-coding-guide-2025/source.md`:
+Paraphrased source account; reported outcomes are not independently verified.
+
+Source details (paraphrased):
 
 - L42–44: plan and alternatives
 - L130–161: independently expected test values and edge cases
@@ -36,13 +38,6 @@ Paraphrases from `raw/ramonov-402-the-ultimate-ai-coding-guide-2025/source.md`:
 
 Experienced developer’s proposed routine and personal practice.
 
-Reported:
-
-- Author rarely accepts a first draft; no controlled productivity or skill result.
-
-Proposed, not demonstrated effects:
-
-- Keep expert involvement and independently check behavior.
 
 ## Supports
 
@@ -56,15 +51,10 @@ Proposed, not demonstrated effects:
 - Tests can repeat the implementation’s misconception.
 - Model explanations are not internal-reasoning access.
 
-Assisted output, unaided capability, felt competence and calibration remain separate. This entry endorses no medical, legal, security or product-capability claim beyond the bounded source account.
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[review-ai-code-against-independent-checks]]
 
-**Review scope:** Full available extracted article, L1–341. Linked images, videos and external studies not inspected.
-
-Local evidence and locators: [source text](<../raw/ramonov-402-the-ultimate-ai-coding-guide-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/ramonov-402-the-ultimate-ai-coding-guide-2025/source.md>).

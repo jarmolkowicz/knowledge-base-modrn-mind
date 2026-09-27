@@ -13,8 +13,6 @@ intended_outcomes:
 
 # Reset a drifting conversation
 
-Title is editorial, not a validated named method.
-
 ## Use When
 
 Repeated corrections have obscured the intended task.
@@ -29,6 +27,8 @@ Repeated corrections have obscured the intended task.
 
 Ruben Hassid. Quit ChatGPT.. 2026-02-04. https://ruben.substack.com/p/quit-chatgpt
 
+Title is editorial, not a validated named method.
+
 Locators in `raw/hassid-324-quit-chatgpt-2026/source.md`: L63–76: describe failure, fresh task, questions; L105–107: select context.
 
 Source passages are paraphrased. Steps arrange the cited guidance; editorial additions are marked [Inference]. Support and failure cases are not independent validation.
@@ -41,7 +41,7 @@ Source passages are paraphrased. Steps arrange the cited guidance; editorial add
 
 **Related research:** [[agency]] concerns task direction; [[reference-verification]] still applies after a reset.
 
-**Untested:** No direct evaluation of this complete routine was found in the reviewed material. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
+**Untested:** The cited sources do not directly evaluate this complete routine. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
 
 ## Limits
 
@@ -53,22 +53,13 @@ Resets can lose constraints. Self-explanations may be invented. Repeated resets 
 
 ## Related
 
-- [[agency]] — related local entry inspected; see rationale and limits above.
-- [[reference-verification]] — related local entry inspected; see rationale and limits above.
+- [[agency]]
+- [[reference-verification]]
 
 ## Intended outcomes
 
 [Inference] Primary: work-quality. Secondary: attention. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[hassid-324-quit-chatgpt-2026]] — origin.
-
 ## Sources
 
-- [[hassid-324-quit-chatgpt-2026]]
-
-Recorded citations:
-
-- Ruben Hassid. Quit ChatGPT.. 2026-02-04. https://ruben.substack.com/p/quit-chatgpt
-
+- [[hassid-324-quit-chatgpt-2026]] — origin.

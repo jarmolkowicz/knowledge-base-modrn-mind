@@ -44,13 +44,13 @@ Additional source support (not independent validation):
 
 ## Evidence and Rationale
 
-**Basis:** Available article body read; proposal and/or author demonstration, not direct evaluation of this routine.
+**Basis:** Author proposal or demonstration, not direct evaluation of this routine.
 
 **Observed or reported:** Worked student-description example; author identifies omitted mature and part-time students.
 
 **Intended:** Broaden represented perspectives.
 
-**Related research:** No direct evaluation of this exact routine identified in this reading. Related entries below are context, not validation.
+**Related research:** The cited account does not directly evaluate this routine; related entries provide context, not validation.
 
 **Untested:** Causal effects on decision quality, retained unaided capability, confidence calibration and long-term use. A better artifact or a confident report cannot establish these.
 
@@ -58,9 +58,7 @@ Additional source support (not independent validation):
 
 Messeri and Crockett propose naming the intended role of AI and working in cognitively and demographically diverse teams (PDF p.7, Looking ahead). They ask which interventions protect against illusions of understanding; they do not report an evaluation of this checklist. The question-list step is an editorial operationalization of their conceptual argument.
 
-### Research review coverage
-
-- [[messeri-crockett-illusions-understanding-2024]]: [retained original](<../raw/messeri-crockett-illusions-understanding-2024/source.md>), L761–849; targeted original sections.
+Source passages: [[messeri-crockett-illusions-understanding-2024]]: [retained original](<../raw/messeri-crockett-illusions-understanding-2024/source.md>), L761–849.
 
 ## Limits
 
@@ -72,32 +70,19 @@ An omission can follow the prompt or length constraint; no measured fairness imp
 
 ## Related
 
-No research claim attached to this draft. Source links below retain provenance.
-
 - [[messeri-crockett-illusions-understanding-2024]] — bounded research context described above.
-
-## Review Status
-
 
 ## Intended outcomes
 
 [Inference] Primary: judgment. Secondary: shared-understanding. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[illingworth-435-when-ai-sounds-neutral-is-it-2025]] — origin.
 - [[illingworth-491-archival-silence-a-proof-of-concept-2026]] — support.
 
 - [[messeri-crockett-illusions-understanding-2024]] — research rationale or boundary; not the origin or direct validation of this practitioner routine.
 
-## Sources
+Additional citations:
 
-- [[illingworth-435-when-ai-sounds-neutral-is-it-2025]]
-- [[illingworth-491-archival-silence-a-proof-of-concept-2026]]
-- [[messeri-crockett-illusions-understanding-2024]]
-
-Recorded citations:
-
-- Sam Illingworth (2025-10-07). When AI Sounds Neutral, Is It?. Sam Illingworth.
 - Messeri, L. & Crockett, M. J. (2024). Artificial intelligence and illusions of understanding in scientific research. Nature, 627, 49–58.
-

@@ -59,10 +59,6 @@ Provides a rationale for testing retention and transfer rather than judging lear
 - [[metacognition]] — the Bjorks specifically show learners' overconfidence under blocked practice [p.6]
 - [[judgment-development-paradox]] — [Inference] immediate output and longer-term development should be assessed separately
 
-## Contradicts / Extends
-
-[Empty — this is foundational learning science; no clear conflicts with other sources in the KB.]
-
 ## Open Questions
 
 - Where does the line sit between *desirable* and *undesirable* difficulty for a working professional using AI? The chapter addresses learners with curricula; AI users in workflow lack a curriculum and a titrating teacher.

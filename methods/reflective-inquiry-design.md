@@ -47,7 +47,7 @@ Dewey identifies four types of thought — mere awareness, imaginative thought, 
 - Bridges established learning theory (Dewey, Bloom) to concrete AI-tool design choices.
 
 **Limitations:**
-- `status: speculative` — a workshop proposal; the interventions are illustrative and have not been evaluated as a package.
+- A workshop proposal; the interventions are illustrative and have not been evaluated as a package.
 - Harm-focused by design; it does not weigh interaction modes where AI *aids* reflection, so it can over-restrict.
 - Assumes reflective thinking is the right target and that unmet prerequisites reliably indicate passivity — both plausible but unvalidated.
 - Novice-oriented; the shift point from "minimal AI" to "collaborative AI" along a learning trajectory is left unspecified.
@@ -58,7 +58,7 @@ For educators, curriculum/test designers, and builders of educational AI tools �
 
 ## Related
 
-- [[reflective-inquiry-design]] is anchored on [[singh-protecting-cognition-2025]]
+- [[singh-protecting-cognition-2025]] — source of the proposed framework
 - [[cognitive-friction]] — the injected-friction lever
 - [[desirable-difficulty]] — the productive-struggle rationale
 - [[metacognition]] / [[metacognitive-laziness]] / [[cognitive-offloading]] — the capacities the framework protects

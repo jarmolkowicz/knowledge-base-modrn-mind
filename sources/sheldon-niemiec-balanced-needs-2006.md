@@ -53,7 +53,7 @@ Adds profile shape to amount of need satisfaction. Does not justify a numerical 
 
 ## Limitations
 
-US university samples, observational designs and mostly self-report; even maternal outcomes do not randomize need support. Mechanisms untested. Some samples were reused in earlier publications, so those reports are not independent replications. Extraction garbles mathematical symbols; no table effect sizes promoted.
+US university samples, observational designs and mostly self-report; even maternal outcomes do not randomize need support. Mechanisms untested. Some samples were reused in earlier publications, so those reports are not independent replications. Exact table estimates remain uncertain because mathematical symbols are garbled in the available text.
 
 ## Open Questions
 

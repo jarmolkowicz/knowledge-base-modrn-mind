@@ -61,7 +61,7 @@ The taxonomy provides vocabulary, not a validated diagnosis or prediction. Herma
 ## Strengths / Limitations
 
 **Strengths:**
-- Names patterns the KB has been describing piecemeal (reactance, withdrawal, upskilling, identity shift) into a coherent five-strategy vocabulary.
+- Organizes reactions such as resistance, withdrawal, skill-building and identity shifts into five response categories.
 - Organizes discussion around three needs without establishing an individual diagnosis.
 - Encourages discussion of possible costs and benefits; comparative effectiveness remains untested.
 - Suggests questions about organizational support, not proven intervention effects.

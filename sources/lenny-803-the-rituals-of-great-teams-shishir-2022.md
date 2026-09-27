@@ -21,23 +21,13 @@ Practitioner interview transcript
 
 ## Key Insight
 
-The source proposes: Improve question selection and decision framing. The reviewed account reports: Reports the method in YouTube/Coda discussions and an interview exercise.
+The proposed routine is to improve question selection and decision framing. The speaker reports the method in YouTube/Coda discussions and an interview exercise.
 
 ## Key Findings
 
-- **Reported:** Reports the method in YouTube/Coda discussions and an interview exercise.
-- **Proposed benefit:** Improve question selection and decision framing.
+Paraphrased source account; reported outcomes are not independently verified.
+
 - **Locators:** L342–426; 00:50:43–01:03:42
-
-These are paraphrases of the retained source, not independently verified findings.
-
-## Relevance
-
-Role: origin. Decision: draft_with_limits.
-
-## Supports
-
-No canonical research connection asserted.
 
 ## Contradicts / Extends
 
@@ -47,19 +37,12 @@ No controlled learning evidence. The two-question limit is a practice constraint
 
 Does this routine improve the intended outcome under a comparison that separates artifact quality, unaided capability and felt confidence?
 
-## Reading Coverage
+## Evidence Scope
 
-Read relevant complete transcript exchanges: L342–426; 00:50:43–01:03:42. Other interview sections not reviewed; source audio not checked.
+Transcript evidence: L342–426; 00:50:43–01:03:42. Limited to these exchanges; other interview sections and source audio are not assessed.
 
-## Decision
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[practice-choosing-decisive-questions]]
-
-**Review scope:** Read relevant complete transcript exchanges: L342–426; 00:50:43–01:03:42. Other interview sections not reviewed; source audio not checked.
-
-Local evidence and locators: [source text](<../raw/lenny-803-the-rituals-of-great-teams-shishir-2022/source.md>). Source findings above are paraphrases unless explicitly quoted.

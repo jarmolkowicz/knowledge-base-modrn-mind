@@ -20,7 +20,7 @@ Article (thought leadership; cites primary medical research)
 
 ## Key Insight
 
-Nosta describes a proposed AI rebound: unaided performance may be lower after a period of AI assistance. His motivating example is a report of polyp-detection results from a clinical study. This is secondary commentary; the underlying clinical original was not available in the local audit, and its design and alternative explanations remain unchecked here.
+Nosta describes a proposed AI rebound: unaided performance may be lower after a period of AI assistance. His motivating example is a report of polyp-detection results from a clinical study. This is secondary commentary. The underlying clinical study's design and alternative explanations are not independently established by this article.
 
 Nosta interprets the reported drop through out-of-the-loop and reduced-practice accounts. The article does not itself establish degradation of an underlying skill, the prevalence of rebound across domains or the effectiveness of its proposed remedies. Quoted clinical statements below are Nosta's account, not independently verified primary findings.
 

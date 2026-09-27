@@ -17,15 +17,17 @@ Sabrina Ramonov. AI Co-Founder MEGA Prompt. 2026-01-17. https://www.sabrina.dev/
 
 Practitioner article.
 
-Full available extracted article, L1–289. Linked images, videos and external studies not inspected.
+Article text, L1–289. Linked media and external studies are not independently verified.
 
 ## Key Insight
 
-The source proposes: Use questions to locate missing evidence before priority choices. The reviewed account reports: Author reports deleting 237 tasks; no decision-quality follow-up and example business figures explicitly fictional.
+The proposed routine is to use questions to locate missing evidence before priority choices. The author reports deleting 237 tasks; no decision-quality follow-up and example business figures explicitly fictional.
 
 ## Key Findings
 
-Paraphrases from `raw/ramonov-394-ai-co-founder-mega-prompt-2026/source.md`:
+Paraphrased source account; reported outcomes are not independently verified.
+
+Source details (paraphrased):
 
 - L30–40: planning account and task deletion
 - L112: published numbers fictional
@@ -36,13 +38,6 @@ Paraphrases from `raw/ramonov-394-ai-co-founder-mega-prompt-2026/source.md`:
 
 Personal planning account and prompt.
 
-Reported:
-
-- Author reports deleting 237 tasks; no decision-quality follow-up and example business figures explicitly fictional.
-
-Proposed, not demonstrated effects:
-
-- Use questions to locate missing evidence before priority choices.
 
 ## Supports
 
@@ -55,15 +50,10 @@ Proposed, not demonstrated effects:
 - Several assistants are not independent experts or technical mixture-of-experts.
 - A shorter task list can still be a worse decision.
 
-Assisted output, unaided capability, felt competence and calibration remain separate. This entry endorses no medical, legal, security or product-capability claim beyond the bounded source account.
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[answer-ai-questions-with-real-evidence]]
 
-**Review scope:** Full available extracted article, L1–289. Linked images, videos and external studies not inspected.
-
-Local evidence and locators: [source text](<../raw/ramonov-394-ai-co-founder-mega-prompt-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/ramonov-394-ai-co-founder-mega-prompt-2026/source.md>).

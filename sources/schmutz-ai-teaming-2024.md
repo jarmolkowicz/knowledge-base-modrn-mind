@@ -12,9 +12,9 @@ sources:
 
 Schmutz, J. B., Outland, N., Kerstan, S., Georganta, E., & Ulfert, A.-S. (2024). AI-teaming: Redefining collaboration in the digital era. Current Opinion in Psychology, 58, 101837. https://doi.org/10.1016/j.copsyc.2024.101837
 
-Publication year corrected from the catalog's 2025 to 2024. The 2025 label is the themed issue, not publication year. [Publisher record](https://www.sciencedirect.com/science/article/pii/S2352250X24000502) checked 2026-09-26. Original workbench retained under its historical 2025 folder name for audit continuity; this source uses the corrected publication year 2024.
+Published in 2024; the 2025 label refers to the themed issue. [Publisher record](https://www.sciencedirect.com/science/article/pii/S2352250X24000502).
 
-Audit: [ingestion record](../raw/schmutz-ai-teaming-2025/log.md).
+[Retained source text](../raw/schmutz-ai-teaming-2025/source.md).
 
 ## Type
 

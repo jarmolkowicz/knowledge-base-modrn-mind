@@ -58,20 +58,10 @@ Locators: L144–254, taste interview; L256–420, profile specification; L472�
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 - [[doshi-hauser-creativity-diversity-2024]] — bounded research context described above.
 
-
 ## Intended outcomes
 
 [Inference] Primary: authorship-agency. Secondary: creative-development. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[hassid-306-i-am-just-a-text-file-2026]] — origin.
-
 ## Sources
 
-- [[hassid-306-i-am-just-a-text-file-2026]]
-
-Recorded citations:
-
-- Ruben Hassid. (2026-01-21). I am just a text file.. https://ruben.substack.com/p/i-am-just-a-text-file
-
+- [[hassid-306-i-am-just-a-text-file-2026]] — origin.

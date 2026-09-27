@@ -17,15 +17,17 @@ Ethan Mollick. I, Cyborg: Using Co-Intelligence. 2024-03-14. https://www.oneusef
 
 Practitioner article.
 
-Full available extracted article, L1–66. Linked images, videos and external studies not inspected.
+Article text, L1–66. Linked media and external studies are not independently verified.
 
 ## Key Insight
 
-The source proposes: Choose which contribution stays human. The reviewed account reports: Author selectively accepts suggestions; unaided-skill effects not measured.
+The proposed routine is to choose which contribution stays human. The author selectively accepts suggestions; unaided-skill effects not measured.
 
 ## Key Findings
 
-Paraphrases from `raw/mollick-076-i-cyborg-using-co-intelligence-2024/source.md`:
+Paraphrased source account; reported outcomes are not independently verified.
+
+Source details (paraphrased):
 
 - L30: human graphs with AI statistics
 - L34–36: alternatives, own wording and reading
@@ -35,13 +37,6 @@ Paraphrases from `raw/mollick-076-i-cyborg-using-co-intelligence-2024/source.md`
 
 Personal writing and research accounts.
 
-Reported:
-
-- Author selectively accepts suggestions; unaided-skill effects not measured.
-
-Proposed, not demonstrated effects:
-
-- Choose which contribution stays human.
 
 ## Supports
 
@@ -54,15 +49,10 @@ Proposed, not demonstrated effects:
 - No universal optimal division.
 - Feeling control does not establish retained capability.
 
-Assisted output, unaided capability, felt competence and calibration remain separate. This entry endorses no medical, legal, security or product-capability claim beyond the bounded source account.
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[keep-one-thinking-step]]
 
-**Review scope:** Full available extracted article, L1–66. Linked images, videos and external studies not inspected.
-
-Local evidence and locators: [source text](<../raw/mollick-076-i-cyborg-using-co-intelligence-2024/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/mollick-076-i-cyborg-using-co-intelligence-2024/source.md>).

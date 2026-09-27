@@ -32,13 +32,13 @@ Keith Yandell (2023-02-09). Leading with empathy | Keith Yandell (DoorDash, Uber
 
 ## Evidence and Rationale
 
-**Basis:** First-person practitioner interview and advice; relevant exchange read, not the entire interview.
+**Basis:** First-person practitioner interview and advice.
 
 **Observed or reported:** Describes a profitability/growth trade-off at DoorDash.
 
 **Intended:** Improve understanding and resolve disagreement.
 
-**Related research:** No direct evaluation of this exact routine identified in this reading. Related entries below are context, not validation.
+**Related research:** The cited account does not directly evaluate this routine; related entries provide context, not validation.
 
 **Untested:** Causal effects on decision quality, retained unaided capability, confidence calibration and long-term use. A better artifact or a confident report cannot establish these.
 
@@ -50,26 +50,10 @@ Retrospective management account. Agreement or empathy does not prove a decision
 
 [Inference] Did the discussion reveal a real trade-off or merely produce agreement? This is a proposed observation, not a validated measure.
 
-## Related
-
-No research claim attached to this draft. Source links below retain provenance.
-
-## Review Status
-
-
 ## Intended outcomes
 
 [Inference] Primary: shared-understanding. Secondary: judgment. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Related
 
 - [[lenny-705-leading-with-empathy-keith-yandell-2023]] — origin.
-
-## Sources
-
-- [[lenny-705-leading-with-empathy-keith-yandell-2023]]
-
-Recorded citations:
-
-- Keith Yandell (2023-02-09). Leading with empathy | Keith Yandell (DoorDash, Uber). Lenny's Podcast.
-

@@ -4,34 +4,30 @@ area:
 - preservation
 type: article
 sources:
-- Ruben Hassid. (2026-01-21). I am just a text file.. https://ruben.substack.com/p/i-am-just-a-text-file
+- Ruben Hassid. (2026-01-21). I am just a text file. https://ruben.substack.com/p/i-am-just-a-text-file
 ---
 
 # I am just a text file.
 
 ## Citation
 
-Ruben Hassid. (2026-01-21). I am just a text file.. https://ruben.substack.com/p/i-am-just-a-text-file
+Ruben Hassid. (2026-01-21). I am just a text file. https://ruben.substack.com/p/i-am-just-a-text-file
 
 ## Key Insight
 
-The source proposes: Make writing preferences explicit enough to use and revise. The reviewed account reports: Reports making a preference file after an interview and finding its output closer to his style; no independent voice or thinking test.
+The proposed routine is to make writing preferences explicit enough to use and revise.
 
 ## Key Findings
 
-- Reports making a preference file after an interview and finding its output closer to his style; no independent voice or thinking test.
+The author reports making a preference file after an interview and finding its output closer to his style; no independent voice or thinking test.
 
-**Locators:** L144–254, taste interview; L256–420, profile specification; L472–476, updates; L550–556, AI authorship disclosure. Findings paraphrased from the archived source, not quotations.
+**Locators:** L144–254, taste interview; L256–420, profile specification; L472–476, updates; L550–556, AI authorship disclosure.
 
 ## Evidence
 
 **Basis:** First-person process account; article disclosed as AI-generated.
 
-**Reported:** Reports making a preference file after an interview and finding its output closer to his style; no independent voice or thinking test.
-
-**Proposed:** Make writing preferences explicit enough to use and revise.
-
-**Coverage:** Close-read all 594 lines of available extracted article text; image-only content and linked media not reviewed.
+**Evidence scope:** Available article text, 594 lines; image-only content and linked media are not assessed.
 
 ## Limits
 
@@ -46,13 +42,10 @@ The source proposes: Make writing preferences explicit enough to use and revise.
 
 Doshi and Hauser’s short-story experiment separates ratings of individual outputs from diversity across outputs. It does not evaluate this practice or establish lasting creative skill.
 
+## Related Practices
 
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is a proposal, not a tested intervention.
 
 - [[articulate-your-writing-preferences]]
 
-**Review scope:** Close-read all 594 lines of available extracted article text; image-only content and linked media not reviewed.
-
-Local evidence and locators: [source text](<../raw/hassid-306-i-am-just-a-text-file-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/hassid-306-i-am-just-a-text-file-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

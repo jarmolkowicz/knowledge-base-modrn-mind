@@ -4,16 +4,14 @@ area:
 - preservation
 type: article
 sources:
-- Sam Illingworth (2025-10-07). When AI Sounds Neutral, Is It?. Sam Illingworth.
+- Sam Illingworth (2025-10-07). When AI Sounds Neutral, Is It? Sam Illingworth.
 ---
 
 # When AI Sounds Neutral, Is It?
 
 ## Citation
 
-Sam Illingworth (2025-10-07). When AI Sounds Neutral, Is It?. Sam Illingworth.
-
-[Retained original](<../raw/illingworth-435-when-ai-sounds-neutral-is-it-2025/source.md>).
+Sam Illingworth (2025-10-07). When AI Sounds Neutral, Is It? Sam Illingworth.
 
 ## Type
 
@@ -21,23 +19,15 @@ Practitioner newsletter article
 
 ## Key Insight
 
-The source proposes: Broaden represented perspectives. The reviewed account reports: Worked student-description example; author identifies omitted mature and part-time students.
+The proposed routine is to broaden represented perspectives.
 
 ## Key Findings
 
-- **Reported:** Worked student-description example; author identifies omitted mature and part-time students.
-- **Proposed benefit:** Broaden represented perspectives.
+In a worked student-description example, the author identifies omitted mature and part-time students.
+
+## Source Locations
+
 - **Locators:** L30–44, L54–66, L82–86
-
-These are paraphrases of the retained source, not independently verified findings.
-
-## Relevance
-
-Role: origin. Decision: draft_with_limits.
-
-## Supports
-
-No canonical research connection asserted.
 
 ## Contradicts / Extends
 
@@ -47,19 +37,14 @@ An omission can follow the prompt or length constraint; no measured fairness imp
 
 Does this routine improve the intended outcome under a comparison that separates artifact quality, unaided capability and felt confidence?
 
-## Reading Coverage
+## Evidence Scope
 
-Read the complete available local article body; linked images, videos and external claims not independently inspected.
+Evidence is limited to the available article text; linked media and external claims are not independently verified.
 
-## Decision
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is a proposal, not a tested intervention.
 
 - [[check-missing-perspectives]]
 
-**Review scope:** Read the complete available local article body; linked images, videos and external claims not independently inspected.
-
-Local evidence and locators: [source text](<../raw/illingworth-435-when-ai-sounds-neutral-is-it-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-435-when-ai-sounds-neutral-is-it-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.

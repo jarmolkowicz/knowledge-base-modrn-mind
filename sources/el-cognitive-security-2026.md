@@ -12,9 +12,7 @@ sources:
 
 El, B., Su, S., Pappu, A., Yin, P., Heng, J., Heng, E., Wang, R., Haupt, A., & Zou, J. (2026). Position: AI development should prioritize cognitive security. Preprint, April 26, 2026. https://www.cstf.dev/icml_position_cstf-2.pdf
 
-Supplied 18-page preprint dated April 26, 2026. A [workshop version](https://openreview.net/pdf?id=5pShDP8LSm) exists; this draft follows the supplied version and does not merge versions.
-
-Audit: [ingestion record](../raw/el-cognitive-security-2026/log.md).
+Supplied 18-page preprint dated April 26, 2026. A [workshop version](https://openreview.net/pdf?id=5pShDP8LSm) exists; this summary follows the supplied version and does not merge versions.
 
 ## Type
 
@@ -42,7 +40,7 @@ A change in choice is not enough to describe AI influence. The authors propose s
 
 ## Relevance
 
-Adds measurement boundaries to [[conversational-steering]]. No new cognitive-security concept or method is proposed for this PARTIAL batch.
+Adds measurement boundaries to [[conversational-steering]].
 
 ## Supports
 

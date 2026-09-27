@@ -16,11 +16,12 @@ Jessica Hische, interviewed by Lenny Rachitsky. (2024-10-20). How to see like a 
 
 ## Key Insight
 
-The source proposes: Articulate visual preferences; use a generated pool without surrendering selection or making. The reviewed account reports: Reports selecting emotions from AI-generated lists for a children’s book and retaining production work she finds fulfilling; rejected one AI image experiment.
+The proposed routine is to articulate visual preferences; use a generated pool without surrendering selection or making. The speaker reports selecting emotions from AI-generated lists for a children’s book and retaining production work she finds fulfilling; rejected one AI image experiment.
 
 ## Key Findings
 
-- Reports selecting emotions from AI-generated lists for a children’s book and retaining production work she finds fulfilling; rejected one AI image experiment.
+Paraphrased source account; reported outcomes are not independently verified.
+
 
 **Locators:** 00:24:25–00:30:55; L162–190; 01:01:49–01:05:50; L360–375. Findings paraphrased from the archived source, not quotations.
 
@@ -47,14 +48,11 @@ The source proposes: Articulate visual preferences; use a generated pool without
 
 Doshi and Hauser’s short-story experiment separates ratings of individual outputs from diversity across outputs. It does not evaluate this practice or establish lasting creative skill.
 
+## Related Practices
 
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[name-your-own-visual-reactions]]
 - [[choose-from-an-ai-generated-creative-pool]]
 
-**Review scope:** Close-read complete relevant transcript exchanges at listed timestamps and surrounding context; not full 488-line transcript; audio/video not reviewed.
-
-Local evidence and locators: [source text](<../raw/lenny-684-how-to-see-like-a-designer-2024/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/lenny-684-how-to-see-like-a-designer-2024/source.md>).

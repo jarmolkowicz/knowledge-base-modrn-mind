@@ -32,13 +32,13 @@ Matt Abrahams (2024-03-31). How to speak more confidently and persuasively | Mat
 
 ## Evidence and Rationale
 
-**Basis:** First-person practitioner interview and advice; relevant exchange read, not the entire interview.
+**Basis:** First-person practitioner interview and advice.
 
 **Observed or reported:** Demonstrates an interview answer with the host.
 
 **Intended:** Give clearer, complete answers.
 
-**Related research:** No direct evaluation of this exact routine identified in this reading. Related entries below are context, not validation.
+**Related research:** The cited account does not directly evaluate this routine; related entries provide context, not validation.
 
 **Untested:** Causal effects on decision quality, retained unaided capability, confidence calibration and long-term use. A better artifact or a confident report cannot establish these.
 
@@ -50,26 +50,10 @@ Worked demonstration, not an evaluation. For a simple numeric question a number 
 
 [Inference] Did the example clarify the answer, or distract from an unanswered question? This is a proposed observation, not a validated measure.
 
-## Related
-
-No research claim attached to this draft. Source links below retain provenance.
-
-## Review Status
-
-
 ## Intended outcomes
 
 [Inference] Primary: shared-understanding. Secondary: independent-capability. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Related
 
 - [[lenny-731-how-to-speak-more-confidently-and-2024]] — origin.
-
-## Sources
-
-- [[lenny-731-how-to-speak-more-confidently-and-2024]]
-
-Recorded citations:
-
-- Matt Abrahams (2024-03-31). How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author). Lenny's Podcast.
-

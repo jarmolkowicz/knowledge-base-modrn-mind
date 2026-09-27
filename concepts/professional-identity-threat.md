@@ -4,7 +4,7 @@ area: [risk]
 sources:
   - "Nikolova et al. (2024)"
   - "de Mello et al. (2026)"
-  - "Alessandro et al. (2025)"
+  - "Gabbiadini et al. (2025)"
   - "Keshky (2026)"
   - "Hermann, E., Puntoni, S., & Morewedge, C. K. (2025). GenAI and the psychology of work. Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2025.04.009"
   - "Hai, S., Long, T., Honora, A., Japutra, A., & Guo, T. (2025). The dark side of employee-generative AI collaboration in the workplace: An investigation on work alienation and employee expediency. International Journal of Information Management, 83, 102905. https://doi.org/10.1016/j.ijinfomgt.2025.102905"
@@ -50,15 +50,13 @@ Bailey and Madden (2017) interviewed 44 refuse collectors, stonemasons and acade
 - Is success attributed to personal skill, AI, or both?
 - Has their role or sense of craftsmanship changed?
 
-The earlier editor-not-creator quotation lacked a traceable primary attribution. It is not retained as a verified participant quote or a prevalence claim.
-
 Keshky (2026) reports a cross-sectional SEM study (N=393) using researcher-developed scales for cognitive dependence, illusory competence and intellectual identity distortion. The latter is distinct from occupational identity. The scale organizes reported experiences into three dimensions:
 
 1. **Dissolution of the thinking self** — loss of one's role as an original source of thought and idea generation, due to near-complete dependence on AI tools
 2. **Retreat of knowledge ownership** — confusion about whether ideas are self-generated or AI-generated; blurred authorship of knowledge
 3. **Disturbance of cognitive self-concept** — disrupted understanding of one's own intellectual capabilities and identity
 
-The model reports a dependence–identity-distortion path of β=.60 and an indirect path through illusory competence of β=.35. The indirect-path p-value is inconsistent across sections (.04 in the English abstract/results table, .05 elsewhere), so no single p-value is promoted here. These associations fit the proposed mediation model; temporal order and causal mechanism remain unestablished.
+The model reports a dependence–identity-distortion path of β=.60 and an indirect path through illusory competence of β=.35. The indirect-path p-value is inconsistent across sections (.04 in the English abstract/results table, .05 elsewhere), so the reported p-values conflict. These associations fit the proposed mediation model; temporal order and causal mechanism remain unestablished.
 
 Callari and Puppione (2025) add a more varied workplace picture. In open-ended responses from 357 Copilot trial users, some protected meaning by limiting AI to routine tasks; others valued refining an assistant's ideas or seeking an expert-like sparring partner. All three orientations could express a wish to retain authority and expertise. These qualitative accounts show how employees interpret their role, not whether independent skills were preserved. They caution against treating intensive adoption as either inherently threatening or inherently more mature.
 
@@ -68,7 +66,7 @@ The constructs below concern different kinds of experience. Keshky's dependence�
 
 de Mello et al. (2026) examine moral judgments about AI use. [Inference] Concern about colleagues' or clients' judgments may add to identity-related strain, but it should not be assumed to cause or compound measured identity erosion in every setting.
 
-Alessandro et al. (2025) randomized AI-versus-human evaluation conditions across three experiments (total N=571) and found differences in self-objectification and self-efficacy. Measured indirect paths were consistent with a self-efficacy account; the mediators were not independently randomized. Professional identity erosion was not measured, and this AI-evaluation context differs from using AI to create work.
+Gabbiadini et al. (2025) randomized AI-versus-human evaluation conditions across three experiments (total N=571) and found differences in self-objectification and self-efficacy. Measured indirect paths were consistent with a self-efficacy account; the mediators were not independently randomized. Professional identity erosion was not measured, and this AI-evaluation context differs from using AI to create work.
 
 Hermann, Puntoni & Morewedge (2025), in an Opinion article, apply Basic Psychological Needs Theory to possible gains and frustrations involving competence, autonomy and relatedness. Their account links these needs to possible identity concerns; it is not a joint causal test of an identity-threat mechanism. They propose five compensatory response categories, discussed in [[identity-threat-coping]], and a possible [[paradox-of-expertise]]. The proposed novice/expert risks require context-specific evidence.
 
@@ -131,8 +129,8 @@ Wu's experiments, Hai's observational field study and Hermann's theoretical revi
 ## Sources
 
 - [[nikolova-robots-meaning-2024]] — Nikolova et al. (2024)
-- de Mello et al. (2026)
-- [[alessandro-self-efficacy-2025]] — Alessandro et al. (2025)
+- [[demello-moralization-2026]] — de Mello et al. (2026)
+- [[alessandro-self-efficacy-2025]] — Gabbiadini et al. (2025)
 - [[keshky-illusory-competence-2026]] — Keshky (2026)
 - [[hermann-genai-psychology-work-2025]] — Hermann, E., Puntoni, S., & Morewedge, C. K. (2025). GenAI and the psychology of work. Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2025.04.009
 - [[hai-dark-side-collaboration-2025]] — Hai, S., Long, T., Honora, A., Japutra, A., & Guo, T. (2025). The dark side of employee-generative AI collaboration in the workplace: An investigation on work alienation and employee expediency. International Journal of Information Management, 83, 102905. https://doi.org/10.1016/j.ijinfomgt.2025.102905
@@ -147,4 +145,3 @@ Wu's experiments, Hai's observational field study and Hermann's theoretical revi
 - [[bailey-madden-time-reclaimed-2017]] — Bailey, C., & Madden, A. (2017). Time reclaimed: temporality and the experience of meaningful work. Work, Employment and Society, 31(1), 3–18. https://doi.org/10.1177/0950017015604100
 - [[smids-robots-meaningful-work-2020]] — Smids, J., Nyholm, S., & Berkers, H. (2020). Robots in the workplace: A threat to—or opportunity for—meaningful work? Philosophy & Technology, 33, 503–522. https://doi.org/10.1007/s13347-019-00377-4
 - [[szots-kovats-primecz-hr-meaningfulness-2025]] — Szőts-Kováts, K., & Primecz, H. (2025). How do human resource managers make sense of their work? A study of changing work meaningfulness using the critical incident technique. Human Resource Development International, 28(1), 132–151. https://doi.org/10.1080/13678868.2024.2310656
-

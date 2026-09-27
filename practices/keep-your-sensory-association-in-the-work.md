@@ -58,20 +58,10 @@ Locators: L16, attribution; L36–52, sensory prompt; L72–82, Lumo account. Pr
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 - [[doshi-hauser-creativity-diversity-2024]] — bounded research context described above.
 
-
 ## Intended outcomes
 
 [Inference] Primary: authorship-agency. Secondary: creative-development. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[illingworth-409-teaching-ai-to-notice-neurodiverse-perception-2025]] — origin.
-
 ## Sources
 
-- [[illingworth-409-teaching-ai-to-notice-neurodiverse-perception-2025]]
-
-Recorded citations:
-
-- Susan Gordon Byron, with Sam Illingworth. (2025-11-27). Teaching AI to Notice Neurodiverse Perception. https://theslowai.substack.com/p/ai-and-neurodiverse-perception
-
+- [[illingworth-409-teaching-ai-to-notice-neurodiverse-perception-2025]] — origin.

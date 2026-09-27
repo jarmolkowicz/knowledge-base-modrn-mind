@@ -60,14 +60,6 @@ Randomly mixing unrelated topics is not the same design. Harder immediate perfor
 - [[desirable-difficulty]]
 - [[rehearse-a-bounded-reasoning-case]]
 
-## Source roles
-
-- [[bjork-desirable-difficulties-2011]] — origin of the research, recommendation or framework; exact editorial additions identified above.
-
 ## Sources
 
-- [[bjork-desirable-difficulties-2011]]
-
-Recorded citations:
-
-- Bjork, E. L., & Bjork, R. A. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher, R. W. Pew, L. M. Hough, & J. R. Pomerantz (Eds.), Psychology and the Real World (pp. 56–64). Worth Publishers.
+- [[bjork-desirable-difficulties-2011]] — origin of the research, recommendation or framework; exact editorial additions identified above.

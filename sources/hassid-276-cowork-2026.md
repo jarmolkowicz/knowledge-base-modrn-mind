@@ -3,29 +3,30 @@ status: emerging
 area:
 - risk
 - preservation
+type: article
 sources:
-- Ruben Hassid. Cowork.. 2026-03-05. https://ruben.substack.com/p/claude-cowork
+- Ruben Hassid. Cowork. 2026-03-05. https://ruben.substack.com/p/claude-cowork
 ---
 
 # Cowork.
 
 ## Citation
 
-Ruben Hassid. Cowork.. 2026-03-05. https://ruben.substack.com/p/claude-cowork
+Ruben Hassid. Cowork. 2026-03-05. https://ruben.substack.com/p/claude-cowork
 
 ## Type and Scope
 
 Practitioner article.
 
-Full available extracted article, L1–548. Linked images, videos and external studies not inspected.
+Available article text, L1–548. Linked media and external studies are not independently verified.
 
 ## Key Insight
 
-The source proposes: Reduce avoidable assumptions through context and questions. 
+The proposed routine is to reduce avoidable assumptions through context and questions.
 
 ## Key Findings
 
-Paraphrases from `raw/hassid-276-cowork-2026/source.md`:
+Source details:
 
 - L79–125: relevant context, examples and output folders
 - L140–179: read-only wording
@@ -35,14 +36,6 @@ Paraphrases from `raw/hassid-276-cowork-2026/source.md`:
 ## Evidence
 
 Proposed context-folder workflow with demonstrations.
-
-Reported:
-
-- None reported in the reviewed material.
-
-Proposed, not demonstrated effects:
-
-- Reduce avoidable assumptions through context and questions.
 
 ## Supports
 
@@ -55,15 +48,10 @@ Proposed, not demonstrated effects:
 - More context can expose private material and add noise.
 - Folder structure does not prove persistent memory or instruction following.
 
-Assisted output, unaided capability, felt competence and calibration remain separate. This entry endorses no medical, legal, security or product-capability claim beyond the bounded source account.
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is a proposal, not a tested intervention.
 
 - [[curate-context-and-clarify-before-drafting]]
 
-**Review scope:** Full available extracted article, L1–548. Linked images, videos and external studies not inspected.
-
-Local evidence and locators: [source text](<../raw/hassid-276-cowork-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/hassid-276-cowork-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

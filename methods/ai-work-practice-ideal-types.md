@@ -47,7 +47,7 @@ The qualitative study provides a vocabulary for differing employee experiences. 
 - Based on one organization's early trial; no predictive validity or intervention evidence.
 - An expert-like teammate is a user's framing, not proof of system competence.
 
-[[meaningful-work|Meaningful work]] is not interchangeable with engagement, satisfaction or performance. Allan et al. (2019) synthesize correlations among these outcomes, not evidence that a particular AI-adoption orientation causes them. Lips-Wiersma and Wright (2012) developed a multidimensional meaning measure, not an adoption-type assessment; the reported model fit has an unresolved qualification in the source note. Neither paper validates an AI-adoption intervention. [Inference] Ask what makes work worthwhile rather than using greater adoption or engagement as a substitute measure.
+[[meaningful-work|Meaningful work]] is not interchangeable with engagement, satisfaction or performance. Allan et al. (2019) synthesize correlations among these outcomes, not evidence that a particular AI-adoption orientation causes them. Lips-Wiersma and Wright (2012) developed a multidimensional meaning measure, not an adoption-type assessment; the reported model-fit statistics require caution (see [[lips-wiersma-wright-meaningful-work-scale-2012]]). Neither paper validates an AI-adoption intervention. [Inference] Ask what makes work worthwhile rather than using greater adoption or engagement as a substitute measure.
 
 Recalled task experiences are not direct observations of momentary feelings. Martikainen et al.'s qualitative study did not investigate AI; its distinction informs a proposed prompt, not a tested intervention.
 

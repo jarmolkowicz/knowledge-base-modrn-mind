@@ -22,7 +22,7 @@ Across 16 preregistered experiments (N = 27,491), disclosing AI involvement in c
 
 ## Relevance
 
-Provides the largest and most rigorous evidence base for the [[disclosure-penalty]] to date. The sheer scale (16 experiments, 27K+ participants), the systematic testing and failure of multiple mitigation strategies, and the authenticity mechanism all strengthen the KB's treatment of this phenomenon. The finding that the penalty persists across different content types, evaluation metrics, and time periods (March 2023 to June 2024) makes this a cornerstone source.
+Provides evidence for the [[disclosure-penalty]] across creative-writing types, evaluation measures and experiments conducted from March 2023 to June 2024. It also tests several attempts to reduce the penalty and examines perceived authenticity as a mediator.
 
 ## Key Findings
 
@@ -34,6 +34,6 @@ Provides the largest and most rigorous evidence base for the [[disclosure-penalt
 
 ## Supports
 
-- [[disclosure-penalty]] - massive new evidence base with authenticity mechanism
+- [[disclosure-penalty]] - creative-writing evaluations and perceived authenticity
 - [[transparency-paradox]] - reinforces the dilemma: people can't distinguish AI vs. human writing when unlabeled, but penalize it when labeled
 - [[authenticity]] - perceived authenticity as the key mediating variable

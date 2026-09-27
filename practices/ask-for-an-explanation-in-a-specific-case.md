@@ -55,15 +55,10 @@ The question is not AI-proof: a model can answer it or invent personal experienc
 
 [Inference] Primary: understanding. Secondary: calibration. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[illingworth-427-how-to-test-for-real-understanding-2026]] — origin.
 
-## Sources
-
-- [[illingworth-427-how-to-test-for-real-understanding-2026]]
-
-Recorded citations:
+Additional citations:
 
 - Mahelet G Fikru and Sam Illingworth. How to Test for Real Understanding When AI Makes Every Answer Sound Right. 2026-02-12. https://theslowai.substack.com/p/ai-fluency-trap-test-real-understanding
-

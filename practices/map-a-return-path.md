@@ -57,20 +57,10 @@ Locators: L24, attribution; L30–40, return-path prompt; L44–58, account and 
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 - [[guingrich-belief-offloading-2026]] — bounded research context described above.
 
-
 ## Intended outcomes
 
 [Inference] Primary: judgment. Secondary: calibration. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[illingworth-413-how-to-use-ai-to-test-2026]] — origin.
-
 ## Sources
 
-- [[illingworth-413-how-to-use-ai-to-test-2026]]
-
-Recorded citations:
-
-- Ting Wang (Tzu-Ting), with Sam Illingworth. (2026-02-17). How to Use AI to Test Whether a Career Decision Is Reversible. https://theslowai.substack.com/p/ai-career-decision-reversible-return-path
-
+- [[illingworth-413-how-to-use-ai-to-test-2026]] — origin.

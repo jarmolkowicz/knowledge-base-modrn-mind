@@ -20,25 +20,19 @@ Multi-contributor practice collection co-edited by Alyssa Fu Ward; specific firs
 
 ## Key Insight
 
-The source proposes: Convert creative disagreement into reusable human craft criteria. The reviewed account reports: Illingworth accepted two critiques and kept another image. Sherman describes revisions he authored, rejecting AI advice, and a personal checklist applied without AI.
+The proposed routine is to convert creative disagreement into reusable human craft criteria.
 
 ## Key Findings
 
-These are source-account summaries, not independently validated effects.
+Illingworth accepted two critiques and kept another image. Sherman describes revisions he authored, rejecting AI advice, and a personal checklist applied without AI.
 
-- Illingworth accepted two critiques and kept another image. Sherman describes revisions he authored, rejecting AI advice, and a personal checklist applied without AI.
+## Source Locations
 
-## Locators and coverage
-
-Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
+Evidence is limited to the available article text; linked pages and embedded media are not assessed.
 
 - L61–84, Illingworth poem editing
 - L194–208, Joshua Sherman songwriting and checklist
 - L86–192, other contributor accounts for context
-
-## Relevance
-
-- Convert creative disagreement into reusable human craft criteria.
 
 ## Supports / overlaps
 
@@ -49,16 +43,13 @@ Read the complete available article text in source.md, including examples, limit
 
 - Selected self-reports, not independent quality assessment or representative sample. Contributor practices differ: some do use generated material; no universal AI-never-writes claim. Legal borrowing claims not adopted.
 
+## Related Practices
 
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is a proposal, not a tested intervention.
 
 - [[request-criticism-without-rewriting]]
 - [[turn-creative-disagreement-into-your-own-checklist]]
 
 **Application boundary [Inference]:** Credit each contributor separately. A checklist expresses a creator’s choices, not universal rules of art.
 
-**Review scope:** Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
-
-Local evidence and locators: [source text](<../raw/illingworth-460-how-creatives-are-actually-using-ai-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-460-how-creatives-are-actually-using-ai-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

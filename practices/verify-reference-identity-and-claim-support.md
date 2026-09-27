@@ -37,7 +37,7 @@ PDF p.1: sequential verification and validation; p.2: database-coverage limits a
 
 ## Evidence and Rationale
 
-**Basis:** Large bibliographic audit with a 500-reference masked validation. Relevant procedure and limitations passages read; not a trial of this manual checklist.
+**Basis:** Large bibliographic audit with a 500-reference masked validation. Not a trial of this manual checklist.
 
 **Observed or reported:** The system compared metadata and checked flagged references across several databases. Reported precision was 91%; recall was not estimated. The audit excluded references without a PMID and acknowledged that some sources might exist outside the searched databases.
 
@@ -58,14 +58,6 @@ Do not transfer the audit’s precision to your own checking. A real source may 
 - [[reference-verification]]
 - [[check-correctness-and-completeness]]
 
-## Source roles
-
-- [[topaz-fabricated-citations-2026]] — origin of the research, recommendation or framework; exact editorial additions identified above.
-
 ## Sources
 
-- [[topaz-fabricated-citations-2026]]
-
-Recorded citations:
-
-- Topaz, M., Roguin, N., Gupta, P., Zhang, Z., & Peltonen, L.-M. (2026). Fabricated citations: an audit across 2·5 million biomedical papers. The Lancet, 407, 1779–1781.
+- [[topaz-fabricated-citations-2026]] — origin of the research, recommendation or framework; exact editorial additions identified above.

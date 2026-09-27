@@ -40,7 +40,7 @@ Zhu and Molnar (2025) extend this issue to authorship that is unknown or unmenti
 
 - [[competence-authenticity]] — the worker's perceived connection between results and personal mastery.
 
-- [[zhu-molnar-ai-ignorance-2025]] — unknown authorship and social impressions in the reviewed one-experiment preprint.
+- [[zhu-molnar-ai-ignorance-2025]] — unknown authorship and social impressions in the 2025 one-experiment preprint.
 
 ## Sources
 

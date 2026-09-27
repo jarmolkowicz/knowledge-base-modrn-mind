@@ -25,7 +25,7 @@ The model links these states with internal motivation and other work outcomes, w
 
 ## What To Do
 
-[Inference] For an AI-related job redesign, use the dimensions as discussion prompts: what skills remain in use, can the worker see a complete contribution, whose work or life benefits, what decisions remain theirs, and what reveals the quality of the result? Compare the actual before-and-after job. These questions are a KB application, not an intervention validated in this paper.
+[Inference] For an AI-related job redesign, use the dimensions as discussion prompts: what skills remain in use, can the worker see a complete contribution, whose work or life benefits, what decisions remain theirs, and what reveals the quality of the result? Compare the actual before-and-after job. These questions adapt the model to AI-related work; the paper does not validate this intervention.
 
 ## Why It Works
 

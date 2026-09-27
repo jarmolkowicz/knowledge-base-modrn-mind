@@ -21,45 +21,28 @@ Practitioner interview transcript
 
 ## Key Insight
 
-The source proposes: Make advice contextual and surface surprises. The reviewed account reports: Describes collecting podcast-topic feedback from around ten people.
+The proposed routine is to make advice contextual and surface surprises. The speaker describes collecting podcast-topic feedback from around ten people.
 
 ## Key Findings
 
-- **Reported:** Describes collecting podcast-topic feedback from around ten people.
-- **Proposed benefit:** Make advice contextual and surface surprises.
+Paraphrased source account; reported outcomes are not independently verified.
+
 - **Locators:** L70–107; 00:03:45–00:11:39
-
-These are paraphrases of the retained source, not independently verified findings.
-
-## Relevance
-
-Role: origin. Decision: draft_with_limits.
-
-## Supports
-
-No canonical research connection asserted.
 
 ## Contradicts / Extends
 
-Responses are a convenience sample, not votes establishing the right answer. Her career-question example partly leads despite the stated non-leading principle. Estate-planning and executive-function claims excluded.
+Responses are a convenience sample, not votes establishing the right answer. Her career-question example partly leads despite the stated non-leading principle. The account does not establish the validity of its estate-planning or executive-function claims.
 
 ## Open Questions
 
 Does this routine improve the intended outcome under a comparison that separates artifact quality, unaided capability and felt confidence?
 
-## Reading Coverage
+## Evidence Scope
 
-Read relevant complete transcript exchanges: L70–107; 00:03:45–00:11:39. Other interview sections not reviewed; source audio not checked.
+Transcript evidence: L70–107; 00:03:45–00:11:39. Limited to these exchanges; other interview sections and source audio are not assessed.
 
-## Decision
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[ask-contextual-human-advisers]]
-
-**Review scope:** Read relevant complete transcript exchanges: L70–107; 00:03:45–00:11:39. Other interview sections not reviewed; source audio not checked.
-
-Local evidence and locators: [source text](<../raw/lenny-533-feeling-stuck-here-s-how-to-2023/source.md>). Source findings above are paraphrases unless explicitly quoted.

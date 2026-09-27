@@ -38,7 +38,7 @@ Locators: 00:53:57–00:55:20; L407–429. Practice title is an editorial label.
 
 **Observed or reported:** Reports dictating her thoughts during walks, then summarizing them to identify actions and gain perspective.
 
-**Related research:** No directly relevant evaluation of this routine was identified in this review. The practitioner account above supplies its rationale; the AI adaptation remains untested.
+**Related research:** The practitioner account provides the rationale, not a direct evaluation; the AI adaptation remains untested.
 
 **Untested:** Whether this specific procedure improves judgment, independent capability, creative quality or calibration beyond the reported experience. A completed artifact, more options and felt clarity are different outcomes.
 
@@ -56,20 +56,10 @@ Locators: 00:53:57–00:55:20; L407–429. Practice title is an editorial label.
 
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 
-
 ## Intended outcomes
 
 [Inference] Primary: authorship-agency. Secondary: attention. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[lenny-741-she-turned-100-rejections-into-a-2025]] — origin.
-
 ## Sources
 
-- [[lenny-741-she-turned-100-rejections-into-a-2025]]
-
-Recorded citations:
-
-- Melanie Perkins, interviewed by Lenny Rachitsky. (2025-11-02). She turned 100+ rejections into a $42B company | Melanie Perkins. https://www.youtube.com/watch?v=-LywX3T5Scc
-
+- [[lenny-741-she-turned-100-rejections-into-a-2025]] — origin.

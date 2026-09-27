@@ -32,44 +32,28 @@ Ada Chen Rekhi (2023-04-21). Feeling stuck? Here's how to know when it's time to
 
 ## Evidence and Rationale
 
-**Basis:** First-person practitioner interview and advice; relevant exchange read, not the entire interview.
+**Basis:** First-person practitioner interview and advice.
 
 **Observed or reported:** Describes collecting podcast-topic feedback from around ten people.
 
 **Intended:** Make advice contextual and surface surprises.
 
-**Related research:** No direct evaluation of this exact routine identified in this reading. Related entries below are context, not validation.
+**Related research:** The cited account does not directly evaluate this routine; related entries provide context, not validation.
 
 **Untested:** Causal effects on decision quality, retained unaided capability, confidence calibration and long-term use. A better artifact or a confident report cannot establish these.
 
 ## Limits
 
-Responses are a convenience sample, not votes establishing the right answer. Her career-question example partly leads despite the stated non-leading principle. Estate-planning and executive-function claims excluded.
+Responses are a convenience sample, not votes establishing the right answer. Her career-question example partly leads despite the stated non-leading principle.
 
 ## What to Notice
 
 [Inference] What did a person know that was absent from the initial framing? This is a proposed observation, not a validated measure.
 
-## Related
-
-No research claim attached to this draft. Source links below retain provenance.
-
-## Review Status
-
-
 ## Intended outcomes
 
 [Inference] Primary: judgment. Secondary: shared-understanding. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Related
 
 - [[lenny-533-feeling-stuck-here-s-how-to-2023]] — origin.
-
-## Sources
-
-- [[lenny-533-feeling-stuck-here-s-how-to-2023]]
-
-Recorded citations:
-
-- Ada Chen Rekhi (2023-04-21). Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi. Lenny's Podcast.
-

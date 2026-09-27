@@ -15,11 +15,12 @@ Itamar Gilad, interviewed by Lenny Rachitsky. (2023-09-21). Becoming evidence-gu
 
 ## Key Insight
 
-The source proposes: Distinguish enthusiasm, opinion, data and tests when judging a proposal. The reviewed account reports: Gilad reports teams use the confidence meter to challenge poorly supported investment; no controlled comparison.
+The proposed routine is to distinguish enthusiasm, opinion, data and tests when judging a proposal. Gilad reports teams use the confidence meter to challenge poorly supported investment; no controlled comparison.
 
 ## Key Findings
 
-- Gilad reports teams use the confidence meter to challenge poorly supported investment; no controlled comparison.
+Paraphrased source account; reported outcomes are not independently verified.
+
 
 **Locators:** 00:37:04–00:45:50; L296–345. Findings paraphrased from the archived source, not quotations.
 
@@ -46,13 +47,10 @@ The source proposes: Distinguish enthusiasm, opinion, data and tests when judgin
 
 Guingrich, Mehta and Bhatt offer a conceptual account of [[belief-offloading]], not evidence that this routine prevents it.
 
+## Related Practices
 
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[match-confidence-to-evidence]]
 
-**Review scope:** Close-read complete relevant transcript exchanges at listed timestamps and surrounding context; not full 583-line transcript; audio/video not reviewed.
-
-Local evidence and locators: [source text](<../raw/lenny-663-becoming-evidence-guided-itamar-gilad-2023/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/lenny-663-becoming-evidence-guided-itamar-gilad-2023/source.md>).

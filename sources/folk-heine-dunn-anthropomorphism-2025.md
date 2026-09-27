@@ -81,7 +81,7 @@ Across two studies (total N = 1,274 American and Canadian Prolific participants)
 
 ## Relevance
 
-Three load-bearing contributions:
+Three contributions:
 
 - **Names and empirically anchors the [[anthropomorphism-of-technology]] moderator** — the individual-difference variable the KB's loneliness/companion cluster has been pointing at without housing. Folk-Heine-Dunn supply the construct (an 8-item scale, α = 0.88, validated in Folk, Wu & Heine 2025), the experimental evidence that it moderates immediate social-connection benefit from chatbots, and the spotlight analyses that describe the proportions in these study samples above the threshold (58–72%), not population prevalence.
 - **Separates immediate connection from longer-term outcomes.** Anthropomorphism moderated the chatbot-versus-journaling comparison here. This does not identify an entry point on a shared [[ai-loneliness-effect]] dose-response curve or link these participants to the separate longitudinal sample.
@@ -89,7 +89,7 @@ Three load-bearing contributions:
 
 ## Supports
 
-- [[anthropomorphism-of-technology]] — primary source for the new concept (introduced as NEW); 8-item scale, two-study evidence base, threshold of meaningful effect.
+- [[anthropomorphism-of-technology]] — primary source for the concept; 8-item scale, two-study evidence base, threshold of meaningful effect.
 - [[ai-loneliness-effect]] — immediate connection outcome; distinct from the separate samples and measures in [[fang-ai-loneliness-2025]], [[folk-dunn-companionship-loneliness-2026]] and [[sharma-disempowerment-patterns-2026]].
 - [[mira-model]] — empirical evidence sharpening MIRA principle 2 (psychological proximity) into a user-moderator-driven mechanism.
 - [[boyd-markowitz-human-connection-2026]] — the theoretical framework Folk-Heine-Dunn's evidence calibrates; cites this paper-cluster as part of the empirical loneliness/companion literature MIRA frames.

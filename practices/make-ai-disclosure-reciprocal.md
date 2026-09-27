@@ -32,19 +32,19 @@ Sam Illingworth (2026-09-04). Your AI Policy Does Not Apply to the Person Who Wr
 
 ## Evidence and Rationale
 
-**Basis:** Available article body read; proposal and/or author demonstration, not direct evaluation of this routine.
+**Basis:** Author proposal or demonstration, not direct evaluation of this routine.
 
 **Observed or reported:** Provides his own AI-use statement and a proposed reciprocal classroom policy.
 
 **Intended:** Make responsibility and assistance visible.
 
-**Related research:** No direct evaluation of this exact routine identified in this reading. Related entries below are context, not validation.
+**Related research:** The cited account does not directly evaluate this routine; related entries provide context, not validation.
 
 **Untested:** Causal effects on decision quality, retained unaided capability, confidence calibration and long-term use. A better artifact or a confident report cannot establish these.
 
 ## Limits
 
-No evaluation of the policy or its effects. Disclosure can carry social costs; do not promise trust gains. News, survey figures and tool-version claims are not verified here.
+No evaluation of the policy or its effects. Disclosure can carry social costs; do not promise trust gains.
 
 ## What to Notice
 
@@ -54,22 +54,10 @@ No evaluation of the policy or its effects. Disclosure can carry social costs; d
 
 - [[cheong-penalizing-transparency-2025]] — related mechanism or tension; does not validate this routine.
 
-## Review Status
-
-
 ## Intended outcomes
 
 [Inference] Primary: accountability. Secondary: authorship-agency. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[illingworth-421-your-ai-policy-does-not-apply-2026]] — origin.
-
 ## Sources
 
-- [[illingworth-421-your-ai-policy-does-not-apply-2026]]
-
-Recorded citations:
-
-- Sam Illingworth (2026-09-04). Your AI Policy Does Not Apply to the Person Who Wrote It. Sam Illingworth.
-
+- [[illingworth-421-your-ai-policy-does-not-apply-2026]] — origin.

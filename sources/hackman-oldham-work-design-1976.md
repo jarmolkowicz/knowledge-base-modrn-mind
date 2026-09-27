@@ -12,7 +12,7 @@ sources:
 
 Hackman, J. R., & Oldham, G. R. (1976). Motivation through the design of work: Test of a theory. Organizational Behavior and Human Performance, 16, 250–279.
 
-Supplied 30-page published PDF; printed pages250–279. PDF locators used below; author initials avoid garbled given-name extraction.
+Supplied 30-page published PDF; printed pages 250–279. PDF locators used below.
 
 ## Type
 
@@ -44,7 +44,7 @@ A foundation for analyzing AI-related job changes without treating task removal 
 
 ## Supports
 
-- [[job-characteristics-model]] — new descriptive model draft.
+- [[job-characteristics-model]] — descriptive job-design model.
 - [[agency]] — distinguishes job discretion, experienced responsibility and outcomes.
 
 ## Contradicts / Extends

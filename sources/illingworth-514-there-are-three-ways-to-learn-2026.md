@@ -4,14 +4,14 @@ area:
 - preservation
 type: article
 sources:
-- Sam Illingworth. There Are Three Ways to Learn With AI. Most People Use None of Them.. 2026-03-25. https://theslowai.substack.com/p/three-ways-to-learn-with-ai
+- Sam Illingworth. There Are Three Ways to Learn With AI. Most People Use None of Them. 2026-03-25. https://theslowai.substack.com/p/three-ways-to-learn-with-ai
 ---
 
 # There Are Three Ways to Learn With AI. Most People Use None of Them.
 
 ## Citation
 
-Sam Illingworth. There Are Three Ways to Learn With AI. Most People Use None of Them.. 2026-03-25. https://theslowai.substack.com/p/three-ways-to-learn-with-ai
+Sam Illingworth. There Are Three Ways to Learn With AI. Most People Use None of Them. 2026-03-25. https://theslowai.substack.com/p/three-ways-to-learn-with-ai
 
 ## Type and account basis
 
@@ -19,24 +19,18 @@ Sam Illingworth proposes workplace exercises from Shen and Tamkin’s explorator
 
 ## Key Insight
 
-The source proposes: Ask conceptual questions then perform a task; investigate generated work before accepting it. The reviewed account reports: No outcomes for the proposed workplace exercises. Cited study compares AI access and describes small behavior clusters.
+The proposed routine is to ask conceptual questions then perform a task; investigate generated work before accepting it.
 
 ## Key Findings
 
-These are source-account summaries, not independently validated effects.
+The account includes no outcomes for the proposed workplace exercises. The cited study compares AI access and describes small behavior clusters.
 
-- No outcomes for the proposed workplace exercises. Cited study compares AI access and describes small behavior clusters.
+## Source Locations
 
-## Locators and coverage
-
-Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
+Evidence is limited to the available article text; linked pages and embedded media are not assessed.
 
 - L27–75, study interpretation
 - L109–151, three exercises and audit question
-
-## Relevance
-
-- Ask conceptual questions then perform a task; investigate generated work before accepting it.
 
 ## Supports / overlaps
 
@@ -47,18 +41,15 @@ Read the complete available article text in source.md, including examples, limit
 
 ## Open Questions and limits
 
-- Strategies were not randomized. Local research entry gives low-cluster mean around 39%, not learned nothing. Durable skill atrophy, universal learning loss and transfer beyond coding are not established. Model explanations are generated rationales, not records of internal decisions.
+- Strategies were not randomized. The related research reports a low-cluster mean around 39%; that does not mean participants learned nothing. Durable skill atrophy, universal learning loss and transfer beyond coding are not established. Model explanations are generated rationales, not records of internal decisions.
 
+## Related Practices
 
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is a proposal, not a tested intervention.
 
 - [[ask-about-the-gap-then-do-the-task]]
 - [[explain-it-back-before-the-correction]]
 
 **Application boundary [Inference]:** Separate learning goal from assisted task completion. Keep access aids, external answers and human instruction available.
 
-**Review scope:** Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
-
-Local evidence and locators: [source text](<../raw/illingworth-514-there-are-three-ways-to-learn-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-514-there-are-three-ways-to-learn-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

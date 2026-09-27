@@ -22,23 +22,13 @@ Practitioner interview transcript
 
 ## Key Insight
 
-The source proposes: Make the message responsive to the audience’s situation. The reviewed account reports: Describes annual and quarterly internal communication practice.
+The proposed routine is to make the message responsive to the audience’s situation. The speaker describes annual and quarterly internal communication practice.
 
 ## Key Findings
 
-- **Reported:** Describes annual and quarterly internal communication practice.
-- **Proposed benefit:** Make the message responsive to the audience’s situation.
+Paraphrased source account; reported outcomes are not independently verified.
+
 - **Locators:** L148–188; 00:16:22–00:22:56
-
-These are paraphrases of the retained source, not independently verified findings.
-
-## Relevance
-
-Role: origin. Decision: draft_with_limits.
-
-## Supports
-
-No canonical research connection asserted.
 
 ## Contradicts / Extends
 
@@ -48,19 +38,12 @@ First-person company account, no measured comprehension or behavioral change. Le
 
 Does this routine improve the intended outcome under a comparison that separates artifact quality, unaided capability and felt confidence?
 
-## Reading Coverage
+## Evidence Scope
 
-Read relevant complete transcript exchanges: L148–188; 00:16:22–00:22:56. Other interview sections not reviewed; source audio not checked.
+Transcript evidence: L148–188; 00:16:22–00:22:56. Limited to these exchanges; other interview sections and source audio are not assessed.
 
-## Decision
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[listen-before-shaping-the-message]]
-
-**Review scope:** Read relevant complete transcript exchanges: L148–188; 00:16:22–00:22:56. Other interview sections not reviewed; source audio not checked.
-
-Local evidence and locators: [source text](<../raw/lenny-755-storytelling-with-nancy-duarte-how-to-2023/source.md>). Source findings above are paraphrases unless explicitly quoted.

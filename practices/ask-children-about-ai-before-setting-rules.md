@@ -44,7 +44,7 @@ Locators: L15–19, family encounter; L117–127, five alternatives; L135–143,
 
 ## Limits
 
-- The article’s legal and policy claims were not independently refreshed in this review.
+- This conversation does not establish which legal or school-policy rules apply.
 - Listening does not replace adult responsibilities or tool assessment.
 - The article itself recognizes uncertainty; comparisons with other prohibition policies are analogies, not causal AI evidence.
 
@@ -57,20 +57,10 @@ Locators: L15–19, family encounter; L117–127, five alternatives; L135–143,
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 - [[bastani-guardrails-math-rct-2025]] — bounded research context described above.
 
-
 ## Intended outcomes
 
 [Inference] Primary: accountability. Secondary: shared-understanding. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[illingworth-412-my-six-year-old-told-me-2026]] — origin.
-
 ## Sources
 
-- [[illingworth-412-my-six-year-old-told-me-2026]]
-
-Recorded citations:
-
-- Sam Illingworth. (2026-09-25). My Six-Year-Old Told Me to Say No to AI. https://theslowai.substack.com/p/ai-bans-schools-prohibition-evidence
-
+- [[illingworth-412-my-six-year-old-told-me-2026]] — origin.

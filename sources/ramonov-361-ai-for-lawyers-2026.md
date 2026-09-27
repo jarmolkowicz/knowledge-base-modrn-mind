@@ -17,15 +17,17 @@ Paula Rojas, interviewed/profiled by Sabrina Ramonov. AI for Lawyers (3 Real Use
 
 Practitioner article.
 
-Full available extracted article, L1–473. Linked images, videos and external studies not inspected.
+Article text, L1–473. Linked media and external studies are not independently verified.
 
 ## Key Insight
 
-The source proposes: Keep strategy and sign-off with accountable person. The reviewed account reports: Rojas reports shorter drafting time and checks deadlines/citations; figures and no-error report not audited.
+The proposed routine is to keep strategy and sign-off with an accountable person. Rojas reports shorter drafting time and checks deadlines/citations; figures and no-error report not audited.
 
 ## Key Findings
 
-Paraphrases from `raw/ramonov-361-ai-for-lawyers-2026/source.md`:
+Paraphrased source account; reported outcomes are not independently verified.
+
+Source details (paraphrased):
 
 - L74–78: irreversible actions require approval
 - L121–129: reported time and deadline review
@@ -37,13 +39,6 @@ Paraphrases from `raw/ramonov-361-ai-for-lawyers-2026/source.md`:
 
 Named lawyer’s first-person account in host article.
 
-Reported:
-
-- Rojas reports shorter drafting time and checks deadlines/citations; figures and no-error report not audited.
-
-Proposed, not demonstrated effects:
-
-- Keep strategy and sign-off with accountable person.
 
 ## Supports
 
@@ -58,15 +53,10 @@ Proposed, not demonstrated effects:
 - Privacy/setup claims not verified controls.
 - Speed does not establish better judgment or retained expertise.
 
-Assisted output, unaided capability, felt competence and calibration remain separate. This entry endorses no medical, legal, security or product-capability claim beyond the bounded source account.
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[settle-the-strategy-before-requesting-a-draft]]
 
-**Review scope:** Full available extracted article, L1–473. Linked images, videos and external studies not inspected.
-
-Local evidence and locators: [source text](<../raw/ramonov-361-ai-for-lawyers-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/ramonov-361-ai-for-lawyers-2026/source.md>).

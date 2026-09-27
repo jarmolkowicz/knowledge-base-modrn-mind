@@ -19,26 +19,20 @@ Sam Illingworth reports an open exploratory exercise: one model, ten poems, thir
 
 ## Key Insight
 
-The source proposes: Examines limits of AI as a critical reader. The reviewed account reports: Reports competent formal analysis, a reading that changed his view of one poem, and differences from his personal associations.
+The article examines limits of AI as a critical reader.
 
 ## Key Findings
 
-These are source-account summaries, not independently validated effects.
+The author reports competent formal analysis, a reading that changed his view of one poem, and differences from his personal associations.
 
-- Reports competent formal analysis, a reading that changed his view of one poem, and differences from his personal associations.
+## Source Locations
 
-## Locators and coverage
-
-Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
+Evidence is limited to the available article text; linked pages and embedded media are not assessed.
 
 - L33–65, method and interpretive caveat
 - L69–133, findings and positive case
 - L145–177, AI role and limitations
 - L181–203, extrapolation
-
-## Relevance
-
-- Examines limits of AI as a critical reader.
 
 ## Supports / overlaps
 
@@ -48,15 +42,12 @@ Read the complete available article text in source.md, including examples, limit
 
 - Published/unpublished status does not establish training-data membership. Authorial intention is not the sole valid interpretation. One coder, unpiloted prompts and text variants limit the study. Poetry disagreements do not establish clinical or universal comprehension failures. Repository not independently audited.
 
+## Related Practices
 
-## Use in this collection
-
-Counterexample used to identify failure conditions; the source is not endorsed as a recommended procedure.
+The source illustrates limitations of the related routine; its procedure is not recommended without the qualifications above.
 
 - [[request-criticism-without-rewriting]]
 
 **Application boundary [Inference]:** Allow useful disagreement with the author; prefer specific textual reasons over claims that only one reader knows the meaning.
 
-**Review scope:** Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
-
-Local evidence and locators: [source text](<../raw/illingworth-516-what-claude-cannot-read-in-a-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-516-what-claude-cannot-read-in-a-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

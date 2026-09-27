@@ -32,7 +32,7 @@ An educator is preparing AI-supported practice on material already introduced, a
 
 Bastani, H., Bastani, O., Sungu, A., Ge, H., Kabakcı, Ö., & Marimane, R. (2025). Generative AI without guardrails can harm learning: Evidence from high school mathematics. Proceedings of the National Academy of Sciences, 122(26), e2422633122.
 
-Main paper PDF p.2, Experimental Design and footnotes; p.3, study procedure; p.4, Table 1 and results. Main-paper text reviewed; supplementary prompts and Figure 1 image were not independently inspected. Title is editorial.
+Main paper PDF p.2, Experimental Design and footnotes; p.3, study procedure; p.4, Table 1 and results. Based on the main-paper description, not the full supplementary implementation. Title is editorial.
 
 [Retained original](<../raw/bastani-guardrails-math-rct-2025/source.md>). 
 
@@ -59,14 +59,6 @@ This is not an exact implementation recipe or a claim that a hint-only prompt pr
 - [[ask-about-the-gap-then-do-the-task]]
 - [[explain-it-back-before-the-correction]]
 
-## Source roles
-
-- [[bastani-guardrails-math-rct-2025]] — origin of the research, recommendation or framework; exact editorial additions identified above.
-
 ## Sources
 
-- [[bastani-guardrails-math-rct-2025]]
-
-Recorded citations:
-
-- Bastani, H., Bastani, O., Sungu, A., Ge, H., Kabakcı, Ö., & Marimane, R. (2025). Generative AI without guardrails can harm learning: Evidence from high school mathematics. Proceedings of the National Academy of Sciences, 122(26), e2422633122.
+- [[bastani-guardrails-math-rct-2025]] — origin of the research, recommendation or framework; exact editorial additions identified above.

@@ -3,6 +3,7 @@ status: emerging
 area:
 - risk
 - preservation
+type: article
 sources:
 - Sam Illingworth. This Is How To Stop Being Gaslit By AI. 2026-08-19. https://theslowai.substack.com/p/gaslit-by-ai
 ---
@@ -17,15 +18,15 @@ Sam Illingworth. This Is How To Stop Being Gaslit By AI. 2026-08-19. https://the
 
 Practitioner article.
 
-All 90 available lines read; opening at L15 is damaged. Linked media not inspected; original incident context remains missing.
+90 available lines; opening at L15 is damaged. Linked media not inspected; original incident context remains missing.
 
 ## Key Insight
 
-The source proposes: Preserve an inspectable record before the model changes its account. The reviewed account reports: The available account does not resolve the origin of the personal information.
+The proposed routine is to preserve an inspectable record before the model changes its account. The available account does not resolve the origin of the personal information.
 
 ## Key Findings
 
-Paraphrases from `raw/illingworth-456-this-is-how-to-stop-being-2026/source.md`:
+Source details:
 
 - L31–47: ask retrieved versus inferred and request specific source
 - L49–59: signed-out comparison and data-origin claims
@@ -35,14 +36,6 @@ Paraphrases from `raw/illingworth-456-this-is-how-to-stop-being-2026/source.md`:
 ## Evidence
 
 First-person incident account and proposed record-keeping procedure.
-
-Reported:
-
-- The available account does not resolve the origin of the personal information.
-
-Proposed, not demonstrated effects:
-
-- Preserve an inspectable record before the model changes its account.
 
 ## Supports
 
@@ -56,15 +49,10 @@ Proposed, not demonstrated effects:
 - The account suggests connected accounts explain the data but later says its origin remains unknown.
 - A model account of retrieval is not forensic provenance.
 
-Assisted output, unaided capability, felt competence and calibration remain separate. This entry endorses no medical, legal, security or product-capability claim beyond the bounded source account.
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is a proposal, not a tested intervention.
 
 - [[preserve-an-ai-claim-before-challenging-it]]
 
-**Review scope:** All 90 available lines read; opening at L15 is damaged. Linked media not inspected; original incident context remains missing.
-
-Local evidence and locators: [source text](<../raw/illingworth-456-this-is-how-to-stop-being-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-456-this-is-how-to-stop-being-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

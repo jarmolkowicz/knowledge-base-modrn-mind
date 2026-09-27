@@ -33,50 +33,33 @@ Shaun Clowes (2024-12-29). Why great AI products are all about the data | Shaun 
 
 Additional source support (not independent validation):
 
-- Christian Idiodi (2023-12-21). The essence of product management | Christian Idiodi (SVPG). Lenny's Podcast. Locators: L122–168; 00:14:52–00:24:53. Adds: Work with people who actually have the problem; distinguish use and expressed approval from value and adoption. Limits: Success is retrospective self-report. Recommended customer counts are heuristics, not proof of product-market fit. Vaccine analogy and unspecified validation studies excluded.
+- Christian Idiodi (2023-12-21). The essence of product management | Christian Idiodi (SVPG). Lenny's Podcast. Locators: L122–168; 00:14:52–00:24:53. Adds: Work with people who actually have the problem; distinguish use and expressed approval from value and adoption. Limits: Success is retrospective self-report. Recommended customer counts are heuristics, not proof of product-market fit.
 
 ## Evidence and Rationale
 
-**Basis:** First-person practitioner interview and advice; relevant exchange read, not the entire interview.
+**Basis:** First-person practitioner interview and advice.
 
 **Observed or reported:** Describes personal prompting and Confluent feedback aggregation.
 
 **Intended:** Find contrary evidence and strategic gaps.
 
-**Related research:** No direct evaluation of this exact routine identified in this reading. Related entries below are context, not validation.
+**Related research:** The cited account does not directly evaluate this routine; related entries provide context, not validation.
 
 **Untested:** Causal effects on decision quality, retained unaided capability, confidence calibration and long-term use. A better artifact or a confident report cannot establish these.
 
 ## Limits
 
-No comparative accuracy or decision-outcome test. Competitor strategy inferred from public documents remains a hypothesis. Fixed interview sample-size advice and more-data-is-always-better claims excluded.
+No comparative accuracy or decision-outcome test. Competitor strategy inferred from public documents remains a hypothesis. Interview counts and data volume alone do not establish validity.
 
 ## What to Notice
 
 [Inference] Did a checked contradiction change your choice, or only produce a more persuasive story? This is a proposed observation, not a validated measure.
 
-## Related
-
-No research claim attached to this draft. Source links below retain provenance.
-
-## Review Status
-
-
 ## Intended outcomes
 
 [Inference] Primary: judgment. Secondary: calibration. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Related
 
 - [[lenny-591-the-essence-of-product-management-christian-2023]] — support.
 - [[lenny-802-why-great-ai-products-are-all-2024]] — origin.
-
-## Sources
-
-- [[lenny-591-the-essence-of-product-management-christian-2023]]
-- [[lenny-802-why-great-ai-products-are-all-2024]]
-
-Recorded citations:
-
-- Shaun Clowes (2024-12-29). Why great AI products are all about the data | Shaun Clowes (CPO at Confluent). Lenny's Podcast.
-

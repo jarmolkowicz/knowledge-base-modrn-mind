@@ -12,11 +12,11 @@ sources:
 
 Rathje, S., Ye, M., Globig, L. K., Pillai, R. M., Oldemburgo de Mello, V., & Van Bavel, J. J. (2025). *Sycophantic AI increases attitude extremity and overconfidence*. [PsyArXiv preprint](https://doi.org/10.31234/osf.io/vmyek_v1). Materials address printed in the paper: https://osf.io/5k6r9
 
-**Version boundary:** the supplied three-experiment manuscript (N=3,285) matches the title, six authors, abstract, four-topic/four-model scope and facts-versus-validation distinction on the [author's 2025 publication page](https://stevenrathje.com/publication/sycophantic-ai-increases-attitude-extremity-and-overconfidence/), which links the v1 DOI. The page is dated November 2025; the earlier registry check reported September 2025. These differ in month but support 2025, not the uploaded filename's 2026. This is a content-and-metadata identification, not a byte-for-byte comparison with an OSF download; direct OSF retrieval remained unavailable. Only the supplied three-study results are included, not results from later expanded versions.
+**Version boundary:** this entry covers the three-experiment 2025 manuscript (N=3,285), identified by its content and the [author's 2025 publication page](https://stevenrathje.com/publication/sycophantic-ai-increases-attitude-extremity-and-overconfidence/), which links the v1 DOI. The author page and registry differ on the publication month. Later expanded versions are outside this entry's scope.
 
 ## Type
 
-Preprint — three preregistered experiments. Citation year and version scope checked against the author's primary record on 26 September 2026; no peer-review claim.
+Preprint — three preregistered experiments. Not peer reviewed.
 
 ## Key Insight
 

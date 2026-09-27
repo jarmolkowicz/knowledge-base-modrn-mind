@@ -49,11 +49,11 @@ Adds a bounded design-dependent qualification to [[professional-identity-threat]
 
 ## Contradicts / Extends
 
-Offers an earlier robotization lens adjacent to the batch's Bankins AI framework. Preserve differences between embodied robots, software AI and contemporary GenAI.
+Offers an earlier robotization perspective related to the Bankins AI framework. Preserve differences between embodied robots, software AI and contemporary GenAI.
 
 ## Limitations
 
-Conceptual synthesis, selected illustrations and ethical argument rather than systematic causal evaluation. Secondary examples and their numerical claims were not independently verified and are not promoted. Neither inevitable deskilling nor guaranteed reskilling follows from this paper.
+Conceptual synthesis, selected illustrations and ethical argument rather than systematic causal evaluation. Its secondary examples do not supply independent causal evidence. Neither inevitable deskilling nor guaranteed reskilling follows from this paper.
 
 ## Open Questions
 

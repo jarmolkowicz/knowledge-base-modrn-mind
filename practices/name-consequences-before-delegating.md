@@ -54,15 +54,10 @@ A named owner is insufficient without time, authority and controls. The source o
 
 [Inference] Primary: accountability. Secondary: judgment. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Sources
 
 - [[illingworth-408-ai-agents-do-not-play-games-2026]] — origin.
 
-## Sources
-
-- [[illingworth-408-ai-agents-do-not-play-games-2026]]
-
-Recorded citations:
+Additional citations:
 
 - Sam Illingworth. AI Agents Do Not Play Games. You Do.. 2026-03-04. https://theslowai.substack.com/p/ai-agents-game-theory-no-skin-in-the-game
-

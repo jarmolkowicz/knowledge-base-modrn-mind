@@ -21,23 +21,13 @@ Practitioner interview transcript
 
 ## Key Insight
 
-The source proposes: Build shared quality judgment and identify issues. The reviewed account reports: Describes Stripe’s review process and an invoice-interface fix associated with reduced support need.
+The proposed routine is to build shared quality judgment and identify issues. The speaker describes Stripe’s review process and an invoice-interface fix associated with reduced support need.
 
 ## Key Findings
 
-- **Reported:** Describes Stripe’s review process and an invoice-interface fix associated with reduced support need.
-- **Proposed benefit:** Build shared quality judgment and identify issues.
+Paraphrased source account; reported outcomes are not independently verified.
+
 - **Locators:** L265–379; 00:29:28–00:48:43
-
-These are paraphrases of the retained source, not independently verified findings.
-
-## Relevance
-
-Role: origin. Decision: draft_with_limits.
-
-## Supports
-
-No canonical research connection asserted.
 
 ## Contradicts / Extends
 
@@ -47,19 +37,12 @@ Self-reported field use, no controlled attribution. Scores are explicitly qualit
 
 Does this routine improve the intended outcome under a comparison that separates artifact quality, unaided capability and felt confidence?
 
-## Reading Coverage
+## Evidence Scope
 
-Read relevant complete transcript exchanges: L265–379; 00:29:28–00:48:43. Other interview sections not reviewed; source audio not checked.
+Transcript evidence: L265–379; 00:29:28–00:48:43. Limited to these exchanges; other interview sections and source audio are not assessed.
 
-## Decision
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is proposed, not experimentally evaluated.
 
 - [[review-quality-through-a-real-journey]]
-
-**Review scope:** Read relevant complete transcript exchanges: L265–379; 00:29:28–00:48:43. Other interview sections not reviewed; source audio not checked.
-
-Local evidence and locators: [source text](<../raw/lenny-702-building-beautiful-products-with-stripe-s-2023/source.md>). Source findings above are paraphrases unless explicitly quoted.

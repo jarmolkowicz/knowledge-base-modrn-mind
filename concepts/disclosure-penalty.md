@@ -35,7 +35,7 @@ Claessens et al. (2026) distinguish assistance with human editing from copying A
 
 ## Acknowledgment and delegation
 
-The existing Schilke and Reimann (2025) source reports greater trust loss when AI use was exposed by a third party than when disclosed voluntarily, in their tested settings. Claessens et al. (2026) separately found that observers rated non-acknowledgment less favorably on morality and trust than acknowledgment. Neither comparison measures the real-world probability of discovering concealed use. These findings must not be combined with AI-label effects into advice to hide AI involvement. The extent of delegation and the honesty of the description are separate questions.
+The Schilke and Reimann (2025) source reports greater trust loss when AI use was exposed by a third party than when disclosed voluntarily, in their tested settings. Claessens et al. (2026) separately found that observers rated non-acknowledgment less favorably on morality and trust than acknowledgment. Neither comparison measures the real-world probability of discovering concealed use. These findings must not be combined with AI-label effects into advice to hide AI involvement. The extent of delegation and the honesty of the description are separate questions.
 
 ## Related
 
@@ -45,16 +45,15 @@ The existing Schilke and Reimann (2025) source reports greater trust loss when A
 - [[ai-moralization]] - moral judgment may compound the disclosure penalty (de Mello et al., 2026); moralization may operate as a deeper mechanism beneath the disclosure penalty: people don't just perceive AI-assisted work as less authentic, some view AI use as morally suspect
 - [[fluency-bias]] - a proposed explanation for advice preferences; Meincke et al. (2026) did not establish the mechanism or test whether disclosure interrupts it
 
-- [[zhu-molnar-ai-ignorance-2025]] — reviewed 2025 one-experiment preprint, not the later expanded journal article.
+- [[zhu-molnar-ai-ignorance-2025]] — 2025 one-experiment preprint, not the later expanded journal article.
 
 ## Sources
 
 - [[reimann-schilke-disclosure-2025]] — Reimann & Schilke (2025)
 - [[cheong-penalizing-transparency-2025]] — Cheong et al. (2025)
 - [[raj-disclosure-penalty-2026]] — Raj, Berg, & Seamans (2026)
-- de Mello et al. (2026)
+- [[demello-moralization-2026]] — de Mello et al. (2026)
 - [[meincke-advice-quality-2026]] — Meincke, Nave & Terwiesch (2026)
 - [[zhu-molnar-ai-ignorance-2025]] — Zhu, J., & Molnar, A. (2025). Blissful (A)Ignorance: People form overly positive impressions of others based on their written messages, despite wide-scale adoption of Generative AI. arXiv:2501.15678. https://arxiv.org/abs/2501.15678
 
 - [[claessens-ai-outsourcing-perceptions-2026]] — Claessens, S., Veitch, P., & Everett, J. A. C. (2026). Negative perceptions of outsourcing to artificial intelligence. Computers in Human Behavior, 177, 108894. https://doi.org/10.1016/j.chb.2025.108894
-

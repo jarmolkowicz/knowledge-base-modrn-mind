@@ -33,44 +33,28 @@ Nancy Duarte (2023-06-01). Storytelling with Nancy Duarte: How to craft compelli
 
 ## Evidence and Rationale
 
-**Basis:** First-person practitioner interview and advice; relevant exchange read, not the entire interview.
+**Basis:** First-person practitioner interview and advice.
 
 **Observed or reported:** Describes annual and quarterly internal communication practice.
 
 **Intended:** Make the message responsive to the audience’s situation.
 
-**Related research:** No direct evaluation of this exact routine identified in this reading. Related entries below are context, not validation.
+**Related research:** The cited account does not directly evaluate this routine; related entries provide context, not validation.
 
 **Untested:** Causal effects on decision quality, retained unaided capability, confidence calibration and long-term use. A better artifact or a confident report cannot establish these.
 
 ## Limits
 
-First-person company account, no measured comprehension or behavioral change. Leaders may not represent the whole audience; psychological and biographical causal claims excluded.
+First-person company account, no measured comprehension or behavioral change. Leaders may not represent the whole audience.
 
 ## What to Notice
 
 [Inference] What changed because you heard from the audience rather than imagined them? This is a proposed observation, not a validated measure.
 
-## Related
-
-No research claim attached to this draft. Source links below retain provenance.
-
-## Review Status
-
-
 ## Intended outcomes
 
 [Inference] Primary: shared-understanding. Secondary: judgment. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Related
 
 - [[lenny-755-storytelling-with-nancy-duarte-how-to-2023]] — origin.
-
-## Sources
-
-- [[lenny-755-storytelling-with-nancy-duarte-how-to-2023]]
-
-Recorded citations:
-
-- Nancy Duarte (2023-06-01). Storytelling with Nancy Duarte: How to craft compelling presentations and tell a story that sticks. Lenny's Podcast.
-

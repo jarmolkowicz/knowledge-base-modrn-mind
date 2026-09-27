@@ -34,18 +34,18 @@ Casey Winters (2023-04-14). Why most product managers are unprepared for the dem
 
 Additional source support (not independent validation):
 
-- Ian McAllister (2022-11-20). What it takes to become a top 1% PM | Ian McAllister (Uber, Amazon, Airbnb). Lenny's Podcast. Locators: L164–180; 00:21:14–00:23:04. Adds: After communicating, ask how you could answer better; the host suggests manager feedback and McAllister agrees. Limits: No outcome data or scoring standard; a self-grade alone cannot show improvement. Supports rehearsal debrief rather than a separate automated-score practice.
+- Ian McAllister (2022-11-20). What it takes to become a top 1% PM | Ian McAllister (Uber, Amazon, Airbnb). Lenny's Podcast. Locators: L164–180; 00:21:14–00:23:04. Adds: After communicating, ask how you could answer better; the host suggests manager feedback and McAllister agrees. Limits: No outcome data or scoring standard; a self-grade alone cannot show improvement. This supports a rehearsal debrief; self-grading alone does not show improvement.
 - Jason Fried (2023-12-17). Jason Fried challenges your thinking on fundraising, goals, growth, and more. Lenny's Podcast. Locators: L299–315; 00:38:09–00:41:08. Adds: Try a new way of working on a low-criticality project before applying it to important work. Limits: Pre-AI transfer idea, not tested AI adoption guidance. Low stakes alone does not provide useful feedback; define observable failure and a review point.
 
 ## Evidence and Rationale
 
-**Basis:** First-person practitioner interview and advice; relevant exchange read, not the entire interview.
+**Basis:** First-person practitioner interview and advice.
 
 **Observed or reported:** Describes coaching at Eventbrite and Pinterest.
 
 **Intended:** Improve preparedness and audience fit.
 
-**Related research:** No direct evaluation of this exact routine identified in this reading. Related entries below are context, not validation.
+**Related research:** The cited account does not directly evaluate this routine; related entries provide context, not validation.
 
 **Untested:** Causal effects on decision quality, retained unaided capability, confidence calibration and long-term use. A better artifact or a confident report cannot establish these.
 
@@ -57,30 +57,12 @@ No comparative meeting outcome data. Simulation cannot establish what a real exe
 
 [Inference] Which question exposed a gap in understanding rather than presentation polish? This is a proposed observation, not a validated measure.
 
-## Related
-
-No research claim attached to this draft. Source links below retain provenance.
-
-## Review Status
-
-
 ## Intended outcomes
 
 [Inference] Primary: shared-understanding. Secondary: independent-capability. These are intended benefits, not demonstrated effects.
 
-## Source roles
+## Related
 
 - [[lenny-585-why-most-product-managers-are-unprepared-2023]] — origin.
 - [[lenny-660-what-it-takes-to-become-a-2022]] — support.
 - [[lenny-673-jason-fried-challenges-your-thinking-on-2023]] — support.
-
-## Sources
-
-- [[lenny-585-why-most-product-managers-are-unprepared-2023]]
-- [[lenny-660-what-it-takes-to-become-a-2022]]
-- [[lenny-673-jason-fried-challenges-your-thinking-on-2023]]
-
-Recorded citations:
-
-- Casey Winters (2023-04-14). Why most product managers are unprepared for the demands of a real startup | Casey Winters. Lenny's Podcast.
-

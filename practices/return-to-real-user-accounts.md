@@ -39,7 +39,7 @@ Locators: 00:28:22–00:31:32; L258–283. Practice title is an editorial label.
 
 **Observed or reported:** Reports returning to recent user interviews together when competitor AI announcements distract the team.
 
-**Related research:** No directly relevant evaluation of this routine was identified in this review. The practitioner account above supplies its rationale; the AI adaptation remains untested.
+**Related research:** The practitioner account provides the rationale, not a direct evaluation; the AI adaptation remains untested.
 
 **Untested:** Whether this specific procedure improves judgment, independent capability, creative quality or calibration beyond the reported experience. A completed artifact, more options and felt clarity are different outcomes.
 
@@ -57,20 +57,10 @@ Locators: 00:28:22–00:31:32; L258–283. Practice title is an editorial label.
 
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 
-
 ## Intended outcomes
 
 [Inference] Primary: judgment. Secondary: attention. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[lenny-811-hard-won-lessons-building-0-to-2024]] — origin.
-
 ## Sources
 
-- [[lenny-811-hard-won-lessons-building-0-to-2024]]
-
-Recorded citations:
-
-- Tanguy Crusson, interviewed by Lenny Rachitsky. (2024-06-16). Hard-won lessons building 0 to 1 inside Atlassian | Tanguy Crusson (Head of Jira Product Discovery). https://www.youtube.com/watch?v=cZqpqb5qR5A
-
+- [[lenny-811-hard-won-lessons-building-0-to-2024]] — origin.

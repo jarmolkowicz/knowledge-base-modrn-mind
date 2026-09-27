@@ -14,7 +14,7 @@ Nosta, J. (2026). *The Borrowed Mind: Reclaiming Human Thought in the Age of AI*
 Book
 
 ## Key Insight
-Consolidates and extends Nosta's body of work on AI's cognitive effects. The central thesis: AI is not a tool but a "cognitive environment" — you don't pick it up and put it down like a hammer, you step inside it, and it reshapes how you think. The book weaves together concepts previously published in essays (anti-intelligence, coherence trap, cognitive grit, borrowed certainty, oscillation trap) into a sustained argument about "custody of the mind" — the need to deliberately maintain authorship of your own thinking in an era of cognitive abundance.
+Consolidates and extends Nosta's body of work on AI's cognitive effects. Nosta's central thesis: AI is not a tool but a "cognitive environment" — you don't pick it up and put it down like a hammer, you step inside it, and it reshapes how you think. The book weaves together concepts previously published in essays (anti-intelligence, coherence trap, cognitive grit, borrowed certainty, oscillation trap) into a sustained argument about "custody of the mind" — the need to deliberately maintain authorship of your own thinking in an era of cognitive abundance.
 
 ## Key Passages
 
@@ -27,14 +27,16 @@ Consolidates and extends Nosta's body of work on AI's cognitive effects. The cen
 These passages document Nosta's philosophical framing; they are not empirical findings about cognitive change. Locators refer to extracted EPUB document sections, not printed chapter numbers.
 
 ## Relevance
-Nosta is a primary voice in the KB. This book is the definitive synthesis of ideas that appear across 10+ existing Nosta source entries. It adds depth through extended argument rather than new empirical data, but introduces several genuinely new framings: the smoothness trap (distinct from coherence trap), four fractures of AI disruption, indifference engine, vapid brilliance, amathia drift, and minimum cognitive integrity. Not all warrant separate KB entries — many are chapter-level framings of existing concepts.
+The book develops philosophical arguments about authorship and dependence on AI. It adds extended discussion rather than new empirical data. Its framings include the smoothness trap, four fractures of AI disruption, indifference engine, vapid brilliance, amathia drift and minimum cognitive integrity.
 
 ## Structure
 - **Part I: The Promise** — AI as iterative intelligence, composite intelligence, Centaur workflows, learner-centric intelligence, agency as new literacy
 - **Part II: The Perils** — Anti-intelligence, vapid brilliance, coherence trap, custody of the mind, the borrowed mind, amathia drift, minimum cognitive integrity, four fractures, smoothness trap, lossless mind
 - **Part III: The Path Forward** — Reclaiming agency (awareness, interrogation, calibration, synthesis), sequence matters, protect the baseline, guardrails for minds, indifference engine, parallax cognition
 
-## Key New Framings
+## Key Framings
+
+The following summaries describe Nosta's arguments and metaphors, not established mechanisms of cognitive change.
 
 ### Custody of the Mind
 AI is a cognitive environment, not a tool. "A hammer might leave a blister on your hand, but it does not alter the way you think." AI participates in the formation of thought — "you do not just receive information. You adopt it as a starting point for your next thought." The danger is not misuse but "over-integration, forgetting where the environment ends and we begin."
@@ -46,14 +48,14 @@ Draws on Liang et al. (2025) "machine bullshit" research. AI produces "engineere
 Ancient Greek concept applied to AI era. Amathia = ignorance that wears the mask of understanding. AI creates a "triple illusion: fluency that feels like understanding, coherence that passes for truth, and polish that masquerades as insight." The drift happens through comfort, not malice — "the quiet easing of effort that dulls the part of the mind that once insisted on working harder."
 
 ### Four Fractures
-AI disrupts four anchors of human meaning-making simultaneously:
+Nosta proposes that AI disrupts four anchors of human meaning-making simultaneously:
 1. **Meaning** — AI expands possibility without collapsing it; meaning requires choosing and bearing the cost
 2. **Value** — AI decouples performance from personhood; worth becomes disconnected from sacrifice
 3. **Knowledge** — AI severs the historical link between coherence and understanding
 4. **Emotion** — AI simulates affect without interiority; distorts empathy calibration
 
 ### Smoothness Trap
-Distinct from coherence trap. While coherence trap is about accepting smooth-sounding information as true, the smoothness trap is about what happens to *the thinker* when [[cognitive-friction|cognitive friction]] is removed. "When the path to an idea becomes too smooth, the signals that once organized thought start to weaken." Flow states require challenge at the edge of skill; remove the strain and the generative state collapses.
+Distinct from coherence trap. While coherence trap is about accepting smooth-sounding information as true, the smoothness trap is about what happens to *the thinker* when [[cognitive-friction|cognitive friction]] is removed. "When the path to an idea becomes too smooth, the signals that once organized thought start to weaken." Nosta links this concern to the role of challenge in flow; the book does not test whether removing strain causes flow to collapse.
 
 ### Indifference Engine
 AI's defining feature is not capability but indifference. "AI does not lie. It just does not care." It has no stake in whether it strengthens or erodes thinking. "The steady production of coherence without commitment." The risk: "we might adapt so thoroughly to the machine's way of producing thought that we forget what it feels like to produce our own."
@@ -72,7 +74,7 @@ AI is "lossless" — untouched by time, mortality, or consequence. Human meaning
 - [[ai-oscillation-trap]] - mentioned in context of strategic alternation
 - [[agency]] - Part III framework (awareness, interrogation, calibration, synthesis)
 - [[strategic-alternation]] - "sequence matters" chapter; "move deliberately between assisted and unassisted modes"
-- [[fluency-bias]] - vapid brilliance and smoothness trap as extended mechanisms
+- [[fluency-bias]] - vapid brilliance and smoothness trap as philosophical interpretations
 - [[professional-identity-threat]] - "dissolution of the thinking self" / "when doing is stolen"
 - [[amathia-drift]] - extended treatment of ignorance wearing the mask of understanding
 - [[minimum-cognitive-integrity]] - philosophical threshold below which agency is compromised

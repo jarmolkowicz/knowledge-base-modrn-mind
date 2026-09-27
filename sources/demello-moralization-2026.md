@@ -22,7 +22,7 @@ AI resistance is partly moral in nature — people oppose AI not merely because 
 
 ## Relevance
 
-Opens a new dimension in the KB. Existing entries treat AI resistance through pragmatic lenses (disclosure penalty, [[transparency-paradox|transparency paradox]], professional identity threat). This paper shows that for a meaningful segment of the public, resistance is moral — rooted in convictions about right and wrong, not cost-benefit analysis. This has direct implications for how educators and practitioners frame AI adoption conversations.
+Moral opposition adds a distinct consideration to disclosure costs, [[transparency-paradox|transparency paradox]] and professional identity threat: some people reject AI on grounds of right and wrong rather than practical benefit. This has direct implications for how educators and practitioners frame AI adoption conversations.
 
 ## Key Findings
 

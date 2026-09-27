@@ -13,27 +13,21 @@ sources:
 
 Sam Illingworth (2026-09-04). Your AI Policy Does Not Apply to the Person Who Wrote It. Sam Illingworth.
 
-[Retained original](<../raw/illingworth-421-your-ai-policy-does-not-apply-2026/source.md>).
-
 ## Type
 
 Practitioner newsletter article
 
 ## Key Insight
 
-The source proposes: Make responsibility and assistance visible. The reviewed account reports: Provides his own AI-use statement and a proposed reciprocal classroom policy.
+The proposed routine is to make responsibility and assistance visible.
 
 ## Key Findings
 
-- **Reported:** Provides his own AI-use statement and a proposed reciprocal classroom policy.
-- **Proposed benefit:** Make responsibility and assistance visible.
+The article provides his own AI-use statement and a proposed reciprocal classroom policy.
+
+## Source Locations
+
 - **Locators:** L81–120, L140–146
-
-These are paraphrases of the retained source, not independently verified findings.
-
-## Relevance
-
-Role: origin. Decision: draft_with_limits.
 
 ## Supports
 
@@ -47,19 +41,14 @@ No evaluation of the policy or its effects. Disclosure can carry social costs; d
 
 Does this routine improve the intended outcome under a comparison that separates artifact quality, unaided capability and felt confidence?
 
-## Reading Coverage
+## Evidence Scope
 
-Read the complete available local article body; linked images, videos and external claims not independently inspected.
+Evidence is limited to the available article text; linked media and external claims are not independently verified.
 
-## Decision
+## Related Practices
 
-
-## Use in this collection
-
-Originating account for a proposed routine; this role is not evidence that the routine works.
+The related routine is a proposal, not a tested intervention.
 
 - [[make-ai-disclosure-reciprocal]]
 
-**Review scope:** Read the complete available local article body; linked images, videos and external claims not independently inspected.
-
-Local evidence and locators: [source text](<../raw/illingworth-421-your-ai-policy-does-not-apply-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-421-your-ai-policy-does-not-apply-2026/source.md>). Source findings above are paraphrases unless explicitly quoted.

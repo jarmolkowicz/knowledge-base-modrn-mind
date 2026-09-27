@@ -14,8 +14,6 @@ intended_outcomes:
 
 # Inspect real errors before automating evaluation
 
-Title is editorial, not a validated named method.
-
 ## Use When
 
 An AI product has real interactions and domain expertise available for review.
@@ -31,6 +29,8 @@ An AI product has real interactions and domain expertise available for review.
 
 Hamel Husain and Shreya Shankar, interviewed by Lenny Rachitsky. Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar. 2025-09-25. https://www.youtube.com/watch?v=BsWxPI9UM4c
 
+Title is editorial, not a validated named method.
+
 Locators in `raw/lenny-652-why-ai-evals-are-the-hottest-2025/source.md`: L130–272: traces, human notes, upstream errors; L296–359: domain expertise and sample-size heuristic; L377–557: AI groups notes; human refines categories and checks assignments; L581–710: prioritize, use simple checks, compare judges with humans; L935–980: resource fit and human-first boundary.
 
 Source passages are paraphrased. Steps arrange the cited guidance; editorial additions are marked [Inference]. Support and failure cases are not independent validation.
@@ -43,7 +43,7 @@ Source passages are paraphrased. Steps arrange the cited guidance; editorial add
 
 **Related research:** [[metacognitive-demand]] frames the continued effort of oversight. It is a related account, not direct validation of this procedure.
 
-**Untested:** No direct evaluation of this complete routine was found in the reviewed material. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
+**Untested:** The cited sources do not directly evaluate this complete routine. Output quality, later unaided capability, felt competence and calibrated confidence are separate; successful assisted completion does not establish all four.
 
 ## Limits
 
@@ -55,23 +55,14 @@ One hundred examples is a heuristic. One expert can miss other perspectives. Rar
 
 ## Related
 
-- [[automation-bias]] — related local entry inspected; see rationale and limits above.
-- [[metacognitive-demand]] — related local entry inspected; see rationale and limits above.
-- [[agency]] — related local entry inspected; see rationale and limits above.
+- [[automation-bias]]
+- [[metacognitive-demand]]
+- [[agency]]
 
 ## Intended outcomes
 
 [Inference] Primary: work-quality. Secondary: calibration. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[lenny-652-why-ai-evals-are-the-hottest-2025]] — origin.
-
 ## Sources
 
-- [[lenny-652-why-ai-evals-are-the-hottest-2025]]
-
-Recorded citations:
-
-- Hamel Husain and Shreya Shankar, interviewed by Lenny Rachitsky. Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar. 2025-09-25. https://www.youtube.com/watch?v=BsWxPI9UM4c
-
+- [[lenny-652-why-ai-evals-are-the-hottest-2025]] — origin.

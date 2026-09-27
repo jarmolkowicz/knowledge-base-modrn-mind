@@ -10,11 +10,11 @@ sources:
 
 ## Citation
 
-Marcoccia, C., Quattrociocchi, W., & Capraro, V. (2026). *AI advice suppresses people’s willingness to say “I don’t know”, even when the advice is wrong and accuracy is incentivized*. Preprint, [arXiv:2607.13562v1](https://arxiv.org/abs/2607.13562v1), submitted 15 July 2026. The record matches the supplied authors, title, five-experiment design and N=3,132. Materials address printed in the paper: https://osf.io/nwx6r/
+Marcoccia, C., Quattrociocchi, W., & Capraro, V. (2026). *AI advice suppresses people’s willingness to say “I don’t know”, even when the advice is wrong and accuracy is incentivized*. Preprint, [arXiv:2607.13562v1](https://arxiv.org/abs/2607.13562v1), submitted 15 July 2026. Materials address printed in the paper: https://osf.io/nwx6r/
 
 ## Type
 
-Preprint — five experiments; four preregistered and one direct replication. Primary preprint record checked on 26 September 2026; this does not establish peer review.
+Preprint — five experiments; four preregistered and one direct replication. Version 1; not peer reviewed.
 
 ## Key Insight
 
@@ -59,4 +59,4 @@ Six questions from one narrow domain, one deliberately unreliable advice source 
 
 - Does the suspension effect persist with mostly correct advice, domain expertise or consequential decisions?
 - Can explicit uncertainty options or better verification improve decisions?
-- Reporting inconsistencies to resolve: “nearly doubled” confidence in the abstract versus 29.6→75.9 in Study 2; p.10 says accuracy improves when AI is “unavailable” immediately after numbers showing the benefit with AI; p.6 and p.10 give different p-values for Study 2's null suspension interaction. Draft retains the directly reported means and the consistent null conclusion, not those conflicting labels.
+- Reporting inconsistencies to resolve: “nearly doubled” confidence in the abstract versus 29.6→75.9 in Study 2; p.10 says accuracy improves when AI is “unavailable” immediately after numbers showing the benefit with AI; p.6 and p.10 give different p-values for Study 2's null suspension interaction. The directly reported means and null interaction conclusion are consistent; the conflicting labels and p-values remain unresolved.

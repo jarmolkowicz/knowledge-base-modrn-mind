@@ -19,24 +19,18 @@ Ethan Mollick offers explicitly contextual experience-based advice with research
 
 ## Key Insight
 
-The source proposes: Choose assistance according to learning purpose, checkability and acceptable failure. The reviewed account reports: Gives examples of AI-generated alternatives; no test of the whole decision checklist.
+The proposed routine is to choose assistance according to learning purpose, checkability and acceptable failure.
 
 ## Key Findings
 
-These are source-account summaries, not independently validated effects.
+The author gives examples of AI-generated alternatives; no test of the whole decision checklist.
 
-- Gives examples of AI-generated alternatives; no test of the whole decision checklist.
+## Source Locations
 
-## Locators and coverage
-
-Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
+Article text only; linked pages and embedded media are not independently verified.
 
 - L10–36, uses
 - L38–50, five non-use cases
-
-## Relevance
-
-- Choose assistance according to learning purpose, checkability and acceptable failure.
 
 ## Supports / overlaps
 
@@ -47,10 +41,9 @@ Read the complete available article text in source.md, including examples, limit
 
 - Tool capability examples are dated 2024. Broad statements about when effort is the point are judgment calls, not a universal ban on learning support. Linked studies not all verified.
 
+## Related Practices
 
-## Use in this collection
-
-Supporting account or variant; repeated advice is not independent validation.
+Related guidance; repeated advice is not independent validation.
 
 - [[choose-the-result-before-the-tool]]
 - [[save-your-own-starting-point]]
@@ -58,6 +51,4 @@ Supporting account or variant; repeated advice is not independent validation.
 
 **Application boundary [Inference]:** Support access and task completion where these are the goal; retain the specific reasoning someone intends to practise.
 
-**Review scope:** Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
-
-Local evidence and locators: [source text](<../raw/mollick-064-15-times-to-use-ai-and-2024/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/mollick-064-15-times-to-use-ai-and-2024/source.md>).

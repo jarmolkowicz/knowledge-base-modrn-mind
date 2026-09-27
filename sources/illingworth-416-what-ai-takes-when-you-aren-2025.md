@@ -19,25 +19,19 @@ Ilia Karelin contributes a prompt and personal coding/SQL reflection, hosted by 
 
 ## Key Insight
 
-The source proposes: Identify a thinking step to retain in a real task. The reviewed account reports: Karelin reports recognizing reduced opportunities to form and test hypotheses; explicitly notes Claude cannot know time spent before prompting.
+The proposed routine is to identify a thinking step to retain in a real task.
 
 ## Key Findings
 
-These are source-account summaries, not independently validated effects.
+Karelin reports recognizing reduced opportunities to form and test hypotheses; explicitly notes Claude cannot know time spent before prompting.
 
-- Karelin reports recognizing reduced opportunities to form and test hypotheses; explicitly notes Claude cannot know time spent before prompting.
+## Source Locations
 
-## Locators and coverage
-
-Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
+Evidence is limited to the available article text; linked pages and embedded media are not assessed.
 
 - L28–36, Step by step
 - L56–72, Ilia Karelin account
 - L82–88, reflection
-
-## Relevance
-
-- Identify a thinking step to retain in a real task.
 
 ## Supports / overlaps
 
@@ -48,15 +42,12 @@ Read the complete available article text in source.md, including examples, limit
 
 - AI cannot diagnose lost skill from chats. The account does not measure skill decline or causal effects. The prompt presupposes a loss.
 
+## Related Practices
 
-## Use in this collection
-
-Supporting account or variant; repeated advice is not independent validation.
+Related account; repeated advice is not independent validation.
 
 - [[keep-one-thinking-step]]
 
 **Application boundary [Inference]:** Name an observable skipped step, not a personal deficit. Keep accommodation tools and irrelevant friction separate.
 
-**Review scope:** Read the complete available article text in source.md, including examples, limitations and surrounding commentary. Linked pages and embedded images/video were not independently read.
-
-Local evidence and locators: [source text](<../raw/illingworth-416-what-ai-takes-when-you-aren-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.
+Source text and locators: [source text](<../raw/illingworth-416-what-ai-takes-when-you-aren-2025/source.md>). Source findings above are paraphrases unless explicitly quoted.

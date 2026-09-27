@@ -23,7 +23,7 @@ Evidence remains exploratory. The study did not validate a scale, measure change
 
 ## Boundary with AI Impostor Feelings
 
-[Inference] This is broader than the [[ai-impostor-phenomenon]]: competence authenticity concerns perceived alignment between results and personal mastery, understanding, and effort; impostor feelings concern a specific fraudulence response after success. Someone may question that alignment without feeling fraudulent, or feel fraudulent despite a substantial contribution. This is an editorial distinction between the papers' constructs, not evidence that they are empirically independent. Neither supplied study tests that independence.
+[Inference] This is broader than the [[ai-impostor-phenomenon]]: competence authenticity concerns perceived alignment between results and personal mastery, understanding, and effort; impostor feelings concern a specific fraudulence response after success. Someone may question that alignment without feeling fraudulent, or feel fraudulent despite a substantial contribution. This interpretation does not establish empirical independence; neither study tests that distinction.
 
 ## Related
 

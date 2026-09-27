@@ -55,7 +55,7 @@ Qualifies uniform disclosure-penalty language. Study 2's honest assistance condi
 
 ## Limitations
 
-UK convenience samples; task descriptions and hypothetical rewards, not observed workplace or relationship outcomes. Study 3 preregistration archive timestamp was lost; authors report a timestamped uploaded document remains. Neither that document nor supplementary data were independently audited here. Aggregate sample conflict remains unresolved. Extracted tables contain damaged minus glyphs; no numerical effect sizes promoted. Speculation about virtue erosion or weaker social ties is not tested.
+UK convenience samples; task descriptions and hypothetical rewards, not observed workplace or relationship outcomes. Study 3 preregistration archive timestamp was lost; authors report a timestamped uploaded document remains. The preregistration document and supplementary data are not included in this summary. Aggregate sample conflict remains unresolved. Speculation about virtue erosion or weaker social ties is not tested.
 
 ## Open Questions
 

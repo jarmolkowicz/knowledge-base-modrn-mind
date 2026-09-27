@@ -40,10 +40,6 @@ Assistance may help weaker performers produce better output on a particular task
 - [[creativity-diversity-paradox]] - a different question about idea similarity
 - [[bartos-ai-learning-meta-meta-2026]] - education-level subgroups are not a test of individual skill leveling
 
-## Citation Note
-
-The generic "Science Advances (2024)" string did not identify an author or paper and is no longer an active citation. No paper identity was guessed. The current Bastani paragraph is linked to its actual source.
-
 ## Sources
 
 - [[dellacqua-jagged-frontier-2023]] — Dell'Acqua et al. (2023)

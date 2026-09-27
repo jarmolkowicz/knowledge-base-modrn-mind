@@ -11,7 +11,7 @@ sources:
 
 A four-part taxonomy of how AI tools are positioned as collaborators in knowledge work, developed by Messeri & Crockett (2024) for the scientific research pipeline. Each vision identifies a distinct cognitive limit it promises to overcome, and each carries a distinct profile of epistemic risk. The diagnostic move is simple but powerful: before adopting an AI tool, name which vision it is invoking. The vision determines which illusions of understanding the use is most exposed to.
 
-The taxonomy was developed for science but generalizes naturally to consulting, analysis, journalism, and other knowledge work.
+[Inference] The categories may also help frame consulting, analysis and journalism; those applications require testing.
 
 ## What It Is / How It Works
 
@@ -37,7 +37,7 @@ Each vision has a characteristic relationship to the three illusions of understa
 
 ## What To Do
 
-A diagnostic protocol, adapted from Messeri & Crockett's prescription "be clear about why you want to use AI in your research":
+An untested discussion procedure, adapted from Messeri & Crockett's prescription "be clear about why you want to use AI in your research":
 
 1. **Name the vision.** Before adopting an AI tool, ask: am I treating this as Oracle, Surrogate, Quant, or Arbiter? More than one is possible; name each.
 2. **Read the risk profile.** Each vision corresponds to specific illusions of understanding. Make those risks explicit before they start operating implicitly.
@@ -48,7 +48,7 @@ A diagnostic protocol, adapted from Messeri & Crockett's prescription "be clear 
 
 ## Why It Works
 
-The taxonomy works because the visions are *not* tools — they are sociotechnical framings about what AI is *for*. Naming the framing makes the embedded promise visible, and once the promise is visible the corresponding risk profile becomes legible.
+The proposed rationale is that the visions are *not* tools — they are sociotechnical framings about what AI is *for*. Naming the framing makes the embedded promise visible, and once the promise is visible the corresponding risk profile becomes legible.
 
 Messeri & Crockett (2024, Box 2) note that "AI is not a monolith." Treating "AI use" as a single category obscures the very different epistemic risks of, say, an Oracle that summarizes literature versus a Surrogate that simulates participants. The taxonomy is designed to break that monolith into useful pieces.
 
