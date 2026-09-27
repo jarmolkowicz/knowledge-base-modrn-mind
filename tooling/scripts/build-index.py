@@ -55,10 +55,21 @@ def _extract_oneliner(body: str, section_headers: list[str]) -> str:
             continue
         content = m.group(1).strip()
         # Skip leading bullet markers / quote markers if present
-        content = re.sub(r"^[>\-*]\s*", "", content)
-        # First sentence — split on ". ", "? ", "! " or end of paragraph
-        sentence_match = re.match(r"(.+?[.!?])(?:\s|\n|$)", content, re.DOTALL)
-        text = sentence_match.group(1) if sentence_match else content
+        content = re.sub(r"^(?:>\s*|[-*]\s+)", "", content)
+        # Abbreviations in author names and comparisons are not sentence ends.
+        # Mask only their periods, retaining offsets into the original text.
+        content = re.split(r"\n\s*\n", content, maxsplit=1)[0]
+        masked = re.sub(
+            r"\b(?:et al|vs|e\.g|i\.e|Dr|Mr|Mrs|Ms|Prof|Fig|Figs|p|pp|No)\.",
+            lambda match: match.group().replace(".", "\ue000"),
+            content, flags=re.IGNORECASE,
+        )
+        masked = re.sub(r"\b(?:[A-Za-z]\.){2,}",
+                        lambda match: match.group().replace(".", "\ue000"), masked)
+        masked = re.sub(r"\b[A-Z]\.(?=\s+[A-Z])",
+                        lambda match: match.group().replace(".", "\ue000"), masked)
+        sentence_match = re.match(r'''(.+?[.!?]["'”’)*\]]*)(?:\s|$)''', masked, re.DOTALL)
+        text = content[:sentence_match.end(1)] if sentence_match else content
         text = re.sub(r"\s+", " ", text).strip()
         # Escape pipe characters so they don't break the markdown table
         text = text.replace("|", "\\|")

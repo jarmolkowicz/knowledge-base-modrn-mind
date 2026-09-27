@@ -29,7 +29,7 @@ def main():
         groups[group].append((path.stem, title, re.sub(r'\s+', ' ', trigger[1]).strip() if trigger else 'See entry.'))
     total = sum(map(len, groups.values()))
     lines = ['# Practices by intended outcome', '',
-             f'**{total} integrated practices.** Choose a situation or outcome, then open the practice for steps, source accounts, limits and things to observe.', '',
+             f'**{total} practices.** Choose a situation or outcome, then open the practice for steps, source accounts, limits and things to observe.', '',
              'These routines come from practitioner accounts, research, proposed exercises and documented examples. Inclusion is not proof of effectiveness or a blanket endorsement of an author. Research-based adaptations, AI adaptations and curator observations are labeled. Each entry distinguishes intended benefits from reported results.', '',
              'The outcome vocabulary is provisional. Core outcomes concern human thinking and participation; enabling outcomes support them through accountability or immediate work quality. Better assisted output does not by itself show improved judgment, retained skill or well-calibrated confidence.', '',
              '| Intended outcome | Type | Practices |', '|---|---|---:|']
@@ -44,7 +44,7 @@ def main():
         for stem,title,trigger in rows:
             title, trigger = title.replace('|', '\\|'), trigger.replace('|', '\\|')
             lines.append(f'| [{title}](practices/{stem}.md) | {trigger} |')
-    lines += ['', 'Source selection, reading coverage and integration history: '
+    lines += ['', 'Source provenance: '
               '[practitioner review](raw/practitioner-practices-development/integration/README.md) and '
               '[research-source review](raw/kb-practice-screening-2026-09-27/review/integration/README.md).']
     (ROOT / 'practice-guide.md').write_text('\n'.join(lines) + '\n', encoding='utf-8')

@@ -1,6 +1,6 @@
 # Practices by intended outcome
 
-**83 integrated practices.** Choose a situation or outcome, then open the practice for steps, source accounts, limits and things to observe.
+**83 practices.** Choose a situation or outcome, then open the practice for steps, source accounts, limits and things to observe.
 
 These routines come from practitioner accounts, research, proposed exercises and documented examples. Inclusion is not proof of effectiveness or a blanket endorsement of an author. Research-based adaptations, AI adaptations and curator observations are labeled. Each entry distinguishes intended benefits from reported results.
 
@@ -212,4 +212,4 @@ Better assisted work does not by itself show stronger thinking or retained capab
 | [Review survey questions against the decision](practices/review-survey-questions-for-decisions.md) | A survey must yield interpretable answers rather than a number that looks useful. |
 | [Test and share a team AI workflow](practices/test-and-share-a-team-ai-workflow.md) | Useful AI experiments remain private, or a team is copying prompts without understanding where they fail. |
 
-Source selection, reading coverage and integration history: [practitioner review](raw/practitioner-practices-development/integration/README.md) and [research-source review](raw/kb-practice-screening-2026-09-27/review/integration/README.md).
+Source provenance: [practitioner review](raw/practitioner-practices-development/integration/README.md) and [research-source review](raw/kb-practice-screening-2026-09-27/review/integration/README.md).

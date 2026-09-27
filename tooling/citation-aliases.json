@@ -8,5 +8,70 @@
     "source": "tankelevitch-metacognitive-demands-2023",
     "reason": "CHI 2024 publication; historical source stem retains December 2023 preprint year. Same title, authors and arXiv identity; no rename.",
     "evidence": "raw/tankelevitch-metacognitive-demands-2023/source.md"
+  },
+  "Gabbiadini et al. (2025)": {
+    "source": "alessandro-self-efficacy-2025",
+    "reason": "Raw author line identifies Gabbiadini Alessandro and Durante Federica; canonical corrects reversed names while historical slug remains.",
+    "evidence": "raw/alessandro-self-efficacy-2025/source.md"
+  },
+  "de Mello, V. O., Côté, É., Ayad, R., Inbar, Y., Plaks, J., & Inzlicht, M. (2026). The moralization of artificial intelligence. University of Toronto.": {
+    "source": "demello-moralization-2026",
+    "reason": "Exact author group/title matched canonical and retained manuscript; compound surname breaks first-token resolver.",
+    "evidence": "raw/demello-moralization-2026/source.md"
+  },
+  "Gabbiadini, A., Durante, F., Baldissarri, C., Manfredi, A., Sterlicchio, A., & Romano, S. (2025). Artificial intelligence in the workplace: Effects on self-efficacy, self-objectification and beliefs in free will. Journal of Community & Applied Social Psychology, 35, e70107. https://doi.org/10.1002/casp.70107": {
+    "source": "alessandro-self-efficacy-2025",
+    "reason": "Raw author line identifies Gabbiadini Alessandro and Durante Federica; canonical corrects reversed names while historical slug remains.",
+    "evidence": "raw/alessandro-self-efficacy-2025/source.md"
+  },
+  "Nosta, The Borrowed Mind (2026)": {
+    "source": "nosta-borrowed-mind-2026",
+    "reason": "Distinct title and author matched raw copyright/title page and canonical.",
+    "evidence": "raw/nosta-borrowed-mind-2026/source.md"
+  },
+  "Nosta, Frictionless Intelligence (2026)": {
+    "source": "nosta-frictionless-intelligence-2026",
+    "reason": "Short citation matches specific article AI and the Slippery Slope of Frictionless Intelligence; raw title/byline/date verified.",
+    "evidence": "raw/nosta-frictionless-intelligence-2026/source.md"
+  },
+  "Nosta, The Tragic Flaw in AI (2026)": {
+    "source": "nosta-tragic-flaw-2026",
+    "reason": "Exact title matched raw byline/date and canonical.",
+    "evidence": "raw/nosta-tragic-flaw-2026/source.md"
+  },
+  "Fernandes et al. (2026)": {
+    "source": "fernandes-metacognition-2025",
+    "reason": "Retained article header is Computers in Human Behavior175(2026)108779; DOI/historical slug includes2025.",
+    "evidence": "raw/fernandes-metacognition-2025/source.md"
+  },
+  "Liu, C. (2026). The Organizational Behavior of Agentic AI: Context, Boundaries, and Collective Intelligence in Human-Agent Workflows. arXiv:2606.30986v1.": {
+    "source": "liu-agentic-ai-organizational-behavior-2026",
+    "reason": "Exact title and Canhui Liu byline in retained preprint; distinct from Liu persistence.",
+    "evidence": "raw/liu-agentic-ai-organizational-behavior-2026/source.md"
+  },
+  "de Mello et al. (2026)": {
+    "source": "demello-moralization-2026",
+    "reason": "Exact author group/title matched canonical and retained manuscript; compound surname breaks first-token resolver.",
+    "evidence": "raw/demello-moralization-2026/source.md"
+  },
+  "Niederhoffer et al. (2025/2026)": {
+    "source": "niederhoffer-workslop-2026",
+    "reason": "Canonical explicitly groups 2025 and2026 HBR articles; retained source contains both, with 2026 full byline. This is a grouped-source identity, not one publication year.",
+    "evidence": "raw/niederhoffer-workslop-2026/source.md"
+  },
+  "Ibrahim, L., Hafner, F. S., Cheng, M., Lee, C., Anselmetti, R., Willer, R., Rocher, L., & Yang, D. (2026). Sycophantic AI makes human interaction feel more effortful and less satisfying over time. arXiv:2605.07912v1.": {
+    "source": "ibrahim-human-interactions-effortful-2026",
+    "reason": "Exact title, eight-author group and arXiv identity match retained preprint; distinguish same-year warmth paper.",
+    "evidence": "raw/ibrahim-human-interactions-effortful-2026/source.md"
+  },
+  "Ibrahim, L., Hafner, F. S., & Rocher, L. (2026). Training language models to be warm can reduce accuracy and increase sycophancy. Nature, 652, 1159–1165. doi:10.1038/s41586-026-10410-0": {
+    "source": "ibrahim-warmth-sycophancy-2026",
+    "reason": "Exact title, three-author group, DOI/year match retained Nature article.",
+    "evidence": "raw/ibrahim-warmth-sycophancy-2026/source.md"
+  },
+  "Niederhoffer, K., Robichaux, A., & Hancock, J. T. (2025/2026). AI-Generated Workslop / Why People Create AI 'Workslop'. Harvard Business Review.": {
+    "source": "niederhoffer-workslop-2026",
+    "reason": "Canonical explicitly groups 2025 and2026 HBR articles; retained source contains both, with 2026 full byline. This is a grouped-source identity, not one publication year.",
+    "evidence": "raw/niederhoffer-workslop-2026/source.md"
   }
 }

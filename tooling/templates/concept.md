@@ -1,10 +1,12 @@
-<!-- This template is referenced by .claude/agents/researcher.md. Keep them in sync. -->
 ---
 status: emerging
 area: []
 sources:
   - ""
 ---
+
+<!-- Omit unused sections. Keep review history in raw/.
+     Preserve source attribution and substantive evidence limits. -->
 
 # [Concept Name]
 

@@ -9,10 +9,9 @@ intended_outcomes: [] # Primary first, up to two secondary; IDs in tooling/pract
 
 # [Practice name]
 
-<!-- Working format agreed 2026-09-26. Drafts belong in raw/<slug>/drafts/practices/.
-     Canonical practice loading, indexing and bundling are supported.
-     Integration still requires a recorded decision and source/link checks.
-     Outcome labels are provisional intended benefits, never effectiveness scores. -->
+<!-- Keep workflow history in raw/. Retain all required practice sections.
+     Outcome labels express intended benefits, never effectiveness scores.
+     Omit unused optional subsections and consolidate repeated citations. -->
 
 ## Use When
 

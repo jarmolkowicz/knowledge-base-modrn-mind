@@ -1,10 +1,12 @@
-<!-- This template is referenced by .claude/agents/researcher.md. Keep them in sync. -->
 ---
 status: emerging
 area: [preservation]
 sources:
   - "Citation"
 ---
+
+<!-- Omit unused sections. Keep review history in raw/.
+     Retain source attribution, editorial adaptations and evidence limitations. -->
 
 # [Method Name]
 
@@ -29,8 +31,9 @@ Omit or keep brief if the method is purely descriptive.]
 
 ## Why It Works
 
-[Evidence + reasoning. What concepts does this build on? What research
-supports it? When has it been tested?]
+[Separate evaluated effects from the proposed rationale. State what was tested,
+with whom and on which outcomes. Label untested methods and editorial adaptations.
+Related research does not by itself validate this method.]
 
 ## Strengths / Limitations
 

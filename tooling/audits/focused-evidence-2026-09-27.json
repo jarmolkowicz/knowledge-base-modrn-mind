@@ -1,0 +1,810 @@
+{
+  "date": "2026-09-27",
+  "scope": "Focused follow-up on all 25 previously deferred entries, plus propagation to strategic-alternation. No new source intake.",
+  "previous_snapshot": "publication-readiness-2026-09-27.json",
+  "changed_canonical_entries": [
+    {
+      "path": "concepts/ai-oscillation-trap.md",
+      "before_sha256": "d499c319c7640939ec56b90e97043cabe89b9f11e1a64163c009d6f30347bb6d",
+      "after_sha256": "56697698e1eb2b632b70e715f397a8a269d044d2a442015c398b2dbbf7e6a368"
+    },
+    {
+      "path": "concepts/anchoring-bias.md",
+      "before_sha256": "c09ed716f96ef84e31ce494c1f9f3cbb655c93485a2e0d929c2610b7fdae7d4a",
+      "after_sha256": "bb1315312dcd715262f18676ff6f81db31c7a7486a1499fc6acfdec7d059dda6"
+    },
+    {
+      "path": "concepts/anthropomorphism-of-technology.md",
+      "before_sha256": "ff90c3fb8a6678ae26ddf7a2b6281f9e6f809905e2ca39127e7260237a6ff44e",
+      "after_sha256": "b063901858e8d0d1a8ab156cad92daa57fd71abd89e8e55fce0cb5ff45ef7ab8"
+    },
+    {
+      "path": "concepts/anti-intelligence.md",
+      "before_sha256": "e7aecbb99277ffff4d15542fa35357f2baf79f58444a6dadee212d2567863073",
+      "after_sha256": "4ba6baef4b1d5118acd1366571d7e7a23f5da6797184f779f876b684d3909d96"
+    },
+    {
+      "path": "concepts/automation-bias.md",
+      "before_sha256": "4e944512f771f25d1c8dbc859f0bdf781f4a087da3a0946994f7b9b152d1ef89",
+      "after_sha256": "b128bd7fae7699150842c12a9327429015aceb1365a85911638f5d3f4d137502"
+    },
+    {
+      "path": "concepts/confidence-competence-gap.md",
+      "before_sha256": "913de8fedf3a4455f490ee7b823f411deae08fbf22f7dd77df78821009bf6e74",
+      "after_sha256": "bcfbc1be544189017558fafb48f52621076ff17aa638fcb1dbd25457d8b1964f"
+    },
+    {
+      "path": "concepts/embodied-cognition.md",
+      "before_sha256": "fd2349891f407f30b29011ea6642bdbbe8455f4462df21a1cb2064fcf85b10c5",
+      "after_sha256": "89a7c1981c72e210c3b182f90eee26c905823a4e447ab0ca94764df35a38c384"
+    },
+    {
+      "path": "concepts/illusion-of-explanatory-depth.md",
+      "before_sha256": "1f5158957918fc16cc5cdd80ea12459274b353e2da7712af0da31c3eaeaeaf05",
+      "after_sha256": "3e70569c720709c6ebf8965a7eff4172fffec06b806316efad76c6afc7542bb5"
+    },
+    {
+      "path": "concepts/judgment-development-paradox.md",
+      "before_sha256": "e2510e9babee243f78bdfe5ec0a904ecbc822f1cb16641553ca74fffa235e3e8",
+      "after_sha256": "5b734b8d245d4a5ac1bac68c9e43d9482fc4b5f0240e77df34670f0a60fc1060"
+    },
+    {
+      "path": "concepts/judgment.md",
+      "before_sha256": "da0e9ec9e1647d5bc4105758b050c03fc43005c32fdd84cf4bc0043bd57c45c5",
+      "after_sha256": "cd8cfd309d28e74c07b24f4c8315f37c47b9ec1aaf6689ebd7087c6e32439125"
+    },
+    {
+      "path": "concepts/social-friction.md",
+      "before_sha256": "3a6456f4d3f2c11b07157bdb1c89491e727c7c1956247437f67b97689d5fe70c",
+      "after_sha256": "77f89ced873f534bcadc75db0c07f6ca7e57f9292c44df5b83b9fc921ae3da82"
+    },
+    {
+      "path": "concepts/strategic-alternation.md",
+      "before_sha256": "393a45728a49baa408fe23e64eb6140d449889fa4df2c9f1b3179008436b22fc",
+      "after_sha256": "ad2dde852f4e51d421627757bccddc552da2ade61156cd6f7ebb89271732fb88"
+    },
+    {
+      "path": "concepts/sycophancy.md",
+      "before_sha256": "80fc86e118cd40a6785ea582ec9043abe158d1d9ba94b7cdcec2679747c152ec",
+      "after_sha256": "2fb42da009bc34efd30074a1a912c048d701b07bc35f593b96dbb050c7e79833"
+    },
+    {
+      "path": "concepts/upskilling-deskilling-paradox.md",
+      "before_sha256": "2c6d73f965e8b4f23bf781465437dc602f7e5cb5a83ba6108e99789a72837122",
+      "after_sha256": "8a19cd9969b2ba46af1628860fa65f96d3af8fc0ee1b6ecda234b25556efe0a8"
+    },
+    {
+      "path": "concepts/zone-of-proximal-development.md",
+      "before_sha256": "9323db6335d5517e2c5a0bc6e871f6660f573a165d88a5176a2993daef1b5a86",
+      "after_sha256": "7a51f546bbf635aeb387ead4fd82d04fc26d230b576ad1c616d62794c0bb30df"
+    },
+    {
+      "path": "methods/complementarity-framework.md",
+      "before_sha256": "2013da39f19a6009209ff9825d32acaf9ce96eec39afc72a226abb50f3345892",
+      "after_sha256": "3849555264423a484769ff9879ebf4255805750ff9a8bec43783888f62105dec"
+    },
+    {
+      "path": "sources/georganta-team-trust-2024.md",
+      "before_sha256": "699aa27a16f2244f70cca58a8e215ec1a1a5ad43ff6437ceb84de9c77fe11320",
+      "after_sha256": "a53c3756e5e1e3afbe59aad21c868fcd8ca42ac588da9b9b1a974f9d18197521"
+    },
+    {
+      "path": "sources/mascanero-proximal-collaboration-2026.md",
+      "before_sha256": "5752baba66595e7a1e43d276f38e985ef152066da2f5f6ca573cbc47c211173f",
+      "after_sha256": "49c61d38f771e3b4fd8d7328470522789bf87c0486ffcfa7f76dd3ff055a1772"
+    }
+  ],
+  "dispositions": {
+    "concepts/anchoring-bias.md": {
+      "result": "Identity verified; external bibliography retained without a canonical alias",
+      "evidence": [
+        {
+          "citation": "Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124–1131.",
+          "doi": "10.1126/science.185.4157.1124",
+          "verified_at": "https://pubmed.ncbi.nlm.nih.gov/17835457/",
+          "verification_level": "Original authors/article abstract and metadata reproduced by PubMed; Science landing page failed to load."
+        }
+      ],
+      "local_evidence": [
+        "raw/doshi-hauser-creativity-diversity-2024/source.md:13,33 — possible AI-story anchoring is an interpretation, not a test of think-first mitigation."
+      ]
+    },
+    "concepts/anthropomorphism-of-technology.md": {
+      "result": "Identity verified; external bibliography retained without a canonical alias",
+      "evidence": [
+        {
+          "citation": "Epley, N., Waytz, A., & Cacioppo, J. T. (2007). On seeing human: A three-factor theory of anthropomorphism. Psychological Review, 114(4), 864–886.",
+          "doi": "10.1037/0033-295X.114.4.864",
+          "verified_at": "https://pubmed.ncbi.nlm.nih.gov/17907867/",
+          "verification_level": "Original APA abstract/metadata reproduced in PubMed; retained Folk reference10 confirms identity."
+        },
+        {
+          "citation": "Waytz, A., Cacioppo, J., & Epley, N. (2010). Who sees human? The stability and importance of individual differences in anthropomorphism. Perspectives on Psychological Science, 5(3), 219–232.",
+          "doi": "10.1177/1745691610369336",
+          "verified_at": "https://journals.sagepub.com/doi/abs/10.1177/1745691610369336",
+          "verification_level": "Publisher metadata and abstract; retained Folk reference11 matches."
+        },
+        {
+          "citation": "Folk, D. P., Wu, C., & Heine, S. J. (2025). Cultural variation in attitudes toward social chatbots. Journal of Cross-Cultural Psychology, 56, 219–239.",
+          "verified_at": "raw/folk-heine-dunn-anthropomorphism-2025/source.md:360",
+          "verification_level": "Secondary reference12 only; original scale-development paper not directly reviewed. Do not pretend same paper as Folk/Heine/Dunn."
+        }
+      ],
+      "local_evidence": [
+        "raw/folk-heine-dunn-anthropomorphism-2025/source.md:86-90 — 8-item scale, alpha .88, potential-consciousness example, secondary r≈.40.",
+        "raw/folk-heine-dunn-anthropomorphism-2025/source.md:356-360 — exact foundation and scale-development references."
+      ]
+    },
+    "concepts/illusion-of-explanatory-depth.md": {
+      "result": "Identity verified; external bibliography retained without a canonical alias",
+      "evidence": [
+        {
+          "citation": "Rozenblit, L., & Keil, F. (2002). The misunderstood limits of folk science: An illusion of explanatory depth. Cognitive Science, 26(5), 521–562.",
+          "doi": "10.1207/s15516709cog2605_1",
+          "verified_at": "https://cogdevlab.yale.edu/sites/default/files/files/rozenblit%20%26%20keil%20%202002.pdf",
+          "verification_level": "Author-hosted original full text: abstract p521; rating/explanation procedure pp526–529; Wiley publication record confirms DOI."
+        }
+      ],
+      "local_evidence": [
+        "raw/messeri-crockett-illusions-understanding-2024/source.md:1055-1058 — reference70 identifies foundational paper.",
+        "raw/messeri-crockett-illusions-understanding-2024/source.md:478-493 — prediction/explanation and out-of-domain concerns are Perspective arguments, not universal observed AI effects."
+      ]
+    },
+    "concepts/social-friction.md": {
+      "result": "Identity verified; external bibliography retained without a canonical alias",
+      "evidence": [
+        {
+          "citation": "Eubanks, C. F., Muran, J. C., & Safran, J. D. (2018). Alliance rupture repair: A meta-analysis. Psychotherapy, 55(4), 508–519.",
+          "doi": "10.1037/pst0000185",
+          "verified_at": "https://supp.apa.org/psycarticles/supplemental/pst0000185/pst0000185_supp.html",
+          "abstract_url": "https://pubmed.ncbi.nlm.nih.gov/30335462/",
+          "verification_level": "APA exact bibliography; original abstract: 11 studies/1314 patients, repair-outcome association r=.29; six training studies/276 trainees, effect nonsignificant r=.11,p=.28."
+        }
+      ],
+      "local_evidence": [
+        "raw/perry-social-friction-2026/source.md:36-43 — psychotherapy/moral-growth synthesis in Perspective.",
+        "raw/perry-social-friction-2026/source.md:148-150 — Eubanks ref2; Li/Tomasello ref3 and Killen/Dahl ref4 secondary references.",
+        "sources/perry-social-friction-2026.md:17-23 — explicitly theoretical Perspective."
+      ]
+    },
+    "concepts/zone-of-proximal-development.md": {
+      "result": "Identity verified; external bibliography retained without a canonical alias",
+      "evidence": [
+        {
+          "citation": "Vygotsky, L. S. (1978). Mind in society: Development of higher psychological processes. Harvard University Press.",
+          "doi": "10.2307/j.ctvjf9vz4",
+          "verified_at": "https://www.jstor.org/stable/j.ctvjf9vz4",
+          "verification_level": "Publisher-hosted book metadata; definition p86 verified secondarily through van de Pol2010 and retained SCAN, not direct book page."
+        },
+        {
+          "citation": "Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. Journal of Child Psychology and Psychiatry, 17(2), 89–100.",
+          "doi": "10.1111/j.1469-7610.1976.tb00381.x",
+          "verified_at": "https://acamh.onlinelibrary.wiley.com/doi/10.1111/j.1469-7610.1976.tb00381.x",
+          "verification_level": "Publisher authors/date/pages; scaffolding account appraised via van de Pol review, not Wood full text."
+        },
+        {
+          "citation": "van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–student interaction: A decade of research. Educational Psychology Review, 22, 271–296.",
+          "doi": "10.1007/s10648-010-9127-6",
+          "verified_at": "https://link.springer.com/article/10.1007/s10648-010-9127-6",
+          "verification_level": "Original review full text; introduction defines ZPD by supported versus independent performance, characteristics contingency/fading/transfer, small effectiveness literature and measurement problems."
+        }
+      ],
+      "local_evidence": [
+        "raw/tsim-gutoreva-scan-2025/source.md:94,108-114 — secondary definition and simplified zones.",
+        "raw/tsim-gutoreva-scan-2025/source.md:703,709,717 — full bibliography."
+      ]
+    },
+    "concepts/embodied-cognition.md": {
+      "result": "Explicit source gap retained",
+      "evidence": [],
+      "local_evidence": [
+        "Current entry has sources:[] and speculative status.",
+        "raw/messeri-crockett-illusions-understanding-2024/source.md:717 mentions embodied standpoints in objectivity discussion; this does not establish the entry’s general account of embodiment or AI limitations."
+      ]
+    },
+    "concepts/automation-bias.md": {
+      "result": "Public dependence on missing reference removed or already absent; historical identity not claimed resolved",
+      "review": {
+        "path": "concepts/automation-bias.md",
+        "disposition": "Residual unsupported mechanism and misplaced Vaccaro attribution require correction.",
+        "changes": [
+          {
+            "line": 41,
+            "claim": "The complementarity framework identifies a structural mechanism, including the unattributed quotation 'fail silently with high confidence when encountering unfamiliar conditions' and an asserted compounding joint failure mode.",
+            "replace_paragraph_with": "[Inference] The provisional [[complementarity-framework]] raises a design question: could confident AI errors and reduced human checking coincide? The framework does not establish this as a measured joint failure mechanism."
+          },
+          {
+            "line": 43,
+            "claim": "Teams perform best when humans actively interrogate AI recommendations (Vaccaro et al., 2024); surfacing uncertainty and rationales helps counter automation bias.",
+            "replace_paragraph_with": "Vaccaro et al. (2024) did not find statistically significant performance moderation by AI explanations or confidence displays. Their meta-analysis does not establish active interrogation as the best interaction mode. [Inference] Compare checking and interface designs in the intended task rather than assuming a universal safeguard.",
+            "evidence": [
+              "sources/vaccaro-human-ai-meta-analysis-2024.md:34,54,70",
+              "raw/vaccaro-human-ai-meta-analysis-2024/source.md:78,119 (explanations/confidence nonsignificant)",
+              "raw/vaccaro-human-ai-meta-analysis-2024/source.md:241 (reliance selection offered as one potential explanation),253 (heterogeneity and untested interactions),257"
+            ]
+          },
+          {
+            "line": 56,
+            "replace_line_with": "- [[complementarity-framework]] - proposes attention and checking routines; effectiveness is untested"
+          }
+        ]
+      }
+    },
+    "concepts/capacity-erosion.md": {
+      "result": "Public dependence on missing reference removed or already absent; historical identity not claimed resolved",
+      "review": {
+        "path": "concepts/capacity-erosion.md",
+        "disposition": "Missing-source dependence already removed. No change required for this focused review.",
+        "reason": "Junior-practice pathway is speculative; the proposed offloading-confidence-dependency cycle is explicitly not established. Retained empirical claims identify other sources."
+      }
+    },
+    "concepts/cognitive-offloading.md": {
+      "result": "Public dependence on missing reference removed or already absent; historical identity not claimed resolved",
+      "review": {
+        "path": "concepts/cognitive-offloading.md",
+        "disposition": "Missing-source dependence already removed. No change required for this focused review.",
+        "reason": "The former Lodge cognitive-load claim is absent. Incidental effort versus useful practice is an inference to test; the double-offload erosion cycle is speculation, not established evidence."
+      }
+    },
+    "concepts/desirable-difficulty.md": {
+      "result": "Public dependence on missing reference removed or already absent; historical identity not claimed resolved",
+      "review": {
+        "path": "concepts/desirable-difficulty.md",
+        "disposition": "Missing-source dependence already removed. No change required for this focused review.",
+        "reason": "No Duncan/Lodge attribution remains. Bjork, Stadler and Shen claims have retained sources; AI practice proposals are bounded."
+      }
+    },
+    "concepts/judgment-development-paradox.md": {
+      "result": "Public dependence on missing reference removed or already absent; historical identity not claimed resolved",
+      "review": {
+        "path": "concepts/judgment-development-paradox.md",
+        "disposition": "Body no longer depends on missing sources; two categorical Related descriptions should match its speculative status.",
+        "changes": [
+          {
+            "line": 34,
+            "claim": "novice-vulnerability - who is most affected",
+            "replace_line_with": "- [[novice-vulnerability]] - possible differences in learning opportunities; comparative effects need testing"
+          },
+          {
+            "line": 35,
+            "claim": "desirable-difficulty - what gets eliminated",
+            "replace_line_with": "- [[desirable-difficulty]] - useful practice that task substitution might remove"
+          }
+        ]
+      }
+    },
+    "concepts/judgment.md": {
+      "result": "Public dependence on missing reference removed or already absent; historical identity not claimed resolved",
+      "review": {
+        "path": "concepts/judgment.md",
+        "disposition": "Body no longer depends on missing sources; one Related description retains an unsupported priority claim.",
+        "changes": [
+          {
+            "line": 70,
+            "claim": "juniors lose judgment-building experiences first",
+            "replace_line_with": "- [[novice-vulnerability]] - possible risks to learning opportunities when tasks are substituted"
+          }
+        ],
+        "reason": "Former Gonzalez roles and developmental pathways are already explicitly proposals/inferences. No need to recover Duncan merely to retain the present bounded argument."
+      }
+    },
+    "concepts/metacognition.md": {
+      "result": "Public dependence on missing reference removed or already absent; historical identity not claimed resolved",
+      "review": {
+        "path": "concepts/metacognition.md",
+        "disposition": "Missing-source dependence already removed. No change required for this focused review.",
+        "reason": "Former Gonzalez teamwork recommendations are inference prompts rather than universal best-performance claims. The Lodge-like causal chain is explicitly unestablished. Separate Lakoff/Varela source-access limits were not reopened in this bounded review."
+      }
+    },
+    "concepts/metacognitive-laziness.md": {
+      "result": "Public dependence on missing reference removed or already absent; historical identity not claimed resolved",
+      "review": {
+        "path": "concepts/metacognitive-laziness.md",
+        "disposition": "Missing-source dependence already removed. No change required for this focused review.",
+        "reason": "Mandatory pauses are no longer presented as necessary or proven effective. Direct Fan and other retained source claims stand independently."
+      }
+    },
+    "concepts/novice-vulnerability.md": {
+      "result": "Public dependence on missing reference removed or already absent; historical identity not claimed resolved",
+      "review": {
+        "path": "concepts/novice-vulnerability.md",
+        "disposition": "Missing-source dependence already removed. No change required for this focused review.",
+        "reason": "The missing Duncan attribution is absent. Current source-specific evidence and practitioner accounts cite retained entries; their broader accuracy was outside this focused pass."
+      }
+    },
+    "concepts/performance-paradox.md": {
+      "result": "Public dependence on missing reference removed or already absent; historical identity not claimed resolved",
+      "review": {
+        "path": "concepts/performance-paradox.md",
+        "disposition": "Missing-source dependence already removed. No change required for this focused review.",
+        "reason": "The former Lodge causal cycle is now speculation and explicitly not established as a complete cycle. Retained empirical findings identify independent sources."
+      }
+    },
+    "methods/calibration.md": {
+      "result": "Public dependence on missing reference removed or already absent; historical identity not claimed resolved",
+      "review": {
+        "path": "methods/calibration.md",
+        "disposition": "Missing-source dependence already removed. No change required for this focused review.",
+        "reason": "Five teamwork prompts are explicit inference; the combined routine and safeguards are unvalidated. Calibrated trust is not asserted to be necessary or sufficient."
+      }
+    },
+    "methods/complementarity-framework.md": {
+      "result": "Public dependence on missing reference removed or already absent; historical identity not claimed resolved",
+      "review": {
+        "path": "methods/complementarity-framework.md",
+        "disposition": "Remove unresolved Gonzalez attribution from public prose; identify the current framework explicitly as editorial synthesis and its components as proposals.",
+        "changes": [
+          {
+            "line": 22,
+            "replace_paragraph_with": "This entry presents an editorial design synthesis. Its four components and five principles are untested proposals. The linked studies support specific observations, not authorship or validation of the complete framework."
+          },
+          {
+            "line": 29,
+            "insert_after_heading": "[Inference] These are proposed roles to design and evaluate, not established capabilities of every AI system."
+          },
+          {
+            "line": 31,
+            "claim": "Together they form a transactive memory system.",
+            "replace_sentence_with": "Together they may support a transactive memory system; whether they do so requires evaluation."
+          }
+        ],
+        "reason": "The present entry is already labeled speculative and provisional. A source-identity problem belongs in the retained audit history. Editorial synthesis labels the current public treatment; it does not establish the historical origin of the taxonomy or assign authorship to a verified scholar. Preserve the unresolved historical attribution in the external audit."
+      }
+    },
+    "concepts/anti-intelligence.md": {
+      "result": "Article identity verified; book quotations corrected and located",
+      "evidence": [
+        "https://www.psychologytoday.com/gb/blog/the-digital-self/202601/anti-intelligence-when-thinking-has-no-consequence",
+        "raw/nosta-borrowed-mind-2026/source.md: extracted EPUB ch.18, ch.22, ch.27"
+      ]
+    },
+    "concepts/ai-oscillation-trap.md": {
+      "result": "Named article verified; hypothesis remains speculative",
+      "evidence": [
+        "https://www.psychologytoday.com/nz/blog/the-digital-self/202503/the-ai-oscillation-trap-stuck-between-ai-and-autonomy"
+      ]
+    },
+    "concepts/confidence-competence-gap.md": {
+      "result": "Unidentifiable Scispace synthesis citation removed; no remaining claim specifically relied on it",
+      "evidence": [
+        "Existing linked study-specific evidence retained"
+      ]
+    },
+    "concepts/sycophancy.md": {
+      "result": "Malmqvist identity verified; explicitly secondary through SCAN, not another experiment",
+      "evidence": [
+        "raw/tsim-gutoreva-scan-2025/source.md:599",
+        "https://link.springer.com/chapter/10.1007/978-3-031-92611-2_5"
+      ]
+    },
+    "concepts/upskilling-deskilling-paradox.md": {
+      "result": "Shukla and Krook identities verified; SCAN trajectories remain proposals",
+      "evidence": [
+        "raw/tsim-gutoreva-scan-2025/source.md:581,661",
+        "raw/shukla-deskilling-offloading-2026/source.md:116-131 identifies the 2025 paper; prior SKIP decision untouched",
+        "https://link.springer.com/article/10.1007/s00146-025-02397-5"
+      ]
+    },
+    "sources/georganta-team-trust-2024.md": {
+      "result": "Reporting conflict retained; study-specific counts verified; possible exclusion explanation labeled inference",
+      "evidence": [
+        "raw/georganta-team-trust-2024/source.md: PDF pp.8,12,17",
+        "https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12504?af=R"
+      ]
+    },
+    "sources/mascanero-proximal-collaboration-2026.md": {
+      "result": "Model/date conflict retained; no date or model guessed",
+      "evidence": [
+        "raw/mascanero-proximal-collaboration-2026/source.md: PDF p.4, sections3.1-3.2",
+        "https://openai.com/index/hello-gpt-4o/",
+        "https://www.sciencedirect.com/science/article/pii/S2451958826001284"
+      ]
+    }
+  },
+  "remaining_content_questions": [
+    "concepts/embodied-cognition.md",
+    "sources/georganta-team-trust-2024.md",
+    "sources/mascanero-proximal-collaboration-2026.md"
+  ],
+  "validation": {
+    "linter": [
+      {
+        "check": "distillation_quality",
+        "entry": "hassid-270-business-2025",
+        "issue": "sparse distillation: only 188 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "hassid-275-claude-code-2026",
+        "issue": "sparse distillation: only 153 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "hassid-276-cowork-2026",
+        "issue": "sparse distillation: only 157 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "hassid-289-how-to-make-ai-battle-for-2025",
+        "issue": "sparse distillation: only 187 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "hassid-324-quit-chatgpt-2026",
+        "issue": "sparse distillation: only 131 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "hassid-325-replaced-2026",
+        "issue": "sparse distillation: only 148 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "hassid-328-search-2025",
+        "issue": "sparse distillation: only 143 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "hassid-339-vibecoding-2026",
+        "issue": "sparse distillation: only 167 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "illingworth-421-your-ai-policy-does-not-apply-2026",
+        "issue": "sparse distillation: only 198 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "illingworth-423-your-ai-has-171-emotion-patterns-2026",
+        "issue": "sparse distillation: only 184 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "illingworth-425-fiction-as-a-mirror-for-students-2026",
+        "issue": "sparse distillation: only 199 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "illingworth-435-when-ai-sounds-neutral-is-it-2025",
+        "issue": "sparse distillation: only 161 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "illingworth-436-every-ai-onboarding-tool-is-already-2026",
+        "issue": "sparse distillation: only 174 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "illingworth-437-is-your-ai-overwriting-your-memory-2026",
+        "issue": "sparse distillation: only 188 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "illingworth-440-the-work-ai-handed-back-2026",
+        "issue": "sparse distillation: only 157 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "illingworth-453-stop-trusting-your-intuition-when-evaluating-2026",
+        "issue": "sparse distillation: only 197 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "illingworth-479-run-your-own-ai-on-a-2026",
+        "issue": "sparse distillation: only 186 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "illingworth-480-teach-ai-something-it-cannot-know-2025",
+        "issue": "sparse distillation: only 198 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "illingworth-482-how-to-teach-ai-what-to-2025",
+        "issue": "sparse distillation: only 162 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "illingworth-489-teach-ai-to-use-less-2025",
+        "issue": "sparse distillation: only 187 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "illingworth-491-archival-silence-a-proof-of-concept-2026",
+        "issue": "sparse distillation: only 186 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "illingworth-517-what-is-critical-ai-literacy-2026",
+        "issue": "sparse distillation: only 166 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "illingworth-529-you-will-be-accused-of-using-2026",
+        "issue": "sparse distillation: only 186 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-568-unpacking-amazon-s-unique-ways-of-2023",
+        "issue": "sparse distillation: only 187 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-585-why-most-product-managers-are-unprepared-2023",
+        "issue": "sparse distillation: only 179 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-591-the-essence-of-product-management-christian-2023",
+        "issue": "sparse distillation: only 175 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-601-developing-a-growth-model-marketplace-growth-2022",
+        "issue": "sparse distillation: only 177 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-636-how-shopify-builds-a-high-intensity-2024",
+        "issue": "sparse distillation: only 189 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-660-what-it-takes-to-become-a-2022",
+        "issue": "sparse distillation: only 177 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-673-jason-fried-challenges-your-thinking-on-2023",
+        "issue": "sparse distillation: only 179 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-677-building-product-at-stripe-craft-metrics-2024",
+        "issue": "sparse distillation: only 191 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-702-building-beautiful-products-with-stripe-s-2023",
+        "issue": "sparse distillation: only 191 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-705-leading-with-empathy-keith-yandell-2023",
+        "issue": "sparse distillation: only 163 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-725-mastering-product-strategy-and-growing-as-2023",
+        "issue": "sparse distillation: only 178 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-731-how-to-speak-more-confidently-and-2024",
+        "issue": "sparse distillation: only 178 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-737-how-to-tell-better-stories-matthew-2023",
+        "issue": "sparse distillation: only 180 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-755-storytelling-with-nancy-duarte-how-to-2023",
+        "issue": "sparse distillation: only 188 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-760-how-to-measure-ai-developer-productivity-2025",
+        "issue": "sparse distillation: only 183 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-802-why-great-ai-products-are-all-2024",
+        "issue": "sparse distillation: only 188 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-803-the-rituals-of-great-teams-shishir-2022",
+        "issue": "sparse distillation: only 186 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-819-why-ai-is-disrupting-traditional-product-2025",
+        "issue": "sparse distillation: only 184 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "lenny-821-why-most-public-speaking-advice-is-2024",
+        "issue": "sparse distillation: only 198 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "mollick-066-against-brain-damage-2025",
+        "issue": "sparse distillation: only 192 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "mollick-075-giving-your-ai-a-job-interview-2025",
+        "issue": "sparse distillation: only 183 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "mollick-076-i-cyborg-using-co-intelligence-2024",
+        "issue": "sparse distillation: only 159 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "mollick-077-innovation-through-prompting-2024",
+        "issue": "sparse distillation: only 198 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "newport-022-avoiding-digital-productivity-traps-2026",
+        "issue": "sparse distillation: only 182 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "newport-038-on-ai-coding-and-its-discontents-2026",
+        "issue": "sparse distillation: only 169 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "ramonov-350-10-year-old-vibe-codes-2-2026",
+        "issue": "sparse distillation: only 178 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "ramonov-360-ai-for-healthcare-insurance-2026",
+        "issue": "sparse distillation: only 181 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "ramonov-375-claude-just-changed-content-creation-forever-2026",
+        "issue": "sparse distillation: only 175 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "ramonov-394-ai-co-founder-mega-prompt-2026",
+        "issue": "sparse distillation: only 192 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      },
+      {
+        "check": "distillation_quality",
+        "entry": "ramonov-402-the-ultimate-ai-coding-guide-2025",
+        "issue": "sparse distillation: only 185 words in body",
+        "fix": "re-distill via /ingest <slug> to produce a fuller source entry"
+      }
+    ],
+    "practice-schema": [],
+    "citations": {
+      "active_citations_checked": 301,
+      "explicit_source_links_checked": 147,
+      "citation_strings_not_resolved_individually": 110,
+      "scope": "Navigation only. Explicit identities do not verify citation wording or claim support.",
+      "findings": [
+        {
+          "entry": "anchoring-bias",
+          "citation": "Tversky & Kahneman (1974)",
+          "issue": "unresolved or ambiguous active citation"
+        },
+        {
+          "entry": "anthropomorphism-of-technology",
+          "citation": "Epley, Waytz & Cacioppo (2007)",
+          "issue": "unresolved or ambiguous active citation"
+        },
+        {
+          "entry": "anthropomorphism-of-technology",
+          "citation": "Waytz, Cacioppo & Epley (2010)",
+          "issue": "unresolved or ambiguous active citation"
+        },
+        {
+          "entry": "anti-intelligence",
+          "citation": "Nosta, J. (2026). Anti-Intelligence: When Thinking Has No Consequence. Psychology Today, January 5.",
+          "issue": "unresolved or ambiguous active citation"
+        },
+        {
+          "entry": "illusion-of-explanatory-depth",
+          "citation": "Rozenblit, L. & Keil, F. (2002). The misunderstood limits of folk science: an illusion of explanatory depth. Cognitive Science, 26, 521–562.",
+          "issue": "unresolved or ambiguous active citation"
+        },
+        {
+          "entry": "social-friction",
+          "citation": "Eubanks, Muran & Safran (2018)",
+          "issue": "unresolved or ambiguous active citation"
+        },
+        {
+          "entry": "sycophancy",
+          "citation": "Malmqvist (2025)",
+          "issue": "unresolved or ambiguous active citation"
+        },
+        {
+          "entry": "upskilling-deskilling-paradox",
+          "citation": "Shukla et al. (2025)",
+          "issue": "unresolved or ambiguous active citation"
+        },
+        {
+          "entry": "upskilling-deskilling-paradox",
+          "citation": "Krook (2025)",
+          "issue": "unresolved or ambiguous active citation"
+        },
+        {
+          "entry": "zone-of-proximal-development",
+          "citation": "Vygotsky (1978)",
+          "issue": "unresolved or ambiguous active citation"
+        },
+        {
+          "entry": "zone-of-proximal-development",
+          "citation": "Wood et al. (1976)",
+          "issue": "unresolved or ambiguous active citation"
+        },
+        {
+          "entry": "zone-of-proximal-development",
+          "citation": "Van de Pol et al. (2010)",
+          "issue": "unresolved or ambiguous active citation"
+        }
+      ]
+    }
+  },
+  "limitations": "Identity verification is not full-text appraisal or empirical validation. External references without canonical source entries remain citation-navigation findings. Historic Gonzalez/Duncan/Lodge-Loble attribution was not recovered; public dependence was removed. Original 43-test tooling result remains applicable; no tooling code changed in this follow-up.",
+  "cumulative_counts": {
+    "tracked_deletions": 4712,
+    "canonical_changed": 364,
+    "working_tree_files": 378,
+    "tracked_insertions": 2401,
+    "tracked_changed": 373,
+    "canonical_unchanged": 62
+  },
+  "review_outcome": "Independent main-scope review identified reliance denominator, model generalization, harm/potential, causal cross-links and Runco interpretation issues. Main corrected these. Raw/private/AGENTS tracked diffs and staged diff are empty. Unstaged review queued."
+}
