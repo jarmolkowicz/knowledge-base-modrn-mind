@@ -139,3 +139,9 @@ Integrated eight new practices, nine focused practice updates and one modulation
 - Removed two temporary commit reports and 15 generated PDF preview images. Source files, review records and pending practice drafts retained.
 - Restored six deleted Julia batch reports still referenced by the log and source workbenches; their content matches the committed versions.
 - Clarified that the current knowledge pack includes practices and shortened source notes; corrected the librarian collection list. Pack scope unchanged.
+
+## [2026-09-27] tooling audit | Finalize practice tooling
+
+- Archived 25 completed-batch scripts as unchanged text records with exact hashes. Added maintained-tool documentation, shared practice validation, duplicate-slug protection, safer citation-link syncing and separate refresh-run ledgers.
+- All 41 tests passed. Verified 83 practices, 146 source links, a real draft, navigation rebuilds and the 426-entry combined pack. One existing missing-related-link warning remains. Canonical content and pack scope unchanged; no live source refresh.
+- [Audit and verification](tooling/audits/practice-tooling-2026-09-27.md).

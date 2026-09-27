@@ -65,6 +65,7 @@ from lint_checks import (  # noqa: E402
     find_missing_related,
     normalize_for_match as _normalize,
 )
+from practice_checks import check_practice
 
 
 # ---------------------------------------------------------------------------
@@ -374,7 +375,15 @@ def check_missing_workbench(entries: dict[str, Entry]) -> list[Finding]:
     return findings
 
 
+def check_practices(entries: dict[str, Entry]) -> list[Finding]:
+    sources = {stem for stem, entry in entries.items() if entry.type == 'source'}
+    return [finding for entry in entries.values() if entry.type == 'practice'
+            for finding in check_practice(Path(entry.path).read_text(encoding='utf-8'),
+                                          entry.stem, source_stems=sources)]
+
+
 CHECKS = {
+    "practice_schema": check_practices,
     "broken_wikilinks": check_broken_wikilinks,
     "orphans": check_orphans,
     "uncited_sources": check_uncited_sources,
@@ -388,6 +397,7 @@ CHECKS = {
 
 
 CHECK_DESCRIPTIONS = {
+    "practice_schema": "Practice sections, exact source identities and intended outcomes",
     "broken_wikilinks": "Wikilinks pointing to entries that don't exist",
     "orphans": "Entries with no inbound or outbound wikilinks",
     "uncited_sources": "Source entries not wikilinked from any concept/method",

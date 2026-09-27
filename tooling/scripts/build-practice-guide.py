@@ -3,6 +3,7 @@ import json
 from pathlib import Path
 import re
 import yaml
+from practice_checks import check_practice
 
 ROOT = Path(__file__).resolve().parents[2]
 
@@ -10,8 +11,13 @@ def main():
     taxonomy = json.loads((ROOT / 'tooling/practice-outcomes.json').read_text(encoding='utf-8'))
     groups = {c['id']: [] for c in taxonomy['categories']}
     groups['unassigned'] = []
+    source_stems = {p.stem for p in (ROOT / 'sources').glob('*.md')}
     for path in sorted((ROOT / 'practices').glob('*.md')):
         text = path.read_text(encoding='utf-8')
+        findings = check_practice(text, path.stem, outcomes=set(groups) - {'unassigned'},
+                                  source_stems=source_stems)
+        if findings:
+            raise ValueError(f'{path.name}: ' + '; '.join(f.issue for f in findings))
         fm = re.match(r'^---\s*\n(.*?)\n---', text, re.S)
         meta = yaml.safe_load(fm[1]) if fm else {}
         title = re.search(r'^# (.+)$', text, re.M)[1]
@@ -25,7 +31,7 @@ def main():
     lines = ['# Practices by intended outcome', '',
              f'**{total} integrated practices.** Choose a situation or outcome, then open the practice for steps, source accounts, limits and things to observe.', '',
              'These routines come from practitioner accounts, research, proposed exercises and documented examples. Inclusion is not proof of effectiveness or a blanket endorsement of an author. Research-based adaptations, AI adaptations and curator observations are labeled. Each entry distinguishes intended benefits from reported results.', '',
-             'The outcome vocabulary is provisional. Eight categories concern human thinking and participation; two support them through accountability or immediate work quality. Better assisted output does not by itself show improved judgment, retained skill or well-calibrated confidence.', '',
+             'The outcome vocabulary is provisional. Core outcomes concern human thinking and participation; enabling outcomes support them through accountability or immediate work quality. Better assisted output does not by itself show improved judgment, retained skill or well-calibrated confidence.', '',
              '| Intended outcome | Type | Practices |', '|---|---|---:|']
     for category in taxonomy['categories']:
         lines.append(f'| [{category["title"]}](#{category["id"]}) | {category["role"]} | {len(groups[category["id"]])} |')
@@ -38,7 +44,9 @@ def main():
         for stem,title,trigger in rows:
             title, trigger = title.replace('|', '\\|'), trigger.replace('|', '\\|')
             lines.append(f'| [{title}](practices/{stem}.md) | {trigger} |')
-    lines += ['', 'For source selection, reading coverage, excluded items and integration history, see the [review record](raw/practitioner-practices-development/extraction/README.md).']
+    lines += ['', 'Source selection, reading coverage and integration history: '
+              '[practitioner review](raw/practitioner-practices-development/integration/README.md) and '
+              '[research-source review](raw/kb-practice-screening-2026-09-27/review/integration/README.md).']
     (ROOT / 'practice-guide.md').write_text('\n'.join(lines) + '\n', encoding='utf-8')
     print(f'Wrote practice-guide.md: {total} practices')
 

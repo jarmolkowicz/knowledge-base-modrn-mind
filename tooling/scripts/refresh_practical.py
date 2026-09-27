@@ -19,6 +19,7 @@ import json
 from pathlib import Path
 import re
 import time
+import tempfile
 from urllib.parse import urlparse
 import xml.etree.ElementTree as ET
 
@@ -44,7 +45,7 @@ def digest(data: bytes) -> str:
 
 def safe_slug(value: str) -> str:
     value = re.sub(r"[^a-z0-9-]+", "-", value.lower()).strip("-")[:150]
-    if not value or value in {"agents", "claude", "readme", "con", "prn", "aux", "nul"}:
+    if not value or value in {"agents", "claude", "readme", "con", "prn", "aux", "nul"} or re.fullmatch(r'(com|lpt)[1-9]', value):
         value = "article-" + (value or "untitled")
     return value
 
@@ -52,6 +53,23 @@ def safe_slug(value: str) -> str:
 def save_json(path: Path, value: object) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(value, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def new_run_dir(until: str) -> Path:
+    """One immutable download ledger per invocation, including same-day reruns."""
+    parent = INBOX / '_refresh'
+    parent.mkdir(parents=True, exist_ok=True)
+    return Path(tempfile.mkdtemp(prefix=until + '-', dir=parent))
+
+
+def transcript_path(relative: str) -> Path:
+    """Accept only episode-relative paths; upstream names never select local roots."""
+    path = Path(relative)
+    if (path.is_absolute() or '\\' in relative or ':' in relative
+            or '..' in path.parts or len(path.parts) < 3
+            or path.parts[0] != 'episodes' or path.name != 'transcript.md'):
+        raise ValueError(f'Invalid upstream transcript path: {relative}')
+    return path
 
 
 def client() -> httpx.Client:
@@ -230,10 +248,12 @@ def podcasts(run_dir: Path) -> dict:
             entries = [p for p in tree["tree"] if p["path"].startswith("episodes/") and p["path"].endswith("/transcript.md")]
             result["upstream_transcripts"] = len(entries)
             for entry in entries:
-                relative = Path(entry["path"])
+                relative = transcript_path(entry["path"])
                 old_path = INBOX / "Lenny's Podcast/repo" / relative
-                if old_path.exists():
-                    data = old_path.read_bytes().replace(b"\r\n", b"\n")
+                target = INBOX / "Lenny's Podcast/refreshed" / relative.relative_to("episodes")
+                current = target if target.exists() else old_path
+                if current.exists():
+                    data = current.read_bytes().replace(b"\r\n", b"\n")
                     sha_local = hashlib.sha1(b"blob " + str(len(data)).encode() + b"\0" + data).hexdigest()
                     if sha_local == entry["sha"]:
                         text = data.decode("utf-8")
@@ -246,7 +266,6 @@ def podcasts(run_dir: Path) -> dict:
                 match = re.search(r"^publish_date:\s*(\d{4}-\d{2}-\d{2})", text, re.M)
                 date = match[1] if match else None
                 newest = max(newest, date or "")
-                target = INBOX / "Lenny's Podcast/refreshed" / relative.relative_to("episodes")
                 target.parent.mkdir(parents=True, exist_ok=True)
                 if target.exists() and target.read_text(encoding="utf-8") != text:
                     backup = run_dir / "previous/Lenny's Podcast" / relative
@@ -315,11 +334,11 @@ def main() -> int:
         datetime.strptime(date, "%Y-%m-%d")
     if args.since > args.until:
         parser.error("since must be before until")
-    run_dir = INBOX / "_refresh" / args.until
     selected = set(args.collections or [*PUBLICATIONS, "Cal Newport", "Lenny's Podcast", "Lenny's Podcast episode notes"])
     allowed = {*PUBLICATIONS, "Cal Newport", "Lenny's Podcast", "Lenny's Podcast episode notes"}
     if selected - allowed:
         parser.error("Unknown collections: " + ", ".join(selected - allowed))
+    run_dir = new_run_dir(args.until)
     manifest = {"started_at": datetime.now(timezone.utc).isoformat(), "since": args.since,
                 "until": args.until, "collections": [], "scope": "public source refresh only"}
     with ThreadPoolExecutor(max_workers=3) as pool:
@@ -340,9 +359,7 @@ def main() -> int:
             print(json.dumps({"collection": result["collection"], "saved": len(result["items"]),
                               "errors": len(result["errors"]), "archive_complete": result["archive_complete_for_window"]}), flush=True)
     manifest["finished_at"] = datetime.now(timezone.utc).isoformat()
-    # A selected rerun must not discard other collections' audit records.
-    manifest["collections"] = [json.loads(p.read_text(encoding="utf-8"))
-                               for p in sorted((run_dir / "collections").glob("*.json"))]
+    # Only this invocation's selected collections determine its completion status.
     save_json(run_dir / "manifest.json", manifest)
     return int(any(r["errors"] or not r["archive_complete_for_window"] for r in manifest["collections"]))
 

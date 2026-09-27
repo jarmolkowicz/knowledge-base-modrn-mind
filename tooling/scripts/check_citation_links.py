@@ -72,13 +72,16 @@ def main() -> int:
         if stem not in entries or entries[stem].type == 'source':
             findings.append({'entry': stem, 'issue': 'unknown or non-citing entry'})
     checked = 0
+    explicit_checked = 0
+    citation_strings_not_resolved = 0
     for stem, entry in entries.items():
         if entry.type == 'source' or (args.entry and stem not in args.entry):
             continue
         if args.drafts and (args.drafts / (stem + '.md')).is_file():
             entry = _parse_file(args.drafts / (stem + '.md'), entry.type)
         if entry.source_entries:
-            checked += len(entry.sources)
+            explicit_checked += len(entry.source_entries)
+            citation_strings_not_resolved += len(entry.sources)
             findings.extend(check_explicit_sources(entry, sources))
             continue
         for citation in entry.sources:
@@ -90,7 +93,11 @@ def main() -> int:
             elif target not in entry.wikilinks:
                 findings.append({'entry': stem, 'citation': citation, 'source': target,
                                  'issue': 'identity resolved but canonical link missing'})
-    print(json.dumps({'active_citations_checked': checked, 'findings': findings},
+    print(json.dumps({'active_citations_checked': checked,
+                     'explicit_source_links_checked': explicit_checked,
+                     'citation_strings_not_resolved_individually': citation_strings_not_resolved,
+                     'scope': 'Navigation only. Explicit identities do not verify citation wording or claim support.',
+                     'findings': findings},
                      ensure_ascii=True, indent=2))
     return bool(findings)
 

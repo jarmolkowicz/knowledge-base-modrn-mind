@@ -1,0 +1,127 @@
+[
+  {
+    "From": "tooling/scripts/catalog_practice_pool.py",
+    "To": "raw/practitioner-practices-development/tooling-archive/catalog_practice_pool.py.txt",
+    "SHA256": "B09D0B700BD45F75C2EE0C382F04905AE7631B566F6C773B749048D05C639AA2"
+  },
+  {
+    "From": "tooling/scripts/check_integrated_practices.py",
+    "To": "raw/practitioner-practices-development/tooling-archive/check_integrated_practices.py.txt",
+    "SHA256": "6C267E65838EEA7993250212BFDEEF96E9CA6F5786C04816D68679697F272B7E"
+  },
+  {
+    "From": "tooling/scripts/check_practice_review.py",
+    "To": "raw/practitioner-practices-development/tooling-archive/check_practice_review.py.txt",
+    "SHA256": "96ED7675FBF8CF15FEED32B6FA2F513F8423C4C14E00689A8129F05AC72589B4"
+  },
+  {
+    "From": "tooling/scripts/integrate_practice_batch.py",
+    "To": "raw/practitioner-practices-development/tooling-archive/integrate_practice_batch.py.txt",
+    "SHA256": "7A697996A227AC4879C8B9D128E6C57D3D2A5A97B6624CB3C4D17EDB2B9F2B68"
+  },
+  {
+    "From": "tooling/scripts/prepare_practice_integration.py",
+    "To": "raw/practitioner-practices-development/tooling-archive/prepare_practice_integration.py.txt",
+    "SHA256": "48A6AEFE4A86119A04D38E4DB2CE413DA8240D7DDA9EA560F4AAD92DD04C56FC"
+  },
+  {
+    "From": "tooling/scripts/publish_practical_queue.py",
+    "To": "raw/practitioner-practices-development/tooling-archive/publish_practical_queue.py.txt",
+    "SHA256": "6E1796CE014F419396FA840017079F9062A9381D8A999B360EFD0C3D5F5207D0"
+  },
+  {
+    "From": "tooling/scripts/publish_practical_screening.py",
+    "To": "raw/practitioner-practices-development/tooling-archive/publish_practical_screening.py.txt",
+    "SHA256": "BCE463B3FBF96E295D3881C7BD368DD52981FB229EAEB0F32A3FC84B5DAE28F0"
+  },
+  {
+    "From": "tooling/scripts/publish_practice_close_review.py",
+    "To": "raw/practitioner-practices-development/tooling-archive/publish_practice_close_review.py.txt",
+    "SHA256": "A5E05DED380C73CE3B9AB82F26321E98EC1B4DA6B7BDEDBC7EEC650CE41BD335"
+  },
+  {
+    "From": "tooling/scripts/publish_practice_root_review.py",
+    "To": "raw/practitioner-practices-development/tooling-archive/publish_practice_root_review.py.txt",
+    "SHA256": "1247763FCB2205488A14C8173C2470B62FE2021B63B2988BF7F3A3B287E0CDAD"
+  },
+  {
+    "From": "tooling/scripts/read_practice_source.py",
+    "To": "raw/practitioner-practices-development/tooling-archive/read_practice_source.py.txt",
+    "SHA256": "51A0750DB05DC5B76EFFDA0AC05623AA2A99324C5C61D8498BCD1F3863CC08B8"
+  },
+  {
+    "From": "tooling/scripts/refine_practice_outcomes.py",
+    "To": "raw/practitioner-practices-development/tooling-archive/refine_practice_outcomes.py.txt",
+    "SHA256": "C0BFD5F1311C45B9DB97F707B132DA0324C8EE039B09080839EE2F7DB75D04C9"
+  },
+  {
+    "From": "tooling/scripts/review_practical_queue.py",
+    "To": "raw/practitioner-practices-development/tooling-archive/review_practical_queue.py.txt",
+    "SHA256": "F94647C81DB408FEC9BF7A06A63C57CCBF281885B5152526D9BAF5F304218E70"
+  },
+  {
+    "From": "tooling/scripts/screen_kb_for_practices.py",
+    "To": "raw/kb-practice-screening-2026-09-27/tooling-archive/screen_kb_for_practices.py.txt",
+    "SHA256": "530CB0022F3032BFC4393BBF8E41868D288FF5E372366AFD607C60797982EF70"
+  },
+  {
+    "From": "tooling/scripts/screen_practical.py",
+    "To": "raw/practitioner-practices-development/tooling-archive/screen_practical.py.txt",
+    "SHA256": "95541DE4AC844817339364AD945D29E30B7B8FCA372DB583ED2E37DC5C04EE88"
+  },
+  {
+    "From": "tooling/scripts/screen_practical_audit.py",
+    "To": "raw/practitioner-practices-development/tooling-archive/screen_practical_audit.py.txt",
+    "SHA256": "C3F93B5EFC26E5145CA22F949D3903308EA66465AA5EC26FC1F93DFA788C9C2F"
+  },
+  {
+    "From": "tooling/scripts/screen_practical_review.py",
+    "To": "raw/practitioner-practices-development/tooling-archive/screen_practical_review.py.txt",
+    "SHA256": "71A0B25FCAE966004D24943DC03B2334C903658B5F347DFAEAC3947B8FE19C52"
+  },
+  {
+    "From": "raw/kb-practice-screening-2026-09-27/build_report.py",
+    "To": "raw/kb-practice-screening-2026-09-27/build_report.py.txt",
+    "SHA256": "6AEEDB8FB99EEF3126E5CA300143781F9431A8E97DBB2046BBA98E127860783C"
+  },
+  {
+    "From": "raw/kb-practice-screening-2026-09-27/review/build_drafts.py",
+    "To": "raw/kb-practice-screening-2026-09-27/review/build_drafts.py.txt",
+    "SHA256": "D0375D6C6EDD90FEAB622F18CB823DF7F2302C34C71406D73AEFF2C3E10F2D7D"
+  },
+  {
+    "From": "raw/kb-practice-screening-2026-09-27/review/integrate.py",
+    "To": "raw/kb-practice-screening-2026-09-27/review/integrate.py.txt",
+    "SHA256": "1C990E41DE4855D7D2CD3B288D500C53B64B5D94CCB30F8A41D6016EF54975A0"
+  },
+  {
+    "From": "raw/kb-practice-screening-2026-09-27/review/record_review.py",
+    "To": "raw/kb-practice-screening-2026-09-27/review/record_review.py.txt",
+    "SHA256": "67EDCA7449014484E56927541752D6E733C11C08641F46DD18DB610F653B2A43"
+  },
+  {
+    "From": "raw/kb-practice-screening-2026-09-27/review/validate_batch.py",
+    "To": "raw/kb-practice-screening-2026-09-27/review/validate_batch.py.txt",
+    "SHA256": "5E88DE97D27F8EDDCA075694B1BD3E3E396A796BFFA9981A2714FFA288FD9826"
+  },
+  {
+    "From": "raw/kb-practice-screening-2026-09-27/review/verify_integration.py",
+    "To": "raw/kb-practice-screening-2026-09-27/review/verify_integration.py.txt",
+    "SHA256": "9106CD271DB33029B2B743F6A6A7DE8BCCE029303FDBA8D5CE6666162F744381"
+  },
+  {
+    "From": "raw/practitioner-practices-development/extraction/creativity-build.py",
+    "To": "raw/practitioner-practices-development/extraction/creativity-build.py.txt",
+    "SHA256": "4A5AA3CBC2EDAC5CFE2CF7E337766E6EBED434E43D30A6C6ECB2C88C14385EFB"
+  },
+  {
+    "From": "raw/practitioner-practices-development/extraction/librarian-learning-build.py",
+    "To": "raw/practitioner-practices-development/extraction/librarian-learning-build.py.txt",
+    "SHA256": "B432E7FF42A43DE37A29FFC5198B41BBE5A2279DAD6F452BFA745E53A9F2311A"
+  },
+  {
+    "From": "raw/practitioner-practices-development/extraction/librarian-learning-validate.py",
+    "To": "raw/practitioner-practices-development/extraction/librarian-learning-validate.py.txt",
+    "SHA256": "4D0A23F47F198A1F8E1656EF582F5DF52E2DF338836FF7BF8B09B697A303BF78"
+  }
+]

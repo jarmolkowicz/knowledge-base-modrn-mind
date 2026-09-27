@@ -145,6 +145,8 @@ def load_entries(refresh: bool = False) -> dict[str, Entry]:
         for f in sorted(dir_path.glob("*.md")):
             entry = _parse_file(f, etype)
             if entry:
+                if entry.stem in entries:
+                    raise ValueError(f'Duplicate KB slug {entry.stem}: {entries[entry.stem].path} and {entry.path}')
                 entries[entry.stem] = entry
     _CACHE = entries
     return entries

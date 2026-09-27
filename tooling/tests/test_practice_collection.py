@@ -140,6 +140,24 @@ class PracticeCollectionTests(unittest.TestCase):
             else:
                 self.assertIn('(0 entries,', result.stdout)
 
+    def test_bundle_compacts_sources_but_preserves_practices_in_both_modes(self):
+        bash = shutil.which('bash') or (r'C:\Program Files\Git\bin\bash.exe' if Path(r'C:\Program Files\Git\bin\bash.exe').exists() else None)
+        if not bash:
+            self.skipTest('Bash is unavailable')
+        script = self.root / 'build-bundle.sh'
+        script.write_text((SCRIPTS / 'build-bundle.sh').read_text(encoding='utf-8'), encoding='utf-8', newline='\n')
+        source = self.root / 'sources/author-specific-article-2026.md'
+        source.write_text('---\nstatus: emerging\n---\n# Source\n\n## Key Insight\n\nKept insight.\n\n## Key Passages\n\nLong source quote.\n\n## Supports\n\nKept support.\n', encoding='utf-8')
+        for full in (False, True):
+            result = subprocess.run([bash, 'build-bundle.sh'] + (['--full'] if full else []), cwd=self.root, capture_output=True, text=True, timeout=30)
+            self.assertEqual(result.returncode, 0, result.stderr)
+            bundle = (self.root / 'dist/modern-mind-kb.md').read_text(encoding='utf-8')
+            self.assertIn('Kept insight.', bundle)
+            self.assertIn('Kept support.', bundle)
+            self.assertIn('This does not establish retained skill.', bundle)
+            self.assertEqual('Long source quote.' in bundle, full)
+            self.assertEqual(bundle.count('<a id='), 2)
+
 
 if __name__ == '__main__':
     unittest.main()

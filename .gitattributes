@@ -1,0 +1,2 @@
+# Historical script hashes cover exact bytes, including line endings.
+raw/**/*.py.txt -text

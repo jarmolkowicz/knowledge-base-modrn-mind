@@ -54,9 +54,11 @@ from lint_checks import (  # noqa: E402
     find_broken_wikilinks,
     find_missing_related,
 )
+from practice_checks import check_practice
 
 
 CHECK_DESCRIPTIONS: dict[str, str] = {
+    "practice_schema": "Practice sections and any supplied source identities/outcomes",
     "broken_wikilinks": "Wikilinks pointing to entries that don't exist",
     "alias_form": "Backwards [[old|new]] where old doesn't exist as a slug",
     "missing_related": "Drafts whose body mentions another KB entry's title without linking",
@@ -337,6 +339,12 @@ def validate(workbench_dir: Path) -> list[Finding]:
                     valid_areas=valid_areas,
                 )
             )
+
+        if not is_update and entry.type == 'practice':
+            source_stems = {s for s, e in kb_entries.items() if e.type == 'source'}
+            source_stems.update(s for s, e in drafts.items() if e.type == 'source')
+            findings.extend(check_practice(Path(entry.path).read_text(encoding='utf-8'),
+                                           label, source_stems=source_stems, draft=True))
 
     # Slug-year sanity (workbench-level, not per-draft)
     findings.extend(check_slug_year_match(workbench_dir, drafts))

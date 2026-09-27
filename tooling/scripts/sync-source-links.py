@@ -138,7 +138,7 @@ def sync_entry(entry: Entry, source_stems: set[str], dry_run: bool = False) -> t
         return False, unmatched
 
     if SOURCES_SECTION_RE.search(text):
-        new_text = SOURCES_SECTION_RE.sub(new_section + "\n\n", text, count=1)
+        new_text = SOURCES_SECTION_RE.sub(lambda _: new_section + "\n\n", text, count=1)
     else:
         new_text = text.rstrip() + "\n\n" + new_section + "\n"
 

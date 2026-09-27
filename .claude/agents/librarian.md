@@ -452,11 +452,12 @@ Mechanical, but important to do all of it:
    Before moving any draft, rebase local Markdown links for the destination. A draft's `../../source.md` must become `../raw/<slug>/source.md` from a canonical practice. Set `source_entries` to exact canonical source stems for new practices; source-link sync uses these instead of guessing from author/year where several posts share both. Keep origin, support and counterexample roles explicit in the body. Preserve locators and source review coverage. Check all proposed slugs against existing entries of every type. Remove draft-only labels only for the specifically approved files; preserve an audit copy or hashes of the approved draft. An outcome label expresses intended benefit, not evidence of efficacy.
 2. **Run the auxiliary scripts:**
    ```bash
-   uv run python tooling/scripts/sync-source-links.py
+   uv run python tooling/scripts/sync-source-links.py --entry APPROVED_ENTRY_STEM
    uv run python tooling/scripts/build-practice-guide.py
    uv run python tooling/scripts/build-index.py
    uv run python tooling/scripts/update_readme_counts.py
    ```
+   Repeat source-link sync only for the approved non-source entries. Preview with `--dry-run` when needed; the unscoped command can rewrite unrelated entries. Run `uv run python tooling/scripts/linter.py --check practice_schema --json` after integrating practices. This checks required sections, exact source identities and all intended-outcome labels, not claim support. Batch scripts preserved as `.py.txt` under `raw/` are historical records; use [maintained tooling](../../tooling/README.md).
 3. **Append the KB-wide log:** add an entry to `log.md` at the KB root noting the integration (date, slug, what was added).
 4. **Update `source.json`:** set `status` to `integrated`, append a final entry to the per-source `decisions[]` ledger.
 5. **Append per-source `log.md`:** record the integration event with timestamps and what moved where.
