@@ -16,24 +16,13 @@ Nikolova, M., Cnossen, F., & Nikolaev, B. (2024). Robots, meaning, and self-dete
 
 ## Type
 
-Paper (cross-country panel-data empirical with instrumental-variable identification)
+Paper (pooled repeated cross-sections of worker surveys, linked to country-industry robot adoption; instrumental-variable analysis)
 
 ## Key Insight
 
-Nikolova et al. are the first to ask not "what do robots do to wages and employment?" (the dominant economics literature) but rather "what do robots do to **work meaningfulness**, **autonomy**, **competence**, and **relatedness**?" — the four constructs from **Self-Determination Theory** (Ryan & Deci, 2017) that determine whether work satisfies basic psychological needs.
+The study links industrial robot adoption to perceived work meaningfulness and three psychological needs: autonomy, competence and relatedness. Surveys cover 20 European countries and 14 industries. The authors' instrumental-variable estimates imply that doubling robotization reduces meaningfulness by 0.9% and autonomy by 1%; causal interpretation depends on the instrument's assumptions (abstract, p.1).
 
-Using worker surveys for 14 industries across 20 European countries (2005–2021), and IV identification to address endogeneity, they find:
-
-- **Doubling robotization** → 0.9% decline in work meaningfulness, 1% decline in autonomy.
-- A **7.5-fold robotization increase** (the gap between the average top-5 industry and the leading automotive industry) implies a **6.8% drop in meaningfulness** and **7.5% drop in autonomy**.
-- The effects on **competence** and **relatedness** also trend negative but are less robust.
-- **Routine-task workers** experience disproportionately large declines in autonomy, competence, and relatedness.
-
-The most KB-relevant finding is the **moderator**: working with computers — *being in control of the machine* — **completely offsets** the autonomy decline from robotization. Some tertiary education and high-skill jobs cushion the effect. The factor that determines whether automation harms or preserves meaning is who controls whom.
-
-For human thinking with AI: this paper is about industrial robots, but the SDT framework generalizes immediately to AI. Automation erodes the psychological substrate of work — meaning, autonomy, sense of competence, relationships — *to the extent that it removes worker control over how the work happens*. AI tools where the worker drives (using AI as instrument) preserve self-determination. AI tools where the algorithm drives (algorithm-managed task assignment, AI-dictated workflow) destroy it. This is a structural prediction about *kinds of AI deployment*, not about AI as such.
-
-The KB's [[professional-identity-threat]] is the consequence; Nikolova et al. provide the mechanism — when SDT preconditions for meaning are stripped, identity threat follows.
+Effects on competence and relatedness are less robust. Associations vary with task type, education, skill and computer use. Computer use moderates autonomy, competence and relatedness, but does not offset the meaningfulness result. The authors interpret computer work as being in control of the machine; control itself was not experimentally manipulated.
 
 ## Key Passages
 
@@ -54,37 +43,26 @@ The KB's [[professional-identity-threat]] is the consequence; Nikolova et al. pr
 
 ## Methodology
 
-- **Data:** worker-level survey data (2010, 2015, 2021) from 20 European countries × 14 industries, merged with industry-level data on robots per 10,000 workers.
-- **Identification:** IV strategy using neighboring-country robot adoption to address endogeneity in robotization choice.
-- **Outcomes:** four SDT constructs (work meaningfulness; autonomy, competence, relatedness — the latter three composing self-determination).
-- **Moderators tested:** task type (routine vs. non-routine), education, skill level, working with computers.
+- **Data:** Different workers in 2010, 2015 and 2021 surveys, linked to preceding robot-adoption periods (2005–2009, 2010–2014 and 2016–2020). This is not a worker panel.
+- **Identification:** Robot adoption in other sample countries is used as an instrument. Neighboring-country data concern ICT imputation, not the instrument.
+- **Outcomes:** Meaningfulness, autonomy, competence and relatedness. Competence was unavailable in 2021.
+- **Moderators:** Routine tasks, education, skill level and computer use; these subgroup relationships are not randomized interventions.
 
 ## Relevance
 
-The KB's foundational reference for the **identity-and-meaning erosion** dimension of automation, distinct from capability erosion. Three contributions:
-
-- **Adds a new outcome variable.** Most automation research is about wages, hours, and employment. Nikolova et al. show those measures miss something real and quantifiable — meaning and self-determination — that automation also degrades.
-- **The control moderator.** "Working with computers offsets the autonomy loss" is a load-bearing finding for KB's preservation cluster. It predicts that AI deployments where the worker drives the tool (instrument-mode) won't reproduce the meaning-erosion effects, while deployments where the AI drives the worker (manager-mode) will. This is a design lever the KB should foreground.
-- **Connects to a well-validated psych framework.** SDT (Ryan & Deci) has decades of evidence. Anchoring KB claims about meaningful work in SDT gives them empirical ballast.
-
-The paper studies industrial robots, not AI. The KB inherits the framework with the caveat that AI's deployment patterns differ — AI-as-collaborator (instrument-mode) is more common than AI-as-supervisor (manager-mode), but algorithm-managed work is a real and growing pattern (gig platforms, AI-driven productivity tracking). The Nikolova et al. prediction is that the second pattern will damage meaning much more than the first.
+Adds perceived meaning and psychological needs to the evaluation of automation. Perceived competence differs from retained skill. The study concerns industrial robots; effects of generative AI and worker-controlled AI deployment require direct tests.
 
 ## Supports
 
-- [[basic-psychological-needs]] — satisfaction and frustration of autonomy, competence and relatedness; not a measure of retained skill.
-- [[meaningful-work]] — work-specific meaning, distinct from engagement and productivity.
-
-- [[capacity-erosion]] — the meaning-and-identity dimension distinct from capability decay
-- [[professional-identity-threat]] — Nikolova et al. provide the mechanism (SDT preconditions stripped) for the identity-threat outcome
-- [[strategic-alternation]] — preserving control over the tool preserves autonomy
-- [[ai-self-efficacy-erosion]] — both papers describe psychological-resource depletion under automation
-- [[workslop]] — the experiential outcome of low-meaning AI-mediated work
+- [[basic-psychological-needs]] and [[meaningful-work]] — directly measured psychological outcomes.
+- [[capacity-erosion]] — adjacent concern; retained capability was not measured.
+- [[professional-identity-threat]] and [[ai-self-efficacy-erosion]] — [Inference] possible related pathways, not outcomes established here.
+- [[strategic-alternation]] — [Inference] preserving worker control is a design question, not a tested intervention.
+- [[workslop]] — a separate phenomenon; neither workslop nor creative output was measured.
 
 ## Contradicts / Extends
 
-- Extends the wage-and-employment automation literature (Acemoglu & Restrepo 2020; Graetz & Michaels 2018) by adding meaning and self-determination as outcomes that change even when employment is preserved.
-- Compatible with the Hai et al. (2025) "dark side of employee-genAI collaboration" and Lee et al. (2026) self-efficacy work currently sitting in `raw/inbox/` — both extend the meaning-erosion finding to AI specifically (not yet ingested into the KB).
-- Tension with optimistic automation narratives that emphasize "robots free humans for creative work." Nikolova et al. find creativity *also* declines for routine-task workers, not just meaning. The optimistic story requires that the worker actually be redirected to creative work — which is not what the European panel data shows.
+Extends economic accounts of robot adoption by examining psychological outcomes alongside employment and wages. It does not establish that all automation reduces meaning or that computer-mediated work protects people from generative-AI risks.
 
 ## Open Questions
 

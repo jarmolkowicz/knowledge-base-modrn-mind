@@ -17,7 +17,7 @@ sources:
 
 [Inference] The aim is to preserve opportunities to practise and assess unaided capability. The ideal amount and timing of solo work are not established by this entry.
 
-Creativity requires both originality and usefulness (Runco & Jaeger, 2012). AI can generate novel combinations, but contextual appropriateness — knowing what works and why — comes from human judgment built through practice. [Inference] Unassisted periods may offer relevant practice; preservation is an outcome to assess.
+Runco & Jaeger (2012) define creativity through originality and effectiveness. [Inference] Unassisted work may offer practice in judging whether an idea fits its context. Their definition does not establish that only humans can judge appropriateness or that alternating modes preserves this ability.
 
 ## Key Insight
 
@@ -33,7 +33,7 @@ AI efficiency → Frees time for unassisted work
 
 ## The Oscillation Hypothesis
 
-The [[ai-oscillation-trap]] is an unverified hypothesis about possible transition costs, not evidence that switching itself causes skill loss or dependency. Its historical Nosta attribution is unresolved. It cannot validate a scheduling rule.
+The [[ai-oscillation-trap]] is Nosta's speculative concern about possible transition costs. His commentary does not establish that switching causes skill loss or dependency, or validate a scheduling rule.
 
 Wu et al. (2025) compared two-task sequences with and without GenAI. Within Collab→Solo sequences, motivation fell and boredom rose, but the reported within-person d values are not randomized AI-versus-control effects; some interactions were nonsignificant. In Study 4, sustained collaboration reduced boredom growth relative to Collab→Solo, although boredom still rose. Solo→Collab showed a marked perceived-control decrease.
 

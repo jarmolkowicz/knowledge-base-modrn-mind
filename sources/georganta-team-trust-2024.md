@@ -14,22 +14,17 @@ Georganta, E., & Ulfert, A.-S. (2024). Would you trust an AI team member? Team t
 
 **DOI:** [10.1111/joop.12504](https://doi.org/10.1111/joop.12504)
 
-**Note:** The KB previously cited "Cognitive trust matches human levels; affective trust is lower." The published paper's findings are more nuanced — see Key Insight below.
-
 ## Type
 
-Paper (Registered Report Stage 2; two experimental studies; N=247 dyads + N=106 triads; total 828 participants)
+Paper (Registered Report Stage 2; two experimental studies; N=247 dyads + N=106 triads; study-specific final samples of 494 and 318 participants)
 
 ## Key Insight
 
-Georganta & Ulfert ran two pre-registered experiments testing how team trust emerges in human–AI teams compared to human–human teams. The findings are *team-size-dependent* in a way that complicates the simple "AI teams have less trust" framing:
+Georganta and Ulfert compare trust under human–human and human–AI team labels in two preregistered experiments. A human participant played the AI teammate, so the manipulation concerned perceived identity rather than actual AI performance.
 
-- **In two-member teams (N=247):** interpersonal trust was **lower in human–AI teams** than in human–human teams. The difference was driven by **perceived trustworthiness** (not perceived similarity). Exploratory analyses found team identification *and* cognitive interpersonal trust were also lower in dyads with AI.
-- **In three-member teams (N=106):** **no significant differences** in team trust between team types. In larger teams, trust mechanics worked similarly regardless of whether one member was an AI.
+In Study 1 (247 dyads), interpersonal trust was lower under the AI label, with evidence for a pathway through perceived trustworthiness rather than similarity. In Study 2 (106 triads), team-trust differences were not statistically significant. The latter result does not establish equivalence or prove that adding a human teammate removes a trust deficit.
 
-The mechanism the paper identifies: **perceived trustworthiness** and **perceived similarity** are the two upstream drivers of interpersonal trust → team trust, in both team types. The difference in dyads comes from AI being perceived as less trustworthy in 1-on-1 contexts; that signal washes out when humans-in-the-team can buffer the AI's trustworthiness deficit.
-
-For human thinking with AI: the implication is structural. AI dyadic relationships (you + AI assistant) face a trust deficit that team-level integration partially overcomes. This is a different finding than "AI teammates are uniformly less trusted" — it's "AI teammates are less trusted *in dyads*; in larger teams, the human–AI teaming dynamics resemble human-only teams." Practical: organizations that want AI to be trusted as a team member should embed it in 3+-person teams, not 1:1 collaborations.
+Perceived similarity and trustworthiness were associated with interpersonal and team trust. Human buffering is a possible explanation, not an independently tested mechanism.
 
 ## Key Passages
 
@@ -47,17 +42,18 @@ For human thinking with AI: the implication is structural. AI dyadic relationshi
 
 ## Methodology
 
-- **Study 1:** N=247 two-member teams, ~494 individuals, manipulated team composition (human–human vs. human–AI)
-- **Study 2:** N=106 three-member teams, ~318 individuals, similar manipulation
-- Total: 828 participants. Registered Report Stage 2 (pre-registered, design + analyses peer-reviewed before data collection).
+- **Study 1:** 698 recruited; 204 excluded, leaving 494 individuals in 247 two-member teams. Team composition was manipulated (human–human vs. human–AI; PDF p.8).
+- **Study 2:** 522 recruited; 204 excluded, leaving 318 individuals in 106 three-member teams, with a similar manipulation (PDF p.17).
+- The final samples total 812. The abstract reports 828. Study 1 excluded eight outliers and their teammates (16 people; PDF pp.8, 12). [Inference] The difference is consistent with an abstract total from before that exclusion, but the paper does not confirm this explanation. Use the study-specific final samples.
+- Registered Report Stage 2 (design and analyses reviewed before data collection).
 
 ## Relevance
 
-Three contributions for the KB:
+The studies distinguish dyadic and team trust, including cognitive as well as affective ratings. They inform [[affective-trust-deficit]] without establishing a universal team-size rule.
 
-- **Refines "affective trust deficit" framing.** The KB previously held "cognitive trust matches, affective trust lags" for AI teammates. Georganta & Ulfert show the picture is messier and team-size-dependent. The KB's [[affective-trust-deficit]] entry should be updated to reflect the team-context dependence.
-- **Identifies a design lever.** Team size (3+) buffers the dyadic trust deficit. Organizations deploying AI in dyadic-collaboration contexts should expect trust friction; embedding AI in larger teams is structurally easier.
-- **Connects to the moral-crumple-zone work.** [[hohenstein-crumple-zone-2020]] showed AI absorbs blame in failed communication; Georganta & Ulfert show AI faces a trust headwind in 1:1 contexts. Both findings point to AI's distinctive standing in human social structures.
+The AI teammate was played by a human participant. The contrast concerns beliefs about the teammate's identity, not the performance of an actual AI system. Nonsignificant triad differences do not prove equivalent trust.
+
+[[hohenstein-crumple-zone-2020]] concerns a different outcome—responsibility attributed after communication failure—and does not independently test the same trust mechanism.
 
 ## Supports
 
@@ -73,6 +69,6 @@ Three contributions for the KB:
 
 ## Open Questions
 
-- Why does trust equalize in 3-member teams? Plausible explanations (human-to-human bond carries the team; AI's trustworthiness deficit is averaged across more relationships) aren't directly tested.
-- Generalization to LLM-based teammates: the studies likely used pre-LLM AI conceptions (the registered report is from 2021). Conversational AI may shift the trustworthiness perceptions.
+- Why were no significant trust differences detected in three-member teams? Plausible explanations (human-to-human bond carries the team; AI's trustworthiness deficit is averaged across more relationships) aren't directly tested.
+- Generalization to LLM-based teammates: the studies used humans role-playing AI (Wizard of Oz), not deployed language models. Conversational AI may shift the trustworthiness perceptions.
 - Team duration: cross-sectional / short-term experimental design. Does the dyadic trust deficit persist or attenuate over months of collaboration?

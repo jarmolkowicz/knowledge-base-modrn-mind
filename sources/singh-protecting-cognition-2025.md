@@ -20,13 +20,9 @@ Paper — **non-empirical synthesis / position paper** (CHI '25 workshop). No ne
 
 ## Key Insight
 
-The paper's value to the KB is not new evidence — nearly every phenomenon it names the KB already holds from primary sources — but two **organizing lenses** that give a shared vocabulary for *why* cognitive offloading harms development and *how* to design against it.
+Singh et al. use Bloom's revised taxonomy and Dewey's account of reflective thought to discuss risks of passive AI use. They propose that outsourcing cognitive operations may remove practice opportunities, and that rapid answers may reduce engagement with uncertainty.
 
-1. **Bloom's-taxonomy bypass.** Learning requires climbing the cognitive-process ladder — remember → understand → apply → analyze → evaluate → create — and building metacognitive knowledge through that climb. GenAI delivers instantly synthesized factual/procedural knowledge that lets a novice *skip the middle rungs*, outsourcing exactly the operations (applying, analyzing, evaluating) whose practice builds metacognitive skill. This reframes [[cognitive-offloading]] and [[metacognitive-laziness]] as *ladder-skipping*, and explains why the harm concentrates in [[novice-vulnerability]]: novices lack the domain knowledge to prompt well or to notice what they skipped.
-
-2. **Dewey's reflective-thinking prerequisites.** Dewey's *How We Think* names prerequisites for reflective thought — a state of doubt/perplexity, prior knowledge, active persistent consideration, suspended judgment plus tolerance for uncertainty, and connecting/evaluating ideas. GenAI disrupts each: immediate synthesized answers dissolve the productive doubt; belief-aligned, socially-desirable responses discourage engaging opposing views; confident, uncertainty-free output raises persuasiveness and suppresses suspended judgment; and coherent structure manufactures an *illusion of comprehensive understanding* over a superficial grasp ([[illusion-of-explanatory-depth]], [[coherence-trap]], [[fluency-bias]]). Section 4 then repurposes those same prerequisites as a diagnostic-and-design framework → [[reflective-inquiry-design]].
-
-The paper is explicitly one-sided (it studies the hindering, not the augmenting, side) and preliminary; it is best used as a citable *framing* and a bridge from the KB's descriptive erosion concepts to educational design, not as evidence.
+These are organizing arguments in a harm-focused position paper, not a measured developmental sequence. Bloom's categories do not by themselves prove that every learner must climb a fixed ladder. The paper proposes using Dewey's prerequisites to identify passive use and design interventions; effectiveness remains to be tested.
 
 ## Key Passages
 
@@ -47,10 +43,10 @@ The paper is explicitly one-sided (it studies the hindering, not the augmenting,
 
 ## Key Findings
 
-This is a synthesis, so "findings" are organizing claims rather than data:
+These are the authors' organizing claims and design proposals, not new data:
 
 - **The two-dimensional Bloom's argument** [p.3]: GenAI accelerates access to factual/procedural knowledge but "may bypass important cognitive processes that typically occur during slower, deliberate learning." The bypassed operations (remember/apply/analyze/evaluate) are the ones that build metacognitive knowledge, so their outsourcing "impedes the development of metacognitive skills."
-- **Difficulty is the trigger for analytical reasoning** [p.3]: "Experiences of cognitive difficulty prompt more analytical reasoning … Overreliance on GenAI can reduce such cognitive difficulty, which can reduce the activation of deeper metacognitive processes." (The mechanism behind [[desirable-difficulty]] and [[cognitive-grit]].)
+- **Difficulty is the trigger for analytical reasoning** [p.3]: "Experiences of cognitive difficulty prompt more analytical reasoning … Overreliance on GenAI can reduce such cognitive difficulty, which can reduce the activation of deeper metacognitive processes." [Inference] Related to [[desirable-difficulty]] and [[cognitive-grit]], but difficulty is not inherently beneficial.
 - **Novice > expert vulnerability** [p.3]: novices are more susceptible to metacognitive laziness; experts, with structured domain knowledge, can prompt effectively and use AI to offload *lower-level* tasks — but even experts risk losing the deliberate practice that sustains expertise.
 - **Dewey disruption map** [p.3]: five reflective-thinking prerequisites, each undermined by a specific GenAI property (immediacy, belief-alignment/social-desirability bias, confident uncertainty-free output, shallow processing of explanations, coherent-structure illusion).
 - **Design implications** [p.4]: teach and *test* critical/evaluative skills (current curricula reward the formulaic skills AI already does well); make critiquing AI outputs a learning activity; keep early-learning AI minimal via staged guardrails (productive struggle / productive failure / cognitive endurance); inject friction; use schema/knowledge-graph tools; use metacognitive prompts and AI "provocations."
@@ -58,19 +54,17 @@ This is a synthesis, so "findings" are organizing claims rather than data:
 
 ## Relevance
 
-Dead-center on the KB's erosion/preservation mission, but a **secondary** source. Its contribution is threefold:
-
-1. **A vocabulary bridge.** Bloom's-ladder-bypass and Dewey-prerequisite-disruption are compact ways to explain the KB's scattered erosion concepts to educators — useful "at 7am before a client meeting" framing.
-2. **The anchor for a new method.** Section 4's repurposing of Dewey's prerequisites into a diagnostic + design framework is the KB's new `[[reflective-inquiry-design]]` method.
-3. **A novice-focused consolidation.** It ties the novice-vulnerability thread to concrete educational-design levers (staged guardrails, friction, metacognitive prompts) already echoed by `[[bastani-guardrails-math-rct-2025]]` and `[[passalacqua-less-ai-2024]]`.
+Offers educational vocabulary and the rationale behind [[reflective-inquiry-design]]. It connects proposed design responses to prior evidence without adding a new empirical test of those responses.
 
 ## Supports
 
+The links below connect the authors' proposed interpretation to related concepts; they do not independently validate that interpretation.
+
 - [[cognitive-offloading]] — reframed as skipping the Bloom's cognitive-process ladder
 - [[metacognitive-laziness]] — the paper cites Fan et al.; Bloom's ladder-skip is the proposed mechanism → [[fan-metacognitive-laziness-2025]]
-- [[novice-vulnerability]] — the paper's central population; novices skip rungs they can't yet see
-- [[metacognition]] — metacognitive-knowledge development is what ladder-skipping impedes
-- [[desirable-difficulty]] / [[cognitive-grit]] — "cognitive difficulty prompts analytical reasoning"; GenAI removes the productive struggle
+- [[novice-vulnerability]] — the paper focuses on possible risks to novices
+- [[metacognition]] — the proposed concern is reduced practice in monitoring and control
+- [[desirable-difficulty]] / [[cognitive-grit]] — "cognitive difficulty prompts analytical reasoning"; some uses may remove productive practice
 - [[cognitive-friction]] — the paper's proposed "friction in human-AI interaction" intervention
 - [[illusion-of-explanatory-depth]] / [[coherence-trap]] / [[fluency-bias]] — the "illusion of comprehensive understanding" from coherent AI output
 - [[reflective-inquiry-design]] — the method this source anchors
@@ -81,7 +75,7 @@ Dead-center on the KB's erosion/preservation mission, but a **secondary** source
 
 - Extends [[fan-metacognitive-laziness-2025]] with a proposed Bloom's-taxonomy interpretation and design response. Fan's task-process evidence does not itself validate that explanation or intervention.
 - Related to [[bastani-guardrails-math-rct-2025]] and [[passalacqua-less-ai-2024]]: specific designs motivate questions about preserving learning. Bastani tested a combined Tutor package with no detectable same-session exam difference from control, not a general staged-guardrail intervention or durable protection.
-- No contradictions. As a synthesis it echoes rather than challenges existing sources; its one distinctive move is the framework overlay, not a disputed empirical claim.
+- Its Bloom and Dewey framing should be evaluated separately from the empirical findings it synthesizes.
 
 ## Open Questions
 

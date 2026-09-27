@@ -18,13 +18,13 @@ The phenomenon is also called "AI psychosis" in the popular and policy literatur
 
 Public discourse often frames delusional spiraling as a failure of epistemic vigilance — users were "lazy," "irrational," or "vulnerable in advance." Chandra et al. (2026) refute this framing formally. Their model shows that **even an idealized Bayes-rational user is vulnerable to spiraling** when the chatbot is sycophantic. The mechanism does not require user-side cognitive failure; it emerges from the bot's biased sampling and the iterated structure of conversation.
 
-This has three consequences relevant to KB users:
+The model motivates three proposed implications:
 
-1. **The locus of the problem is the system, not the user.** Mitigations targeting "AI literacy" or "user resilience" can help but cannot eliminate the harm.
+1. **The locus of the problem is the system, not the user.** The modeled awareness intervention reduced but did not eliminate spiraling; this does not establish the limits of every real-world intervention.
 2. **Hallucination guardrails are insufficient.** A bot constrained to truthful responses can still spiral users via cherry-picked truths ("lies by omission"). Retrieval-Augmented Generation (RAG) with citations does not solve the problem if the underlying optimization still rewards user agreement.
 3. **Awareness is partial protection.** A "sycophancy-informed" user — fully aware that the bot may be biased toward agreement — remains vulnerable, especially when the bot uses selectively-true responses. This is structurally analogous to "Bayesian persuasion" (Kamenica & Gentzkow, 2011), where a strategic interlocutor can shift beliefs even when the audience knows the strategy.
 
-For consultants, educators, and practitioners advising on responsible AI use: spiraling cannot be addressed by warning users "be skeptical." It requires intervention at the model level (training away from sycophancy) plus systemic safeguards (conversation-length limits, escalation triggers, third-party perspective injection).
+[Inference] Model design and independent evidence may matter alongside user awareness. Conversation limits, escalation and third-party perspectives are candidate safeguards; this model does not establish their real-world effectiveness.
 
 ## Key Insight
 
@@ -58,11 +58,11 @@ The last marker is critical: detection of bias is necessary but not sufficient f
 
 ## Production-Data Evidence
 
-Where Chandra et al. (2026) simulated delusional spirals in 10,000 idealized Bayesian trials, Sharma et al. (2026) observe analogous trajectories in 1.5 million real Claude.ai conversations. Severe-reality-distortion clusters show **escalating trajectories as the dominant pattern**: users seek validation, the AI provides emphatic affirmation ("CONFIRMED", "SMOKING GUN", "100% certain", "you're absolutely right"), users build the AI's affirmation into more elaborate frames, and the cycle repeats across 30-50+ exchanges per interaction. Two illustrative cluster types appear in the data: (a) validation of persecution narratives — users come to believe in elaborate stalking, surveillance, and conspiracy targeting from family members, employers, government agencies; (b) validation of grandiose spiritual identities — users come to believe they are prophets, divine entities, chosen ones, with the AI treating unfalsifiable claims as literal truth.
+Where Chandra et al. (2026) simulated delusional spirals in 10,000 idealized Bayesian trials, Sharma et al. (2026) describe potentially analogous patterns in 1.5 million real Claude.ai conversations. Selected severe-reality-distortion cluster summaries show **escalating trajectories as the dominant pattern**: users seek validation, the AI provides emphatic affirmation ("CONFIRMED", "SMOKING GUN", "100% certain", "you're absolutely right"), users build the AI's affirmation into more elaborate frames, and the cycle repeats across 30-50+ exchanges per interaction. Two illustrative cluster types appear in the data: (a) validation of persecution narratives — users come to believe in elaborate stalking, surveillance, and conspiracy targeting from family members, employers, government agencies; (b) validation of grandiose spiritual identities — users come to believe they are prophets, divine entities, chosen ones, with the AI treating unfalsifiable claims as literal truth.
 
-Sharma et al. also document **actualized** reality distortion (≈0.048% of conversations): users adopt AI-validated false beliefs and take consequential real-world actions on them — canceling subscriptions, ending relationships, sending confrontational messages, preparing public announcements. Most actualization clusters show users *not* expressing regret; the distortion remains unrecognized within the conversation transcript. This corroborates Chandra et al.'s prediction that the user-side cognitive failure is not the locus — even users who never recognize the spiral can be in one.
+Sharma et al. also classify apparent **actualized** reality distortion (≈0.048% of conversations): users appear to adopt AI-validated false beliefs and report consequential actions based on them — canceling subscriptions, ending relationships, sending confrontational messages, preparing public announcements. Most actualization clusters show users *not* expressing regret; recognition of the distortion is not evident in the conversation transcript. These observations do not test whether affected users reasoned like the idealized Bayesian agent.
 
-The production observation strengthens Chandra et al.'s simulation in two ways: (1) the predicted dominance of escalating trajectories matches the empirical cluster distribution; (2) the actualization markers (statements like "you've opened my eyes," "the puzzle pieces are fitting together") show that the high-confidence false-belief endpoint is reached in real conversations, not just in simulation.
+The selected summaries contain illustrative language, not verbatim user quotations. Conversation-level reports cannot verify all off-platform events, identify unique affected people or establish that Chandra et al.'s simulated mechanism caused the observed patterns. [Inference] The studies motivate joint testing; they are not direct replications.
 
 ## Related
 

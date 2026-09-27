@@ -16,17 +16,17 @@ Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberat
 
 ## Type
 
-Paper (theoretical synthesis with two original empirical studies of expert violinists)
+Paper (theoretical synthesis with original empirical studies of violinists and pianists)
 
 ## Key Insight
 
-Ericsson and colleagues separate three categories of activity in any domain — **work, play, and deliberate practice** — and argue that only deliberate practice produces sustained improvement in performance. Deliberate practice is **designed** (typically by a teacher) to improve specific weaknesses; it is **effortful** and not inherently enjoyable; it requires **immediate informative feedback** and the chance to correct via repetition; and it pushes performance **at the edge of current ability**, not within the comfort zone.
+Ericsson and colleagues separate three categories of activity in any domain — **work, play, and deliberate practice** — and argue that sustained improvement depends on structured deliberate practice. Deliberate practice is **designed** (typically by a teacher) to improve specific weaknesses; it is **effortful** and not inherently enjoyable; it requires **immediate informative feedback** and the chance to correct via repetition; and it pushes performance **at the edge of current ability**, not within the comfort zone.
 
 The claim that accumulated hours distinguish every elite skill level is contested. [[macnamara-maitra-deliberate-practice-replication-2019]] found substantial practice differences across groups but no significant best-versus-good difference. Treat the original account as a theory supported in part, rather than a complete explanation of expertise.
 
 The headline empirical claim — supported by violinist studies and a survey of literatures from chess to medicine to writing — is that elite performance in any well-established domain requires roughly **10 years of intense deliberate practice** (the "10-year rule," later popularized by Gladwell as the 10,000-hour rule). Crucially, the authors reject innate talent as a primary driver: "we reject any important role for innate ability." Differences among elite performers correlate with cumulative deliberate-practice hours.
 
-For human thinking with AI: the conditions Ericsson et al. specify for deliberate practice — designed difficulty, effortful retrieval, immediate feedback on mistakes, repeated correction — are precisely the conditions AI tends to remove. AI gives the answer rather than scaffolding the struggle; it smooths over the productive failure that grows expertise. The "work" category is also relevant: in their framework, *work* (production under external pressure) does not improve performance; it relies on already-entrenched methods. AI-assisted output sits squarely in the work category.
+For human thinking with AI: the conditions Ericsson et al. specify for deliberate practice — designed difficulty, effortful retrieval, immediate feedback on mistakes, repeated correction — provide questions for evaluating AI-assisted practice. [Inference] Answer substitution may remove practice, while tutoring or feedback may support it; the 1993 paper did not study AI. The "work" category is also relevant: in their framework, production pressures can discourage experimentation and improvement during work. AI-assisted activity can include production, practice or both.
 
 ## Key Passages
 
@@ -47,13 +47,13 @@ For human thinking with AI: the conditions Ericsson et al. specify for deliberat
 
 ## Relevance
 
-The foundational reference for why expertise development requires struggle, and therefore for why AI-as-shortcut undermines expertise development. Three load-bearing arguments for the KB:
+A theory of how structured practice contributes to expertise. Applications to AI remain inferences:
 
-- **Names the activity that builds capability.** "Deliberate practice" is the construct any KB entry on capacity preservation needs to anchor against. AI's value proposition (faster, easier, smoother) sits on the *opposite* axis from what builds expertise.
-- **Distinguishes work from practice.** This is the KB's most useful borrow. Production work — what AI typically accelerates — is by definition *not* the activity that grows the worker. Mistaking work for practice (which is easy when AI makes work feel like progress) silently halts skill development.
-- **Provides the mechanism.** Effortful retrieval + immediate feedback + repeated correction at the edge of ability. Each of those mechanisms maps onto a way AI substitution disrupts learning ([[fluency-bias]] removes the effort signal; [[automation-bias]] dampens correction; [[capacity-erosion]] is the long-run consequence).
+- **Names the activity that builds capability.** The authors distinguish deliberate practice from other forms of experience. Whether AI supports or removes useful practice depends on its role.
+- **Distinguishes work from practice.** Production and practice have different immediate aims, although work can contain learning opportunities. [Inference] AI-assisted production should not be assumed to provide the same practice opportunities.
+- **Provides the mechanism.** Effortful retrieval + immediate feedback + repeated correction at the edge of ability. [Inference] Each suggests questions about whether AI substitution changes learning (see [[fluency-bias]], [[automation-bias]] and [[capacity-erosion]]; those AI-specific pathways were not tested here).
 
-The 10-year rule has been challenged in subsequent meta-analyses (Macnamara et al. 2014, the Macnamara & Maitra 2019 replication that failed to fully reproduce the original violinist effect sizes) — but the core distinction between work, play, and deliberate practice has held up and is the part most relevant to the KB.
+The 10-year rule has been challenged in subsequent meta-analyses (Macnamara et al. 2014, the Macnamara & Maitra 2019 replication that failed to fully reproduce the original violinist effect sizes) — but the distinction between work, play, and deliberate practice remains useful for framing questions without settling how AI affects learning.
 
 ## Supports
 
@@ -61,7 +61,7 @@ The 10-year rule has been challenged in subsequent meta-analyses (Macnamara et a
 - [[strategic-alternation]] — design rationale for AI-off practice intervals
 - [[capacity-erosion]] — what's lost when work crowds out deliberate practice
 - [[think-first]] — operationalizes the "effortful retrieval" requirement at the moment AI is reached for
-- [[cognitive-friction]] — the KB-side concept of productive struggle
+- [[cognitive-friction]] — a related concept; not all effort benefits learning
 - [[judgment-development-paradox]] — same dynamic generalized to professional judgment
 
 ## Contradicts / Extends

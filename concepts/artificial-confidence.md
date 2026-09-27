@@ -10,7 +10,7 @@ sources:
 Exposure to AI-generated content can inflate people's self-confidence at the same task through a social comparison process. When people see creative work attributed to AI (vs. a human peer), they rate their own creative abilities higher — because they perceive AI as a lower social referent for creative endeavors.
 
 ## Why It Matters
-This creates a domain-specific confidence distortion. In creative domains where people see AI as inferior, exposure to AI output makes them feel more capable — even though their actual abilities haven't changed. This unwarranted confidence boost can lead people to attempt tasks they're not prepared for, or to under-invest in skill development because they already feel "good enough."
+This can separate confidence from assessed output quality. In Study 3 (N=401), participants exposed to an AI-labeled caption reported higher confidence and rated their own captions more favorably, while blinded raters detected no difference in caption funniness. That task result does not establish unchanged ability in every domain or over time. Greater willingness to attempt a creative task is also distinct from demonstrated ability.
 
 The effect is not universal: in fact-based domains where AI is perceived as an equal or superior referent, the confidence boost attenuates or disappears. This means AI's impact on self-perception depends on what people believe AI is good at — and those beliefs may not be accurate.
 

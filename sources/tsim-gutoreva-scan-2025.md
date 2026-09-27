@@ -12,7 +12,7 @@ sources:
 
 Tsim, F., & Gutoreva, A. (2025). *SCAN: A Decision-Making Framework for Task Assignment with Generative AI*. Preprint, December 22, 2025.
 
-**Status:** Preprint, not yet publicly indexed; verified from local PDF.
+**Version:** Preprint dated December 22, 2025.
 
 ## Type
 
@@ -22,16 +22,16 @@ Paper (framework proposal)
 
 Tsim & Gutoreva extend Vygotsky's **[[zone-of-proximal-development|Zone of Proximal Development]] (ZPD)** by adding a fourth zone: **"known to GenAI."** The intersection of the learner's three knowledge zones (known / unknown / overlapping/ZPD) with this new "known to GenAI" zone yields four task sub-zones the framework is named for:
 
-- **S — Substitute** (unknown to learner ∩ known to AI). Learner has no task-specific knowledge. GenAI completes the task. Mode: **automation**. Highest risk of cognitive offloading and automation bias.
-- **C — Complement** (known to learner ∩ known to AI). Learner has task-specific knowledge; GenAI also has general knowledge. Mode: **collaboration**. Learner supervises and monitors GenAI output; sycophancy risk lowest because the learner can challenge.
+- **S — Substitute** (unknown to learner ∩ known to AI). Learner has no task-specific knowledge. GenAI completes the task. Mode: **automation**. Predicted highest risk of cognitive offloading and automation bias.
+- **C — Complement** (known to learner ∩ known to AI). Learner has task-specific knowledge; GenAI also has general knowledge. Mode: **collaboration**. Learner supervises and monitors GenAI output; predicted lower sycophancy risk because the learner can challenge.
 - **A — Aid** (ZPD overlap ∩ known to AI). Learner has partial knowledge; GenAI assists scaffolding. Mode: **augmentation**.
 - **N — Non-negotiable** (ZPD overlap ∩ NOT known to AI). Learner has partial knowledge but the task isn't in AI's competence — needs human-only or other-human assistance.
 
 The conceptual move: the three modes everyone discusses (automation / augmentation / collaboration) aren't separate categories but a **continuum defined by the learner's task-specific knowledge** at a given moment. As knowledge develops, the same task can shift through sub-zones — Substitute → Aid → Complement is the **upskilling trajectory**; the reverse (Complement → Aid) is the **deskilling trajectory**.
 
-The framework also operationalizes **metacognition** as a three-component cycle (real-time evaluation, post-task reflection, learning-into-future-tasks), borrowed from Bergamaschi Ganapini et al. (2025). The cycle is what determines whether a task moves toward Complement (upskilling) or away (deskilling).
+The framework also operationalizes **metacognition** as a three-component cycle (real-time evaluation, post-task reflection, learning-into-future-tasks), borrowed from Bergamaschi Ganapini et al. (2025). The authors propose that this cycle could support movement toward Complement; it is not a tested causal determinant.
 
-For human thinking with AI: SCAN is the first KB-aligned attempt at a *task-level* decision rule for when to use AI vs. when to keep cognition unaided. Existing KB methods like [[strategic-alternation]] and [[think-first]] gesture at the same intuition but operate at session/practice level. SCAN's contribution is a per-task four-way classification with explicit risk flags per zone.
+SCAN proposes a per-task classification alongside practices such as [[strategic-alternation]] and [[think-first]]. Its usefulness depends on whether people can accurately assess their own and the system's task-specific knowledge.
 
 ## Key Passages
 
@@ -55,7 +55,7 @@ For human thinking with AI: SCAN is the first KB-aligned attempt at a *task-leve
 Theoretical paper. Foundations:
 
 - **Vygotsky's ZPD (1978):** three zones — known / ZPD / unknown to learner.
-- **Flavell's Metacognition (1979):** monitoring + reflection + learning.
+- **Flavell's metacognition (1979):** the broader foundation for monitoring and controlling thought. The three-part evaluation, reflection and learning cycle is adapted from Bergamaschi Ganapini et al. (2025).
 - **New zone:** "known to GenAI" (Tsim & Gutoreva's contribution).
 - **Two application scenarios** worked out: workplace knowledge workers (already-domain-knowledgeable) and students (still accumulating).
 
@@ -63,30 +63,27 @@ No empirical validation in this paper; SCAN is proposed as a decision-making too
 
 ## Relevance
 
-Three load-bearing contributions for the KB:
-
-- **Operational specificity for AI use decisions.** [[strategic-alternation]] tells a practitioner *to* alternate; SCAN tells them *which task right now* fits which mode. Concretely actionable.
-- **Mechanism for the [[upskilling-deskilling-paradox]].** SCAN proposes that the same task can sit in Substitute, Aid, or Complement depending on the user's evolving knowledge — which means upskilling and deskilling aren't separate phenomena but trajectories within the same framework.
-- **Integration with sycophancy and cognitive offloading risk.** The framework predicts where each risk peaks (Substitute > Aid > Complement). This is a testable claim and aligns with [[batista-sycophantic-ai-2026]] and [[bo-sycophancy-novices-2026]] findings that sycophancy is most damaging when users lack ground-truth knowledge.
-
-The "Non-negotiable" zone (ZPD ∩ not-known-to-AI) is the most underdeveloped part of the framework — it names a bucket but doesn't specify what tasks live there. This is where domain-specific judgment sits and where AI substitution most clearly shouldn't apply.
+Proposes a task-level classification based on human and AI knowledge. Its predicted risk ranking and learning trajectories are hypotheses, not validated effects. The Non-negotiable category also requires a workable way to identify tasks beyond AI capability.
 
 ## Supports
+
+These are proposed theoretical connections, not validated effects of using SCAN.
 
 - [[scan]] — primary source for the SCAN method
 - [[strategic-alternation]] — SCAN provides task-level decision rules complementing strategic-alternation's session-level rules
 - [[cognitive-offloading]] — framework predicts where offloading risk concentrates (Substitute zone)
 - [[metacognition]] — operationalized as a three-component evaluation cycle
-- [[upskilling-deskilling-paradox]] — explained as trajectories within the four-zone framework
-- [[automation-bias]] — risk peaks in Substitute zone
+- [[upskilling-deskilling-paradox]] — represented as proposed trajectories within the four-zone framework
+- [[automation-bias]] — risk predicted to peak in Substitute zone
 - [[batista-sycophantic-ai-2026]] — sycophancy risk varies by sub-zone in a way consistent with Batista's findings
 - [[think-first]] — calibration step before delegating to GenAI
 
 ## Contradicts / Extends
 
-- Extends Mollick's three-task framework ("Just Me / Delegated / Automated") by adding the metacognitive trajectory dimension and the four-sub-zone structure rooted in ZPD.
-- Extends Gonzalez et al. (2026, *Nature Reviews Psychology*) and Hemmer et al. (2025) — those papers report [[human-ai-complementarity|human-AI complementarity]] is rarely observed empirically; SCAN proposes a structural explanation (complementarity requires the Complement zone, which requires task-specific human knowledge that's often absent). Note: Gonzalez 2026 is mentioned but not a KB workbench entry (paywalled, not currently verifiable).
-- Extends [[dellacqua-jagged-frontier-2023]] — the "[[jagged-frontier|jagged frontier]]" can be partly explained as the boundary where Substitute meets Non-negotiable in a domain.
+- Offers a different decision framework from Mollick's task taxonomy.
+- [[human-ai-complementarity]] is an empirical performance question; membership in the Complement zone neither proves nor is established as a necessary condition for synergy.
+- [Inference] [[dellacqua-jagged-frontier-2023]] and [[jagged-frontier]] raise related task-capability questions, but do not validate SCAN's zone boundaries.
+- The framework cites Gonzalez et al. (2026), but that reference cannot be assessed from a matching retained original.
 
 ## Open Questions
 

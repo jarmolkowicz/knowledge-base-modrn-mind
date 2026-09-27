@@ -35,9 +35,9 @@ With AI, offloading becomes dramatically more powerful and subtle. You can now o
 
 Kosmyna et al. (2025) report weaker connectivity on measured EEG indices and poorer ability to quote their own essays among LLM-assisted writers in a restricted writing-task sample (N=54). These measures do not by themselves establish general learning loss, reduced intelligence or decay of previously acquired skills.
 
-[Unverified source] The earlier cognitive-load explanation attributed to Lodge and Loble (2026) lacks a matching local original. [Inference] When evaluating an offloaded task, distinguish effort incidental to the learning goal from practice needed to reach it; this is guidance to test, not a validated rule that predicts every learner's outcome.
+[Inference] When evaluating an offloaded task, distinguish effort incidental to the learning goal from practice needed to reach it. This guidance needs testing; it does not predict every learner's outcome.
 
-Chiriatti et al. (2024) frame the substrate that makes broad offloading possible: AI as *system 0*, a foundational distributed layer operating beneath System 1 and System 2 that satisfies all eight of Heersmink's cognitive-extension criteria. In their account, every offloading act is also an act of integration — over time, the user is no longer using a tool, they are co-located with a substrate. This raises the stakes of the offloading-vs-surrender distinction Shaw & Nave draw experimentally: when the substrate becomes durable and individualized, even strategic offloading shifts the cognitive baseline rather than supplementing a stable one.
+Chiriatti et al. (2024) propose *system 0*: a distributed AI layer that interacts with intuitive and analytical thinking. They use Heersmink's eight cognitive-extension criteria to argue that AI can become integrated with cognition. This is a theoretical account, not a measured long-term change in cognitive capability. [Inference] It raises a question for the offloading-versus-surrender distinction studied by Shaw & Nave: does repeated, strategic offloading change unaided performance over time? Neither framework alone answers that question.
 
 ## Key Insight
 
@@ -64,7 +64,7 @@ Shen & Tamkin (2026) described six exploratory behavioral clusters within a rand
 
 Huffstadt's (2026) cross-sectional SEM study (N=297) associated greater AI usage with lower reported effort and social presence, and motivation with self-reported performance. The fitted mediation model does not establish that every act of offloading reduces motivation, that skill decay occurred or that these are the only causal pathways. Reverse causation and unmeasured influences remain possible.
 
-[Unverified source] The double-offloading account previously attributed to Lodge and Loble (2026)—delegating both task execution and monitoring—also awaits its original. Treat a resulting erosion cycle as a hypothesis, not a measured finding.
+[Speculation] Delegating both execution and monitoring could increase reliance. A resulting erosion cycle has not been established here.
 
 Memmert et al. (2025) add a workplace boundary condition. In interviews with 21 professional users, reduced drafting effort often coexisted with checking, prompting, learning tools and additional tasks. Most respondents described retaining responsibility for outcomes. These accounts do not establish preserved skills or objective workload savings; they show why less effort on one subtask is insufficient evidence of less total effort. Review intensity, persistence and direction across the task and the working day.
 
@@ -84,8 +84,7 @@ Memmert et al. (2025) add a workplace boundary condition. In interviews with 21 
 - [[metacognition]] - confidence is one influence on offloading decisions (Gilbert et al. 2023)
 - [[confidence-competence-gap]] - memory confidence predicts use of saved information; causal direction was not isolated (Hu et al. 2019)
 - [[belief-offloading]] - proposed offloading of belief formation and commitments; comparative consequences remain untested (Guingrich et al. 2026)
-- [[capacity-erosion]] - Huffstadt measures cross-sectional motivational associations, not capability loss
-- [[system-0-thinking]] - Chiriatti et al. (2024) frame AI as a foundational substrate (system 0) that makes habitual offloading possible; offloading is the daily mechanism through which the substrate integrates with cognition
+- [[system-0-thinking]] - Chiriatti et al.'s proposed account of AI integration with cognition
 
 - [[effort-investment-review]] — [Inference] review effort saved, added and redirected; an untested adaptation of qualitative findings.
 - [[memmert-effort-management-2025]] — workplace evidence qualifying simple effort-reduction claims.
@@ -104,4 +103,3 @@ Memmert et al. (2025) add a workplace boundary condition. In interviews with 21 
 - [[chiriatti-system-0-thinking-2024]] — Chiriatti, Ganapini, Panai, Ubiali & Riva (2024)
 - [[memmert-effort-management-2025]] — Memmert, Soroko & Bittner (2025)
 - [[cash-ai-stupid-2026]] — Cash, T. N., Kelly, M. O., Macnamara, B. N., & Risko, E. F. (2026). Is AI making us stupid? Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2026.06.004
-

@@ -14,7 +14,7 @@ Mollick, E. (2024). *Co-Intelligence: Living and Working with AI*. Portfolio/Pen
 Book
 
 ## Key Insight
-Frames AI not as a tool but as a "co-intelligence" — an alien mind that augments human thinking. Proposes four principles for working with AI: always invite AI to the table, be the human in the loop, treat AI like a person (but define what kind), and assume this is the worst AI you will ever use. Introduces a practical task taxonomy (Just Me, Delegated, Automated, Centaur, Cyborg) grounded in the [[jagged-frontier]] concept from the BCG/Harvard study.
+Mollick uses "co-intelligence" and an "alien mind" as metaphors for working with AI. He proposes four principles for working with AI: always invite AI to the table, be the human in the loop, treat AI like a person (but define what kind), and assume this is the worst AI you will ever use. Introduces a practical task taxonomy (Just Me, Delegated, Automated, Centaur, Cyborg) grounded in the [[jagged-frontier]] concept from the BCG/Harvard study.
 
 ## Key Passages
 
@@ -27,9 +27,12 @@ Frames AI not as a tool but as a "co-intelligence" — an alien mind that augmen
 These are the author's practitioner recommendations, not results of a test of the four-principle framework. EPUB extraction numbers identify document sections, not printed chapter or page numbers.
 
 ## Relevance
-Foundational practitioner text. Mollick's framework is widely cited and provides accessible vocabulary for AI collaboration patterns. His treatment of education, expertise, and the [[leveling-effect|leveling effect]] offers early evidence for several KB concepts. The book predates the 2025-2026 wave of empirical erosion research but anticipates many of its findings — particularly around novice vulnerability, the importance of being "the human in the loop," and the risk of "falling asleep at the wheel."
+
+Provides practitioner vocabulary for choosing forms of AI assistance and summarizes research available in 2024. Its metaphors and recommendations should be distinguished from the individual studies it discusses. Later models, domains and learning outcomes require their own evidence.
 
 ## Key Claims and Evidence
+
+The following summarizes the book's 2024 account. Findings are study-specific; examples and forecasts are attributed to the author.
 
 ### Jagged Frontier (BCG/Harvard study, N=758)
 - Inside frontier: 12.2% more tasks, 25% faster, 40% higher quality
@@ -42,14 +45,14 @@ Foundational practitioner text. Mollick's framework is widely cited and provides
 - Lower-quality AI made recruiters more alert and critical
 - Mechanism: when AI is very good, humans stop paying attention
 
-### Leveling Effect
+### [[leveling-effect|Leveling Effect]]
 - Low performers gain most from AI across writing, creativity, law, call centers
 - BCG study: gap between top and bottom performers shrank from 22% to 4% with GPT-4
 - Call center study: lowest performers became 35% more productive; experienced workers gained little
 
 ### Education: The Homework Apocalypse
-- AI renders traditional homework and essays undetectable as cheating
-- No reliable AI detection exists; detectors have high false-positive rates
+- Mollick argues that AI-generated homework challenges conventional assessment and detection
+- The book warns about unreliable detection and false positives; this is its 2024 assessment
 - Students stopped raising hands — "Why raise your hand when you can ask ChatGPT?"
 - But AI tutoring could address Bloom's 2 Sigma Problem (tutored students outperform 98% of classroom learners)
 
@@ -62,13 +65,13 @@ Foundational practitioner text. Mollick's framework is widely cited and provides
 ### Apprenticeship Crisis
 - Senior surgeons take the robot controls; trainees watch instead of learning
 - "Shadow learning" emerges — residents learning from YouTube instead of mentors
-- Pattern will spread as AI automates the entry-level tasks that build expertise
+- Mollick predicts a similar risk where AI automates entry-level practice opportunities
 
 ## Four Principles
 1. **Always invite AI to the table** — experiment to learn the frontier
 2. **Be the human in the loop** — provide oversight, check hallucinations, maintain skills
-3. **Treat AI like a person (but tell it what kind)** — personas improve output quality
-4. **Assume this is the worst AI you will ever use** — capabilities only increase
+3. **Treat AI like a person (but tell it what kind)** — Mollick recommends specifying a role; benefit depends on the task
+4. **Assume this is the worst AI you will ever use** — a planning assumption about future improvement, not a guarantee
 
 ## Task Taxonomy
 - **Just Me Tasks** — AI not useful or tasks reserved for human judgment

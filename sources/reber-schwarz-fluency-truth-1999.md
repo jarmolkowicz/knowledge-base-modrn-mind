@@ -20,11 +20,9 @@ Paper (experimental — single short experimental note)
 
 ## Key Insight
 
-Reber & Schwarz isolated **perceptual fluency** as a causal driver of truth judgments. By presenting the same factual statement in colors that varied only in legibility — keeping content, exposure frequency, and prior familiarity constant — they showed that easier-to-read statements were judged true above chance, while the same statements in less legible colors were judged at chance.
+A single-exposure experiment varied the legibility of geographical statements through color contrast. Participants endorsed more highly visible statements than moderately visible statements as true. The design isolates a perceptual-fluency manipulation from repeated exposure (pp.1–3).
 
-The methodological move matters: prior fluency-and-truth studies confounded perceptual ease with repeated exposure. Reber & Schwarz break that confound with a single-exposure design, leaving "ease of processing" as the only manipulated variable. The effect emerges anyway. Participants were unaware they were being tested on fluency; they just thought color affected reaction times.
-
-For human thinking with AI: AI outputs are typically rendered with clean typography, structured paragraphs, confident tone, and minimal visual noise — i.e., **maximally fluent presentation**. By Reber & Schwarz's mechanism, that fluency itself nudges the reader toward judging the content as true, independent of any reasoning about it.
+The study recruited 235 undergraduates; the reported truth-rating tests use 229 participants. Interviews indicated no suspicion about the study's fluency purpose. That does not demonstrate absence of deliberation or awareness of every influence on judgment.
 
 ## Key Passages
 
@@ -42,21 +40,14 @@ For human thinking with AI: AI outputs are typically rendered with clean typogra
 
 ## Relevance
 
-The single best small-experiment evidence for why polished AI output bypasses critical evaluation. Three load-bearing properties of the result:
-
-- **Causal, not correlational.** The single-exposure design rules out repeated-exposure and prior-familiarity explanations. Fluency *itself* moves truth ratings.
-- **Unconscious.** Participants didn't know fluency was manipulated; the effect occurred without deliberation. This is exactly the regime in which AI consumption usually happens.
-- **Cheap and replicable.** Color contrast manipulation; 235 undergrads. The effect doesn't need exotic conditions to surface.
-
-Together these make the Reber & Schwarz finding the foundation for [[fluency-bias]] — the AI-era specialization is that LLMs produce maximum-fluency text by default, and that surface fluency itself biases the reader toward acceptance.
+Provides experimental evidence that visual presentation can influence truth judgments. [Inference] It motivates testing fluency effects in AI use; it does not directly test linguistic polish, long arguments, AI labels or critical evaluation of AI output.
 
 ## Supports
 
-- [[fluency-bias]] — primary experimental evidence
-- [[metacognition]] — needed to detect and counteract a bias the participants couldn't introspect on
-- [[oppenheimer-fluency-2008]] — extends the fluency-and-judgment literature beyond truth judgments to broader competence/intelligence inferences
-- [[coherence-trap]] — related downstream concept: surface coherence read as substantive correctness
-- [[automation-bias]] — fluent AI output amplifies the existing tendency to over-rely on automated suggestions
+- [[fluency-bias]] — evidence for a specific perceptual-fluency effect.
+- [[metacognition]] — related question about recognizing influences on judgment.
+- [[oppenheimer-fluency-2008]] — broader review of fluency and judgment.
+- [[coherence-trap]] and [[automation-bias]] — [Inference] possible AI applications requiring direct tests.
 
 ## Contradicts / Extends
 

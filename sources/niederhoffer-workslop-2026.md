@@ -20,7 +20,8 @@ Article (two-part series, BetterUp Labs / Stanford Social Media Lab)
 Workslop is AI-generated work content that "masquerades as good work, but lacks the substance to meaningfully advance a given task." It can shift checking and correction work onto recipients. The authors interpret survey patterns in terms of vague mandates, overload, competence and trust; these are not experimentally isolated causes.
 
 ## Relevance
-Provides the first large-scale survey data (N=1,150) on the organizational cost of undiscerning AI use. Bridges individual cognitive risks (fluency bias, novice vulnerability) to organizational dynamics (trust erosion, collaboration breakdown). Directly relevant to workslop as a downstream consequence of the confidence-competence gap.
+
+Reports survey accounts of low-quality AI-assisted work, recipient effort and workplace relationships (N=1,150 U.S. full-time employees). These are self-reports and associations; the survey does not isolate causes or measure the effects of management interventions.
 
 ## Key Findings (N=1,150 U.S. full-time employees)
 
@@ -31,10 +32,10 @@ Provides the first large-scale survey data (N=1,150) on the organizational cost 
 - Flows between peers (40%), upward from reports (18%), downward from managers (16%)
 - Professional services and technology disproportionately affected
 
-### Costs
-- Average 1 hour 56 minutes per incident dealing with workslop
+### Estimated Costs
+- Self-reported average 1 hour 56 minutes per incident dealing with workslop
 - Estimated $186/month invisible tax per affected employee
-- $9M+/year for a 10,000-person organization
+- $9M+/year extrapolation for a 10,000-person organization; not an audited organizational loss
 
 ### Social/Emotional Impact
 - 53% annoyed, 38% confused, 22% offended
@@ -61,9 +62,9 @@ Provides the first large-scale survey data (N=1,150) on the organizational cost 
 ## Supports
 - [[novice-vulnerability]] - task knowledge is a relevant question; novice status was not established as the cause of workslop
 - [[execution-commoditization]] - workslop is what commoditized execution looks like without quality judgment
-- [[confidence-competence-gap]] - senders don't recognize their output as subpar
-- [[fluency-bias]] - workslop succeeds because it looks polished
-- [[agency]] - "Pilots" vs "Passengers" framing; agency as protective factor
-- [[calibration]] - workslop as calibration failure at organizational level
+- [[confidence-competence-gap]] - [Inference] possible connection; many respondents acknowledged sending subpar work
+- [[fluency-bias]] - [Inference] polish may obscure weak content; fluency was not isolated experimentally
+- [[agency]] - "Pilots" vs "Passengers" framing; agency associated with different reported use patterns
+- [[calibration]] - [Inference] calibration is a possible lens, not a measured cause
 - [[workslop-prevention]] - proposed practice based on survey associations and management interpretation
 - [[workslop]] - primary source defining the concept and providing survey data

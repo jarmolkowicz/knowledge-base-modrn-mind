@@ -45,11 +45,11 @@ The widespread assumption that "human + AI is better than either alone" does not
 
 **Main effects** [p.3]:
 - Synergy: pooled g = −0.23 (t₉₂ = −2.89; P = 0.005; 95% CI −0.39 to −0.07) — a small, significant *loss*. 213 of 370 effect sizes (58%) underperformed the better of human-or-AI alone.
-- Augmentation: pooled g = 0.64 (t₉₈ = 11.87; P = 0.000; 95% CI 0.53 to 0.74) — medium-to-large *gain*. 314 of 370 (85%) outperformed the human alone.
+- Augmentation: pooled g = 0.64 (t₉₈ = 11.87; P < 0.001; 95% CI 0.53 to 0.74) — medium-to-large *gain*. 314 of 370 (85%) outperformed the human alone.
 
 **Significant moderators**:
-- *Task type* [p.4] (F₁,₁₀₄ = 7.84; P = 0.006). Decision tasks (choosing among a finite set of options; n = 344): synergy g = −0.27 (P = 0.002) — losses. Creation tasks (open-response content; n = 34): synergy g = 0.19 (P = 0.180, not significant on its own, but the decision-vs-creation difference is significant).
-- *Relative performance* [p.3] (F₁,₁₀₄ = 81.79; P = 0.000). When the human outperformed the AI alone (n = 127): synergy g = 0.46 — gains. When the AI outperformed the human alone (n = 251): synergy g = −0.54 — losses. Augmentation in the AI-stronger case was still positive (g = 0.74).
+- *Task type* [p.4] (F₁,₁₀₄ = 7.84; P = 0.006). Decision tasks (choosing among a finite set of options): synergy g = −0.27 (P = 0.002) — losses. Creation tasks (open-response content): synergy g = 0.19 (P = 0.180, not significant on its own, but the decision-vs-creation difference is significant).
+- *Relative performance* [p.3] (F₁,₁₀₄ = 81.79; P < 0.001). When the human outperformed the AI alone: synergy g = 0.46 — gains. When the AI outperformed the human alone: synergy g = −0.54 — losses. Augmentation in the AI-stronger case was still positive (g = 0.74).
 
 **Non-significant moderators** [p.2–3]: AI explanations, AI confidence displays, participant type (expert vs. crowdworker), and division of labour did *not* significantly affect synergy or augmentation — despite explanations and confidence being a major focus of human-AI interaction research.
 
@@ -59,34 +59,28 @@ The widespread assumption that "human + AI is better than either alone" does not
 
 ## Relevance
 
-This is the strongest cross-task empirical synthesis the KB holds on human-AI complementarity. It does four things for the KB:
+Separates two comparisons: improving on a human alone and improving on the better of the human or AI alone. Of the 370 effect estimates, 85% were positive against the human baseline and about 42% against the better-party baseline; a positive point estimate is not necessarily statistically significant synergy.
 
-1. **Anchors `[[human-ai-complementarity]]` empirically.** That concept was `status: speculative` and asserted that "meta-analyses show that human-AI teams can outperform either party alone." Vaccaro et al. is *the* meta-analysis on the question, and the finding is the reverse: synergy is the exception (42% of effect sizes), not the rule. The concept's claim needs qualifying, and this source provides the evidence to do it carefully.
-2. **Supplies the named distinction behind `[[augmentation-synergy-gap]]`** — synergy vs. augmentation as two separate bars, with the empirical fact (85% augment, 42% synergize) that they routinely come apart.
-3. **Gives `[[complementarity-framework]]` real empirical grounding** for two of its "factors shaping complementarity" — task characteristics and relative ability — and an empirical caution on a third (the null result for explanations/confidence speaks directly to the framework's interrogation and interface principles).
-4. **Sets the scope for `[[dellacqua-jagged-frontier-2023]]` and `[[yu-radiologists-ai-2024]]`** — those are point-studies of single firms or domains; this is the population they sit inside.
-
-The paper's voice aligns with KB voice: it frames the null result not as AI-pessimism but as a design agenda ("promising directions for designing future human–AI systems"). It is careful about its own limitations (lab not field; only studies reporting all three conditions; publication bias on the augmentation side).
+Task type and relative performance were associated with effect differences. These meta-analytic moderators are not randomized tests of collaboration mechanisms. The included laboratory experiments and requirement for all three comparison conditions limit generalization.
 
 ## Supports
 
-- [[human-ai-complementarity]] — the meta-analytic anchor; synergy *is* the paper's operationalization of complementarity, and the finding is that it is conditional and not the average outcome.
-- [[augmentation-synergy-gap]] — primary source for the distinction; a system can clear the augmentation bar (beats the human) without clearing the synergy bar (beats the AI alone).
-- [[complementarity-framework]] — empirically confirms task type and relative ability as moderators of complementarity.
-- [[automation-bias]] — the paper attributes decision-task losses partly to overreliance (humans following AI suggestions without further processing).
-- [[performance-paradox]] — related "looks good by the wrong metric" pattern: the augmentation baseline can make a human-AI system look successful even when AI alone would do better.
-- [[jagged-frontier]] — both address task variation, but their comparisons differ: augmentation against humans alone is not synergy against the better single performer.
+- [[human-ai-complementarity]] and [[augmentation-synergy-gap]] — central distinction between augmentation and synergy.
+- [[complementarity-framework]] — evidence of task and relative-performance differences; not validation of the entire framework.
+- [[automation-bias]] — a proposed explanation for some decision-task losses, not an isolated mediator across the dataset.
+- [[performance-paradox]] — [Inference] a related warning about choosing a success measure; this meta-analysis does not measure later unaided learning.
+- [[jagged-frontier]] — task variation matters, but augmentation and synergy use different baselines.
 
 ## Contradicts / Extends
 
 - Complements: [[dellacqua-jagged-frontier-2023]] — the field experiment compares assisted with unassisted human performance across tasks. Vaccaro's synergy comparison also requires AI-alone performance; the two patterns are not equivalent.
 - Extends: [[yu-radiologists-ai-2024]] — Yu et al. document heterogeneous AI-assistance effects within one diagnostic domain; Vaccaro et al. quantify the heterogeneity across domains (I² = 97.7%) and name two of its sources.
 - Qualifies: [[handa-economic-tasks-claude-2025]] — Handa et al. map *where* AI is used; Vaccaro et al. show that usage does not imply the combination outperforms either party alone on the studied performance dimensions.
-- Does not contradict any existing source. The closest tension is with the optimistic "human + AI" framing implicit in several entries; Vaccaro et al. is the corrective evidence, not a contradiction of a specific finding.
+- Its pooled result challenges an assumption of automatic synergy; it does not contradict every positive result for an individual system.
 
 ## Open Questions
 
-- The dataset is dominated by decision tasks (n = 344) and thin on creation tasks (n = 34). The creation-task gain is suggestive but underpowered. [Inference] Whether generative-AI creation work reliably produces synergy is still open and is the paper's flagged research priority.
+- The dataset is dominated by decision tasks and includes fewer creation tasks. The creation-task gain is suggestive but underpowered. [Inference] Whether generative-AI creation work reliably produces synergy is still open and is the paper's flagged research priority.
 - Almost all studies (>95%) have the human making the final decision after seeing AI input. Synergy under other interaction designs — predetermined division of labour, AI-final with human override, dynamic allocation — is barely represented (n = 4 for division of labour) and untested at scale.
 - The studies are lab experiments from 2020–2023, predating wide deployment of frontier generative models. [Inference] Whether the synergy deficit narrows with more capable models, or with practitioners who have adapted their workflows, is unanswered.
 - Heterogeneity remains largely unexplained (I² = 97.7%). The significant moderators leave most of the variance uncaptured — what else governs whether a combination helps is still open.

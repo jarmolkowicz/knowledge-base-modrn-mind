@@ -14,18 +14,20 @@ Reich, T. & Teeny, J.D. (2026). Does Artificial Intelligence Cause Artificial Co
 Paper
 
 ## Key Insight
-Across 7 primary experiments and 4 supplementary experiments (N = 6,801), exposure to creative content attributed to gen-AI (vs. an identical human peer) increased people's creative self-confidence through a downward social comparison process. The effect was domain-specific: it emerged in creative domains (jokes, stories, poetry, visual art) where gen-AI is perceived as a lower social referent, but attenuated in fact-based domains where gen-AI is perceived as equal or higher.
+
+Across seven primary and four supplementary experiments (N=6,801), exposure to creative content labeled as AI-generated rather than human-generated increased creative self-confidence. In the content-controlled comparisons, the content was identical; only its attributed source differed. The authors report evidence consistent with downward social comparison, with weaker effects in fact-based domains.
 
 ## Relevance
-Introduces a previously unidentified pathway through which AI exposure distorts self-assessment. Unlike the confidence-competence gap (which requires using AI), artificial confidence operates through mere exposure to AI-labeled content. This has implications for any context where people encounter AI-generated creative work — which is increasingly everywhere.
+
+Distinguishes confidence after seeing AI-labeled work from performance while using AI. A measured increase in self-confidence does not by itself establish improved skill or a general loss of calibration.
 
 ## Key Findings
 
-- **Social comparison mechanism**: Gen-AI serves as a "lower social referent" for creative tasks because people view creativity as uniquely human. Seeing identical content labeled as AI-generated (vs. human) triggers downward comparison, boosting self-confidence.
-- **Behavioral consequence**: Increased creative self-confidence led to greater willingness to attempt creative activities — even though the confidence was unwarranted (actual ability unchanged).
-- **Robust to quality**: Effect emerged for both high- and low-quality creative content. People compare against generalized perceptions of AI, not specific output quality.
-- **Domain boundary**: Effect attenuated in fact-based domains where gen-AI is perceived as equal or higher social referent. The direction of the confidence effect depends on domain-specific beliefs about AI capability.
-- **Large, preregistered**: Six of seven primary studies preregistered. All data and materials public.
+- **Comparison process:** The authors report evidence consistent with AI being perceived as a lower creative referent; this is not proof of an exclusive mechanism.
+- **Willingness:** In Study 2, 23.5% in the AI-label condition versus 14.5% in the human-label condition expressed willingness to write. This was a willingness measure, not a required writing task.
+- **Rated output:** In Study 3 (N=401), participants wrote captions. Three blinded raters found no significant funniness difference (1.92 versus 1.98; F<1), despite higher self-confidence and self-ratings under the AI label. This result does not prove all creative ability was unchanged.
+- **Quality:** The label effect appeared with high- and low-quality examples; output quality also affected confidence. Participants did not simply ignore quality.
+- **Scope:** Effects attenuated in fact-based domains. Six of seven primary studies were preregistered; data and materials are public.
 
 ## Supports
 - [[artificial-confidence]] - defines the concept

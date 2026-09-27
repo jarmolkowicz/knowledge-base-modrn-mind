@@ -26,13 +26,13 @@ sources:
 2. Organizational: do review and feedback roles teach judgment or merely route uncertainty elsewhere?
 3. Systemic: how do opportunities to learn change when workflows change?
 
-[Unverified source] An earlier version attributed this account and an emphatic quotation to Duncan (2026). No matching original was found locally; the quotation is not retained as verified. The linked non-AI practice sources do not validate this complete hypothesis.
+The linked non-AI practice sources inform questions about learning; they do not validate this complete AI-specific hypothesis.
 
 ## Related
 
 - [[capacity-erosion]] - individual dimension of this paradox
-- [[novice-vulnerability]] - who is most affected
-- [[desirable-difficulty]] - what gets eliminated
+- [[novice-vulnerability]] - possible differences in learning opportunities; comparative effects need testing
+- [[desirable-difficulty]] - useful practice that task substitution might remove
 - [[leveling-effect]] - assisted performance differences do not establish learning differences
 - [[judgment]] - what's at stake
 
@@ -40,4 +40,3 @@ sources:
 
 - [[ericsson-deliberate-practice-1993]] — Ericsson, K. A., Krampe, R. T., & Tesch-Romer, C. (1993). The role of deliberate practice in the acquisition of expert performance. Psychological Review, 100(3), 363-406.
 - [[bjork-desirable-difficulties-2011]] — Bjork, E. L., & Bjork, R. A. (2011). Making things hard on yourself, but in a good way. Psychology and the Real World.
-

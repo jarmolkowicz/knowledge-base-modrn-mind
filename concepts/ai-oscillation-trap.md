@@ -13,7 +13,7 @@ sources: []
 
 ## Evidence Status
 
-The historical attribution to Nosta's 2025 "AI Oscillation Trap" essay remains unverified; no accessible canonical source is retained in this KB. Earlier assertions about writers, drivers and physicians and an attributed quotation have been removed from the active entry because their provenance was not verified. They remain in the correction history, not usable evidence.
+Nosta introduced this name in *The AI Oscillation Trap: Stuck Between AI and Autonomy* (15 March 2025). The article proposes a concern about switching between assisted and manual work; it does not report an experiment testing that mechanism. The hypothesis remains speculative.
 
 ## Questions to Test
 
@@ -34,5 +34,4 @@ The historical attribution to Nosta's 2025 "AI Oscillation Trap" essay remains u
 
 ## Sources
 
-No verified source currently supports this named hypothesis.
-
+- Nosta, J. (2025, March 15). [The AI Oscillation Trap: Stuck Between AI and Autonomy](https://www.psychologytoday.com/nz/blog/the-digital-self/202503/the-ai-oscillation-trap-stuck-between-ai-and-autonomy). *Psychology Today*. Commentary; sections “The Hidden Friction of Modern Augmentation” and “Recognizing the Trap and Designing for It.” No separate canonical source entry.

@@ -45,7 +45,7 @@ Grounded in three established psychological theories that MIRA extends to AI:
 
 The paper is explicit about MIRA being **provisional and middle-range** (Merton 1968 sense): not a grand unified theory, but a structured scaffold for organizing current knowledge and generating testable hypotheses. Modular structure (antecedents, mechanisms, moderators, outcomes) allows researchers to isolate specific predictions.
 
-For human thinking with AI: this is the KB's first comprehensive theoretical framework for **AI's social-relational dimension** — a layer that's been largely empirical-fragmented before now. It complements [[ai-loneliness-effect]] (which describes the outcome) and [[fang-ai-loneliness-2025]] (which measures it) by providing the theoretical engine that explains *why* and *how*.
+The framework organizes questions about **AI's social-relational dimension**. It complements [[ai-loneliness-effect]] (which describes the outcome) and [[fang-ai-loneliness-2025]] (which measures it) by providing a proposed framework for investigating why and how.
 
 ## Key Passages
 
@@ -66,26 +66,26 @@ For human thinking with AI: this is the KB's first comprehensive theoretical fra
 
 ## Relevance
 
-Three load-bearing contributions:
+Three contributions:
 
-- **Provides theoretical scaffolding** the KB has lacked. The empirical loneliness literature (Fang, De Cremer, Folk-Dunn) has measured the outcome but not unified the mechanisms. MIRA gives the field a vocabulary and structure.
+- **Organizes relational hypotheses.** The empirical loneliness literature (Fang, De Cremer, Folk-Dunn) has measured the outcome but not unified the mechanisms. MIRA gives the field a vocabulary and structure.
 - **Names the substitution-vs-enhancement question explicitly.** This is the central practical question for users and designers: does AI use deepen or displace human relationships? MIRA frames it as a moderator-driven question rather than a fixed property of the technology.
 - **Bridges the partner/mediator divide.** Most prior research siloed these. Many real-world cases involve both simultaneously (an AI that's your confidante also rewrites your messages to humans), so unifying them is necessary for accurate prediction.
 
 ## Supports
 
-- [[mira-model]] — primary source for the new method entry (introduced as NEW)
-- [[ai-loneliness-effect]] — provides the theoretical engine
-- [[fang-ai-loneliness-2025]] — empirical measurement of MIRA-predicted substitution effect
+- [[mira-model]] — primary source for the proposed framework
+- [[ai-loneliness-effect]] — proposes possible relational mechanisms
+- [[fang-ai-loneliness-2025]] — related empirical study; not a direct test of MIRA or of substitution
 - [[social-sycophancy]] — sycophancy in advice contexts is a special case of MIRA's relational-partner principle 4 (substitution risk)
 - [[cheng-sycophantic-prosocial-2025]] — Cheng's "users replacing human confidants" hypothesis is a direct MIRA-predicted outcome
-- [[affective-trust-deficit]] — MIRA's interpersonal-trust principle explains why human-human trust shifts when AI mediates
-- [[novice-vulnerability]] — moderators in MIRA include relationship-skill capacity; novices are more susceptible
+- [[affective-trust-deficit]] — MIRA proposes questions about trust when AI mediates human communication
+- [[novice-vulnerability]] — relationship-skill capacity is a proposed moderator; novice susceptibility is not tested here
 - [[anti-intelligence]] — Nosta's broader framework intersects MIRA on the relational dimension
 
 ## Contradicts / Extends
 
-- Extends Hancock et al.'s (2020) AI-mediated communication framework (cited but not in KB workbench) by adding the relational-partner role it leaves under-developed.
+- Extends Hancock et al.'s (2020) AI-mediated communication framework (cited by the authors) by adding the relational-partner role it leaves under-developed.
 - Extends classical interpersonal-relationship theories (Altman & Taylor, Knapp) which assume sentient partners — MIRA explicitly handles non-sentient adaptive agents.
 
 ## Open Questions

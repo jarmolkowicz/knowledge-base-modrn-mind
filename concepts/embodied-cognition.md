@@ -9,35 +9,27 @@ sources: []
 
 ## What It Is
 
-The theory that cognition is fundamentally shaped by having a body that interacts with the world. Knowledge isn't abstract information processing—it emerges from lived, sensory experience.
+A family of views that treats bodily action and interaction with the environment as important to cognition. The application to AI below is a speculative framing.
 
 ## Why It Matters
 
-AI processes information but has no body, no lived experience, no sensory interaction with the world. This means certain kinds of understanding are fundamentally unavailable to AI and uniquely human.
+[Speculation] Human bodily experience may contribute forms of understanding that text-based assistance does not reproduce. This entry does not establish a general limit on every AI system or sensory interface.
 
 ## Key Insight
 
-Your unique perspective comes from:
+[Speculation] Personal perspective may be shaped by:
 - Living in a specific body with specific sensory experiences
 - Moving through specific contexts and situations
 - Having emotional and physical responses to events
 - Building intuition through embodied practice
 
-AI can remix patterns from text, but it cannot:
-- Know what it feels like to face a difficult client
-- Sense the energy in a room during a presentation
-- Have the gut feeling that something is wrong
-- Draw on muscle memory and embodied skill
-
-This is why three core capacities includes "Where Your Ideas Come From"—original insight emerges from embodied experience that AI cannot replicate.
+[Speculation] Personal bodily experience may shape which problems people notice and which ideas they develop. This does not establish that embodied experience is the only source of original insight.
 
 ## Related
 
-- three core capacities - embodiment underlies Capacity 2
 - [[metacognition]] - awareness of your embodied knowing
-- [[agency]] - embodied judgment is irreplaceable
+- [[agency]] - bodily experience may inform personal judgment
 
 ## Sources
 
-_(Foundational books — Varela et al. 1991, Lakoff & Johnson 1999 — were removed from the KB along with their dead wikilinks because we don't have verifiable access to the source binaries. The framing they support is referenced through downstream sources still in the KB.)_
-
+No verified direct source is available here for this speculative framing.

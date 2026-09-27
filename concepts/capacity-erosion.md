@@ -41,9 +41,9 @@ Shaw & Nave (2026) found an 11.7-percentage-point confidence increase with AI ac
 
 Higher AI trust, lower need for cognition and lower fluid intelligence were associated with more faulty-advice acceptance in Shaw and Nave's tasks. These associations do not identify who will suffer long-term skill erosion.
 
-[Unverified source] Earlier versions attributed leadership-pipeline risks and training recommendations to Duncan (2026). No matching original or source entry was found in the local audit. Treat the proposed link between fewer junior practice opportunities and later judgment gaps as a hypothesis, not an established finding.
+[Speculation] Fewer junior practice opportunities could contribute to later judgment gaps, but this organizational pathway has not been established.
 
-[Unverified source] The earlier offloading–confidence–dependency cycle attributed to Lodge and Loble (2026) lacks a matching local original. Its causal sequence is unverified. Failing to construct knowledge during learning is not the same as losing established knowledge.
+A proposed offloading–confidence–dependency cycle lacks verified evidence here. Failing to acquire knowledge during learning is distinct from losing established knowledge.
 
 Nikolova et al. (2024) studied industrial-robot exposure and work meaning. Their findings concern meaningfulness and autonomy, with variation across tasks and roles; they do not directly measure skill erosion. [Inference] Similar questions may matter for GenAI-supported work, but meaning, identity and capability should remain separate outcomes.
 
@@ -61,7 +61,7 @@ Bainbridge (1983, pp. 775–777) identifies an early version of this problem in 
 
 ## AI Rebound Effect
 
-Nosta (2025), a secondary commentary, reports below-baseline unaided polyp-detection performance after AI use. The underlying clinical original was not available in the local audit. This account alone does not establish degradation of an underlying skill or distinguish it from other explanations for the performance change.
+Nosta (2025), a secondary commentary, reports below-baseline unaided polyp-detection performance after AI use. The clinical finding is available here only through that secondary account. This account alone does not establish degradation of an underlying skill or distinguish it from other explanations for the performance change.
 
 ## Related
 
@@ -79,8 +79,6 @@ Nosta (2025), a secondary commentary, reports below-baseline unaided polyp-detec
 - [[cognitive-surrender]] - observed faulty-advice acceptance; long-term erosion link untested
 - [[tri-system-theory]] - proposed account of reliance on external reasoning
 - [[desirable-difficulty]] - error encounters differed across Shen and Tamkin's learning strategies; their independent causal contribution was not isolated
-- [[fluency-bias]] - possible interpretation of effortless output, not a mechanism tested by Huffstadt
-- [[performance-paradox]] - assisted output, motivation and retained capability require different measures
 - [[novice-vulnerability]] - Singh Yadav proposes stage-specific risks; developmental ceiling remains hypothetical
 - [[hai-dark-side-collaboration-2025]] - daily associations among collaboration, alienation and self-reported expediency
 

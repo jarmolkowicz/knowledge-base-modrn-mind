@@ -2,7 +2,7 @@
 status: emerging
 area: [erosion]
 sources:
-  - "Nosta, Anti-Intelligence (2026)"
+  - "Nosta, J. (2026). Anti-Intelligence: When Thinking Has No Consequence. Psychology Today, January 5."
   - "Nosta, The Borrowed Mind (2026)"
 ---
 
@@ -10,61 +10,59 @@ sources:
 
 ## What It Is
 
-A framing for AI's effect on human cognition: not stupidity, but intelligence stripped of the obligations that normally give thinking its meaning. AI offers relief from the burden of being answerable for conclusions.
+Nosta's philosophical framing of AI output as reasoning detached from personal responsibility for its consequences. It describes his concern about ownership of thought, not an experimentally established effect of AI use.
 
 ## Why It Matters
 
-AI's greatest appeal isn't its capability—it's the relief it offers from accountability. Traditional human thinking carries weight:
-- Ideas can cost us something
-- Mistakes have consequences
-- Commitments create vulnerability
-
-AI provides "answers with almost no hesitation and produces conclusions without having to live with them afterward." This makes thinking feel "lighter"—but also removes what gave it significance.
+In his January 2026 article, Nosta argues that ready-made answers can make deliberation feel easier while weakening the user's sense of having worked through a conclusion. People still bear the consequences of acting on it.
 
 ## Four Missing Conditions
 
-Anti-intelligence operates without:
-1. **No stake in conclusions** - AI doesn't care about outcomes
-2. **No risk in confidence** - Wrong answers cost AI nothing
-3. **No cost for error** - Mistakes are instantly revisable
-4. **No need to commit** - AI holds no positions over time
+Nosta contrasts human accountability with four absences he attributes to AI: a personal stake, emotional risk, lasting personal costs of mistakes, and commitment to a decision. These are philosophical claims about personhood, not claims that AI errors have no consequences for users or organizations.
 
 ## Key Quotes
 
-- "Thinking, in its human form, is something we live with"
-- "Human intelligence was never just about producing answers. It was about being answerable for them"
-- "Human intelligence was shaped in the rough. It stutters and contradicts itself."
-- "AI severs the connection between coherence and understanding. It produces language that behaves like knowledge but carries none of the history that once made knowledge worth trusting."
-- "Anti-intelligence is not the enemy but a diagnostic signal warning us when fluency impersonates truth."
+> "Human intelligence was never just about producing answers. It was about being answerable for them."
+> — Nosta, *Anti-Intelligence: When Thinking Has No Consequence*, section “Feeling Unsettling.”
+
+The following passages are from *The Borrowed Mind*, extracted EPUB section [ch.22 — xhtml/xhtml-0-21.xhtml], not the January article:
+
+> "Human thought was shaped in the rough. It stutters and contradicts itself."
+> — Section “The Smoothness Trap.”
+
+> "AI severs that connection. It produces language that behaves like knowledge but carries none of the history that once made knowledge worth trusting."
+> — Discussion of knowledge and coherence.
+
+> "Anti-intelligence is not the enemy but a diagnostic signal warning us when fluency impersonates truth."
+> — Closing discussion of meaning and interpretation.
 
 ## The Real Threat
 
-The danger isn't replacement but "relief from responsibility." When humans can always defer to AI, the pressure to develop and maintain judgment diminishes.
+Nosta proposes that habitual delegation of deliberation could reduce the pressure to exercise judgment. These texts do not measure that causal pathway.
 
-The book deepens the anti-intelligence framing with the concept of "vapid brilliance" — drawing on Liang et al. (2025) "machine bullshit" research. AI produces "engineered emptiness" through four patterns: empty rhetoric, paltering, weasel words, and unverified claims. Critically, RLHF alignment may intensify rather than correct this: "Instead of aligning output with human truth-seeking, they can align it with human satisfaction-seeking. The result is not deeper intelligence but more convincing vapidity."
+The book develops this concern through “vapid brilliance,” drawing on Liang et al. (2025): empty rhetoric, paltering, weasel words and unverified claims. Nosta argues that alignment may reward satisfaction over truth-seeking: "Instead of aligning output with human truth-seeking, they can align it with human satisfaction-seeking. The result is not deeper intelligence but more convincing vapidity." — Extracted EPUB [ch.18 — xhtml/xhtml-0-17.xhtml].
 
-Nosta also names what he calls the "indifference engine": AI's defining feature is structural indifference, not capability. "AI does not lie. It just does not care." It produces "coherence without commitment." This reframes anti-intelligence as not merely an absence of human qualities but an active production of something — polished, fluent, and fundamentally uncommitted.
+His “indifference engine” metaphor makes the related claim: "AI does not lie. It just does not care." — Extracted EPUB [ch.27 — xhtml/xhtml-0-26.xhtml]. This concerns his account of intention and personal stakes; it does not establish that AI cannot generate false or deceptive output.
 
 ## Resistant Domains
 
-Some areas remain resistant because they require irreversibility:
-- Art (commitment to expression)
-- Love (vulnerability)
-- Parenting (long-term consequences)
-- Friendship (reciprocal accountability)
+Nosta uses art, love, parenting and friendship as examples where people live with their choices over time. He does not demonstrate that these domains are immune to AI influence.
+
+## Evidence Limits
+
+These are philosophical interpretations. The January article is distinct from [[nosta-anti-intelligence-2026|Growing Up Anti-Intelligent]]. EPUB locators identify extracted document sections, not printed chapter numbers.
 
 ## Related
 
 - accountability - what anti-intelligence removes
 - authorship levels - connection to ownership
-- [[capacity-erosion]] - mechanism through abdication
+- [[capacity-erosion]] - a possible consequence Nosta's argument does not measure
 - [[cognitive-offloading]] - related phenomenon
-- [[amathia-drift]] - the process by which anti-intelligence reshapes users
-- [[minimum-cognitive-integrity]] - threshold concept for anti-intelligence's effects
-- [[fluency-bias]] - vapid brilliance as mechanism
+- [[amathia-drift]] - related philosophical account of dependence
+- [[minimum-cognitive-integrity]] - Nosta's proposed threshold for loss of agency
+- [[fluency-bias]] - related concern about treating fluent output as understanding
 
 ## Sources
 
-- Nosta, Anti-Intelligence (2026)
-- Nosta, The Borrowed Mind (2026)
-
+- Nosta, J. (2026, January 5). [Anti-Intelligence: When Thinking Has No Consequence](https://www.psychologytoday.com/gb/blog/the-digital-self/202601/anti-intelligence-when-thinking-has-no-consequence). *Psychology Today*. Commentary; no separate canonical source entry.
+- [[nosta-borrowed-mind-2026]] — Nosta, The Borrowed Mind (2026)

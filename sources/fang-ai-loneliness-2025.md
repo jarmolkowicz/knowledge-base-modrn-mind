@@ -11,13 +11,14 @@ sources:
 Fang, C.M., Liu, A.R., Danry, V., Lee, E., Chan, S.W.T., Pataranutaporn, P., Maes, P., Phang, J., Lampe, M., Ahmad, L., & Agarwal, S. (2025). How AI and Human Behaviors Shape Psychosocial Effects of Chatbot Use: A Longitudinal Randomized Controlled Study. arXiv:2503.17473v1.
 
 ## Type
-Paper
+
+Paper — four-week randomized comparison of modalities and conversation topics. Daily usage duration was not randomized, and there was no no-chatbot control.
 
 ## Key Insight
-In a 4-week RCT (N = 981, >300K messages), AI chatbot use showed complex dose-dependent psychosocial effects. Voice-based chatbots initially appeared beneficial (less loneliness, less emotional dependence vs. text), but these advantages diminished at high daily usage. Higher overall daily usage correlated with more loneliness, less socialization, greater emotional dependence, and more problematic AI use. Individual characteristics — attachment tendencies, trust in AI, prior chatbot use — strongly moderated outcomes.
+In a 4-week RCT (N = 981, >300K messages), AI chatbot use showed complex psychosocial patterns across randomized conditions and observed usage. Voice-based chatbots initially appeared beneficial (less loneliness, less emotional dependence vs. text), but these advantages diminished at high daily usage. Higher overall daily usage correlated with more loneliness, less socialization, greater emotional dependence, and more problematic AI use. Individual characteristics — attachment tendencies, trust in AI, prior chatbot use — strongly moderated outcomes.
 
 ## Relevance
-Largest and longest controlled study of AI chatbot psychosocial effects to date. Extends the KB's focus beyond cognitive risks to include relational and emotional dimensions of AI interaction. Relevant for practitioners because the boundary between "AI as tool" and "AI as social presence" is increasingly blurred, especially with voice interfaces.
+A four-week randomized comparison of chatbot modalities and conversation types. Extends the KB's focus beyond cognitive risks to include relational and emotional dimensions of AI interaction. Relevant for practitioners because the boundary between "AI as tool" and "AI as social presence" is increasingly blurred, especially with voice interfaces.
 
 ## Key Findings
 
@@ -47,5 +48,5 @@ Largest and longest controlled study of AI chatbot psychosocial effects to date.
 
 ## Supports
 - [[ai-loneliness-effect]] - defines the concept
-- [[capacity-erosion]] - extends erosion to social/relational domain: socialization with real people decreased
-- [[green-yellow-red-monitoring]] - relatedness/social signals dimension grounded in the dose-dependent findings
+- [[capacity-erosion]] - higher usage was associated with less socialization; relationship-skill erosion was not measured
+- [[green-yellow-red-monitoring]] - relatedness/social signals dimension motivated by usage associations, not a tested monitoring intervention

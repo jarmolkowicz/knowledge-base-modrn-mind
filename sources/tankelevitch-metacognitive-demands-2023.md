@@ -21,7 +21,7 @@ Paper (theoretical / synthesis; Microsoft Research + UCL + Edinburgh)
 
 ## Key Insight
 
-Tankelevitch et al. argue that GenAI's usability problems aren't fragmented (prompting issues + evaluation issues + workflow integration issues). They share a single underlying cause: **GenAI imposes high metacognitive demands** — demands on the user's ability to monitor and control their own thinking — that current systems offer little support for handling.
+Tankelevitch et al. propose a shared lens for prompting, evaluation and workflow-integration problems: **GenAI imposes high metacognitive demands** — demands on the user's ability to monitor and control their own thinking — that current systems offer little support for handling.
 
 The argument is structured around **three loci** where metacognitive demand concentrates:
 
@@ -38,7 +38,7 @@ The paper proposes two complementary intervention paths:
 
 The metacognitive framework draws from Flavell, Nelson & Narens, and others. They use a four-cell model: metacognitive **knowledge / experiences** (sources of information about one's own cognition) crossed with **monitoring / control** (abilities to assess and guide one's cognition). The four monitoring/control abilities most relevant for GenAI: **self-awareness, well-adjusted confidence, metacognitive flexibility, task decomposition**.
 
-For human thinking with AI: this is the load-bearing theoretical paper for the KB's intersection with metacognition. It argues that GenAI is *not* primarily a content-generation problem or a hallucination-management problem — it's a **metacognitive overload problem**. The user is being asked to do far more meta-level work (monitor, evaluate, recalibrate) than legacy tools required, with little system-side support. The KB's preservation cluster is in essence a metacognitive-support project.
+The framework is theoretical: its demand categories and proposed interventions organize research and design questions rather than establish comparative outcomes against legacy tools.
 
 ## Key Passages
 
@@ -62,32 +62,32 @@ For human thinking with AI: this is the load-bearing theoretical paper for the K
 
 ## Relevance
 
-The most KB-aligned theoretical paper to date — directly identifies metacognition as the lens for understanding why GenAI is hard to use well. Three contributions:
+Provides a framework connecting AI interaction design with users' planning, monitoring and evaluation. The three areas—prompting, output evaluation and automation strategy—help distinguish demands that might otherwise be treated as one usability problem.
 
-- **Diagnostic framework.** The three loci (prompting, evaluation, automation strategy) plus the four abilities (self-awareness, confidence calibration, flexibility, decomposition) give the KB a structured way to map specific AI-use problems to specific metacognitive failures. Many KB concepts ([[fluency-bias]], [[automation-bias]], [[confidence-competence-gap]], [[artificial-certainty]]) can be re-categorized as failure modes of well-adjusted confidence.
-- **Bridge from cognitive science to interaction design.** The paper sits between the KB's metacognition cluster (rooted in Flavell 1979) and applied AI methods (rooted in [[scan]], [[think-first]], [[calibration]]). Provides the explicit theoretical scaffolding linking the two.
-- **Two-direction intervention space.** "Improve user's metacognition" and "reduce system's metacognitive demand" are non-redundant levers. The KB's preservation cluster is largely the first; the design-side interventions Tankelevitch et al. propose (explainability, customizability, calibration prompts) are the second. Both can be pursued; neither is sufficient alone.
+The authors propose both supporting users' metacognition and reducing unnecessary system demands. The paper does not establish that either approach alone must fail or that metacognition explains every AI usability problem.
 
 ## Supports
 
+Connections below apply the proposed framework; they do not establish a common causal mechanism.
+
 - [[metacognition]] — applies Flavell's framework directly to GenAI
 - [[flavell-metacognition-1979]] — extends Flavell's developmental framework into the GenAI domain
-- [[calibration]] — well-adjusted confidence is the metacognitive ability the KB calls calibration
+- [[calibration]] — well-adjusted confidence is central to calibration
 - [[think-first]] — task decomposition before AI delegation = think-first as a metacognitive practice
 - [[scan]] — [[tsim-gutoreva-scan-2025]] operationalizes the "automation strategy" decision with an explicit framework
 - [[automation-bias]] — Tankelevitch's "well-adjusted confidence in evaluation" is the inverse of automation bias
-- [[fluency-bias]] — fluency overrides metacognitive monitoring; this paper's framework names exactly that
-- [[confidence-competence-gap]] — Tankelevitch's confidence-calibration framework provides the mechanism
+- [[fluency-bias]] — [Inference] the framework helps ask how processing ease might affect monitoring; it does not establish that fluency overrides it
+- [[confidence-competence-gap]] — Tankelevitch's confidence-calibration framework offers a theoretical interpretation
 - [[artificial-certainty]] — failure mode of confidence calibration when AI outputs feel definitive
 
 ## Contradicts / Extends
 
 - Companion to [[tsim-gutoreva-scan-2025]] — both papers address the "automation strategy" question; Tankelevitch frames it as a metacognitive demand, Tsim & Gutoreva propose the SCAN framework as a tool for managing it. Read together.
-- Extends [[flavell-metacognition-1979]] — Flavell named metacognition as a developmental construct; Tankelevitch et al. show it as the central construct for GenAI usability.
-- Extends [[risko-gilbert-cognitive-offloading-2016]] — Risko & Gilbert show metacognitive evaluation drives offloading decisions; Tankelevitch et al. extend the same mechanism into the GenAI context with explicit demand categories.
+- Extends [[flavell-metacognition-1979]] — Flavell named metacognition as a developmental construct; Tankelevitch et al. propose it as an organizing construct for GenAI usability.
+- Extends [[risko-gilbert-cognitive-offloading-2016]] — applies questions about metacognitive evaluation and offloading to GenAI through proposed demand categories; it does not establish an identical mechanism across settings.
 
 ## Open Questions
 
-- The paper's intervention space (improve user's metacognition + reduce system's demand) is balanced. But the *political economy* of GenAI design pushes toward reducing apparent demand at the cost of preserving genuine demand — i.e., systems become more frictionless, which hides metacognitive demands rather than supporting them. How do you build interventions that resist this gradient?
-- Metacognitive ability is heterogeneously distributed in the population. Does GenAI widen the gap between high-metacognition users (who benefit) and low-metacognition users (who get harmed)? The paper acknowledges this implicitly but doesn't quantify.
-- The four abilities (self-awareness, confidence calibration, flexibility, decomposition) are presented as separable. Empirically, are they? Or is one of them upstream — is decomposition the prerequisite for everything else?
+- Which designs reduce unnecessary effort while preserving accurate evaluation?
+- How do prior knowledge and metacognitive abilities affect outcomes?
+- How separable are self-awareness, confidence calibration, flexibility and task decomposition in practice?

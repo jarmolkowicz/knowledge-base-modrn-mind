@@ -18,7 +18,7 @@ Paper (peer-reviewed Perspective in Nature; argumentation synthesizing cognitive
 
 ## Key Insight
 
-When AI tools enter scientific knowledge production as collaborators, they do not just save time — they make researchers susceptible to a class of metacognitive errors the authors call **illusions of understanding**. Three illusions are named: explanatory depth (overestimating how much you understand a phenomenon), exploratory breadth (mistaking the hypotheses AI can test for the full hypothesis space), and objectivity (mistaking the standpoint embedded in AI tools for no standpoint at all). At a system level, these illusions cultivate **scientific monocultures** — homogenization of methods, questions, and standpoints — and "the proliferation of AI tools in science risks introducing a phase of scientific enquiry in which we produce more but understand less" [p.1].
+Messeri and Crockett propose that AI use in science can encourage three illusions of understanding: explanatory depth, exploratory breadth and objectivity. They argue that these individual risks may contribute to scientific monocultures of methods, questions and standpoints. This Perspective synthesizes prior literature; it does not directly measure the emergence of AI-driven scientific monocultures.
 
 ## Key Passages
 
@@ -42,6 +42,8 @@ When AI tools enter scientific knowledge production as collaborators, they do no
 
 ## Argument Structure
 
+The following summarizes the authors' argument and proposals, not a new empirical test.
+
 **1. Four visions of AI in research** (p.1–3, Table 1):
 - **AI as Oracle** — searches, evaluates, summarizes literature; generates hypotheses. Solves: "too much literature to digest."
 - **AI as Surrogate** — generates synthetic data, including AI-simulated human participants. Solves: "data too difficult/expensive to obtain."
@@ -62,11 +64,11 @@ The four visions reinforce each other: Surrogates produce data that Quants analy
 - **Illusion of objectivity** [p.7, Fig. 1c] — scientists believe AI tools either have no standpoint (Oracles, Arbiters) or represent all standpoints (Surrogates). In fact AI tools embed the standpoints of their training data and developers. This is "weak objectivity" — failing to recognize that standpoints exist at all — masquerading as a "view from nowhere."
 
 **4. Scientific monocultures** (p.5–7):
-The agricultural metaphor: planting one crop is efficient but vulnerable. Two parallel monocultures emerge:
+The agricultural metaphor: planting one crop is efficient but vulnerable. The authors propose two possible forms:
 - **Monocultures of knowing** — one approach to asking research questions dominates, marginalizing alternatives. AI-driven research favours the quantitative, reductive, predictive, generalizable — at the expense of qualitative, contextual, interpretive approaches. Especially severe in human sciences where AI Surrogates threaten to displace contextual ways of knowing.
 - **Monocultures of knowers** — one type of knower (one set of standpoints) dominates. Historically, science was demographically homogeneous; this only became visible as the field diversified. AI threatens to *re-homogenize* the ecosystem by embedding the standpoints of its (mostly homogeneous) creators while presenting them as universal.
 
-Cognitively and demographically diverse teams produce better, more impactful, more innovative science (citing decades of empirical work, refs 122–124, 159–168). AI as a "domain-expertise expander" trades this diversity for productivity.
+Cognitively and demographically diverse teams produce better, more impactful, more innovative science (citing decades of empirical work, refs 122–124, 159–168). The authors warn that using AI as a domain-expertise substitute could trade diversity for productivity.
 
 **5. Prescriptions** (p.7–8):
 - Be specific about which vision (Oracle/Surrogate/Quant/Arbiter) is being invoked; risks differ by vision.
@@ -78,41 +80,35 @@ Cognitively and demographically diverse teams produce better, more impactful, mo
 
 ## Relevance
 
-This paper is the most cited cross-disciplinary articulation in *Nature* of the epistemic-risk side of the AI-in-knowledge-work debate. For the KB, it does four things:
-
-1. Names three distinct illusions of understanding tied to AI use, only one of which (`[[illusion-of-explanatory-depth]]`) was already implicit in the KB. The other two (`[[illusion-of-exploratory-breadth]]`, `[[illusion-of-objectivity]]`) fill genuine gaps.
-2. Provides a system-level analogue to `[[confidence-competence-gap]]` and `[[artificial-certainty]]`. Where those entries operate at individual and organizational scale, Messeri & Crockett operate at the scale of a knowledge-production community.
-3. Introduces the **scientific monoculture** construct, which extends `[[creativity-diversity-paradox]]` (output-level homogenization) and `[[leveling-effect]]` (individual capability convergence) into the structural homogenization of *what questions get asked* and *whose standpoints count*.
-4. Offers a usable diagnostic in the four-vision taxonomy (Oracle/Surrogate/Quant/Arbiter) — extracted as the method `[[ai-vision-taxonomy]]`.
-
-The paper's voice is well-aligned with KB voice: no hype, careful uncertainty, AI as augmentation that can also degrade, explicit about the inseparability of social and technical risks. It anchors KB claims about AI's effects on knowledge work in a top-tier peer-reviewed source.
+Distinguishes individual feelings of understanding from the diversity of a scientific community's questions and perspectives. The four-vision taxonomy—Oracle, Surrogate, Quant and Arbiter—helps state which use of AI a risk claim concerns. The proposed community-level effects require evidence beyond individual task studies.
 
 ## Supports
+
+The source proposes the taxonomy and risks below. Connections to other constructs are interpretive, not tests of a shared mechanism.
 
 - [[illusion-of-explanatory-depth]] — names the foundational construct (Rozenblit & Keil 2002 cog-psy; this paper applies it to AI-in-science).
 - [[illusion-of-exploratory-breadth]] — paper-original concept; this is its primary source.
 - [[illusion-of-objectivity]] — paper-original concept; this is its primary source.
 - [[scientific-monoculture]] — paper-original construct unifying monocultures of knowing and monocultures of knowers.
 - [[ai-vision-taxonomy]] — Oracle/Surrogate/Quant/Arbiter framework for diagnosing AI-use risks by research-pipeline stage.
-- [[confidence-competence-gap]] — system-level extension; the illusion of explanatory depth in AI-assisted science is the same mechanism at community scale.
+- [[confidence-competence-gap]] — system-level extension; the illusion of explanatory depth in AI-assisted science poses a related question at community scale.
 - [[borrowed-certainty]] — fluent quantitative outputs from AI Quants are mistaken for personally earned understanding.
 - [[artificial-certainty]] — Leonardi/Leavell's organizational variant; Messeri & Crockett work one level up at the knowledge-production-community level.
 - [[fluency-bias]] — AI's reductive, quantitative, simple-feeling outputs trigger fluency-driven trust, which the paper names directly: "reductive and quantitative explanations tend to produce feelings of understanding, [but] such feelings are not always correlated with actual understanding."
 - [[creativity-diversity-paradox]] — output-level homogenization; Messeri & Crockett's monocultures-of-knowing concept extends this to method-level and question-level homogenization.
-- [[leveling-effect]] — individual-level convergence; scales up to monocultures.
+- [[leveling-effect]] — individual-level convergence; any extension to monocultures is a hypothesis.
 - [[metacognition]] — illusions of understanding are explicitly framed as metacognitive errors.
-- [[novice-vulnerability]] — the paper notes AI is most trusted (and most dangerous) when used outside one's domain of expertise.
+- [[novice-vulnerability]] — the paper discusses heightened trust and risk when used outside one's domain of expertise.
 
 ## Contradicts / Extends
 
-- Extends: [[leonardi-artificial-certainty-2026]] — Leonardi & Leavell describe AI-induced false certainty at the organizational level (urban planning stakeholders mistaking simulations for reality). Messeri & Crockett operate one level up: AI-induced false certainty at the level of an entire scientific community / knowledge-production system. Same mechanism (representations stripped of uncertainty markers feel authoritative), different unit of analysis. The two work as nested complements.
-- Extends: [[doshi-hauser-creativity-diversity-2024]] and [[anderson-homogenization-2024]] — those papers document output-level homogenization (more similar essays/ideas). Messeri & Crockett extend the diagnosis to *upstream* homogenization: AI does not only narrow what gets produced; it narrows which questions get asked and which standpoints inform the asking.
-- Does not contradict any existing source. The most adjacent — `[[fernandes-metacognition-2025]]` (AI use uniformly inflates self-estimates of reasoning ability) — provides micro-level empirical support for the "illusion of explanatory depth" mechanism Messeri & Crockett describe at macro level.
+- [[leonardi-artificial-certainty-2026]] concerns organizational certainty. [Inference] It offers a related question at a different unit of analysis, not proof of the same mechanism.
+- [[doshi-hauser-creativity-diversity-2024]] and [[anderson-homogenization-2024]] measure output similarity. They do not establish narrowing of scientific questions or standpoints.
+- [[fernandes-metacognition-2025]] concerns self-assessment in reasoning tasks. Its individual-level findings do not validate the Perspective's community-level predictions.
 
 ## Open Questions
 
 - Do empirical studies of AI-induced illusions of understanding generalize from individuals to scientific communities? Messeri & Crockett's argument is largely theoretical at the community level; the empirical anchors are individual-level studies (illusion of explanatory depth, [[automation-bias]], etc.). [Inference] We need observational studies of citation networks, methodological diversity, and standpoint diversity in AI-heavy fields to test the monoculture prediction directly.
-- Does domain expertise protect against illusions of understanding in AI-assisted science? The authors flag this as an open question (Box 3). The KB-side neighbor `[[novice-vulnerability]]` would predict yes; `[[fernandes-metacognition-2025]]` finds higher self-rated AI literacy correlates with *worse* metacognitive accuracy, complicating the picture.
+- Does domain expertise protect against illusions of understanding in AI-assisted science? The authors flag this as an open question (Box 3). [[novice-vulnerability]] suggests one hypothesis; `[[fernandes-metacognition-2025]]` finds higher self-rated AI literacy correlates with *worse* metacognitive accuracy, complicating the picture.
 - Are there protective interventions specifically for the exploratory-breadth illusion? The paper's prescriptions (diverse teams, vision-naming) target the monoculture-of-knowers side more than the monoculture-of-knowing side. [Speculation] Pre-registration that requires articulating which hypotheses are *not* being tested with AI, and why, would be one operationalization.
-- The prediction–explanation fallacy is mentioned but not developed. [Inference] This may be a candidate for a separate KB entry as the AI-era applicability grows.
-
+- How can studies distinguish accurate prediction from an adequate causal explanation?

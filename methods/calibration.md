@@ -56,9 +56,9 @@ sources:
 
 **When uncertain:** Default to Think-First.
 
-[Inference] **Team calibration question:** "What evidence supports my view of when this AI is likely to succeed or fail?" The prior causal claim attributed to Gonzalez et al. (2026) remains unverified because a matching local original was not found.
+[Inference] **Team calibration question:** "What evidence supports my view of when this AI is likely to succeed or fail?"
 
-**Provisional team-calibration prompts:** [Unverified source] Earlier attribution to Gonzalez et al. (2026) has not been verified. Treat the following as proposals, not a tested five-principle intervention.
+**Provisional team-calibration prompts:**
 
 [Inference] Teams can use these discussion prompts; none is a proven safeguard:
 
@@ -85,9 +85,9 @@ Before each task, locate yourself in SCAN zones:
 
 [Inference] The proposed pause creates an opportunity to consider reliance. Whether this combined practice improves [[metacognition]] or preserves skills needs evaluation.
 
-CHI 2024 research frames calibration as "metacognitive skill"—the psychological ability to monitor (assess quality of thinking) and control (adjust strategy based on assessment). This positions calibration as trainable through deliberate practice with feedback.
+Tankelevitch et al. (2024) frame monitoring and adjusting one's thinking as metacognitive skills. Their paper motivates support for these skills; it does not test whether this calibration practice improves them.
 
-[Unverified source] The previously claimed Gonzalez et al. (2026) evidence does not have a matching local original. This entry does not establish that calibrated trust is the necessary or sufficient condition separating successful and unsuccessful teams.
+Calibrated trust is not established here as a necessary or sufficient condition for team success.
 
 Tankelevitch et al. (2024) propose metacognitive support for prompting, evaluation and workflow choices. This is a design rationale, not a trial of the combined procedure above. Effects of explanations, uncertainty displays or exposure to AI errors depend on the task and user; none is a universal calibration aid.
 
@@ -130,4 +130,3 @@ Kahneman and Klein (2009) identify two necessary conditions for skilled intuitio
 - [[jowsey-reflexive-qualitative-research-2025]] — Jowsey, T., Braun, V., Clarke, V., Lupton, D., & Fine, M. (2025). We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research. Qualitative Inquiry. doi:10.1177/10778004251401851
 - [[kahneman-klein-intuitive-expertise-2009]] — Kahneman, D., & Klein, G. (2009). Conditions for intuitive expertise: A failure to disagree. American Psychologist, 64(6), 515–526. doi:10.1037/a0016755
 - [[luettgau-ai-advice-wellbeing-2026]] — Luettgau et al. (2026)
-

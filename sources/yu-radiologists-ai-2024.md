@@ -20,7 +20,7 @@ Paper (large-scale diagnostic study; two-design experimental, 140 radiologists, 
 
 ## Key Insight
 
-Yu et al. provide the cleanest specialist-population evidence on AI assistance heterogeneity to date: same AI, same radiologists, same tasks — treatment effects span both substantial improvement and substantial degradation, ranging from −1.295 to +1.440 (IQR 0.797) on aggregated pathologies and from −8.914 to +5.563 (IQR 3.245) on the high-prevalence "abnormal" task. Crucially, no experience-based or skill-based predictor reliably identifies who benefits and who is harmed: years of experience, subspecialty in thoracic radiology, experience with AI tools, and direct unassisted-error performance all fail. The strongest predictor is *AI error itself* — radiologist performance degrades roughly linearly with AI prediction error, and AI predictions with absolute error >80 produce a treatment effect of −16.845 absolute-error points. The paper's structural implication: complementarity between expert human and AI is not a default outcome of combining the two; it must be measured per-radiologist under realistic deployment conditions before deciding who receives AI assistance.
+Yu et al. study variation in AI assistance effects among radiologists: same AI, same radiologists, same tasks — treatment effects span both substantial improvement and substantial degradation, ranging from −1.295 to +1.440 (IQR 0.797) on aggregated pathologies and from −8.914 to +5.563 (IQR 3.245) on the high-prevalence "abnormal" task. Crucially, no experience-based or skill-based predictor reliably identifies who benefits and who is harmed: years of experience, subspecialty in thoracic radiology, experience with AI tools, and direct unassisted-error performance all fail. A strong case-level correlate is *AI error itself* — radiologist performance degrades roughly linearly with AI prediction error, and AI predictions with absolute error >80 produce a treatment effect of −16.845 absolute-error points. The authors recommend: complementarity between expert human and AI is not a default outcome of combining the two; it must be measured per-radiologist under realistic deployment conditions before deciding who receives AI assistance.
 
 ## Key Passages
 
@@ -47,37 +47,29 @@ Yu et al. provide the cleanest specialist-population evidence on AI assistance h
 
 ## Relevance
 
-Three load-bearing contributions to the KB:
+Shows substantial variation in the effect of the same AI assistance across specialist readers and cases. Experience, subspecialty, AI familiarity and unassisted performance did not reliably predict individual benefit in this setup.
 
-- **Heterogeneity at expert scale.** The KB's automation-bias and complementarity literature has been built largely on lab studies, mid-skill knowledge workers, and meta-analytic synthesis. Yu et al. contribute large-N, peer-reviewed, specialist-context evidence (140 board-certified radiologists, randomized two-design study, real chest X-rays from Stanford's healthcare system) that the same AI on the same tasks produces substantively different effects across experts. This is what [[human-ai-complementarity]] needs to ground its "not a default outcome" claim in expert practice.
-
-- **Negative finding on conventional predictors.** Years of experience, subspecialty, and AI-tool familiarity all fail to predict who benefits — and unassisted error does not either. This complicates the simple "AI levels up novices" frame underlying parts of [[novice-vulnerability]] and the "experts under-adopt" frame in [[paradox-of-expertise]]. In this specialist context, neither story holds at the individual level. The implication is uncomfortable for prescriptive frameworks: "give AI to the lower-performers first" and "experts will know whether AI helps them" are both empirically unsupported in this study.
-
-- **AI-error dose-response.** [[automation-bias]] and [[goddard-automation-bias-2012]] give a 26% RR-of-following-bad-advice baseline. Yu et al. provide a specialist-population dose-response curve: as AI absolute error rises through five bins, radiologist treatment effect declines from +0.679 to −16.845. The direction-of-error finding (underestimation > overestimation, holding absolute error constant) sharpens the KB's understanding of which AI failure modes are most harmful.
-
-The methodological lesson — that without split sampling, a "hallucinated association" between unassisted error and treatment effect appears [p.5] — is also a calibration warning the KB inherits implicitly: many AI-in-medicine studies that report "lower performers benefit more" may be statistical artifacts of regression to the mean.
+Larger AI errors were associated with worse assistance effects. Error magnitude itself was not randomized; the relationship should not be treated as an experimentally assigned dose. The paper also shows why shared measurement noise can create misleading associations between baseline performance and treatment effects (p.5).
 
 ## Supports
 
-- [[automation-bias]] — Yu provides specialist-context, dose-response evidence: AI absolute error >80 yields treatment effect −16.845; underestimating AI predictions yield better outcomes than overestimating ones. Generalizes Goddard's 26% RR finding into a continuous error-vs-harm curve in radiology.
-- [[human-ai-complementarity]] — direct empirical demonstration that complementarity is heterogeneous and individual-level: same AI, same expert population, same tasks, treatment effects span both improvement and degradation. Complementarity is not a default outcome; it must be measured.
-- [[novice-vulnerability]] — counter-evidence sharpening the entry: in this specialist context, lower-performing radiologists did not consistently benefit more from AI. The "AI as leveler" claim from Bastani et al. (2025) and others does not generalize uniformly to expert populations.
-- [[paradox-of-expertise]] — Yu's failure of experience-based predictors complicates the entry's "experts under-adopt because of overestimated expertise" framing. In Yu's setup all radiologists used AI when assigned; experience did not predict whether the use helped or hurt them. The paradox needs a sharper specification of which experience-related failure modes it covers.
-- [[upskilling-deskilling-paradox]] — direction-of-error texture: AI predictions that underestimate probabilities lead to better treatment effects than equally-erroneous overestimating predictions. Implies the upskilling/deskilling tilt depends partly on the failure-mode profile of the AI tool, not just on user behavior.
-- [[calibration]] — practical implication: trust calibration must be measured per-individual under realistic deployment conditions; experience-based heuristics for "who is well-calibrated" don't work.
-- [[partial-automation-principle]] — Yu's data argue against "give AI to all radiologists" wholesale rollouts; targeted deployment based on per-radiologist measured benefit is the operational implication.
-- [[leveling-effect]] — Yu provides specialist-context counter-evidence: lower-performing radiologists did not consistently benefit more from AI; the leveling effect documented in novice/student populations does not generalize uniformly to expert cohorts.
+- [[automation-bias]] — inaccurate AI predictions can mislead specialists; this is a distinct design from [[goddard-automation-bias-2012]].
+- [[human-ai-complementarity]] — benefit from assistance was heterogeneous; assistance gains alone do not establish synergy over both parties alone.
+- [[novice-vulnerability]], [[paradox-of-expertise]] and [[leveling-effect]] — conventional expertise and baseline-performance measures did not reliably predict benefit here.
+- [[upskilling-deskilling-paradox]] — adjacent question; skill development or loss was not measured.
+- [[calibration]] — [Inference] supports evaluating response to a specific tool rather than relying only on experience proxies.
+- [[partial-automation-principle]] — [Inference] deployment choices need evaluation; this study did not compare all partial-automation designs.
 
 ## Contradicts / Extends
 
-- Extends [[goddard-automation-bias-2012]] — Goddard's systematic review of 74 CDSS studies established the 26% increased risk of following bad automated advice. Yu provides a continuous dose-response in a single specialist population: error magnitude scales the harm, and direction of error matters.
-- Complements [[bauer-discontinuing-ml-2022]] — Bauer studies new-skill development and a post-removal gap followed by catch-up; Yu studies assisted diagnostic performance. Different designs and measures, not joint evidence of two established lasting skill-loss mechanisms.
-- Complicates [[bastani-guardrails-math-rct-2025]]'s leveling story — Bastani found vanilla GPT-4 access produced large gains for weaker math students that disappeared on unassisted exam. Yu's specialist data find no consistent leveling effect at all: lower-performing radiologists did not benefit more on assisted tasks. The leveling finding may be domain- and skill-stage-specific.
-- Companion to [[passalacqua-less-ai-2024]] — Passalacqua: practice with less AI builds skill better. Yu: among already-skilled experts, individual response to AI is heterogeneous and unpredictable from experience alone. Together: skill formation needs less AI; skilled use of AI needs individual measurement.
+- [[goddard-automation-bias-2012]] reviews different clinical decision-support evidence. Its reported risk estimate is not a universal baseline for this continuous-error analysis.
+- [[bauer-discontinuing-ml-2022]] studies learning and performance after assistance removal; these are different outcomes.
+- [[bastani-guardrails-math-rct-2025]] concerns students, mathematics and a different assistance design. Neither study establishes a universal rule about who gains most.
+- [[passalacqua-less-ai-2024]] tests automation levels in a separate task. Together the studies motivate task-specific evaluation, not a rule that learning always requires less AI.
 
 ## Open Questions
 
-- The randomization design prevented analysis of temporal trends — Yu et al. could not test whether radiologists improved at incorporating AI predictions over time. The KB's question — does deliberate practice with AI close the heterogeneity gap, or is the spread structural? — is not answered by this study.
+- The randomization design prevented analysis of temporal trends — Yu et al. could not test whether radiologists improved at incorporating AI predictions over time. The question — does deliberate practice with AI close the heterogeneity gap, or is the spread structural? — is not answered by this study.
 - The AI assistance was probability-only; no explanations, no localizations, no nuanced text reports. Yu et al. flag (p.11) that explanation-rich AI may yield different patterns. The "what AI presentation reduces harm at high error rates" question is open.
 - Why do experience-based predictors fail? Yu et al. speculate (p.11) about cognitive abilities, adaptability, and decision-making style as untested candidates. The negative result is robust; the mechanistic story is not.
 - The sample contains only radiologists (specialist medical imaging). Generalizability to other professional populations (radiographers without specialty training, primary-care physicians using imaging AI, non-medical specialist work) is not tested.

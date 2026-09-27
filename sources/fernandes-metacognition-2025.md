@@ -40,7 +40,7 @@ A Bayesian model decomposed performance estimates into bias (*b_k*) and noise (*
 - **AI group**: *b_AI* median = 0.45 (95% HDI [0.32, 0.60]); *σ_AI* median = 1.01 (95% HDI [0.84, 1.19]).
 - **No-AI group**: *b_noAI* median = 0.23 (95% HDI [0.21, 0.25]); *σ_noAI* median = 1.78 (95% HDI [1.69, 1.88]).
 - 99% of posterior samples for bias were larger in the AI group; 0% overlap of *σ* posteriors.
-- Interpretation: AI augmentation flattens skill differences, so the pattern of "low performers overestimate more, high performers underestimate" disappears. Everyone overestimates roughly equally.
+- Interpretation: AI augmentation flattens skill differences, so the pattern of "low performers overestimate more, high performers underestimate" disappears. The modeled relationship between skill and overestimation was flatter; this does not describe every participant.
 - Study 2 replicated the bias finding under randomization; the σ pattern weakened with the smaller sample but trended in the same direction.
 
 **The AI-literacy paradox**
@@ -84,14 +84,14 @@ The authors recommend three classes of intervention: confidence-calibration inte
 
 ## Relevance
 
-This is the primary empirical anchor the KB needs for several existing concepts that previously rested on theoretical or secondary citations. It quantifies the confidence-competence gap under generative-AI use (approximately four-point overestimation; not a one-point residual after subtracting a performance gain), provides the first computational-model decomposition of metacognitive bias and noise in the KB, and reports the counterintuitive AI-literacy result. It also resolves the deferred secondary source `dolan-competence-assessment-2025` (a PsyPost summary of this paper, currently DEFER in `raw/`).
+The study separates assisted performance from metacognitive self-assessment. It quantifies the confidence-competence gap under generative-AI use (approximately four-point overestimation; not a one-point residual after subtracting a performance gain), models metacognitive bias and noise separately, and reports the counterintuitive AI-literacy result.
 
 ## Supports
 
 - [[confidence-competence-gap]] — reports approximately four-point overestimation, the Bayesian bias/noise decomposition, the DKE-flattening finding, and the AI-literacy paradox
 - [[metacognition]] — weak confidence–correctness discrimination in both groups; AUC does not establish AI-caused decline
 - [[calibration]] — cross-study bonus comparison; reflective interventions proposed, not shown necessary or effective here
-- [[fluency-bias]] — the AI-literacy paradox is framed as [[illusion-of-explanatory-depth|illusion of explanatory depth]]: technical-fluency knowledge inflates perceived ability without improving discrimination
+- [[fluency-bias]] — the AI-literacy paradox is framed as [[illusion-of-explanatory-depth|illusion of explanatory depth]]: higher self-rated AI literacy was associated with overestimation, not shown to cause it
 - [[automation-bias]] — prompting and monitoring measures raise questions about reliance; a causal explanation was not isolated
 - [[metacognitive-demand]] — explicitly cites Tankelevitch et al. (2024) and provides the empirical follow-up they called for
 

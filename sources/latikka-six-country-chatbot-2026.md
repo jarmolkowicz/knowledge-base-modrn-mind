@@ -22,7 +22,7 @@ Paper (cross-sectional cross-national survey; logistic + robust linear regressio
 
 ## Key Insight
 
-A six-country survey of European adults (Finland, France, Germany, Ireland, Italy, Poland; total N = 5,663) finds two cross-culturally robust associations with social chatbot ("chatbot friend") use: users are younger than nonusers in every country (p < .001 throughout), and chatbot use is positively associated with psychological distress in every country (full-model p ranging from .044 to <.001). Loneliness is associated with chatbot use in 4/6 countries (France, Germany, Italy, Poland) but not Finland or Ireland. Self-esteem reaches significance only in France (positive). Frequency of face-to-face social contact is *not* associated with chatbot use in any country — challenging a simple "displacement" framing on the objective social-contact dimension.
+A six-country survey of European adults (Finland, France, Germany, Ireland, Italy, Poland; total N = 5,663) finds two cross-culturally robust associations with social chatbot ("chatbot friend") use: users are younger than nonusers in every country (p < .001 throughout), and chatbot use is positively associated with psychological distress in every country (full-model p ranging from .044 to <.001). Loneliness is associated with chatbot use in 4/6 countries (France, Germany, Italy, Poland) but not Finland or Ireland. Self-esteem reaches significance only in France (positive). Frequency of face-to-face social contact is *not* associated with chatbot use in any country — challenging a simple "displacement" framing on the reported social-contact frequency.
 
 ## Key Passages
 
@@ -106,25 +106,25 @@ A six-country survey of European adults (Finland, France, Germany, Ireland, Ital
 
 ## Relevance
 
-Three load-bearing contributions:
+Three contributions:
 
 - **Adds the cross-cultural breadth the [[ai-loneliness-effect]] cluster has lacked.** [[fang-ai-loneliness-2025]] is US-leaning (MIT/OpenAI sample); [[folk-dunn-companionship-loneliness-2026]] is UK/US/Canada/Australia (Anglophone Western); [[folk-heine-dunn-anthropomorphism-2025]] is US/Canada Prolific. Latikka et al.'s six EU countries — including East-European Poland and South-European Italy alongside Nordic and West-European samples — is the first study in the cluster to test generalizability across substantially different cultural and digital-skill contexts. The age + distress associations replicate everywhere; loneliness association is more variable.
-- **Refines the displacement framing.** Frequency of face-to-face social contact does *not* predict chatbot use in any country. The association lives in subjective loneliness and distress, not in objective social-contact volume. This is consistent with the substitution arm of [[mira-model]] principle 4 in a particular way: users with adequate human contact who nonetheless feel lonely or distressed are who turn to chatbots, not users objectively isolated from others.
+- **Refines the displacement framing.** Frequency of face-to-face social contact does *not* predict chatbot use in any country. The association lives in subjective loneliness and distress, not in reported social-contact volume. This is consistent with the substitution arm of [[mira-model]] principle 4 in a particular way: the data do not establish why individuals turn to chatbots or whether their amount of contact is adequate.
 - **Country-level variation as a research signal.** Loneliness × chatbot association is significant in France, Germany, Italy, Poland, but not Finland or Ireland; self-esteem only in France; technology attitude in 4/6 countries. The variation itself is a finding — practitioners deploying chatbot interventions across populations cannot assume uniform user profiles or uniform well-being correlates. Authors flag national-context examination as necessary follow-up.
 
 ## Supports
 
-- [[ai-loneliness-effect]] — adds six-country observational evidence for the dose-response cluster; replicates the higher-distress association across all six samples and the loneliness association in 4/6 samples; strengthens the cross-cultural generalizability claim.
+- [[ai-loneliness-effect]] — adds six-country observational evidence on binary user/non-user differences; replicates the higher-distress association across all six samples and the loneliness association in 4/6 samples; strengthens the cross-cultural generalizability claim.
 - [[anthropomorphism-of-technology]] — sibling paper [[folk-heine-dunn-anthropomorphism-2025]] flagged cultural variation in attitudes toward social chatbots as an open question; Latikka et al.'s country-level prevalence and well-being-correlate variation supplies preliminary cross-cultural data, though without measuring anthropomorphism directly.
-- [[mira-model]] — empirical evidence on principle 4 (relational substitution vs. enhancement). The objective-vs-subjective distinction (face-to-face contact n.s.; subjective loneliness/distress significant) sharpens MIRA's substitution mechanism toward perceived rather than enacted social deficit.
+- [[mira-model]] — empirical evidence on principle 4 (relational substitution vs. enhancement). Both contact and distress were self-reported. These associations do not establish MIRA's substitution mechanism.
 - [[capacity-erosion]] — younger users disproportionately represented among chatbot users in every country aligns with the population-distribution concerns articulated in the loneliness cluster.
 
 ## Contradicts / Extends
 
-- **Extends** [[fang-ai-loneliness-2025]]'s individual-vulnerability findings to a cross-cultural population. Where Fang documents dose-dependent within-experiment effects, Latikka et al. document cross-sectional between-person differences across six national contexts.
+- **Extends** [[fang-ai-loneliness-2025]]'s individual-vulnerability findings to a cross-cultural population. Where Fang reports usage associations within a randomized modality/topic study, Latikka et al. document cross-sectional between-person differences across six national contexts.
 - **Extends** [[folk-dunn-companionship-loneliness-2026]] geographically — adds continental-Europe evidence to that paper's UK/US/Canada/Australia sample. Direction-consistent: users tend toward higher loneliness, not lower (in 4/6 countries).
 - **Refines** [[folk-heine-dunn-anthropomorphism-2025]]'s open generalizability question. Latikka et al. do not measure anthropomorphism, but supply six-country variation in chatbot uptake and well-being correlates that any future cross-cultural test of anthropomorphism's moderating role should account for.
-- **Complicates** simple "AI displaces human contact" narratives. Frequency of face-to-face social contact is uncorrelated with chatbot use across all six countries — chatbot use lives in the subjective-loneliness/distress register, not the objective-isolation register.
+- **Complicates** simple "AI displaces human contact" narratives. No statistically significant association between reported face-to-face contact frequency and chatbot use was detected in these samples — the measured contact-frequency variable was self-reported, not an objective measure of isolation, and the null association does not rule out displacement.
 - Consistent with [[boyd-markowitz-human-connection-2026]]'s framing that AI relational use is moderated by user disposition (here: age, distress, country-specific factors).
 
 ## Open Questions

@@ -17,9 +17,9 @@ sources:
 
 A provisional design synthesis organizing human–AI collaboration around reasoning, memory, attention and coordination. Its five principles are suggestions for designing and evaluating a workflow, not a validated recipe for outperforming humans or AI alone.
 
-## Author
+## Evidence Status
 
-[Unverified source] Earlier versions attributed this framework to Gonzalez, Donahue, Goldstein, Heidari, Jalali, Schelble, Singh and Woolley (2026), in PNAS Nexus. The local audit found no matching original or source entry. That attribution remains unverified; do not cite it as a confirmed publication. The linked studies below support specific observations, not authorship or validation of the complete framework.
+This entry presents an editorial design synthesis. Its four components and five principles are untested proposals. The linked studies support specific observations, not authorship or validation of the complete framework.
 
 ## Core Idea
 
@@ -27,8 +27,10 @@ Human–AI combinations do not automatically beat the better of the human-only a
 
 ## Key Components
 
+[Inference] These are proposed roles to design and evaluate, not established capabilities of every AI system.
+
 - **Reasoning**: AI clarifies goals, surfaces assumptions, flags misalignments, generates alternative hypotheses. Humans provide contextual judgment, ethical authority, and accountability. [Inference] Compare active checking with other interaction designs; superiority is not established here.
-- **Memory**: AI serves as institutional memory — storing, retrieving, cross-referencing, and tracking expertise ("who knows what"). Humans contribute tacit, experiential, and embodied knowledge and validate AI-retrieved information. Together they form a transactive memory system.
+- **Memory**: AI serves as institutional memory — storing, retrieving, cross-referencing, and tracking expertise ("who knows what"). Humans contribute tacit, experiential, and embodied knowledge and validate AI-retrieved information. Together they may support a transactive memory system; whether they do so requires evaluation.
 - **Attention**: AI provides always-on scanning, anomaly detection, prioritization, and misinformation filtering. Humans contribute contextual interpretation, novelty detection, and judgment about when to redirect focus. Over-reliance on AI monitoring risks human disengagement.
 - **Meta-Coordination and Governance**: Humans design team architecture — escalation paths, decision rights, division of labor. AI upholds procedural reliability through monitoring and workflow coordination. Human judgment guides adaptation; AI may help with consistency, but its contribution must be evaluated.
 
@@ -57,7 +59,7 @@ Ali et al. (2025) map organizational context alongside user expertise and AI cap
 
 ## Strengths
 
-- Integrates insights across cognitive science, human factors, organizational behavior, AI alignment, and ethics — genuinely interdisciplinary
+- Integrates insights across cognitive science, human factors, organizational behavior, AI alignment, and ethics
 - Connects specific observations from linked research to provisional design questions
 - Makes complementarity an outcome to test, not assume
 - Maintains human ethical authority as non-negotiable
@@ -98,4 +100,3 @@ Agent-only collectives require separate evidence from human-AI teams. In Liu's s
 - [[liu-agentic-ai-organizational-behavior-2026]] — Liu, C. (2026). The Organizational Behavior of Agentic AI: Context, Boundaries, and Collective Intelligence in Human-Agent Workflows. arXiv:2606.30986v1.
 - [[ali-human-ai-knowledge-ecosystems-2025]] — Ali, I., Nguyen, K., Ali, A. M., & Cui, T. (2025). Human–AI collaboration in knowledge ecosystems: A multidisciplinary review, integrative framework and future directions. Journal of Knowledge Management. https://doi.org/10.1108/JKM-03-2025-0431
 - [[schmutz-ai-teaming-2024]] — Schmutz, J. B., Outland, N., Kerstan, S., Georganta, E., & Ulfert, A.-S. (2024). AI-teaming: Redefining collaboration in the digital era. Current Opinion in Psychology, 58, 101837. https://doi.org/10.1016/j.copsyc.2024.101837
-

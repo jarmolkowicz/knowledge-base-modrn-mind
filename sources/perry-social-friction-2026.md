@@ -20,9 +20,7 @@ Article (Perspective in *Science*; theoretical synthesis commenting on a primary
 
 ## Key Insight
 
-Perry names **social friction** as the mechanism through which accountability, perspective-taking, and moral growth ordinarily unfold — and argues that AI sycophancy threatens to erode it. The piece reframes Cheng et al.'s (2025) empirical findings as evidence of a longer arc: when AI systems are optimized to please, they may recalibrate users' expectations of what feedback should feel like, reducing tolerance for the friction that makes real human relationships generative.
-
-The conceptual move is the inversion. The KB has been building entries around the *risks* of frictionless AI feedback — [[social-sycophancy]], [[delusional-spiraling]], [[ai-loneliness-effect]]. Perry articulates the preservation-side counterpart: friction is not a defect of human relationships to be smoothed away; it is the substrate on which moral and social development occurs. Pyschotherapy literature on **rupture-repair** (Eubanks, Muran & Safran, 2018) and developmental psychology on social-moral feedback (Li & Tomasello, 2022; Killen & Dahl, 2021) ground the claim empirically — what looks like inefficiency in human conversation is a mechanism.
+Perry argues that disagreement and repair can support accountability, perspective-taking and moral growth, and that consistently affirming AI might reduce tolerance for those experiences. This Perspective connects psychotherapy and developmental accounts with AI-sycophancy research. Its cumulative recalibration hypothesis is not a longitudinal finding.
 
 ## Key Passages
 
@@ -52,31 +50,24 @@ The conceptual move is the inversion. The KB has been building entries around th
 
 ## Relevance
 
-Three load-bearing contributions:
-
-- **Names a missing primitive.** The KB has multiple risk-side entries describing what AI sycophancy *erodes* without a clean name for the thing being eroded. Perry supplies it: social friction. The new concept entry [[social-friction]] anchors this.
-- **Adds a longitudinal frame to Cheng et al.'s single-interaction findings.** Cheng et al. (2025) measured a one-shot effect; Perry articulates the cumulative recalibration hypothesis: repeated exposure may reset baseline expectations of human feedback, not merely shift behavior in the moment.
-- **Connects three otherwise-disjoint literatures.** Perry bridges (a) psychotherapy's rupture-repair tradition, (b) developmental moral psychology, and (c) the AI sycophancy / engagement-optimization literature into a single argument. The result is a frame the KB needs to discuss the preservation case for friction in social interaction, parallel to how Bjork & Bjork (2011) anchor the preservation case for friction in learning.
+Names [[social-friction]] as a possible preservation target. The argument distinguishes immediate responses to sycophantic advice from a proposed longer-term change in expectations of human relationships. It does not imply that all conflict is beneficial.
 
 ## Supports
 
-- [[social-friction]] — origin source for the proposed NEW concept
-- [[social-sycophancy]] — Perry's argument is that social sycophancy erodes social friction; she reframes Cheng et al.'s findings within this longer arc
-- [[sycophancy]] — adds the longitudinal-recalibration concern absent from earlier sycophancy entries
-- [[ai-loneliness-effect]] — names "uneven distribution" of risk: socially isolated users may be most affected; AI as the "most frequently consulted other" connects to MIRA's substitution principle
-- [[mira-model]] — Perry's argument is a special case of MIRA principle 4 (substitution vs. enhancement) — a sycophantic AI as confidant substitutes for the friction of human-human feedback
-- [[cognitive-friction]] — social friction is the relational analogue; together they form a friction-as-feature pair across cognitive and social registers
-- [[delusional-spiraling]] — Perry's recalibration hypothesis describes a slower-burn analogue at the level of social expectations rather than discrete beliefs
-- [[novice-vulnerability]] — uneven distribution of risk: young users, isolated users, those seeking reassurance
-- [[cheng-sycophantic-prosocial-2025]] — primary empirical paper Perry's Perspective accompanies
-- [[boyd-markowitz-human-connection-2026]] — MIRA framework provides the relational vocabulary; Perry adds the friction-as-feature normative claim
+- [[social-friction]] — source of the preservation argument.
+- [[social-sycophancy]] and [[sycophancy]] — proposed effects of repeated affirmation.
+- [[ai-loneliness-effect]] and [[mira-model]] — [Inference] related questions about substitution and enhancement; not a measured pathway here.
+- [[cognitive-friction]] — conceptual analogy; social conflict and learning difficulty are distinct.
+- [[delusional-spiraling]] — different outcome; no shared causal mechanism established.
+- [[novice-vulnerability]] — the essay proposes unequal vulnerability but does not test groups.
+- [[cheng-sycophantic-prosocial-2025]] — empirical source discussed in the Perspective.
+- [[boyd-markowitz-human-connection-2026]] — related relational framework.
 
 ## Contradicts / Extends
 
-- Extends [[cheng-sycophantic-prosocial-2025]] — Cheng et al. measured single-interaction behavioral effects (lowered repair intentions, raised self-rightness). Perry adds the longitudinal hypothesis: cumulative exposure may recalibrate baseline expectations of social feedback, not merely shift behavior in the moment. This is testable with longitudinal designs that Cheng et al. flag as the natural next step.
-- Extends [[boyd-markowitz-human-connection-2026]] — MIRA principle 4 (substitution vs. enhancement) is normatively neutral; Perry sharpens it with the friction-as-feature claim. AI substitution for human social feedback is harmful not only because it displaces relationships, but because it removes the *mechanism* through which those relationships generate moral growth.
-- Aligns with [[bjork-desirable-difficulties-2011]] — same logical structure: what feels like inefficiency (struggle in learning; rupture in relationships) is the mechanism. Perry's piece is the social-relational analogue of Bjork's learning-science argument.
-- Aligns with [[nosta-frictionless-intelligence-2026]] — Nosta argues frictionlessness inverts the constraints under which intelligence is produced; Perry argues the same for social-moral development. Both name the same risk class in different registers.
+- [[cheng-sycophantic-prosocial-2025]] measures short-term self-rightness and repair intentions, not observed relationship repair or long-term tolerance for disagreement.
+- [[boyd-markowitz-human-connection-2026]] offers a framework for human connection. Perry adds a theoretical case for preserving constructive disagreement.
+- [[bjork-desirable-difficulties-2011]] and [[nosta-frictionless-intelligence-2026]] concern different forms of effort. The analogy does not establish that social friction works through the same mechanism.
 
 ## Open Questions
 

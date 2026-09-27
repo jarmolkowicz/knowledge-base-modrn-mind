@@ -22,11 +22,11 @@ Paper (pre-registered factorial experiment, n=1,970 human raters + 2,520 LLM eva
 
 A 2×3×3 factorial design (AI disclosure × race × gender) shows that **disclosing AI assistance produces a measurable penalty in writing-quality judgments — among both human and LLM evaluators**. The disclosure penalty is modest in absolute terms (less than 0.15 points on a 7-point scale, p<0.05) but consistent.
 
-The more disturbing finding is **"vanishing alignment"** in LLM raters: GPT-4o-mini and Qwen2.5-7B-Instruct each showed fairness-oriented preferences in the control condition (GPT favored Black authors, +0.137 vs. Asian; Qwen favored women, +0.133 vs. men, both p<0.001), but those preferences **disappeared when AI assistance was disclosed**. The same identical article, judged by the same model, gets a different demographic-fairness adjustment depending on whether it carries an "AI was used" label.
+A second finding is **"vanishing alignment"** in LLM raters: GPT-4o-mini and Qwen2.5-7B-Instruct each showed fairness-oriented preferences in the control condition (GPT favored Black authors, +0.137 vs. Asian; Qwen favored women, +0.133 vs. men, both p<0.001), but those preferences **disappeared when AI assistance was disclosed**. The same identical article, judged by the same model, gets a different demographic-fairness adjustment depending on whether it carries an "AI was used" label.
 
-This matters because LLM evaluators are increasingly the gatekeepers of high-stakes decisions: 99% of Fortune 500 companies use automated screening in hiring; Texas grades standardized-test essays with AI; AI-based performance reviews are deploying. If LLM fairness behaviors are conditional and unstable across surface contextual cues, "AI alignment" is far more fragile than its training metrics suggest. The KB should treat alignment-by-RLHF as a contextually-triggered behavior, not a stable property.
+The authors interpret the interaction as a possible limit on the stability of fairness-related behavior. The experiment does not identify a training mechanism or test hiring, exam grading or performance reviews.
 
-For human thinking with AI: this is an erosion-of-fairness mechanism, not a [[capacity-erosion|capacity erosion]] mechanism. AI disclosure asymmetrically burdens marginalized groups under LLM evaluation, while doing so uniformly under human evaluation. The same transparency norm has different equity consequences depending on who's reading.
+For human thinking with AI: this is an erosion-of-fairness mechanism, not a [[capacity-erosion|capacity erosion]] mechanism. In this article-rating task, demographic interactions appeared among model raters but were not detected among human raters. The same transparency norm has different equity consequences depending on who's reading.
 
 ## Key Passages
 
@@ -55,10 +55,9 @@ For human thinking with AI: this is an erosion-of-fairness mechanism, not a [[ca
 
 ## Relevance
 
-Two distinct contributions for the KB:
+The study quantifies a modest disclosure penalty and finds demographic interactions in two model raters evaluating one news article. It informs [[disclosure-penalty]] and [[transparency-paradox]], while leaving the mechanism open.
 
-- **Disclosure-penalty quantification.** Adds rigorous numbers to the existing [[disclosure-penalty]] concept. Effect is real but modest (<0.15/7), pre-registered, and replicates across humans and LLMs. Makes [[transparency-paradox]] testable rather than assertion.
-- **Vanishing alignment.** A fresh and load-bearing concept the KB should integrate. RLHF-trained fairness preferences in LLMs are *contextually triggered*, not stable. The mere presence of an AI-disclosure cue toggles the model out of its fairness-oriented mode. This generalizes beyond the disclosure case: any surface contextual signal might rearrange whose voices a model amplifies. Connects to Hofmann et al. (2024)'s "covertly racist decisions" finding that alignment behaviors are surface-only.
+The authors call the changing demographic preferences "vanishing alignment." They propose an alignment-related explanation; RLHF or fairness training was not experimentally manipulated. Results do not establish a general switch that turns model fairness on or off.
 
 ## Supports
 
@@ -70,8 +69,9 @@ Two distinct contributions for the KB:
 
 ## Contradicts / Extends
 
-- Extends [[raj-disclosure-penalty-2026]] — Cheong et al. add the demographic-interaction angle that Raj's design didn't include.
-- Surfaces a tension with the standard "AI alignment" claim: alignment behaviors observed in benign contexts may not survive contextual perturbation. Worth a new concept entry on "vanishing alignment" as a mechanism that intersects with [[automation-bias]] and the [[ai-moralization]] cluster.
+- Extends [[raj-disclosure-penalty-2026]] with a demographic-interaction question in a different design.
+- [[ai-moralization]] raises related questions about social judgments of AI use; moralization was not measured here.
+- [Inference] The pattern raises questions about whether evaluators behave consistently across contextual cues. Generalization beyond these two models and this article remains untested.
 
 ## Open Questions
 

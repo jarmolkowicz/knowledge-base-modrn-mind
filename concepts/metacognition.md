@@ -28,7 +28,7 @@ The awareness and understanding of your own thinking processes—knowing what yo
 
 Metacognitive monitoring helps people assess understanding, uncertainty and reliance on AI. Self-assessment can itself be inaccurate, so it should be checked against performance and other evidence rather than treated as direct access to one's mental processes.
 
-[Unverified source] Earlier explanations of fluency-induced competence illusions and offloaded self-regulation were attributed to Lodge and Loble (2026), but no matching local original was found. Those specific attributions and their proposed causal sequence remain unverified.
+The proposed sequence from fluent output to competence illusions and offloaded self-regulation is not established by the evidence presented here.
 
 ## Key Insight
 
@@ -58,9 +58,9 @@ Fernandes et al. (2026) found limited confidence–correctness discrimination in
 
 Metacognition also means recognizing what kind of reasoning you're doing. Gentner & Markman (1997) distinguish surface similarity (shared features) from structural similarity (shared relations). A key metacognitive question when using AI: "Am I making a genuine cross-domain connection, or am I accepting a surface-level association from AI?"
 
-Drawing on Lakoff & Johnson (1999), this KB extends metacognition to include awareness of conceptual metaphor in reasoning. Abstract thought — about time, causation, morality — is grounded in structures borrowed from physical experience. Recognizing when your reasoning relies on embodied metaphor is a metacognitive act, and one that highlights a key asymmetry: AI, which lacks embodied grounding, may produce language that follows metaphorical patterns without the experiential basis that gives those patterns meaning.
+[Speculation] Awareness of metaphors and embodied experience may inform reflection on reasoning. The foundational Lakoff and Johnson (1999) and Varela, Thompson and Rosch (1991) originals are not available here for direct verification; this extension should not be treated as an independently supported AI comparison.
 
-Building on Varela, Thompson & Rosch (1991), we extend metacognition to include awareness of embodied signals — the felt sense that arises from the body's interaction with the world. Cognition is shaped by embodied experience, and awareness of this embodied dimension is metacognitively relevant. Metacognitive monitoring can therefore extend beyond "Am I thinking clearly?" to "What is my embodied experience telling me?" This dimension of self-awareness has no AI equivalent.
+
 
 **SCAN's three proposed metacognitive components:**
 
@@ -76,7 +76,7 @@ Shaw & Nave found that incentives plus feedback raised the rate of rejecting fau
 
 ### Metacognitive Oversight in Human-AI Teams
 
-[Unverified source] The team-oversight account previously attributed to Gonzalez et al. (2026) lacks a matching local original. Earlier purported quotations are not verified and are not retained as quotations.
+Team-level oversight prompts below are a proposed application, not a validated intervention.
 
 [Inference] Useful questions about team-level [[metacognitive-demand|metacognitive demands]] include:
 

@@ -14,7 +14,7 @@ The process by which AI use becomes imbued with moral significance — people ju
 
 ## Why It Matters
 
-Most efforts to overcome AI resistance assume opposition is pragmatic — improve performance, increase control, demonstrate benefits. But moralized opposition is immune to pragmatic arguments. A one standard deviation increase in moralization predicts a 42% decrease in actual AI usage, even when personally beneficial. This means rational arguments about AI's value may be ineffective for a meaningful segment of any audience.
+Most efforts to overcome AI resistance assume opposition is pragmatic — improve performance, increase control, demonstrate benefits. But moralized opposition can persist despite pragmatic arguments. A one standard deviation increase in moralization predicts a 42% decrease in actual AI usage, even when personally beneficial. This means rational arguments about AI's value may be ineffective for a meaningful segment of any audience.
 
 ## Key Insight
 
@@ -27,20 +27,20 @@ Moralizers use pragmatic language to justify what are actually moral convictions
 - **Study 4**: Behavioral follow-up (75-573 days later) — moralization predicted real reluctance to use AI even at personal cost
 - **Structural**: AI moralization captured by a single latent factor — generalized moral sentiment, not domain-specific concerns
 
-Meincke, Nave & Terwiesch (2026) add a contingency dimension to the moralization picture in the ethical-advice domain. In a Registered Report (N=642), participants showed strong a-priori resistance to receiving AI ethical advice — 72.6% preferred a human ethical advisor before seeing any advice. After being shown actual GPT-4 advice alongside an NYT Ethicist columnist's advice, that resistance dropped to 53.2% (Condition B, full disclosure), and to 46.3% when source labels were hidden (Condition C). The pattern suggests two distinct populations within the moralized opposition: a *contingent* segment whose resistance reduces sharply on direct exposure to high-quality AI output, and a residual segment whose preference for human advisors persists even when AI advice is observably comparable. This is consistent with de Mello et al.'s consequence-insensitive finding, but bounds the claim: the bulk of ex-ante AI ethical aversion appears to be malleable, not consequence-insensitive. The implication: ex-ante moralization surveys may overestimate the durable moralized fraction in domains where users have not yet seen actual AI output.
+Meincke, Nave and Terwiesch (2026) studied preferences for ethical advice in separate randomized groups (N=642). In the no-advice group, 72.6% preferred a human advisor. When participants saw both pieces of advice, 53.2% preferred the human with source labels and 46.3% preferred the human without labels (53.7% AI). These are between-group comparisons, not measured changes in the same people. The no-advice question also differed from the usefulness question used after advice was shown. The study did not measure moralization or identify distinct moral-resistance populations.
 
 ## Implication for Practice
 
 When teaching about or facilitating AI adoption, distinguishing between pragmatic and moral resistance matters. Pragmatic resisters can be reached with evidence and experience. Moral resisters require a different approach — one that engages values, not data.
 
-Meincke et al. (2026) add a caveat: in the ethical-advice domain, much of the apparent moral resistance is anticipatory. People are reacting to an imagined AI, not the actual output. Direct exposure substantially reduces resistance — but this raises a worry the authors flag: organizations could exploit this by hiding AI sources (the no-disclosure condition produced the highest acceptance). The ethical move is not to mask the source but to recognize that ex-ante moralization surveys may overestimate the durable moralized fraction.
+[Inference] Seeing advice and knowing its source can affect evaluations. This does not show that moral convictions changed or justify hiding AI involvement. Meincke et al. did not establish fluency as the mechanism.
 
 ## Related
 
 - [[disclosure-penalty]] - moralization may compound the penalty by adding moral weight to AI use judgments
 - [[professional-identity-threat]] - moral judgment from others adds external pressure to internal identity threat
 - [[transparency-paradox]] - moralization intensifies the paradox by making disclosure morally loaded
-- [[fluency-bias]] - much of the post-exposure aversion drop is consistent with fluency-bias mechanisms operating once people see AI output
+- [[fluency-bias]] — a possible influence on evaluation, not a mechanism tested by Meincke et al.
 
 ## Sources
 

@@ -29,13 +29,11 @@ Three levers for effective AI delegation, all rooted in domain expertise:
 2. **Improved evaluation** — experts recognize quality problems faster
 3. **Faster quality assessment** — domain knowledge enables quick judgment
 
-The implication: prompt engineering is a transitional skill. Domain expertise and judgment are permanent advantages.
+[Speculation] Prompting techniques may change while domain knowledge and evaluation remain useful. Their relative value will depend on the task and tools; these observations do not establish permanent advantages.
 
-Handa et al. (2025) provide production-scale evidence for which task domains are seeing execution commoditized first. In ~4M Claude.ai conversations, **software development and writing tasks together account for nearly half of all usage** [p.1]. **Computer and Mathematical occupations comprise 37.2% of all queries** [p.5–6], with Arts/Design/Entertainment/Sports/Media (heavy in writing, marketing, content generation) at 10.3%. Within the augmentation/automation taxonomy, **Directive (full-delegation) conversations concentrate in writing and content-generation tasks** like "Draft and optimize professional business email communications" [p.9] — the most complete commoditization of execution observed in the paper occurs in routine professional writing.
+Handa et al. (2025) describe task use in roughly four million Claude.ai conversations from December 2024–January 2025. Software and writing accounted for nearly half of mapped usage; Computer and Mathematical occupations accounted for 37.2% and Arts/Design/Entertainment/Sports/Media for 10.3% (pp.1, 5–6). Directive conversations were common in writing and content-generation tasks (p.9). These are usage classifications, not measurements of output quality, cost, economic commoditization or lost learning. A mapped occupation does not establish the user's profession (pp.5, 12).
 
-This anchors the entry's argument empirically: execution commoditization is not a future projection but a measured present in software, writing, and analytical tasks. Conversely, **occupations involving physical manipulation (anesthesiologists, construction workers) currently show minimal use** [p.2], and high-credential specialty medicine (Job Zone 5: Extensive Preparation Needed) shows lower usage than mid-credential professional work despite likely technical feasibility — implementation costs and regulatory barriers temper adoption [p.12]. The commoditization frontier is therefore not uniform: it has arrived in mid-credential cognitive work and has not yet arrived (or has been blocked) in physical-manipulation and highly-regulated cognitive work.
-
-[Inference] For practitioners, this gives a concrete current map: roles whose work product is text or code at the bachelor's-degree barrier-to-entry level are inside the commoditization zone today; physical-manipulation roles and high-regulatory-barrier roles are not. The judgment-development implication tracks the entry's existing claim — the developmental scaffolding most needed today is in writing, software, and analytical work, where execution is most commoditized.
+Lower observed use in physical and highly credentialed tasks could reflect capability, access, workflow or regulatory constraints. The study does not establish that these tasks cannot benefit from AI or that a commoditization boundary has been measured. [Inference] The distribution can help choose workflows to investigate, alongside direct evidence of quality, cost and retained capability.
 
 ## The Preservation Tension
 
@@ -45,7 +43,7 @@ Niederhoffer et al. (2025/2026) provide empirical evidence for what execution co
 
 Key data point: ~50% of workslop recipients view the sender as less capable, creative, and reliable afterward. This suggests a market mechanism is emerging — when execution is cheap, others can detect the absence of quality judgment, and the producer's professional reputation suffers. Commoditized execution without judgment is not just ineffective; it actively damages professional standing.
 
-The survey also found a protective factor: workers with "competence and control over AI tools" are half as likely to create workslop. This aligns with the entry's core claim that domain expertise and judgment remain permanent advantages. The workers who can evaluate AI output are the ones producing value; the rest produce workslop.
+The survey also reported an association: workers with "competence and control over AI tools" are half as likely to create workslop. This does not establish that training or evaluation skill caused the difference, or that all other workers produce workslop.
 
 ## Related
 
@@ -56,11 +54,10 @@ The survey also found a protective factor: workers with "competence and control 
 - [[leveling-effect]] - AI compresses the performance distribution
 - [[calibration]] - delegation decisions require ongoing calibration
 - [[workslop]] - empirical manifestation of commoditized execution without judgment
-- [[handa-economic-tasks-claude-2025]] — production-data map of where execution is being commoditized first (software and writing dominate ~half of all usage; physical-manipulation and high-credential specialty work largely untouched)
+- [[handa-economic-tasks-claude-2025]] — task-use distribution; not a measurement of commoditization or worker expertise.
 
 ## Sources
 
 - [[mollick-management-ai-superpower-2026]] — Mollick (2026)
-- Niederhoffer et al. (2025/2026)
+- [[niederhoffer-workslop-2026]] — Niederhoffer et al. (2025/2026)
 - [[handa-economic-tasks-claude-2025]] — Handa, K., Tamkin, A., McCain, M., Huang, S., Durmus, E., Heck, S., Mueller, J., Hong, J., Ritchie, S., Belonax, T., Troy, K. K., Amodei, D., Kaplan, J., Clark, J., & Ganguli, D. (2025). Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations. arXiv:2503.04761 [cs.CY], February 11, 2025. Anthropic.
-

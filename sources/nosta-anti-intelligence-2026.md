@@ -14,25 +14,15 @@ Nosta, J. (2026, January 22). Growing Up Anti-Intelligent: How artificial intell
 
 **URL:** [psychologytoday.com](https://www.psychologytoday.com/us/blog/the-digital-self/202601/growing-up-anti-intelligent)
 
-**Note:** The KB previously cited Nosta's earlier essay "Anti-Intelligence: When Thinking Has No Consequence" — different essay, same construct. The slug `nosta-anti-intelligence-2026` is retained because the *anti-intelligence* concept persists across both essays. The current workbench reflects the "Growing Up Anti-Intelligent" version that we have a verifiable PDF of.
-
 ## Type
 
 Article (thought leadership; Nosta is innovation theorist, NostaLab founder)
 
 ## Key Insight
 
-Nosta defines **anti-intelligence** as "the performance of knowing without understanding" — language severed from memory, context, intention. This is what large language models *do*: produce coherent outputs through pattern-matching rather than comprehension. The earlier essay framed anti-intelligence as a phenomenon adults encounter; the 2026 essay extends the argument to ask what happens to **minds that form in its presence from the beginning**.
+Nosta calls fluent performance without understanding “anti-intelligence.” He asks how growing up with instant AI answers might shape tolerance for uncertainty, attention and the construction of understanding. These are developmental hypotheses in a personal essay, not findings from a study of children.
 
-Three KB-relevant claims:
-
-1. **Anti-intelligence is now the cognitive climate, not just a tool.** For children growing up after ~2023, AI-completed answers arrive before questions have fully formed. The gap between confusion and clarity that traditionally drove cognitive development collapses to near-zero.
-2. **Some capacities may not develop.** Specifically: tolerance for ambiguity, sustained attention to "not-knowing," construction (vs. recognition) of understanding. These developed historically because clarity took time to arrive — children sat in productive confusion. AI removes the confusion.
-3. **Some new capacities may emerge.** Comfort with rapid context-switching, fluency in navigating contradictory frameworks, default stance toward knowledge as revisable rather than possessed. Nosta is honest that this isn't pure loss — cognitive architecture adapts.
-
-The deeper concern is the **measurement problem**: existing educational assessments were designed for the constraint-formed mind. A child who synthesizes from multiple AI sources, holds conflicting frameworks in productive tension, and shifts between symbolic and statistical reasoning may fail traditional tests while demonstrating a different cognitive sophistication. We risk pathologizing adaptive responses to a new environment.
-
-For human thinking with AI: this is the developmental-cognition framing of the KB's [[capacity-erosion]] cluster. Where most KB sources document erosion in already-formed adults, Nosta asks whether erosion will simply not show up the same way in those who never built the eroded capacity in the first place. The answer is genuinely open. The framing "shaped" rather than "corrupted/enhanced" is honest about the uncertainty.
+He also proposes possible adaptations: navigating conflicting frameworks, switching contexts and treating knowledge as revisable. His concern about assessments is that existing measures might miss such changes. The essay does not establish either cognitive loss or a new cognitive architecture.
 
 ## Key Passages
 
@@ -53,25 +43,20 @@ For human thinking with AI: this is the developmental-cognition framing of the K
 
 ## Relevance
 
-Three contributions for the KB:
-
-- **Names a developmental dimension.** The KB's erosion cluster mostly addresses adults losing capacities. Nosta's contribution is to frame what *not developing* the capacity in the first place looks like. This is a different mechanism (no atrophy because there was nothing to atrophy from) with a different intervention space (educational design, not just adult practice).
-- **The friction-as-condition framing.** Nosta articulates clearly that productive struggle isn't an obstacle to learning — it *is* the condition that produces certain kinds of learning. This is the developmental version of [[bjork-desirable-difficulties-2011]] and [[ericsson-deliberate-practice-1993]].
-- **Measurement-instrument warning.** If our cognitive assessments are calibrated for old-architecture minds, conclusions about whether AI-native minds "think worse" may be unreliable. The KB should be cautious about claims that would require old instruments to detect new architectures.
+Distinguishes losing a developed capacity from not developing it. That distinction can inform research questions without assuming either outcome has occurred.
 
 ## Supports
 
-- [[anti-intelligence]] — defining article
-- [[capacity-erosion]] — developmental variant (failure-to-form rather than loss)
-- [[cognitive-friction]] — friction-as-condition framing
-- [[desirable-difficulty]] — related claim that productive struggle drives capability formation
-- [[fluency-bias]] — anti-intelligence relies on fluent surface that masks the absence of comprehension
+- [[anti-intelligence]] — source of this framing.
+- [[capacity-erosion]] — proposed developmental counterpart, not measured erosion.
+- [[cognitive-friction]] and [[desirable-difficulty]] — related arguments about effort; not all difficulty benefits learning.
+- [[fluency-bias]] — [Inference] related concern about fluent appearance and understanding.
 
 ## Contradicts / Extends
 
-- Companion to Nosta's other essays in the same series, particularly the "Frictionless Intelligence" piece ([[nosta-frictionless-intelligence-2026]]) and the broader Nosta corpus on AI-and-cognition.
-- Extends [[bjork-desirable-difficulties-2011]] from adult learning to childhood cognitive development.
-- Aligns with [[shaw-cognitive-surrender-2026]] ([[cognitive-surrender|cognitive surrender]] as the adult version of what Nosta worries doesn't form in children).
+- Companion to [[nosta-frictionless-intelligence-2026]].
+- [[bjork-desirable-difficulties-2011]] and [[ericsson-deliberate-practice-1993]] concern specific learning conditions; they do not validate this broad childhood-development hypothesis.
+- [[shaw-cognitive-surrender-2026]] studies a different adult task and cannot establish the developmental pathway proposed here.
 
 ## Open Questions
 

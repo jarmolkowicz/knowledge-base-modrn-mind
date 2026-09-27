@@ -22,18 +22,18 @@ In a 36-participant comparative study, ChatGPT users produced ideas that were no
 
 ## Relevance
 
-Provides direct experimental evidence for the group-level mechanism behind the [[creativity-diversity-paradox]]. The finding that homogenization is a between-user rather than within-user effect is critical: individual users may feel their creativity is supported (and it may be, by fluency and elaboration metrics), while the collective diversity of a field quietly narrows. The reduced sense of responsibility finding connects to [[agency]] and accountability.
+Provides direct experimental evidence for the group-level mechanism behind the [[creativity-diversity-paradox]]. The finding that homogenization is a between-user rather than within-user effect is critical: individual users may feel their creativity is supported (and it may be, by fluency and elaboration metrics), while ideas across participants become more semantically similar in this task. The reduced sense of responsibility finding connects to [[agency]] and accountability.
 
 ## Key Findings
 
 - **RQ1**: Group-level semantic similarity significantly higher with ChatGPT than Oblique Strategies
-- **RQ2**: No difference in individual-level semantic similarity between tools
+- **RQ2**: No statistically detected difference in individual-level semantic similarity between tools
 - **RQ3**: ChatGPT users felt less responsible for their ideas
 - **RQ4**: ChatGPT users produced more ideas (fluency), more categories (flexibility), and more detailed ideas (elaboration)
 
 ## Mechanism
 
-Homogenization stems from the LLM providing different users with similar starting points, not from constraining any individual user's range. Low inferential distance between LLM outputs and finished products may contribute — ideas arrive looking "done," reducing the space for personal divergence.
+The authors interpret the group-level pattern as consistent with the LLM providing similar starting points to different users. The study does not establish that every user's range is unchanged. Low inferential distance between LLM outputs and finished products may contribute — ideas arrive looking "done," reducing the space for personal divergence.
 
 ## Supports
 

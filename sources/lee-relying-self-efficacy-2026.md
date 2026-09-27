@@ -22,7 +22,7 @@ Paper (preregistered experiment N=269 + complementary real-world survey N=270; t
 
 ## Key Insight
 
-Lee et al. show that **mode of AI use matters more than whether AI is used**. The question prior research has focused on — does AI help or hurt productivity? — misses the more consequential question: how does the way AI is integrated into work shape the worker's psychological relationship to their labor?
+Lee et al. show that **the mode of AI use affected immediate psychological outcomes in the tested writing task**. The question prior research has focused on — does AI help or hurt productivity? — misses the more consequential question: how does the way AI is integrated into work shape the worker's psychological relationship to their labor?
 
 Three conditions in the experimental study:
 - **No AI** — control, manual writing
@@ -34,14 +34,14 @@ Three outcomes measured: **self-efficacy** (confidence in completing work withou
 Findings:
 1. **Passive AI use undermined all three outcomes.** Self-efficacy, ownership, and meaning all dropped relative to no-AI controls.
 2. **Effects persisted into post-AI manual work.** Even after participants stopped using AI, declines in efficacy and meaning carried over — the harm wasn't confined to the AI-using moment.
-3. **Active collaboration preserved psychological outcomes.** The draft-then-refine condition produced efficacy, ownership, and meaning comparable to working without AI at all.
-4. **Enjoyment reversal.** Passive AI use initially produced higher enjoyment and satisfaction, but those benefits reversed once participants returned to manual work — suggesting passive use trades durable psychological resources for momentary pleasantness.
+3. **Active collaboration showed no detected deficit in these psychological outcomes.** The draft-then-refine condition produced efficacy, ownership, and meaning without statistically detected differences from the no-AI arm; this does not establish equivalence.
+4. **Enjoyment reversal.** Passive AI use initially produced higher enjoyment and satisfaction, but those benefits reversed once participants returned to manual work — showing an immediate reversal, without measuring durable psychological resources.
 
-The N=270 follow-up survey replicated these patterns across non-writing tasks (analysis, design, planning).
+The N=270 follow-up survey reported related associations across non-writing tasks; it was not an experimental replication.
 
-The conceptual contribution is the **mode-of-use moderator**. Most KB sources treat "AI use" as binary; Lee et al. operationalize a meaningful distinction (passive copying vs. active collaboration) and show it determines whether psychological harm occurs. This is the within-individual analogue of Bastani's between-deployment finding (vanilla GPT vs. teacher-curated GPT Tutor): in both cases, structured use mitigates the harm of unstructured use.
+The study distinguishes passive copying from active collaboration and reports different immediate psychological outcomes. This does not establish a universal rule about harm. Bastani's mathematics experiment compares different assistance designs and measures different outcomes; the two do not establish the same mechanism.
 
-For human thinking with AI: this is the cleanest evidence that **how you use AI shapes who you become at work**. It connects [[ai-self-efficacy-erosion]] (the named phenomenon) to specific behavioral patterns (passive copying), and points toward operational guidance ("draft first, then refine with AI" rather than "ask AI, then copy").
+The experiment provides evidence that **different uses can change immediate self-efficacy, ownership and meaning**. It connects [[ai-self-efficacy-erosion]] (the named phenomenon) to specific behavioral patterns (passive copying), and points toward operational guidance ("draft first, then refine with AI" rather than "ask AI, then copy").
 
 ## Key Passages
 
@@ -59,11 +59,11 @@ For human thinking with AI: this is the cleanest evidence that **how you use AI 
 
 ## Relevance
 
-Three load-bearing contributions:
+Three contributions:
 
 - **Operationalizes the mode-of-use distinction.** Passive copying vs. active collaboration is a measurable behavioral distinction with documented psychological consequences. Practitioners can act on this — "draft first, then refine" is a concrete protocol.
-- **Documents three distinct outcomes with one design.** Self-efficacy, ownership, meaning are conceptually related but empirically dissociable. Lee et al. show all three move together under passive use — implying a common mechanism (psychological disengagement) rather than three separate effects.
-- **The post-AI carry-over effect.** Damage done during AI use doesn't reset when AI is removed — declines in efficacy and meaning persist. This makes the harm structurally similar to [[liu-persistence-2026]]'s finding (effects emerge fast and persist) and contradicts any "momentary trade-off" framing of AI use.
+- **Documents three distinct outcomes with one design.** Self-efficacy, ownership, meaning are conceptually related but empirically dissociable. Lee et al. show all three move together under passive use — without isolating a single common mechanism.
+- **The post-AI carry-over effect.** Some self-reported differences remained in the immediate subsequent manual task. Comparison with [[liu-persistence-2026]] requires keeping outcomes and time horizons separate.
 
 ## Supports
 
@@ -76,12 +76,12 @@ Three load-bearing contributions:
 - [[think-first]] — operational counter-measure
 - [[performance-paradox]] — passive use boosts enjoyment temporarily, masks underlying decline
 - [[bastani-guardrails-math-rct-2025]] — both papers find structured use mitigates harm of unstructured use
-- [[novice-vulnerability]] — passive use likely most damaging for novices building identity-relevant skills
+- [[novice-vulnerability]] — [Speculation] novice vulnerability requires a direct subgroup test
 
 ## Contradicts / Extends
 
-- Extends [[passalacqua-less-ai-2024]] — Passalacqua showed partial automation outperforms full automation on engagement; Lee adds the psychological-outcome layer (efficacy/ownership/meaning), confirming the mechanism is identity-related, not just task-engagement.
-- Modifies the [[strategic-alternation]] practice — alternation alone is insufficient if the within-AI mode is passive. The mode-of-use must shift, not just the AI-on/AI-off cycle.
+- Extends [[passalacqua-less-ai-2024]] — Passalacqua showed partial automation outperforms full automation on engagement; Lee adds the psychological-outcome layer (efficacy/ownership/meaning), raising related psychological questions without establishing a shared identity mechanism.
+- Relates to [[strategic-alternation]], but does not test or validate an AI-on/AI-off schedule.
 
 ## Open Questions
 

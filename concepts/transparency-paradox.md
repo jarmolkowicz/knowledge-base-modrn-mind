@@ -31,14 +31,16 @@ Reimann & Schilke (2025) tested disclosure across 13 experiments (5,000+ partici
 
 Raj et al. (2026) extend the paradox to creative writing with the largest study to date: 16 experiments (N = 27,491). People cannot reliably distinguish AI from human writing when unlabeled — but penalize it ~6.2% when labeled (d=0.24). Multiple mitigation strategies drawn from prior research failed, suggesting the paradox is not merely a framing problem but deeply rooted in authenticity perceptions.
 
-Meincke, Nave & Terwiesch (2026) extend the paradox into ethical-advice contexts where transparency is most ethically demanded. In a pre-registered Registered Report (N=642), participants comparing GPT-4 advice to NYT Ethicist columnist advice on 20 ethical dilemmas preferred AI in 46.8% of choices when sources were disclosed but 53.7% when sources were hidden — same advice content, different source labels. In parallel ratings (N=4,230 ratings), AI was rated lower than the human expert when its source was visible (d=0.18, p<.001) but rated equal to or slightly higher than the expert when source labels were removed. The paradox holds even in the domain where one would expect transparency norms to be strongest. The authors articulate the practical dilemma: "premature disclosure of [AI's] machine origin might, to some degree, inhibit its adoption, particularly in early stages of use. This presents a practical dilemma: how to balance the potential benefits of AI-generated ethical advice with the normative expectations around transparency and informed consent." Their suggestion — present AI alongside human advice and let users engage with arguments before learning the source — itself raises questions about manipulation and epistemic fairness, exactly the trade-off the paradox describes.
+Meincke, Nave and Terwiesch (2026) compared source-disclosed and source-hidden ethical advice in separate randomized groups. AI was preferred in 46.8% versus 53.7% of choices. With source labels, expert advice received higher usefulness ratings (d=.18, p<.001); without them the estimate favored AI but was nonsignificant (p=.082). The study did not rank transparency norms, establish fluency as the mechanism or show that concealment improves decisions. The authors discuss the tension between uptake and informed consent; they do not validate nondisclosure as a remedy.
 
-## Vicious Cycle
+## Proposed Cycle
+
+[Speculation] The following sequence is not established by the disclosure experiments.
 
 ```
 Stigma exists
     ↓
-People hide AI use (rational response)
+People may hide AI use
     ↓
 Public lacks examples of responsible AI use
     ↓
@@ -50,9 +52,9 @@ Cycle continues
 ## Related
 
 - [[disclosure-penalty]] - the measured trust reduction
-- [[fluency-bias]] - why we judge AI-assisted work differently; Meincke et al. (2026) propose fluency as the trust-formation pathway disclosure interrupts
+- [[fluency-bias]] — possible evaluation influence; Meincke et al. did not test it as a mediator.
 - [[authenticity]] - what disclosure threatens
-- [[ai-moralization]] - moralization may intensify the paradox by adding moral weight to disclosure judgments; the paradox compounds with moralization (ex-ante moralized opposition reduces sharply on direct exposure but the disclosure penalty persists in the residual)
+- [[ai-moralization]] — moral judgments may affect disclosure evaluations; advice preferences do not directly measure moralization.
 
 ## Sources
 

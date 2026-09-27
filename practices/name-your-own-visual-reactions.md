@@ -18,7 +18,7 @@ intended_outcomes:
 
 You can sense that a design feels right or wrong but struggle to explain why.
 
-Author’s intended benefit: Articulate visual preferences; use a generated pool without surrendering selection or making.
+Author’s intended benefit: Articulate visual preferences.
 
 ## Try It
 
@@ -31,13 +31,13 @@ Author’s intended benefit: Articulate visual preferences; use a generated pool
 
 Jessica Hische, interviewed by Lenny Rachitsky. (2024-10-20). How to see like a designer: The hidden power of typography and logos | Jessica Hische. https://www.youtube.com/watch?v=tLLqE6Ia8-U
 
-Locators: 00:24:25–00:30:55; L162–190; 01:01:49–01:05:50; L360–375. Practice title is an editorial label.
+Locators: 00:24:25–00:30:55; L162–190, visual-noticing exercise. The separate AI word-list practice appears at 01:01:49–01:05:50; L360–375. Practice title is an editorial label.
 
 ## Evidence and Rationale
 
 **Basis:** Professional creative account and a proposed noticing exercise.
 
-**Observed or reported:** Reports selecting emotions from AI-generated lists for a children’s book and retaining production work she finds fulfilling; rejected one AI image experiment.
+**Observed or reported:** Hische proposes writing down immediate reactions to fonts, grouping examples by those reactions, then examining features such as weight and spacing. She illustrates the exercise in the interview; no measured improvement is reported.
 
 **Related research:** Doshi and Hauser’s short-story experiment separates ratings of individual outputs from diversity across outputs. It does not evaluate this practice or establish lasting creative skill. See [[doshi-hauser-creativity-diversity-2024]]. This is context, not direct validation.
 
@@ -58,20 +58,10 @@ Locators: 00:24:25–00:30:55; L162–190; 01:01:49–01:05:50; L360–375. Prac
 - [[agency]] — keeping a final choice does not alone establish informed or independent judgment.
 - [[doshi-hauser-creativity-diversity-2024]] — bounded research context described above.
 
-
 ## Intended outcomes
 
 [Inference] Primary: creative-development. Secondary: understanding. These are intended benefits, not demonstrated effects.
 
-## Source roles
-
-- [[lenny-684-how-to-see-like-a-designer-2024]] — origin.
-
 ## Sources
 
-- [[lenny-684-how-to-see-like-a-designer-2024]]
-
-Recorded citations:
-
-- Jessica Hische, interviewed by Lenny Rachitsky. (2024-10-20). How to see like a designer: The hidden power of typography and logos | Jessica Hische. https://www.youtube.com/watch?v=tLLqE6Ia8-U
-
+- [[lenny-684-how-to-see-like-a-designer-2024]] — origin.

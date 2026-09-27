@@ -26,9 +26,9 @@ Three structural findings the KB inherits:
 
 1. **AB has two failure modes.** Errors of *commission* (following incorrect automation output) and errors of *omission* (failing to act because not prompted). Both happen; commission tends to dominate when AB is the focus, omission when complacency is.
 2. **Trust calibration is the dominant lever.** "Trust is possibly the strongest driving factor in over-reliance, when trust is incorrectly calibrated against system reliability." Users default toward trusting an automated aid over a human one (positivity bias toward automation).
-3. **Reliability has a non-monotonic effect.** Highly-but-imperfectly reliable systems produce *more* AB than less reliable ones — at higher reliability the user stops monitoring; at lower reliability they stay alert. Madhavan & Wiegmann put the optimal threshold at roughly 70% reliability before performance degrades through complacency.
+3. **Reliability has a non-monotonic effect.** Highly-but-imperfectly reliable systems produce *more* AB than less reliable ones — at higher reliability the user stops monitoring; at lower reliability they stay alert. A cited study reports a threshold around 70% in its setting; this is not a general optimum for automated systems.
 
-For human thinking with AI: AI-as-CDSS is the precise scenario this review describes. Modern LLMs sit in the dangerous reliability zone — accurate enough that users stop checking, inaccurate enough to cause occasional but consequential errors. The "negative consultation" failure mode — where AI flips a user's correct judgment to incorrect — is a measurable phenomenon, not a hypothetical.
+For human thinking with AI: AI-as-CDSS is the precise scenario this review describes. [Inference] Variable LLM reliability raises similar monitoring questions, but this review predates LLMs. The "negative consultation" failure mode — where AI flips a user's correct judgment to incorrect — is a measurable phenomenon, not a hypothetical.
 
 ## Key Passages
 
@@ -49,17 +49,17 @@ For human thinking with AI: AI-as-CDSS is the precise scenario this review descr
 
 ## Relevance
 
-The most KB-load-bearing automation-bias review pre-LLM. Three contributions the KB depends on:
+A pre-LLM review with three useful contributions:
 
 - **Quantification.** AB is real and measurable: 26% higher risk of following bad advice; 6–11% rate of correct→incorrect flips. These numbers anchor what would otherwise be qualitative concerns.
-- **The reliability paradox.** Better automation produces *more* over-reliance, not less, until it crosses into trustworthy-enough-to-monitor territory. This is the structural reason AI safety improvements paradoxically intensify AB.
-- **Mitigator catalog.** The review names four classes of mitigators (training, user accountability, advice positioning, confidence-level signaling, info-vs-recommendation framing). Each maps to a KB-relevant counterpractice: [[calibration]] for trust calibration, [[think-first]] for accountability, and confidence-level signaling (no current KB concept — candidate for future entry).
+- **Reliability and monitoring.** Some reviewed settings showed complacency with highly but imperfectly reliable aids. This does not establish that every reliability improvement increases bias.
+- **Mitigator catalog.** The review discusses mitigators (training, user accountability, advice positioning, confidence-level signaling, info-vs-recommendation framing). Each maps to a KB-relevant counterpractice: [[calibration]] for trust calibration, [[think-first]] for accountability, and confidence-level signaling.
 
 ## Supports
 
 - [[automation-bias]] — defining systematic-review evidence (Goddard treats this and "automation complacency" as overlapping concepts; both fall under this entry)
 - [[calibration]] — trust mis-calibration is the dominant mediator
-- [[capacity-erosion]] — under-monitoring degrades the user's underlying judgment over time
+- [[capacity-erosion]] — under-monitoring raises a skill-maintenance question; long-term skill loss was not measured
 - [[parasuraman-riley-automation-1997]] — Goddard cites Parasuraman as the conceptual predecessor
 - [[hohenstein-crumple-zone-2020]] — extends the responsibility/attribution dimension Goddard's review only gestures at
 - [[confidence-competence-gap]] — review documents conf↑ without performance↑ in less-experienced DSS users (Walsham et al.)

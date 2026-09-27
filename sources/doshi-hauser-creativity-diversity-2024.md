@@ -27,9 +27,9 @@ The finding is structurally important: **individual creativity rises, collective
 - **Individual gains:** stories with AI access were judged 8.1% more novel (with 5 ideas) and 9.0% more useful than human-only stories. Less-creative writers gained the most (up to +26.6% on quality).
 - **Collective loss:** AI-assisted stories were significantly more *similar to each other* than human-only stories. The convergence is toward a "sophisticated average" — better than the worst human stories but more uniform than the human distribution.
 
-This is a **social dilemma**: each individual writer is better off using AI; the collective is worse off because the variability that produces breakthrough novelty is compressed. AI is a tragedy-of-the-commons for creative production.
+The authors describe a possible **social dilemma**: average output ratings improved while stories became more similar. This does not show that every writer benefited, that human skill declined, or that breakthrough novelty was suppressed.
 
-The leveling pattern (low performers gain more) connects to [[dellacqua-jagged-frontier-2023]]'s leveling effect at consulting tasks: AI raises the floor disproportionately. Whether this is good depends on whether floor-raising comes at the cost of ceiling-flattening, which Doshi & Hauser's collective-similarity finding suggests it does.
+The leveling pattern (low performers gain more) connects to [[dellacqua-jagged-frontier-2023]]'s leveling effect at consulting tasks: AI raises the floor disproportionately. Higher between-story similarity is a distinct outcome from changes in the upper range of quality or long-term creative capability.
 
 For human thinking with AI: this is the foundational empirical anchor for the [[creativity-diversity-paradox]] concept. The KB's argument that collective and individual outcomes can diverge under AI substitution has its strongest evidence here.
 
@@ -51,16 +51,16 @@ For human thinking with AI: this is the foundational empirical anchor for the [[
 
 The KB's clearest empirical demonstration that **individual benefits and collective costs of AI can diverge**. Three contributions:
 
-- **Quantifies the divergence.** Same intervention, opposite signs at individual vs. collective level. Hard to dismiss as a value-laden interpretation; the numbers are clean.
-- **Identifies the mechanism.** Convergence toward AI's "sophisticated average" — writers anchor on AI's starting points and produce variations of the same template. The same mechanism that raises the floor flattens the ceiling.
+- **Quantifies the divergence.** Same intervention, opposite signs at individual vs. collective level. The outcomes should be interpreted within this short-story task.
+- **Suggests an anchoring explanation.** Convergence toward AI's "sophisticated average" — writers anchor on AI's starting points and produce variations of the same template. This does not establish that the same mechanism determines quality and diversity.
 - **Practical/policy hook.** Decisions about AI deployment that look beneficial at the individual level may be net-negative at the population level. This is structurally hard for organizations to address because each individual user's incentives point toward AI use.
 
 ## Supports
 
 - [[creativity-diversity-paradox]] — primary source for the construct
-- [[leveling-effect]] — the floor-raising / ceiling-flattening pattern
+- [[leveling-effect]] — larger output-rating gains among initially lower-creativity writers
 - [[anderson-homogenization-2024]] — converging evidence at the cognitive level (Anderson et al. show same homogenization at group rather than individual level)
-- [[capacity-erosion]] — collective diversity loss is a population-level capacity erosion
+- [[capacity-erosion]] — output diversity changed; loss of human creative ability was not measured
 - [[runco-jaeger-creativity-2012]] — the bipartite definition of creativity (originality + effectiveness) clarifies *what* AI is enhancing (both) and *what* it's eroding (collective novelty)
 
 ## Contradicts / Extends

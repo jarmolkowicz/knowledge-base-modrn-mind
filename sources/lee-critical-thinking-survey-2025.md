@@ -22,7 +22,7 @@ Paper — large-scale knowledge-worker survey (N = 319; 936 first-hand task exam
 
 ## Key Insight
 
-The first peer-reviewed survey to directly measure how knowledge workers enact critical thinking when using GenAI — across 936 real-world task examples from 319 workers in diverse occupations. Two findings anchor the paper. First, a confidence pair: **higher confidence in GenAI is associated with less critical thinking** (β = −0.69, p < 0.001 for perceived enaction), while **higher self-confidence is associated with more critical thinking** (β = +0.26, p = 0.026). Second, GenAI shifts the effort of critical thinking in three ways: from information *gathering* to information *verification*, from problem *solving* to AI response *integration*, and from task *execution* to task *stewardship*. The "task stewardship" framing — accountability without material production — has already entered downstream literature ([[bartos-ai-learning-meta-meta-2026]] discusses it among possible explanations for learning outcomes, not as evidence for a null result), and this source provides the workbench-level grounding the KB has been citing without anchoring.
+A peer-reviewed survey of how knowledge workers report enacting critical thinking when using GenAI — across 936 real-world task examples from 319 workers in diverse occupations. Two findings anchor the paper. First, a confidence pair: **higher confidence in GenAI is associated with less critical thinking** (β = −0.69, p < 0.001 for perceived enaction), while **higher self-confidence is associated with more critical thinking** (β = +0.26, p = 0.026). Second, GenAI shifts the effort of critical thinking in three ways: from information *gathering* to information *verification*, from problem *solving* to AI response *integration*, and from task *execution* to task *stewardship*. The "task stewardship" framing — accountability without material production — has already entered downstream literature ([[bartos-ai-learning-meta-meta-2026]] discusses it among possible explanations for learning outcomes, not as evidence for a null result), while the source itself measures reported workplace thinking.
 
 ## Key Findings
 
@@ -46,7 +46,7 @@ The first peer-reviewed survey to directly measure how knowledge workers enact c
 
 ## Survey-Level Findings (Prevalence Numbers)
 
-The paper's survey scale gives KB-relevant prevalence figures that small-N lab studies cannot supply.
+These figures describe the recruited sample and its examples, not population prevalence.
 
 **Sample composition.** N = 319 knowledge workers (159 men, 153 women, 5 non-binary, 2 prefer-not-to-say); ages 18–55+ (44.83% in 25–34 bracket); top occupations: Computer & Mathematical (18.50%), Arts/Design/Entertainment (13.79%), Office & Administrative Support (11.91%), Business & Financial Operations (10.97%), Educational Instruction (7.21%); top countries UK, Canada, US, South Africa, Poland; ChatGPT used by 96.87% of participants, Copilot by 23.20%, Gemini by 21.63% [p.6, Table 3].
 
@@ -60,7 +60,7 @@ The paper's survey scale gives KB-relevant prevalence figures that small-N lab s
 - Synthesis (putting together ideas): **76%**
 - Evaluation (quality checking): **55%** — the lowest, consistent with Evaluation being the activity where verification work shifts in.
 
-**Quantitative regression coefficients (Benjamini–Hochberg-corrected p-threshold = 0.007)** [p.10, Table 4]:
+**Quantitative regression coefficients (Table 4 reports Benjamini–Hochberg-adjusted p-values)** [p.10, Table 4]:
 - Confidence in AI → enaction of critical thinking: **β = −0.69, p < 0.001**
 - Confidence in self → enaction: β = +0.26, p = 0.026
 - Confidence in evaluation → enaction: β = +0.31, p = 0.046
@@ -82,15 +82,11 @@ The paper's survey scale gives KB-relevant prevalence figures that small-N lab s
 
 ## Relevance
 
-Three load-bearing contributions:
+The 936 examples from 319 workers concern reported thinking and effort, not objective capability or causal mechanisms. Task-specific confidence in AI was negatively associated with reported critical thinking; self-confidence was positively associated. Neither confidence measure is a direct measure of expertise.
 
-- **Survey evidence with a defined sample.** The 936 examples from 319 workers concern reported thinking and effort, not measured prevalence of mechanisms established by Fan, Bastani, Kosmyna or Stadler. Comparing these sources requires keeping self-report, task-process and performance outcomes separate.
+The proposed shift toward task stewardship describes verification and integration work. It need not mean [[metacognitive-laziness]] or loss of agency: active monitoring may be part of that work. [[performance-paradox]] and [[professional-identity-threat]] ask related but distinct questions.
 
-- **The confidence pair.** β = −0.69 (confidence in AI → less critical thinking) and β = +0.26 (confidence in self → more critical thinking) is the cleanest survey-level demonstration that *who* is confident determines whether GenAI use is engaged or surrendered. Trust-in-GenAI also flattens perceived effort across four of six Bloom activities. This is the field-scale analogue of Shaw & Nave's lab finding that AI access inflates confidence by ~12 percentage points regardless of accuracy, and of Fernandes et al.'s Bayesian decomposition showing AI use raises everyone to a uniform high baseline overestimation. Lee et al. extends both to actual workflows and shows the pattern is bidirectional: domain expertise (self-confidence) protects, AI-confidence undermines.
-
-- **The "task stewardship" framing.** The paper's signature qualitative contribution — that knowledge workers shift "from task execution to task stewardship" for Analysis, Synthesis, and Evaluation activities — is a useful naming for what `[[metacognitive-laziness]]` and `[[performance-paradox]]` are reaching toward. Stewardship is "guide and monitor AI to produce high-quality outputs" while "responsibility and accountability for the work still resides with the human user." The Discussion of [[bartos-ai-learning-meta-meta-2026]] cites Lee et al. 2025, but does not test task stewardship as a mediator. Its adjusted average learning estimate remains positive. The framing also crisply names what `[[professional-identity-threat]]` calls "editor not creator" at a different level of analysis.
-
-The paper's design is a survey, not an RCT — correlations are not causation, and self-reports may conflate "less general effort" with "less critical thinking effort" (limitation explicitly noted in [p.15]). But for the KB's purposes (documenting prevalence patterns and validating lab-derived mechanisms in the wild), the survey methodology is appropriate and the analysis is rigorous (random-intercepts regressions with Benjamini–Hochberg correction across 98 hypothesised predictors).
+[[bartos-ai-learning-meta-meta-2026]] discusses Lee among possible explanations for learning outcomes without testing stewardship as a mediator. Comparisons with [[shaw-cognitive-surrender-2026]] and [[fernandes-metacognition-2025]] require keeping advice acceptance, global self-assessment and reported effort separate.
 
 ## Supports
 
@@ -109,14 +105,14 @@ The paper's design is a survey, not an RCT — correlations are not causation, a
 ## Contradicts / Extends
 
 - Related to [[fan-metacognitive-laziness-2025]]: Fan studied essay revision and task processes in an experiment; Lee studied self-reported thinking in workplace examples. They motivate further comparison, not proof of a shared causal mechanism.
-- Extends [[shaw-cognitive-surrender-2026]] — Shaw reports 79.8% faulty-advice acceptance in Study 1 among AI-engaged faulty trials; Lee et al. provides the workflow-level prevalence: 55–79% effort reduction across Bloom activities, 83/319 citing trust-in-AI as the inhibitor of critical thinking. Same phenomenon, different measurement scale.
+- Extends [[shaw-cognitive-surrender-2026]] — Shaw reports 79.8% faulty-advice acceptance in Study 1 among AI-engaged faulty trials; Lee et al. provides the workflow-level prevalence: 55–79% effort reduction across Bloom activities, 83/319 citing trust-in-AI as the inhibitor of critical thinking. These are different measures; the survey does not validate the experimental mechanism.
 - Extends [[handa-economic-tasks-claude-2025]] — Handa shows *which* tasks are performed with AI (telemetry over Claude conversations); Lee et al. shows *how* knowledge workers report engaging cognitively *during* those tasks. Complementary: the activity layer (Handa) and the cognitive-engagement layer (Lee).
-- Aligns with [[lee-relying-self-efficacy-2026]] — different Lee author (Eunhee H. Lee, USC Marshall) and different study design (preregistered experiment + survey on self-efficacy/ownership/meaning). Both Lee papers identify *mode-of-AI-use as the moderator*: passive copying (Lee 2026) / high-trust uncritical use (Lee 2025) undermines, while active collaboration / self-confident engaged use preserves. Verified non-duplicate at the triage stage.
+- Aligns with [[lee-relying-self-efficacy-2026]] — different Lee author (Eunhee H. Lee, USC Marshall) and different study design (preregistered experiment + survey on self-efficacy/ownership/meaning). The 2026 study compares modes of use; the 2025 survey concerns reported confidence and critical-thinking effort. Their results do not establish equivalent causal effects. The two sources have different authors, designs and outcomes.
 
 ## Open Questions
 
 - The paper's confidence-thinking association is correlational and self-report-based. The authors explicitly note self-reports may conflate "reduced effort using GenAI" with "reduced effort doing critical thinking" [p.15]. A think-aloud or task-based assessment design would help disentangle these. Cited as a future-work direction by the authors.
 - Sample skews younger and more tech-skilled (Prolific platform, weekly GenAI use minimum criterion). Older or less tech-oriented professionals may show different patterns. The English-only design also leaves cross-cultural and non-English-language workflows untested.
-- The "task stewardship" framing is descriptive. What is the *threshold* of stewardship effort below which critical engagement collapses? The paper observes the shift but doesn't quantify the slope. KB's `[[strategic-alternation]]` and `[[think-first]]` would benefit from operational guidance grounded in stewardship-effort levels.
+- The "task stewardship" framing is descriptive. What is the *threshold* of stewardship effort below which critical engagement collapses? The paper observes the shift but doesn't quantify the slope. Practices such as [[strategic-alternation]] and [[think-first]] would benefit from operational guidance grounded in stewardship-effort levels.
 - The interaction between confidence-in-self and confidence-in-AI is not tested directly (no interaction term in the regression). The paper interprets each coefficient marginally, but a worker who is confident in both — or in neither — may behave differently. Cleaner experimental work could disentangle.
 - Three motivator/inhibitor categories (awareness, motivation, ability) are presented as design-implication-ready. But the paper does not test interventions; the design implications are extrapolations. Empirical validation of awareness-targeted, motivation-targeted, and ability-targeted GenAI interventions remains future work.

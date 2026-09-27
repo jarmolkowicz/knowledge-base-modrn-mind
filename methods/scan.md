@@ -9,11 +9,11 @@ sources:
 
 ## Overview
 
-A human-centric decision-making framework for task assignment with Generative AI. SCAN helps users "scan" their knowledge space before each task to decide how to involve AI appropriately.
+A human-centric decision-making framework for task assignment with Generative AI. Tsim and Gutoreva propose using SCAN to consider task knowledge before allocating work. The framework and risk categories have not been empirically validated.
 
 ## Core Model
 
-SCAN extends Vygotsky's Zone of Proximal Development by adding a third dimension: "Known to GenAI." This creates four sub-zones:
+SCAN extends Vygotsky's Zone of Proximal Development by adding a third dimension: "Known to GenAI." This creates four proposed sub-zones; the risk labels are hypotheses, not measured probabilities:
 
 | Zone | Description | Risk Level |
 |------|-------------|------------|
@@ -31,7 +31,7 @@ Before each task:
 
 ## Upskilling Path
 
-Tasks should migrate from S → A → C over time as task-specific knowledge accumulates. Deskilling occurs when tasks slip from C → A due to over-reliance.
+The proposed upskilling path is S → A → C; the proposed deskilling path moves in reverse. Self-assigned zone changes are not evidence of skill gain or loss. Assess independent performance rather than inferring learning from a label.
 
 ## Strengths
 

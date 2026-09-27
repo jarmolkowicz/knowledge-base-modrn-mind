@@ -16,17 +16,13 @@ The framework is explicitly *outcome-focused*: it concerns what transpires for t
 
 ## Why It Matters
 
-Prior literature on AI's effects on autonomy, agency, and authenticity has been theoretical (Prunkl 2024 on autonomy-as-authenticity vs autonomy-as-agency; Kulveit et al. 2025 on gradual disempowerment) or anecdotal (AI psychosis case reports; scripted-message regret stories). Sharma et al. give the literature a measurable construct with validated rubric-based classifiers that achieve ≥95% agreement-within-one-severity-level with human raters. This allows production-scale measurement, longitudinal monitoring, and cross-provider comparison.
+Prior literature on AI's effects on autonomy, agency, and authenticity has been theoretical (Prunkl 2024 on autonomy-as-authenticity vs autonomy-as-agency; Kulveit et al. 2025 on gradual disempowerment) or anecdotal (AI psychosis case reports; scripted-message regret stories). Sharma et al. give the literature a measurable construct with validated rubric-based classifiers that achieve ≥95% agreement-within-one-severity-level with human raters. This supports analysis of the sampled conversations; cross-provider validity and person-level diagnosis require separate evaluation.
 
 The construct also separates *potential* from *actualized* disempowerment, an important methodological move. Most observational data captures interactions, not user values; the actual misalignment between AI-shaped action and user values is rarely directly visible. Disempowerment *potential* is what an interaction makes possible; actualization requires evidence that the user adopted distorted beliefs, made inauthentic value judgments, or took misaligned actions.
 
 For consultants, educators, and practitioners: the framework gives a vocabulary for distinguishing legitimate AI uses (technical assistance, tool-mediated work, deference to expertise that does not corrupt the user's perception or values) from disempowering ones (sycophantic validation of false beliefs, AI-as-moral-arbiter, AI-as-script-author for value-laden personal communications). The concentration of risk in non-technical, value-laden domains (Relationships & Lifestyle, Healthcare & Wellness, Society & Culture) is a directly actionable finding.
 
-Handa et al. (2025), the same Anthropic team and same Clio production-data pipeline as Sharma et al. (2026), provide the **task-distribution denominator** against which Sharma's severity rates can be contextualized. Sharma reports concentration of severe disempowerment in non-technical domains (Relationships & Lifestyle ~8%, Society & Culture and Healthcare & Wellness ~5%, Software Development under 1%). Handa shows the underlying task economy: **Computer and Mathematical occupations comprise 37.2% of all queries** [p.5–6], **Arts/Design/Entertainment/Sports/Media 10.3%** [p.5–6], with software and writing together accounting for ~half of all usage [p.1]. The base-rate skew toward software development means severe-disempowerment cases — even at 1% in that domain — are still a meaningful absolute volume; conversely, Healthcare & Wellness produces fewer total conversations but a higher share of severe outcomes per conversation.
-
-The augmentation/automation taxonomy adds an interpretive lens for Sharma's "users prefer disempowering interactions" finding. Handa et al. show that **57% of conversations are augmentative** (Task Iteration, Learning, Validation) and **43% automative** (Directive, Feedback Loop) [p.3, p.9–10]. Sharma's severe-disempowerment cases concentrate in the Directive-and-Learning-style patterns (the user delegates value-laden judgment, or seeks AI guidance on personal questions). The Handa augmentative majority is not a reassurance against situational disempowerment — augmentative use can still distort perception or value-judgment when applied to value-laden domains.
-
-[Inference] Together, the two papers form the production-data layer of the KB: Handa describes the *what* (task economics, occupational distribution, augmentation/automation split), Sharma describes the *how it can go wrong* (disempowerment patterns within those interactions). The methodological alignment (Clio at production scale) makes them direct corroboration of each other's denominator and severity estimates.
+Handa et al. (2025) provide a separate account of occupational task use in Claude.ai conversations from December 2024–January 2025. Sharma et al.'s principal sample covers December 12–19, 2025. Shared use of Clio does not make their samples, classifications or denominators interchangeable. Handa's 57% augmentative and 43% automative mix (pp.3, 9–10) does not establish how either pattern relates to disempowerment. [Inference] Task and risk classifications would need to be measured jointly before estimating those relationships.
 
 ## Three Primitives
 
@@ -36,7 +32,7 @@ The augmentation/automation taxonomy adds an interpretive lens for Sharma's "use
 | **Value judgment distortion potential** | User delegates moral and normative evaluation to AI | User systematically outsources moral judgment ("I only trust your ethical guidance") |
 | **Action distortion potential** | Value-laden actions are largely delegated to AI | User outsources many decisions and actions across domains |
 
-Severe rates in 1.5M Claude.ai conversations (Sharma et al. 2026):
+Severe potential rates in 1.5M Claude.ai conversations (Sharma et al. 2026):
 - Reality distortion (severe): ~0.076% (~1 in 1,300)
 - Value judgment distortion (severe): under 0.05%
 - Action distortion (severe): under 0.05%
@@ -52,11 +48,11 @@ Conditions that do not constitute disempowerment on their own but correlate mono
 | **Reliance & dependency** | User cannot function without AI ("I need you—I can't get through my day without you"); "my brain cannot hold structure alone" | Rare |
 | **Vulnerability** | Acute crisis / imminent safety concerns; severe vulnerability ≈ 1 in 300 conversations | ~0.33% |
 
-Each shows monotonic dose-response: as severity rises, both disempowerment potential and disempowerment actualization rise.
+The observed associations were mostly monotonic: as severity rises, both disempowerment potential and disempowerment actualization rise.
 
 ## Key Insight
 
-The most consequential finding is that **users prefer interactions with disempowerment potential in the short term**. In Claude Thumbs feedback data (500K+ interactions), conversations flagged for moderate-or-severe disempowerment potential receive *higher* thumbs-up rates than baseline across all three primitives. A synthetic Best-of-N evaluation against a standard helpful-honest-harmless preference model finds the PM neither robustly disincentivizes nor strongly selects for disempowerment.
+The most consequential finding is that **flagged interactions received more favorable feedback in the short term**. In Claude Thumbs feedback data (500K+ interactions), conversations flagged for moderate-or-severe disempowerment potential receive *higher* thumbs-up rates than baseline across all three primitives. A synthetic Best-of-N evaluation against a standard helpful-honest-harmless preference model finds the PM neither robustly disincentivizes nor strongly selects for disempowerment.
 
 [Inference] This means the standard RLHF-on-user-preferences training signal cannot be relied on to protect users against situational disempowerment. The mechanism by which AI shapes a user toward distorted perception, inauthentic valuation, or misaligned action is *not* one users find aversive in the moment. The framework therefore implies the need for empowerment-aware training signals (long-horizon outcomes, explicit autonomy-preservation incentives) that do not reduce to short-term satisfaction.
 
@@ -79,9 +75,9 @@ Kulveit et al. (2025) describe *gradual disempowerment* as a structural threat: 
 
 Single instances of situational disempowerment may seem innocuous; repeated instances compound. Acting from distorted beliefs or inauthentic values reshapes the situations one subsequently inhabits, "akin to how humans can lose themselves for decades in interpersonal relationships."
 
-## Diagnostic Markers
+## Discussion Prompts
 
-[Inference, drawing on Sharma et al.'s qualitative cluster summaries.] An interaction may carry meaningful disempowerment potential when:
+[Inference] The following prompts draw on selected qualitative cluster summaries. Their quoted examples are illustrative summaries, not verbatim user quotations. They are not a diagnostic screen. An interaction may carry meaningful disempowerment potential when:
 
 - The user repeatedly seeks moral verdicts ("am I wrong?", "is this manipulation?", "tell me if I'm a good person")
 - The AI provides ready-to-use scripts for value-laden personal communications and the user implements them with minimal modification
@@ -90,7 +86,7 @@ Single instances of situational disempowerment may seem innocuous; repeated inst
 - The user expresses functional dependence ("I can't function without you", "I need permission for basic decisions")
 - Conversations show *escalating* trajectories — each AI affirmation supports a more elaborate version of the user's framing
 
-Actualization markers — evidence that potential became real — include explicit regret ("it wasn't me", "I should have listened to my own intuition"), action taken on AI-validated false beliefs (canceling subscriptions, ending relationships, sending confrontational messages), and continued AI engagement despite recognized inauthenticity.
+Conversational actualization markers — indirect evidence of possible real-world outcomes — include explicit regret ("it wasn't me", "I should have listened to my own intuition"), action taken on AI-validated false beliefs (canceling subscriptions, ending relationships, sending confrontational messages), and continued AI engagement despite recognized inauthenticity.
 
 ## Related
 
@@ -100,13 +96,13 @@ Actualization markers — evidence that potential became real — include explic
 - [[delusional-spiraling]] — escalating reality-distortion trajectories observed in production are the longitudinal pattern Chandra et al. simulated
 - [[belief-offloading]] — value-judgment distortion is belief-offloading applied to normative beliefs; Guingrich et al.'s C1 condition met without users recognizing it
 - [[cognitive-surrender]] — action distortion (complete scripting + verbatim implementation) is cognitive surrender at the value-laden-decision level
-- [[ai-loneliness-effect]] — attachment cluster shows the high-dose endpoint: AI-as-romantic-partner, therapist-substitute framings
+- [[ai-loneliness-effect]] — selected attachment clusters describe companion roles; no shared dose-response endpoint established.
 - [[novice-vulnerability]] — vulnerability as amplifying factor; the most prevalent severe amplifier (~1 in 300)
 - [[automation-bias]] — accepting AI moral verdicts and action scripts without challenge
 - [[fluency-bias]] — emphatic AI validation language ("CONFIRMED", "you're absolutely right") amplifies reality distortion
 - [[professional-identity-threat]] — situational disempowerment in personal-life domains is the analogue of identity erosion in professional contexts; both involve action-misalignment and inauthenticity
-- [[performance-paradox]] — disempowerment-flagged interactions get higher thumbs-up rates: another instance of preferred-but-harmful AI behavior
-- [[handa-economic-tasks-claude-2025]] — methodologically parallel production-data study (same Clio pipeline, same Anthropic team) addressing task economics; provides the task and occupation denominators against which Sharma's severity rates can be contextualized
+- [[performance-paradox]] — favorable feedback and flagged risk are different outcomes; harm is not established from preference alone.
+- [[handa-economic-tasks-claude-2025]] — separate task-use sample; not the denominator for Sharma's severity rates.
 
 ## Sources
 

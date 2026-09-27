@@ -27,11 +27,11 @@ Parasuraman and Riley introduce the **four-part taxonomy of human-automation int
 - **Disuse** — *underreliance*. Mistrust — usually from false-alarm-prone alerts — leads operators to ignore, disable, or override automation that could help. The Conrail train operators tape-recording over speed-violation buzzers is the canonical example.
 - **Abuse** — *inappropriate design or deployment*. Designers and managers automating "without due regard for the consequences for human performance," producing systems where the operator's role becomes a by-product of what was left unautomated.
 
-The conceptual move that makes this taxonomy load-bearing for the AI era is the **vicious circle** the authors trace among the four modes: abuse (bad design) creates conditions for misuse (overreliance) and disuse (mistrust); when operators err under those conditions, designers and managers respond with *more* high-level automation; the cycle continues. The framework is therefore not just a classification — it's a feedback model of how human-automation systems decay over time when each mode is treated as someone else's problem.
+The authors describe a possible **vicious circle** among the four modes: abuse (bad design) creates conditions for misuse (overreliance) and disuse (mistrust); when operators err under those conditions, designers and managers respond with *more* high-level automation; the cycle continues. The framework is therefore not just a classification — it's a feedback model of how human-automation systems decay over time when each mode is treated as someone else's problem.
 
-The 1997 evidence is drawn primarily from aviation (autopilots, Flight Management Systems, GPWS), ground transportation (railroad alerts, automotive collision warning), and process control. The mechanisms it names — **automation bias** (heuristic over-reliance on AI cues at the expense of disconfirming evidence), **complacency** (degraded monitoring under stable autonomy), and **trust calibration** — translate directly to AI-assisted knowledge work, even though the original substrate was hardware control loops.
+The 1997 evidence is drawn primarily from aviation (autopilots, Flight Management Systems, GPWS), ground transportation (railroad alerts, automotive collision warning), and process control. The mechanisms it discusses — **automation bias** (heuristic over-reliance on AI cues at the expense of disconfirming evidence), **complacency** (degraded monitoring under stable autonomy), and **trust calibration** — offer hypotheses for AI-assisted knowledge work, even though the original substrate was hardware control loops.
 
-For human thinking with AI: this is the foundational literature for understanding why simply *adding* AI to a workflow without redesigning the human's role tends to fail in predictable ways. The KB's [[automation-bias]], [[novice-vulnerability]], trust-calibration-adjacent entries, and [[performance-paradox]] all rest on mechanisms first named here.
+[Inference] The taxonomy can help examine AI-assisted work, but transfer from transport and process control requires task-specific evidence.
 
 ## Key Passages
 
@@ -58,31 +58,24 @@ For human thinking with AI: this is the foundational literature for understandin
 
 ## Relevance
 
-The conceptual scaffolding for almost everything in the KB about over-trust and under-trust of AI systems originates here. Three load-bearing contributions:
-
-- **Names automation bias as a measurable phenomenon, not a metaphor.** The 77% monitoring-failure rate in ASRS overreliance incidents (Mosier et al. 1994, cited at p.6) and the empirical demonstration that expertise *doesn't* protect against the bias (student vs. professional pilot equivalence) ground the construct in evidence. KB entries like [[automation-bias]], [[fluency-bias]], and [[performance-paradox]] cite back to this lineage even when they don't cite this paper directly.
-- **Frames trust as miscalibration, not a binary.** The paper insists that trust is multidimensional — varying with reliability, observed failures, base rates, and individual disposition — and that both overtrust (misuse) and undertrust (disuse) are failures of *calibration*, not failures of "trusting AI" per se. This is exactly what the KB's [[calibration]] method operationalizes for AI use, and what [[scan]] navigates per task.
-- **Identifies the abuse → misuse/disuse cascade.** Most contemporary AI-erosion arguments focus on user behavior. Parasuraman and Riley's structural insight is that user behavior is downstream of design and management choices, and that responding to user errors with *more* automation creates a feedback loop. This anticipates the [[upskilling-deskilling-paradox]] mechanism by 25 years.
+Distinguishes overreliance, underuse and design or management failures. The review treats user behavior as part of a wider human-automation system. Its aviation and process-control examples show that expertise does not guarantee immunity from automation bias; they do not show expertise never helps.
 
 ## Supports
 
-- [[automation-bias]] — foundational evidence, including the disconfirming-evidence-blindness mechanism
-- [[cognitive-offloading]] — overreliance as the offloading mode that fails monitoring
-- [[novice-vulnerability]] — but with an important nuance: this paper shows expertise doesn't protect, contra a naive reading of novice-vulnerability
-- [[performance-paradox]] — the monitoring failure that hides until the automation hits a case it can't handle
-- [[calibration]] — trust calibration as the operational response to all four modes
-- [[scan]] — task-zone classification builds on the use-decision factors named here
-- [[upskilling-deskilling-paradox]] — the abuse→misuse cascade is the structural mechanism
-- [[goddard-automation-bias-2012]] — direct empirical follow-up in clinical decision support
-- [[hohenstein-crumple-zone-2020]] - a different attribution pattern: AI absorbs some blame otherwise assigned to a human communicator
-- [[bauer-discontinuing-ml-2022]] — disuse in modern ML deployment
-- [[jagged-frontier]] — modern restatement of the automation-bias mechanism
+- [[automation-bias]] — evidence and theory concerning overreliance and monitoring failure.
+- [[cognitive-offloading]] — related delegation question; offloading is not necessarily misuse.
+- [[novice-vulnerability]] — expertise does not guarantee immunity, but the review does not establish zero protection.
+- [[calibration]] — trust should reflect reliability and task conditions.
+- [[performance-paradox]], [[scan]] and [[upskilling-deskilling-paradox]] — [Inference] related later frameworks, not effects first established here.
+- [[goddard-automation-bias-2012]] and [[bauer-discontinuing-ml-2022]] — later research with different tasks and designs.
+- [[hohenstein-crumple-zone-2020]] — a separate interpersonal responsibility-attribution experiment.
+- [[jagged-frontier]] — task variation is related to, but distinct from, automation bias.
 
 ## Contradicts / Extends
 
-- Anticipates [[dellacqua-jagged-frontier-2023]] — Dell'Acqua's "jagged frontier" is the modern restatement of the automation-bias point: when AI is right, overreliance is fine; when AI is wrong, the human's failure to monitor is catastrophic, and the line between right and wrong shifts unpredictably.
-- Aligns with [[shaw-cognitive-surrender-2026]] — Shaw and Nave's Study 1 finding that 79.8% of AI-engaged faulty trials involved acceptance of the faulty answer is the contemporary measurement of what Parasuraman and Riley named overreliance/automation-bias from accident-investigation evidence.
-- The taxonomy itself benefits from a contemporary extension. AI knowledge work introduces a fifth mode the original paper couldn't anticipate — the case where the *output* of automation looks fluent and confident regardless of whether the underlying process succeeded ([[fluency-bias]], [[coherence-trap]]). In hardware control loops, an autopilot's failure mode is usually visible as anomalous behavior; in LLM output, failure modes can be undetectable from surface form.
+- [[dellacqua-jagged-frontier-2023]] concerns task-specific effects of AI assistance; it is not simply a restatement of automation bias.
+- [[shaw-cognitive-surrender-2026]] studies acceptance of AI answers in a different setup. Similar overreliance patterns do not establish an identical mechanism.
+- [Inference] [[fluency-bias]] and [[coherence-trap]] may complicate monitoring in text-based systems. They are not a fifth mode proposed by this four-part taxonomy.
 
 ## Open Questions
 

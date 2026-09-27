@@ -18,7 +18,7 @@ Article (peer-reviewed Correspondence in *Nature Human Behaviour*)
 
 ## Key Insight
 
-Chiriatti and colleagues propose that data-driven AI systems constitute a *system 0* — a foundational, non-biological substrate of distributed intelligence that operates *underneath* Kahneman's System 1 and System 2, preprocessing the inputs that reach intuitive and analytical thinking. Unlike Shaw & Nave's later "System 3" framing, which treats AI as a parallel cognitive agent on the *output* side of decisions, system 0 is positioned on the *input* side — shaping what reaches the mind in the first place. The construct meets all eight of Heersmink's cognitive-extension criteria but lacks meaning-making capacity, so its outputs require human interpretation through System 1 and System 2 to become meaningful.
+Chiriatti and colleagues propose that data-driven AI systems constitute a *system 0* — a foundational, non-biological substrate of distributed intelligence that operates *underneath* Kahneman's System 1 and System 2, preprocessing the inputs that reach intuitive and analytical thinking. [Inference] Compared with Shaw & Nave's later "System 3" framing, which treats AI as a parallel cognitive agent on the *output* side of decisions, system 0 is positioned on the *input* side — shaping what reaches the mind in the first place. The authors argue that the construct meets all eight of Heersmink's cognitive-extension criteria but lacks meaning-making capacity, so its outputs require human interpretation through System 1 and System 2 to become meaningful.
 
 ## Key Passages
 
@@ -36,14 +36,14 @@ Chiriatti and colleagues propose that data-driven AI systems constitute a *syste
 
 ## Relevance
 
-Names a labeled construct — *system 0* — that fills a gap the existing KB has not articulated: AI as the *pre-conscious layer* that shapes what reaches the mind, distinct from AI as a *parallel cognitive partner* on the output side. The Heersmink eight-criterion framework (information flow, reliability, durability, trust, procedural transparency, informational transparency, individualization, transformation) gives practitioners and researchers a structured way to assess how tightly any given AI tool is functionally integrated into a user's cognition. The piece also explicitly enumerates erosion-of-autonomy mechanisms (decreased autonomy, accountability gaps, introspection deferral, synthetic-data drift, intellectual complacency) that the KB tracks under several existing concept entries.
+Proposes *system 0* as a way to consider AI as the *pre-conscious layer* that shapes what reaches the mind, distinct from AI as a *parallel cognitive partner* on the output side. The Heersmink eight-criterion framework (information flow, reliability, durability, trust, procedural transparency, informational transparency, individualization, transformation) gives practitioners and researchers a structured way to assess how tightly any given AI tool is functionally integrated into a user's cognition. The piece also explicitly enumerates erosion-of-autonomy mechanisms (decreased autonomy, accountability gaps, introspection deferral, synthetic-data drift, intellectual complacency) that relate to autonomy and independent judgment.
 
 ## Key Findings
 
 This is a theoretical Correspondence, not an empirical study. The contributions are:
 
 - A theoretical proposal: AI as *system 0*, a foundational substrate underneath System 1 and System 2, framed as a *preprocessor and enhancer of information* rather than a parallel cognitive system.
-- A formal cognitive-extension assessment: AI satisfies all eight of Heersmink's (2015) criteria — information flow (two-way), reliability (rising), durability (entrenched), trust (uncritically high), procedural transparency (effortless), informational transparency (fluent), individualization (personalized), transformation (augmenting).
+- A theoretical cognitive-extension argument: the authors propose that AI satisfies all eight of Heersmink's (2015) criteria — information flow (two-way), reliability (rising), durability (entrenched), trust (uncritically high), procedural transparency (effortless), informational transparency (fluent), individualization (personalized), transformation (augmenting).
 - A structural distinction: system 0 lacks meaning-making capacity. It processes and manipulates data efficiently but does not understand it; meaning emerges only via System 1 and System 2 interpretation.
 - An ethics agenda: decreased autonomy, accountability gaps, introspection deferral, synthetic-data drift, erosion of independent reasoning, intellectual complacency.
 - Five recommendations: evaluation frameworks for AI reliability/transparency/bias, ethical guidelines for AI in decision-making, digital literacy and critical thinking education, interdisciplinary research, and inclusive public dialogue.
@@ -51,19 +51,19 @@ This is a theoretical Correspondence, not an empirical study. The contributions 
 ## Supports
 
 - [[system-0-thinking]] — names and defines the framework this source proposes
-- [[tri-system-theory]] — sibling theoretical proposal extending dual-process theory to include AI; system 0 (input-side substrate) and System 3 (output-side parallel agent) are complementary rather than competing framings
+- [[tri-system-theory]] — sibling theoretical proposal extending dual-process theory to include AI; system 0 (input-side substrate) and System 3 (output-side parallel agent) are treated here as potentially complementary framings [Inference]
 - [[cognitive-offloading]] — system 0 is the substrate that makes broad cognitive offloading possible; the article frames offloading as the daily mechanism through which system 0 integrates with cognition
-- [[cognitive-surrender]] — the article's "blindly trust the output without questioning" passage maps closely onto cognitive surrender; system 0 provides a theoretical account of *why* surrender becomes the default
+- [[cognitive-surrender]] — the article's "blindly trust the output without questioning" passage maps closely onto cognitive surrender; system 0 proposes a possible account of uncritical reliance, not proof that surrender is the default
 - [[automation-bias]] — Heersmink's "trust" criterion captures the bias mechanism at the cognitive-extension level
 - [[fluency-bias]] — system 0's "informational transparency" criterion (fluent receipt and interpretation of information) matches the fluency-bias mechanism
 - [[capacity-erosion]] — the article explicitly names erosion of critical thinking, independent judgment, innovation, and creativity through habitual system 0 reliance
-- [[metacognition]] — habitual system 0 use shifts the locus of monitoring from internal metacognition to AI-mediated computation
+- [[metacognition]] — the authors propose that habitual system 0 use can shift the locus of monitoring from internal metacognition to AI-mediated computation
 - [[messeri-crockett-illusions-understanding-2024]] — cited as ref. 10 in support of erosion claims; system 0 is positioned as a structural account of the dynamic Messeri & Crockett describe
-- [[borrowed-certainty]] — system 0's role as preprocessor of inputs accelerates the inheritance of unearned certainty from AI outputs
+- [[borrowed-certainty]] — [Inference] preprocessing could affect how users inherit certainty; this mechanism is not tested here
 
 ## Contradicts / Extends
 
-- Extends: [[tri-system-theory]] — Shaw & Nave (2026) place AI as System 3, a parallel cognitive agent at the *output* side of decision-making. Chiriatti et al. (2024) — published earlier — place AI as System 0, a substrate at the *input* side that shapes what reaches System 1 and System 2. The two framings target different aspects of human–AI cognition: route/decision flow (Shaw & Nave) vs. preprocessing/extension (Chiriatti et al.). They are complementary sibling theories rather than rivals; together they suggest AI affects cognition both upstream (filtering inputs) and downstream (substituting for outputs). [Inference: the authors of each paper do not cite the other and do not treat them as a unified theory; the integration here is the KB's synthesis.]
+- Extends: [[tri-system-theory]] — Shaw & Nave (2026) place AI as System 3, a parallel cognitive agent at the *output* side of decision-making. Chiriatti et al. (2024) — published earlier — place AI as System 0, a substrate at the *input* side that shapes what reaches System 1 and System 2. The two framings target different aspects of human–AI cognition: route/decision flow (Shaw & Nave) vs. preprocessing/extension (Chiriatti et al.). They are complementary sibling theories rather than rivals; together they suggest AI affects cognition both upstream (filtering inputs) and downstream (substituting for outputs). [Inference: the authors of each paper do not cite the other and do not treat them as a unified theory; the integration here is an editorial synthesis.]
 - Extends: the *extended mind* tradition (Clark & Chalmers, 1998; Heersmink, 2015) — applies the cognitive-extension framework to AI specifically, arguing all eight Heersmink criteria are satisfied with varying degrees.
 - Contradicts: naive "AI as just another tool" framings — by formalizing AI as a distinct *psychological system* with its own structural properties (lack of meaning-making, preprocessing role, distributed nature across multiple artefacts), the article rejects positions that treat AI as a passive instrument equivalent to a calculator or search engine.
 

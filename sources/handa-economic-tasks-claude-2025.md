@@ -18,7 +18,7 @@ Paper (large-scale observational analysis: ~4M Claude.ai Free and Pro conversati
 
 ## Key Insight
 
-Handa et al. provide the first production-data measurement of which economic tasks are actually being performed with AI, against which forecasts and surveys can be tested. Three findings reframe the KB's empirical baseline. First, AI usage is task-concentrated, not occupation-wide: ~36% of occupations show AI usage in at least 25% of their tasks but only ~4% see usage across 75% of tasks — meaning current AI is integrating selectively into specific tasks rather than wholesale automating jobs. Second, usage peaks in the upper-middle wage quartile (Computer Programmers, Web Developers) and falls off at both extremes — both the lowest-wage and highest-wage occupations show low usage, suggesting non-technical-feasibility factors (regulatory barriers, organizational readiness, physical-manipulation requirements) shape adoption. Third, the augmentation/automation split is roughly 57/43 in favor of augmentative patterns (Task Iteration, Learning, Validation), with automative patterns (Directive, Feedback Loop) the minority — partial-automation behavior is the empirical norm at production scale, not just a normative recommendation.
+Handa et al. provide a production-data account of which economic tasks are actually being performed with AI, against which forecasts and surveys can be tested. The study reports three main patterns. First, sampled conversations map to particular tasks rather than establishing occupation-wide adoption: ~36% of occupations show AI usage in at least 25% of their tasks but only ~4% see usage across 75% of tasks — meaning current AI is integrating selectively into specific tasks without establishing occupation-wide automation. Second, usage peaks in the upper-middle wage quartile (Computer Programmers, Web Developers) and falls off at both extremes — both the lowest-wage and highest-wage occupations show low usage, suggesting non-technical-feasibility factors (regulatory barriers, organizational readiness, physical-manipulation requirements) shape adoption. Third, the augmentation/automation split is roughly 57/43 in favor of augmentative patterns (Task Iteration, Learning, Validation), with automative patterns (Directive, Feedback Loop) the minority — this describes classified patterns in the sample, not evidence for the benefits of partial automation.
 
 ## Key Passages
 
@@ -81,7 +81,7 @@ Handa et al. provide the first production-data measurement of which economic tas
 - [p.9] caveat: "users might edit and adjust the response they receive from Claude outside the chat window, suggesting that the true proportion of augmentative conversations may be even higher"
 
 **Comparison with predictions ([p.12–13]):**
-- Eloundou et al. (2023) predicted 80% of U.S. workers could have ≥10% of tasks affected; Handa et al. find current adoption at ~57% of occupations using AI for ≥10% of tasks — lower but trending toward forecast
+- Eloundou et al. (2023) predicted 80% of U.S. workers could have ≥10% of tasks affected; Handa et al. find mapped conversations for ≥10% of tasks in ~57% of occupations; this differs from a forecast about percentages of workers
 - Webb (2019) predicted peak exposure at the 90th wage percentile; Handa et al. find peak usage at mid-to-high wages with falloff at both extremes
 - Predicted high usage in healthcare has not yet materialized; observed higher usage in scientific applications than predicted
 
@@ -92,36 +92,32 @@ Handa et al. provide the first production-data measurement of which economic tas
 
 ## Relevance
 
-This paper provides the missing production-data baseline for the KB's "what people actually use AI for" question. Prior to Handa et al., KB claims about task-level AI usage rested on forecasts (Eloundou, Webb), small-N field experiments (Bastani, Shen, Cui), and self-reported surveys (Humlum, Bick) — each useful but none observing actual production usage at scale. Handa et al. observe ~4M conversations on a major model provider and map them to a standardized occupational task taxonomy.
+The study maps about four million Claude.ai Free and Pro conversations to occupational tasks. It provides a large descriptive sample, but neither observes whether users work in those occupations nor establishes whether outputs enter real work.
 
-Three KB-level uses:
+The 57% augmentation / 43% automation split concerns conversation labels. It does not measure retained skill, job loss, worker identity, beneficial task allocation or strict human–AI synergy.
 
-1. **Empirical anchor for task-concentration claims.** Where existing KB entries assert that AI is "concentrated in" specific tasks (e.g., [[execution-commoditization]], [[novice-vulnerability]] discussions of which professions face risk first), Handa et al. supply quantitative confirmation. Software development, writing, analytical tasks dominate; physical-manipulation tasks remain low.
-
-2. **Empirical anchor for the augmentation/automation distinction.** [[partial-automation-principle]] and [[human-ai-complementarity]] make normative claims about when partial-vs-full automation is preferable. Handa et al. show that at production scale, augmentative patterns (Task Iteration, Learning, Validation) are already the majority — 57% — without any explicit design intervention. This is descriptive evidence that users naturally gravitate toward augmentative use even on a default-text-chat product.
-
-3. **Counter-anchor for hype and over-pessimism.** The depth-of-usage finding (only ~4% of occupations show AI usage across ≥75% of tasks) is a quantitative corrective to both "AI is taking everyone's job" and "AI changes nothing" framings. Current AI integrates selectively into specific tasks within occupations rather than wholesale automating jobs.
+[Inference] Frequently represented tasks may be useful places to investigate [[execution-commoditization]] and [[novice-vulnerability]]. The study does not establish either outcome.
 
 ## Supports
 
 - [[partial-automation-principle]] — production-scale evidence that the partial-automation pattern is the dominant emergent practice (57% augmentative) rather than only a normative recommendation
 - [[human-ai-complementarity]] — empirical anchor for the asymmetry argument: cognitive skills (Critical Thinking, Reading Comprehension, Writing) dominate AI conversations while physical/managerial skills are minimal, indicating where human complementarity actually resides at scale
-- [[execution-commoditization]] — confirms which occupational tasks face execution commoditization first (software, writing, analytical work) and which currently do not (physical labor, high-barrier specialty medicine)
-- [[novice-vulnerability]] — adds population-scale evidence that task-level AI usage is heaviest in occupations where junior practitioners would be expected to develop foundational skills (software development at 37.2% of all queries; writing dominant in Directive/Task-Iteration patterns)
-- [[professional-identity-threat]] — supplies the breadth dimension to identity-threat claims: ~36% of occupations see AI usage in ≥25% of their tasks, putting a quantitative floor on which professions face identity-mediation pressures
-- [[situational-disempowerment]] — methodologically aligned (same Clio family, same Anthropic team) but turned outward at the task economy; Handa's task and occupation distributions provide the denominator against which Sharma et al.'s severity rates can be contextualized
+- [[execution-commoditization]] — describes which task categories appear frequently in this Claude sample, not measured commoditization (software, writing, analytical work) and which currently do not (physical labor, high-barrier specialty medicine)
+- [[novice-vulnerability]] — [Inference] motivates questions about junior learning in frequently represented task categories (software development at 37.2% of all queries; writing dominant in Directive/Task-Iteration patterns)
+- [[professional-identity-threat]] — supplies the breadth dimension to identity-threat claims: ~36% of occupations see AI usage in ≥25% of their tasks, raising questions about which work contexts merit study; identity effects were not measured
+- [[situational-disempowerment]] — methodologically aligned (same Clio family, same Anthropic team) but turned outward at the task economy; Handa's task and occupation distributions do not provide a shared denominator for Sharma et al.'s separate sample
 - [[performance-paradox]] — observation that Directive (full-delegation) conversations dominate writing/content-generation tasks and that Feedback-Loop conversations dominate coding/debugging gives a population view of where the paradox is most likely to operate at scale
-- [[jagged-frontier]] — empirical map of where the frontier is jagged in practice: peak usage in software/writing, drop-off in physical and high-credential specialties
+- [[jagged-frontier]] — usage map, not a direct capability test of the frontier: peak usage in software/writing, drop-off in physical and high-credential specialties
 
 ## Contradicts / Extends
 
-- Extends: Eloundou et al. (2023) — empirical follow-up to their "80% of workers, ≥10% of tasks" forecast; Handa et al. find ~57% of occupations using AI for ≥10% of tasks (lower than predicted but consistent direction)
+- Extends: Eloundou et al. (2023) — empirical follow-up to their "80% of workers, ≥10% of tasks" forecast; Handa et al. find ~57% of occupations using AI for ≥10% of tasks (not directly comparable because workers and occupations are different denominators)
 - Extends: Webb (2019) — peak-exposure prediction at 90th wage percentile is partially confirmed but with falloff at the extremes that Webb did not predict
 - Extends: [[sharma-disempowerment-patterns-2026]] — methodologically parallel (Clio at production scale) but addresses the distinct question of task economics rather than disempowerment patterns; together they form the production-data layer of the KB
 
 ## Open Questions
 
-- The 57/43 augmentation/automation split derives from conversation-level classification; the paper acknowledges users may iterate outside the chat window, which would inflate the true augmentation share. The split is a lower bound on augmentative patterns.
+- The 57/43 augmentation/automation split derives from conversation-level classification; the paper acknowledges users may iterate outside the chat window, which would inflate the true augmentation share. Unobserved editing could change the split; the classification is not a validated measure of all downstream work.
 - Sample is Claude.ai Free and Pro only — excludes Team, Enterprise, and API customers, which likely have different task profiles. Generalization to "all AI usage" is bounded.
 - Conversation classification cannot disambiguate whether the user was a professional in the mapped occupation or a layperson; the paper flags this explicitly. The "what people use AI for" finding is conflated with "what tasks AI is asked to do."
 - The paper does not measure whether AI outputs are incorporated into work product (no workflow context). Usage patterns ≠ adoption-into-work patterns.

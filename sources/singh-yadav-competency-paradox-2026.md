@@ -20,19 +20,11 @@ Book (322 pages; theoretical synthesis with case studies; Springer Future of Bus
 
 ## Key Insight
 
-Singh Yadav proposes an AI-Competence Ceiling hypothesis: AI assistance might support competent performance while limiting practice needed for later proficiency. This Dreyfus-based account is a theoretical synthesis, not a measured developmental ceiling or an established effect of AI on every knowledge worker.
+Singh Yadav proposes an AI-Competence Ceiling: assistance might support current performance while reducing practice needed for later proficiency. This is a Dreyfus-based developmental hypothesis, not a measured ceiling.
 
-Three KB-relevant constructs:
+The book distinguishes intrinsic domain expertise from extrinsic skills in directing and evaluating AI. It calls assisted performance that exceeds unaided competence an “augmentation illusion,” and proposes an AI Competency Erosion Index (ACEI). The index is not validated.
 
-1. **The augmentation illusion.** Performance capability decoupled from underlying competence. Users with AI assistance produce expert-level outputs while their unaided competence remains intermediate. The illusion is that they've "developed" — they've just leveraged. When the AI is removed (or stretches beyond its training), they perform at their actual (lower) level.
-2. **Intrinsic vs. extrinsic competencies.** Intrinsic = domain-specific expertise developed through experience (clinical judgment, strategic insight, creative problem-solving). Extrinsic = skills for leveraging AI tools (directing algorithms, interpreting outputs, integrating insights, maintaining oversight). The paradox: AI implementation tends to erode intrinsic capabilities while creating demand for extrinsic ones, but most professionals lack systematic development in extrinsic competencies. Singh Yadav cites research showing professionals strong in *both* types achieve 40–60% higher performance than those excelling in only one.
-3. **AI Competency Erosion Index (ACEI).** A proposed but not-yet-validated measurement framework for tracking competency erosion in organizations. Treated as a research initiative rather than an operational tool.
-
-The Dreyfus Model Disruption analysis is the load-bearing argument: traditional skill acquisition progresses from novice (1) → advanced beginner (2) → competent (3) → proficient (4) → expert (5). AI disproportionately amplifies stages 1-3 (where AI's general competence dominates) while *bypassing* the productive struggle stages 4-5 require. Result: organizations end up with many "competent-with-AI" workers and very few experts.
-
-The book also provides historical precedents: GPS navigation eroded taxi drivers' geographic knowledge before ride-share apps displaced taxi jobs. Calculators reduced arithmetic skill development before automated financial analysis took analyst tasks. Same pattern, larger scale.
-
-For human thinking with AI: Singh Yadav synthesizes much of the KB's individual-cognitive evidence into an organizational framework. The "augmentation illusion" is a useful packaged framing; the AI-Competence Ceiling is a memorable claim about ceiling effects in skill development. Speculative status reflects that ACEI is unvalidated and the Dreyfus-disruption claim is plausible but not directly empirically tested.
+The claim of a 40–60% performance advantage for people strong in both competency types is reproduced below as an author claim (p.23). The book's cited basis has not been independently verified and the figure should not be treated as an established estimate. Its historical and company examples are illustrative secondary accounts, not causal tests of the competence-ceiling hypothesis.
 
 ## Key Passages
 
@@ -63,19 +55,13 @@ No primary empirical data; the contribution is integrative.
 
 ## Relevance
 
-Three contributions for the KB:
-
-- **Names "augmentation illusion" cleanly.** The decoupling of performance from competence is the load-bearing concern across many KB sources. Singh Yadav gives it a packaged label that's communicable to organizational audiences.
-- **Dreyfus disruption framing.** Connects the KB's preservation argument to a well-known expertise-development model. Useful pedagogical structure: which Dreyfus stages does AI amplify, which does it bypass?
-- **Intrinsic / extrinsic distinction.** The dual-competency framing maps to the KB's existing tension: avoiding capacity erosion (intrinsic) while learning to use AI well (extrinsic). The 40–60% performance bonus for those strong in both is a useful headline number.
-
-The book's core ideas largely synthesize threads already in the KB through empirical sources. Its primary contributions are framing labels and integrative structure rather than novel empirical evidence.
+Provides an organizational framing for distinguishing assisted performance, domain expertise and AI-use skills. Its contribution is theoretical synthesis. Neither the claimed developmental ceiling nor ACEI supplies an established diagnostic threshold.
 
 ## Supports
 
 - [[performance-paradox]] — "augmentation illusion" is a broader framing of the same phenomenon
 - [[capacity-erosion]] — AI-Competence Ceiling is a Dreyfus-grounded hypothesis, not a validated explanation
-- [[novice-vulnerability]] — Dreyfus disruption analysis shows AI amplifies novice/beginner performance most
+- [[novice-vulnerability]] — Dreyfus-based hypothesis about uneven amplification across skill stages
 - [[desirable-difficulty]] — extensive treatment of how cognitive technologies bypass productive struggle
 - [[cognitive-offloading]] — identified as one of four mechanisms creating the augmentation illusion
 - [[fluency-bias]] — "fluency confusion" identified as a mechanism creating the augmentation illusion
@@ -83,8 +69,8 @@ The book's core ideas largely synthesize threads already in the KB through empir
 
 ## Contradicts / Extends
 
-- Synthesizes [[bjork-desirable-difficulties-2011]], [[ericsson-deliberate-practice-1993]], [[hatano-inagaki-adaptive-expertise-1986]] into an organizational framework. No direct conflicts with the cognitive-science underpinnings.
-- ACEI as an unvalidated measurement framework: extends the KB's interest in measurable indicators; not yet substituting for them.
+- Synthesizes [[bjork-desirable-difficulties-2011]], [[ericsson-deliberate-practice-1993]], [[hatano-inagaki-adaptive-expertise-1986]] into an organizational framework. The synthesis does not independently test those findings or their application to AI.
+- ACEI as an unvalidated measurement framework: proposes indicators; their validity remains untested.
 
 ## Open Questions
 

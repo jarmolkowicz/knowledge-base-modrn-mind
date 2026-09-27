@@ -7,32 +7,35 @@ sources:
 
 # Anchoring Bias
 
+## Evidence Limits
+
+Tversky and Kahneman's foundational account concerns adjustment from an initial value in numerical judgments. Applying it to AI-generated drafts and framings is an inference; the 1974 paper did not test AI.
+
 ## What It Is
 
-The tendency for initial information to disproportionately influence subsequent thinking. Once an anchor is set, adjustments away from it are typically insufficient.
+Judgments can remain influenced by an initial value after adjustment. In the foundational account, adjustments were often insufficient; the mere presence of initial information does not by itself establish bias.
 
 ## Why It Matters
 
-When AI provides the first response, it becomes an anchor that shapes all your subsequent thinking. Even if you "revise" AI output, your revisions orbit the AI's framing rather than originating from your own perspective.
+[Inference] An AI-generated starting point may anchor later judgments or revisions. This is an application of the anchoring concept, not an effect established for every AI interaction by the cited 1974 source.
 
 ## Key Insight
 
-AI anchoring is particularly insidious because:
-- AI responds first (you asked it)
+[Inference] Possible routes for anchoring in AI-assisted work include:
+- AI supplies the first candidate answer
 - AI's framing becomes the default structure
-- Your "edits" adjust the anchor rather than replace it
-- You lose access to the ideas you would have had without the anchor
+- Edits may adjust the initial framing rather than replace it
+- Alternative ideas may receive less attention
 
-The Think-First practice exists specifically to counter anchoring—by generating your own thinking before exposure to AI, you create YOUR anchor first.
+[[think-first]] is a proposed response: form an independent view before comparing it with AI output. Its effectiveness is not established by this source citation alone.
 
 ## Related
 
-- [[think-first]] - counters anchoring by establishing your anchor first
-- [[fluency-bias]] - AI anchors feel especially solid because they're fluent
-- [[automation-bias]] - tendency to accept AI's anchor uncritically
-- [[cognitive-offloading]] - anchoring as subtle form of offloading
+- [[think-first]] - proposed independent-first comparison; benefit is not established here
+- [[fluency-bias]] - a related concern about how easily processed information is judged
+- [[automation-bias]] - a distinct concern about reliance on automated advice
+- [[cognitive-offloading]] - delegating thinking may expose a person to an external starting point; the constructs are distinct
 
 ## Sources
 
-- Tversky & Kahneman (1974)
-
+- Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131. [DOI](https://doi.org/10.1126/science.185.4157.1124).

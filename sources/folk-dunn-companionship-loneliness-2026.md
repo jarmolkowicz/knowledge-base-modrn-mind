@@ -83,15 +83,15 @@ A 12-month, four-wave longitudinal study (N = 2,149 adults across UK / US / Cana
 
 ## Why the Two Measures Diverge
 
-The authors' own interpretation: the emotional isolation single item has high face validity for the within-person construct of "feeling lonely right now"; the 20-item social connection scale has more items (less noise) but assesses a more stable identity ("I see myself as a loner," "I am in tune with the world"), so 85–89% of its variance is between-person. The narrower measure picks up small within-person fluctuations driven by chatbot use; the broader trait-like measure does not. Reductions in stable social identity may instead trigger people to seek out AI as a behavioral compensation. Both readings are exploratory.
+The authors' own interpretation: the emotional isolation single item has high face validity for the within-person construct of "feeling lonely right now"; the 20-item social connection scale has more items (less noise) but assesses a more stable identity ("I see myself as a loner," "I am in tune with the world"), so 85–89% of its variance is between-person. The narrower measure showed small within-person associations following chatbot use; the broader trait-like measure does not. Reductions in stable social identity may instead trigger people to seek out AI as a behavioral compensation. Both readings are exploratory.
 
 ## Relevance
 
-Three load-bearing contributions:
+Three contributions:
 
 - **Adds a longitudinal observational leg to the [[ai-loneliness-effect]] evidence base.** [[fang-ai-loneliness-2025]] is a 4-week engineered RCT; [[sharma-disempowerment-patterns-2026]] is a production-data cross-section. Folk-Dunn fills the gap between these — months-scale, in-the-wild, with temporal precedence.
 - **Sharpens [[mira-model]] principle 4 (relational substitution vs. enhancement).** The bidirectional finding on the emotional-isolation measure is consistent with the substitution arm: chatbots may serve as low-cost compensation for missing human contact and, over months, displace rather than supplement it.
-- **Strengthens the friction-erosion pathway in [[social-friction]].** Folk-Dunn highlights that chatbot relationships lack reciprocal disclosure — a key ingredient of rewarding human relationships — and that initial emotional rewards may grow stale. This complements Perry's argument about social friction by adding the longitudinal substitution mechanism.
+- **Strengthens the friction-erosion pathway in [[social-friction]].** Folk-Dunn highlights that chatbot relationships lack reciprocal disclosure — a key ingredient of rewarding human relationships — and that initial emotional rewards may grow stale. This complements Perry's argument about social friction by raising a longitudinal substitution hypothesis, not measuring displacement or skill loss.
 
 ## Supports
 
@@ -99,8 +99,8 @@ Three load-bearing contributions:
 - [[fang-ai-loneliness-2025]] — complements with a longer time horizon and a real-world (rather than randomized) chatbot-exposure design; same direction of effect at the population level.
 - [[mira-model]] — empirical evidence consistent with MIRA's substitution arm in principle 4 (relational substitution vs. enhancement).
 - [[boyd-markowitz-human-connection-2026]] — already cites Folk-Dunn as part of the empirical loneliness literature MIRA frames.
-- [[social-friction]] — supports the substitution-displacement mechanism that compounds the friction-erosion pathway Perry articulates.
-- [[capacity-erosion]] — relational-skill register: time spent with always-available chatbots may displace the unpredictable human interactions through which relationship capacities develop.
+- [[social-friction]] — [Speculation] relevant to substitution and friction hypotheses; these mechanisms were not isolated.
+- [[capacity-erosion]] — [Speculation] displacement could affect relationship practice; the study did not measure relationship-skill loss.
 
 ## Contradicts / Extends
 

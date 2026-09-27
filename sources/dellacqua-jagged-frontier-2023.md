@@ -24,19 +24,19 @@ Dell'Acqua et al. ran a field experiment with 758 Boston Consulting Group consul
 
 Two findings define the paper:
 
-1. **Inside AI's capability frontier:** consultants using AI completed **12.2% more tasks**, were **25.1% faster**, and produced **40%+ higher quality** outputs than controls. Strong, robust, statistically clean.
+1. **Inside AI's capability frontier:** consultants using AI completed **12.2% more tasks**, were **25.1% faster**, and produced **40%+ higher quality** outputs than controls.
 
 2. **Outside the frontier:** consultants using AI were **19 percentage points *less likely*** to produce correct solutions than the no-AI control. AI didn't just fail to help — it actively misled consultants on tasks it couldn't reliably handle, while consultants struggled to detect that they were outside the frontier.
 
 The capability frontier is **jagged** — uneven across tasks that look similar at the surface. There's no clean rule for "this is in vs. out." Consultants couldn't identify the boundary reliably. The metacognitive demand of distinguishing in-frontier from out-of-frontier tasks is what the paper reveals as the central knowledge-worker challenge in the AI era.
 
-A second important finding: the **leveling effect**. Below-average performers gained +43% from AI; above-average performers gained +17%. AI compresses the performance distribution. Whether this is a good outcome depends on what's happening to the *capacity development* of below-average performers (whom AI is now doing the work for).
+A second important finding: the **leveling effect**. Below-average performers gained +43% from AI; above-average performers gained +17%. AI compresses the performance distribution. Whether this is a good outcome depends on what's happening to the *capacity development* of below-average performers.
 
 The paper also identifies two human-AI integration patterns:
 - **Centaurs** — divide and delegate; humans do some tasks, AI does others, with clear handoffs.
 - **Cyborgs** — fully integrate human and AI work; continuous back-and-forth interleaving.
 
-For human thinking with AI: this is the empirical anchor for both the [[jagged-frontier]] concept and the [[leveling-effect]] concept. The 19pp out-of-frontier degradation is the strongest field evidence the KB has that AI use *worsens* judgment when capability and confidence diverge — exactly the [[automation-bias]] and [[fluency-bias]] failure modes operating at organizational scale.
+For human thinking with AI: this is the empirical anchor for both the [[jagged-frontier]] concept and the [[leveling-effect]] concept. The 19pp out-of-frontier degradation is evidence of worse performance with AI on the tested out-of-frontier task — consistent with [[automation-bias]] and [[fluency-bias]] concerns, without isolating those mechanisms.
 
 ## Key Passages
 
@@ -57,25 +57,24 @@ For human thinking with AI: this is the empirical anchor for both the [[jagged-f
 
 ## Relevance
 
-The KB's strongest field-experimental evidence for both the upside and downside of AI-augmented knowledge work. Three contributions:
+Field-experimental evidence of task-dependent performance gains and losses. Three contributions:
 
-- **Quantifies the jagged frontier.** Inside it, AI is a 25–40% productivity multiplier. Outside it, AI is a 19pp accuracy hazard. Same tool, opposite effects, no clean signal of which side you're on.
+- **Quantifies the jagged frontier.** Inside it, AI increased task completion, speed and rated quality; these are different measures. Outside it, AI is a 19pp accuracy hazard. Same tool, opposite effects, no clean signal of which side you're on.
 - **Names the integration patterns.** Centaur vs. Cyborg gives practitioners a vocabulary for thinking about *how* to use AI, not just whether to. The paper finds both patterns can succeed; the failure mode is undifferentiated AI use without a strategy.
-- **Empirical foundation for the leveling effect.** Lower performers gain more in absolute terms — looks democratizing. But the long-run cost (capacity erosion in those who never had to develop the underlying skill) is what the rest of the KB documents.
+- **Empirical foundation for the leveling effect.** Lower performers gain more in absolute terms — looks democratizing. Long-term effects on independent capability were not measured.
 
 ## Supports
 
 - [[jagged-frontier]] — primary source for the construct
 - [[leveling-effect]] — quantified pattern (+43% vs +17%)
 - [[metacognitive-demand]] — the boundary-detection problem is a metacognitive demand
-- [[capacity-erosion]] — the long-run cost the leveling effect masks
-- [[automation-bias]] — out-of-frontier 19pp accuracy drop is automation bias at field-experiment scale
-- (Centaur / Cyborg integration patterns introduced here — concept candidate not yet in KB)
+- [[capacity-erosion]] — possible longer-term concern, not measured here
+- [[automation-bias]] — out-of-frontier accuracy drop is consistent with overreliance; a single mediator was not isolated
 - [[mollick-management-ai-superpower-2026]] — Mollick is a co-author here; his later equation extends this work
 
 ## Contradicts / Extends
 
-- Field counterpart of [[bo-sycophancy-novices-2026]] (lab study showing similar in/out-of-frontier effect at smaller scale).
+- Related to [[bo-sycophancy-novices-2026]], which tests sycophancy in a different task rather than the same frontier contrast.
 - Extends [[goddard-automation-bias-2012]] — Goddard documented automation bias in clinical decision support (~26% RR for following bad advice); Dell'Acqua shows the same pattern operating at 19pp accuracy degradation in consulting.
 
 ## Open Questions

@@ -33,7 +33,7 @@ Fan et al. (2025) define metacognitive laziness as "learners' dependence on AI a
 
 The authors interpret some observed copying of generated text as possible rubric-focused task completion. [Inference] Assessment design could include separate measures of unaided understanding, but the study did not test a protective assessment redesign or prove that rubric optimization caused its results.
 
-[Unverified source] The prior Lodge & Loble (2026) account of mandatory metacognitive pauses has no matching local original. It cannot establish that such pauses are a necessary or effective intervention.
+The evidence presented here does not establish that mandatory metacognitive pauses are necessary or effective.
 
 Bartoš et al. (2026) report a smaller but positive bias-adjusted learning estimate (SMD = 0.196, 95% credible interval [0.000, 0.323]; BF₁₀ = 13.3), with substantial heterogeneity. Their discussion considers offloading and engagement as possible explanations. The bias correction neither establishes a null result nor tests metacognitive laziness as a systematic cause.
 

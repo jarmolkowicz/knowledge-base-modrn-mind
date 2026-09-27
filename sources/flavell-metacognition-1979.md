@@ -32,13 +32,13 @@ Flavell's 1979 paper is the foundational naming of **metacognition** — "knowle
 
 The four interact: metacognitive experiences modify metacognitive knowledge over time; metacognitive knowledge informs strategy selection; strategies generate experiences that update knowledge.
 
-The motivating evidence: **young children systematically misjudge their own understanding**. They say they're ready when they're not. They claim they followed instructions full of obvious omissions. They confuse familiarity with comprehension. Flavell's empirical observation generalizes — adults make the same errors, just with more sophisticated content. Metacognition is an underdeveloped capability across the lifespan, and Flavell argues there's far too little of it in the world rather than too much.
+The motivating evidence: **young children systematically misjudge their own understanding**. They say they're ready when they're not. They claim they followed instructions full of obvious omissions. They confuse familiarity with comprehension. The article also raises concerns about adult monitoring; the child studies do not establish identical effects across the lifespan. Metacognition is an underdeveloped capability across the lifespan, and Flavell argues there's far too little of it in the world rather than too much.
 
 A line near the end gestures directly at AI-relevant terrain even though written four decades early:
 
 > "The monitoring problem is not to determine how well you understand what a message means but to determine how much you ought to believe it or do what it says to do."
 
-For human thinking with AI: every component of Flavell's model maps to an AI-use challenge. *Metacognitive knowledge* about AI tasks (what AI is reliable for, what it isn't) is unfamiliar terrain. *Metacognitive experiences* (the feeling that an AI output isn't quite right) are routinely overridden by surface fluency. *Strategy* questions (when to use AI vs. when to think unaided) are where methods like [[scan]] and [[strategic-alternation]] live. *Goals* — what the cognitive enterprise actually aims at — get muddled when the AI returns a plausible answer that's adjacent to but not on the goal. The KB's preservation cluster is ultimately a metacognitive intervention.
+[Inference] The components offer questions for AI-supported work; these applications were not tested in 1979. *Metacognitive knowledge* about AI tasks (what AI is reliable for, what it isn't) is unfamiliar terrain. *Metacognitive experiences* (the feeling that an AI output isn't quite right) are routinely overridden by surface fluency. *Strategy* questions (when to use AI vs. when to think unaided) are where methods like [[scan]] and [[strategic-alternation]] live. *Goals* — what the cognitive enterprise actually aims at — get muddled when the AI returns a plausible answer that's adjacent to but not on the goal. Whether particular AI-use routines improve metacognition requires direct testing.
 
 ## Key Passages
 
@@ -79,11 +79,11 @@ The foundational reference for *what metacognition is*. Three contributions for 
 
 ## Contradicts / Extends
 
-- Foundational; everything in the metacognition literature extends or refines this paper.
+- A foundational account that subsequent work extends and refines.
 - [[hu-metamemory-offloading-2019]], [[risko-gilbert-cognitive-offloading-2016]], [[tankelevitch-metacognitive-demands-2023]] all build on Flavell's monitoring/regulation framework with empirical specificity in the AI/offloading context.
 
 ## Open Questions
 
-- Flavell wrote that there was "far too little" metacognitive monitoring in the world. Decades later, has anything changed? The fluency / dual-process literature suggests metacognitive monitoring has if anything *retreated* under conditions of cognitive overload — and AI multiplies overload.
+- Flavell wrote that there was "far too little" metacognitive monitoring in the world. Decades later, has anything changed? This article does not establish historical changes in monitoring or effects of AI.
 - The four-component model treats metacognition as individual. What's the team-level or organizational equivalent? AI is changing organizational cognition; metacognition probably needs an organizational extension Flavell didn't address.
 - Can metacognition be trained adequately to keep pace with AI capability changes? Flavell was modestly optimistic about training; the open question is whether training rates can match AI deployment rates.

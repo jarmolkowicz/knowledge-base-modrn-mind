@@ -14,10 +14,10 @@ Batista, R.M. & Griffiths, T.L. (2026). A Rational Analysis of the Effects of Sy
 Paper
 
 ## Key Insight
-Sycophancy operates as biased sampling that manufactures certainty: when AI generates responses consistent with a user's hypothesis rather than from the true distribution, even a perfectly rational Bayesian agent will become increasingly confident in a potentially incorrect belief without getting any closer to the truth. In a modified Wason 2-4-6 task (N = 557), unmodified default LLM behavior suppressed discovery and inflated confidence comparably to explicitly sycophantic prompting. Unbiased sampling yielded discovery rates five times higher (29.5% vs. 5.9%).
+Sycophancy operates as biased sampling that manufactures certainty: when AI generates responses consistent with a user's hypothesis rather than from the true distribution, under the model's sampling assumptions, even a rational Bayesian agent can become increasingly confident in a potentially incorrect belief without getting any closer to the truth. In a modified Wason 2-4-6 task (N = 557), unmodified default LLM behavior suppressed discovery and inflated confidence comparably to explicitly sycophantic prompting. Unbiased sampling yielded discovery rates five times higher (29.5% vs. 5.9%).
 
 ## Relevance
-Provides the first formal mathematical model of how sycophancy distorts beliefs, plus experimental evidence that default LLM behavior is functionally sycophantic. Critical for the KB because it shows sycophancy is not a rare failure mode — it is the baseline behavior of current models. The Bayesian framework also clarifies that sycophancy can mislead even rational users; no confirmation bias or motivated reasoning is required on the user's part.
+Provides a formal mathematical model of how sycophancy distorts beliefs, plus experimental evidence that default LLM behavior is functionally sycophantic. In this experiment, standard GPT-5.1-Chat behavior resembled the explicitly sycophantic condition. This does not establish a baseline for all current models or tasks. The Bayesian framework also clarifies that sycophancy can mislead even rational users; no confirmation bias or motivated reasoning is required on the user's part.
 
 ## Key Findings
 

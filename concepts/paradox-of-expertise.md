@@ -10,7 +10,7 @@ sources:
 
 ## What It Is
 
-High-skilled workers are likely to disregard GenAI tools — citing self-perceived deep domain knowledge as evidence the tools cannot help them — and as a result fall behind colleagues who adopt and integrate GenAI into their workflows. Named by Hermann, Puntoni & Morewedge (2025).
+Hermann, Puntoni and Morewedge (2025) propose a paradox in which confidence in existing expertise can discourage learning to use GenAI, potentially limiting professional adaptation. Their Opinion article develops this account from earlier literature; it does not establish that experts generally refuse AI or inevitably fall behind.
 
 ## Why It Matters
 
@@ -20,9 +20,9 @@ This matters for organizational design (training programs cannot assume experts 
 
 ## Key Insight
 
-Three components combine to produce the paradox:
+The proposed account has three components:
 
-1. **Overestimation of own expertise.** High-skilled workers consistently overestimate their domain capability (Hermann et al. cite this as a robust finding from expertise research). Self-perception of "deep knowledge" makes external augmentation feel superfluous.
+1. **Overestimation of own expertise.** The review discusses possible overestimation of domain capability (Hermann et al. cite this as a robust finding from expertise research). Self-perception of "deep knowledge" makes external augmentation feel superfluous.
 
 2. **Misalignment between identity-defining skills and GenAI-collaboration skills.** The skills that define an expert's professional identity — domain mastery, accumulated heuristics, intuitive pattern recognition — are not the same skills required to work effectively with GenAI (prompt engineering, output evaluation, integration into workflow). Treating one's identity-defining skills as sufficient produces a category error: GenAI-collaboration is a new competence, not a substitution for old competence.
 
@@ -38,22 +38,11 @@ This complicates the paradox's senior-end framing in a useful way. The paradox d
 
 ## Relationship to Other Erosion Patterns
 
-The paradox of expertise sits in the senior-end of the skill spectrum and is the conceptual mirror of [[novice-vulnerability]]:
-
-| | Novices | Experts |
-|---|---|---|
-| Risk pattern | Over-adoption without skill formation | Under-adoption without identity update |
-| Erosion mechanism | Skill-development bypass | Professional marginalization |
-| Self-perception | Inflated competence (illusion) | Inflated competence (overestimation) |
-| Coping (Hermann et al.) | Often dissociation/escapism | Often symbolic self-completion |
-
-Both patterns share one root: misaligned self-assessment under GenAI-mediated work. Novices don't know they are not learning; experts don't know they are falling behind.
-
-[Inference] If both novices and experts are vulnerable for opposite reasons, the safest stance for an organization is to assume nobody self-calibrates accurately and to design scaffolding accordingly — neither "let novices learn from AI" nor "let experts decide for themselves" is reliable.
+[Inference] Experts may face adoption or role-change concerns while novices may need support with learning and evaluation. These are possible differences, not opposite universal pathways. The review does not establish that novices favor escapism or experts favor symbolic self-completion, or that either group necessarily misjudges its competence. Appropriate support requires the person's task, goals and work conditions.
 
 ## What It Is Not
 
-- Not [[novice-vulnerability]]. Novice-vulnerability is over-adoption that bypasses skill formation; paradox of expertise is under-adoption that bypasses skill update. The two are mirror failures.
+- Not [[novice-vulnerability]]. Novice-vulnerability is over-adoption that bypasses skill formation; paradox of expertise is under-adoption that bypasses skill update. The two concerns can overlap; their relationship is not established as a general law.
 - Not the full [[upskilling-deskilling-paradox]]. The upskilling-deskilling paradox describes the simultaneous gain and loss of skill within an individual's GenAI use; the paradox of expertise describes the choice not to use GenAI in the first place.
 - Not generic [[automation-bias]] reactance. Paradox of expertise is a specific case where the resistance is grounded in self-assessed expertise rather than in distrust of the tool.
 
@@ -63,13 +52,10 @@ Both patterns share one root: misaligned self-assessment under GenAI-mediated wo
 - [[upskilling-deskilling-paradox]] — neighbouring construct; the paradox of expertise is an additional driver of the deskilling side
 - [[professional-identity-threat]] — under-adoption is partially driven by identity-protection; the paradox is one mechanism through which identity-threat manifests
 - [[confidence-competence-gap]] — overestimation of own expertise is the calibration failure underneath the paradox
-- [[upskilling-deskilling-paradox]] — operationalizes one pathway by which the paradox plays out over time
 - [[fluency-bias]] — fluency-bias makes experts under-skeptical when they do use GenAI; paradox of expertise makes them under-use it in the first place
-- [[novice-vulnerability]] — together, the two define an asymmetric risk surface across career stages
 - [[yu-radiologists-ai-2024]] — specialist counter-evidence: even when experts do use AI, years-of-experience does not predict productive integration; sharpens the paradox as primarily about the adoption decision rather than the post-adoption outcome
 
 ## Sources
 
 - [[hermann-genai-psychology-work-2025]] — Hermann, E., Puntoni, S., & Morewedge, C. K. (2025). GenAI and the psychology of work. Trends in Cognitive Sciences.
-- [[yu-radiologists-ai-2024]] — Yu, F., Moehring, A., Banerjee, O., Salz, T., Agarwal, N., & Rajpurkar, P. (2024). Heterogeneity and predictors of the effects of AI assistance on radiologists. Nature Medicine, 30, 837–849. https://doi.org/10.1038/s41591-024-02850-w
 

@@ -31,7 +31,7 @@ The empirical paradigm Gilbert developed (numbered-circle drag task with embedde
 
 The review supports a metacognitive contribution to reminder use, alongside effort avoidance and other influences. Confidence does not fully explain reminder bias, and intervention findings vary. [Speculation] Applying this account to generative-AI [[fluency-bias]] and over-offloading requires direct testing.
 
-For human thinking with AI: this is the most rigorous review of the metacognitive control of offloading. The KB's larger argument — that AI use becomes maladaptive when metacognitive monitoring fails — has its experimental anchor in Gilbert's research program.
+For human thinking with AI: the review supplies evidence on metacognitive control of reminders. The KB's larger argument — that AI use becomes maladaptive when metacognitive monitoring fails — requires separate testing beyond Gilbert's reminder tasks.
 
 ## Key Passages
 
@@ -52,11 +52,11 @@ For human thinking with AI: this is the most rigorous review of the metacognitiv
 
 ## Relevance
 
-Three load-bearing contributions for the KB:
+Three contributions:
 
 - **Empirical anchor for the metacognition-drives-offloading claim.** Gilbert's experimental paradigms operationalize the abstract concept that "people decide to offload based on metacognitive confidence." The result is robust, replicated, and quantifiable.
-- **Trait-like stability finding.** Offloading propensity varies systematically across individuals and is stable over time. This means AI-era offloading patterns aren't temporary adjustments — they're likely durable shifts in cognitive style. KB methods like [[scan]] and [[strategic-alternation]] need to address trait-level differences, not just situational ones.
-- **Intervention space.** The review explicitly proposes that metacognitive interventions can promote adaptive offloading. This validates the KB's preservation-cluster theory of change: improve metacognitive monitoring → improve offloading decisions → adaptive AI use.
+- **Trait-like stability finding.** Offloading propensity varies systematically across individuals and is stable over time. Whether this stability transfers to AI-use patterns remains untested. KB methods like [[scan]] and [[strategic-alternation]] need to address trait-level differences, not just situational ones.
+- **Intervention space.** The review explicitly proposes that metacognitive interventions can promote adaptive offloading. This motivates testing whether metacognitive support improves AI-use decisions; the review does not validate that causal chain for GenAI.
 
 ## Supports
 
